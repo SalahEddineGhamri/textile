@@ -1,0 +1,1 @@
+# adjectives in all forms
