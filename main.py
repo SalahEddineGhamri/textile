@@ -5,5 +5,7 @@ import nouns_table
 from articles_table import articles_table, pd
 import adverbs_table
 
+import text
+
 if __name__ == "__main__":
     print(articles_table.get_df().head())

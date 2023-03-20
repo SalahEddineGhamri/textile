@@ -1,6 +1,15 @@
 # textile
 Helper to learn german
 
+# roadmap
+- input a text from a txt file
+- analyze text for what is available "article"
+- define a color scheme
+- give all article colors
+- show the text in text widget
+- make articles csv complete
+
+
 Categories
     GENDER
         masc     Masculine
