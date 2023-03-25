@@ -1,5 +1,7 @@
 # textile
-Helper to learn german
+Helper to learn sturdy german texts and extract vocabulary
+it show case grammer cases and help you remember the rules
+while reading the text
 
 # roadmap
 - input a text from a txt file
@@ -9,7 +11,15 @@ Helper to learn german
 - show the text in text widget
 - make articles csv complete
 
+# dependencies
+- pip3 install pandas
+- pip3 install spacy
+- python3 -m spacy download de_core_news_sm
+- pip3 install pandarallel
+- pretty is used to print in python
+- TUI is using Textual
 
+"""
 Categories
     GENDER
         masc     Masculine
@@ -98,3 +108,4 @@ Categories
         <refl>   Reflexive form
         <subord> Subordinate form
         <subst>  Substituierende form
+"""

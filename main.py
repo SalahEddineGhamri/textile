@@ -7,7 +7,7 @@ from file_io import File
 from text import tokenize_text
 import sys
 # TODO: manager arguments in the TUI script
-# TODO: loop through tokens and search for their type
+# TODO: find a way how to find sources for each token
 
 INPUT_PATH = "./texts/input_1.txt"
 
@@ -19,5 +19,7 @@ if __name__ == "__main__":
 
     # tokenize text using german module
     tokens = tokenize_text(text)
+
+    # How to search for a source to each token ?
 
     print(tokens)
