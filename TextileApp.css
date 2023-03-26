@@ -1,0 +1,33 @@
+#main {
+  layout: horizontal;
+  height: 100%;
+}
+
+#buttons {
+    layout: horizontal;
+    height: 10%;
+}
+
+#text {
+    height: 90%;
+    width: 100%;
+}
+
+#text_buttons_container {
+    layout: vertical;
+    height: 100%;
+    width: 50%;
+}
+
+#analysis {
+    height: 100%;
+    width: 50%;
+}
+
+Button {
+  width: 2;
+  margin: 0 1;
+  color: black;
+  background: yellowgreen;
+  opacity: 70%;
+}

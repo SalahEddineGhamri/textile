@@ -1,3 +1,8 @@
+"""
+Manages the file open and close
+"""
+
+
 class File:
     """
     wrapper of file
@@ -5,6 +10,7 @@ class File:
     _file_path = ""
     _data = ""
     _mode = ""
+    _file = None
 
     def __init__(self, file_path, mode):
         self._file_path = file_path
@@ -15,12 +21,12 @@ class File:
 
     def __enter__(self):
         try:
-            file = open(self._file_path, self._mode)
-            self._data = file.read()
+            self._file = open(self._file_path, self._mode)
+            self._data = self._file.read()
         except FileNotFoundError:
             print("input file not found. Provide a correct path")
         return self
 
     def __exit__(self, exc_type, exc_value, traceback):
-        #print(exc_type, exc_value, traceback)
-        pass
+        # print(exc_type, exc_value, traceback)
+        self._file.close()
