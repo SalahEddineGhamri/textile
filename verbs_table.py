@@ -4,6 +4,7 @@
 import warnings
 import pandas as pd
 from config import VERBS_CACHE_FILE
+from verb_conjugation_scapper import scrapp_for_verb
 
 # TODO: investigate the performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
@@ -23,7 +24,6 @@ class VerbsCache(pd.DataFrame):
               "Pluperfect",
               "Future",
               "FuturePerfect",
-              "Imperfect",
               "InfinitiveI",
               "InfinitiveII",
               "ParticipleI",
@@ -40,7 +40,11 @@ class VerbsCache(pd.DataFrame):
                                          index_col=['voice', 'tense']))
 
     def get_verb(self, verb, voice, tense):
-        return self[verb][voice][tense]
+        verb_df = self[verb]
+        if verb_df is not None:
+            return verb_df[voice][tense]
+        else:
+            return None
 
     def add_verb(self, verb, voice, tense, value):
         if verb in self.columns:
@@ -71,33 +75,16 @@ class VerbsCache(pd.DataFrame):
         try:
             return super().__getitem__(key)
         except KeyError:
-            # start scapping for the verb
-            pass
+            print("scrapping for verb ...")
+            new_verb = scrapp_for_verb(key)
+            self[key] = pd.Series(index=self.index, dtype='object')
+            for (voice, tense), values in new_verb.items():
+                if values[key] is not None:
+                    self.loc[(voice, tense), key] = values[key]
+            return self[key]
 
 
 if __name__ == "__main__":
-
     verb_cache = VerbsCache()
-
-    verb_cache.add_verb('run',
-                        'indicative_active',
-                        'Present',
-                        'I am present table')
-
-    print(verb_cache.get_verb('run', 'indicative_active', 'Present'))
-
-    verb_cache.add_verb('run',
-                        'indicative_active',
-                        'Future',
-                        'I am future table')
-
-    print(verb_cache.get_verb('run', 'indicative_active', 'Future'))
-
-    verb_cache.add_verb('go',
-                        'indicative_active',
-                        'Present',
-                        'I am present table')
-
-    print(verb_cache.get_verb('go', 'indicative_active', 'Present'))
-
+    print(verb_cache['gehen'])
     verb_cache.cache()

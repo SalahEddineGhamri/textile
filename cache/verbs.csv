@@ -1,56 +1,371 @@
-voice,tense,run,go
-indicative_active,Present,I am present table,I am present table
-indicative_active,Imperfect,,
-indicative_active,Perfect,,
-indicative_active,Pluperfect,,
-indicative_active,Future,I am future table,
-indicative_active,FuturePerfect,,
-indicative_active,Imperfect,,
-indicative_active,InfinitiveI,,
-indicative_active,InfinitiveII,,
-indicative_active,ParticipleI,,
-indicative_active,ParticipleII,,
-subjunctive_active,Present,,
-subjunctive_active,Imperfect,,
-subjunctive_active,Perfect,,
-subjunctive_active,Pluperfect,,
-subjunctive_active,Future,,
-subjunctive_active,FuturePerfect,,
-subjunctive_active,Imperfect,,
-subjunctive_active,InfinitiveI,,
-subjunctive_active,InfinitiveII,,
-subjunctive_active,ParticipleI,,
-subjunctive_active,ParticipleII,,
-conditional_active,Present,,
-conditional_active,Imperfect,,
-conditional_active,Perfect,,
-conditional_active,Pluperfect,,
-conditional_active,Future,,
-conditional_active,FuturePerfect,,
-conditional_active,Imperfect,,
-conditional_active,InfinitiveI,,
-conditional_active,InfinitiveII,,
-conditional_active,ParticipleI,,
-conditional_active,ParticipleII,,
-imperative_active,Present,,
-imperative_active,Imperfect,,
-imperative_active,Perfect,,
-imperative_active,Pluperfect,,
-imperative_active,Future,,
-imperative_active,FuturePerfect,,
-imperative_active,Imperfect,,
-imperative_active,InfinitiveI,,
-imperative_active,InfinitiveII,,
-imperative_active,ParticipleI,,
-imperative_active,ParticipleII,,
-infinitive_participle_active,Present,,
-infinitive_participle_active,Imperfect,,
-infinitive_participle_active,Perfect,,
-infinitive_participle_active,Pluperfect,,
-infinitive_participle_active,Future,,
-infinitive_participle_active,FuturePerfect,,
-infinitive_participle_active,Imperfect,,
-infinitive_participle_active,InfinitiveI,,
-infinitive_participle_active,InfinitiveII,,
-infinitive_participle_active,ParticipleI,,
-infinitive_participle_active,ParticipleII,,
+voice,tense,geben,gehen
+indicative_active,Present," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich geh(e)
+ du gehst
+ er geht
+ wir geh(e)n
+ ihr geht
+ sie geh(e)n"
+indicative_active,Imperfect," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich ging
+ du gingst
+ er ging
+ wir gingen
+ ihr gingt
+ sie gingen"
+indicative_active,Perfect," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin gegangen
+ du bist gegangen
+ er ist gegangen
+ wir sind gegangen
+ ihr seid gegangen
+ sie sind gegangen"
+indicative_active,Pluperfect," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war gegangen
+ du warst gegangen
+ er war gegangen
+ wir waren gegangen
+ ihr wart gegangen
+ sie waren gegangen"
+indicative_active,Future," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde geh(e)n
+ du wirst geh(e)n
+ er wird geh(e)n
+ wir werden geh(e)n
+ ihr werdet geh(e)n
+ sie werden geh(e)n"
+indicative_active,FuturePerfect," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde gegangen sein
+ du wirst gegangen sein
+ er wird gegangen sein
+ wir werden gegangen sein
+ ihr werdet gegangen sein
+ sie werden gegangen sein"
+indicative_active,InfinitiveI," geben
+ zu geben"," geh(e)n
+ zu geh(e)n"
+indicative_active,InfinitiveII," gegeben haben
+ gegeben zu haben"," gegangen sein
+ gegangen zu sein"
+indicative_active,ParticipleI, gebend, gehend
+indicative_active,ParticipleII, gegeben, gegangen
+subjunctive_active,Present," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich geh(e)
+ du gehst
+ er geht
+ wir geh(e)n
+ ihr geht
+ sie geh(e)n"
+subjunctive_active,Imperfect," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich ging
+ du gingst
+ er ging
+ wir gingen
+ ihr gingt
+ sie gingen"
+subjunctive_active,Perfect," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin gegangen
+ du bist gegangen
+ er ist gegangen
+ wir sind gegangen
+ ihr seid gegangen
+ sie sind gegangen"
+subjunctive_active,Pluperfect," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war gegangen
+ du warst gegangen
+ er war gegangen
+ wir waren gegangen
+ ihr wart gegangen
+ sie waren gegangen"
+subjunctive_active,Future," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde geh(e)n
+ du wirst geh(e)n
+ er wird geh(e)n
+ wir werden geh(e)n
+ ihr werdet geh(e)n
+ sie werden geh(e)n"
+subjunctive_active,FuturePerfect," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde gegangen sein
+ du wirst gegangen sein
+ er wird gegangen sein
+ wir werden gegangen sein
+ ihr werdet gegangen sein
+ sie werden gegangen sein"
+subjunctive_active,InfinitiveI," geben
+ zu geben"," geh(e)n
+ zu geh(e)n"
+subjunctive_active,InfinitiveII," gegeben haben
+ gegeben zu haben"," gegangen sein
+ gegangen zu sein"
+subjunctive_active,ParticipleI, gebend, gehend
+subjunctive_active,ParticipleII, gegeben, gegangen
+conditional_active,Present," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich geh(e)
+ du gehst
+ er geht
+ wir geh(e)n
+ ihr geht
+ sie geh(e)n"
+conditional_active,Imperfect," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich ging
+ du gingst
+ er ging
+ wir gingen
+ ihr gingt
+ sie gingen"
+conditional_active,Perfect," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin gegangen
+ du bist gegangen
+ er ist gegangen
+ wir sind gegangen
+ ihr seid gegangen
+ sie sind gegangen"
+conditional_active,Pluperfect," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war gegangen
+ du warst gegangen
+ er war gegangen
+ wir waren gegangen
+ ihr wart gegangen
+ sie waren gegangen"
+conditional_active,Future," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde geh(e)n
+ du wirst geh(e)n
+ er wird geh(e)n
+ wir werden geh(e)n
+ ihr werdet geh(e)n
+ sie werden geh(e)n"
+conditional_active,FuturePerfect," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde gegangen sein
+ du wirst gegangen sein
+ er wird gegangen sein
+ wir werden gegangen sein
+ ihr werdet gegangen sein
+ sie werden gegangen sein"
+conditional_active,InfinitiveI," geben
+ zu geben"," geh(e)n
+ zu geh(e)n"
+conditional_active,InfinitiveII," gegeben haben
+ gegeben zu haben"," gegangen sein
+ gegangen zu sein"
+conditional_active,ParticipleI, gebend, gehend
+conditional_active,ParticipleII, gegeben, gegangen
+imperative_active,Present," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich geh(e)
+ du gehst
+ er geht
+ wir geh(e)n
+ ihr geht
+ sie geh(e)n"
+imperative_active,Imperfect," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich ging
+ du gingst
+ er ging
+ wir gingen
+ ihr gingt
+ sie gingen"
+imperative_active,Perfect," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin gegangen
+ du bist gegangen
+ er ist gegangen
+ wir sind gegangen
+ ihr seid gegangen
+ sie sind gegangen"
+imperative_active,Pluperfect," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war gegangen
+ du warst gegangen
+ er war gegangen
+ wir waren gegangen
+ ihr wart gegangen
+ sie waren gegangen"
+imperative_active,Future," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde geh(e)n
+ du wirst geh(e)n
+ er wird geh(e)n
+ wir werden geh(e)n
+ ihr werdet geh(e)n
+ sie werden geh(e)n"
+imperative_active,FuturePerfect," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde gegangen sein
+ du wirst gegangen sein
+ er wird gegangen sein
+ wir werden gegangen sein
+ ihr werdet gegangen sein
+ sie werden gegangen sein"
+imperative_active,InfinitiveI," geben
+ zu geben"," geh(e)n
+ zu geh(e)n"
+imperative_active,InfinitiveII," gegeben haben
+ gegeben zu haben"," gegangen sein
+ gegangen zu sein"
+imperative_active,ParticipleI, gebend, gehend
+imperative_active,ParticipleII, gegeben, gegangen
+infinitive_participle_active,Present," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich geh(e)
+ du gehst
+ er geht
+ wir geh(e)n
+ ihr geht
+ sie geh(e)n"
+infinitive_participle_active,Imperfect," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich ging
+ du gingst
+ er ging
+ wir gingen
+ ihr gingt
+ sie gingen"
+infinitive_participle_active,Perfect," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin gegangen
+ du bist gegangen
+ er ist gegangen
+ wir sind gegangen
+ ihr seid gegangen
+ sie sind gegangen"
+infinitive_participle_active,Pluperfect," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war gegangen
+ du warst gegangen
+ er war gegangen
+ wir waren gegangen
+ ihr wart gegangen
+ sie waren gegangen"
+infinitive_participle_active,Future," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde geh(e)n
+ du wirst geh(e)n
+ er wird geh(e)n
+ wir werden geh(e)n
+ ihr werdet geh(e)n
+ sie werden geh(e)n"
+infinitive_participle_active,FuturePerfect," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde gegangen sein
+ du wirst gegangen sein
+ er wird gegangen sein
+ wir werden gegangen sein
+ ihr werdet gegangen sein
+ sie werden gegangen sein"
+infinitive_participle_active,InfinitiveI," geben
+ zu geben"," geh(e)n
+ zu geh(e)n"
+infinitive_participle_active,InfinitiveII," gegeben haben
+ gegeben zu haben"," gegangen sein
+ gegangen zu sein"
+infinitive_participle_active,ParticipleI, gebend, gehend
+infinitive_participle_active,ParticipleII, gegeben, gegangen
