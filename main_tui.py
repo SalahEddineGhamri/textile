@@ -1,6 +1,8 @@
+# representation layer --------------------------------
+# A TUI is the workspace of the user
 from textual.app import App, ComposeResult
 from textual.widgets import TextLog
-from textual.widgets import Button, Static
+from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
 from main_textile import get_colorized_dataframe
@@ -10,6 +12,7 @@ from text import generate_rich_text
 TEXT = generate_rich_text(get_colorized_dataframe(), 90)
 
 # PROGRESS in Tui------------------------------------
+# TODO: adopt the event driven architecture
 # TODO: manager arguments in the TUI script
 # TODO: add buttons functionality
 # TODO: select the word and show its analysis
