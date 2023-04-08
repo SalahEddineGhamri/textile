@@ -1,28 +1,41 @@
 # representation layer --------------------------------
-# A TUI is the workspace of the user
 from textual.app import App, ComposeResult
 from textual.widgets import TextLog
 from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
-from main_textile import get_colorized_dataframe
-from text import generate_rich_text
-
-
-TEXT = generate_rich_text(get_colorized_dataframe(), 90)
+from text import generate_rich_text, get_colorized_dataframe
 
 # PROGRESS in Tui------------------------------------
-# TODO: adopt the event driven architecture
+# TODO: change the scheme of the text based on the button
 # TODO: manager arguments in the TUI script
 # TODO: add buttons functionality
 # TODO: select the word and show its analysis
 # ---------------------------------------------------
 
+# routines definiton when button is presed
+# mainly change color scheme and update message
+def call_nouns():
+    TextileApp.set_text(generate_rich_text(get_colorized_dataframe("NOUN"), 110))
+
+
+def call_verbs():
+    TextileApp.set_text(generate_rich_text(get_colorized_dataframe("VERB"), 110))
+
+
+# dict of all button actions
+button_action = {'Nouns': call_nouns,
+                 'Verbs': call_verbs,
+                 'Adjectives': lambda: None,
+                 'Adverbs': lambda: None,
+                 'Conjunctions': lambda: None,
+                 'Prepositions': lambda: None}
+
 
 class Butt(Button):
     def on_button_pressed(self, event: Button.Pressed) -> None:
-        # TODO: change the behavior based on the label
-        TextileApp.message = f"{self.label} pressed"
+        TextileApp.set_message(f"{self.label} pressed")
+        button_action[str(self.label)]()
 
 
 class TextileApp(App):
@@ -31,6 +44,7 @@ class TextileApp(App):
     CSS_PATH = "TextileApp.css"
     BINDINGS = bindings
     message = ""
+    text = generate_rich_text(get_colorized_dataframe(), 110)
 
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
@@ -54,14 +68,26 @@ class TextileApp(App):
         """Called  when the DOM is ready."""
         self.text_log = self.query_one("#text")
         self.analysis_log = self.query_one("#analysis")
-        self.text_log.write(TEXT)
+        # write a colorful text
+        self.text_log.write(self.text)
 
     def action_toggle_dark(self) -> None:
         """An action to toggle dark mode."""
         self.dark = not self.dark
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
+        self.text_log.clear()
+        self.analysis_log.clear()
+        self.text_log.write(TextileApp.text)
         self.analysis_log.write(TextileApp.message)
+
+    @staticmethod
+    def set_message(message):
+        TextileApp.message = message
+
+    @staticmethod
+    def set_text(text: str) -> None:
+        TextileApp.text = text
 
 
 if __name__ == "__main__":
