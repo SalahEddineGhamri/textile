@@ -1,6 +1,6 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd
-basic_forms,english,,,,,,,,,
-basic_forms,german,,,,,,,,,
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche
+basic_forms,english,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,
 verbs,english,,,,,,,,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -28,6 +28,15 @@ to swap horses
 to spur a horse
 to snaffle a horse
 to canter a horse [SPORT.]
+","to arrange flowers
+to classify flowers [BOT.]
+","to hit the bottle [coll.]
+to bottle | bottled, bottled |
+to bottle sth. | bottled, bottled |
+to bottle sth. | bottled, bottled |
+to bottle-feed a baby
+to bottle-feed a baby
+to hand-feed an animal
 "
 verbs,german,,,,,,,,"Auto fahren
 ein Auto anschieben
@@ -56,6 +65,15 @@ Pferde tauschen
 einem Pferd die Sporen geben
 einem Pferd die Trense anlegen
 ein Pferd in Handgalopp gehen lassen [Equestrian Sports]
+","die Blumen anordnen
+Blumen bestimmen
+","zur Flasche greifen
+auf Flaschen ziehen
+etw.acc. in Flaschen füllen
+etw.acc. in Flaschen abfüllen
+ein Baby mit der Flasche füttern
+ein Baby mit der Flasche ernähren
+ein Tier mit der Flasche aufziehen
 "
 nouns,english,,,,,,,,"car
 auto (Amer.)
@@ -85,6 +103,34 @@ Altai horse [ZOOL.]
 Przewalski's horse [ZOOL.]
 crevalle jack [ZOOL.]
 sea kingfish [ZOOL.]
+","flower
+spue
+head - of a glass of beer
+scut
+boutonniere or: boutonnière (Amer.)
+buttonhole (Brit.)
+annual flower
+blooming flower [BOT.]
+floret [BOT.]
+kangaroo paw [BOT.]
+meadow foam [BOT.]
+poached egg plant [BOT.]
+manna ash [BOT.]
+flowering ash [BOT.]
+","bottle
+flask
+flagon
+tab
+twerp or: twirp [coll.]
+cylinder [TECH.]
+bracket [TECH.]
+pulley [TECH.]
+pulley case [TECH.]
+pulley cheek [TECH.]
+pulley frame [TECH.]
+pulley shell [TECH.]
+palooka - an athlete, esp. a boxer, lacking in ability, experience, or competitive spirit [sl.] [SPORT.]
+empty tank - diving
 "
 nouns,german,,,,,,,,"das Auto pl.: die Autos
 das Auto pl.: die Autos
@@ -114,6 +160,34 @@ das Altai-Pferd
 das Przewalskipferd or: Przewalski-Pferd Lat.: Equus ferus przewalskii
 die Pferde-Stachelmakrele Lat.: Caranx hippos
 die Pferde-Stachelmakrele Lat.: Caranx hippos
+","die Blume pl.: die Blumen
+die Blume pl.: die Blumen
+die Blume pl.: die Blumen - Bierschaum
+die Blume pl.: die Blumen technical usage - Jägersprache: Schwanz eines Hasen od. Kaninchens
+Blume im Knopfloch
+Blume im Knopfloch
+einjährige Blume
+blühende Blume
+kleine Blume
+die Kängurublume or: Känguru-Blume pl. Lat.: Anigozanthos (Gattung)
+die Spiegeleiblume or: Spiegelei-Blume pl. Lat.: Limnanthes douglasii
+die Spiegeleiblume or: Spiegelei-Blume pl. Lat.: Limnanthes douglasii
+die Blumen-Esche pl. Lat.: Fraxinus ornus
+die Blumen-Esche pl. Lat.: Fraxinus ornus
+","die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen [coll.] [fig.]
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen
+die Flasche pl.: die Flaschen [sl.]
+leere Flasche - Tauchen
 "
 noun_details,english,,,,,,,,"article: das
 word: Auto
@@ -123,14 +197,26 @@ plural: die Autos
 word: Pferd
 genus: NEUT
 plural: die Pferde
+","article: die
+word: Blume
+genus: FEMI
+plural: die Blumen
+","article: die
+word: Flasche
+genus: FEMI
+plural: die Flaschen
 "
-noun_details,german,,,,,,,,,
+noun_details,german,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,,,,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
 equine adj.
 on horseback
 mounted adj.
+","floral adj.
+flower-decked adj.
+","bottled adj.
+bottle-imported adj.
 "
 adjectives_or_adverbs,german,,,,,,,,"autoerotisch
 automatisch unterstützt
@@ -138,6 +224,10 @@ automatisch unterstützt
 Pferde...
 zu Pferde
 zu Pferde
+","Blumen...
+mit Blumen bedeckt
+","in Flaschen abgefüllt
+in Flaschen importiert
 "
 phrases_or_collocations,english,,,,,,,,,"to put the cart before the horse
 to put the cart before the horse
@@ -152,6 +242,14 @@ Hold your horses!
 Hold your horses!
 Keep your pants on. [coll.]
 Keep your shirt on. [coll.]
+","to say sth. in a roundabout way
+Say it with flowers.
+Say it with flowers.
+a flowery meadow
+April showers bring May flowers.
+","a bottle of juice/wine/beer
+half a bottle
+new wine in old bottles
 "
 phrases_or_collocations,german,,,,,,,,,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
@@ -166,6 +264,14 @@ Immer sachte mit den jungen Pferden!
 Immer langsam mit den jungen Pferden!
 Mach die Pferde nicht scheu. [coll.]
 Mach die Pferde nicht scheu. [coll.]
+","etw.acc. durch die Blume sagen [fig.]
+Lass Blumen sprechen.
+Lasst Blumen sprechen.
+eine Wiese voller Blumen
+Der April macht die Blumen und der Mai hat den Dank dafür.
+","eine Flasche Saft/Wein/Bier
+eine halbe Flasche
+neuer Wein in alten Flaschen
 "
 examples,english,,,,,,,,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
@@ -182,7 +288,9 @@ What car do they drive?
 We all packed into the car.
 That's a beautiful car. Don't tell me it's yours!
 ","Whose horse won the race?
-"
+","Who did you buy these flowers for?
+How often do the plants need watering?
+",
 examples,german,,,,,,,,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
 Das Auto fuhr rückwärts in die Garage.
@@ -198,4 +306,6 @@ Was für ein Auto fahren sie?
 Wir quetschten uns alle in das Auto.
 Das ist ein wunderschönes Auto. Sag bloß, das ist deins!
 ","Wessen Pferd hat das Rennen gewonnen?
-"
+","Für wen hast du diese Blumen gekauft?
+Wie oft müssen die Blumen gegossen werden?
+",

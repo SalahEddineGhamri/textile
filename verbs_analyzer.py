@@ -1,6 +1,9 @@
 # verb_analyzer.py
 from event_layer import Event
 from event_layer import EventHandler
+from verbs_table import VerbsCache
+
+verb_cache = VerbsCache()
 
 
 class VerbAnalyzer:
@@ -23,11 +26,12 @@ def on_verb_found(data):
     # call verbs conjugator if not in the cache
     # write verb to the cache
     print(f'Found verb: {data["verb"]}')
+    verb_cache[data["verb"]]
 
 
 def on_verb_called(data):
     # return verb conjugation
-    conjugation = ""
+    conjugation = verb_cache[data["verb"]]
     print(f'Conjugation for verb {data["verb"]}: {conjugation}')
 
 
