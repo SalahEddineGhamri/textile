@@ -1,12 +1,10 @@
 # contains a cache for verbs
-# functions to be implemented:
-# 2. save every missing verb
 import warnings
 import pandas as pd
 from config import VERBS_CACHE_FILE
 from verb_conjugation_scapper import scrapp_for_verb
 
-# TODO: investigate the performance issues later on
+# TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
 

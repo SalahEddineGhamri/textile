@@ -7,6 +7,4 @@ ARTICLES_CACHE_FILE = Path('cache/verbs.csv')
 
 # Create the directory if not found
 VERBS_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
-
-# verbs conjugation website
-verbs_url = 'https://www.verbformen.com/conjugation/?w='
+NOUNS_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)

@@ -1,8 +1,6 @@
 # verb_analyzer.py
-
 from event_layer import Event
 from event_layer import EventHandler
-# import verbs_table
 
 
 class VerbAnalyzer:
