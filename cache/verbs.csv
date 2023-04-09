@@ -1,4 +1,4 @@
-voice,tense,geben,gehen
+voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon
 indicative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -9,7 +9,47 @@ indicative_active,Present," ich geb(e)
  er geht
  wir geh(e)n
  ihr geht
- sie geh(e)n"
+ sie geh(e)n",," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben"," ich podcast(e)
+ du podcastest
+ er podcastet
+ wir podcasten
+ ihr podcastet
+ sie podcasten",,,,,,,,,,,,,,,," ich schnupf(e)
+ du schnupfst
+ er schnupft
+ wir schnupfen
+ ihr schnupft
+ sie schnupfen"," ich hust(e)
+ du hustest
+ er hustet
+ wir husten
+ ihr hustet
+ sie husten",,,,,,,,," ich schmerz(e)
+ du schmerzt
+ er schmerzt
+ wir schmerzen
+ ihr schmerzt
+ sie schmerzen",,,,,,,,," ich ess(e)
+ du isst
+ er isst
+ wir essen
+ ihr esst
+ sie essen",,,,," ich bleib(e)
+ du bleibst
+ er bleibt
+ wir bleiben
+ ihr bleibt
+ sie bleiben",,,,,,,,,,," ich jähr(e)
+ du jährst
+ er jährt
+ wir jähren
+ ihr jährt
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -20,7 +60,47 @@ indicative_active,Imperfect," ich gab
  er ging
  wir gingen
  ihr gingt
- sie gingen"
+ sie gingen",," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten"," ich podcastete
+ du podcastetest
+ er podcastete
+ wir podcasteten
+ ihr podcastetet
+ sie podcasteten",,,,,,,,,,,,,,,," ich schnupfte
+ du schnupftest
+ er schnupfte
+ wir schnupften
+ ihr schnupftet
+ sie schnupften"," ich hustete
+ du hustetest
+ er hustete
+ wir husteten
+ ihr hustetet
+ sie husteten",,,,,,,,," ich schmerzte
+ du schmerztest
+ er schmerzte
+ wir schmerzten
+ ihr schmerztet
+ sie schmerzten",,,,,,,,," ich aß
+ du aß(es)t
+ er aß
+ wir aßen
+ ihr aß(e)t
+ sie aßen",,,,," ich blieb
+ du bliebst
+ er blieb
+ wir blieben
+ ihr bliebt
+ sie blieben",,,,,,,,,,," ich jährte
+ du jährtest
+ er jährte
+ wir jährten
+ ihr jährtet
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -31,7 +111,47 @@ indicative_active,Perfect," ich habe gegeben
  er ist gegangen
  wir sind gegangen
  ihr seid gegangen
- sie sind gegangen"
+ sie sind gegangen",," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt"," ich habe gepodcastet
+ du hast gepodcastet
+ er hat gepodcastet
+ wir haben gepodcastet
+ ihr habt gepodcastet
+ sie haben gepodcastet",,,,,,,,,,,,,,,," ich habe geschnupft
+ du hast geschnupft
+ er hat geschnupft
+ wir haben geschnupft
+ ihr habt geschnupft
+ sie haben geschnupft"," ich habe gehustet
+ du hast gehustet
+ er hat gehustet
+ wir haben gehustet
+ ihr habt gehustet
+ sie haben gehustet",,,,,,,,," ich habe geschmerzt
+ du hast geschmerzt
+ er hat geschmerzt
+ wir haben geschmerzt
+ ihr habt geschmerzt
+ sie haben geschmerzt",,,,,,,,," ich habe gegessen
+ du hast gegessen
+ er hat gegessen
+ wir haben gegessen
+ ihr habt gegessen
+ sie haben gegessen",,,,," ich bin geblieben
+ du bist geblieben
+ er ist geblieben
+ wir sind geblieben
+ ihr seid geblieben
+ sie sind geblieben",,,,,,,,,,," ich habe gejährt
+ du hast gejährt
+ er hat gejährt
+ wir haben gejährt
+ ihr habt gejährt
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -42,7 +162,47 @@ indicative_active,Pluperfect," ich hatte gegeben
  er war gegangen
  wir waren gegangen
  ihr wart gegangen
- sie waren gegangen"
+ sie waren gegangen",," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt"," ich hatte gepodcastet
+ du hattest gepodcastet
+ er hatte gepodcastet
+ wir hatten gepodcastet
+ ihr hattet gepodcastet
+ sie hatten gepodcastet",,,,,,,,,,,,,,,," ich hatte geschnupft
+ du hattest geschnupft
+ er hatte geschnupft
+ wir hatten geschnupft
+ ihr hattet geschnupft
+ sie hatten geschnupft"," ich hatte gehustet
+ du hattest gehustet
+ er hatte gehustet
+ wir hatten gehustet
+ ihr hattet gehustet
+ sie hatten gehustet",,,,,,,,," ich hatte geschmerzt
+ du hattest geschmerzt
+ er hatte geschmerzt
+ wir hatten geschmerzt
+ ihr hattet geschmerzt
+ sie hatten geschmerzt",,,,,,,,," ich hatte gegessen
+ du hattest gegessen
+ er hatte gegessen
+ wir hatten gegessen
+ ihr hattet gegessen
+ sie hatten gegessen",,,,," ich war geblieben
+ du warst geblieben
+ er war geblieben
+ wir waren geblieben
+ ihr wart geblieben
+ sie waren geblieben",,,,,,,,,,," ich hatte gejährt
+ du hattest gejährt
+ er hatte gejährt
+ wir hatten gejährt
+ ihr hattet gejährt
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -53,7 +213,47 @@ indicative_active,Future," ich werde geben
  er wird geh(e)n
  wir werden geh(e)n
  ihr werdet geh(e)n
- sie werden geh(e)n"
+ sie werden geh(e)n",," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben"," ich werde podcasten
+ du wirst podcasten
+ er wird podcasten
+ wir werden podcasten
+ ihr werdet podcasten
+ sie werden podcasten",,,,,,,,,,,,,,,," ich werde schnupfen
+ du wirst schnupfen
+ er wird schnupfen
+ wir werden schnupfen
+ ihr werdet schnupfen
+ sie werden schnupfen"," ich werde husten
+ du wirst husten
+ er wird husten
+ wir werden husten
+ ihr werdet husten
+ sie werden husten",,,,,,,,," ich werde schmerzen
+ du wirst schmerzen
+ er wird schmerzen
+ wir werden schmerzen
+ ihr werdet schmerzen
+ sie werden schmerzen",,,,,,,,," ich werde essen
+ du wirst essen
+ er wird essen
+ wir werden essen
+ ihr werdet essen
+ sie werden essen",,,,," ich werde bleiben
+ du wirst bleiben
+ er wird bleiben
+ wir werden bleiben
+ ihr werdet bleiben
+ sie werden bleiben",,,,,,,,,,," ich werde jähren
+ du wirst jähren
+ er wird jähren
+ wir werden jähren
+ ihr werdet jähren
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -64,15 +264,71 @@ indicative_active,FuturePerfect," ich werde gegeben haben
  er wird gegangen sein
  wir werden gegangen sein
  ihr werdet gegangen sein
- sie werden gegangen sein"
+ sie werden gegangen sein",," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben"," ich werde gepodcastet haben
+ du wirst gepodcastet haben
+ er wird gepodcastet haben
+ wir werden gepodcastet haben
+ ihr werdet gepodcastet haben
+ sie werden gepodcastet haben",,,,,,,,,,,,,,,," ich werde geschnupft haben
+ du wirst geschnupft haben
+ er wird geschnupft haben
+ wir werden geschnupft haben
+ ihr werdet geschnupft haben
+ sie werden geschnupft haben"," ich werde gehustet haben
+ du wirst gehustet haben
+ er wird gehustet haben
+ wir werden gehustet haben
+ ihr werdet gehustet haben
+ sie werden gehustet haben",,,,,,,,," ich werde geschmerzt haben
+ du wirst geschmerzt haben
+ er wird geschmerzt haben
+ wir werden geschmerzt haben
+ ihr werdet geschmerzt haben
+ sie werden geschmerzt haben",,,,,,,,," ich werde gegessen haben
+ du wirst gegessen haben
+ er wird gegessen haben
+ wir werden gegessen haben
+ ihr werdet gegessen haben
+ sie werden gegessen haben",,,,," ich werde geblieben sein
+ du wirst geblieben sein
+ er wird geblieben sein
+ wir werden geblieben sein
+ ihr werdet geblieben sein
+ sie werden geblieben sein",,,,,,,,,,," ich werde gejährt haben
+ du wirst gejährt haben
+ er wird gejährt haben
+ wir werden gejährt haben
+ ihr werdet gejährt haben
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,InfinitiveI," geben
  zu geben"," geh(e)n
- zu geh(e)n"
+ zu geh(e)n",," leben
+ zu leben"," podcasten
+ zu podcasten",,,,,,,,,,,,,,,," schnupfen
+ zu schnupfen"," husten
+ zu husten",,,,,,,,," schmerzen
+ zu schmerzen",,,,,,,,," essen
+ zu essen",,,,," bleiben
+ zu bleiben",,,,,,,,,,," jähren
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
- gegangen zu sein"
-indicative_active,ParticipleI, gebend, gehend
-indicative_active,ParticipleII, gegeben, gegangen
+ gegangen zu sein",," gelebt haben
+ gelebt zu haben"," gepodcastet haben
+ gepodcastet zu haben",,,,,,,,,,,,,,,," geschnupft haben
+ geschnupft zu haben"," gehustet haben
+ gehustet zu haben",,,,,,,,," geschmerzt haben
+ geschmerzt zu haben",,,,,,,,," gegessen haben
+ gegessen zu haben",,,,," geblieben sein
+ geblieben zu sein",,,,,,,,,,," gejährt haben
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -83,7 +339,47 @@ subjunctive_active,Present," ich geb(e)
  er geht
  wir geh(e)n
  ihr geht
- sie geh(e)n"
+ sie geh(e)n",," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben"," ich podcast(e)
+ du podcastest
+ er podcastet
+ wir podcasten
+ ihr podcastet
+ sie podcasten",,,,,,,,,,,,,,,," ich schnupf(e)
+ du schnupfst
+ er schnupft
+ wir schnupfen
+ ihr schnupft
+ sie schnupfen"," ich hust(e)
+ du hustest
+ er hustet
+ wir husten
+ ihr hustet
+ sie husten",,,,,,,,," ich schmerz(e)
+ du schmerzt
+ er schmerzt
+ wir schmerzen
+ ihr schmerzt
+ sie schmerzen",,,,,,,,," ich ess(e)
+ du isst
+ er isst
+ wir essen
+ ihr esst
+ sie essen",,,,," ich bleib(e)
+ du bleibst
+ er bleibt
+ wir bleiben
+ ihr bleibt
+ sie bleiben",,,,,,,,,,," ich jähr(e)
+ du jährst
+ er jährt
+ wir jähren
+ ihr jährt
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Imperfect," ich gab
  du gabst
  er gab
@@ -94,7 +390,47 @@ subjunctive_active,Imperfect," ich gab
  er ging
  wir gingen
  ihr gingt
- sie gingen"
+ sie gingen",," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten"," ich podcastete
+ du podcastetest
+ er podcastete
+ wir podcasteten
+ ihr podcastetet
+ sie podcasteten",,,,,,,,,,,,,,,," ich schnupfte
+ du schnupftest
+ er schnupfte
+ wir schnupften
+ ihr schnupftet
+ sie schnupften"," ich hustete
+ du hustetest
+ er hustete
+ wir husteten
+ ihr hustetet
+ sie husteten",,,,,,,,," ich schmerzte
+ du schmerztest
+ er schmerzte
+ wir schmerzten
+ ihr schmerztet
+ sie schmerzten",,,,,,,,," ich aß
+ du aß(es)t
+ er aß
+ wir aßen
+ ihr aß(e)t
+ sie aßen",,,,," ich blieb
+ du bliebst
+ er blieb
+ wir blieben
+ ihr bliebt
+ sie blieben",,,,,,,,,,," ich jährte
+ du jährtest
+ er jährte
+ wir jährten
+ ihr jährtet
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -105,7 +441,47 @@ subjunctive_active,Perfect," ich habe gegeben
  er ist gegangen
  wir sind gegangen
  ihr seid gegangen
- sie sind gegangen"
+ sie sind gegangen",," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt"," ich habe gepodcastet
+ du hast gepodcastet
+ er hat gepodcastet
+ wir haben gepodcastet
+ ihr habt gepodcastet
+ sie haben gepodcastet",,,,,,,,,,,,,,,," ich habe geschnupft
+ du hast geschnupft
+ er hat geschnupft
+ wir haben geschnupft
+ ihr habt geschnupft
+ sie haben geschnupft"," ich habe gehustet
+ du hast gehustet
+ er hat gehustet
+ wir haben gehustet
+ ihr habt gehustet
+ sie haben gehustet",,,,,,,,," ich habe geschmerzt
+ du hast geschmerzt
+ er hat geschmerzt
+ wir haben geschmerzt
+ ihr habt geschmerzt
+ sie haben geschmerzt",,,,,,,,," ich habe gegessen
+ du hast gegessen
+ er hat gegessen
+ wir haben gegessen
+ ihr habt gegessen
+ sie haben gegessen",,,,," ich bin geblieben
+ du bist geblieben
+ er ist geblieben
+ wir sind geblieben
+ ihr seid geblieben
+ sie sind geblieben",,,,,,,,,,," ich habe gejährt
+ du hast gejährt
+ er hat gejährt
+ wir haben gejährt
+ ihr habt gejährt
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -116,7 +492,47 @@ subjunctive_active,Pluperfect," ich hatte gegeben
  er war gegangen
  wir waren gegangen
  ihr wart gegangen
- sie waren gegangen"
+ sie waren gegangen",," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt"," ich hatte gepodcastet
+ du hattest gepodcastet
+ er hatte gepodcastet
+ wir hatten gepodcastet
+ ihr hattet gepodcastet
+ sie hatten gepodcastet",,,,,,,,,,,,,,,," ich hatte geschnupft
+ du hattest geschnupft
+ er hatte geschnupft
+ wir hatten geschnupft
+ ihr hattet geschnupft
+ sie hatten geschnupft"," ich hatte gehustet
+ du hattest gehustet
+ er hatte gehustet
+ wir hatten gehustet
+ ihr hattet gehustet
+ sie hatten gehustet",,,,,,,,," ich hatte geschmerzt
+ du hattest geschmerzt
+ er hatte geschmerzt
+ wir hatten geschmerzt
+ ihr hattet geschmerzt
+ sie hatten geschmerzt",,,,,,,,," ich hatte gegessen
+ du hattest gegessen
+ er hatte gegessen
+ wir hatten gegessen
+ ihr hattet gegessen
+ sie hatten gegessen",,,,," ich war geblieben
+ du warst geblieben
+ er war geblieben
+ wir waren geblieben
+ ihr wart geblieben
+ sie waren geblieben",,,,,,,,,,," ich hatte gejährt
+ du hattest gejährt
+ er hatte gejährt
+ wir hatten gejährt
+ ihr hattet gejährt
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -127,7 +543,47 @@ subjunctive_active,Future," ich werde geben
  er wird geh(e)n
  wir werden geh(e)n
  ihr werdet geh(e)n
- sie werden geh(e)n"
+ sie werden geh(e)n",," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben"," ich werde podcasten
+ du wirst podcasten
+ er wird podcasten
+ wir werden podcasten
+ ihr werdet podcasten
+ sie werden podcasten",,,,,,,,,,,,,,,," ich werde schnupfen
+ du wirst schnupfen
+ er wird schnupfen
+ wir werden schnupfen
+ ihr werdet schnupfen
+ sie werden schnupfen"," ich werde husten
+ du wirst husten
+ er wird husten
+ wir werden husten
+ ihr werdet husten
+ sie werden husten",,,,,,,,," ich werde schmerzen
+ du wirst schmerzen
+ er wird schmerzen
+ wir werden schmerzen
+ ihr werdet schmerzen
+ sie werden schmerzen",,,,,,,,," ich werde essen
+ du wirst essen
+ er wird essen
+ wir werden essen
+ ihr werdet essen
+ sie werden essen",,,,," ich werde bleiben
+ du wirst bleiben
+ er wird bleiben
+ wir werden bleiben
+ ihr werdet bleiben
+ sie werden bleiben",,,,,,,,,,," ich werde jähren
+ du wirst jähren
+ er wird jähren
+ wir werden jähren
+ ihr werdet jähren
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -138,15 +594,71 @@ subjunctive_active,FuturePerfect," ich werde gegeben haben
  er wird gegangen sein
  wir werden gegangen sein
  ihr werdet gegangen sein
- sie werden gegangen sein"
+ sie werden gegangen sein",," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben"," ich werde gepodcastet haben
+ du wirst gepodcastet haben
+ er wird gepodcastet haben
+ wir werden gepodcastet haben
+ ihr werdet gepodcastet haben
+ sie werden gepodcastet haben",,,,,,,,,,,,,,,," ich werde geschnupft haben
+ du wirst geschnupft haben
+ er wird geschnupft haben
+ wir werden geschnupft haben
+ ihr werdet geschnupft haben
+ sie werden geschnupft haben"," ich werde gehustet haben
+ du wirst gehustet haben
+ er wird gehustet haben
+ wir werden gehustet haben
+ ihr werdet gehustet haben
+ sie werden gehustet haben",,,,,,,,," ich werde geschmerzt haben
+ du wirst geschmerzt haben
+ er wird geschmerzt haben
+ wir werden geschmerzt haben
+ ihr werdet geschmerzt haben
+ sie werden geschmerzt haben",,,,,,,,," ich werde gegessen haben
+ du wirst gegessen haben
+ er wird gegessen haben
+ wir werden gegessen haben
+ ihr werdet gegessen haben
+ sie werden gegessen haben",,,,," ich werde geblieben sein
+ du wirst geblieben sein
+ er wird geblieben sein
+ wir werden geblieben sein
+ ihr werdet geblieben sein
+ sie werden geblieben sein",,,,,,,,,,," ich werde gejährt haben
+ du wirst gejährt haben
+ er wird gejährt haben
+ wir werden gejährt haben
+ ihr werdet gejährt haben
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,InfinitiveI," geben
  zu geben"," geh(e)n
- zu geh(e)n"
+ zu geh(e)n",," leben
+ zu leben"," podcasten
+ zu podcasten",,,,,,,,,,,,,,,," schnupfen
+ zu schnupfen"," husten
+ zu husten",,,,,,,,," schmerzen
+ zu schmerzen",,,,,,,,," essen
+ zu essen",,,,," bleiben
+ zu bleiben",,,,,,,,,,," jähren
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
- gegangen zu sein"
-subjunctive_active,ParticipleI, gebend, gehend
-subjunctive_active,ParticipleII, gegeben, gegangen
+ gegangen zu sein",," gelebt haben
+ gelebt zu haben"," gepodcastet haben
+ gepodcastet zu haben",,,,,,,,,,,,,,,," geschnupft haben
+ geschnupft zu haben"," gehustet haben
+ gehustet zu haben",,,,,,,,," geschmerzt haben
+ geschmerzt zu haben",,,,,,,,," gegessen haben
+ gegessen zu haben",,,,," geblieben sein
+ geblieben zu sein",,,,,,,,,,," gejährt haben
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -157,7 +669,47 @@ conditional_active,Present," ich geb(e)
  er geht
  wir geh(e)n
  ihr geht
- sie geh(e)n"
+ sie geh(e)n",," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben"," ich podcast(e)
+ du podcastest
+ er podcastet
+ wir podcasten
+ ihr podcastet
+ sie podcasten",,,,,,,,,,,,,,,," ich schnupf(e)
+ du schnupfst
+ er schnupft
+ wir schnupfen
+ ihr schnupft
+ sie schnupfen"," ich hust(e)
+ du hustest
+ er hustet
+ wir husten
+ ihr hustet
+ sie husten",,,,,,,,," ich schmerz(e)
+ du schmerzt
+ er schmerzt
+ wir schmerzen
+ ihr schmerzt
+ sie schmerzen",,,,,,,,," ich ess(e)
+ du isst
+ er isst
+ wir essen
+ ihr esst
+ sie essen",,,,," ich bleib(e)
+ du bleibst
+ er bleibt
+ wir bleiben
+ ihr bleibt
+ sie bleiben",,,,,,,,,,," ich jähr(e)
+ du jährst
+ er jährt
+ wir jähren
+ ihr jährt
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Imperfect," ich gab
  du gabst
  er gab
@@ -168,7 +720,47 @@ conditional_active,Imperfect," ich gab
  er ging
  wir gingen
  ihr gingt
- sie gingen"
+ sie gingen",," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten"," ich podcastete
+ du podcastetest
+ er podcastete
+ wir podcasteten
+ ihr podcastetet
+ sie podcasteten",,,,,,,,,,,,,,,," ich schnupfte
+ du schnupftest
+ er schnupfte
+ wir schnupften
+ ihr schnupftet
+ sie schnupften"," ich hustete
+ du hustetest
+ er hustete
+ wir husteten
+ ihr hustetet
+ sie husteten",,,,,,,,," ich schmerzte
+ du schmerztest
+ er schmerzte
+ wir schmerzten
+ ihr schmerztet
+ sie schmerzten",,,,,,,,," ich aß
+ du aß(es)t
+ er aß
+ wir aßen
+ ihr aß(e)t
+ sie aßen",,,,," ich blieb
+ du bliebst
+ er blieb
+ wir blieben
+ ihr bliebt
+ sie blieben",,,,,,,,,,," ich jährte
+ du jährtest
+ er jährte
+ wir jährten
+ ihr jährtet
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -179,7 +771,47 @@ conditional_active,Perfect," ich habe gegeben
  er ist gegangen
  wir sind gegangen
  ihr seid gegangen
- sie sind gegangen"
+ sie sind gegangen",," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt"," ich habe gepodcastet
+ du hast gepodcastet
+ er hat gepodcastet
+ wir haben gepodcastet
+ ihr habt gepodcastet
+ sie haben gepodcastet",,,,,,,,,,,,,,,," ich habe geschnupft
+ du hast geschnupft
+ er hat geschnupft
+ wir haben geschnupft
+ ihr habt geschnupft
+ sie haben geschnupft"," ich habe gehustet
+ du hast gehustet
+ er hat gehustet
+ wir haben gehustet
+ ihr habt gehustet
+ sie haben gehustet",,,,,,,,," ich habe geschmerzt
+ du hast geschmerzt
+ er hat geschmerzt
+ wir haben geschmerzt
+ ihr habt geschmerzt
+ sie haben geschmerzt",,,,,,,,," ich habe gegessen
+ du hast gegessen
+ er hat gegessen
+ wir haben gegessen
+ ihr habt gegessen
+ sie haben gegessen",,,,," ich bin geblieben
+ du bist geblieben
+ er ist geblieben
+ wir sind geblieben
+ ihr seid geblieben
+ sie sind geblieben",,,,,,,,,,," ich habe gejährt
+ du hast gejährt
+ er hat gejährt
+ wir haben gejährt
+ ihr habt gejährt
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -190,7 +822,47 @@ conditional_active,Pluperfect," ich hatte gegeben
  er war gegangen
  wir waren gegangen
  ihr wart gegangen
- sie waren gegangen"
+ sie waren gegangen",," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt"," ich hatte gepodcastet
+ du hattest gepodcastet
+ er hatte gepodcastet
+ wir hatten gepodcastet
+ ihr hattet gepodcastet
+ sie hatten gepodcastet",,,,,,,,,,,,,,,," ich hatte geschnupft
+ du hattest geschnupft
+ er hatte geschnupft
+ wir hatten geschnupft
+ ihr hattet geschnupft
+ sie hatten geschnupft"," ich hatte gehustet
+ du hattest gehustet
+ er hatte gehustet
+ wir hatten gehustet
+ ihr hattet gehustet
+ sie hatten gehustet",,,,,,,,," ich hatte geschmerzt
+ du hattest geschmerzt
+ er hatte geschmerzt
+ wir hatten geschmerzt
+ ihr hattet geschmerzt
+ sie hatten geschmerzt",,,,,,,,," ich hatte gegessen
+ du hattest gegessen
+ er hatte gegessen
+ wir hatten gegessen
+ ihr hattet gegessen
+ sie hatten gegessen",,,,," ich war geblieben
+ du warst geblieben
+ er war geblieben
+ wir waren geblieben
+ ihr wart geblieben
+ sie waren geblieben",,,,,,,,,,," ich hatte gejährt
+ du hattest gejährt
+ er hatte gejährt
+ wir hatten gejährt
+ ihr hattet gejährt
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -201,7 +873,47 @@ conditional_active,Future," ich werde geben
  er wird geh(e)n
  wir werden geh(e)n
  ihr werdet geh(e)n
- sie werden geh(e)n"
+ sie werden geh(e)n",," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben"," ich werde podcasten
+ du wirst podcasten
+ er wird podcasten
+ wir werden podcasten
+ ihr werdet podcasten
+ sie werden podcasten",,,,,,,,,,,,,,,," ich werde schnupfen
+ du wirst schnupfen
+ er wird schnupfen
+ wir werden schnupfen
+ ihr werdet schnupfen
+ sie werden schnupfen"," ich werde husten
+ du wirst husten
+ er wird husten
+ wir werden husten
+ ihr werdet husten
+ sie werden husten",,,,,,,,," ich werde schmerzen
+ du wirst schmerzen
+ er wird schmerzen
+ wir werden schmerzen
+ ihr werdet schmerzen
+ sie werden schmerzen",,,,,,,,," ich werde essen
+ du wirst essen
+ er wird essen
+ wir werden essen
+ ihr werdet essen
+ sie werden essen",,,,," ich werde bleiben
+ du wirst bleiben
+ er wird bleiben
+ wir werden bleiben
+ ihr werdet bleiben
+ sie werden bleiben",,,,,,,,,,," ich werde jähren
+ du wirst jähren
+ er wird jähren
+ wir werden jähren
+ ihr werdet jähren
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -212,15 +924,71 @@ conditional_active,FuturePerfect," ich werde gegeben haben
  er wird gegangen sein
  wir werden gegangen sein
  ihr werdet gegangen sein
- sie werden gegangen sein"
+ sie werden gegangen sein",," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben"," ich werde gepodcastet haben
+ du wirst gepodcastet haben
+ er wird gepodcastet haben
+ wir werden gepodcastet haben
+ ihr werdet gepodcastet haben
+ sie werden gepodcastet haben",,,,,,,,,,,,,,,," ich werde geschnupft haben
+ du wirst geschnupft haben
+ er wird geschnupft haben
+ wir werden geschnupft haben
+ ihr werdet geschnupft haben
+ sie werden geschnupft haben"," ich werde gehustet haben
+ du wirst gehustet haben
+ er wird gehustet haben
+ wir werden gehustet haben
+ ihr werdet gehustet haben
+ sie werden gehustet haben",,,,,,,,," ich werde geschmerzt haben
+ du wirst geschmerzt haben
+ er wird geschmerzt haben
+ wir werden geschmerzt haben
+ ihr werdet geschmerzt haben
+ sie werden geschmerzt haben",,,,,,,,," ich werde gegessen haben
+ du wirst gegessen haben
+ er wird gegessen haben
+ wir werden gegessen haben
+ ihr werdet gegessen haben
+ sie werden gegessen haben",,,,," ich werde geblieben sein
+ du wirst geblieben sein
+ er wird geblieben sein
+ wir werden geblieben sein
+ ihr werdet geblieben sein
+ sie werden geblieben sein",,,,,,,,,,," ich werde gejährt haben
+ du wirst gejährt haben
+ er wird gejährt haben
+ wir werden gejährt haben
+ ihr werdet gejährt haben
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,InfinitiveI," geben
  zu geben"," geh(e)n
- zu geh(e)n"
+ zu geh(e)n",," leben
+ zu leben"," podcasten
+ zu podcasten",,,,,,,,,,,,,,,," schnupfen
+ zu schnupfen"," husten
+ zu husten",,,,,,,,," schmerzen
+ zu schmerzen",,,,,,,,," essen
+ zu essen",,,,," bleiben
+ zu bleiben",,,,,,,,,,," jähren
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
- gegangen zu sein"
-conditional_active,ParticipleI, gebend, gehend
-conditional_active,ParticipleII, gegeben, gegangen
+ gegangen zu sein",," gelebt haben
+ gelebt zu haben"," gepodcastet haben
+ gepodcastet zu haben",,,,,,,,,,,,,,,," geschnupft haben
+ geschnupft zu haben"," gehustet haben
+ gehustet zu haben",,,,,,,,," geschmerzt haben
+ geschmerzt zu haben",,,,,,,,," gegessen haben
+ gegessen zu haben",,,,," geblieben sein
+ geblieben zu sein",,,,,,,,,,," gejährt haben
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -231,7 +999,47 @@ imperative_active,Present," ich geb(e)
  er geht
  wir geh(e)n
  ihr geht
- sie geh(e)n"
+ sie geh(e)n",," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben"," ich podcast(e)
+ du podcastest
+ er podcastet
+ wir podcasten
+ ihr podcastet
+ sie podcasten",,,,,,,,,,,,,,,," ich schnupf(e)
+ du schnupfst
+ er schnupft
+ wir schnupfen
+ ihr schnupft
+ sie schnupfen"," ich hust(e)
+ du hustest
+ er hustet
+ wir husten
+ ihr hustet
+ sie husten",,,,,,,,," ich schmerz(e)
+ du schmerzt
+ er schmerzt
+ wir schmerzen
+ ihr schmerzt
+ sie schmerzen",,,,,,,,," ich ess(e)
+ du isst
+ er isst
+ wir essen
+ ihr esst
+ sie essen",,,,," ich bleib(e)
+ du bleibst
+ er bleibt
+ wir bleiben
+ ihr bleibt
+ sie bleiben",,,,,,,,,,," ich jähr(e)
+ du jährst
+ er jährt
+ wir jähren
+ ihr jährt
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -242,7 +1050,47 @@ imperative_active,Imperfect," ich gab
  er ging
  wir gingen
  ihr gingt
- sie gingen"
+ sie gingen",," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten"," ich podcastete
+ du podcastetest
+ er podcastete
+ wir podcasteten
+ ihr podcastetet
+ sie podcasteten",,,,,,,,,,,,,,,," ich schnupfte
+ du schnupftest
+ er schnupfte
+ wir schnupften
+ ihr schnupftet
+ sie schnupften"," ich hustete
+ du hustetest
+ er hustete
+ wir husteten
+ ihr hustetet
+ sie husteten",,,,,,,,," ich schmerzte
+ du schmerztest
+ er schmerzte
+ wir schmerzten
+ ihr schmerztet
+ sie schmerzten",,,,,,,,," ich aß
+ du aß(es)t
+ er aß
+ wir aßen
+ ihr aß(e)t
+ sie aßen",,,,," ich blieb
+ du bliebst
+ er blieb
+ wir blieben
+ ihr bliebt
+ sie blieben",,,,,,,,,,," ich jährte
+ du jährtest
+ er jährte
+ wir jährten
+ ihr jährtet
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -253,7 +1101,47 @@ imperative_active,Perfect," ich habe gegeben
  er ist gegangen
  wir sind gegangen
  ihr seid gegangen
- sie sind gegangen"
+ sie sind gegangen",," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt"," ich habe gepodcastet
+ du hast gepodcastet
+ er hat gepodcastet
+ wir haben gepodcastet
+ ihr habt gepodcastet
+ sie haben gepodcastet",,,,,,,,,,,,,,,," ich habe geschnupft
+ du hast geschnupft
+ er hat geschnupft
+ wir haben geschnupft
+ ihr habt geschnupft
+ sie haben geschnupft"," ich habe gehustet
+ du hast gehustet
+ er hat gehustet
+ wir haben gehustet
+ ihr habt gehustet
+ sie haben gehustet",,,,,,,,," ich habe geschmerzt
+ du hast geschmerzt
+ er hat geschmerzt
+ wir haben geschmerzt
+ ihr habt geschmerzt
+ sie haben geschmerzt",,,,,,,,," ich habe gegessen
+ du hast gegessen
+ er hat gegessen
+ wir haben gegessen
+ ihr habt gegessen
+ sie haben gegessen",,,,," ich bin geblieben
+ du bist geblieben
+ er ist geblieben
+ wir sind geblieben
+ ihr seid geblieben
+ sie sind geblieben",,,,,,,,,,," ich habe gejährt
+ du hast gejährt
+ er hat gejährt
+ wir haben gejährt
+ ihr habt gejährt
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -264,7 +1152,47 @@ imperative_active,Pluperfect," ich hatte gegeben
  er war gegangen
  wir waren gegangen
  ihr wart gegangen
- sie waren gegangen"
+ sie waren gegangen",," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt"," ich hatte gepodcastet
+ du hattest gepodcastet
+ er hatte gepodcastet
+ wir hatten gepodcastet
+ ihr hattet gepodcastet
+ sie hatten gepodcastet",,,,,,,,,,,,,,,," ich hatte geschnupft
+ du hattest geschnupft
+ er hatte geschnupft
+ wir hatten geschnupft
+ ihr hattet geschnupft
+ sie hatten geschnupft"," ich hatte gehustet
+ du hattest gehustet
+ er hatte gehustet
+ wir hatten gehustet
+ ihr hattet gehustet
+ sie hatten gehustet",,,,,,,,," ich hatte geschmerzt
+ du hattest geschmerzt
+ er hatte geschmerzt
+ wir hatten geschmerzt
+ ihr hattet geschmerzt
+ sie hatten geschmerzt",,,,,,,,," ich hatte gegessen
+ du hattest gegessen
+ er hatte gegessen
+ wir hatten gegessen
+ ihr hattet gegessen
+ sie hatten gegessen",,,,," ich war geblieben
+ du warst geblieben
+ er war geblieben
+ wir waren geblieben
+ ihr wart geblieben
+ sie waren geblieben",,,,,,,,,,," ich hatte gejährt
+ du hattest gejährt
+ er hatte gejährt
+ wir hatten gejährt
+ ihr hattet gejährt
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -275,7 +1203,47 @@ imperative_active,Future," ich werde geben
  er wird geh(e)n
  wir werden geh(e)n
  ihr werdet geh(e)n
- sie werden geh(e)n"
+ sie werden geh(e)n",," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben"," ich werde podcasten
+ du wirst podcasten
+ er wird podcasten
+ wir werden podcasten
+ ihr werdet podcasten
+ sie werden podcasten",,,,,,,,,,,,,,,," ich werde schnupfen
+ du wirst schnupfen
+ er wird schnupfen
+ wir werden schnupfen
+ ihr werdet schnupfen
+ sie werden schnupfen"," ich werde husten
+ du wirst husten
+ er wird husten
+ wir werden husten
+ ihr werdet husten
+ sie werden husten",,,,,,,,," ich werde schmerzen
+ du wirst schmerzen
+ er wird schmerzen
+ wir werden schmerzen
+ ihr werdet schmerzen
+ sie werden schmerzen",,,,,,,,," ich werde essen
+ du wirst essen
+ er wird essen
+ wir werden essen
+ ihr werdet essen
+ sie werden essen",,,,," ich werde bleiben
+ du wirst bleiben
+ er wird bleiben
+ wir werden bleiben
+ ihr werdet bleiben
+ sie werden bleiben",,,,,,,,,,," ich werde jähren
+ du wirst jähren
+ er wird jähren
+ wir werden jähren
+ ihr werdet jähren
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -286,15 +1254,71 @@ imperative_active,FuturePerfect," ich werde gegeben haben
  er wird gegangen sein
  wir werden gegangen sein
  ihr werdet gegangen sein
- sie werden gegangen sein"
+ sie werden gegangen sein",," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben"," ich werde gepodcastet haben
+ du wirst gepodcastet haben
+ er wird gepodcastet haben
+ wir werden gepodcastet haben
+ ihr werdet gepodcastet haben
+ sie werden gepodcastet haben",,,,,,,,,,,,,,,," ich werde geschnupft haben
+ du wirst geschnupft haben
+ er wird geschnupft haben
+ wir werden geschnupft haben
+ ihr werdet geschnupft haben
+ sie werden geschnupft haben"," ich werde gehustet haben
+ du wirst gehustet haben
+ er wird gehustet haben
+ wir werden gehustet haben
+ ihr werdet gehustet haben
+ sie werden gehustet haben",,,,,,,,," ich werde geschmerzt haben
+ du wirst geschmerzt haben
+ er wird geschmerzt haben
+ wir werden geschmerzt haben
+ ihr werdet geschmerzt haben
+ sie werden geschmerzt haben",,,,,,,,," ich werde gegessen haben
+ du wirst gegessen haben
+ er wird gegessen haben
+ wir werden gegessen haben
+ ihr werdet gegessen haben
+ sie werden gegessen haben",,,,," ich werde geblieben sein
+ du wirst geblieben sein
+ er wird geblieben sein
+ wir werden geblieben sein
+ ihr werdet geblieben sein
+ sie werden geblieben sein",,,,,,,,,,," ich werde gejährt haben
+ du wirst gejährt haben
+ er wird gejährt haben
+ wir werden gejährt haben
+ ihr werdet gejährt haben
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,InfinitiveI," geben
  zu geben"," geh(e)n
- zu geh(e)n"
+ zu geh(e)n",," leben
+ zu leben"," podcasten
+ zu podcasten",,,,,,,,,,,,,,,," schnupfen
+ zu schnupfen"," husten
+ zu husten",,,,,,,,," schmerzen
+ zu schmerzen",,,,,,,,," essen
+ zu essen",,,,," bleiben
+ zu bleiben",,,,,,,,,,," jähren
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
- gegangen zu sein"
-imperative_active,ParticipleI, gebend, gehend
-imperative_active,ParticipleII, gegeben, gegangen
+ gegangen zu sein",," gelebt haben
+ gelebt zu haben"," gepodcastet haben
+ gepodcastet zu haben",,,,,,,,,,,,,,,," geschnupft haben
+ geschnupft zu haben"," gehustet haben
+ gehustet zu haben",,,,,,,,," geschmerzt haben
+ geschmerzt zu haben",,,,,,,,," gegessen haben
+ gegessen zu haben",,,,," geblieben sein
+ geblieben zu sein",,,,,,,,,,," gejährt haben
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -305,7 +1329,47 @@ infinitive_participle_active,Present," ich geb(e)
  er geht
  wir geh(e)n
  ihr geht
- sie geh(e)n"
+ sie geh(e)n",," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben"," ich podcast(e)
+ du podcastest
+ er podcastet
+ wir podcasten
+ ihr podcastet
+ sie podcasten",,,,,,,,,,,,,,,," ich schnupf(e)
+ du schnupfst
+ er schnupft
+ wir schnupfen
+ ihr schnupft
+ sie schnupfen"," ich hust(e)
+ du hustest
+ er hustet
+ wir husten
+ ihr hustet
+ sie husten",,,,,,,,," ich schmerz(e)
+ du schmerzt
+ er schmerzt
+ wir schmerzen
+ ihr schmerzt
+ sie schmerzen",,,,,,,,," ich ess(e)
+ du isst
+ er isst
+ wir essen
+ ihr esst
+ sie essen",,,,," ich bleib(e)
+ du bleibst
+ er bleibt
+ wir bleiben
+ ihr bleibt
+ sie bleiben",,,,,,,,,,," ich jähr(e)
+ du jährst
+ er jährt
+ wir jähren
+ ihr jährt
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Imperfect," ich gab
  du gabst
  er gab
@@ -316,7 +1380,47 @@ infinitive_participle_active,Imperfect," ich gab
  er ging
  wir gingen
  ihr gingt
- sie gingen"
+ sie gingen",," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten"," ich podcastete
+ du podcastetest
+ er podcastete
+ wir podcasteten
+ ihr podcastetet
+ sie podcasteten",,,,,,,,,,,,,,,," ich schnupfte
+ du schnupftest
+ er schnupfte
+ wir schnupften
+ ihr schnupftet
+ sie schnupften"," ich hustete
+ du hustetest
+ er hustete
+ wir husteten
+ ihr hustetet
+ sie husteten",,,,,,,,," ich schmerzte
+ du schmerztest
+ er schmerzte
+ wir schmerzten
+ ihr schmerztet
+ sie schmerzten",,,,,,,,," ich aß
+ du aß(es)t
+ er aß
+ wir aßen
+ ihr aß(e)t
+ sie aßen",,,,," ich blieb
+ du bliebst
+ er blieb
+ wir blieben
+ ihr bliebt
+ sie blieben",,,,,,,,,,," ich jährte
+ du jährtest
+ er jährte
+ wir jährten
+ ihr jährtet
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -327,7 +1431,47 @@ infinitive_participle_active,Perfect," ich habe gegeben
  er ist gegangen
  wir sind gegangen
  ihr seid gegangen
- sie sind gegangen"
+ sie sind gegangen",," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt"," ich habe gepodcastet
+ du hast gepodcastet
+ er hat gepodcastet
+ wir haben gepodcastet
+ ihr habt gepodcastet
+ sie haben gepodcastet",,,,,,,,,,,,,,,," ich habe geschnupft
+ du hast geschnupft
+ er hat geschnupft
+ wir haben geschnupft
+ ihr habt geschnupft
+ sie haben geschnupft"," ich habe gehustet
+ du hast gehustet
+ er hat gehustet
+ wir haben gehustet
+ ihr habt gehustet
+ sie haben gehustet",,,,,,,,," ich habe geschmerzt
+ du hast geschmerzt
+ er hat geschmerzt
+ wir haben geschmerzt
+ ihr habt geschmerzt
+ sie haben geschmerzt",,,,,,,,," ich habe gegessen
+ du hast gegessen
+ er hat gegessen
+ wir haben gegessen
+ ihr habt gegessen
+ sie haben gegessen",,,,," ich bin geblieben
+ du bist geblieben
+ er ist geblieben
+ wir sind geblieben
+ ihr seid geblieben
+ sie sind geblieben",,,,,,,,,,," ich habe gejährt
+ du hast gejährt
+ er hat gejährt
+ wir haben gejährt
+ ihr habt gejährt
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -338,7 +1482,47 @@ infinitive_participle_active,Pluperfect," ich hatte gegeben
  er war gegangen
  wir waren gegangen
  ihr wart gegangen
- sie waren gegangen"
+ sie waren gegangen",," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt"," ich hatte gepodcastet
+ du hattest gepodcastet
+ er hatte gepodcastet
+ wir hatten gepodcastet
+ ihr hattet gepodcastet
+ sie hatten gepodcastet",,,,,,,,,,,,,,,," ich hatte geschnupft
+ du hattest geschnupft
+ er hatte geschnupft
+ wir hatten geschnupft
+ ihr hattet geschnupft
+ sie hatten geschnupft"," ich hatte gehustet
+ du hattest gehustet
+ er hatte gehustet
+ wir hatten gehustet
+ ihr hattet gehustet
+ sie hatten gehustet",,,,,,,,," ich hatte geschmerzt
+ du hattest geschmerzt
+ er hatte geschmerzt
+ wir hatten geschmerzt
+ ihr hattet geschmerzt
+ sie hatten geschmerzt",,,,,,,,," ich hatte gegessen
+ du hattest gegessen
+ er hatte gegessen
+ wir hatten gegessen
+ ihr hattet gegessen
+ sie hatten gegessen",,,,," ich war geblieben
+ du warst geblieben
+ er war geblieben
+ wir waren geblieben
+ ihr wart geblieben
+ sie waren geblieben",,,,,,,,,,," ich hatte gejährt
+ du hattest gejährt
+ er hatte gejährt
+ wir hatten gejährt
+ ihr hattet gejährt
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -349,7 +1533,47 @@ infinitive_participle_active,Future," ich werde geben
  er wird geh(e)n
  wir werden geh(e)n
  ihr werdet geh(e)n
- sie werden geh(e)n"
+ sie werden geh(e)n",," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben"," ich werde podcasten
+ du wirst podcasten
+ er wird podcasten
+ wir werden podcasten
+ ihr werdet podcasten
+ sie werden podcasten",,,,,,,,,,,,,,,," ich werde schnupfen
+ du wirst schnupfen
+ er wird schnupfen
+ wir werden schnupfen
+ ihr werdet schnupfen
+ sie werden schnupfen"," ich werde husten
+ du wirst husten
+ er wird husten
+ wir werden husten
+ ihr werdet husten
+ sie werden husten",,,,,,,,," ich werde schmerzen
+ du wirst schmerzen
+ er wird schmerzen
+ wir werden schmerzen
+ ihr werdet schmerzen
+ sie werden schmerzen",,,,,,,,," ich werde essen
+ du wirst essen
+ er wird essen
+ wir werden essen
+ ihr werdet essen
+ sie werden essen",,,,," ich werde bleiben
+ du wirst bleiben
+ er wird bleiben
+ wir werden bleiben
+ ihr werdet bleiben
+ sie werden bleiben",,,,,,,,,,," ich werde jähren
+ du wirst jähren
+ er wird jähren
+ wir werden jähren
+ ihr werdet jähren
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -360,12 +1584,68 @@ infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  er wird gegangen sein
  wir werden gegangen sein
  ihr werdet gegangen sein
- sie werden gegangen sein"
+ sie werden gegangen sein",," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben"," ich werde gepodcastet haben
+ du wirst gepodcastet haben
+ er wird gepodcastet haben
+ wir werden gepodcastet haben
+ ihr werdet gepodcastet haben
+ sie werden gepodcastet haben",,,,,,,,,,,,,,,," ich werde geschnupft haben
+ du wirst geschnupft haben
+ er wird geschnupft haben
+ wir werden geschnupft haben
+ ihr werdet geschnupft haben
+ sie werden geschnupft haben"," ich werde gehustet haben
+ du wirst gehustet haben
+ er wird gehustet haben
+ wir werden gehustet haben
+ ihr werdet gehustet haben
+ sie werden gehustet haben",,,,,,,,," ich werde geschmerzt haben
+ du wirst geschmerzt haben
+ er wird geschmerzt haben
+ wir werden geschmerzt haben
+ ihr werdet geschmerzt haben
+ sie werden geschmerzt haben",,,,,,,,," ich werde gegessen haben
+ du wirst gegessen haben
+ er wird gegessen haben
+ wir werden gegessen haben
+ ihr werdet gegessen haben
+ sie werden gegessen haben",,,,," ich werde geblieben sein
+ du wirst geblieben sein
+ er wird geblieben sein
+ wir werden geblieben sein
+ ihr werdet geblieben sein
+ sie werden geblieben sein",,,,,,,,,,," ich werde gejährt haben
+ du wirst gejährt haben
+ er wird gejährt haben
+ wir werden gejährt haben
+ ihr werdet gejährt haben
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,InfinitiveI," geben
  zu geben"," geh(e)n
- zu geh(e)n"
+ zu geh(e)n",," leben
+ zu leben"," podcasten
+ zu podcasten",,,,,,,,,,,,,,,," schnupfen
+ zu schnupfen"," husten
+ zu husten",,,,,,,,," schmerzen
+ zu schmerzen",,,,,,,,," essen
+ zu essen",,,,," bleiben
+ zu bleiben",,,,,,,,,,," jähren
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
- gegangen zu sein"
-infinitive_participle_active,ParticipleI, gebend, gehend
-infinitive_participle_active,ParticipleII, gegeben, gegangen
+ gegangen zu sein",," gelebt haben
+ gelebt zu haben"," gepodcastet haben
+ gepodcastet zu haben",,,,,,,,,,,,,,,," geschnupft haben
+ geschnupft zu haben"," gehustet haben
+ gehustet zu haben",,,,,,,,," geschmerzt haben
+ geschmerzt zu haben",,,,,,,,," gegessen haben
+ gegessen zu haben",,,,," geblieben sein
+ geblieben zu sein",,,,,,,,,,," gejährt haben
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

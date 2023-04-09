@@ -4,13 +4,13 @@ from textual.widgets import TextLog
 from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
-from text import generate_rich_text, colorize_text, ANALYZED_TEXT
+from text import generate_rich_text, colorize_text, ANALYZED_TEXT, generate_rich_analysis
+from rich.table import Table
 
-# PROGRESS in Tui------------------------------------
+# PROGRESS IN TUI------------------------------------
 # TODO: show messages
-# TODO: change the scheme of the text based on the button
+# TODO: fill the tables once we get the text
 # TODO: manager arguments in the TUI script
-# TODO: add buttons functionality
 # TODO: select the word and show its analysis
 # ---------------------------------------------------
 
@@ -20,6 +20,8 @@ TEXT_WIDTH = 80
 # routines definiton when button is presed
 def call_nouns():
     TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
+    rich_analysis = generate_rich_analysis(ANALYZED_TEXT)
+    TextileApp.set_message(rich_analysis)
 
 
 def call_verbs():
@@ -46,7 +48,7 @@ class TextileApp(App):
 
     CSS_PATH = "TextileApp.css"
     BINDINGS = bindings
-    message = ""
+    message = None
     text = generate_rich_text(ANALYZED_TEXT, width=TEXT_WIDTH)
 
     def compose(self) -> ComposeResult:
@@ -82,10 +84,15 @@ class TextileApp(App):
         self.text_log.clear()
         self.analysis_log.clear()
         self.text_log.write(TextileApp.text)
-        self.analysis_log.write(TextileApp.message)
+
+        if isinstance(TextileApp.message, list):
+            for element in TextileApp.message:
+                self.analysis_log.write(element)
+        else:
+            self.analysis_log.write(f"Heeerre {TextileApp.message}")
 
     @staticmethod
-    def set_message(message: str) -> None:
+    def set_message(message):
         TextileApp.message = message
 
     @staticmethod

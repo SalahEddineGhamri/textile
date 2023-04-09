@@ -24,7 +24,7 @@ class File:
             self._file = open(self._file_path, self._mode)
             self._data = self._file.read()
         except FileNotFoundError:
-            print("input file not found. Provide a correct path")
+            pass
         return self
 
     def __exit__(self, exc_type, exc_value, traceback):

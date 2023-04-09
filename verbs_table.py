@@ -54,26 +54,26 @@ class VerbsCache(pd.DataFrame):
     def cache(self):
         try:
             if super().empty:
-                print('The DataFrame is empty')
+                # print('The DataFrame is empty')
                 return False
 
             if not VERBS_CACHE_FILE:
-                print('The file path is empty')
+                # print('The file path is empty')
                 return False
 
             super().to_csv(VERBS_CACHE_FILE, index=True)
-            print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
+            # print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
             return True
 
         except Exception as e:
-            print(f'An error occurred while writing to file: {e}')
+            # print(f'An error occurred while writing to file: {e}')
             return False
 
     def __getitem__(self, key):
         try:
             return super().__getitem__(key)
         except KeyError:
-            print("scrapping for verb ...")
+            # print("scrapping for verb ...")
             new_verb = scrapp_for_verb(key)
             self[key] = pd.Series(index=self.index, dtype='object')
             for (voice, tense), values in new_verb.items():

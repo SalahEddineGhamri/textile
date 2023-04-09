@@ -54,18 +54,18 @@ class NounsCache(pd.DataFrame):
                 return False
 
             super().to_csv(NOUNS_CACHE_FILE, index=True)
-            print(f'DataFrame has been written to {NOUNS_CACHE_FILE}')
+            # print(f'DataFrame has been written to {NOUNS_CACHE_FILE}')
             return True
 
         except Exception as e:
-            print(f'An error occurred while writing to file: {e}')
+            # print(f'An error occurred while writing to file: {e}')
             return False
 
     def __getitem__(self, key):
         try:
             return super().__getitem__(key)
         except KeyError:
-            print("scrapping for noun ...")
+            # print("scrapping for noun ...")
             new_noun = nouns_definition_parser(key)
             for aspect, languages in new_noun.items():
                 if languages is not None:
@@ -77,5 +77,7 @@ class NounsCache(pd.DataFrame):
 
 if __name__ == "__main__":
     noun_cache = NounsCache()
-    print(noun_cache['Auto'])
+    noun_cache.fillna(value="None", inplace=True)
+    print(noun_cache['Auto']['nouns']['english'])
+    print(noun_cache['Auto']['nouns']['german'])
     noun_cache.cache()

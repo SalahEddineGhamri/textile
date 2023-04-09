@@ -1,7 +1,40 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche
-basic_forms,english,,,,,,,,,,,
-basic_forms,german,,,,,,,,,,,
-verbs,english,,,,,,,,"to drive | drove, driven |
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon
+basic_forms,english,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"alternativ : Adjective
+",None,None,"der Moderator : Noun
+","die Nachricht : Noun
+",None,"der Mensch : Noun
+",None,None,"der Dialog : Noun
+",None,None,None,None,None,None,None,None,None,"sich schulen : Verb
+schulen : Verb
+",None,None,None,None,"der Schmerz : Noun
+",None,"das Kindchen : Noun
+",None,"das Virus : Noun
+","das Kind : Noun
+",None,"wund : Adjective
+wund : Adjective
+",None,"die Esse : Noun
+","das Getränk : Noun
+",None,None,"danken : Verb
+",None,"sich mühen : Verb
+mühen : Verb
+","die Woche : Noun
+","der Tag : Noun
+tagen : Verb
+tagen : Verb
+",None,None,None,None,None,"das Medikament : Noun
+",None,"das Jahr : Noun
+","das Jahr : Noun
+",None,None,None,"das Elter : Noun
+der Elter : Noun
+",None,"nähen : Verb
+",None,None,None,,"der Oscar : Noun
+",,,,,"die Weste : Noun
+wesen : Verb
+","neu : Adjective
+",,,,"die Million : Noun
+",,,,,,,,,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
 to pick so. ⇔ up
@@ -37,8 +70,532 @@ to bottle sth. | bottled, bottled |
 to bottle-feed a baby
 to bottle-feed a baby
 to hand-feed an animal
-"
-verbs,german,,,,,,,,"Auto fahren
+",None,"to live | lived, lived |
+to be alive
+to exist | existed, existed |
+to roost | roosted, roosted | [ZOOL.]
+to abide | abode, abode | obsolete
+to live on sth.
+to make a living doing sth.
+to live for so./sth.
+to stay with so.
+to be alive
+to save life
+to stay alive
+to keep alive
+to lose one's life
+",None,None,None,"to radio | radioed, radioed | [TECH.]
+to listen in
+to tune in (Amer.)
+to announce over the radio
+to hear sth. on the radio
+","to bid so. a good morning
+",None,"to realign sth. | realigned, realigned |
+to unbend sth. | unbent, unbent |
+to reshape | reshaped, reshaped | [TECH.]
+to leave a message
+to get a message
+to message | messaged, messaged |
+to send a message
+to pick up a message
+to deliver a message
+to transmit a message
+to text so. | texted, texted |
+to break the news to so.
+to have word from so.
+to furnish information
+to text | texted, texted | [coll.] [TELECOM.]
+to text message (or: text-message) so. [TELECOM.]
+","to welt so. | welted, welted |
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to hold sway over the world
+to give birth to so.
+to be born
+to abandon the world
+to retire from the world
+to bring the roof down on so.'s head
+to depart this world
+to plant a rumorAE to plant a rumourBE
+to squash rumorsAE of sth. to squash rumoursBE of sth.
+","to manage people
+to manage people
+to transfer sth. to humans
+to bring people closer together
+to make a match between two people [coll.]
+to act like one was born yesterday
+","to make history
+to make history
+to corroborate a story
+to make up a story
+to cook up a story [fig.]
+to go down in history
+to consign sth. to history
+to appeal to history
+to fudge a story
+to put the wheel of history into reverse
+","to text so. | texted, texted |
+to text so. | texted, texted | [coll.]
+to text so. | texted, texted | [coll.]
+to text | texted, texted | [coll.] [TELECOM.]
+to text | texted, texted | [coll.] [TELECOM.]
+to scroll | scrolled, scrolled |
+to abbreviate a text
+to abridge a text
+to skim over a text
+to reshape a text
+to modify a text
+to feed so. his lines [THEA.]
+to text message (or: text-message) so. [TELECOM.]
+to send so. a text message
+",None,"to time | timed, timed |
+to spend time
+to save time
+to lose time
+to take time
+to gain time
+to temporizeAE to temporiseBE / temporizeBE | temporized, temporized / temporised, temporised |
+to dawdle | dawdled, dawdled |
+to waste time
+to lose time
+to spend time
+to temporizeAE to temporiseBE / temporizeBE | temporized, temporized / temporised, temporised |
+to kill time
+to take one's time
+","to go for a walk
+to go for a stroll
+",None,"to have a temperature
+to be running a temperature [coll.]
+to take so.'s temperature
+","to take snuff
+to snuff | snuffed, snuffed |
+to snort sth. | snorted, snorted |
+to sniff | sniffed, sniffed |
+to catch a cold
+to catch a cold
+","to cough | coughed, coughed |
+to expectorate | expectorated, expectorated | [MED.]
+to hack | hacked, hacked | - cough
+to throw up [coll.]
+to practice coughing and sneezing etiquette
+","to have a headache
+","to have the flu
+","to come down with a cold
+to come down with a cold
+to nurse a cold
+to have a bad cold
+","to instruct | instructed, instructed |
+to train so. | trained, trained |
+to educate so. | educated, educated |
+to school so. (in sth.) | schooled, schooled | - train, discipline (Amer.)
+to play truant
+to play hooky
+to be truant
+to attend a school
+to do the school run for so. (Brit.)
+to form a precedent
+to bunk off school (Brit.) [coll.]
+to cut (school) | cut, cut | [coll.] (Amer.)
+to drop out of school [coll.]
+to skip school
+","to seek a doctor's advice
+to seek medical advice
+to see a doctor
+to see a doctor
+to practiseAE / practiceAE medicine to practiseBE medicine
+to send for the doctor
+to seek a doctor's advice
+to seek a doctor's advice
+to seek medical advice [MED.]
+to take medical advice [MED.]
+",None,None,"to press out the juice
+to sap sth. | sapped, sapped |
+","to hurt | hurt, hurt |
+to ache | ached, ached |
+to smart | smarted, smarted |
+to be painful
+to pain | pained, pained |
+to ail | ailed, ailed |
+to rankle | rankled, rankled |
+to smart from sth.
+sth. grieves so. infinitive: grieve
+to suffer pain
+to be in pain
+to ail | ailed, ailed |
+to cause pain
+to bear up against pain
+","to have a hunch
+to have the feeling that ...
+to offend sensibilities
+to play around with so.'s feelings
+to deal with so.'s emotions
+to feel queasy
+to have the dim feeling that ...
+to have a hunch (that ...) - have a premonition
+to shut down emotionally
+to act out one's feelings
+to be calm and collected
+to be cool
+to have mixed feelings about sth.
+to repress one's feelings
+","to conceive a child
+to change a baby's diaper (or: diapers) (Amer.)
+to change a baby's nappy (or: nappies) (Brit.)
+to change a baby
+to have a baby
+to be expecting - a baby
+to bathe a child
+to deliver a baby
+to bear a child
+to hold a child over the ground to let it eliminate
+to carry a child to term
+to adopt a child
+to bring up a child
+to rear a child
+","to winter | wintered, wintered |
+to overwinter | overwintered, overwintered |
+","to safeguard a computer system against viruses [COMP.]
+to go viral
+","to bear children
+to watch children
+to raise a family
+to raise children
+to conceive a child
+to change a baby's diaper (or: diapers) (Amer.)
+to change a baby's nappy (or: nappies) (Brit.)
+to change a baby
+to have a baby
+to be expecting - a baby
+to bathe a child
+to deliver a baby
+to bear a child
+to hold a child over the ground to let it eliminate
+","to stay in touch (with so.)
+to break tie
+to make contact
+to approach so. | approached, approached |
+to keep in touch (with so.)
+to get in touch with so.
+to make contact with so.
+to contact so. | contacted, contacted |
+to get in touch with so.
+to make contact with so.
+to expose so. to sth.
+to establish contact
+to hobnob | hobnobbed, hobnobbed |
+to forge links
+to socializeAE with so. to socialiseBE / socializeBE with so.
+to mingle with people
+","to work wonders
+sth. astonishes so. infinitive: astonish
+to gall | galled, galled |
+to chafe | chafed, chafed |
+to get bedsores
+to develop bedsores on the back
+to get bedsores on the back
+to excoriate | excoriated, excoriated | [MED.]
+to excoriate | excoriated, excoriated | [MED.]
+to apply a tourniquet above a wound
+to apply a tourniquet below a wound
+to dress a wound [MED.]
+to swab a wound [MED.]
+to scar so. | scarred, scarred |
+","to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag along
+to tag along (with so.)
+to tag sth. to sth.
+to have a day off
+to sleep away the day
+to appoint a day
+to appoint a day (for sth.)
+","to eat (sth.) | ate, eaten |
+to chow down [sl.]
+to eat out
+to go for a meal
+to go out for food
+to arrange a dinner party
+to bolt one's food
+to eat out
+to eat simply
+to eat (sth.) with relish
+to snack | snacked, snacked |
+to have a snack
+to take a snack
+to snack on sth.
+","to serve drinks
+to cater (for so./sth.) | catered, catered |
+","to lead a cat-and-dog life
+","to wish so. a speedy recovery
+to be on the mend
+","to thank so. (for sth.) | thanked, thanked |
+",None,"to laborAE / labourBE | labored, labored / laboured, laboured |
+to give trouble
+to make an effort
+to exert oneself (for sth.)
+to get through
+to take trouble with so./sth.
+to take pains with (or: over) sth.
+to take care in doing sth.
+to be worthwhile
+to be worth the effort
+to be worth the trouble
+to be hard-pressed to do sth.
+to struggle to do sth.
+to have a hard time doing sth.
+","to ask for a week off
+to ask for a week's leave
+to have a week-long party
+to have one day a week off
+","to hold a meeting
+to meet | met, met |
+to sit | sat, sat |
+to come to light
+to emerge | emerged, emerged |
+to become evident
+to surface | surfaced, surfaced |
+to appear | appeared, appeared |
+to work underground
+to unearth sth. | unearthed, unearthed |
+to surface | surfaced, surfaced |
+to run into the ground
+to quarry sth. | quarried, quarried | [fig.]
+to outcrop | outcropped, outcropped | [TECH.]
+","to look for a job
+to look for work
+to seek employment
+to seek work
+to carry out work
+to execute work
+to perform work
+to do work
+to assign work
+to accept a job
+to resume work
+to go to work
+to go to work - by car
+to lay down a tool
+","to be lucky
+to be fortunate
+to be in luck
+to strike it lucky
+to strike lucky
+to bring (so.) good luck
+to bring (so.) luck
+to trust to luck
+to be aglow with happiness
+to try one's luck
+to be out of luck
+to browse | browsed, browsed |
+to trust to luck
+to have a flutter (Brit.) [coll.]
+to be in luck
+","to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested | - certify the validity of sth.
+to attest to sth. - bear witness
+to attest to sth.
+to attest to sth.
+to attest to sth.
+to attest to sth.
+",None,"to make out a prescription
+to fill a prescription [coll.] (Amer.)
+to fill a prescription (Amer.) [PHARM.]
+to get a prescription filled [coll.] (Amer.) [PHARM.]
+to have a prescription filled (Amer.) [PHARM.]
+to dispense | dispensed, dispensed |
+","to be drugged up to the eyeballs - with medicine
+","to name sth. | named, named |
+to name sth. | named, named |
+to name sth. | named, named |
+to name sth. | named, named |
+to name sth. | named, named |
+to name so./sth. after so./sth.
+to name so. sth. | named, named |
+to name a price
+to name and shame so.
+to name names [form.]
+to put so.'s name down for sth.
+to answer to the name of ...
+to carry a name
+to go by the name of
+","to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [FINAN.]to annualiseBE / annualizeBE [FINAN.]
+to be in one's prime
+to take a sabbatical
+to be 3/15/62 ... years old
+to be so.'s junior (by ... years)
+to be getting a bit long in the tooth
+to be over the hill
+","to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [FINAN.]to annualiseBE / annualizeBE [FINAN.]
+to be 3/15/62 ... years old
+to be so.'s junior (by ... years)
+to be getting a bit long in the tooth
+to be over the hill
+to take a sabbatical
+to be in one's prime
+",None,None,None,"to be born with a silver spoon in one's mouth
+","to economizeAE to economiseBE / economizeBE | economized, economized / economised, economised |
+to budget | budgeted, budgeted |
+to husband | husbanded, husbanded |
+to housekeep | housekept, housekept |
+to potter round the house chiefly (Brit.)
+to live in
+to occupy a house
+to search a house
+to let a house
+to be away from the office
+to be out of the office
+to burgle a house
+to vacate a house
+to squat | squatted, squatted |
+","to sew | sewed, sewn/sewed |
+to stitch | stitched, stitched |
+to cord | corded, corded |
+to seam | seamed, seamed |
+to suture | sutured, sutured | [MED.]
+to be around
+to stick around
+to oversew | oversewed, oversewn/oversewed |
+to pleat | pleated, pleated |
+to rope-stitch | rope-stitched, rope-stitched |
+to sew buttonholes
+to sew buttonholes
+to sew backwards
+to sew forwards
+","to mutter | muttered, muttered |
+to mutter | muttered, muttered |
+to mutter | muttered, muttered |
+to mutter | muttered, muttered |
+to have a baby
+to mutter sth. to oneself
+to be a mother of two children
+to mutter sth. under one's breath
+to play house
+",None,"to play house
+","to bank | banked, banked |
+to bank | banked, banked | - at a bank
+to bank on sth.
+to bank on sth.
+to bank up
+to bank up
+to bank up
+to bank up
+to bank on so./sth.
+to bank sth. | banked, banked | - money, paycheck
+to bank sth. ⇔ in
+to bank with so. - bank
+to bank | banked, banked | [ENGIN.]
+to bank | banked, banked | [AGR.]
+",,"to film (sth.) | filmed, filmed | - a movie
+to film (sth.) | filmed, filmed | - a movie
+to film sth. | filmed, filmed | - a movie
+to film over
+to film | filmed, filmed |
+to shoot a film (Brit.)
+to shoot a movie (Amer.)
+to make a film (Brit.)
+to make a movie (Amer.)
+to finish a roll of film [PHOT.]
+to use up a roll of film [PHOT.]
+to finish a roll of film [PHOT.]
+to use up a roll of film [PHOT.]
+to capture so. on film
+",,,"to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [FINAN.]to annualiseBE / annualizeBE [FINAN.]
+to take a sabbatical
+to be 3/15/62 ... years old
+to be so.'s junior (by ... years)
+to be getting a bit long in the tooth
+to be over the hill
+to be in one's prime
+","to be a westerner
+","to restart | restarted, restarted |
+to reprocess | reprocessed, reprocessed |
+to revalue | revalued, revalued |
+to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
+to reappraise | reappraised, reappraised |
+to rerate | rerated, rerated |
+to reassess | reassessed, reassessed |
+to reappraise | reappraised, reappraised |
+to reclassify | reclassified, reclassified |
+to reapportion | reapportioned, reapportioned |
+to recoin | recoined, recoined | - remint
+to restamp | restamped, restamped |
+to repaper | repapered, repapered |
+to repopulate | repopulated, repopulated |
+",,"to join up
+","to wage war (against so./sth.)
+to make war (on so./sth.)
+to campaign | campaigned, campaigned |
+to be at war
+to wage a war
+to declare war on so./sth.
+to fight a war with so.
+to be at war with so.
+to be at war with so.
+to be at war with so.
+to be on the verge of war
+","to go platinum
+","to keep a record (of sth.)
+to riffle through a book
+to thumb through a book
+to bind a book
+to flip a book open
+to review a book
+to gallop through a book
+to devour a book [fig.]
+to keep an account of sth.
+to consult a book
+to consult a book
+to thumb through a book
+to slog through a book
+to audit | audited, audited |
+","to begin as a writer
+","to go sightseeing - in a town, city
+to skip town [coll.]
+","to land (sth.) | landed, landed |
+to land so. | landed, landed |
+to land | landed, landed |
+to land so. | landed, landed |
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [COMM.][NAUT.]
+to land | landed, landed |
+to reclaim land
+to purchase land
+to break up a piece of land
+to work land
+to subdue | subdued, subdued |
+",,,,,,
+verbs,german,None,None,None,None,None,None,None,"Auto fahren
 ein Auto anschieben
 ein Auto in etw.acc. zurücksetzen
 jmdn. mit dem Auto abholen
@@ -74,8 +631,532 @@ etw.acc. in Flaschen abfüllen
 ein Baby mit der Flasche füttern
 ein Baby mit der Flasche ernähren
 ein Tier mit der Flasche aufziehen
-"
-nouns,english,,,,,,,,"car
+",None,"leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
+leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+für jmdn./etw. leben | lebte, gelebt |
+bei jmdm. leben | lebte, gelebt |
+am Leben sein
+Leben retten
+am Leben bleiben
+am Leben bleiben
+ums Leben kommen
+",None,None,None,"funken | funkte, gefunkt |
+Radio hören
+Radio hören
+im Radio durchgeben
+etw.acc. im Radio hören
+","jmdm. einen guten Morgen entbieten [form.] dated
+",None,"etw.acc. nachrichten | richtete nach, nachgerichtet |
+etw.acc. nachrichten | richtete nach, nachgerichtet |
+nachrichten | richtete nach, nachgerichtet | - z. B. Bögen
+eine Nachricht hinterlassen
+eine Nachricht erhalten
+eine Nachricht senden
+eine Nachricht senden
+eine Nachricht empfangen
+eine Nachricht übermitteln
+eine Nachricht übermitteln
+jmdm. eine Nachricht schreiben
+jmdm. die Nachricht beibringen
+Nachricht von jmdm. bekommen
+Nachricht geben
+eine SMS-Nachricht senden [Mobile Communications]
+jmdm. eine SMS-Nachricht senden [Mobile Communications]
+","jmdn. prügeln | prügelte, geprügelt |
+bördeln | bördelte, gebördelt | [Blechbearbeitung]
+sicken | sickte, gesickt | [Blechbearbeitung]
+umbördeln | bördelte um, umgebördelt |
+walzsicken | -, walzgesickt |
+die Welt beherrschen
+jmdn. zur Welt bringen
+auf die Welt kommen
+sichacc. aus der Welt zurückziehen
+sichacc. von der Welt zurückziehen
+jmds. Welt einstürzen lassen
+aus dieser Welt scheiden
+ein Gerücht in die Welt setzen
+die Gerüchte über etw.acc. aus der Welt räumen
+","Menschen führen
+Menschen leiten
+etw.acc. auf den Menschen übertragen
+Menschen einander näher bringen
+zwei Menschen miteinander verkuppeln [coll.]
+sichacc. anstellen wie der erste Mensch
+","Geschichte machen
+Geschichte schreiben
+eine Geschichte bestätigen
+eine Geschichte erfinden
+eine Geschichte erfinden
+in die Geschichte eingehen
+etw.acc. Geschichte werden lassen
+die Geschichte als Zeugen anrufen
+sichdat. eine Geschichte aus den Fingern saugen
+das Rad der Geschichte zurückdrehen
+","jmdm. eine Nachricht schreiben
+jmdm. eine SMS schicken
+jmdm. eine SMS schreiben
+simsen | simste, gesimst | [coll.] - Ableitung von SMS [Mobile Communications]
+eine SMS-Nachricht senden [Mobile Communications]
+Text rollen
+einen Text kürzen
+einen Text kürzen
+einen Text überfliegen
+einen Text umschreiben
+einen Text ändern
+jmdm. (den Text) soufflieren | soufflierte, souffliert |
+jmdm. eine SMS-Nachricht senden [Mobile Communications]
+jmdm. eine SMS schicken
+",None,"Zeit messen
+Zeit verbringen
+Zeit sparen
+Zeit verschwenden
+Zeit brauchen
+Zeit gewinnen
+Zeit gewinnen
+Zeit totschlagen
+Zeit vergeuden
+Zeit vergeuden
+Zeit aufbringen
+Zeit herausschinden
+die Zeit totschlagen
+sichdat. Zeit lassen
+","einen Spaziergang machen
+einen Spaziergang machen
+",None,"Fieber haben
+Fieber haben
+bei jmdm. Fieber messen
+","schnupfen | schnupfte, geschnupft |
+schnupfen | schnupfte, geschnupft |
+etw.acc. schnupfen | schnupfte, geschnupft |
+schnupfen | schnupfte, geschnupft |
+einen Schnupfen bekommen
+sichdat. einen Schnupfen holen [coll.]
+","husten | hustete, gehustet |
+husten | hustete, gehustet | - Schleim, Blut
+krampfhaft husten
+Bröckchen husten [coll.] - sich erbrechen
+Husten- und Niesetikette befolgen
+","Kopfweh haben
+","die Grippe haben
+","eine Erkältung bekommen
+eine Erkältung kriegen
+an einer Erkältung laborieren [coll.]
+eine schlimme Erkältung haben
+","schulen | schulte, geschult |
+jmdn. schulen | schulte, geschult |
+jmdn. schulen | schulte, geschult |
+jmdn. in etw.dat. schulen | schulte, geschult |
+Schule schwänzen
+die Schule schwänzen
+die Schule schwänzen
+eine Schule besuchen
+jmdn. zur (or: in die) Schule bringen - mit dem Auto
+Schule machen [fig.]
+Schule schwänzen
+(die Schule) schwänzen | schwänzte, geschwänzt |
+die Schule abbrechen
+die Schule schwänzen [coll.]
+","einen Arzt konsultieren
+einen Arzt konsultieren
+zum Arzt gehen
+einen Arzt aufsuchen
+als Arzt praktizieren
+den Arzt rufen
+sichacc. an einen Arzt wenden
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+",None,None,"den Saft auspressen
+von etw.dat. Saft abziehen
+","schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+von etw.dat. schmerzen | schmerzte, geschmerzt |
+etw.nom. schmerzt jmdn. infinitive: schmerzen
+Schmerzen haben
+Schmerzen haben
+Schmerzen haben
+Schmerzen verursachen
+Schmerzen aushalten
+","ein Gefühl haben
+das Gefühl haben, dass ...
+Gefühle verletzen
+mit jmds. Gefühlen spielen
+mit jmds. Gefühlen umgehen
+ein flaues Gefühl im Magen haben
+das dumpfe Gefühl haben, dass ...
+so ein Gefühl haben (, dass ...) [coll.]
+keine Gefühle zulassen
+seine Gefühle ausleben
+seine Gefühle unter Kontrolle haben
+seine Gefühle unter Kontrolle haben
+etw.acc. mit gemischten Gefühlen betrachten
+seine Gefühle unterdrücken
+","ein Kind empfangen - schwanger werden
+ein Kind wickeln
+ein Kind wickeln
+ein Kind wickeln
+ein Kind bekommen
+ein Kind erwarten
+ein Kind baden
+ein Kind gebären
+ein Kind gebären
+ein Kind abhalten
+ein Kind austragen
+ein Kind adoptieren
+ein Kind großziehen
+ein Kind großziehen
+","überwintern | überwinterte, überwintert |
+über den Winter kommen
+","ein Computersystem gegen Viren sichern
+sichacc. wie ein Virus im Internet verbreiten
+","Kinder gebären
+auf Kinder aufpassen
+Kinder aufziehen
+Kinder großziehen
+ein Kind empfangen - schwanger werden
+ein Kind wickeln
+ein Kind wickeln
+ein Kind wickeln
+ein Kind bekommen
+ein Kind erwarten
+ein Kind baden
+ein Kind gebären
+ein Kind gebären
+ein Kind abhalten
+","(mit jmdm.) Kontakt halten
+den Kontakt abbrechen
+einen Kontakt herstellen
+Kontakt mit jmdm. aufnehmen
+(mit jmdm.) in Kontakt bleiben
+mit jmdm. in Kontakt treten
+mit jmdm. in Kontakt treten
+mit jmdm. Kontakt aufnehmen
+mit jmdm. Kontakt aufnehmen
+mit jmdm. Kontakt aufnehmen
+jmdn. mit etw.dat. in Kontakt bringen
+Kontakt aufnehmen
+Kontakte knüpfen
+Kontakte erschließen
+mit jmdm. Kontakte knüpfen
+mit Leuten in Kontakt kommen
+","Wunder vollbringen
+etw.nom. nimmt jmdn. wunder infinitive: wundernehmen
+wund reiben
+wund werden
+sichacc. wundliegen or: wund liegen | lag wund, wundgelegen |
+sichdat. den Rücken wundliegen or: wund liegen
+sichdat. den Rücken wundliegen or: wund liegen
+wundreiben or: wund reiben | rieb wund, wundgerieben |
+wundscheuern or: wund scheuern | scheuerte wund, wundgescheuert |
+eine Wunde abbinden
+eine Wunde abbinden
+eine Wunde verbinden
+eine Wunde betupfen
+bei jmdm. Wunden hinterlassen
+","etw.acc. markieren | markierte, markiert |
+etw.acc. etikettieren | etikettierte, etikettiert |
+etw.acc. bezeichnen | bezeichnete, bezeichnet |
+etw.acc. auszeichnen | zeichnete aus, ausgezeichnet |
+etw.acc. beschildern | beschilderte, beschildert |
+etw.acc. mit einem Anhänger versehen
+etw.acc. mit einem Anhängeschildchen versehen
+mitkommen | kam mit, mitgekommen |
+(mit jmdm.) mitziehen | zog mit, mitgezogen |
+etw.acc. an etw.dat. anbringen | brachte an, angebracht |
+einen Tag freihaben (or: frei haben)
+den Tag verschlafen
+einen Tag anberaumen
+einen Tag (für etw.acc.) bestimmen
+","(etw.acc.) essen | aß, gegessen |
+essen | aß, gegessen |
+essen gehen
+essen gehen
+essen gehen
+ein Essen geben
+das Essen hinunterschlingen [coll.]
+auswärts essen
+einfach essen
+(etw.acc.) mit Behagen essen
+einen Happen essen
+einen Happen essen
+einen Happen essen
+etw.acc. zwischendurch essen
+","Getränke ausschenken
+(für jmdn./etw.) (die) Speisen und Getränke liefern
+","wie Hund und Katze leben
+","jmdm. gute Besserung wünschen
+auf dem Wege (or: Weg) der Besserung sein
+","jmdm. (für etw.acc.) danken | dankte, gedankt |
+",None,"sichacc. mühen | mühte, gemüht |
+Mühe machen
+sichdat. Mühe machen
+sichdat. Mühe (um etw.acc. (or: wegen einer Sachegen.)) geben
+mit Mühe absolvieren
+sichdat. mit jmdm./etw. Mühe geben
+sichdat. mit etw.dat. Mühe geben
+sichdat. bei etw.dat. Mühe geben
+der Mühe wert sein
+der Mühe wert sein
+der Mühe wert sein
+Mühe haben, etw.acc. zu tun
+Mühe haben, etw.acc. zu tun
+Mühe haben, etw.acc. zu tun
+","sichacc. eine Woche beurlauben lassen
+sichacc. eine Woche beurlauben lassen
+eine ganze Woche durchfeiern
+einen Tag in der Woche freihaben (or: frei haben)
+","tagen | tagte, getagt |
+tagen | tagte, getagt |
+tagen | tagte, getagt |
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+untertage (or: unter Tage) arbeiten
+etw.acc. zutage (or: zu Tage) fördern
+über Tage steigen
+unter Tage verbringen
+etw.acc. zutage (or: zu Tage) fördern [fig.]
+zutage (or: zu Tage) treten
+","Arbeit suchen
+Arbeit suchen
+Arbeit suchen
+Arbeit suchen
+Arbeit ausführen
+Arbeit ausführen
+Arbeit ausführen
+Arbeit verrichten
+Arbeit zuweisen
+eine Arbeit annehmen
+die Arbeit wiederaufnehmen (or: wieder aufnehmen)
+zur Arbeit gehen
+zur Arbeit fahren
+die Arbeit niederlegen
+","Glück haben
+Glück haben
+Glück haben
+Glück haben
+Glück haben
+(jmdm.) Glück bringen
+(jmdm.) Glück bringen
+dem Glück vertrauen
+vor Glück strahlen
+sein Glück versuchen
+kein Glück haben
+auf gut Glück überprüfen
+auf sein Glück vertrauen
+sein Glück beim Wetten versuchen
+auf der Seite des Glücks stehen
+","etw.acc. bezeugen | bezeugte, bezeugt |
+etw.acc. attestieren | attestierte, attestiert |
+etw.acc. bestätigen | bestätigte, bestätigt |
+etw.acc. beweisen | bewies, bewiesen |
+etw.acc. belegen | belegte, belegt |
+etw.acc. bescheinigen | bescheinigte, bescheinigt |
+etw.acc. nachweisen | wies nach, nachgewiesen |
+etw.acc. versichern | versicherte, versichert |
+etw.acc. beglaubigen | beglaubigte, beglaubigt |
+etw.acc. bezeugen | bezeugte, bezeugt |
+etw.acc. bestätigen | bestätigte, bestätigt |
+etw.acc. beweisen | bewies, bewiesen |
+von etw.dat. zeugen | zeugte, gezeugt |
+von etw.dat. Zeugnis ablegen
+",None,"ein Rezept ausstellen
+ein Rezept einlösen
+ein Rezept beliefern
+ein Rezept einlösen
+ein Rezept einlösen
+nach Rezept anfertigen
+","mit Medikamenten vollgepumpt sein
+","etw.acc. benennen | benannte, benannt |
+etw.acc. bezeichnen | bezeichnete, bezeichnet |
+etw.acc. angeben | gab an, angegeben |
+etw.acc. bestimmen | bestimmte, bestimmt |
+etw.acc. nennen | nannte, genannt |
+jmdn./etw. nach jmdm./etw. benennen | benannte, benannt |
+jmdn. zu etw.dat. ernennen | ernannte, ernannt |
+einen Preis nennen
+jmdn. an den Pranger stellen [fig.]
+Ross und Reiter nennen [fig.]
+jmdn. für etw.acc. eintragen | trug ein, eingetragen | - in eine Liste
+auf den Namen ... hören
+einen Namen tragen
+genannt werden
+","aufs Jahr umrechnen
+auf das Jahr rechnen
+auf das Jahr umrechnen
+auf das Jahr rechnen
+umrechnen auf das Jahr
+umrechnen auf das Jahr
+in den besten Jahren sein
+sichacc. für ein Jahr beurlauben lassen
+3/15/62/... Jahre alt sein
+(... Jahre) jünger sein als jmd.
+etwas in die Jahre kommen
+seine besten Jahre hinter sichdat. haben
+","aufs Jahr umrechnen
+auf das Jahr rechnen
+auf das Jahr umrechnen
+auf das Jahr rechnen
+umrechnen auf das Jahr
+umrechnen auf das Jahr
+3/15/62/... Jahre alt sein
+(... Jahre) jünger sein als jmd.
+etwas in die Jahre kommen
+seine besten Jahre hinter sichdat. haben
+sichacc. für ein Jahr beurlauben lassen
+in den besten Jahren sein
+",None,None,None,"das Kind reicher Eltern sein
+","haushalten or: Haus halten | haushaltete, gehaushaltet |
+haushalten or: Haus halten | haushaltete, gehaushaltet |
+haushalten or: Haus halten | haushaltete, gehaushaltet |
+haushalten or: Haus halten | haushaltete, gehaushaltet |
+im Haus herumwerkeln
+im Haus wohnen - Personal
+ein Haus bewohnen
+ein Haus durchsuchen
+ein Haus vermieten
+außer Haus sein
+außer Haus sein
+in ein Haus einbrechen
+ein Haus freimachen (or: frei machen)
+Häuser besetzen
+","nähen | nähte, genäht |
+nähen | nähte, genäht |
+nähen | nähte, genäht |
+nähen | nähte, genäht |
+nähen | nähte, genäht |
+in der Nähe sein
+in der Nähe bleiben
+überwendlich nähen
+Falten nähen
+Grobstich nähen
+Knopfloch nähen
+Knopflöcher nähen
+rückwärts nähen
+vorwärts nähen
+","murmeln | murmelte, gemurmelt |
+brummeln | brummelte, gebrummelt |
+murren | murrte, gemurrt |
+mucken | muckte, gemuckt | [coll.]
+Mutter werden
+etw.acc. vor sichacc. hin murmeln
+Mutter von zwei Kindern sein
+etw.acc. leise vor sichacc. hin murmeln
+Vater-Mutter-Kind spielen
+",None,"Vater-Mutter-Kind spielen
+","Bankgeschäfte machen
+ein Bankkonto haben - bei einer Bank
+auf etw.acc. zählen | zählte, gezählt |
+sichacc. auf etw.acc. verlassen | verließ, verlassen |
+aufdämmen | dämmte auf, aufgedämmt |
+aufschütten | schüttete auf, aufgeschüttet |
+andämmen | dämmte an, angedämmt |
+anschütten | schüttete an, angeschüttet |
+auf jmdn./etw. bauen | baute, gebaut |
+etw.acc. auf eine Bank einzahlen
+etw.acc. eindeichen | deichte ein, eingedeicht |
+ein Konto bei jmdm. haben - bei einer Bank
+überhöhen | überhöhte, überhöht | [Road Construction]
+poldern | polderte, gepoldert | [Holzwirtschaft]
+",,"(etw.acc.) drehen | drehte, gedreht | - filmen
+(etw.acc.) filmen | filmte, gefilmt |
+verfilmen | verfilmte, verfilmt |
+anlaufen | lief an, angelaufen | - Glas, Spiegel etc.
+kurbeln | kurbelte, gekurbelt | - Film [coll.]
+einen Film drehen
+einen Film drehen
+einen Film machen
+einen Film machen
+einen Film verknipsen [coll.]
+einen Film verknipsen [coll.]
+einen Film verschießen [coll.]
+einen Film verschießen [coll.]
+jmdn. im Bild festhalten
+",,,"aufs Jahr umrechnen
+auf das Jahr rechnen
+auf das Jahr umrechnen
+auf das Jahr rechnen
+umrechnen auf das Jahr
+umrechnen auf das Jahr
+sichacc. für ein Jahr beurlauben lassen
+3/15/62/... Jahre alt sein
+(... Jahre) jünger sein als jmd.
+etwas in die Jahre kommen
+seine besten Jahre hinter sichdat. haben
+in den besten Jahren sein
+","aus dem Westen sein
+","neu starten
+neu bearbeiten
+neu bewerten
+neu bewerten
+neu bewerten
+neu bewerten
+neu einschätzen
+neu einschätzen
+neu einteilen
+neu einteilen
+neu prägen
+neu prägen
+neu tapezieren
+neu besiedeln
+",,"Soldat werden
+","Krieg (gegen jmdn./etw.) führen
+Krieg (gegen jmdn./etw.) führen
+Krieg führen
+im Krieg sein
+einen Krieg führen
+jmdm./etw. den Krieg erklären
+sichdat. einen Krieg mit jmdm. liefern
+gegen jmdn. Krieg führen
+mit jmdm. Krieg führen
+sichacc. mit jmdm. im Krieg befinden
+am Rande eines Krieges stehen
+","sichacc. fünf Millionen Mal verkaufen
+","Buch (über etw.acc.) führen
+ein Buch durchblättern
+ein Buch durchblättern
+ein Buch binden
+ein Buch aufschlagen
+ein Buch besprechen
+ein Buch überfliegen
+ein Buch verschlingen [fig.]
+über etw.acc. Buch führen
+in einem Buch nachsehen
+in einem Buch nachschlagen
+in einem Buch blättern
+sichacc. durch ein Buch kämpfen
+Bücher prüfen
+","als Schriftsteller anfangen
+","die Stadt besichtigen
+fluchtartig die Stadt verlassen
+","(etw.acc.) landen | landete, gelandet |
+jmdn. bringen | brachte, gebracht |
+ausschiffen | schiffte aus, ausgeschifft |
+jmdn. an Land ziehen
+an Land gehen - Passagiere
+anlegen | legte an, angelegt |
+anlanden | landete an, angelandet |
+löschen | löschte, gelöscht | - Ladung
+ausladen | lud aus, ausgeladen |
+Land abgewinnen
+Land ankaufen
+Land aufteilen
+Land bearbeiten
+Land erschließen
+",,,,,,
+nouns,english,None,None,None,None,None,None,None,"car
 auto (Amer.)
 auto (Amer.)
 auto (Amer.)
@@ -131,8 +1212,873 @@ pulley frame [TECH.]
 pulley shell [TECH.]
 palooka - an athlete, esp. a boxer, lacking in ability, experience, or competitive spirit [sl.] [SPORT.]
 empty tank - diving
-"
-nouns,german,,,,,,,,"das Auto pl.: die Autos
+","dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+engagement
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAE boarddialogueBE board
+dialogueAE / dialogAE moduledialogueBE module
+dialogueAE / dialogAE partnerdialogueBE partner
+dialogueAE / dialogAE systemdialogueBE system
+dialogueAE / dialogAE box [TECH.]dialogueBE box [TECH.]
+dialogueAE / dialogAE window [COMP.]dialogueBE window [COMP.]
+dialogueAE / dialogAE level [TECH.]dialogueBE level [TECH.]
+dialogueAE / dialogAE marketing [TECH.]dialogueBE marketing [TECH.]
+","life - pl.: lives
+living
+lifetime
+existence
+animation
+aquatic life
+singlehood
+urban life
+a life of dissiation
+strenuous life
+strenuous life
+extraterrestrial life
+farming life
+civic life
+","podcast
+",None,"alternative (to sth.)
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+option
+alternative hypothesis
+alternative solution
+","radio
+radio
+radio
+radio
+radio
+radio
+radio
+radio
+car radio
+radio set assembly
+radio [TECH.]
+radio [TELECOM.]
+wireless (Brit.) [ELEC.]
+broadcasting [TELECOM.]
+","morning
+morn [poet.]
+morgen - former measure of land used in Prussia, Norway, and Denmark equal to about 0.3 hectare obsolete
+morrow [poet.] archaic
+yesterday morning
+yestermorning
+red-eye flight
+","host
+presenter
+emcee
+anchorman | anchorwoman
+moderator
+master of ceremonies [abbr.: MC]
+link man
+facilitator [POL.]
+moderator [COMP.][PHYS.]
+chat-show host
+radio chat-show host
+moderator-fuel ratio [METEO.]
+","news - TV, radio used with sg. verb
+tidings plural noun
+intelligence - mass noun - news
+communications pl.
+newscast
+news used with sg. verb
+message
+notice
+piece of news
+post
+output
+advice
+announcement
+information no plural
+","world
+welt - weal sg., usually in plural: welts
+welt
+welt
+welt
+earth
+welt [TEXTIL.]
+welt cutter
+scientific world
+welt buttonhole [TEXTIL.]
+welt edge [TEXTIL.]
+welt seam [TEXTIL.]
+animate world
+smart set
+","people plural noun
+humans pl.
+human
+person
+man - pl.: men
+human being
+the elderly
+elderly people plural noun
+Young Men's Christian Association [abbr.: YMCA]
+externals
+the desperate pl.
+anthropology
+human welfare
+man and beast
+","story
+history no plural - past events
+history no plural - study of past events
+tale
+history - record of past events
+narrative
+saga
+lore
+story for reflection
+living history
+human history
+rigmarole
+story for reflection
+fisherman's story
+","text
+text
+text
+text
+copy - writing to be printed
+words pl.
+paragon - font type, 20 point
+text [coll.] - short for ""text message""
+lines pl. [CINE.][THEA.]
+lyrics [MUS.]
+copywriting
+text communication
+text editor
+text editor
+","dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+engagement
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAE boarddialogueBE board
+dialogueAE / dialogAE moduledialogueBE module
+dialogueAE / dialogAE partnerdialogueBE partner
+dialogueAE / dialogAE systemdialogueBE system
+dialogueAE / dialogAE box [TECH.]dialogueBE box [TECH.]
+dialogueAE / dialogAE window [COMP.]dialogueBE window [COMP.]
+dialogueAE / dialogAE level [TECH.]dialogueBE level [TECH.]
+dialogueAE / dialogAE marketing [TECH.]dialogueBE marketing [TECH.]
+","time
+period
+while
+term
+time duration
+terms pl.
+tense [LING.]
+times pl.
+driving time
+bedtime
+childbearing period
+supper-time
+tripping period [TECH.]
+amortizationAE period [FINAN.]amortisationBE / amortizationBE period [FINAN.]
+","walk
+airing - walk, outing
+promenade
+excursion
+a doddle
+space walk
+","son
+stamper [TECH.]
+man-child or: man child, manchild [poet.] - son
+cadet
+prodigal son [REL.]
+","fever
+temperature
+pyrexia [MED.]
+ague [MED.]
+calenture
+rheumatic fever [MED.]
+typhoid fever [MED.]
+ephemeral fever [MED.]
+African coast fever [MED.]
+fever tree [BOT.]
+fever tree [BOT.]
+dengue fever [MED.]
+Ebola fever [MED.]
+Ebola virus disease [abbr.: EVD] [MED.]
+","cold in the head
+cold
+the snuffles [coll.]
+the sniffles [coll.]
+head cold [MED.]
+coryza [MED.]
+common cold [MED.]
+","cough [MED.]
+dry cough
+irritating cough
+dry cough
+irritating cough
+tracheal cough [MED.]
+hack - dry cough [MED.]
+tracheal cough [MED.]
+productive cough [MED.]
+asthmatic cough [MED.]
+unproductive cough [MED.]
+cough and sneeze etiquette
+coughing and sneezing etiquette
+staccato cough [MED.]
+","headache
+pain in the head [MED.]
+bad headache
+","influenza
+flu
+grippe archaic [MED.]
+Spanish flu [MED.]
+influenza A virus infection [MED.]
+abdominal influenza [MED.]
+stomach flu [MED.]
+","cold
+chill
+common cold [MED.]
+acute nasopharyngitis [MED.]
+bad cold
+after a chill [MED.]
+severe cold
+cold medication
+","school
+school - of fish, dolphins
+school building
+schoolhouse
+pod - small herd or school of marine animals [ZOOL.]
+alma mater [EDUC.]
+educational facilities
+school providing vocational education
+secondary school
+deterministic school of thought
+publicly-maintained school
+public school (Amer.)
+state school
+stochastic school of thought
+","doctor [MED.]
+physician
+medico [coll.]
+medic [coll.]
+medical scientist [MED.]
+medical practitioner [MED.]
+junior house officer (Brit.) [MED.]
+first-year resident [MED.]
+second-year resident [MED.]
+junior doctor [MED.]
+consulting physician
+doctor on duty
+doctor on service
+physician on service
+","pediatristAE / paediatristBE [MED.]
+pediatricianAE / paediatricianBE [MED.]
+","pain reliever
+painkiller [PHARM.]
+analgesic or: analgetic [PHARM.]
+","juice
+crush
+liquor - any liquid, juice
+sap [BOT.]
+juice [sl.] - electricity
+fleshy hawthorn [BOT.]
+succulent hawthorn [BOT.]
+","pangs pl.
+pain
+hurt
+smart
+ache
+sorrow
+achiness
+distress
+pang
+perineal pain [MED.]
+throes plural noun
+racking pains pl.
+aches and pains
+violent pain [MED.]
+","emotion
+feeling
+sensation
+sentiment
+sense (of sth.)
+hunch - intuitive guess, feeling
+sentience
+sense of security
+sense of superiority
+sense and sensibility
+feeling of oppression
+feeling of relief
+embarrassment
+sense of delight
+","kind
+kind
+child - pl.: children
+infant
+kid [coll.] - child
+kind
+kind
+kiddy
+moppet [coll.]
+kind [PHYS.]
+kind [PHYS.]
+sprog (Brit.) [sl.]
+bairn (Scot.)
+chit (Amer.) archaic
+","winter
+winter season
+winter season
+winter clothes pl.
+winter (or: winter's) day
+winter fog
+winter garden
+winter holiday (Brit.) (Brit.)
+winter vacation (Amer.)
+winter sky
+winter abode
+winter boots pl.
+winter coat
+winter sleep
+","virus [MED.]
+virus [COMP.]
+adenoidal pharyngeal conjunctival viruses [MED.]
+African Horse Sickness Virus [abbr.: AHSV] [MED.]
+lymphadenopathy-associated virus [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+Zika virus [MED.]
+Epstein-Barr virus [abbr.: EBV] [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+Absettarov virus [MED.]
+adenoidal pharyngeal conjunctival virus [MED.]
+helper virus [MED.]
+Marburg virus disease [MED.]
+","child - pl.: children
+infant
+kid [coll.] - child
+kiddy
+moppet [coll.]
+sprog (Brit.) [sl.]
+bairn (Scot.)
+chit (Amer.) archaic
+children of school-age
+growing children pl.
+children with a disability
+young children
+waifs and strays pl.
+mouths to feed
+","contact also [TECH.]
+engagement
+outreach
+touch point
+contact member
+contact part
+liaison
+touch
+exposure (to)
+pin [ELEC.]
+contact section [TECH.]
+engage [TECH.]
+sales activity [COMM.]
+interface [TECH.]
+","wonder
+miracle
+marvel
+prodigy
+soft spot
+weak point
+sore spot
+blind spot [fig.]
+signs and wonders
+few-flowered garlic [BOT.]
+few-flowered leek [BOT.]
+fibrous tussock-sedge [BOT.]
+wonder violet [BOT.]
+excoriation
+","day
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+","dinner
+food no plural
+meal
+feed
+grub [sl.]
+chow [sl.]
+tucker (Aust.; N.Z.) [coll.]
+chimney also [GEOL.]
+stack
+forge
+flue [CONSTR.]
+chimney stack [TECH.]
+smith's hearth [TECH.]
+breccia pipe [GEOL.]
+","drink
+beverage
+potation
+potable
+spirits pl.
+alcoholic drinks
+soft drinks
+ardent spirits
+meals and drinks pl.
+booze [coll.]
+spirituous liquors pl. [form.]
+spirituous beverages pl. [form.]
+soft drink
+nonalcoholicAE beveragenon-alcoholicBE beverage
+","cat - domestic cat [ZOOL.]
+feline
+mog or: moggie (Brit.) [coll.]
+crab [TECH.]
+trolley [TECH.]
+jack [TECH.]
+heck box [TECH.]
+cat [ZOOL.]
+felids pl. [ZOOL.]
+pig in a poke
+cat-o'-nine-tails
+tabby - cat
+tabby cat
+tabby - cat
+","improvement
+betterment
+recovery
+reform
+upturn
+amendment
+mended ways
+amelioration [MED.]
+sign of recovery pl.
+care order [LAW]
+hospital order [LAW]
+",None,None,"trouble
+effort
+laborAE / labourBE
+pain
+toil
+bother
+hassle
+arduousness
+travail sg., usually in plural: travails - toil [poet.] dated
+troubles pl.
+best effort
+vain endeavorAEvain endeavourBE
+","week
+sennight or: se'nnight archaic
+fortnight
+Shavuot or: Shabuoth [REL.]
+exhausting week
+midweek
+previous week
+","monthlies plural noun [coll.] - menstrual period
+day
+daytime
+tag [COMP.]
+ground level [GEOL.]
+ground surface [GEOL.]
+day level
+day surface
+daylight
+grass roots [TECH.]
+land level [TECH.]
+land surface [TECH.]
+level ground [TECH.]
+surface [TECH.]
+","job
+work also [PHYS.]
+laborAE / labourBE
+employment
+occupation
+assignment
+activity
+task
+chore
+paper [EDUC.]
+energy [ELEC.]
+works used with sg. or pl. verb
+operations pl. [TECH.]
+char - dated; now usually: chore (Brit.)
+","luck
+joy
+happiness
+fortune
+felicity - happiness
+bliss
+serendipity
+auspiciousness
+good luck
+luckiness
+lucky break
+great fortune
+sunshine friends
+eudemonicAE / eudaemonicBE
+a shot in the dark
+quest for happiness
+economics of happiness [ECON.]
+","attestation
+certificate
+testimonial
+medical certificate
+medical certificate
+doctor's certificate
+bill of health
+medical report [INSUR.]
+","waiting room
+anteroom
+","recipe [fig.]
+recipe [COOK.]
+prescription [PHARM.]
+Rx chiefly (Amer.) - used in written form on a sign, document, etc., from Latin 'recipe': prescription [PHARM.]
+formula - pl.: formulas, formulae - list of ingredients for making something
+industry recipes [COMM.]
+over-the-counter drug [PHARM.]
+","drugs pl. [PHARM.]
+drug
+medicine
+medicament
+remedy
+pharmaceutical sg., usually in plural: pharmaceuticals [PHARM.]
+physic [MED.]
+prescription drug
+suppressant [PHARM.]
+prescription drug [PHARM.]
+prescription medicine [PHARM.]
+prescription only medicine (or: prescription-only) [abbr.: POM] (Brit.) [PHARM.]
+antipsychotic drug [PHARM.]
+behind-the-counter drug [PHARM.]
+","name
+name
+name
+name
+name - of a company, stock corporation ...
+denomination
+label
+moniker or: monicker [coll.]
+handle [coll.] - given name
+identifier - in software [TELECOM.]
+family name
+family name
+last name
+first name
+","year
+twelvemonth archaic
+New Year
+presidential year (Amer.)
+year of assessment
+year of availability [TECH.]
+academic year
+gap year taken to do voluntary work in the environmental sector
+current year
+year-to-date [abbr.: YTD]
+gap year usually taken to do voluntary work in the social sector
+sabbatical year
+fiscal year
+Julian year
+","year
+twelvemonth archaic
+millennium - pl.: millenniums, millennia
+years in succession pl.
+the eighties (or: 80s) pl.
+the nineties (or: 90s) pl.
+the noughties pl. - 2000-2009
+the forties (or: 40s) pl.
+the thirties (or: 30s) pl.
+the sixties (or: 60s) pl.
+the seventies (or: 70s) pl.
+the twenties (or: 20s) pl.
+the nineteen-twenties (or: 1920s) pl.
+the fifties (or: 50s) pl.
+","sibling sg., usually in plural: siblings
+brothers and sisters pl.
+saviorAE siblingsaviourBE sibling
+sibling rivalry
+","sister
+sibling
+nurse
+nun
+sis [coll.] - short for ""sister""
+big sister - older sister
+baby sister - younger sister
+little sister - younger sister
+theatre nurse (Brit.) [MED.]
+","brother
+sibling
+brethren - archaic plural of ""brother""
+brethren - of a male religous order pl. [REL.]
+happy-go-lucky chap
+cadet
+brother-german
+big brother - older brother
+baby brother - younger brother
+little brother - younger brother
+separated brother
+fruit [sl.]
+the Brothers Grimm pl.
+the Grimm Brothers pl.
+dearly beloved brethren
+","parents pl.
+parent [BIOL.]
+biological parents
+parents' bedroom
+parental consent
+parent-child relationship
+helicopter parents pl. [coll.] [pej.]
+empty nesters
+parenting instruction
+crack baby
+filial piety
+","home
+house - pl.: houses
+House or: house - dynasty, family lineage
+financial institution [FINAN.]
+domicile
+house and farm
+guildhall
+the House of Bourbon [HIST.]
+detached house
+detached house
+sell-out house
+smart home
+abandoned house
+five-storiedAE housefive-storeyedBE house
+","proximity
+vicinity
+adjacency or: adjacence
+closeness
+propinquity
+contiguousness
+shortness
+vicinage - vicinity rare
+nearness
+striking distance
+law of proximity [ART.][PSYCH.]
+likelihood of nearness
+arms' length range
+working in the vicinity of live parts [ELEC.]
+","mother
+nut [ENGIN.]
+screw nut [TECH.]
+positive [TECH.]
+mother of two/three/four ...
+mother Earth
+mother nature
+Virgin Mother [REL.]
+Mother of God [REL.]
+the Reverend Mother [REL.]
+expectant mother
+mother-to-be
+biological mother
+working mother
+","cook
+chef French
+","father
+begetter
+master negative [TECH.]
+master original [TECH.]
+genitor rare [BIOL.]
+father of two/three/four ...
+Uncle Sam (Amer.) [coll.]
+biological father
+biological father
+single father
+single parent
+father-to-be
+birth father
+the alleged father
+","bench
+bank [FINAN.]
+bank
+bank
+plate [TECH.]
+bank
+bank
+bank
+bank
+bank
+bank
+bank
+bank
+bank
+","Academy Award
+oscar [ZOOL.]
+","film
+movie (Amer.)
+film
+film
+film
+film
+film
+film
+film
+film
+coat
+picture - film
+motion picture
+the movies plural noun (Amer.)
+","Academy Award
+oscar [ZOOL.]
+",,"year
+twelvemonth archaic
+New Year
+presidential year (Amer.)
+year of assessment
+year of availability [TECH.]
+academic year
+gap year taken to do voluntary work in the environmental sector
+current year
+year-to-date [abbr.: YTD]
+gap year usually taken to do voluntary work in the social sector
+sabbatical year
+fiscal year
+Julian year
+","west
+Occident or: occident
+West or: west
+vest (Amer.)
+waistcoat
+wild West
+Midwest [GEOG.]
+bullet proof vest
+bulletproof vest
+bulletproof vest
+","entrant
+new member
+initiate
+baby brother - new-born brother
+baby sister - new-born sister
+new venture
+new venture
+recent field of research
+new public management
+new trading segment
+new payment procedure
+new business [COMM.]
+New Testament [abbr.: NT] [REL.]
+New Steering Model [abbr.: NSM] [POL.]
+",,"soldier
+serviceman - pl.: servicemen
+enlisted person (Amer.) [MIL.]
+enlistee (Amer.) [MIL.]
+dinergate [ZOOL.]
+troops plural noun [MIL.]
+ex-serviceman - pl.: ex-servicemen
+campaigner
+trooper
+regular [MIL.]
+digger (Aust.) [coll.]
+digger (N.Z.) [coll.]
+GI - pl.: GIs [MIL.]
+scaly-naped amazon [ZOOL.]
+conscript army [MIL.]
+","war
+warfare
+cyber war
+war in cyberspace
+holy war
+Holy War
+Trojan War [MYTH.]
+Cold War [POL.]
+Peloponnesian War [HIST.]
+Franco-Prussian War [HIST.]
+Russo-Turkish war [HIST.]
+Austro-Prussian War [HIST.]
+Seven Weeks' War [HIST.]
+Franco-Spanish War [MIL.] [HIST.]
+","million [abbr.: m]
+millions of ...
+billion [abbr.: bn]
+crore
+several million
+several millions pl.
+bazillion [coll.]
+zillions pl. [coll.]
+milliard (Brit.) obsolete
+million instructions per second [abbr.: MIPS] [COMP.]
+million instructions per second [abbr.: MIPS] [COMP.]
+parts per million
+million barrels of oil equivalent per day [abbr.: MMBOEpd] [COMM.]
+","book
+volume - book
+casebook
+quire - of paper
+ledger [FINAN.]
+page [fig.] - pages collectively rare
+accounts pl. [FINAN.]
+large book
+Book of Malachi - book of the Bible [abbr.: Mal., Mal] [REL.]
+Ecclesiastes [REL.]
+Book of Judges [abbr.: Judg., Jgs] [REL.]
+Book of Esther - short: Esther [abbr.: Esth.] - a book of the Bible [REL.]
+Book of Job [abbr.: Jb] [REL.]
+The Book of Books - bible [REL.]
+","writer
+author - of a book, poem, etc.
+penman - pl.: penmen - author
+knight of the pen [hum.]
+committed writer
+brilliant writer
+classical author
+classical writer
+polemic writer
+","city
+town
+burg [coll.] (Amer.)
+corporation (Brit.) [ADMIN.]
+historic town
+expanded town
+new town (Brit.)
+sacred city
+town independent of a Kreis
+urban municipality
+town with ribbon development
+ancient town
+the Eternal City
+expanding town
+","country
+land
+ground
+nation
+land
+land
+land
+land
+land
+land
+land
+land
+land
+land
+",,,,"director [THEA.][CINE.]
+producer (Brit.) [THEA.]
+stage director
+","owner
+possessor
+proprietor | proprietress
+occupant
+mistress
+holder [FINAN.]
+tenant
+shareholder
+",
+nouns,german,None,None,None,None,None,None,None,"das Auto pl.: die Autos
 das Auto pl.: die Autos
 das Fahrzeug pl.: die Fahrzeuge
 der Wagen pl.: die Wagen/die Wägen
@@ -188,8 +2134,873 @@ die Flasche pl.: die Flaschen
 die Flasche pl.: die Flaschen
 die Flasche pl.: die Flaschen [sl.]
 leere Flasche - Tauchen
-"
-noun_details,english,,,,,,,,"article: das
+","der Dialog pl.: die Dialoge
+das Gespräch pl.: die Gespräche
+das Wechselgespräch pl.: die Wechselgespräche
+die Zwiesprache pl.: die Zwiesprachen
+der Dialog pl.: die Dialoge
+das Zwiegespräch pl.: die Zwiegespräche
+das Dialogforum pl.: die Dialogforen
+der Dialogbaustein pl.: die Dialogbausteine
+der Gesprächspartner | die Gesprächspartnerin pl.: die Gesprächspartner, die Gesprächspartnerinnen
+interaktives System
+das Dialogfenster pl.: die Dialogfenster
+das Dialogfenster pl.: die Dialogfenster
+die Dialogebene pl.: die Dialogebenen
+das Dialogmarketing no plural
+","das Leben pl.
+das Leben no plural
+das Leben pl.
+das Leben pl.
+das Leben no plural
+Leben im Wasser
+Leben als Single
+städtisches Leben
+zügelloses Leben
+anstrengendes Leben
+arbeitsreiches Leben
+außerirdisches Leben
+bäuerliches Leben
+bürgerliches Leben
+","der Podcast pl.: die Podcasts
+",None,"die Alternative (zu etw.dat.) pl.: die Alternativen
+die Variante pl.: die Varianten
+der Ersatz no plural
+die Ausweichmöglichkeit pl.: die Ausweichmöglichkeiten
+andere Wahl
+die Mehrfachmöglichkeit pl.: die Mehrfachmöglichkeiten
+die Ersatzlösung pl.: die Ersatzlösungen
+das Ersatzwerk pl.: die Ersatzwerke
+die Möglichkeit pl.: die Möglichkeiten
+die Wahl pl.
+die Wahlmöglichkeit pl.: die Wahlmöglichkeiten
+die Alternative pl.: die Alternativen
+die Alternative pl.: die Alternativen
+die Alternative pl.: die Alternativen
+","das Radio pl.: die Radios
+der Rundfunk no plural
+der Radioapparat pl.: die Radioapparate
+das Rundfunkgerät pl.: die Rundfunkgeräte
+der Hörfunk no plural
+der Bordfunk no plural
+der Rundfunkempfänger pl.: die Rundfunkempfänger
+der Sprechfunk no plural
+das Radio pl.: die Radios
+das Radio pl.: die Radios
+der Funk no plural
+das Funkgerät pl.: die Funkgeräte
+das Radio pl.: die Radios
+das Radio pl.: die Radios
+","der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen - älteres Feldmaß, territorial verschieden zwischen 2500 und 3600 m2
+das Morgen no plural
+gestern Morgen
+gestern Morgen
+Frühflug am Morgen
+","der Moderator pl.: die Moderatoren
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator pl.: die Moderatoren
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen - Radio, TV
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator pl.: die Moderatoren
+Moderator einer Talkshow
+Moderator einer Radio-Talkshow
+das Moderator-Spaltstoff-Verhältnis
+","die Nachrichten pl., no sg. - im Fernsehen, Radio
+die Nachrichten pl.
+die Nachrichten pl., no sg.
+die Nachrichten pl., no sg.
+die Nachrichten pl., no sg. - im Fernsehen, Radio
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+","die Welt pl.: die Welten
+die Strieme usually in pl. Striemen
+die Einfassung pl.: die Einfassungen
+der Rahmen pl.: die Rahmen
+die Quaddel pl.: die Quaddeln
+die Welt pl.: die Welten
+der Keder pl.: die Keder
+das Randmesser pl.: die Randmesser
+Welt der Wissenschaft
+das Paspelknopfloch pl.: die Paspelknopflöcher
+die Wulstkante pl.: die Wulstkanten
+die Wulstnaht pl.: die Wulstnähte
+belebte Welt
+elegante Welt
+","die Menschen pl.
+die Menschen pl.
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+ältere Menschen pl.
+ältere Menschen pl.
+christlicher Verein junger Menschen [abbr.: CVJM]
+fremdbestimmte Menschen
+verzweifelte Menschen pl.
+Lehre vom Menschen
+Wohlergehen der Menschen
+Mensch und Tier
+","die Geschichte pl.: die Geschichten
+die Geschichte no plural
+die Geschichte no plural
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichten pl.
+Geschichte zum Nachdenken
+Geschichte zum Anfassen
+die Geschichte der Menschheit
+langatmige Geschichte
+nachdenkliche Geschichte
+abenteuerliche Geschichte
+","der Text pl.: die Texte
+der Wortlaut pl.: die Wortlaute
+die Bibelstelle pl.: die Bibelstellen
+der Textteil pl.: die Textteile
+der Text pl.: die Texte
+der Text pl.: die Texte
+die Text - Schriftart, 20 Punkt
+die SMS pl.: die SMS - kurz für ""SMS-Nachricht"" [coll.]
+der Text pl.: die Texte - eines Schauspielers
+der Text pl.: die Texte - Liedtext
+das Texten
+die Textkommunikation pl.: die Textkommunikationen
+der Texteditor pl.: die Texteditoren
+der Text-Editor
+","der Dialog pl.: die Dialoge
+das Gespräch pl.: die Gespräche
+das Wechselgespräch pl.: die Wechselgespräche
+die Zwiesprache pl.: die Zwiesprachen
+der Dialog pl.: die Dialoge
+das Zwiegespräch pl.: die Zwiegespräche
+das Dialogforum pl.: die Dialogforen
+der Dialogbaustein pl.: die Dialogbausteine
+der Gesprächspartner | die Gesprächspartnerin pl.: die Gesprächspartner, die Gesprächspartnerinnen
+interaktives System
+das Dialogfenster pl.: die Dialogfenster
+das Dialogfenster pl.: die Dialogfenster
+die Dialogebene pl.: die Dialogebenen
+das Dialogmarketing no plural
+","die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten - Zeitform
+die Zeiten pl.
+Zeit am Steuer
+Zeit zum Schlafengehen
+Zeit der Schwangerschaft
+Zeit zum Abendessen
+Zeit zum Auslösen
+Zeit zur Abzahlung
+","der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge [fig.]
+der Spaziergang im All
+","der Sohn pl.: die Söhne
+der Sohn pl.: die Söhne
+der Sohn pl.: die Söhne
+jüngerer Sohn
+verlorener Sohn
+","das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+heftiges Fieber
+rheumatisches Fieber Lat.: Febris rheumatica
+typhoides Fieber Lat.: Typhus abdominalis
+ephemeres Fieber
+Rhodesisches Fieber
+die Fieberakazie or: Fieber-Akazie pl. Lat.: Acacia xanthophloea, Vachellia xanthophloea
+der Fieberbaum or: Fieber-Akazie pl. Lat.: Acacia xanthophloea, Vachellia xanthophloea
+das Denguefieber or: Dengue-Fieber pl.
+das Ebolafieber or: Ebola-Fieber no plural
+das Ebolafieber or: Ebola-Fieber no plural
+","der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen Lat.: Coryza
+der Schnupfen pl.: die Schnupfen Lat.: Coryza
+","der Husten pl.
+trockener Husten
+ärgerlicher Husten
+bellender Husten
+lästiger Husten
+bellender Husten - volkstümliche Bezeichnung für den harten bellenden Husten bei Tracheitis
+trockener Husten
+trockener Husten - volkstümliche Bezeichnung für den harten bellenden Husten bei Tracheitis
+produktiver Husten
+spastischer Husten
+unproduktiver Husten
+die Husten- und Niesetikette or: Husten- und Nies-Etikette
+die Husten- und Niesetikette or: Husten- und Nies-Etikette
+der Stakkato-Husten
+","das Kopfweh no plural
+das Kopfweh no plural
+übles Kopfweh
+","die Grippe pl.: die Grippen
+die Grippe pl.: die Grippen
+die Grippe pl.: die Grippen
+Spanische Grippe
+echte Grippe
+die Magen-Darm-Grippe pl.: die Magen-Darm-Grippen
+die Magen-Darm-Grippe pl.: die Magen-Darm-Grippen
+","die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+schlimme Erkältung
+nach einer Erkältung
+schlimme Erkältung
+Medizin gegen Erkältungen
+","die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen - Gebäude
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schulen pl.
+berufsbildende Schule
+höhere Schule
+deterministische Schule
+öffentliche Schule
+öffentliche Schule
+öffentliche Schule
+stochastische Schule
+","der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+beratender Arzt
+diensthabender (or: Dienst habender) Arzt
+diensthabender (or: Dienst habender) Arzt
+diensthabender (or: Dienst habender) Arzt
+","der Kinderarzt | die Kinderärztin pl.: die Kinderärzte, die Kinderärztinnen
+der Kinderarzt | die Kinderärztin pl.: die Kinderärzte, die Kinderärztinnen
+","das Schmerzmittel pl.: die Schmerzmittel
+das Schmerzmittel pl.: die Schmerzmittel
+das Schmerzmittel pl.: die Schmerzmittel
+","der Saft pl.: die Säfte
+der Saft pl.: die Säfte
+der Saft pl.: die Säfte - z. B. Fleischsaft
+der Saft pl.: die Säfte
+der Saft pl. - Strom, Brennstoff [sl.]
+der Saftweißdorn or: Saft-Weißdorn pl. Lat.: Crataegus succulenta
+der Saftweißdorn or: Saft-Weißdorn pl. Lat.: Crataegus succulenta
+","die Schmerzen pl.
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+Schmerzen im Dammbereich
+heftige Schmerzen pl.
+rasende Schmerzen pl.
+starke Schmerzen
+heftige Schmerzen pl.
+","das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl (für etw.acc.) no plural
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+Gefühl der Sicherheit
+Gefühl der Überlegenheit
+Gefühl und Verstand
+Gefühl der Bedrängnis
+Gefühl der Erleichterung
+Gefühl der Verlegenheit
+Gefühl der Freude
+","die Art pl.
+die Sorte pl.: die Sorten
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+die Gattung pl.: die Gattungen
+die Natur pl.: die Naturen
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+Art einer Größe
+die Größenart pl.: die Größenarten
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+","der Winter pl.: die Winter
+die Wintersaison pl.: die Wintersaisons/die Wintersaisonen
+die Winterzeit pl.: die Winterzeiten
+die Wintersachen pl., no sg.
+der Wintertag pl.: die Wintertage
+der Winternebel pl.: die Winternebel
+der Wintergarten pl.: die Wintergärten
+der Winterurlaub pl.: die Winterurlaube
+der Winterurlaub pl.: die Winterurlaube
+der Winterhimmel pl.: die Winterhimmel
+der Winteraufenthalt pl.: die Winteraufenthalte
+die Winterstiefel pl.
+der Wintermantel pl.: die Wintermäntel
+der Winterschlaf no plural
+","das Virus pl.: die Viren - außerhalb der Fachsprache auch: der Virus
+der (or: das) Virus pl.: die Viren
+die APV-Viren pl.
+Virus der Pferdepest
+Lymphadenopathie-assoziiertes Virus
+humanes respiratorisches Synzytial-Virus [abbr.: HRSV]
+respiratorisches Synzytial-Virus [abbr.: RSV]
+das Zikavirus or: Zika-Virus pl.: die Zikaviren, die Zika-Viren
+das Epstein-Barr-Virus pl.: die Epstein-Barr-Viren [abbr.: EBV]
+das RS-Virus [abbr.: RSV]
+der (or: das) Absettarov-Virus
+das APC-Virus pl.: die APC-Viren
+das Helfer-Virus pl.: die Helfer-Viren
+die Marburg-Virus-Krankheit pl.
+","das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+Kinder im Schulalter
+heranwachsende Kinder pl.
+behinderte Kinder pl.
+kleine Kinder pl.
+heimatlose Kinder pl.
+durchzufütternde Kinder pl. [coll.]
+","der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt (mit) +dat. pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+","das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+wunder Punkt
+wunder Punkt
+wunder Punkt
+wunder Punkt
+Zeichen und Wunder
+der Wunderlauch or: Wunder-Lauch pl. Lat.: Allium paradoxum
+der Wunderlauch or: Wunder-Lauch pl. Lat.: Allium paradoxum
+die Wundersegge or: Wunder-Segge pl. Lat.: Carex appropinquata
+das Wunderveilchen or: Wunder-Veilchen pl.: die Wunderveilchen Lat.: Viola mirabilis
+wunde Stelle
+","der Tag pl.: die Tage
+der Anhänger pl.: die Anhänger
+das Etikett pl.: die Etiketten/die Etikette/die Etiketts
+das Schild pl.: die Schilder
+das Schildchen pl.: die Schildchen
+die Marke pl.: die Marken
+das Anhängeschild pl.: die Anhängeschilder
+der Kennsatz pl.: die Kennsätze
+das Kennzeichen pl.: die Kennzeichen
+das Namensschild pl.: die Namensschilder
+die Kennzeichnung pl.: die Kennzeichnungen
+die Plakette pl.: die Plaketten
+der Abgrenzer pl.: die Abgrenzer
+der Anhängezettel pl.: die Anhängezettel
+","das Essen no plural
+das Essen no plural
+das Essen pl.: die Essen
+das Essen no plural
+das Essen no plural
+das Essen no plural
+das Essen no plural
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen [Schmieden]
+die Esse pl.: die Essen
+","das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+alkoholische Getränke
+alkoholische Getränke
+alkoholfreie Getränke
+geistige Getränke pl.
+Speisen und Getränke pl.
+alkoholische Getränke
+geistige Getränke pl. [form.]
+geistige Getränke pl. [form.]
+alkoholfreies Getränk
+alkoholfreies Getränk
+","die Katze pl. - Hauskatze Lat.: Felis silvestris forma catus
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen - Kran
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen - Zettelmaschine
+die Katze pl.: die Katzen - Zettelmaschine
+die Katze pl. Lat.: Felidae (Familie)
+die Katzen pl. Lat.: Felidae
+Katze im Sack
+neunschwänzige Katze
+gescheckte Katze
+gescheckte Katze
+getigerte Katze
+","die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural - des Lebenswandels
+die Besserung no plural
+Anzeichen der Besserung pl.
+Maßregeln der Sicherung und Besserung
+Maßregeln der Sicherung und Besserung
+",None,None,"die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe no plural
+die Mühe usually in pl. Mühen
+die Mühen pl.
+größte Mühe
+vergebliche Mühe
+","die Woche pl.: die Wochen
+die Woche pl.: die Wochen
+zwei Wochen
+Fest der Wochen [Judaism]
+anstrengende Woche
+Mitte der Woche
+vorige Woche
+","die Tage pl., no sg. [coll.] - Menstruation
+der Tag pl.: die Tage
+der Tag pl.: die Tage
+das (or: der) Tag pl.: die Tags/die Tage [EDV]
+der Tag pl.: die Tage
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+","die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit no plural
+die Arbeit no plural
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit no plural
+die Arbeiten pl.
+die Arbeiten pl.
+Arbeit im Haushalt
+","das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+unverhofftes Glück
+großes Glück
+Freunde im Glück
+Mittel zum Glück
+ein Versuch auf gut Glück
+Streben nach Glück
+Ökonomie des Glücks
+","das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+ärztliches Attest
+ärztliches Attest
+ärztliches Attest
+ärztliches Attest
+","das Wartezimmer pl.: die Wartezimmer
+das Wartezimmer pl.: die Wartezimmer
+","das Rezept pl.: die Rezepte [fig.]
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+branchenspezifische Rezepte
+Medikament, das man ohne Rezept bekommt
+","die Medikamente pl.
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+rezeptpflichtiges Medikament
+hemmendes Medikament
+verschreibungspflichtiges Medikament
+verschreibungspflichtiges Medikament
+verschreibungspflichtiges Medikament
+antipsychotisches Medikament
+apothekenpflichtiges Medikament
+","der Name rarely: Namen pl.: die Namen
+die Benennung pl.: die Benennungen
+die Bezeichnung pl.: die Bezeichnungen
+der Personenname pl.: die Personennamen
+die Firma pl.: die Firmen - eingetragener Name eines Unternehmens, Geschäfts, ...
+der Name pl.: die Namen
+der Name pl.: die Namen
+der Name pl.: die Namen
+der Name pl.: die Namen
+der Name pl.: die Namen
+der Familienname pl.: die Familiennamen
+der Zuname pl.: die Zunamen
+der Zuname pl.: die Zunamen
+der Vorname pl.: die Vornamen
+","das Jahr pl.: die Jahre
+das Jahr pl.: die Jahre
+das neue Jahr
+Jahr der Präsidentenwahl
+Jahr der Veranlagung
+Jahr der Verfügbarkeit [Standardization]
+akademisches Jahr
+Freiwilliges Ökologisches Jahr [abbr.: FÖJ]
+laufendes Jahr
+laufendes Jahr
+Freiwilliges Soziales Jahr [abbr.: FSJ]
+dienstfreies Jahr
+fiskalisches Jahr
+julianisches Jahr
+","das Jahr pl.: die Jahre
+das Jahr pl.: die Jahre
+tausend Jahre
+zusammenhängende Jahre pl.
+die Achtzigerjahre or: achtziger Jahre, 80er Jahre, 80er-Jahre pl., no sg.
+die Neunzigerjahre or: neunziger Jahre, 90er Jahre, 90er-Jahre pl., no sg.
+die nuller Jahre or: Nullerjahre pl., no sg. - 2000-2009
+die Vierzigerjahre or: vierziger Jahre, 40er Jahre, 40er-Jahre pl., no sg.
+die Dreißigerjahre or: dreißiger Jahre, 30er Jahre, 30er-Jahre pl., no sg.
+die Sechzigerjahre or: sechziger Jahre, 60er Jahre, 60er-Jahre pl., no sg.
+die Siebzigerjahre or: siebziger Jahre, 70er Jahre, 70er-Jahre pl., no sg.
+die Zwanzigerjahre or: zwanziger Jahre, 20er Jahre, 20er-Jahre pl., no sg.
+die Zwanzigerjahre or: zwanziger Jahre, 20er Jahre, 20er-Jahre pl., no sg.
+die Fünfzigerjahre or: fünfziger Jahre, 50er Jahre, 50er-Jahre pl., no sg.
+","das Geschwister usually in pl. Geschwister
+die Geschwister pl.
+das Rettergeschwister or: Retter-Geschwister
+Rivalität zwischen Geschwistern
+","die Schwester pl.: die Schwestern
+die Schwester pl.: die Schwestern
+der Pfleger | die Schwester pl.: die Pfleger, die Schwestern - im Krankenhaus
+die Schwester pl.: die Schwestern - im Kloster
+die Schwester pl.: die Schwestern
+große Schwester
+kleine Schwester
+kleine Schwester
+die OP-Schwester pl.: die OP-Schwestern
+","der Bruder pl.: die Brüder
+der Bruder pl.: die Brüder
+die Brüder pl.
+die Brüder pl.
+Bruder Leichtfuß
+jüngerer Bruder
+leiblicher Bruder
+großer Bruder
+kleiner Bruder
+kleiner Bruder
+getrenntlebender (or: getrennt lebender) Bruder
+warmer Bruder [sl.] - Homosexueller
+die Brüder Grimm pl.
+die Brüder Grimm pl.
+innigst geliebte Brüder pl.
+","die Eltern pl., no sg.
+der (or: das) Elter pl.: die Eltern technical usage
+leibliche Eltern
+Schlafzimmer der Eltern
+Zustimmung der Eltern
+die Eltern-Kind-Beziehung pl.: die Eltern-Kind-Beziehungen
+die Helikoptereltern or: Helikopter-Eltern pl., no sg.
+Eltern mit erwachsenen Kindern
+Erziehungstraining für Eltern
+Kind drogensüchtiger Eltern
+Respekt gegenüber den Eltern
+","das Haus pl.: die Häuser
+das Haus pl.: die Häuser
+das Haus pl.: die Häuser - Dynastie, Geschlecht
+das Haus pl.: die Häuser
+das Haus pl.: die Häuser
+Haus und Hof
+Haus der Innungen
+das Haus Bourbon
+alleinliegendes Haus
+freistehendes (or: frei stehendes) Haus
+ausverkauftes Haus
+intelligentes Haus
+verlassenes Haus
+fünfstöckiges Haus
+","die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+die Nähe no plural
+unmittelbare Nähe
+Gesetz der Nähe
+Wahrscheinlichkeit der Nähe [Statistics]
+Ausmaß an geschäftlicher Nähe
+Arbeiten in der Nähe aktiver Teile
+","die Mutter pl.: die Mütter
+die Mutter pl.: die Muttern
+die Mutter pl.: die Muttern
+die Mutter pl.: die Muttern
+zweifache/dreifache/vierfache Mutter
+Mutter Erde
+Mutter Natur
+Mutter Gottes
+Mutter Gottes [Catholicism]
+die Mutter Oberin - Anrede
+werdende Mutter
+werdende Mutter
+leibliche Mutter
+berufstätige Mutter
+","der Koch | die Köchin pl.: die Köche, die Köchinnen
+der Koch | die Köchin pl.: die Köche, die Köchinnen
+","der Vater pl.: die Väter
+der Vater pl.: die Väter
+der Vater pl.: die Väter
+der Vater pl.: die Väter
+der Vater pl.: die Väter
+zweifacher/dreifacher/vierfacher Vater
+Vater Staat [coll.]
+leiblicher Vater
+biologischer Vater
+alleinerziehender (or: allein erziehender) Vater
+alleinerziehender (or: allein erziehender) Vater
+werdender Vater
+natürlicher Vater
+der angebliche Vater pl.: die Väter
+","die Bank pl.: die Bänke
+die Bank pl.: die Banken
+das Ufer pl.: die Ufer
+das Flussufer pl.: die Flussufer
+die Bank pl.: die Bänke
+die Böschung pl.: die Böschungen - Fluss
+der Damm pl.: die Dämme
+das Kreditinstitut pl.: die Kreditinstitute
+der Wall pl.: die Wälle
+der Deich pl.: die Deiche
+das Geldinstitut pl.: die Geldinstitute
+die Strosse pl.: die Strossen
+das Bankgebäude pl.: die Bankgebäude
+der Erddamm pl.: die Erddämme
+","der Oscar pl.: die Oscars
+der Pfauenaugenbuntbarsch pl. Lat.: Astronotus ocellatus [Ichthyology]
+","der Film pl.: die Filme
+der Film pl.: die Filme
+die Folie pl.: die Folien
+die Schicht pl.: die Schichten
+der Anflug pl.: die Anflüge
+das Häutchen pl.: die Häutchen
+der Belag pl.: die Beläge
+der Überzug pl.: die Überzüge
+der Niederschlag pl.: die Niederschläge
+der Nebelschleier pl.: die Nebelschleier
+der Film pl.: die Filme
+der Film pl.: die Filme
+der Film pl.: die Filme
+der Film pl.: die Filme - Genre
+","der Oscar pl.: die Oscars
+der Pfauenaugenbuntbarsch pl. Lat.: Astronotus ocellatus [Ichthyology]
+",,"das Jahr pl.: die Jahre
+das Jahr pl.: die Jahre
+das neue Jahr
+Jahr der Präsidentenwahl
+Jahr der Veranlagung
+Jahr der Verfügbarkeit [Standardization]
+akademisches Jahr
+Freiwilliges Ökologisches Jahr [abbr.: FÖJ]
+laufendes Jahr
+laufendes Jahr
+Freiwilliges Soziales Jahr [abbr.: FSJ]
+dienstfreies Jahr
+fiskalisches Jahr
+julianisches Jahr
+","der Westen no plural
+der Westen no plural
+der Westen no plural - Bridge
+die Weste pl.: die Westen
+die Weste pl.: die Westen
+der wilde Westen no plural
+mittlerer Westen - USA
+kugelsichere Weste
+kugelsichere Weste
+schusssichere Weste
+","neues Mitglied
+neues Mitglied
+neues Mitglied
+neues Brüderchen
+neues Schwesterchen
+neues Unternehmen
+neues Wagnis
+neues Forschungsgebiet
+neues Steuerungsmodell
+neues Handelssegment
+neues Zahlungsverfahren
+neues Geschäft
+Neues Testament [Bible]
+Neues Steuerungsmodell [abbr.: NSM]
+",,"der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat pl.: die Soldaten
+der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat pl.: die Soldaten - der Ameisen
+die Soldaten pl.
+ehemaliger Soldat
+alter Soldat
+einfacher Soldat
+regulärer Soldat
+australischer Soldat
+neuseeländischer Soldat
+der US-Soldat | die US-Soldatin pl.: die US-Soldaten, die US-Soldatinnen
+die Soldaten-Amazone Lat.: Amazona mercenaria, Amazona mercenarius [Ornithology]
+Armee wehrpflichtiger Soldaten
+","der Krieg pl.: die Kriege
+der Krieg pl.: die Kriege
+Krieg im Cyberspace
+Krieg im Cyberspace
+heiliger Krieg
+Heiliger Krieg
+Trojanischer Krieg
+Kalter Krieg
+Peloponnesischer Krieg
+Deutsch-Französischer Krieg - 1870-71
+Russisch-Türkischer Krieg
+Deutscher Krieg - 1866
+Deutscher Krieg - 1866
+Französisch-Spanischer Krieg - 1635-1659
+","die Million pl.: die Millionen [abbr.: Mio., Mill.]
+Millionen von ...
+1000 Millionen
+zehn Millionen - in Indien
+etliche Millionen
+mehrere Millionen pl.
+zig Millionen
+zig Millionen
+1000 Millionen
+Millionen Anweisungen pro Sekunde
+Million Instruktionen je Sekunde
+Teile pro Million
+Millionen Barrel Öl-Äquivalent pro Tag
+","das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher - 25 bzw. 24 Bogen Papier
+das Buch pl.: die Bücher - der Buchhaltung
+das Buch pl.: die Bücher
+die Bücher pl.
+Buch im Großformat
+Buch Maleachi [abbr.: Mal] - Buch im Alten Testament [Bible]
+Buch Kohelet
+das Buch (der) Richter [abbr.: Ri] [Bible]
+das Buch Esther - kurz: Esther
+das Buch Hiob [Bible]
+Buch der Bücher [Bible]
+","der Schriftsteller | die Schriftstellerin pl.: die Schriftsteller, die Schriftstellerinnen
+der Schriftsteller | die Schriftstellerin pl.: die Schriftsteller, die Schriftstellerinnen
+der Schriftsteller pl.: die Schriftsteller
+der Schriftsteller pl.: die Schriftsteller
+engagierter Schriftsteller
+exzellenter Schriftsteller
+klassischer Schriftsteller
+klassischer Schriftsteller
+streitsüchtiger Schriftsteller
+","die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+historische Stadt
+neue Stadt
+neue Stadt
+heilige Stadt
+kreisfreie Stadt
+kreisfreie Stadt
+lineare Stadt
+alte Stadt
+die Ewige Stadt - Rom
+sich ausbreitende Stadt
+","das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Festland pl.
+das Grundstück pl.: die Grundstücke
+das Gelände pl.: die Gelände
+der Boden pl.: die Böden
+das Bundesland pl.: die Bundesländer
+das Terrain pl.: die Terrains
+die Ländereien pl., no sg.
+die Fläche pl.: die Flächen
+Grund und Boden
+der Grundbesitz pl.: die Grundbesitze
+",,,,"der Regisseur | die Regisseurin pl.: die Regisseure, die Regisseurinnen
+der Regisseur | die Regisseurin pl.: die Regisseure, die Regisseurinnen
+der Regisseur pl.: die Regisseure
+","der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - eines Gebäudes
+die Besitzerin pl.: die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - Wertpapiere
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - auch von beweglichem Vermögen rare
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+",
+noun_details,english,None,None,None,None,None,None,None,"article: das
 word: Auto
 genus: NEUT
 plural: die Autos
@@ -205,9 +3016,317 @@ plural: die Blumen
 word: Flasche
 genus: FEMI
 plural: die Flaschen
-"
-noun_details,german,,,,,,,,,,,
-adjectives_or_adverbs,english,,,,,,,,"autoerotic or: auto-erotic adj.
+","article: der
+word: Dialog
+genus: MASC
+plural: die Dialoge
+","article: das
+word: Leben
+genus: NEUT
+plural: 
+","article: der
+word: Podcast
+genus: MASC
+plural: die Podcasts
+",None,"article: die
+word: Alternative
+genus: FEMI
+plural: die Alternativen
+","article: das
+word: Radio
+genus: NEUT
+plural: die Radios
+","article: der
+word: Morgen
+genus: MASC
+plural: die Morgen
+","article: der
+word: Moderator
+genus: MASC
+plural: die Moderatoren
+","article: die
+word: Nachrichten
+genus: FEMI
+plural: Radio
+","article: die
+word: Welt
+genus: FEMI
+plural: die Welten
+","article: die
+word: Menschen
+genus: FEMI
+plural: 
+","article: die
+word: Geschichte
+genus: FEMI
+plural: die Geschichten
+","article: der
+word: Text
+genus: MASC
+plural: die Texte
+","article: der
+word: Dialog
+genus: MASC
+plural: die Dialoge
+","article: die
+word: Zeit
+genus: FEMI
+plural: die Zeiten
+","article: der
+word: Spaziergang
+genus: MASC
+plural: die Spaziergänge
+","article: der
+word: Sohn
+genus: MASC
+plural: die Söhne
+","article: das
+word: Fieber
+genus: NEUT
+plural: die Fieber
+","article: der
+word: Schnupfen
+genus: MASC
+plural: die Schnupfen
+","article: der
+word: Husten
+genus: MASC
+plural: 
+","article: das
+word: Kopfweh
+genus: NEUT
+plural: plural
+","article: die
+word: Grippe
+genus: FEMI
+plural: die Grippen
+","article: die
+word: Erkältung
+genus: FEMI
+plural: die Erkältungen
+","article: die
+word: Schule
+genus: FEMI
+plural: die Schulen
+","article: der
+word: Arzt
+genus: MASC
+plural: die Ärzte, die Ärztinnen
+","article: der
+word: Kinderarzt
+genus: MASC
+plural: die Kinderärzte, die Kinderärztinnen
+","article: das
+word: Schmerzmittel
+genus: NEUT
+plural: die Schmerzmittel
+","article: der
+word: Saft
+genus: MASC
+plural: die Säfte
+","article: die
+word: Schmerzen
+genus: FEMI
+plural: 
+","article: das
+word: Gefühl
+genus: NEUT
+plural: die Gefühle
+","article: die
+word: Art
+genus: FEMI
+plural: 
+","article: der
+word: Winter
+genus: MASC
+plural: die Winter
+","article: das
+word: Virus
+genus: NEUT
+plural: die Viren - außerhalb der Fachsprache auch: der Virus
+","article: das
+word: Kind
+genus: NEUT
+plural: die Kinder
+","article: der
+word: Kontakt
+genus: MASC
+plural: die Kontakte
+","article: das
+word: Wunder
+genus: NEUT
+plural: die Wunder
+","article: der
+word: Tag
+genus: MASC
+plural: die Tage
+","article: das
+word: Essen
+genus: NEUT
+plural: plural
+","article: das
+word: Getränk
+genus: NEUT
+plural: die Getränke
+","article: die
+word: Katze
+genus: FEMI
+plural: - Hauskatze Lat.: Felis silvestris forma catus
+","article: die
+word: Besserung
+genus: FEMI
+plural: plural
+",None,None,"article: die
+word: Mühe
+genus: FEMI
+plural: die Mühen
+","article: die
+word: Woche
+genus: FEMI
+plural: die Wochen
+","article: die
+word: Tage
+genus: FEMI
+plural: Menstruation
+","article: die
+word: Arbeit
+genus: FEMI
+plural: 
+","article: das
+word: Glück
+genus: NEUT
+plural: plural
+","article: das
+word: Attest
+genus: NEUT
+plural: die Atteste
+","article: das
+word: Wartezimmer
+genus: NEUT
+plural: die Wartezimmer
+","article: das
+word: Rezept
+genus: NEUT
+plural: die Rezepte [fig.]
+","article: die
+word: Medikamente
+genus: FEMI
+plural: 
+","article: der
+word: Name
+genus: MASC
+plural: die Namen
+","article: das
+word: Jahr
+genus: NEUT
+plural: die Jahre
+","article: das
+word: Jahr
+genus: NEUT
+plural: die Jahre
+","article: das
+word: Geschwister
+genus: NEUT
+plural: Geschwister
+","article: die
+word: Schwester
+genus: FEMI
+plural: die Schwestern
+","article: der
+word: Bruder
+genus: MASC
+plural: die Brüder
+","article: die
+word: Eltern
+genus: FEMI
+plural: sg.
+","article: das
+word: Haus
+genus: NEUT
+plural: die Häuser
+","article: die
+word: Nähe
+genus: FEMI
+plural: plural
+","article: die
+word: Mutter
+genus: FEMI
+plural: die Mütter
+","article: der
+word: Koch
+genus: MASC
+plural: die Köche, die Köchinnen
+","article: der
+word: Vater
+genus: MASC
+plural: die Väter
+","article: die
+word: Bank
+genus: FEMI
+plural: die Bänke
+","article: der
+word: Oscar
+genus: MASC
+plural: die Oscars
+","article: der
+word: Film
+genus: MASC
+plural: die Filme
+","article: der
+word: Oscar
+genus: MASC
+plural: die Oscars
+",,"article: das
+word: Jahr
+genus: NEUT
+plural: die Jahre
+","article: der
+word: Westen
+genus: MASC
+plural: plural
+","article: neues
+word: Mitglied
+genus: 
+plural: Mitglied
+",,"article: der
+word: Soldat
+genus: MASC
+plural: die Soldaten, die Soldatinnen
+","article: der
+word: Krieg
+genus: MASC
+plural: die Kriege
+","article: die
+word: Million
+genus: FEMI
+plural: die Millionen [abbr.: Mio., Mill.]
+","article: das
+word: Buch
+genus: NEUT
+plural: die Bücher
+","article: der
+word: Schriftsteller
+genus: MASC
+plural: die Schriftsteller, die Schriftstellerinnen
+","article: die
+word: Stadt
+genus: FEMI
+plural: die Städte
+","article: das
+word: Land
+genus: NEUT
+plural: 
+",,,,"article: der
+word: Regisseur
+genus: MASC
+plural: die Regisseure, die Regisseurinnen
+","article: der
+word: Besitzer
+genus: MASC
+plural: die Besitzer, die Besitzerinnen
+",
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
 equine adj.
@@ -217,8 +3336,420 @@ mounted adj.
 flower-decked adj.
 ","bottled adj.
 bottle-imported adj.
-"
-adjectives_or_adverbs,german,,,,,,,,"autoerotisch
+","online or: on-line adj.
+conversational adj.
+in dialogueAE / dialogAE form in dialogueBE form
+","alive adj.
+to the fore
+in life
+life-giving adj.
+bio-destructible adj. [TECH.]
+bustling adj.
+in the flesh
+all my/your/her/his/our life
+paired for life
+taken from real life
+bread-and-butter adj. - used before noun
+",None,None,"alternative adj.
+alternative adj.
+alternative adj.
+alternative adj. [LAW]
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv. [LAW]
+in the alternative [LAW]
+","on the radio
+over the radio
+radio-controlled adj.
+radio-controlled adj. [TECH.]
+radio-controlled adj. [TECH.]
+radio-opaque adj. [PHYS.]
+radio-opaque adj. [PHYS.]
+radio-opaque adj. [PHYS.]
+radio-based adj. [TECH.]
+radio-interference-suppressed adj. [TECH.]
+two-way-radio adj. [TECH.]
+suitable for radio transmission [TECH.]
+","tomorrow adv.
+in the morning
+the morn (Scot.)
+tomorrow morning
+tomorrow night
+tomorrow morning
+by tomorrow
+early in the morning
+in the early morning
+all morning
+a week tomorrow
+a week tomorrow
+overnight adv.
+cold turkey
+of this morning
+as soon as the day broke
+all-morning adj.
+",None,"newsless adj.
+","in public
+at the back of beyond
+in the back of beyond
+welt-sewn adj. - shoe
+global adj.
+universal adj.
+not of this world
+all over the world
+worldwide adj.
+out in the world
+across the globe
+begotten adj.
+all over the world
+to the world's end
+born on digital [COMM.]
+why ever (or: whyever) - emphatic form of why adv.
+why on earth adv.
+","inhuman adj.
+anthropogenic adj.
+man-made adj.
+human-centeredAE / human-centredBE adj.
+densely packed
+human-centeredAE / human-centredBE adj.
+man-machine adj.
+human-centeredAE / human-centredBE adj.
+uniquely human
+","storied adj.
+storied adj.
+","textual adj.
+without any text [ART.]
+","online or: on-line adj.
+conversational adj.
+in dialogueAE / dialogAE form in dialogueBE form
+","long adv. - long time
+time-consuming adj.
+time-killing adj.
+time-saving adj.
+all my/your/her/his/our life
+for a while
+for a spell - for a period
+for a time
+awhile adv.
+a long time
+for any length of time
+in due course
+in due time
+in good season
+",None,"filial adj.
+","pyrogenic adj. [MED.]
+aguish adj. [MED.]
+provocative of fever [MED.]
+afebrile adj. [MED.]
+apyrexial adj. [MED.]
+","rheumy adj.
+",None,None,"down with influenza
+",None,"in school
+of the old school
+",None,None,None,None,"ailing adj.
+pained adj.
+anguished adj.
+distract with pain
+distracted with pain
+","emotive adj.
+emotive adj.
+overwhelmed with emotion
+","kind adj.
+kind adj.
+kind adj.
+kind adj.
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kindly adj. - e.g. climate
+","wintered adj.
+in winter
+hibernal adj.
+autumn-sown adj. [AGR.]
+brumal adj. [poet.] (Amer.)
+both in summer and in winter
+","viral adj.
+","kind adj.
+kind adj.
+kind adj.
+kind adj.
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kindly adj. - e.g. climate
+","touch-sensitive adj.
+in close contact
+","sore adj.
+raw - red and painful adj.
+magical adj.
+miraculously adv.
+as if by a miracle
+as by a wonder
+","some day (or: someday) adv.
+one day
+one of these days
+in the daytime
+around-the-clock or: round-the-clock adj.
+per diem
+on a daily basis
+per day
+every day
+in broad daylight
+all day
+all day long
+in broad daylight
+the next day
+","postprandial adj.
+prandial adj.
+",None,"cat-like adj.
+feline adj.
+","on the mend
+",None,None,"narrowly adv.
+without effort
+","weekly adj.
+the week before last
+the week after next
+every week
+during the week
+in the week (Brit.)
+on weekdays
+in a week's time
+by midweek
+within a week
+biweekly or: bi-weekly adj. adv.
+in a fortnight
+within a week or two
+every other week
+","in the daytime
+some day (or: someday) adv.
+one day
+one of these days
+above ground
+at the surface
+in the daytime
+in daytime
+on the day of judgmentAE on the day of judgementBE
+on the surface [TECH.]
+underground adj. [TECH.]
+aboveground (Amer.) adj. [TECH.]
+belowgroundAE / below-groundBE adj. adv.
+at the pithead
+","seeking work
+disinclined to work
+work-related adj.
+work-related adj. [TECH.]
+in the works
+under progress
+out of a job
+at work
+at work
+on the job
+at work
+out of work
+young in one's job
+secretarial adj.
+unearned adj.
+","fortunately adv.
+thankfully adv.
+mercifully adv.
+lucky adj.
+talismanic adj.
+auspicious adj.
+propitious adj.
+fortunate adj.
+eudemonicAE / eudaemonicBE adj.
+blessed adj.
+luckless adj.
+luckily for so.
+lucky adj.
+fluky or: flukey adj.
+",None,None,"dispensing adj. [PHARM.]
+","unmedicated adj.
+","by name - postpos.
+according to name
+in all but name
+in all but name
+in all but name
+in name only
+under one's own name
+of the same name - used postpositively
+having the same name
+with the same name
+in the name of the holder
+in the name of the consignor
+under a false name
+in the name of the bearer
+","after years
+in years
+over the years
+over Christmas and New Year
+between Christmas and New Year
+the year after next
+last year
+every year
+each year
+last year
+per annum [abbr.: p.a.]
+the year before last
+biyearly or: bi-yearly - twice a year adj. adv.
+biannual or: bi-annual adj.
+","over the years
+the year after next
+last year
+every year
+each year
+last year
+per annum [abbr.: p.a.]
+the year before last
+biyearly or: bi-yearly - twice a year adj. adv.
+biannual or: bi-annual adj.
+year-to-date adj.
+last year
+in one year
+Y2K-compliant adj.
+",None,"sisterless adj.
+","brotherless adj.
+between friends
+","parental guidance [abbr.: PG]
+parental guidance suggested [abbr.: PG]
+","indoors adv.
+in the house
+residential adj.
+inside adj.
+in the same building
+on the house [coll.]
+downstairs adj.
+homebound adj.
+confined indoors
+housebound adj.
+carriage free
+delivered free
+carriage paid
+free buyer's address
+","near adv.
+nearby adv.
+around adv. prep.
+close (to) adj.
+by adv.
+close-by adj.
+near by
+point-blank adv.
+at close range
+within spitting distance
+at close quarters
+","born to an unmarried mother
+",None,"fatherlike adj.
+","across the board
+with a bank [FINAN.]
+bank-financed adj. [FINAN.]
+interbank adj.
+between banks [FINAN.]
+in the possession of the banks [FINAN.]
+on the left bank
+along the south bank
+endorsed by a bank [FINAN.]
+based on banks [FINAN.]
+","Oscar-winning adj.
+","film-forming adj.
+film-forming adj.
+cinematic adj.
+thin-film-forming adj. [TECH.]
+","Oscar-winning adj.
+Oscar-winning adj.
+Oscar-winning adj.
+",,"the year after next
+last year
+every year
+each year
+last year
+per annum [abbr.: p.a.]
+the year before last
+biyearly or: bi-yearly - twice a year adj. adv.
+biannual or: bi-annual adj.
+year-to-date adj.
+last year
+in one year
+Y2K-compliant adj.
+Y2K-compliant adj.
+","in the West
+round the western regions
+in a westward direction
+from the West
+waistcoated adj.
+vested adj.
+due west
+in a westward direction
+westbound adj.
+","new adj.
+novel adj.
+recent adj.
+nouveau adj.
+fledgling - used before noun - new adj.
+latest adj.
+recent adj.
+freshest adj.
+anew adv.
+another adj. pron. - different person/thing
+newly constructed
+reformative adj.
+newly founded
+newly-created adj.
+",,"soldierly adj.
+","at war
+warring - in conflict adj.
+war-ravaged adj.
+war-torn adj.
+war-torn adj.
+war-torn adj.
+postwar adj.
+prior to the war
+pre-war adj.
+martial adj. - used before noun
+in event of war
+nonbelligerentAE / non-belligerentBE adj.
+","a million times
+million-odd adj.
+",,,"in town
+in the city
+in the town
+on the outskirts
+urban adj.
+municipal adj.
+townless adj.
+inter-city adj.
+crosstown adj. adv. (Amer.)
+crosstown adj.
+crosstown adj.
+","land-based adj.
+ashore adv.
+onshore adv.
+in the country
+in the countryside
+nationwide adv.
+in the whole country
+throughout the country
+on home soil
+overland adv.
+rural adj.
+praedial or: predial adj.
+land-based adj.
+land-based adj. [MIL.]
+",,,,,,
+adjectives_or_adverbs,german,None,None,None,None,None,None,None,"autoerotisch
 automatisch unterstützt
 ","ohne Pferd
 Pferde...
@@ -228,8 +3759,420 @@ zu Pferde
 mit Blumen bedeckt
 ","in Flaschen abgefüllt
 in Flaschen importiert
-"
-phrases_or_collocations,english,,,,,,,,,"to put the cart before the horse
+","im Dialog
+Dialog...
+in Gesprächsform
+","am Leben
+am Leben
+im Leben
+lebenspendend or: Leben spendend
+lebenzerstörend or: Leben zerstörend
+voller Leben
+im richtigen Leben
+zeit meines/deines/ihres/seines/unseres Lebens
+ein Leben lang verbunden
+aus dem Leben gegriffen
+des täglichen Lebens
+",None,None,"alternativ
+Alternativ...
+abwechselnd
+hilfsweise adv.
+alternativ
+ersatzweise
+anderenfalls or: andernfalls
+wahlweise
+wechselseitig
+hilfsweise
+hilfsweise adv.
+","im Radio
+im Radio
+ferngelenkt
+funkgesteuert
+mit Funksteuerung
+röntgendicht
+röntgenstrahlenundurchlässig
+röntgenfähig
+funkbasiert
+entstört
+Funk...
+funkfähig
+","morgen
+am Morgen
+morgen adv.
+morgen früh (or: Früh)
+morgen Abend
+morgen Vormittag
+bis morgen
+früh am Morgen
+früh am Morgen
+den ganzen Morgen
+morgen in acht Tagen
+morgen in einer Woche
+von heute auf morgen
+von heute auf morgen
+von heute Morgen
+schon am frühen Morgen
+den ganzen Morgen lang
+",None,"ohne Nachrichten
+","vor der Welt
+am Ende der Welt
+am Arsch der Welt [vulg.]
+echt rahmengenäht
+Welt...
+Welt...
+nicht von dieser Welt
+auf der ganzen Welt
+auf der ganzen Welt
+draußen in der Welt
+rund um die Welt
+in die Welt gesetzt
+überall auf der Welt
+bis ans Ende der Welt
+aus der digitalen Welt
+wieso um alles in der Welt
+wieso um alles in der Welt
+","menschenverachtend or: Menschen verachtend
+vom Menschen verursacht
+vom Menschen verursacht
+am Menschen orientiert
+voller Menschen
+für den Menschen
+Mensch-Maschinen-...
+auf den Menschen fokussiert
+nur beim Menschen vorkommend
+","in die Geschichte eingegangen
+mit Geschichten geschmückt
+","Text...
+ohne Schrift - Druckgrafik: Beschriftung
+","im Dialog
+Dialog...
+in Gesprächsform
+","lange Zeit
+zeitraubend or: Zeit raubend
+zeitraubend or: Zeit raubend
+zeitsparend or: Zeit sparend
+zeit meines/deines/ihres/seines/unseres Lebens
+eine Zeitlang (or: Zeit lang)
+eine Zeitlang (or: Zeit lang)
+eine Zeitlang (or: Zeit lang)
+eine Zeit lang (or: Zeitlang)
+lange Zeit
+(für) längere Zeit
+zur rechten Zeit
+zur rechten Zeit
+zur rechten Zeit
+",None,"Sohnes...
+","fiebererzeugend or: Fieber erzeugend
+fiebererzeugend or: Fieber erzeugend
+Fieber hervorrufend
+ohne Fieber
+ohne Fieber
+","Schnupfen hervorrufend
+",None,None,"an Grippe erkrankt
+",None,"in der Schule
+von der alten Schule
+",None,None,None,None,"Schmerzen habend
+von Schmerzen gequält
+von Schmerz geplagt
+wahnsinnig vor Schmerz
+wahnsinnig vor Schmerz
+","das Gefühl ansprechend
+die Gefühle ansprechend
+von Gefühlen überwältigt
+","freundlich
+nett
+liebenswürdig
+gütig
+aussichtsvoll [Mining]
+höffig [Mining]
+hoffnungsvoll [Mining]
+gestaltig [Mining]
+höfflich [Mining]
+hoffnungserregend [Mining]
+nicht genau bekannt [Mining]
+nicht nachgewiesen [Mining]
+nicht sicher [Mining]
+angenehm
+","dem Winter ausgesetzt
+winters adv.
+Winter...
+Winter...
+Winter...
+Sommer wie Winter
+","Virus...
+","freundlich
+nett
+liebenswürdig
+gütig
+aussichtsvoll [Mining]
+höffig [Mining]
+hoffnungsvoll [Mining]
+gestaltig [Mining]
+höfflich [Mining]
+hoffnungserregend [Mining]
+nicht genau bekannt [Mining]
+nicht nachgewiesen [Mining]
+nicht sicher [Mining]
+angenehm
+","Kontakt...
+in engem Kontakt
+","wund
+wund
+Wunder...
+wie durch ein Wunder
+wie durch ein Wunder
+wie durch ein Wunder
+","eines Tages
+eines Tages
+eines Tages
+am Tage
+Tag und Nacht
+pro Tag
+pro Tag
+pro Tag
+jeden Tag
+mitten am Tag
+den ganzen Tag
+den ganzen Tag
+am helllichten Tag (or: Tage)
+am nächsten Tag
+","nach dem Essen
+Essens...
+",None,"wie eine Katze
+Katzen...
+","auf dem Weg der Besserung
+",None,None,"mit Mühe
+ohne Mühe
+","Wochen...
+vorletzte Woche
+übernächste Woche
+jede Woche
+unter der Woche
+unter der Woche
+unter der Woche
+in einer Woche
+Mitte der Woche
+innerhalb einer Woche
+alle zwei Wochen
+in zwei Wochen
+in ein bis zwei Wochen
+jede zweite Woche
+","am Tage
+eines Tages
+eines Tages
+eines Tages
+übertage or: über Tage
+übertage or: über Tage
+bei Tage
+bei Tage
+am jüngsten Tage
+übertage or: über Tage [Mining]
+untertage or: unter Tage [Mining]
+über Tage
+untertage (or: unter Tage) [Mining]
+über Tage [Mining]
+","arbeitsuchend or: Arbeit suchend, arbeitssuchend
+der Arbeit abgeneigt
+die Arbeit betreffend
+Arbeit betreffend
+in Arbeit
+in Arbeit
+ohne Arbeit
+auf der Arbeit
+bei der Arbeit
+bei der Arbeit
+in der Arbeit
+ohne Arbeit
+unerfahren in seiner Arbeit
+die Arbeit des Sekretariats betreffend
+nicht durch eigene Arbeit erworben
+","zum Glück
+zum Glück
+zum Glück
+glückbringend or: Glück bringend
+glückbringend or: Glück bringend
+glückverheißend or: Glück verheißend
+glückverheißend or: Glück verheißend
+glückverheißend or: Glück verheißend
+Glück bringend
+vom Glück verwöhnt
+ohne Glück
+zu jmds. Glück
+Glücks...
+Glücks...
+",None,None,"nach Rezept anfertigend
+","ohne Medikamente
+","namentlich
+nach Namen
+bis auf den Namen
+praktisch
+so gut wie
+nur dem Namen nach
+unter eigenem Namen
+gleichnamig adj.
+namensgleich
+namensgleich
+auf den Inhaber lautend
+im Namen des Auftraggebers
+unter falschem Namen
+auf den Namen des Überbringers
+","nach Jahren
+in Jahren
+mit den Jahren
+zwischen den Jahren regional
+zwischen den Jahren regional
+übernächstes Jahr
+vergangenes Jahr
+jedes Jahr
+jedes Jahr
+letztes Jahr
+pro Jahr
+vorletztes Jahr
+zweimal im Jahr
+zweimal im Jahr
+","über die Jahre
+übernächstes Jahr
+vergangenes Jahr
+jedes Jahr
+jedes Jahr
+letztes Jahr
+pro Jahr
+vorletztes Jahr
+zweimal im Jahr
+zweimal im Jahr
+aufgelaufen im Jahr
+im vergangenen Jahr
+in einem Jahr
+Jahr-2000-fähig
+",None,"ohne Schwestern - nachgestellt
+","ohne Brüder - nachgestellt
+unter Brüdern
+","in Begleitung der Eltern
+in Begleitung der Eltern
+","im Haus (or: Hause)
+im Haus (or: Hause)
+im Haus (or: Hause)
+im Haus (or: Hause)
+im Haus
+aufs Haus [coll.]
+unten im Haus
+ans Haus gefesselt
+ans Haus gebunden
+ans Haus gefesselt [fig.]
+frei Haus
+frei Haus
+frei Haus
+frei Haus
+","in der Nähe
+in der Nähe
+in der Nähe
+in der Nähe (von)
+in der Nähe
+in der Nähe
+in der Nähe
+aus nächster Nähe
+aus nächster Nähe
+in unmittelbarer Nähe
+ganz in der Nähe
+","von einer unverheirateten Mutter geboren
+",None,"wie ein Vater
+","durch die Bank
+bei einer Bank
+von einer Bank finanziert [Banking]
+unter Banken
+unter Banken [Banking]
+im Besitz der Banken [Banking]
+linksufrig
+am Südufer
+bankgiriert - nachgestellt [Banking]
+bankbasiert
+","Oscar-prämiert
+","filmbildend
+schichtbildend
+Film...
+dünnschichtbildend
+","Oscar-prämiert
+oscargekrönt
+oscarprämiert
+",,"übernächstes Jahr
+vergangenes Jahr
+jedes Jahr
+jedes Jahr
+letztes Jahr
+pro Jahr
+vorletztes Jahr
+zweimal im Jahr
+zweimal im Jahr
+aufgelaufen im Jahr
+im vergangenen Jahr
+in einem Jahr
+Jahr-2000-fähig
+Jahr-2000-kompatibel
+","im Westen
+im Westen
+nach Westen
+aus dem Westen
+mit Weste
+mit einer Weste
+genau nach Westen
+in Richtung Westen
+nach Westen gehend
+","neu
+neu
+neu
+neu
+neu
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+aufs Neue
+ein neuer | eine neue | ein neues
+neu erbaut
+neu bildend
+neu gegründet
+neu gegründet
+",,"wie ein Soldat
+","im Krieg
+kriegführend or: Krieg führend
+vom Krieg verwüstet
+vom Krieg gezeichnet
+vom Krieg erschüttert
+vom Krieg zerrüttet
+nach dem Krieg
+vor dem Krieg
+vor dem Krieg
+Kriegs...
+im Fall eines Krieges
+nicht kriegführend (or: Krieg führend)
+","Millionen Mal
+etwa eine Million
+",,,"in der Stadt
+in der Stadt
+in der Stadt
+am Rand (or: Rande) der Stadt
+Stadt...
+Stadt...
+ohne Städte
+zwischen den Städten
+quer durch die Stadt
+am anderen Ende der Stadt
+vom anderen Ende der Stadt
+","vom Land aus
+an Land
+an Land
+auf dem Land (or: Lande)
+auf dem Land (or: Lande)
+im ganzen Land
+im ganzen Land
+im ganzen Land
+im eigenen Land
+über Land
+Land...
+Land...
+auf dem Festland
+landgestützt
+",,,,,,
+phrases_or_collocations,english,None,None,None,None,None,None,None,None,"to put the cart before the horse
 to put the cart before the horse
 to back the wrong horse [fig.]
 Blow me down! [coll.]
@@ -250,8 +4193,343 @@ April showers bring May flowers.
 ","a bottle of juice/wine/beer
 half a bottle
 new wine in old bottles
-"
-phrases_or_collocations,german,,,,,,,,,"das Pferd beim Schwanz aufzäumen
+",None,"to spring to life [fig.]
+once in a lifetime
+life and limb
+not on your nelly (Brit.)
+No way!
+to live in sin
+to live out of a suitcase
+not in a month of Sundays [fig.]
+Not on your nelly! (Brit.) [coll.]
+to be behind the times
+to lead the life of Riley
+Life isn't all beer and skittles.
+Life isn't all beer and skittles.
+Live and let live.
+",None,None,None,None,"Good morning!
+See you tomorrow!
+first thing tomorrow morning
+Good morning everyone!
+There's no time like the present.
+",None,"No news is good news.
+","largest in the world
+the world of letters
+all the world
+the way of the world
+course of the world
+All the world and his wife
+all the world and his brother
+in the middle of nowhere
+out in the sticks [coll.]
+in the boondocks [coll.] [pej.] (Amer.)
+in the middle of nowhere
+It's a small world!
+how on earth ...
+not for a million dollars (Amer.)
+","to be a good-hearted soul
+to be a good soul
+","a fake story
+a made-up story
+this is history in the making
+this is history in the making
+That's a pretty mess!
+The two stories agree.
+","stet [PRINT.]
+",None,"to play for time
+for some time
+Time is short.
+to let no grass grow under one's feet
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+heaps of time
+a short spell
+the whole time
+for some time
+a fairly long time
+the passage of time
+a matter of time
+the signs of the times
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+","a waltz [fig.]
+","like father, like son
+","a touch of fever (Brit.)
+a cold attended with fever
+",None,None,None,"a touch of the flu
+","a cold attended with fever
+","a school of dolphins [ZOOL.]
+a pod of dolphins [ZOOL.]
+to spill the beans [fig.]
+to tell tales out of school - tell secrets [fig.]
+to reveal confidential information
+That set a precedent.
+We learn not for school, but for life.
+","a doctor friend of mine
+",None,None,"sapless adj.
+to let so. stew in their own grease [fig.]
+to let so. stew in their own juice [fig.]
+",None,"to feel sth. in one's bones
+to my mind
+It's just a hunch.
+to have a bad vibe about this
+with mixed feelings
+with mingled feelings
+the gamut of emotions
+","as a child
+a kind (of) ...
+kind of
+kind of
+kind regards
+kind regards
+bag and baggage
+Kind regards, ...
+to call a spade a spade
+to call a spade a spade
+to throw out the baby with the bath water
+what kind of
+with kind regards
+with kind regards
+",None,None,"as a child
+a kind (of) ...
+Children not admitted!
+children admitted half-price
+Children and fools speak the truth
+mother of two
+kind of
+kind of
+kind regards
+kind regards
+bag and baggage
+Kind regards, ...
+to call a spade a spade
+to call a spade a spade
+","contact us
+","a sore point
+a tender spot
+mirabile dictu Latin
+to get the shock of one's life
+Pigs might fly.
+a name to conjure with
+to get a nasty surprise
+to add insult to injury
+to rub salt into so.'s wounds [fig.]
+to turn the knife in a wound [fig.]
+","G'day! or: Gidday! [coll.] (Aust.; N.Z.)
+Good afternoon!
+How do you do? [form.] (Brit.)
+Have a nice day!
+Carpe diem. Latin
+Seize the day.
+a fine day for ducks
+a good day for ducks
+a red-letter day
+a black day
+Good day! [form.]
+day after day
+the whole blessed day
+Rome was not built in a day
+","an elaborate dinner
+meals on wheels
+Dinner is served!
+to eat like a horse [coll.] [fig.]
+to eat like a bird [coll.] [fig.]
+",None,"to buy a pig in a poke
+When the cat's away, the mice will play.
+When the cat is away the mice will play.
+A leopard doesn't change its spots.
+When the cat's away, the mice do play
+to let the cat out of the bag [fig.]
+to beat about the bush [coll.] [fig.]
+All cats are grayAE by night.All cats are greyBE by night.
+All cats are grayAE in the dark.All cats are greyBE in the dark.
+","Get well soon!
+Best wishes for a speedy recovery!
+Speedy recovery!
+to be on the up and up (Brit.) [coll.]
+","Thank you.
+Thanks!
+Thx (Brit.) - abbreviation for 'thanks' used in emails or text messages
+Cheers! [coll.] (Brit.)
+ta (Brit.) [coll.]
+Ta! (Brit.) [sl.]
+Thank you.
+I'm fine, thanks.
+No, thanks.
+No, thank you.
+Thank you very much.
+Thanks.
+Thank you, the same to you!
+And you! (Brit.) - response to something said in parting such as 'Have a nice weekend.'
+","Stay healthy!
+Keep away from me!
+Cobbler, stick to your (or: thy) last.
+A cobbler should stick to his last.
+","worth one's while
+no end of trouble
+no end of trouble
+Don't bother!
+not worth worrying about
+","the week after next
+this time last week
+a week from today
+in week commencing ... [abbr.: w/c] - +date
+twenty-four-seven or: 24/7, 24-7 adv. [coll.]
+","G'day! or: Gidday! [coll.] (Aust.; N.Z.)
+It's not over till the fat lady sings.
+It's not over till the fat lady sings. (Amer.)
+The evening crowns the day.
+a whole five days
+it's that time of the month for her
+donkey's years
+Christmas comes but once a year. [fig.]
+for ever and a day
+to have a face as long as a fiddle [coll.] [fig.]
+Good afternoon!
+How do you do? [form.] (Brit.)
+Have a nice day!
+Carpe diem. Latin
+","work in progress
+all work and no play makes Jack a dull boy
+Business is the salt of life.
+a job that pays well
+back to the salt mines
+a good piece of craftsmanship
+a piece of solid workmanship
+Business before pleasure.
+Many hands make light work.
+equal pay for equal work![POL.]
+","Godspeed!
+Good luck!
+All the best!
+best of luck
+the key to happiness
+Fortune favorsAE the brave.Fortune favoursBE the brave.
+Fortune is fickle.
+Fortune favorsAE the bold.Fortune favoursBE the bold.
+Good riddance!
+luck is on so.'s side
+luck is on so.'s side
+Happiness is as brittle as glass.
+Good riddance!
+Glasses and lasses are brittle ware! (Scot.)
+",None,None,None,None,"What's in a name?
+a name to conjure with
+to name but a few
+I'm saying nothing.
+you name it
+you name it
+as the name implies
+as the name suggests
+known under the name of
+to put one's name on the map
+","past one's prime
+at the tender age of ...
+a man in his prime
+a man in the prime of life
+no date [abbr.: n.d.]
+year in and year out
+Happy New Year!
+Happy New Year!
+the seven-year itch
+all the year round
+a prosperous new year
+Merry Christmas and a happy New Year!
+Happy New Year!
+Season's greetings and best wishes for the New Year!
+","the burden of years
+anno Domini [abbr.: AD]
+in the prime of life
+sth. takes years off so.
+sth. takes years off so.
+no date [abbr.: n.d.]
+year in and year out
+Happy New Year!
+Happy New Year!
+the seven-year itch
+all the year round
+a prosperous new year
+Merry Christmas and a happy New Year!
+Happy New Year!
+",None,None,"Brother John [MUS.]
+",None,"a house of one's own
+sth. is on the house infinitive: to be on the house
+house for sale
+When the cat's away, the mice will play.
+When the cat is away the mice will play.
+to go like a bull at a gate
+When the cat's away, the mice do play
+to win the White House [fig.][POL.]
+","a few steps from here
+","a chip off the old block
+mother of two
+Prudence is the better part of valor.AEPrudence is the better part of valour.BE
+",None,"a chip off the old block
+like father, like son
+If wishes were horses, beggars would ride.
+If ifs and ands were pots and pans there'd be no work for tinkers.
+","every single one
+to put sth. off
+to shelve sth. | shelved, shelved | - not continue with sth. [fig.]
+the party liable or his bank [FINAN.]
+to procrastinate sth. | procrastinated, procrastinated | rare
+",,,,,"no date [abbr.: n.d.]
+year in and year out
+Happy New Year!
+Happy New Year!
+the seven-year itch
+all the year round
+a prosperous new year
+Merry Christmas and a happy New Year!
+Happy New Year!
+Season's greetings and best wishes for the New Year!
+twenty-four-seven or: 24/7, 24-7 adv. [coll.]
+the burden of years
+anno Domini [abbr.: AD]
+past one's prime
+","to have a clean slate [fig.]
+to have a clean record
+to have a clean record
+to have a clean slate [fig.]
+to be a cleanskin (Aust.) [fig.]
+","Let's try again!
+to open a whole new can of worms [fig.]
+What's the news?
+Happy New Year!
+Happy New Year!
+What's the news?
+a prosperous new year
+Merry Christmas and a happy New Year!
+Season's greetings and best wishes for the New Year!
+almost as new
+immaculate condition throughout
+new for old
+a new arrival
+a new lease of life
+",,,"All's fair in love and war.
+All is fair in love and war.
+","so. is worth ... million
+","to be a riddle wrapped up in an enigma
+to be a closed book
+to be a mystery
+a textbook example
+a well-worn volume
+It's a closed book.
+",,"the jewel city
+","to land in the soup [coll.]
+the land of milk and honey
+to land on one's feet archaic
+to be in over one's head
+That's how the land lies!
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+to live off the fat of the land [fig.]
+to live off the fat of the land [fig.]
+to get the lie of the land[fig.] chiefly (Brit.)
+to get the lie of the land[fig.] chiefly (Brit.)
+to get the lay of the land[fig.] chiefly (Amer.)
+to get the lay of the land[fig.] chiefly (Amer.)
+to go to the land of Nod [fig.]
+",,,,,,
+phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
 aufs falsche Pferd setzen
 Ich glaub, mich tritt ein Pferd! [sl.]
@@ -272,8 +4550,343 @@ Der April macht die Blumen und der Mai hat den Dank dafür.
 ","eine Flasche Saft/Wein/Bier
 eine halbe Flasche
 neuer Wein in alten Flaschen
-"
-examples,english,,,,,,,,"The car is reliable and not expensive either.
+",None,"zum Leben erwachen [fig.]
+einmal im Leben
+Leib und Leben
+nie im Leben
+Nie im Leben!
+in Sünde leben
+aus dem Koffer leben
+nie im Leben [fig.]
+Nie im Leben!
+hinter dem Mond leben [fig.]
+leben wie Gott in Frankreich
+Das Leben besteht nicht nur aus Vergnügen.
+Das Leben ist kein endloses Vergnügen.
+Leben und leben lassen.
+",None,None,None,None,"Guten Morgen!
+Bis morgen!
+gleich morgen früh
+Guten Morgen allerseits!
+Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+",None,"Keine Nachrichten sind gute Nachrichten.
+","der Welt größtes
+die gelehrte Welt
+die ganze Welt
+der Lauf der Welt
+der Lauf der Welt
+Gott und die Welt
+Gott und die Welt
+am Ende der Welt [fig.]
+am Arsch der Welt [vulg.]
+am Arsch der Welt [vulg.]
+am Arsch der Welt [vulg.]
+Die Welt ist klein!
+wie in aller Welt
+für kein Geld der Welt
+","eine Seele von Mensch sein
+eine Seele von Mensch sein
+","eine erfundene Geschichte
+eine erfundene Geschichte
+hier wird Geschichte gemacht
+hier wird Geschichte geschrieben
+Das ist ja eine schöne Geschichte! - ironisch
+Beide Geschichten stimmen überein.
+","Text bleibt
+",None,"Zeit schinden
+eine Zeitlang (or: Zeit lang)
+Die Zeit drängt.
+die Zeit nutzen
+Zeit schinden [coll.]
+viel Zeit
+kurze Zeit
+die ganze Zeit
+eine geraume Zeit
+eine geraume Zeit
+das Verstreichen der Zeit
+eine Frage der Zeit
+die Zeichen der Zeit
+auf Zeit spielen [coll.]
+","ein Spaziergang [fig.]
+","wie der Vater, so der Sohn
+","leichtes Fieber
+eine von Fieber begleitete Erkältung
+",None,None,None,"eine leichte Grippe
+","eine von Fieber begleitete Erkältung
+","eine Schule Delphine (or: Delfine)
+eine Schule Delphine (or: Delfine)
+aus der Schule plaudern [fig.]
+aus der Schule plaudern [fig.]
+aus der Schule plaudern [fig.]
+Das hat Schule gemacht.
+Nicht für die Schule, sondern für das Leben lernen wir. - umgekehrtes Zitat des römischen Autors Seneca
+","ein befreundeter Arzt
+",None,None,"ohne Saft und Kraft [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+",None,"etw.acc. im Gefühl haben [coll.] [fig.]
+für mein Gefühl
+Es ist nur so ein Gefühl.
+ein schlechtes Gefühl bei der Sache haben
+mit gemischten Gefühlen
+mit gemischten Gefühlen
+die ganze Bandbreite an Gefühlen
+","als Kind
+eine Art von ...
+irgendwie adv.
+ziemlich adv.
+herzliche Grüße
+freundliche Grüße
+Kind und Kegel
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+das Kind beim Namen nennen
+das Kind beim rechten Namen nennen
+das Kind mit dem Bade ausschütten [fig.]
+was für
+mit freundlichen Empfehlungen
+mit herzlichen Grüßen
+",None,None,"als Kind
+eine Art von ...
+Kinder haben keinen Zutritt!
+Kinder zum halben Preis
+Kinder und Narren reden die Wahrheit
+Mutter zweier Kinder
+irgendwie adv.
+ziemlich adv.
+herzliche Grüße
+freundliche Grüße
+Kind und Kegel
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+das Kind beim Namen nennen
+das Kind beim rechten Namen nennen
+","Kontakt - z.B. Website
+","ein wunder Punkt
+ein wunder Punkt
+oh Wunder
+sein blaues Wunder erleben
+Da müsste schon ein Wunder geschehen.
+ein Name, der Wunder wirkt
+sein blaues Wunder erleben [fig.] [coll.]
+Salz in die Wunden streuen
+Salz in jmds. Wunde streuen
+Salz in jmds. Wunde streuen
+","Tag!
+Guten Tag!
+Guten Tag!
+Einen schönen Tag noch!
+Nutze den Tag.
+Nutze den Tag.
+ein regnerischer Tag
+ein regnerischer Tag
+ein denkwürdiger Tag
+ein schwarzer Tag
+Guten Tag!
+Tag für Tag
+den lieben langen Tag
+Rom wurde auch nicht an einem Tag erbaut
+","ein ausgefeiltes Essen
+Essen auf Rädern
+Das Essen ist angerichtet!
+essen wie ein Scheunendrescher [coll.] [fig.]
+wie ein Spatz essen [fig.]
+",None,"die Katze im Sack kaufen
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse.
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch.
+Die Katze lässt das Mausen nicht.
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse
+die Katze aus dem Sack lassen [fig.]
+wie die Katze um den heißen Brei schleichen rare
+Bei Nacht sind alle Katzen grau.
+Nachts sind alle Katzen grau.
+","Gute Besserung!
+Gute Besserung!
+Gute Besserung!
+auf dem Wege (or: Weg) der Besserung sein
+","Danke.
+Danke!
+Danke!
+Danke!
+danke
+Danke!
+Danke schön.
+Danke, gut.
+Nein, danke.
+Nein, danke.
+Danke schön.
+Danke schön.
+Danke, gleichfalls!
+Danke, gleichfalls!
+","Bleib gesund!
+Bleib mir vom Leib!
+Schuster, bleib bei deinen (or: deinem) Leisten
+Schuster, bleib bei deinen (or: deinem) Leisten.
+","jmds. Mühe wert
+endlose Mühe
+Mühe ohne Ende
+Mach dir keine Mühe!
+nicht der Mühe wert
+","übernächste Woche
+letzte Woche um diese Zeit
+heute in einer Woche
+in der Woche vom ... bis ...
+24 Stunden am Tag, sieben Tage die Woche
+","Tag!
+Es ist noch nicht aller Tage Abend.
+Es ist noch nicht aller Tage Abend.
+Es ist noch nicht aller Tage Abend.
+ganze fünf Tage
+sie hat ihre Tage
+ewig und drei Tage
+Es ist nicht alle Tage Sonntag. [fig.]
+ewig und drei Tage [coll.]
+ein Gesicht wie drei Tage Regenwetter machen [coll.] [fig.]
+Guten Tag!
+Guten Tag!
+Einen schönen Tag noch!
+Nutze den Tag.
+","in Arbeit
+Arbeit allein macht nicht glücklich
+Arbeit macht das Leben süß.
+eine Arbeit, die sich bezahlt macht
+zurück an die Arbeit
+ein gutes Stück Arbeit
+ein solides Stück Arbeit
+Erst die Arbeit, dann das Vergnügen.
+Viele Hände machen der Arbeit bald ein Ende.
+gleicher Lohn für gleiche Arbeit!
+","Viel Glück!
+Viel Glück!
+Viel Glück!
+viel Glück
+der Schlüssel zum Glück
+Glück hat nur der Tüchtige
+Das Glück ist launisch.
+Das Glück ist mit dem Tüchtigen.
+Ein Glück, dass wir ihn/sie los sind!
+das Glück ist auf jmds. Seite
+das Glück ist jmdm. hold
+Glück und Glas, wie leicht bricht das.
+Ein Glück, dass ich den los bin!
+Glück und Glas, wie leicht bricht das!
+",None,None,None,None,"Name ist Schall und Rauch.
+ein Name, der Wunder wirkt
+um nur einige zu nennen
+Mein Name ist Hase.
+was auch immer
+überhaupt alles
+wie der Name schon sagt
+wie der Name schon sagt
+bekannt unter dem Namen
+bekanntwerden or: bekannt werden | wurde bekannt, bekanntgeworden |
+","nicht mehr in den besten Jahren
+im zarten Alter von ... Jahren
+ein Mann in den besten Jahren
+ein Mann in den besten Jahren
+ohne Jahr [abbr.: o. J.]
+Jahr für Jahr
+Frohes Neues Jahr!
+Frohes neues Jahr!
+das verflixte siebte Jahr
+das ganze Jahr hindurch
+ein erfolgreiches neues Jahr
+Frohe Weihnachten und ein gutes neues Jahr!
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+Frohe Weihnachten und ein gutes neues Jahr
+","die Last der Jahre
+im Jahre des Herrn
+in der Blüte der Jahre
+etw.nom. lässt jmdn. um Jahre jünger aussehen
+etw.nom. lässt jmdn. um Jahre jünger wirken
+ohne Jahr [abbr.: o. J.]
+Jahr für Jahr
+Frohes Neues Jahr!
+Frohes neues Jahr!
+das verflixte siebte Jahr
+das ganze Jahr hindurch
+ein erfolgreiches neues Jahr
+Frohe Weihnachten und ein gutes neues Jahr!
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+",None,None,"Bruder Jakob
+",None,"ein eigenes Haus
+etw.nom. geht aufs Haus infinitive: aufs Haus gehen
+Haus zu verkaufen
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse.
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch.
+mit der Tür ins Haus fallen
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse
+es ins Weiße Haus schaffen - die Wahl gewinnen
+","ganz in der Nähe
+","ganz die Mutter
+Mutter zweier Kinder
+Vorsicht ist die Mutter der Porzellankiste.
+",None,"ganz der Vater
+wie der Vater, so der Sohn
+Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär
+Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär.
+","durch die Bank [fig.]
+etw.acc. auf die lange Bank schieben [fig.]
+etw.acc. auf die lange Bank schieben [fig.]
+der Schuldner oder seine Bank
+etw.acc. auf die lange Bank schieben [fig.]
+",,,,,"ohne Jahr [abbr.: o. J.]
+Jahr für Jahr
+Frohes Neues Jahr!
+Frohes neues Jahr!
+das verflixte siebte Jahr
+das ganze Jahr hindurch
+ein erfolgreiches neues Jahr
+Frohe Weihnachten und ein gutes neues Jahr!
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+Frohe Weihnachten und ein gutes neues Jahr
+24 Stunden am Tag, 365 Tage im Jahr
+die Last der Jahre
+im Jahre des Herrn
+nicht mehr in den besten Jahren
+","eine weiße Weste haben [fig.]
+eine weiße Weste haben [fig.]
+eine reine Weste haben [fig.]
+eine reine Weste haben [fig.]
+eine reine Weste haben [fig.]
+","Auf ein Neues!
+ein neues Fass aufmachen [fig.] - neues Problem anschneiden
+Was gibt es Neues?
+Frohes Neues Jahr!
+Frohes neues Jahr!
+Was gibt's Neues?
+ein erfolgreiches neues Jahr
+Frohe Weihnachten und ein gutes neues Jahr!
+Frohe Weihnachten und ein gutes neues Jahr
+fast wie neu [abbr.: fwn] - Bücher
+wie neu
+neu für alt
+ein neuer Erdenbürger
+ein neuer Start
+",,,"In der Liebe und im Krieg ist alles erlaubt.
+In der Liebe und im Krieg ist alles erlaubt.
+","jemand ist ... Millionen schwer
+","ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein [fig.]
+wie es im Buch steht
+ein ganz zerlesenes Buch
+Das ist ein Buch mit sieben Siegeln.
+",,"die diamantene Stadt
+","in der Patsche landen [fig.] [coll.]
+das Land, in dem Milch und Honig fließen
+auf die Füße fallen [fig.]
+kein Land mehr sehen können
+Daher weht der Wind
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+Ein Prophet gilt nichts im eigenen Land.
+wie die Made im Speck leben [fig.]
+wie Gott in Frankreich leben [fig.]
+die Lage peilen [fig.] [coll.]
+sichacc. einen Eindruck von der Lage verschaffen [fig.]
+die Lage peilen [fig.]
+sichacc. einen Eindruck von der Lage verschaffen [fig.]
+einschlafen | schlief ein, eingeschlafen |
+",,,,,,
+examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
 The car backed into the garage.
 The car conked out.
@@ -290,8 +4903,424 @@ That's a beautiful car. Don't tell me it's yours!
 ","Whose horse won the race?
 ","Who did you buy these flowers for?
 How often do the plants need watering?
-",
-examples,german,,,,,,,,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
+",None,None,"Life is fatal!
+three lives were lost
+His life is at stake.
+I can live with it.
+I can live with that.
+They swam for dear life.
+Get out of my life!
+It's a matter of life and death.
+The lines between working life and home life are often blurred.
+They live from hand to mouth.
+What does he do for a living?
+ability to earn a livelihood
+He lives beyond his means.
+He lives the life of Riley.
+",None,None,"There is no alternative to this measurement.
+","I heard it this morning on the radio.
+Turn off the radio, it's doing my head in.
+Turn off the radio!
+£50,000 was raised in response to the radio appeal.
+","You'll be back tomorrow, right?
+You'll be back tomorrow, won't you?
+He may come tomorrow.
+see me tomorrow
+I'm available on the phone tomorrow from 10 am.
+It's my birthday tomorrow.
+I'm to go tomorrow.
+I will call in again tomorrow.
+We can't solve these problems overnight.
+Could you lend me some money till tomorrow?
+It is understood that the meeting is taking place tomorrow.
+Dawn has broken.
+It will do tomorrow.
+I'll arrive a week tomorrow.
+",None,"We've got some good news.
+The postman brought bad news.
+all advice or information
+some news of importance
+The news is important.
+the news confirmed my resolution
+The news is good.
+The news made me jump.
+Can I take a message?
+the good news is ...
+He was very restrained when he heard the news.
+prior to receipt of notice
+prior notice to the beneficiary
+","All's right with the world.
+He went out into the big, wide world.
+She has millions of fans worldwide.
+the world's largest glacial cave
+The world's his oyster. [fig.]
+... to cope with the growing world responsibilities incumbent on Europe [POL.]
+a new world economic order
+","three lives were lost
+She has little patience for impolite people.
+All people are equal before the law.
+He is no respecter of persons.
+It's little wonder people are upset.
+the wall in people's minds
+The dignity of man is inviolable. To respect and protect it shall be the duty of all public authority.
+Human dignity is inviolable. [POL.]
+a man of resources
+He's a decent fellow.
+","Boston is steeped in history.
+a cracking good story
+history goes back 2000 years
+in the history of Europe
+","Frequent errors detract from clarity within the text.
+problems caused by the text
+",None,"a lot of time
+The time is ripe to begin afresh.
+at the time of effecting the insurance
+The time is ripe for revolution.
+I've been extremely busy lately.
+My turn will come.
+His time is up.
+How much time will that require?
+It's high time.
+for an indefinite time
+She doesn't have time.
+after this time has elapsed
+We have plenty of time - it's only ten past.
+There isn't much to do here at this time of the year.
+",None,"My son is a sensitive boy.
+","He has a temperature.
+Does she have a fever?
+Does she have a high temperature?
+",None,"I'll see you further first.
+",None,None,"I've got a bad cold.
+","School is out.
+I'm cheesed off with school!
+I'm cheesed off with school!
+Why aren't you at school?
+Are the kids back from school yet?
+","Which doctor attended you?
+He has been to see the doctor.
+please send for the doctor
+He's not suited for a doctor.
+He's not suited for a doctor.
+",None,None,"Is there any juice left?
+","My pain has gone.
+It pains me
+","She has no respect for other people's feelings.
+She shows no respect for other people's feelings.
+","The child whose balloon had burst was screaming his lungs out.
+I kind of thought.
+What kind of work do you do?
+What kind of work do you do?
+Has your child been vaccinated against smallpox?
+a more undutiful child
+Give him my kind regards.
+she's but a child
+a kind of advertising
+Settle down, children!
+kindly remit the balance
+children under 12
+Children travel at half price.
+mother of two
+","Winter was coming.
+Do you get much snow here in winter?
+The coat will have to do for one more winter.
+",None,"Settle down, children!
+children under 12
+Children travel at half price.
+Her children are really badly behaved.
+children half price
+She is a doting mother.
+None of the children like broccoli.
+Most of the children in my class like chocolate.
+but for the children
+she has her children attended to
+Are the kids back from school yet?
+The child whose balloon had burst was screaming his lungs out.
+I kind of thought.
+What kind of work do you do?
+","please contact
+keep in touch with the market
+in close contact with the issuer [FINAN.]
+","no wonder that
+a prodigy of learning
+He worked wonders.
+Nothing short of a miracle can save us now.
+That is a sore point with him.
+He won't know what's hit him.
+He has touched a sore spot.
+","On what day?
+on the date of purchase
+a certain day
+are due any day now
+Tom spent most of the day with his daughter.
+He spent the day among friends.
+What a day!
+2/9/14 hours a day
+I've been freezing all day.
+I had a busy day yesterday
+delivery on a specific date
+It was his off day.
+He slept away the day.
+The day turned out to be a fine one.
+","It's best not to tangle with him.
+What would you like to eat?
+Do you spend lots of money on food?
+He just pecked at his food.
+She barely tasted her food.
+What's for eats?
+a spot of lunch
+We had company at dinner.
+I offered to invite him for a meal in return for his help, but he was having none of it.
+Would you like a spot of wine with the meal?
+We asked a few friends round for a meal.
+I enjoyed my supper.
+He is a tremendous eater.
+","Drinks are on the house.
+","I will pay a reward to the person who finds my cat - whosoever that may be!
+The cats that I breed are all special to me.
+The cats who I breed are all special to me.
+I love cats who let you pet them.
+","There's little hope of improvement.
+He's on the mend.
+","Thank you for your understanding.
+It was a pleasure to work with you.
+Thank you for being such a good colleague.
+Thank you for your contribution to our good work.
+","Just hang in there! [sl.]
+","a good deal of trouble
+He gives me a lot of trouble.
+worth your while
+She gives me a lot of trouble.
+It's worth the trouble.
+She tried hard.
+It is not worth the trouble
+It's not worth worrying about.
+He tried hard.
+","within two weeks
+It should require a fortnight
+another three weeks
+another three weeks
+extending over several weeks
+a two weeks' extension
+Four weeks have elapsed since ...
+The smell lingers for about three weeks.
+a period of fifteen days
+I'm sorry about last week.
+a week or so
+She goes every week.
+She comes every week.
+It should require a week
+","a couple of days
+It will take about three days
+His days are numbered.
+in my dotage
+He went on a two-day visit to Munich.
+It should require two days
+for at least 30 days
+will take 20 days
+will take about 20 days
+will take at least 3 days
+He's gone for a few days.
+free 10-day trial
+30 days prior to entry
+It will take only a couple of days
+","a good deal of work
+a great deal of work
+a spot of work
+He found plenty of work to do.
+He has a lot of work.
+We stand by our work.
+He kept me from work.
+I'm tired from work.
+this study entails
+Bad workmanship was responsible for the failure.
+commuting to and from work
+most pertinent to my study was ...
+He had a few beers on the way home from work.
+He settled down to work.
+commutation to and from work (Amer.) rare
+weary with working
+are famous for our workmanship
+","I was lucky things didn't turn out worse.
+You'll be lucky to find a parking space.
+Wheel of Fortune
+",None,None,None,None,"name and address are kept secret
+I didn't catch your name.
+What's your name?
+His name escapes me.
+His name escapes me.
+Put your name here.
+You name it
+I know him by name.
+under my own name
+My name is ...
+What's the name of this place?
+Does that name ring a bell?
+whose name appears on the enclosed slip
+I haven't a penny to my name.
+","in my younger days
+children under 12
+term of 3 years
+twice within 10 years
+She started playing football when she was only five years old.
+At twenty he married.
+to be observed in recent years
+terms between five and ten years
+with a term of 10 to 30 years
+his wife of 25 years
+The dog which they had for five years has run away.
+in the last ten/twenty/... years
+for a term of two years
+in 1999
+","many thousand years
+up to five years out of date
+several years have elapsed
+elected for a period of 3 years
+for another period of 5 years
+for another term of 5 years
+after many years
+for the last two years
+aged twenty
+The hard years had worked me over.
+as from 2002 (Brit.)
+as of 2002
+That dates back several years.
+He's a few years under age.
+",None,"Neither of her sisters called on her birthday.
+","She has as good a chance as her brother.
+The two brothers look very similar.
+","Parents need perseverance.
+He lives with his parents.
+She got into hot water with her parents.
+The hotel my parents usually stay in was fully booked.
+The hotel that my parents usually stay in was fully booked.
+The hotel which my parents usually stay in was fully booked.
+","the house is always untidy
+The house which caught fire was built in the 18th century.
+The house that we lived in for 17 years has been pulled down.
+The house which we lived in for 17 years has been pulled down.
+a derelict house
+at the back of the house
+Don't darken my door again.
+Drinks are on the house.
+We have the builders in. (Brit.)
+This house, which was built in the 18th century, is the oldest building in town.
+The people whose house this is don't know we're here.
+She believes that her house and telephone have been bugged.
+the quantity of domestic and industrial waste
+the two abutting houses
+","near here
+near here
+Is there anybody around?
+in the vicinity of a nuclear installation
+","mother of two
+Life is difficult for a mother of five.
+the patient did not respond to his mother's voice
+Trust your mother/the Germans/the neighbours/...!
+He didn't have the guts to tell his mother. [coll.]
+",None,"Remember me to your father.
+Say hello to your father from me.
+my late father
+He's a chip off the old block.
+","to the collecting bank
+known to the bank
+the bank must give notice to this effect
+the bank nominated by the principal
+the bank to which the operation is entrusted
+active as universal bank
+against bank acceptance
+against first class bank guarantee
+an undertaking by the nominated bank
+payable at Midlands Bank London
+accepted by a bank
+drawn on the issuing bank
+on behalf of the bank
+the order received by the bank [FINAN.]
+",,"elaborate dance scenes in the film
+You simply must see that film.
+and not too bad a film either
+Visually, the film is good entertainment.
+a peach of a film [coll.]
+",,,"in 1999
+The year draws to a close.
+the coming year
+every half year
+Business hasn't been good so far this year.
+He's got the seven-year itch.
+We shall not know until next year.
+The right of recourse is subject to a limitation period of one year after the notification of the final judgment. [LAW]
+for less than a year
+at the end of the trading year
+The holiday entitlement is 30 days/year.
+It only happens once in a blue moon.
+many thousand years
+There isn't much to do here at this time of the year.
+","Westward ho!
+a blot on his escutcheon [fig.]
+","What is the news?
+Her new album is a belter.
+have been given a new look
+a newly established company
+The time is ripe to begin afresh.
+That's news to me.
+If a student loses their ID card, they have to pay for a new one.
+enclosed you will find our corrected account
+a new branch of our business
+a new world economic order
+the new rules replace the old rules
+Her new hat becomes her.
+a young company
+I've spilt some soup on my new blouse!
+",,,"evils attendant on war
+The cold war has begun to thaw.
+long before the war
+Wars fuel the epidemic.
+the deprivations of the war
+evils attendant on war
+","a whopping $5 million
+She has millions of fans worldwide.
+a population of 7 million
+nears the 1 million mark
+","The book is published by Knaur.
+the book sells well
+The book is published by Knaur.
+The book was adapted for the screen in 1981.
+The book continued in installmentsAE over the next several months.The book continued in instalmentsBE over the next several months.
+The book is temporarily out of stock.
+the book sells well
+How do you like this book?
+I've never read this book in its entirety.
+I've read every book he has written.
+This book makes good reading.
+I love this book, if only because of its title.
+This book is unputdownable.
+Her first book was an instant hit.
+","an important writer
+a respectable writer
+","The town is still being shelled.
+a booming city
+the town was brightly decorated
+I saw him in town.
+all over the town
+This house, which was built in the 18th century, is the oldest building in town.
+a limited number of cities
+","Federal law shall override Land law.
+the wide open spaces
+another country
+flows through the land
+We used to live in the country.
+for each country
+any foreign country
+The aircraft whose wing was damaged managed to land safely.
+valid for the whole country
+Turkey battles to repatriate antiquities.
+the best panorama of the area
+his name resounded throughout the land [fig.]
+His speech will resound throughout the country. [fig.]
+most popular tourist region
+",,,,"Steven Soderbergh is currently the hottest director in Hollywood.
+",,
+examples,german,None,None,None,None,None,None,None,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
 Das Auto fuhr rückwärts in die Garage.
 Das Auto gab den Geist auf. infinitive: aufgeben
@@ -308,4 +5337,420 @@ Das ist ein wunderschönes Auto. Sag bloß, das ist deins!
 ","Wessen Pferd hat das Rennen gewonnen?
 ","Für wen hast du diese Blumen gekauft?
 Wie oft müssen die Blumen gegossen werden?
-",
+",None,None,"Das Leben ist tödlich!
+drei Menschen kamen ums Leben
+Es geht um sein Leben.
+Ich kann damit leben.
+Ich kann damit leben.
+Sie schwammen um ihr Leben.
+Verschwinde aus meinem Leben!
+Es geht um Leben und Tod.
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
+Sie leben von der Hand in den Mund.
+Womit verdient er seinen Lebensunterhalt?
+Fähigkeit, den Lebensunterhalt zu verdienen
+Er lebt über seine Verhältnisse.
+Er lebt wie Gott in Frankreich.
+",None,None,"Diese Maßnahme ist alternativlos.
+","Ich habe es heute Morgen im Radio gehört.
+Mach das Radio aus, es macht mich ganz verrückt.
+Stell das Radio ab! infinitive: abstellen
+Auf den Aufruf im Rundfunk hin gingen Spenden in der Höhe von 50.000 Pfund ein.
+","Morgen kommst du wieder, nicht wahr?
+Morgen kommst du wieder, nicht wahr?
+Er kommt vielleicht morgen.
+kommen Sie morgen zu mir
+Ich bin morgen ab 10 Uhr telefonisch erreichbar.
+Ich habe morgen Geburtstag infinitive: Geburtstag haben
+Ich soll morgen gehen.
+Ich werde morgen nochmals vorbeikommen.
+Diese Probleme können wir nicht von heute auf morgen lösen.
+Könntest du mir bis morgen etwas Geld leihen?
+Offenbar findet das Meeting morgen statt.
+Der Morgen dämmert.
+Es hat Zeit bis morgen.
+Ich komme morgen in acht Tagen.
+",None,"Wir haben gute Nachrichten.
+Der Postbote brachte schlechte Nachrichten.
+sämtliche Meldungen oder Nachrichten
+eine wichtige Nachricht
+die Nachricht ist wichtig.
+die Nachricht bekräftigte meinen Entschluss
+Die Nachricht ist gut.
+Die Nachricht jagte mir einen Schrecken ein.
+Möchten Sie eine Nachricht hinterlassen?
+die gute Nachricht ist ...
+Er war sehr beherrscht, als er die Nachricht hörte.
+vor Eingang der Nachricht
+vorherige Nachricht an den Begünstigten
+","Die Welt ist in Ordnung.
+Er ging in die große, weite Welt hinaus.
+Sie hat Millionen Fans auf der ganzen Welt.
+größte Eishöhle der Welt
+Ihm liegt die Welt zu Füßen. [fig.]
+... um der steigenden Verantwortung gerecht zu werden, die Europa in der Welt zukommt
+eine neue weltwirtschaftliche Ordnung
+","drei Menschen kamen ums Leben
+Sie hat wenig Geduld mit unhöflichen Menschen.
+Alle Menschen sind vor dem Gesetz gleich.
+Er achtet die Menschen nicht.
+Es ist nicht weiter verwunderlich, dass die Menschen verärgert sind.
+die Mauer in den Köpfen der Menschen
+Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+Die Würde des Menschen ist unantastbar.
+ein Mensch, der sich immer zu helfen weiß
+Er ist ein anständiger Mensch.
+","Boston ist von Geschichte durchdrungen.
+eine großartige Geschichte
+hat eine 2000-jährige Geschichte
+in der europäischen Geschichte
+","Häufige Fehler machen den Text undeutlich.
+vom Text verursachte Probleme
+",None,"viel Zeit
+Die Zeit ist reif, neu anzufangen.
+zur Zeit des Versicherungsabschlusses
+Die Zeit ist reif für eine Revolution.
+Ich war in letzter Zeit sehr beschäftigt.
+Meine Zeit kommt noch.
+Seine Zeit ist abgelaufen.
+Wie viel Zeit wird dazu nötig sein?
+Es ist höchste Zeit.
+für unbestimmte Zeit
+Sie hat keine Zeit.
+nach Ablauf dieser Zeit
+Wir haben jede Menge Zeit - es ist erst zehn nach!
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+",None,"Mein Sohn ist ein sensibler Junge.
+","Er hat Fieber.
+Hat sie Fieber?
+Hat sie Fieber?
+",None,"Ich werde Ihnen was husten.
+",None,None,"Ich habe eine schlimme Erkältung.
+","Die Schule ist aus.
+die Schule ödet mich an! [coll.]
+die Schule stinkt mir! [coll.]
+Warum bist du nicht in der Schule?
+Sind die Kinder schon aus der Schule zurück?
+","Welcher Arzt hat Sie behandelt?
+Er war beim Arzt.
+bitte lass den Arzt kommen
+Er eignet sich nicht zum Arzt.
+Er eignet sich nicht als Arzt.
+",None,None,"Ist noch Saft übrig?
+","Meine Schmerzen sind weg.
+Das schmerzt mich
+","Sie nimmt keine Rücksicht auf die Gefühle anderer.
+Sie nimmt keine Rücksicht auf die Gefühle anderer.
+","Das Kind, dessen Luftballon zerplatzt war, schrie sich die Lunge aus dem Hals.
+Ich dachte so ungefähr.
+Was machen Sie beruflich?
+Was machst du beruflich?
+Ist Ihr Kind gegen Pocken geimpft?
+ein ungehorsameres Kind
+Grüßen Sie ihn schön von mir.
+sie ist doch noch ein Kind
+eine Art von Werbung
+Ruhig, Kinder!
+bitte überweisen Sie den Saldo
+Kinder unter 12 Jahren
+Kinder reisen zum halben Preis.
+Mutter von zwei Kindern
+","Es winterte.
+Gibt es im Winter hier viel Schnee?
+Der Mantel wird diesen Winter noch einmal herhalten müssen.
+",None,"Ruhig, Kinder!
+Kinder unter 12 Jahren
+Kinder reisen zum halben Preis.
+Ihre Kinder sind wirklich ungezogen.
+halber Preis für Kinder
+Sie liebt ihre Kinder abgöttisch.
+Keines der Kinder mag Brokkoli.
+Die meisten Kinder in meiner Klasse mögen Schokolade.
+wären die Kinder nicht gewesen
+sie hat jemanden, um auf die Kinder aufzupassen
+Sind die Kinder schon aus der Schule zurück?
+Das Kind, dessen Luftballon zerplatzt war, schrie sich die Lunge aus dem Hals.
+Ich dachte so ungefähr.
+Was machen Sie beruflich?
+","bitte nimm Kontakt auf
+bleiben Sie mit dem Markt in Kontakt
+in engem Kontakt mit dem Emittenten
+","kein Wunder, dass ...
+ein Wunder an Gelehrsamkeit
+Er vollbrachte Wunder.
+Nur ein Wunder kann uns jetzt noch retten.
+Das ist ein wunder Punkt bei ihm.
+Er wird sein blaues Wunder erleben, [fig.] [coll.]
+Er hat einen wunden Punkt berührt.
+","An welchem Tag?
+am Tag des Kaufs
+ein bestimmter Tag
+sind jeden Tag fällig
+Tom verbrachte fast den ganzen Tag mit seiner Tochter.
+Er verbrachte den Tag mit Freunden.
+Was für ein Tag!
+2/9/14 Stunden am Tag
+Ich friere schon den ganzen Tag.
+ich hatte gestern einen anstrengenden Tag
+Anlieferung an einem bestimmten Tag
+Er hatte einen schlechten Tag.
+Er verschlief den Tag.
+Es wurde ein strahlender Tag.
+","Mit ihm ist nicht gut Kirschen essen.
+Was möchtest du essen?
+Gibst du viel Geld für Essen aus?
+Er stocherte nur in seinem Essen herum. infinitive: herumstochern
+Sie hat ihr Essen kaum angerührt.
+Was gibt es zu essen?
+ein wenig zum Essen
+Wir hatten Gäste zum Essen.
+Ich wollte ihn als Dank für seine Hilfe zum Essen einladen, aber das kam für ihn überhaupt nicht infrage (or: in Frage).
+Möchten Sie ein wenig Wein zum Essen?
+Wir haben ein paar Freunde zum Essen eingeladen.
+Das Abendessen hat mir geschmeckt.
+Er isst unglaublich viel.
+","Getränke gehen aufs Haus.
+","Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+Ich mag Katzen, die sich streicheln lassen.
+","Es besteht kaum Hoffnung auf Besserung.
+Er ist auf dem Weg der Besserung.
+","Danke für Ihr Verständnis.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+","Bleib am Ball!
+","viel Mühe
+Er macht mir viel Mühe.
+ihrer Mühe wert
+Sie macht mir viel Mühe.
+Es ist der Mühe wert.
+Sie gab sich große Mühe.
+Es ist nicht der Mühe wert
+Es ist nicht der Mühe wert.
+Er gab sich große Mühe.
+","innerhalb von zwei Wochen
+Es dürfte zwei Wochen dauern
+noch drei Wochen
+weitere drei Wochen
+sich über mehrere Wochen erstreckend
+eine Verlängerung von zwei Wochen
+Vier Wochen sind verstrichen seit ...
+Der Geruch hält sich etwa drei Wochen.
+eine Frist von zwei Wochen
+Es tut mir leid wegen letzter Woche.
+etwa eine Woche
+Sie geht jede Woche.
+Sie kommt jede Woche.
+Es dürfte eine Woche dauern
+","einige Tage
+Es wird etwa drei Tage dauern
+Seine Tage sind gezählt.
+auf meine alten Tage
+Er fuhr für zwei Tage nach München.
+Es dürfte zwei Tage dauern
+für mindestens 30 Tage
+wird 20 Tage brauchen
+wird etwa 20 Tage brauchen
+wird wenigstens 3 Tage brauchen
+Er ist ein paar Tage verreist.
+10 Tage kostenlos zur Ansicht
+30 Tage vor der Einfuhr
+Es wird nur ein paar Tage dauern
+","viel Arbeit
+viel Arbeit
+ein bisschen Arbeit
+Er fand viel Arbeit vor. - vorfinden
+Er hat viel Arbeit.
+Wir stehen zu unserer Arbeit.
+Er hielt mich von der Arbeit ab. infinitive: abhalten
+Ich bin von der Arbeit müde.
+diese Arbeit schließt ein
+Schlecht ausgeführte Arbeit war für das Versagen verantwortlich.
+die Fahrt zur und von der Arbeit
+meine Arbeit am nachhaltigsten beeinflusst hat ...
+Nach der Arbeit ging er noch auf ein paar Bierchen.
+Er setzte sich an die Arbeit.
+die Fahrt zur und von der Arbeit
+müde von der Arbeit
+sind berühmt für unsere Wertarbeit
+","Ich hatte Glück im Unglück.
+Da wirst du Glück haben müssen, wenn du einen Parkplatz finden willst.
+das Glücksrad
+",None,None,None,None,"Name und Anschrift werden geheim gehalten
+Ich habe Ihren Namen nicht verstanden.
+Wie heißt du?
+Sein Name fällt mir gerade nicht ein.
+Sein Name ist mir gerade entfallen.
+Schreiben Sie Ihren Namen hierher.
+Was immer Sie wollen
+Ich kenne ihn dem Namen nach.
+unter meinem eigenen Namen
+Ich heiße ...
+Wie heißt dieser Ort?
+Erinnert Sie der Name an jemanden?
+deren Namen auf dem Zettel steht
+Ich besitze keinen Pfennig.
+","in jungen Jahren
+Kinder unter 12 Jahren
+Laufzeit von 3 Jahren
+zweimal innerhalb von 10 Jahren
+Mit nur fünf Jahren fing sie mit dem Fußballspielen an.
+Er heiratete im Alter von 20 Jahren.
+in den letzten Jahren beobachtet
+Laufzeiten zwischen 5 und 10 Jahren
+mit einer Laufzeit von 10 bis 30 Jahren
+seine Ehefrau, mit der er seit 25 Jahren verheiratet ist
+Der Hund, den sie schon seit fünf Jahren hatten, ist weggelaufen.
+in den letzten zehn/zwanzig/... Jahren
+für eine Amtszeit von zwei Jahren
+im Jahr (or: Jahre) 1999
+","viele tausend Jahre
+bis fünf Jahre abgelaufen
+einige Jahre sind verstrichen
+für 3 Jahre gewählt
+für weitere 5 Jahre
+für weitere 5 Jahre
+viele Jahre später
+während der letzten beiden Jahre
+zwanzig Jahre alt
+Die schweren Jahre hatten mich mitgenommen.
+ab dem Jahre 2002
+ab dem Jahre 2002
+Das liegt mehrere Jahre zurück. infinitive: zurückliegen
+Er ist ein paar Jahre zu jung.
+",None,"Keine ihrer beiden Schwestern rief an ihrem Geburtstag an.
+","Sie hat ebenso gute Chancen wie ihr Bruder.
+Die beiden Brüder sehen sich sehr ähnlich.
+","Eltern brauchen Ausdauer.
+Er wohnt bei seinen Eltern.
+Sie hat mit ihren Eltern Stunk bekommen.
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+","das Haus ist immer unordentlich
+Das Haus, das in Flammen aufging, wurde im 18. Jahrhundert erbaut.
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+ein heruntergekommenes Haus
+hinter dem Haus
+Komm mir nie wieder ins Haus.
+Getränke gehen aufs Haus.
+Wir haben die Handwerker im Haus
+Dieses Haus, das im 18. Jahrhundert erbaut wurde, ist das älteste Gebäude in der Stadt.
+Die Leute, denen das Haus gehört, wissen nicht, dass wir hier sind.
+Sie glaubt, dass ihr Haus und Telefon angezapft worden sind.
+das Aufkommen an Haus- und Industriemüll
+die zwei aneinandergrenzenden Häuser
+","in der Nähe
+hier in der Nähe
+Ist jemand in der Nähe?
+in der Nähe einer kerntechnischen Anlage
+","Mutter von zwei Kindern
+Als Mutter von fünf Kindern hat man es schwer.
+der Patient reagierte nicht auf die Stimme seiner Mutter
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+Er traute sich nicht, es seiner Mutter zu erzählen.
+",None,"Grüßen Sie Ihren Vater von mir.
+Grüßen Sie Ihren Vater von mir.
+mein verstorbener Vater
+Er ist ganz der Vater.
+","an die Inkassobank
+der Bank bekannt
+die Bank muss dies mitteilen
+die vom Auftraggeber benannte Bank
+die mit dem Vorgang betraute Bank
+als Universalbank tätig
+gegen Bankakzept
+gegen erstklassige Bankgarantie
+eine Verpflichtung der benannten Bank
+zahlbar bei der Midlands Bank in London
+von einer Bank akzeptiert
+gezogen auf die eröffnende Bank
+im Auftrag der Bank
+der der Bank zugegangene Auftrag
+",,"raffinierte Tanzszenen im Film
+Du musst den Film einfach sehen.
+und auch kein allzu schlechter Film
+Von der Aufmachung her ist der Film sehr unterhaltend.
+ein klasse Film [coll.]
+",,,"im Jahr (or: Jahre) 1999
+Das Jahr neigt sich dem Ende zu.
+das kommende Jahr
+jedes halbe Jahr
+Bisher läuft das Geschäft in diesem Jahr nicht gut.
+Er ist im verflixten siebenten Jahr.
+Wir können es erst im nächsten Jahr erfahren.
+Das Rückgriffsrecht verjährt ein Jahr nach Kenntnis des rechtskräftigen Urteils.
+für weniger als ein Jahr
+am Ende des Geschäftsjahres
+Der Urlaub beträgt 30 Arbeitstage/Jahr.
+Das kommt alle Jubeljahre vor.
+viele tausend Jahre
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+","Auf nach Westen!
+ein Fleck auf seiner weißen Weste
+","Was gibt es Neues?
+Ihr neues Album ist ein Hammer [coll.]
+haben ein neues Aussehen erhalten
+eine neu gegründete Firma
+Die Zeit ist reif, neu anzufangen.
+Das ist mir neu.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+neue Rechnung anbei
+eine neue Filiale unseres Geschäftes
+eine neue weltwirtschaftliche Ordnung
+die neuen Richtlinien ersetzen die alten
+Ihr neuer Hut steht ihr gut.
+eine neue Firma
+Ich habe etwas Suppe auf meine neue Bluse gekleckert!
+",,,"den Krieg begleitende Übel
+Der kalte Krieg hat zu tauen begonnen.
+lange vor dem Krieg
+Kriege schüren die Epidemie.
+die Entbehrungen des Krieges
+Übel im Gefolge des Krieges
+","ein Riesenbetrag von 5 Millionen Dollar
+Sie hat Millionen Fans auf der ganzen Welt.
+eine Bevölkerung von 7 Millionen
+nähert sich der Million
+","Das Buch ist bei Knaur erschienen.
+das Buch geht gut
+Das Buch ist im Knaur-Verlag erschienen.
+Das Buch wurde 1981 fürs Fernsehen adaptiert.
+Das Buch erschien die nächsten Monate in Fortsetzungsfolgen.
+Das Buch ist gegenwärtig nicht am Lager.
+das Buch verkauft sich gut
+Wie gefällt Ihnen dieses Buch?
+Ich habe dieses Buch nie ganz gelesen.
+Ich habe jedes Buch von ihm gelesen.
+Dieses Buch liest sich gut.
+Ich mag das Buch, alleine schon wegen des Titels.
+Dieses Buch kann man nicht aus der Hand legen.
+Ihr erstes Buch war ein sofortiger Hit.
+","ein bedeutender Schriftsteller
+ein ganz ordentlicher Schriftsteller
+","Die Stadt steht immer noch unter Beschuss.
+eine Stadt im Aufschwung
+die Stadt war prächtig geschmückt
+Ich habe ihn in der Stadt gesehen.
+in der ganzen Stadt
+Dieses Haus, das im 18. Jahrhundert erbaut wurde, ist das älteste Gebäude in der Stadt.
+eine begrenzte Zahl von Städten
+","Bundesrecht bricht Landesrecht.
+das weite flache Land
+ein anderes Land
+fließt durch das Land
+Früher wohnten wir auf dem Land.
+für jedes Land
+irgendein anderes Land
+Das Flugzeug, dessen Tragfläche beschädigt war, konnte sicher landen.
+gültig im ganzen Land
+Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+der beste Blick über das Land
+sein Name war in aller Munde
+Seine Rede wird im ganzen Land widerhallen.
+meist besuchtes Ferienland
+",,,,"Steven Soderbergh ist zurzeit der gefragteste Regisseur in Hollywood.
+",,
