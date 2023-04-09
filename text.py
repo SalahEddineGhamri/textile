@@ -137,7 +137,6 @@ def colorize_text(df, scheme=None):
 
 
 # build rich text with colors
-# TODO: revize the width
 def generate_rich_text(df, entry=None, width=30):
     text = Text()
     text.no_wrap = False
