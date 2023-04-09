@@ -4,23 +4,26 @@ from textual.widgets import TextLog
 from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
-from text import generate_rich_text, get_colorized_dataframe
+from text import generate_rich_text, colorize_text, ANALYZED_TEXT
 
 # PROGRESS in Tui------------------------------------
+# TODO: show messages
 # TODO: change the scheme of the text based on the button
 # TODO: manager arguments in the TUI script
 # TODO: add buttons functionality
 # TODO: select the word and show its analysis
 # ---------------------------------------------------
 
+TEXT_WIDTH = 80
+
+
 # routines definiton when button is presed
-# mainly change color scheme and update message
 def call_nouns():
-    TextileApp.set_text(generate_rich_text(get_colorized_dataframe("NOUN"), 110))
+    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
 
 
 def call_verbs():
-    TextileApp.set_text(generate_rich_text(get_colorized_dataframe("VERB"), 110))
+    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "VERB"), width=TEXT_WIDTH))
 
 
 # dict of all button actions
@@ -44,7 +47,7 @@ class TextileApp(App):
     CSS_PATH = "TextileApp.css"
     BINDINGS = bindings
     message = ""
-    text = generate_rich_text(get_colorized_dataframe(), 110)
+    text = generate_rich_text(ANALYZED_TEXT, width=TEXT_WIDTH)
 
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
@@ -82,7 +85,7 @@ class TextileApp(App):
         self.analysis_log.write(TextileApp.message)
 
     @staticmethod
-    def set_message(message):
+    def set_message(message: str) -> None:
         TextileApp.message = message
 
     @staticmethod

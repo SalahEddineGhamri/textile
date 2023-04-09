@@ -4,74 +4,13 @@ from rich.text import Text, Style
 from file_io import File
 from rich import print
 
-# TODO: introduce colorschems
+# TODO: fill meta in the analysis
 # TODO: in noun scheme we have the color showing gender
 #     : - green: maschuline
 #     : - red: feminine
 #     : - blue: Neutrom
-# TODO: we have under blue line for accusative or red for dative.
-
-
-def read_input():
-    """
-    reads the file input
-    """
-    text = ""
-    with File(INPUT_PATH, "r") as f:
-        text = f.getData()
-    return text
-
-
-def analyze_text(text):
-    """
-    TODO: intensive function should be called
-    """
-    nlp = spacy.load("de_core_news_sm")
-    doc = nlp(text)
-    data = []
-    for token in doc:
-        data.append([token.text,
-                     token.lemma_,
-                     token.pos_,
-                     spacy.explain(token.pos_),
-                     token.morph,
-                     token.morph.get("Case"),
-                     token.morph.get("Number"),
-                     token.morph.get("Person"),
-                     token.morph.get("PronType"),
-                     token.tag_,
-                     token.dep_,
-                     token.shape_,
-                     token.is_alpha,
-                     token.is_stop])
-
-    return pd.DataFrame(data=data, columns=['text',
-                                            'lemma_',
-                                            'pos_',
-                                            'pos_meaning_',
-                                            'morph',
-                                            'morph_case',
-                                            'morph_number',
-                                            'morph_person',
-                                            'morph_prontype',
-                                            'tag_',
-                                            'dep_',
-                                            'shape_',
-                                            'is_alpha',
-                                            'is_stop'])
-
-
-INPUT_PATH = "./texts/input_3.txt"
-ANALYZED_TEXT = analyze_text(read_input())
-
-
-# colorize dataframe
-def get_colorized_dataframe(scheme=None):
-    return colorize_text(ANALYZED_TEXT, scheme=scheme)
-
 
 # colors dict
-# TODO: move color definion to schemes.py where all colors are defined
 colors_definitions = {
     'Bg': "#282828",
     'White': "#fbf1c7",
@@ -101,18 +40,84 @@ colors_definitions = {
 }
 
 
+def read_input():
+    """
+    reads the file input
+    """
+    text = ""
+    with File(INPUT_PATH, "r") as f:
+        text = f.getData()
+    return text
+
+
+def analyze_text(text):
+    """
+    intensive function should be called
+    """
+    nlp = spacy.load("de_core_news_sm")
+    doc = nlp(text)
+    data = []
+    for token in doc:
+        data.append([token.text,
+                     token.lemma_,
+                     token.pos_,
+                     spacy.explain(token.pos_),
+                     token.morph,
+                     token.morph.get("Case"),
+                     token.morph.get("Number"),
+                     token.morph.get("Person"),
+                     token.morph.get("PronType"),
+                     token.tag_,
+                     token.dep_,
+                     token.shape_,
+                     token.is_alpha,
+                     token.is_stop])
+
+    df = pd.DataFrame(data=data, columns=['text',
+                                          'lemma_',
+                                          'pos_',
+                                          'pos_meaning_',
+                                          'morph',
+                                          'morph_case',
+                                          'morph_number',
+                                          'morph_person',
+                                          'morph_prontype',
+                                          'tag_',
+                                          'dep_',
+                                          'shape_',
+                                          'is_alpha',
+                                          'is_stop'])
+
+    df['color'] = colors_definitions['White']
+    df['highlight'] = False
+
+    # fill the meta data Case, Gender, Number, Person
+    df['meta'] = df['morph'].apply(lambda x: x.get('Case'))
+    df.apply(lambda row: row['meta'].extend(row['morph'].get('Gender')), axis=1)
+    df.apply(lambda row: row['meta'].extend(row['morph'].get('Number')), axis=1)
+    df.apply(lambda row: row['meta'].extend(row['morph'].get('Person')), axis=1)
+    return df
+
+
+INPUT_PATH = "./texts/input_3.txt"
+
+# this is our blackboard
+ANALYZED_TEXT = analyze_text(read_input())
+
+
 def colorize_text(df, scheme=None):
     '''
-    for each pos_ fill the color
+    Applies colorschems based
     '''
+    # reset eveything
     df['color'] = colors_definitions['White']
-    df['reversed'] = False
-    df['meta'] = ""
+    df['highlight'] = False
+
     if scheme == "VERB":
         df.loc[df['pos_'] == scheme, 'color'] = colors_definitions[scheme]
         df.loc[df['pos_'] == "AUX", 'color'] = colors_definitions[scheme]
-        df.loc[df['pos_'] == scheme, 'reversed'] = True
-        df.loc[df['pos_'] == "AUX", 'reversed'] = True
+        df.loc[df['pos_'] == scheme, 'highlight'] = True
+        df.loc[df['pos_'] == "AUX", 'highlight'] = True
     elif scheme == "NOUN":
         df.loc[df['pos_'] == scheme, 'color'] = colors_definitions["Undefined"]
         df.loc[(df['pos_'] == 'NOUN') &
@@ -124,21 +129,27 @@ def colorize_text(df, scheme=None):
         df.loc[(df['pos_'] == 'NOUN') &
                (df['morph'].apply(lambda x: x.get('Gender') == ['Neut'])),
                'color'] = colors_definitions["Blue"]
-        # reversed
-        df.loc[(df['pos_'] == 'NOUN'), 'reversed'] = True
-        df.loc[(df['pos_'] == 'NOUN'), 'meta'] = df.loc[(df['pos_'] == 'NOUN'), 'lemma_']
+        # highlight
+        df.loc[(df['pos_'] == 'NOUN'), 'highlight'] = True
     else:
         df['color'] = df.apply(lambda x: colors_definitions[x['pos_']], axis=1)
     return df
 
 
 # build rich text with colors
-def generate_rich_text(df, entry=None, width=100):
+# TODO: revize the width
+def generate_rich_text(df, entry=None, width=30):
     text = Text()
+    text.no_wrap = False
     text_width = 0
     for index, row in df.iterrows():
+        if row['text'] == '\n':
+            text.append('\n')
+            text_width = 0
+            continue
+
         if text_width >= width:
-            text.append("\n")
+            text.append('\n')
             text_width = 0
 
         if index != 0 and row['pos_'] != 'PUNCT' and text_width != 0:
@@ -146,58 +157,36 @@ def generate_rich_text(df, entry=None, width=100):
             text_width += 1
 
         style = Style(color=row['color'])
-
-        text_string = row['text']
-        text.append(text_string, style=style)
+        text.append(row['text'], style=style)
         text_width += len(row['text'])
 
-        # style for meta only
-        if row['meta']:
+        if row['highlight']:
+            # meta
             text.append(" ")
             text_width += 1
-            # style for morph case
-            if row['morph_case'] == ['Acc']:
-                style = Style(color=colors_definitions["Bg"],
-                              bgcolor=colors_definitions["White"],
-                              reverse=False,
-                              dim=True)
-                text.append("Acc", style=style)
-                text_width += 3
-            if row['morph_case'] == ['Dat']:
-                style = Style(color=colors_definitions["Bg"],
-                              bgcolor=colors_definitions["White"],
-                              reverse=False,
-                              dim=True)
-                text.append("Dat", style=style)
-                text_width += 3
+            style = Style(color=colors_definitions['Bg'],
+                          bgcolor=colors_definitions["White"],
+                          dim=True)
+            text.append(f" {''.join(row['meta'])} ", style=style)
+            text_width += len(''.join(row['meta']))
 
-            if row['morph_number'] == ['Plur']:
-                style = Style(color=colors_definitions["Bg"],
-                              bgcolor=colors_definitions["White"],
-                              reverse=False,
-                              dim=True)
-                text.append("Plur", style=style)
-                text_width += 4
-
-
+            # lemma_
             text.append("|")
             text_width += 1
             style = Style(color=row['color'],
-                          bgcolor=None,
-                          reverse=row['reversed'],
-                          bold=False,
-                          italic=True,
+                          bgcolor=colors_definitions["White"],
+                          reverse=True,
                           dim=True)
-            text.append(f" {row['meta']} ", style=style)
-            text_width += len(row['meta'])
+            text.append(f" {row['lemma_']} ", style=style)
+            text_width += len(row['lemma_'])
 
-        text_width += len(row['text'])
-    text.no_wrap = False
+
     return text
 
 
 if __name__ == "__main__":
-    df = get_colorized_dataframe('NOUN')
-    print(df)
-    #TEXT = generate_rich_text(df, 90)
-    #print(TEXT)
+    print(ANALYZED_TEXT)
+    df = colorize_text(ANALYZED_TEXT, 'NOUN')
+    # print(df)
+    # TEXT = generate_rich_text(df, 90)
+    # print(TEXT)
