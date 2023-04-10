@@ -82,7 +82,7 @@ class NounsCache(pd.DataFrame):
 if __name__ == "__main__":
     noun_cache = NounsCache()
     noun_cache.fillna(value="None", inplace=True)
-    print(noun_cache['Auto']['nouns']['english'])
-    print(noun_cache['Auto']['nouns']['german'])
-    print(noun_cache['Auto']['noun_details']['english'].split('\n'))
+    print(noun_cache['Russland']['nouns']['english'])
+    print(noun_cache['Russland']['nouns']['german'])
+    print(noun_cache['Russland']['noun_details']['english'].split('\n'))
     noun_cache.cache()

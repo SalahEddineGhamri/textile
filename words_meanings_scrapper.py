@@ -69,6 +69,8 @@ def extract_noun_details(entry):
     # first pair in the table has the info
     phrases = entry.split("\n")
     words = phrases[0].split()
+    if len(words) < 2:
+        words = ["", ""]
 
     # find plural
     if "pl.:" in words:

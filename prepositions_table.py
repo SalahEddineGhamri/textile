@@ -1,7 +1,7 @@
-# adjectives in all forms
+# prepositions in all forms
 import warnings
 import pandas as pd
-from config import ADJECTIVES_CACHE_FILE
+from config import PREPOSITIONS_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
@@ -10,7 +10,7 @@ import random
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
 
-class AdjectivesCache(pd.DataFrame):
+class PrepositionsCache(pd.DataFrame):
 
     aspects = ["basic_forms",
                "verbs",
@@ -26,25 +26,25 @@ class AdjectivesCache(pd.DataFrame):
                                        names=('aspects', 'language'))
 
     def __init__(self):
-        if not ADJECTIVES_CACHE_FILE.exists():
+        if not PREPOSITIONS_CACHE_FILE.exists():
             super().__init__(index=self.index)
         else:
-            super().__init__(pd.read_csv(ADJECTIVES_CACHE_FILE,
+            super().__init__(pd.read_csv(PREPOSITIONS_CACHE_FILE,
                                          index_col=['aspects', 'language']))
 
-    def get_adjective(self, adjective, aspect, language):
-        adjective_df = self[adjective]
-        if adjective_df is not None:
-            return adjective_df[aspect][language]
+    def get_preposition(self, preposition, aspect, language):
+        preposition_df = self[preposition]
+        if preposition_df is not None:
+            return preposition_df[aspect][language]
         else:
             return None
 
-    def add_adjective(self, adjective, aspect, language, value):
-        if adjective in self.columns:
-            self.loc[(aspect, language), adjective] = value
+    def add_preposition(self, preposition, aspect, language, value):
+        if preposition in self.columns:
+            self.loc[(aspect, language), preposition] = value
         else:
-            self[adjective] = pd.Series(index=self.index, dtype='object')
-            self.loc[(aspect, language), adjective] = value
+            self[preposition] = pd.Series(index=self.index, dtype='object')
+            self.loc[(aspect, language), preposition] = value
 
     def cache(self):
         try:
@@ -52,11 +52,11 @@ class AdjectivesCache(pd.DataFrame):
                 # print('The DataFrame is empty')
                 return False
 
-            if not ADJECTIVES_CACHE_FILE:
+            if not PREPOSITIONS_CACHE_FILE:
                 # print('The file path is empty')
                 return False
 
-            super().to_csv(ADJECTIVES_CACHE_FILE, index=True)
+            super().to_csv(PREPOSITIONS_CACHE_FILE, index=True)
             # print(f'DataFrame has been written to {AJECTIVES_CACHE_FILE}')
             return True
 
@@ -81,7 +81,7 @@ class AdjectivesCache(pd.DataFrame):
 
 
 if __name__ == "__main__":
-    adjective_cache = AdjectivesCache()
-    df = adjective_cache['schön']
+    preposition_cache = PrepositionsCache()
+    df = preposition_cache['denn']
     print(df)
-    adjective_cache.cache()
+    preposition_cache.cache()

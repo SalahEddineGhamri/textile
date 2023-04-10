@@ -5,6 +5,9 @@ from file_io import File
 from rich import print
 from nouns_table import NounsCache
 from verbs_table import VerbsCache
+from adjectives_table import AdjectivesCache
+from adverbs_table import AdverbsCache
+from prepositions_table import PrepositionsCache
 from multiprocessing import Process
 from rich.table import Table
 import numpy as np
@@ -36,7 +39,7 @@ colors_definitions = {
     'CONJ': '#0fbed8',
     'CCONJ': '#fa6b97',
     'DET': '#f1d367',
-    'INTJ': None,
+    'INTJ': '#f1d367',
     'NOUN': '#08f9e4',
     'NUM': '#d9ced6',
     'PART': None,
@@ -63,18 +66,36 @@ def read_input():
 
 noun_cache = NounsCache()
 verb_cache = VerbsCache()
+adjective_cache = AdjectivesCache()
+adverb_cache = AdverbsCache()
+preposition_cache = PrepositionsCache()
+
 
 # TODO: add adjective adverbs prepositions ...
-def analyze_verb(verbs_list):
+def analyze_verbs(verbs_list):
     # TODO: verifiy return and add other options
     for verb in verbs_list:
         verb_cache[verb]
 
 
-def analyze_noun(nouns_list):
-    # TODO: verifiy return and add other options
+def analyze_nouns(nouns_list):
     for noun in nouns_list:
         noun_cache[noun]
+
+
+def analyze_adjectives(adjectives_list):
+    for adjective in adjectives_list:
+        adjective_cache[adjective]
+
+
+def analyze_adverbs(adverbs_list):
+    for adverb in adverbs_list:
+        adverb_cache[adverb]
+
+
+def analyze_prepositions(prepositions_list):
+    for preposition in prepositions_list:
+        preposition_cache[preposition]
 
 
 def analyze_text(text):
@@ -126,12 +147,25 @@ def analyze_text(text):
     df.apply(lambda row: row['meta'].extend(row['morph'].get('Person')), axis=1)
 
     # trigger meaning parsing for all nouns
+    df.loc[df['pos_'] == 'NOUN', 'text'] = df.loc[df['pos_'] == 'NOUN', 'text'].str.replace('-', '')
     nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
-    pgetting_nouns = run_in_background(analyze_noun, nouns_list)
+    pgetting_nouns = run_in_background(analyze_nouns, nouns_list)
 
     # trigger verb conjugation for all verbs
     verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
-    pgetting_verbs = run_in_background(analyze_verb, verbs_list)
+    pgetting_verbs = run_in_background(analyze_verbs, verbs_list)
+
+    # trigger adjective conjugation for all adjectives
+    adjectives_list = df.loc[(df['pos_'] == 'ADJ'), 'text'].tolist()
+    pgetting_adjectives = run_in_background(analyze_adjectives, adjectives_list)
+
+    # trigger adverb conjugation for all adverbs
+    adverbs_list = df.loc[(df['pos_'] == 'ADV'), 'text'].tolist()
+    pgetting_adverbs = run_in_background(analyze_adverbs, adverbs_list)
+
+    # trigger preposition conjugation for all prepositions
+    prepositions_list = df.loc[df['pos_'].isin(['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']), 'text'].tolist()
+    pgetting_prepositions = run_in_background(analyze_prepositions, prepositions_list)
 
     # trigger a corrector in the background
     # checks for nouns and verbs are not None
@@ -139,7 +173,7 @@ def analyze_text(text):
     return df
 
 
-INPUT_PATH = "./texts/input_4.txt"
+INPUT_PATH = "./texts/input_5.txt"
 
 ANALYZED_TEXT = analyze_text(read_input())
 
@@ -179,6 +213,10 @@ def colorize_text(df, scheme=None):
     elif scheme == "ADV":
         df.loc[df['pos_'] == scheme,
                  ['highlight', 'color']] = [True, colors_definitions[scheme]]
+
+    elif scheme == "PREP":
+        df.loc[df['pos_'].isin(['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']),
+                 ['highlight', 'color']] = [True, colors_definitions['CONJ']]
 
     else:
         df['color'] = df.apply(lambda x: colors_definitions[x['pos_']], axis=1)
@@ -220,8 +258,6 @@ def generate_rich_text(df, width=30):
             text_width += len(''.join(row['meta']))
 
             # lemma_
-            text.append("|")
-            text_width += 1
             style = Style(color=row['color'],
                           bgcolor=colors_definitions["White"],
                           reverse=True,
@@ -231,25 +267,28 @@ def generate_rich_text(df, width=30):
     return text
 
 
-def generate_rich_analysis(df, group='NOUN' ,row_nbr=5):
+def generate_rich_analysis(df, group='NOUN', row_nbr=5):
+    # map [group: [select part of meaning, select cache, tags]]
+    map = {'NOUN': ['nouns', noun_cache, ['NOUN']],
+           'ADJ': ['adjectives_or_adverbs', adjective_cache, ['ADJ']],
+           'ADV': ['adjectives_or_adverbs', adverb_cache, ['ADV']],
+           'PREP': ['examples', preposition_cache, ['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']],
+           }
     tables = []
-    nouns_list = df.loc[(df['pos_'] == group), 'text'].tolist()
-    map = {'NOUN': 'nouns', 'ADJ': 'adjectives_or_adverbs', 'ADV': 'adjectives_or_adverbs'}
+    nouns_list = df.loc[(df['pos_'].isin(map[group][2])), 'text'].tolist()
+    nouns_list = list(set(nouns_list))
+
+    cache = map[group][1]
+
     for element in nouns_list:
-        df = noun_cache[element]
+        df = cache[element]
         df.fillna(value="None", inplace=True)
-        english_text = noun_cache[element][map[group]]['english']
-        german_text = noun_cache[element][map[group]]['german']
+        english_text = cache[element][map[group][0]]['english']
+        german_text = cache[element][map[group][0]]['german']
 
-        # TODO: do in analyze
-        if english_text == "None" or german_text == "None":
-            #element = element.replace("-", "").lower()
-            english_text = noun_cache[element][map[group]]['english']
-            german_text = noun_cache[element][map[group]]['german']
+        noun_details = cache[element]['noun_details']['english'].split('\n')
 
-        noun_details = noun_cache[element]['noun_details']['english'].split('\n')
-
-        if len(noun_details) > 2:
+        if len(noun_details) > 2 and group == 'NOUN':
             noun_gender = noun_details[2]
         else:
             noun_gender = "None"
@@ -278,6 +317,10 @@ def generate_rich_analysis_verb(df, row_nbr=5):
     tables = []
     verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
     lemmas_list = df.loc[(df['pos_'] == 'VERB'), 'lemma_'].tolist()
+
+    verbs_list = list(set(verbs_list))
+    lemmas_list = list(set(lemmas_list))
+
     for verb, lemma in zip(verbs_list, lemmas_list):
         df = noun_cache[verb]
         df.fillna(value="None", inplace=True)

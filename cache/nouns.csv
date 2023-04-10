@@ -1,4 +1,4 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,expräsident,frühere,wichtige,neuer,Jetzt,Nun,muss,genau,wieder,Dann
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,expräsident,frühere,wichtige,neuer,Jetzt,Nun,muss,genau,wieder,Dann,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,Weltkrieg,FilmPreisen,WeltKrieg,FilmMusik,KameraFührung,SzenenBild,WaschSalon,komme,lebe,habe,wohnen,arbeitet,NATOMitglied,MilitärBündnis,MitgliedsLänder,Länder,Mitglieder,Russland,HauptQuartier,Feier,Fahne,GeneralSekretär,Mitglied,Erweiterung,Beitritt,Regierung,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt
 basic_forms,english,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"alternativ : Adjective
 ",None,None,"der Moderator : Noun
 ","die Nachricht : Noun
@@ -57,11 +57,61 @@ bekommen : Verb
 ","wählen : Verb
 ","treten : Verb
 treten : Verb
-",None,None,None,None,None,,None,"wichtig : Adjective
+",None,None,None,None,None,None,None,"wichtig : Adjective
 ","neu : Adjective
 ",None,None,"müssen : Verb
-",None,None,
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None,None,
+",None,None,None,"sich hören : Verb
+hören : Verb
+sich gehören : Verb
+gehören : Verb
+",None,"sich handeln : Verb
+handeln : Verb
+","erzählen : Verb
+","sterben : Verb
+","kämpfen : Verb
+sich kämpfen : Verb
+","verleihen : Verb
+","gewinnen : Verb
+sich gewinnen : Verb
+",None,"der Filmpreis : Noun
+",None,None,None,None,None,"sich kommen : Verb
+kommen : Verb
+kommen : Verb
+","leben : Verb
+","sich haben : Verb
+sich haben : Verb
+haben : Verb
+",None,"arbeiten : Verb
+",None,None,"das Mitgliedsland : Noun
+","das Land : Noun
+","das Mitglied : Noun
+",None,None,None,None,None,None,None,"beitreten : Verb
+",None,"die Helfe : Noun
+","angreifen : Verb
+sich angreifen : Verb
+","beitreten : Verb
+","sich haben : Verb
+sich haben : Verb
+haben : Verb
+","ändern : Verb
+sich ändern : Verb
+","angreifen : Verb
+sich angreifen : Verb
+","geben : Verb
+sich geben : Verb
+sich geben : Verb
+","hochziehen : Verb
+sich hochziehen : Verb
+hochziehen : Verb
+",None,"klappen : Verb
+klappen : Verb
+","kritisieren : Verb
+",None,"aufnehmen : Verb
+sich aufnehmen : Verb
+sich aufnehmen : Verb
+sich aufnehmen : Verb
+"
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
 verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -885,7 +935,7 @@ to emerge | emerged, emerged |
 to become evident
 to surface | surfaced, surfaced |
 to appear | appeared, appeared |
-",None,None,None,None,None,,None,"to be important
+",None,None,None,None,None,None,None,"to be important
 to be of importance
 to care about sth.
 to aggrandizeAE oneself to aggrandiseBE / aggrandizeBE oneself
@@ -961,7 +1011,409 @@ to reconvene | reconvened, reconvened |
 to resurge | resurged, resurged |
 to rekindle | rekindled, rekindled |
 to become revitalizedAE to become revitalisedBE / revitalizedBE
-",
+",None,"sth. belongs to so.
+to hear (sth.) | heard, heard |
+to listen | listened, listened |
+to belong to so./sth.
+to belong to so.
+to be so.'s | was, been |
+to be owned by so.
+to catch sth. | caught, caught | - hear, understand
+to hearken or: harken | hearkened, hearkened / harkened, harkened | [LIT.]
+to read so. | read, read | - hear and understand when communicating by radio [TELECOM.]
+to list | listed, listed | [poet.] archaic - listen
+to appertain to so./sth.
+to pertain to so./sth.
+to affiliate with so./sth.
+","to get sth. (from so.) | got, got/gotten |
+to receive sth. (from so.) | received, received |
+to catch sth. | caught, caught |
+to come by sth.
+to gain sth. | gained, gained | - obtain
+to obtain sth. | obtained, obtained |
+to agree with so.
+to come down with sth.
+to get sth. through sth.
+sth. does so. good/bad infinitive: do good, do bad
+sth. agrees with so. - food infinitive: agree
+sth. becomes so. - be appropriate, suitable
+to blister | blistered, blistered |
+to get life - be sentenced to life imprisonment
+","sth. deals with sth. infinitive: deal
+to act | acted, acted | - take action
+to trade | traded, traded |
+to deal in cigars/coal/corn/cosmetics/crystal/...
+to bargain (for sth.) | bargained, bargained |
+to take action
+to merchandise | merchandised, merchandised |
+to negotiate | negotiated, negotiated |
+to proceed | proceeded, proceeded |
+to haggle | haggled, haggled |
+to higgle | higgled, higgled | - archaic spelling of haggle
+to operate | operated, operated |
+to dicker | dickered, dickered | (Amer.)
+to traffic | trafficked, trafficked |
+","to tell so. sth. (or: sth. to so.) | told, told |
+to narrate | narrated, narrated |
+to recount | recounted, recounted |
+to report | reported, reported |
+to relate sth. (to so.) | related, related | [form.]
+to tell (so.) of sth.
+to tell so. about sth.
+to retell | retold, retold |
+to prose | prosed, prosed |
+to retell | retold, retold |
+to tell so. lies
+to lie about so./sth.
+to tell a long rigmarole
+to misnarrate | misnarrated, misnarrated | rare
+to outtell sth. | outtold, outtold | - tell to the end rare
+to fable | fabled, fabled | archaic
+to give so. the lowdown on so./sth. [coll.]
+","to die (of (or: from) sth.) | died, died |
+to perish | perished, perished |
+to decease | deceased, deceased |
+to pass away
+to die off
+to pay one's debt to nature
+to fade away
+to pay the debt of nature
+to flatline | flatlined, flatlined | - said of a person [coll.]
+to snuff it (Brit.) [sl.]
+to buy the farm (Amer.) [sl.] [MIL.]
+to cark | carked, carked | - to die (Aust.) [coll.]
+to die of fear/shame/boredom [fig.]
+to be burnt to death
+","to battle (against sth.) | battled, battled |
+to fight (so./sth.) | fought, fought |
+to struggle | struggled, struggled |
+to contend (with so. for sth.) | contended, contended |
+to campaign (against so./sth.) | campaigned, campaigned |
+to combat | combated/combatted, combated/combatted |
+to brawl | brawled, brawled |
+to fray | frayed, frayed |
+to bear arms
+to contest sth. | contested, contested | - fight for
+to struggle for sth.
+to compete for sth.
+to battle for sth.
+to wage a fight for sth.
+","to lend sth. (to so.) | lent, lent |
+to award so. sth. (or: sth. to so.) | awarded, awarded |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to impart | imparted, imparted |
+to distribute films
+to confer sth. | conferred, conferred |
+to imbue sth. | imbued, imbued |
+to concede sth. | conceded, conceded |
+to lend sth. ⇔ out
+to rent sth. ⇔ out
+to distribute sth. | distributed, distributed |
+to bestow sth. on (or: upon) so.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to accord so. sth. | accorded, accorded |
+","to win (at sth.) | won, won |
+to gain sth. | gained, gained | - obtain
+to win sth. | won, won |
+to obtain | obtained, obtained |
+to gather | gathered, gathered |
+to carry sth. ⇔ off - a prize
+to allure so. | allured, allured |
+to take sth. | took, taken | - a prize or medal
+to attain sth. | attained, attained |
+to extract | extracted, extracted | [TECH.]
+to produce | produced, produced | [TECH.]
+to mine | mined, mined | [TECH.]
+to work | worked, worked | [TECH.]
+to scallop | scalloped, scalloped | [TECH.]
+",None,None,None,None,None,None,None,"to come | came, come |
+to turn up - come, arrive
+to arrive (at sth.) | arrived, arrived |
+to be along [coll.]
+to come | came, come | [sl.] - have an orgasm
+to come from London/the Canary Islands/Switzerland
+to work sth. ⇔ out
+to get the hang of sth.
+to conceive (of) sth. | conceived, conceived |
+to get to the bottom of sth.
+to take after so.
+to get down to sth.
+to work round to sth.
+to amount to sth.
+","to live | lived, lived |
+to be alive
+to exist | existed, existed |
+to roost | roosted, roosted | [ZOOL.]
+to abide | abode, abode | obsolete
+to live on sth.
+to make a living doing sth.
+to live for so./sth.
+to stay with so.
+to save life
+to live apart
+to slum it
+to coexist | coexisted, coexisted |
+to live simply
+","to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+to carry on with so. [coll.]
+","to live | lived, lived |
+to stay | stayed, stayed |
+to dwell | dwelled/dwelt, dwelled/dwelt |
+to reside | resided, resided |
+to room | roomed, roomed |
+to roost | roosted, roosted | [ZOOL.]
+to abide | abode, abode | obsolete
+to live out
+to stay with so.
+to stay at so.'s
+to abide in + expression of place archaic
+to live out
+to dwell | dwelled/dwelt, dwelled/dwelt |
+to live in
+","to work | worked, worked |
+to run | ran, run |
+to operate | operated, operated | - function [TECH.]
+to be operated
+to laborAE / labourBE | labored, labored / laboured, laboured |
+to job | jobbed, jobbed |
+to act as sth.
+to act | acted, acted | [TECH.]
+to cast | cast, cast | [TECH.]
+to function | functioned, functioned | [TECH.]
+to be engaged [TECH.]
+to ferment | fermented, fermented | [BIOL.]
+to perform | performed, performed | [TECH.]
+to operate as sth. [TECH.]
+",None,None,None,"to identify countries
+to reclaim land
+to purchase land
+to break up a piece of land
+to work land
+to subdue | subdued, subdued |
+to assign land
+to dash around the country
+to go rural
+to remove to the country
+to rusticate | rusticated, rusticated |
+to run a country
+to expel so. (from a country) | expelled, expelled |
+to disembark | disembarked, disembarked |
+","to be a member of sth.
+to accept so. as a member
+to attract new members
+to join a club
+to pair with [fig.] [POL.]
+",None,None,None,"to strike the colorsAE to strike the coloursBE
+to furl a flag
+to fly a flag
+to smell of booze [coll.]
+to have boozy breath
+to wave the white flag
+",None,"to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+",None,"to join | joined, joined |
+to accede to sth.
+to enter into sth. [POL.]
+to contract out of sth. - of pension scheme (Brit.)
+to join a party
+to affiliate with an association
+to join an action [LAW]
+","to bring down a government
+to suspend a government
+to overturn a government [POL.]
+to overthrow a government [fig.] [POL.]
+","to help so. | helped, helped |
+to assist (with sth.) | assisted, assisted |
+to be of assistance (to so.)
+to bear a hand
+to abet | abetted, abetted |
+to avail | availed, availed |
+to assist so. (with sth.) | assisted, assisted |
+to abet so. | abetted, abetted | - in doing sth. wrong
+to back so. | backed, backed |
+to lend so. a hand
+to aid so./sth. (in sth.) | aided, aided | [form.]
+to bestead so. | besteaded, besteaded | archaic (Amer.)
+to aid so. with sth. [form.]
+to be of no avail
+","to attack | attacked, attacked |
+to tackle (so.) | tackled, tackled | [SPORT.]
+to charge | charged, charged | [MIL.]
+to offend | offended, offended |
+to affect sth. | affected, affected | - cause physical damage, e.g. to an organ
+to launch into sth.
+to strike sth. | struck, struck/stricken |
+to fret at sth.
+to gnaw at sth.
+to assail so. | assailed, assailed |
+to lay into so. - assault
+to affront so. | affronted, affronted |
+to take a swipe at so.
+to assault so. | assaulted, assaulted |
+","to join | joined, joined |
+to accede to sth.
+to enter into sth. [POL.]
+to contract out of sth. - of pension scheme (Brit.)
+to join a party
+to affiliate with an association
+to join an action [LAW]
+","hath [poet.] archaic - 3rd person singular
+to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+","to change sth. | changed, changed |
+to change | changed, changed |
+to alter sth. | altered, altered |
+to modify sth. | modified, modified |
+to vary | varied, varied |
+to vary sth. | varied, varied | - method, style ...
+to redraft | redrafted, redrafted |
+to amend sth. | amended, amended |
+to revise sth. | revised, revised |
+to alter | altered, altered |
+to shift | shifted, shifted |
+to change considerably
+to tamper with sth.
+to change one's spots
+","to attack | attacked, attacked |
+to tackle (so.) | tackled, tackled | [SPORT.]
+to charge | charged, charged | [MIL.]
+to offend | offended, offended |
+to affect sth. | affected, affected | - cause physical damage, e.g. to an organ
+to launch into sth.
+to strike sth. | struck, struck/stricken |
+to fret at sth.
+to gnaw at sth.
+to assail so. | assailed, assailed |
+to lay into so. - assault
+to affront so. | affronted, affronted |
+to take a swipe at so.
+to assault so. | assaulted, assaulted |
+","to give so. sth. (or: sth. to so.) | gave, given |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to bestow sth. upon so.
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+to take sth. as read
+to take sth. for granted
+to take sth. as a given
+to take sth. as a given
+to take sth. for granted
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+","to raise sth. | raised, raised | [TECH.]
+to hitch sth. ⇔ up - a piece of clothing
+to hoist sth. | hoisted, hoisted |
+to lift sth. | lifted, lifted |
+to pull sth. ⇔ up
+to draw sth. ⇔ up
+to heave | heaved/hove, heaved/hove | [AVIAT.][TECH.]
+to draw | drew, drawn |
+to pull sth. | pulled, pulled |
+to bank sth. | banked, banked | - ore, coal, rock, etc., to the surface [TECH.]
+to draw sth. ⇔ out [TECH.]
+to heave sth. ⇔ up [TECH.]
+to wind sth. | wound, wound | [TECH.]
+to hoick or: hoik | hoicked, hoicked / hoiked, hoiked |
+to bring up the walls
+to hunch one's shoulders
+to snuffle | snuffled, snuffled |
+","to be pleased (about (or: with) sth.)
+to be glad
+to rejoice | rejoiced, rejoiced | [poet.]
+to look forward to sth.
+to be happy for so.
+to be excited about sth.
+to get excited about sth.
+to be happy about sth.
+to share so.'s happiness
+to be stoked to do sth.
+to be pleased to do sth.
+to gloat | gloated, gloated |
+to be thrilled
+to be able to look forward to sth.
+to be chuffed about sth. (Brit.) [coll.]
+","to clap | clapped, clapped |
+to fold | folded, folded |
+to flap | flapped, flapped |
+to work | worked, worked |
+to work out
+to go over well
+to go over
+to come off well
+to work like a charm
+sth. does the trick [coll.] infinitive: do the trick
+sth. goes swimmingly infinitive: go swimmingly
+","to criticizeAE so./sth. to criticiseBE / criticizeBE so./sth. | criticized, criticized / criticised, criticised |
+to review sth. | reviewed, reviewed |
+to take a swipe at so.
+to lay into so.
+to run so. down
+to stick it to so.
+to knock so./sth. | knocked, knocked | [coll.]
+to zing so. | zinged, zinged | [coll.]
+to animadvert on (or: upon) sth. [form.]
+to rap so. for sth.
+to scathe | scathed, scathed |
+to excoriate so. | excoriated, excoriated | - criticise severely
+to haul so. over the coals
+to assail so./sth. | assailed, assailed |
+","to wage | waged, waged |
+to venture | ventured, ventured |
+to undertake sth. | undertook, undertaken |
+to do sth. | did, done |
+to go in for sth.
+to do sth. about sth.
+to abandon an enterprise
+to set up a company
+to start a business
+to delayer the enterprise
+to abandon an undertaking
+to close a company
+to manage a company
+to continue a firm
+","to record | recorded, recorded |
+to absorb sth. | absorbed, absorbed |
+to receive so. | received, received | - a guest
+to ingest | ingested, ingested |
+to include | included, included |
+to borrow | borrowed, borrowed |
+to hold | held, held |
+to meet with
+to mount | mounted, mounted |
+to open | opened, opened |
+to start | started, started |
+to loop up
+to collect | collected, collected |
+to pick sth. ⇔ up
+"
 verbs,german,None,None,None,None,None,None,None,"Auto fahren
 ein Auto anschieben
 ein Auto in etw.acc. zurücksetzen
@@ -1785,7 +2237,7 @@ zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
-",None,None,None,None,None,,None,"wichtig sein
+",None,None,None,None,None,None,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
 sichacc. wichtig machen
@@ -1861,7 +2313,409 @@ wieder zusammenkommen
 wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
 wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
 wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
-",
+",None,"etw.nom. gehört jmdm. infinitive: gehören
+(etw.acc.) hören | hörte, gehört |
+hören | hörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+etw.acc. hören | hörte, gehört |
+hören | hörte, gehört |
+jmdn. hören | hörte, gehört |
+hören | hörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+","etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+jmdm. (gut) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen | - Grippe, Erkältung
+etw.acc. durch etw.acc. bekommen | bekam, bekommen |
+etw.nom. bekommt jmdm. gut/schlecht infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen - zuträglich sein, guttun
+Blasen bekommen
+""lebenslänglich"" bekommen
+","etw.nom. handelt von etw.dat. infinitive: handeln
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+mit Zigarren/Kohle/Getreide/Kosmetika/Kristall/... handeln | handelte, gehandelt |
+(um etw.acc.) handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+","jmdm. etw.acc. erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+(jmdm.) etw.acc. erzählen | erzählte, erzählt |
+(jmdm.) von etw.dat. erzählen | erzählte, erzählt |
+jmdm. von etw.dat. erzählen | erzählte, erzählt |
+wieder erzählen
+langweilig erzählen
+nochmals erzählen
+jmdm. Lügen erzählen
+Lügen über jmdn./etw. erzählen
+lang und breit erzählen
+falsch erzählen
+etw.acc. zu Ende erzählen
+Märchen erzählen [fig.]
+jmdm. erzählen, was man über jmdn./etw. weiß
+","(an etw.dat.) sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+vor Angst/Scham/Langeweile sterben [fig.]
+den Feuertod sterben
+","(gegen etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+(mit jmdm. um etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+","etw.acc. (an jmdn.) verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+verleihen | verlieh, verliehen |
+verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen | - Titel, Diplom etc.
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen | - Film
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+","(bei etw.dat.) gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+jmdn. gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen | - Preis, Medaille
+etw.acc. gewinnen | gewann, gewonnen | - erlangen
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen | - der Kohle von Hand
+",None,None,None,None,None,None,None,"kommen | kam, gekommen |
+kommen | kam, gekommen |
+(zu etw.dat.) kommen | kam, gekommen | - Ergebnis, Einigung etc.
+kommen | kam, gekommen |
+kommen | kam, gekommen | - einen Orgasmus haben
+aus London/von den Kanarischen Inseln/aus der Schweiz kommen
+hinter etw.acc. kommen | kam, gekommen |
+hinter etw.acc. kommen | kam, gekommen |
+auf etw.acc. kommen | kam, gekommen |
+hinter etw.dat. kommen | kam, gekommen |
+nach jmdm. kommen | kam, gekommen | - ähneln
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+","leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
+leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+für jmdn./etw. leben | lebte, gelebt |
+bei jmdm. leben | lebte, gelebt |
+Leben retten
+getrennt leben
+primitiv leben
+gleichzeitig leben
+einfach leben
+","haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. mit jmdm. haben | hatte, gehabt |
+","wohnen | wohnte, gewohnt |
+wohnen | wohnte, gewohnt |
+wohnen | wohnte, gewohnt |
+wohnen | wohnte, gewohnt |
+wohnen | wohnte, gewohnt |
+wohnen | wohnte, gewohnt | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
+wohnen | wohnte, gewohnt |
+außerhalb wohnen | wohnte, gewohnt | - nicht im Haus des Arbeitgebers oder im Wohnheim
+bei jmdm. wohnen | wohnte, gewohnt |
+bei jmdm. wohnen | wohnte, gewohnt |
+in + expression of place wohnen | wohnte, gewohnt |
+auswärts wohnen
+zeitweilig wohnen
+im Haus wohnen - Personal
+","arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+",None,None,None,"Länder bezeichnen
+Land abgewinnen
+Land ankaufen
+Land aufteilen
+Land bearbeiten
+Land erschließen
+Land zuweisen
+im Land herumziehen
+aufs Land gehen
+aufs Land ziehen
+aufs Land ziehen
+ein Land regieren
+jmdn. (aus einem Land) ausweisen | wies aus, ausgewiesen |
+an Land gehen
+","Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+neue Mitglieder gewinnen
+Mitglied in einem Verein werden
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,None,None,"die Fahne einziehen
+eine Fahne aufrollen
+eine Fahne hissen
+eine Fahne haben [coll.]
+eine Fahne haben [coll.]
+durch Zeigen der weißen Fahne die Aufgabe anzeigen
+",None,"Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,"beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. nicht beitreten
+einer Partei beitreten
+einem Verband beitreten
+einem Prozess als Nebenkläger beitreten
+","eine Regierung stürzen
+eine Regierung auflösen
+eine Regierung stürzen
+eine Regierung stürzen [fig.]
+","jmdm. helfen | half, geholfen |
+(bei etw.dat.) helfen | half, geholfen |
+(jmdm.) helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+jmdm. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm./etw. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. bei etw.dat. helfen | half, geholfen |
+nichts helfen
+","angreifen | griff an, angegriffen |
+(jmdn.) angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+","beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. nicht beitreten
+einer Partei beitreten
+einem Verband beitreten
+einem Prozess als Nebenkläger beitreten
+","hat
+haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+","etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert | - verändern
+ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+ändern | änderte, geändert |
+wesentlich ändern
+etw.acc. betrügerisch ändern
+sichacc. grundlegend ändern
+","angreifen | griff an, angegriffen |
+(jmdn.) angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+","jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben voraussetzen
+etw.acc. als gegeben ansehen
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+","etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen | - ein Kleidungsstück
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+hochziehen | zog hoch, hochgezogen |
+hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+plötzlich hochziehen
+Mauern hochziehen
+die Schultern hochziehen
+die Nase hochziehen
+","sichacc. (über etw.acc.) freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. auf etw.acc. freuen | freute, gefreut |
+sichacc. für jmdn. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. mit jmdm. freuen | freute, gefreut |
+sichacc. freuen, etw.acc. zu tun
+sichacc. freuen, etw.acc. zu tun
+sichacc. hämisch freuen
+sichacc. riesig freuen
+sichacc. auf etw.acc. freuen können
+sichacc. riesig über etw.acc. freuen
+","klappen | klappte, geklappt |
+klappen | klappte, geklappt |
+klappen | klappte, geklappt |
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+hervorragend klappen
+mit etw.dat. klappt es
+etw.nom. klappt wie am Schnürchen infinitive: wie am Schnürchen klappen
+","jmdn./etw. kritisieren | kritisierte, kritisiert |
+etw.acc. kritisieren | kritisierte, kritisiert | - (als Kritiker) fachlich besprechen
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn./etw. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+etw.acc. kritisieren | kritisierte, kritisiert |
+jmdn. für etw.acc. kritisieren | kritisierte, kritisiert |
+scharf kritisieren
+jmdn. scharf kritisieren
+jmdn. scharf kritisieren
+jmdn./etw. scharf kritisieren
+","unternehmen | unternahm, unternommen |
+unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.nom. gegen etw.acc. unternehmen | unternahm, unternommen |
+ein Unternehmen aufgeben
+ein Unternehmen gründen
+ein Unternehmen gründen
+das Unternehmen verflachen
+ein Unternehmen abbrechen
+ein Unternehmen auflösen
+ein Unternehmen leiten
+ein Unternehmen weiterführen
+","aufnehmen | nahm auf, aufgenommen |
+etw.acc. aufnehmen | nahm auf, aufgenommen |
+jmdn. aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen | - Material
+etw.acc. aufnehmen | nahm auf, aufgenommen |
+"
 nouns,english,None,None,None,None,None,None,None,"car
 auto (Amer.)
 auto (Amer.)
@@ -2967,7 +3821,7 @@ the Diet (Scot.) [LAW]
 ","criminal proceedings plural noun [LAW]
 criminal case [LAW]
 plea bargain [LAW]
-",,"previous debt
+",None,"previous debt
 former quotations
 back issue
 former editions pl.
@@ -3038,6 +3892,208 @@ to set sth. straight [fig.]
 on-again, off-again friend
 irreparable damage
 irreparable loss
+",None,None,"to go stir-crazy [coll.]
+to go stir-crazy [coll.]
+",None,None,None,None,"concession mine [LAW]
+concession pit [LAW]
+concession mine [LAW]
+concession pit [LAW]
+title bestowed by the Pope
+","broken ore - shrinkage stoping [GEOL.]
+broken ore - shrinkage stoping [GEOL.]
+reclaimed ground
+reclaimed soil [AGR.][GEOL.]
+","world war
+World War I [abbr.: WWI]
+World War II [abbr.: WWII]
+Second World War [abbr.: WWII]
+the Great War [HIST.]
+First World War [HIST.]
+the First World War [HIST.]
+the Second World War [HIST.]
+",None,"world war
+World War I [abbr.: WWI]
+World War II [abbr.: WWII]
+Second World War [abbr.: WWII]
+the Great War [HIST.]
+First World War [HIST.]
+the First World War [HIST.]
+the Second World War [HIST.]
+","soundtrack - film music
+score [MUS.]
+film score [MUS.]
+","camera work
+point-of-view shot [CINE.][PHOT.]
+",None,"launderette or: laundrette (Brit.)
+laundromat
+self-service laundry
+",None,None,"belongings plural noun
+possession
+chattels pl. [LAW]
+effects plural noun - personal belongings
+movable belongings
+personal effects [FINAN.]
+","habitation
+assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
+assisted accommodation
+supervised accommodation
+accessible housing
+",None,None,"military alliance [MIL.]
+","member body country
+member country [POL.]
+member state [POL.]
+","country
+ground
+land
+nation
+countryside
+soil
+state
+terra
+terrain
+Federal Land
+terrene
+territory
+European countries
+Länder authority [ADMIN.]
+","member
+fellow
+insider
+commonality or: commonalty
+good fellas (Amer.) [sl.]
+rank and file
+non-European members
+total number of members
+list of members
+register of members
+members of the Common Market pl.
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+","Russia [GEOG.]
+Muscovy [HIST.]
+","headquarters - pl.: headquarters [abbr.: H.Q., h.q., HQ]
+","party
+celebration
+ceremony
+function - ceremony
+exercises (Amer.) pl. - traditional ceremony
+festivity
+do - pl.: dos, do's chiefly (Brit.) [coll.]
+bash - party [coll.]
+bash - party [coll.]
+decennial
+","flag
+ensign
+plume
+ply
+barb - of feather
+lug
+banner
+oriflamme
+rim
+vane
+standard
+smell of alcohol on one's breath
+galley proof [PRINT.]
+galley slip [PRINT.]
+","general secretary
+secretary general
+Secretary-General [POL.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","expansion
+extension
+dilation
+amplification
+enhancement
+add-on
+dilatation
+enlargement
+increment
+interpolation
+upgrading
+widening
+amelioration
+uprating
+","admission
+accedence
+joining
+entry - into a society, group, etc.
+accession [LAW][POL.]
+unilateral accession [FINAN.]
+","government
+administration (Amer.) [POL.]
+regime or: régime
+governance [POL.]
+regnancy rare
+cabinet
+misrule
+(10) Downing Street (Brit.) [fig.] [POL.]
+elected government [POL.]
+government effectiveness - World Bank indicator [POL.]
+government department
+provisional government [POL.]
+center-rightAE government [POL.]centre-rightBE government [POL.]
+government bonds pl.
+","heald [TEXTIL.]
+heddle [TEXTIL.]
+",None,None,"hat - with a brim
+hat - head covering (without a brim)
+hat
+hat rack
+hat rack
+hatstand or: hat stand (Brit.)
+hatstand or: hat stand (Brit.)
+hat box
+hat brim
+hat cord
+hat feather
+hat leather
+hat seller
+hat string
+","redesign
+altered circumstances
+amended claim
+amended forecast [METEO.]
+reallocation of non-capitalizableAE cost (or: costs) [FINAN.]reallocation of non-capitalisableBE / non-capitalizableBE cost (or: costs) [FINAN.]
+","poor health
+bad heart
+corroded fossil [GEOL.]
+partly dissolved fossil [GEOL.]
+","legitimation
+datum
+fixed stock [COMM.]
+items of a given population
+","hunched shoulders
+purl buttonhole [TEXTIL.]
+purl stitch buttonhole [TEXTIL.]
+",None,None,None,"venture
+corporation
+establishment
+enterprise [COMM.]
+company [COMM.]
+organizationAE [COMM.]organisationBE / organizationBE [COMM.]
+undertaking
+proposition
+endeavorAE / endeavourBE
+task
+unit
+business company
+corporate client
+firm [COMM.]
 ",
 nouns,german,None,None,None,None,None,None,None,"das Auto pl.: die Autos
 das Auto pl.: die Autos
@@ -4144,7 +5200,7 @@ der Gerichtstermin pl.: die Gerichtstermine
 ","der Strafprozess pl.: die Strafprozesse
 der Strafprozess pl.: die Strafprozesse
 Vereinbarung im Strafprozess
-",,"frühere Schuld
+",None,"frühere Schuld
 frühere Angebote
 frühere Ausgabe
 frühere Ausgaben pl.
@@ -4215,6 +5271,208 @@ etw.acc. wieder zurechtbiegen [fig.] - wieder in Ordnung bringen
 der der Immer-mal-wieder-Freund | die Immer-mal-wieder-Freundin
 nicht wieder gutzumachender Schaden
 nicht wieder gutzumachender Verlust
+",None,None,"einen Gefängniskoller bekommen [coll.]
+einen Lagerkoller bekommen [coll.]
+",None,None,None,None,"verliehene Grube [Bergrecht]
+verliehene Grube [Bergrecht]
+verliehenes Bergwerk [Bergrecht]
+verliehenes Bergwerk [Bergrecht]
+vom Papst verliehener Adel
+","gewonnenes Erz
+gewonnenes Haufwerk
+neugewonnenes (or: neu gewonnenes) Land
+neugewonnenes (or: neu gewonnenes) Land
+","der Weltkrieg pl.: die Weltkriege
+Erster Weltkrieg
+Zweiter Weltkrieg
+Zweiter Weltkrieg
+Erster Weltkrieg
+Erster Weltkrieg
+der Erste Weltkrieg
+der Zweite Weltkrieg
+",None,"der Weltkrieg pl.: die Weltkriege
+Erster Weltkrieg
+Zweiter Weltkrieg
+Zweiter Weltkrieg
+Erster Weltkrieg
+Erster Weltkrieg
+der Erste Weltkrieg
+der Zweite Weltkrieg
+","die Filmmusik pl.
+die Filmmusik pl.
+die Filmmusik pl.
+","die Kameraführung pl.: die Kameraführungen
+subjektive Kameraführung
+",None,"der Waschsalon pl.: die Waschsalons
+der Waschsalon pl.: die Waschsalons
+der Waschsalon pl.: die Waschsalons
+",None,None,"die Habe pl.: die Haben
+die Habe pl.: die Haben
+die Habe pl.: die Haben
+die Habe pl.: die Haben [form.]
+bewegliche Habe
+persönliche Habe
+","das Wohnen no plural
+betreutes Wohnen
+betreutes Wohnen
+begleitetes Wohnen
+behindertengerechtes Wohnen
+",None,None,"das Militärbündnis pl.: die Militärbündnisse
+","das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+","das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land no plural
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.: die Länder
+das Land pl.
+das Land pl.
+Länder Europas
+die Landesbehörde pl.: die Landesbehörden
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglieder einer Körperschaft
+Mitglieder der US-Mafia pl.
+einfache Mitglieder pl. - einer Gewerkschaft
+nichteuropäische Mitglieder pl.
+Gesamtzahl der Mitglieder
+Liste der Mitglieder
+Liste der Mitglieder
+die EG-Mitglieder pl.
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+","Russland
+Russland
+","das Hauptquartier pl.: die Hauptquartiere
+","die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+große Feier
+die Zehn-Jahres-Feier pl.: die Zehn-Jahres-Feiern
+","die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne no plural - kurz für: ""Alkoholfahne""
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+","der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+","der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte - Beitreten
+der Beitritt pl.: die Beitritte
+unilateraler Beitritt
+","die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+schlechte Regierung
+britische Regierung
+gewählte Regierung
+Leistungsfähigkeit der Regierung - BMZ
+Dienststelle der Regierung
+provisorische Regierung
+die Mitte-Rechts-Regierung pl.: die Mitte-Rechts-Regierungen
+von der Regierung ausgegebene Anleihen pl.
+","die Helfe pl.: die Helfen
+die Helfe pl.: die Helfen
+",None,None,"der Hut pl.: die Hüte
+die Mütze pl.: die Mützen - Kopfbedeckung (ohne Schirm)
+der Chapeau pl.: die Chapeaus archaic
+die Hutablage pl.: die Hutablagen
+der Hutständer pl.: die Hutständer
+der Hutständer pl.: die Hutständer
+der Kleiderständer pl.: die Kleiderständer
+die Hutschachtel pl.: die Hutschachteln
+die Hutkrempe pl.: die Hutkrempen
+die Hutschnur pl.: die Hutschnüre
+die Hutfeder pl.: die Hutfedern
+das Hutschweißleder
+der Hutverkäufer pl.: die Hutverkäufer
+die Hutschnur pl.: die Hutschnüre
+","geändertes Design
+geänderte Umstände
+geänderter Anspruch
+geänderte Wettervorhersage
+geänderte Zuordnung nichtaktivierungsfähiger Aufwendungen
+","angegriffene Gesundheit
+angegriffenes Herz
+angegriffenes Fossil
+angegriffenes Fossil
+","Annahme als gegeben - Organisationsökologie
+gegebene Größe
+gegebener Bestand
+Elemente einer gegebenen Grundgesamtheit [Statistics]
+","hochgezogene Schultern pl.
+hochgezogenes Knopfloch
+hochgezogenes Knopfloch
+",None,None,None,"das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen - als Kunde
+das Unternehmen pl.: die Unternehmen
 ",
 noun_details,english,None,None,None,None,None,None,None,"article: das
 word: Auto
@@ -4628,7 +5886,7 @@ plural: die Gerichtstermine
 word: Strafprozess
 genus: MASC
 plural: die Strafprozesse
-",,"article: frühere
+",None,"article: frühere
 word: Schuld
 genus: 
 plural: Schuld
@@ -4660,8 +5918,128 @@ plural: Genau-Rechenwert
 word: wieder
 genus: 
 plural: bringen
+",None,None,"article: einen
+word: Gefängniskoller
+genus: 
+plural: [coll.]
+",None,None,None,None,"article: verliehene
+word: Grube
+genus: 
+plural: [Bergrecht]
+","article: gewonnenes
+word: Erz
+genus: 
+plural: Erz
+","article: der
+word: Weltkrieg
+genus: MASC
+plural: die Weltkriege
+",None,"article: der
+word: Weltkrieg
+genus: MASC
+plural: die Weltkriege
+","article: die
+word: Filmmusik
+genus: FEMI
+plural: 
+","article: die
+word: Kameraführung
+genus: FEMI
+plural: die Kameraführungen
+",None,"article: der
+word: Waschsalon
+genus: MASC
+plural: die Waschsalons
+",None,None,"article: die
+word: Habe
+genus: FEMI
+plural: die Haben
+","article: das
+word: Wohnen
+genus: NEUT
+plural: plural
+",None,None,"article: das
+word: Militärbündnis
+genus: NEUT
+plural: die Militärbündnisse
+","article: das
+word: Mitgliedsland
+genus: NEUT
+plural: die Mitgliedsländer
+","article: das
+word: Land
+genus: NEUT
+plural: 
+","article: das
+word: Mitglied
+genus: NEUT
+plural: die Mitglieder
+","article: 
+word: 
+genus: 
+plural: 
+","article: das
+word: Hauptquartier
+genus: NEUT
+plural: die Hauptquartiere
+","article: die
+word: Feier
+genus: FEMI
+plural: die Feiern
+","article: die
+word: Fahne
+genus: FEMI
+plural: die Fahnen
+","article: der
+word: Generalsekretär
+genus: MASC
+plural: die Generalsekretäre
+","article: das
+word: Mitglied
+genus: NEUT
+plural: die Mitglieder
+","article: die
+word: Erweiterung
+genus: FEMI
+plural: die Erweiterungen
+","article: der
+word: Beitritt
+genus: MASC
+plural: die Beitritte
+","article: die
+word: Regierung
+genus: FEMI
+plural: die Regierungen
+","article: die
+word: Helfe
+genus: FEMI
+plural: die Helfen
+",,,"article: der
+word: Hut
+genus: MASC
+plural: die Hüte
+","article: geändertes
+word: Design
+genus: 
+plural: Design
+","article: angegriffene
+word: Gesundheit
+genus: 
+plural: Gesundheit
+","article: Annahme
+word: als
+genus: 
+plural: Organisationsökologie
+","article: hochgezogene
+word: Schultern
+genus: 
+plural: 
+",,,,"article: das
+word: Unternehmen
+genus: NEUT
+plural: die Unternehmen
 ",
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None,None,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
 adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
@@ -5222,7 +6600,7 @@ unpolled adj.
 unelected adj.
 incoming adj. [POL.]
 newly-elected adj.
-",None,None,None,None,None,None,,"former adj.
+",None,None,None,None,None,None,None,"former adj.
 prior adj.
 ","important adj.
 grave adj.
@@ -5312,7 +6690,78 @@ on and off
 till then
 until then
 only if
-"
+","comme il faut French
+","hard to get
+manageable adj.
+",None,"narrated adj.
+unrecounted adj.
+untold adj.
+twice-told adj.
+","dead adj.
+","battled adj.
+","lent adj.
+commissioned adj.
+conferred adj.
+","gotten adj.
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"land-based adj.
+ashore adv.
+onshore adv.
+in the country
+in the countryside
+nationwide adv.
+in the whole country
+throughout the country
+on home soil
+overland adv.
+rural adj.
+praedial or: predial adj.
+native adj.
+in this country
+",None,None,"headquartered (in) adj.
+","fey adj.
+fey adj. (Brit.)
+",None,None,None,None,None,"intergovernmental adj.
+autonomous adj.
+governmental adj.
+government-controlled adj.
+government-controlled adj.
+intergovernmental adj.
+",None,None,None,"hat in hand (Amer.; Canad.)
+hat in hand (Amer.; Canad.)
+","altered adj.
+modified adj.
+changed adj.
+revised adj.
+last amended
+redesigned adj.
+as amended
+","affected adj.
+attacked adj.
+disordered adj.
+unsound adj. [MED.]
+unassayed adj.
+blitzed adj. [MIL.]
+","given adj.
+fixed adj.
+preexisting adj.
+in due course
+undisclosed adj.
+commissioned adj.
+mandated adj.
+apprenticed adj.
+in due course
+in due time
+at any one time
+under the circumstances
+under the prevailing circumstances
+","elevated adj.
+lifted adj.
+pitched adj.
+",None,None,None,"at a venture
+corporate adj. [COMM.]
+intra-firm or: intrafirm adj.
+noncorporateAE / non-corporateBE adj.
+",
 adjectives_or_adverbs,german,None,None,None,None,None,None,None,"autoerotisch
 automatisch unterstützt
 ","ohne Pferd
@@ -5873,7 +7322,7 @@ nicht gewählt
 nicht gewählt
 neugewählt or: neu gewählt
 neu gewählt
-",None,None,None,None,None,None,,"früherer | frühere | früheres
+",None,None,None,None,None,None,None,"früherer | frühere | früheres
 früherer | frühere | früheres
 ","wichtig
 wichtig
@@ -5963,7 +7412,78 @@ dann und wann
 bis dann
 bis dann
 nur dann, wenn
-"
+","wie es sich gehört French
+","schwer zu bekommen
+in den Griff zu bekommen
+",None,"erzählt
+nicht erzählt
+nicht erzählt
+zweimal erzählt
+","gestorben
+","gekämpft
+","verliehen
+verliehen
+verliehen
+","gewonnen
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"vom Land aus
+an Land
+an Land
+auf dem Land (or: Lande)
+auf dem Land (or: Lande)
+im ganzen Land
+im ganzen Land
+im ganzen Land
+im eigenen Land
+über Land
+Land...
+Land...
+Landes...
+hierzulande or: hier zu Lande
+",None,None,"mit Hauptquartier (in)
+","entrückt
+todgeweiht
+",None,None,None,None,None,"zwischen den Regierungen
+mit eigener Regierung
+von der Regierung ausgehend
+von der Regierung gelenkt
+von der Regierung kontrolliert
+zwischen zwei Regierungen
+",None,None,None,"demütig
+unterwürfig
+","geändert
+geändert
+geändert
+geändert
+zuletzt geändert
+mit geändertem Design
+in der geänderten Fassung - Gesetze, Verordnungen, etc.
+","angegriffen
+angegriffen
+angegriffen
+angegriffen - Gesundheit
+nicht angegriffen
+aus der Luft angegriffen
+","gegeben
+gegeben
+gegeben
+zur gegebenen Zeit
+nicht bekannt gegeben
+in Auftrag gegeben
+in Auftrag gegeben
+in die Lehre gegeben
+zu gegebener Zeit
+zu gegebener Zeit
+zu einem gegebenen Zeitpunkt
+unter den gegebenen Umständen
+unter den gegebenen Umständen
+","hochgezogen
+hochgezogen
+hochgezogen
+",None,None,None,"bei einem Unternehmen
+Unternehmens...
+innerhalb eines Unternehmens
+nicht zum Unternehmen gehörig
+",
 phrases_or_collocations,english,None,None,None,None,None,None,None,None,"to put the cart before the horse
 to put the cart before the horse
 to back the wrong horse [fig.]
@@ -6508,7 +8028,7 @@ pace prep.
 to spurn one's fortune
 to spurn one's chance of happiness
 Blow me down! [coll.]
-",None,None,None,None,None,,None,"a fork in the road
+",None,None,None,None,None,None,None,"a fork in the road
 an important matter
 an important factor
 a fine step forward (Amer.)
@@ -6613,6 +8133,174 @@ Business before pleasure.
 And they lived happily ever after.
 A hungry man has no conscience.
 I rest my case. [hum.]
+","from what I've heard
+I understand that ...
+the full panoply of sth.
+that includes ...
+This is something I like!
+It takes two to tango.
+it takes two to tango
+Don't be a stranger.
+Don't be a stranger.
+It's so quiet you could hear a pin drop.
+to hear wedding bells [fig.]
+to read too much into things
+to have a sixth sense
+to trust one's gut (or: guts) [fig.]
+Hear, hear!
+Hear ye! archaic
+mirabile dictu Latin
+","to fall about (laughing) (Brit.)
+to catch hell (from so.) [coll.] [fig.]
+to get the brush-off
+to get the mitten [coll.]
+to catch wind of sth. [fig.]
+to get wind of sth. [fig.]
+to get one's just deserts
+to receive one's just deserts
+to go weak at the knees
+to have one's legs turn to jelly
+to get one's just deserts
+to receive one's just deserts
+to get hold of the wrong end of the stick
+to take sth. the wrong way
+","it's a question of
+the question is if ...
+","as legend has it
+Tell that to the Marines!
+You're telling me!
+Tell us another!
+","And they lived happily ever after.
+Some mothers do have them.
+Take it or leave it!
+It's sink or swim.
+It's Hobson's choice.
+Hope dies last.
+Hope springs eternal.
+It's sink or swim.
+It's my way or the highway!
+My way or the highway!
+Whom the gods love die young.
+","to pull no punches
+to fight to the last
+","to hammer sth. ⇔ home [fig.]
+","to win hands down [fig.] - easily
+to win in a walk (Amer.)
+easy come, easy go
+Well begun is half done
+Nothing ventured, nothing gained.
+to gain the upper hand (over so.)
+to get the upper hand (over so.)
+to prevail (over so.) | prevailed, prevailed |
+to play for time
+May the best man win.
+That's nothing to write home about. [coll.]
+to sweep the board [fig.] (Brit.)
+Nothing ventured, nothing gained.
+Nothing ventured, nothing gained.
+",None,None,None,None,None,None,None,"come hell or high water
+come what may
+come rain or shine [fig.]
+to cotton on to so.
+to get on to so.
+to see through so.'s game
+to get on to so.
+to get on to the track of so./sth.
+to get run over
+to hit the spot
+to cut to the chase [fig.] (Amer.)
+to get off the ground [fig.]
+to come to the fore [fig.]
+to go to the dogs [coll.]
+","Adieu!
+goodbye or: good-bye
+Upon my life!
+to live in sin
+to live out of a suitcase
+to be behind the times
+to lead the life of Riley
+to liven the place up
+to live in clover [fig.]
+just enough to live
+not expected to live much longer
+to live it up
+to live it up
+to live like a lord
+","You don't know what I'm up against.
+I'll be damned if I know!
+from what I've heard
+It's a case of Hobson's choice.
+I've had it!
+I understand that ...
+I understand that ...
+Let's suppose that I'm right.
+I've got your number! [fig.]
+What's the damage? [coll.]
+My car is a real lemon. [coll.]
+to have brains
+to have the hiccups
+to be as strong as an ox
+","You're not the only pebble on the beach
+","to line one's pocket
+",None,None,None,"When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+the land of milk and honey
+to be in over one's head
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+",None,None,None,"to throw a party
+to mark the occasion
+in honorAE of the occasionin honourBE of the occasion
+",None,None,None,None,None,None,"So help me God.
+God helps them that help themselves.
+God helps those that help themselves.
+God helps them that help themselves.
+God helps those that help themselves.
+",None,None,"That hit home.
+sth. is a ripsnorter (or: rip-snorter) [coll.]
+old hat [coll.] [fig.]
+That's all I needed.
+That's the last thing I needed.
+There's something to be said for that.
+That hit close to home.
+That set a precedent.
+No matter!
+Queen Anne is dead!
+it knocked my socks off
+it knocked my socks off
+a little bird told me
+so. has little regard for so./sth.
+","adopted ... as amended
+something has to give
+something's got to give
+",None,"from time to time
+whistle for attention
+to turn tail and run
+to have so.'s back
+to give so. their marching orders
+to give so./sth. a boot
+to throw in the towel [fig.]
+to turn so. down
+to rebuff so. | rebuffed, rebuffed |
+to throw in the towel [SPORT.]
+to paste so. | pasted, pasted | [fig.] [SPORT.]
+Please allow us your very best terms.
+to give sth. the thumbs up
+there is bound to be ...
+",None,"to be as pleased as Punch
+to be as merry as a lark
+Pleased to meet you.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm glad to meet you.
+I'm pleased to meet you.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+","if things work out
+",None,"a company's survival
+","to be no match for so./sth.
 "
 phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
@@ -7158,7 +8846,7 @@ ohne jmdm. zu nahe treten zu wollen
 sein Glück mit Füßen treten [fig.]
 sein Glück mit Füßen treten [fig.]
 Ich glaub, mich tritt ein Pferd! [sl.]
-",None,None,None,None,None,,None,"eine wichtige Entscheidung
+",None,None,None,None,None,None,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
 ein wichtiger Schritt vorwärts
@@ -7263,6 +8951,174 @@ Erst die Arbeit, dann das Vergnügen.
 Und wenn sie nicht gestorben sind, dann leben sie noch heute.
 Erst kommt das Fressen, dann die Moral.
 Womit dann alles gesagt wäre.
+","nach allem, was ich gehört habe
+wie ich gehört habe ...
+etw.nom. mit allem, was dazu gehört
+dazu gehören ...
+Das lässt sich hören!
+Es gehören immer zwei dazu.
+es gehören immer zwei dazu
+Lass mal wieder was von dir hören.
+Lass von dir hören.
+Es ist so still, dass man eine Stecknadel fallen hören könnte.
+die Hochzeitsglocken läuten hören [fig.]
+das Gras wachsen hören [coll.]
+das Gras wachsen hören [coll.]
+auf sein Bauchgefühl hören
+Hört, hört!
+Hört, hört!
+man höre und staune
+","einen Lachanfall bekommen [coll.]
+(von jmdm.) einen Anschiss bekommen [coll.] [fig.]
+einen Korb bekommen [fig.]
+einen Korb bekommen [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+sein Fett bekommen
+sein Fett bekommen
+weiche Knie bekommen
+weiche Knie bekommen
+seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+etw.acc. in den falschen Hals bekommen
+etw.acc. in den falschen Hals bekommen
+","es handelt sich um
+es handelt sich darum, dass ...
+","es wird erzählt, dass
+Das kannst du deiner Großmutter erzählen!
+Wem erzählen Sie das!
+Das können Sie uns nicht erzählen!
+","Und wenn sie nicht gestorben sind, dann leben sie noch heute.
+Die Dummen sterben nie aus.
+Friss oder stirb!
+Friss oder stirb!
+Friss oder stirb.
+Die Hoffnung stirbt zuletzt.
+Die Hoffnung stirbt zuletzt.
+Vogel friss oder stirb.
+Friss, Vogel, oder stirb!
+Friss, Vogel, oder stirb!
+Wen die Götter lieben, der stirbt jung.
+","mit harten Bandagen kämpfen [fig.]
+bis zum bitteren Ende kämpfen [fig.]
+","etw.dat. Nachdruck verleihen
+","mit links gewinnen [coll.]
+mit links gewinnen [fig.]
+wie gewonnen, so zerronnen
+Frisch gewagt ist halb gewonnen
+Frisch gewagt ist halb gewonnen.
+die Oberhand (über jmdn.) gewinnen
+die Oberhand (über jmdn.) gewinnen
+die Oberhand (über jmdn.) gewinnen
+Zeit gewinnen wollen
+Möge der Bessere gewinnen.
+Damit ist kein Blumentopf zu gewinnen.
+alle Spiele gewinnen [coll.] [fig.]
+Wer nicht wagt, gewinnt nicht.
+Wer wagt, gewinnt.
+",None,None,None,None,None,None,None,"komme, was da wolle
+komme, was (da) wolle
+komme, was da wolle [fig.]
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Spur kommen
+jmdm./etw. auf die Spur kommen
+unter die Räder kommen - überfahren werden
+gut kommen [coll.]
+zur Sache kommen
+in Gang kommen [fig.]
+ans Ruder kommen [fig.] - die Macht übernehmen
+auf den Hund kommen [coll.]
+","Lebe wohl!
+lebe wohl [form.]
+So wahr ich lebe!
+in Sünde leben
+aus dem Koffer leben
+hinter dem Mond leben [fig.]
+leben wie Gott in Frankreich
+Leben in die Bude bringen
+leben wie Gott in Frankreich [fig.]
+gerade genug um zu leben
+voraussichtlich nicht mehr lange leben
+in Saus und Braus leben
+auf großem Fuß leben
+auf großem Fuß leben
+","Du weißt nicht, wogegen ich anzukämpfen habe.
+Ich habe keinen blassen Dunst!
+nach allem, was ich gehört habe
+Da habe ich wohl keine andere Wahl.
+Ich habe genug!
+wie ich gehört habe ...
+wie ich mitbekommen habe ...
+Gesetzt den Fall, ich habe recht (or: Recht).
+Ich habe Dich durchschaut!
+Wie viel habe ich zu berappen? [coll.]
+Ich habe ein richtiges Montagsauto.
+Köpfchen haben
+Schluckauf haben no article
+Bärenkräfte haben
+","Hinterm Berge wohnen auch Leute
+","in die eigene Tasche arbeiten
+",None,None,None,"andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+das Land, in dem Milch und Honig fließen
+kein Land mehr sehen können
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+Ein Prophet gilt nichts im eigenen Land.
+",None,None,None,"eine Feier veranstalten
+zur Feier des Tages
+zur Feier des Tages chiefly [hum.]
+",None,None,None,None,None,None,"So wahr mir Gott helfe.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+",None,None,"Das hat gesessen.
+etw.nom. hat es in sich infinitive: es in sich haben [coll.]
+alter Hut [coll.] [fig.]
+Das hat mir gerade noch gefehlt.
+Das hat mir gerade noch gefehlt.
+Das hat etwas für sich.
+Das hat richtig gesessen.
+Das hat Schule gemacht.
+Das hat nichts zu sagen!
+Das hat so einen Bart!
+das hat mich aus den Socken gehauen
+das hat mich vom Hocker gehauen
+das hat mir ein Vöglein gezwitschert
+jmd. hat wenig Achtung vor jmdm./etw.
+","in der geänderten Fassung vom ...
+es muss sich etwas ändern
+es muss sich etwas ändern
+",None,"zu gegebener Zeit
+Achtungssignal geben
+Fersengeld geben
+jmdm. Rückendeckung geben
+jmdm. den Laufpass geben
+jmdm./etw. einen Tritt geben
+sichacc. geschlagen geben
+jmdm. einen Korb geben [fig.]
+jmdm. einen Korb geben [fig.]
+sichacc. geschlagen geben [Boxing]
+jmdm. die Packung geben
+Bitte geben Sie uns Ihre besten Bedingungen.
+einer Sache grünes Licht geben
+es wird bestimmt ... geben
+",None,"sichacc. wie ein Schneekönig freuen
+sichacc. wie ein Schneekönig freuen
+Es freut mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich darauf, Dich wiederzusehen.
+Ich freue mich darauf, Sie wiederzusehen.
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich auf ein Wiedersehen.
+Ich freue mich auf ein Wiedersehen mit Dir.
+Ich freue mich auf ein Wiedersehen mit Ihnen.
+","wenn alles klappt
+",None,"Erhalt eines Unternehmens
+","es nicht mit jmdm./etw. aufnehmen können
 "
 examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
@@ -7863,7 +9719,7 @@ He gives me the heebie-jeebies. [coll.]
 the point so chosen by the seller
 ","enter into force as from
 he has been treading water
-",None,None,None,None,None,,None,"some news of importance
+",None,None,None,None,None,None,None,"some news of importance
 It matters.
 It hasn't got much point.
 It doesn't greatly matter
@@ -7958,6 +9814,224 @@ I'll be off then infinitive: be off
 so much for ...
 Something always goes wrong when you least expect it to.
 Fraud originates when ...
+","That's just not done.
+That's not respectable.
+belongs to extent of delivery
+That's all part of my job.
+this is not part of the business
+That's beside the point.
+It's theirs.
+It's mine.
+In all his born days he had never heard a bigger lie.
+this is yours
+That needs character.
+I heard it this morning on the radio.
+It's bad manners.
+It is part of the nature of
+","She got into hot water with her parents.
+see whether you can get ...
+When I asked for more I didn't expect to get that much!
+They'll throw the book at you if you get found out. [fig.]
+That doesn't agree with me.
+I have it sent to me.
+He rarely has any visitors.
+She never gets credit for her good ideas, which I think is really unfair.
+Coffee doesn't agree with me.
+That gives me the creeps.
+I'll blow my top.
+I will pay a reward to the person who finds my cat - whosoever that may be!
+Then you'll be in trouble, in fact in deep trouble.
+As the store's hundred thousandth customer he was given a free TV.
+It gives me the heebie-jeebies. [coll.]
+He gives me the heebie-jeebies. [coll.]
+","an administrative offenseAE shall be deemed to have been committed by anyone whoan administrative offenceBE shall be deemed to have been committed by anyone who
+He deals in shoes.
+That's not the issue.
+What's it all about?
+What is it all about?
+It's about ...
+What's it about?
+What is it all about?
+It is a matter of ...
+It is a question of ...
+It is about sth.
+It concerns the following ...
+He will act as our representative.
+do not deal in goods
+","it is said ...
+let us know something more about ...
+He didn't have the guts to tell his mother. [coll.]
+When I told her my problems, she was very sympathetic.
+When I told her my problems, she was very sympathetic.
+","he all but died
+I was bored stiff
+He died of a heart attack.
+","Turkey battles to repatriate antiquities.
+",None,"They won by three goals to one.
+They won by three goals to one.
+There's little doubt she would have won.
+Whose horse won the race?
+Whether they'll win will depend on how they are feeling that day.
+He won by a close vote.
+I stand to win.
+I don't care who wins.
+The smart money is on him winning.
+The swimmer won gold in the 400m individual medley at the Olympic Games.
+","This memorial plaque is to commemorate the dead of two World Wars.
+",None,"This memorial plaque is to commemorate the dead of two World Wars.
+",None,None,None,None,"How do I get there?
+I can manage with less.
+I'll come at 8 or so.
+I'll come at about 8.
+I'll be back.
+I'll arrive a week tomorrow.
+I'll come back when you're less busy
+I might possibly come a bit later.
+I'll just drop in for a second.
+Now you've lost me.
+He couldn't come.
+He used to come.
+We're coming.
+see me tomorrow
+","I can live with it.
+I can live with that.
+They live from hand to mouth.
+He lives beyond his means.
+He lives the life of Riley.
+He's behind the times.
+My girlfriend, who lives in Paris, is called Julie.
+The house that we lived in for 17 years has been pulled down.
+The house which we lived in for 17 years has been pulled down.
+","Didn't I tell you before?
+am I right?
+I'm right, am I not?
+I thought as much!
+I wouldn't dream of such a thing!
+This is all my own work.
+I don't have to stand for that!
+This is of my own making.
+I have company.
+I've got company.
+I haven't the faintest idea.
+I haven't the slightest idea.
+I've enough and to spare.
+I didn't catch your name.
+","Do you belong here?
+Where do you live?
+He's staying with me.
+in my neck of the woods
+He lives with his parents.
+Where do you live?
+He lives at his old address.
+We used to live in the country.
+She's staying with me.
+Where does he live?
+She lives one floor below me.
+","He works from morning to night.
+I like the way he works.
+For whom does he work?
+Who does he work for?
+He works to rule.
+She never rests.
+She works at such a hectic pace.
+She works for Lufthansa.
+She works half-day at the cinema.
+He's a chef at the Trafalgar Hotel.
+ready to work on a small commission
+It has been a privilege to work with you
+refuses to work with us
+It was only the second time she had missed work due to illness.
+",None,None,None,"nations which are less developed
+The Danube flows through ten countries.
+the wide open spaces
+another country
+flows through the land
+for each country
+any foreign country
+valid for the whole country
+Turkey battles to repatriate antiquities.
+the best panorama of the area
+His speech will resound throughout the country. [fig.]
+most popular tourist region
+in the country of dispatch (or: despatch)
+in some countries
+","a list of members
+Upper limit is 21 members.
+",None,None,"Do you remember the guy that we met at the party?
+Do you remember the guy we met at the party?
+Do you remember the guy who (or: whom) we met at the party?
+",None,None,"a list of members
+Upper limit is 21 members.
+","It necessitates amplification.
+",None,"our government pays bounties to exporters
+","He's beyond help.
+I'll give you what for!
+Can someone give me a hand?
+Why should I help you?
+I can't help myself.
+I'll give him what for!
+I was simply trying to help.
+He's at the end of his tether.
+He has no resources against boredom.
+He has no inner resources.
+I'm going to be hard pushed to find someone to help me move on Sunday.
+a man of resources
+will continue to help
+These pills did me no good.
+",None,None,"has the advantage that
+she has
+Does she have a fever?
+Does she have a high temperature?
+has enabled us to
+has not given you satisfaction
+has kindly given us your address
+recommended your firm to us
+has our confidence
+Was it worthwhile?
+history goes back 2000 years
+That can wait till tomorrow.
+There's no point in that.
+this has fiscal effects
+","our business address has changed
+My taste in music has changed over the years.
+Times have changed.
+the interest rate is being changed [FINAN.]
+may be amended
+have changed radically
+I can't help it.
+It can't be helped
+will remain unchanged
+may be changed
+right of altering a thing
+if changes occur
+It changes from day to day
+","The dog which attacked her has been put down.
+","but for him
+have announced their insolvency
+has kindly given us your address
+I gave him the apple.
+Not having given you any authority ...
+the party to whom the reserve was made
+number of observations falling into a specified class
+All students turn in their exam papers.
+To whom shall I give it?
+when ordering please quote
+Please state what quantities you require.
+Please state your prices.
+with deep regret we have to announce
+should he fail to give instructions
+",None,"It would give us great pleasure
+We would be pleased to receive ...
+I'm looking forward to seeing you.
+I am pleased to see you.
+I am looking forward to seeing him.
+He's as pleased as Punch.
+I am very pleased to hear that ...
+",None,None,"the companies included
+We should hang out some time. [coll.]
+on the business premises of the company
+I'm the owner of this firm and as such I have a right to know what's going on here.
+","Are you ready to order?
 "
 examples,german,None,None,None,None,None,None,None,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
@@ -8558,7 +10632,7 @@ Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
 der vom Verkäufer gewählte Ort
 ","treten in Kraft am
 er tritt auf der Stelle
-",None,None,None,None,None,,None,"eine wichtige Nachricht
+",None,None,None,None,None,None,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
 Es ist nicht so wichtig
@@ -8653,4 +10727,222 @@ ich gehe dann mal los infinitive: losgehen
 das war's dann wohl mit ...
 Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
 Betrug entsteht dann, wenn ...
+","Das gehört sich nicht.
+Das gehört sich nicht.
+gehört zur Lieferung
+Das gehört zu meiner Aufgabe.
+das gehört nicht zum Geschäft
+Das gehört nicht zur Sache.
+Es gehört ihnen.
+Es gehört mir.
+Sein Lebtag hatte er noch keine größere Lüge gehört.
+das gehört dir
+Dazu gehört Charakter.
+Ich habe es heute Morgen im Radio gehört.
+Es gehört sich nicht.
+Es gehört zur Natur von
+","Sie hat mit ihren Eltern Stunk bekommen.
+schauen Sie, ob Sie ... bekommen können
+Als ich um mehr gebeten habe, habe ich nicht erwartet, dass ich so viel bekommen würde!
+Du wirst die volle Härte des Gesetzes zu spüren bekommen, wenn sie dich erwischen.
+Das bekommt mir nicht.
+Ich bekomme es zugeschickt.
+Er bekommt selten Besuch.
+Sie bekommt nie Anerkennung für ihre guten Ideen, was ich absolut unfair finde.
+Kaffee bekommt mir nicht.
+Davon bekomme ich eine Gänsehaut.
+Ich bekomme einen Wutanfall.
+Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Dann bekommst du aber Ärger, und zwar gehörigen.
+Als hunderttausendster Kunde im Laden bekam er einen Fernseher geschenkt.
+Dabei bekomme ich eine Gänsehaut.
+Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
+","ordnungswidrig handelt, wer
+Er handelt mit Schuhen.
+Darum handelt es sich nicht.
+Um was handelt es sich?
+Um was handelt es sich?
+Es handelt von ...
+Worum handelt es sich?
+Worum handelt es sich?
+Es handelt sich um ...
+Es handelt sich um ...
+Es handelt sich um etw.
+Es handelt sich um Folgendes ...
+Er wird als unser Vertreter handeln.
+handeln nicht mit Waren
+","es wird erzählt ...
+erzählen Sie uns etwas mehr über ...
+Er traute sich nicht, es seiner Mutter zu erzählen.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr mitfühlend.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr verständnisvoll.
+","er wäre fast gestorben
+ich bin fast gestorben vor Langeweile
+Er starb an einem Herzschlag.
+","Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+",None,"Sie haben 3:1 gewonnen.
+Sie haben 3 zu 1 gewonnen.
+Es besteht kaum Zweifel, dass sie gewonnen hätte.
+Wessen Pferd hat das Rennen gewonnen?
+Ob sie gewinnen hängt von ihrer Tagesform ab.
+Er gewann mit knapper Mehrheit.
+Ich gewinne bestimmt.
+Mir ist egal, wer gewinnt.
+Insider setzen darauf, dass er gewinnt.
+Der Schwimmer gewann bei den Olympischen Spielen Gold über 400 Meter Lagen.
+","Diese Gedenktafel soll an die Opfer beider Weltkriege gemahnen.
+",None,"Diese Gedenktafel soll an die Opfer beider Weltkriege gemahnen.
+",None,None,None,None,"Wie komme ich dahin?
+Ich komme mit weniger aus.
+Ich komme so um 8 Uhr.
+Ich komme so um 8 Uhr.
+Ich komme wieder.
+Ich komme morgen in acht Tagen.
+ich komme wieder, wenn Sie mehr Zeit haben
+Ich komme eventuell ein bisschen später.
+Ich komme auf einen Sprung vorbei.
+Da komme ich jetzt nicht mehr mit. [coll.]
+Er konnte nicht kommen.
+Er pflegte zu kommen.
+Wir kommen.
+kommen Sie morgen zu mir
+","Ich kann damit leben.
+Ich kann damit leben.
+Sie leben von der Hand in den Mund.
+Er lebt über seine Verhältnisse.
+Er lebt wie Gott in Frankreich.
+Er lebt hinter dem Mond.
+Meine Freundin, die in Paris lebt, heißt Julie.
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+","Habe ich es nicht gleich gesagt?
+habe ich recht?
+habe ich recht?
+Das habe ich mir schon gedacht!
+Das habe ich mir nie träumen lassen!
+Das habe ich alles selbst gemacht.
+Das habe ich nicht nötig!
+Das habe ich selbst gemacht.
+Ich habe Besuch.
+Ich habe Besuch.
+Ich habe keine blasse Ahnung.
+Ich habe keine blasse Ahnung.
+Ich habe mehr als genug.
+Ich habe Ihren Namen nicht verstanden.
+","Wohnen Sie hier?
+Wo wohnen Sie?
+Er wohnt bei mir.
+da, wo ich wohne
+Er wohnt bei seinen Eltern.
+Wo wohnst du?
+Er wohnt in seiner alten Wohnung.
+Früher wohnten wir auf dem Land.
+Sie wohnt bei mir.
+Wo wohnt er?
+Sie wohnt ein Stockwerk unter mir.
+","Er arbeitet von früh bis spät.
+Mir gefällt, wie er arbeitet.
+Für wen arbeitet er?
+Für wen arbeitet er?
+Er arbeitet nach Vorschrift.
+Sie arbeitet ununterbrochen.
+Sie arbeitet mit einer solchen Hektik.
+Sie arbeitet bei der Lufthansa.
+Sie arbeitet halbtags im Kino.
+Er arbeitet als Koch im Trafalgar Hotel.
+bereit mit kleiner Provision zu arbeiten
+Es war uns eine Ehre, mit Ihnen zu arbeiten
+weigert sich mit uns zu arbeiten
+Es war erst das zweite Mal, dass sie wegen Krankheit nicht arbeiten konnte.
+",None,None,None,"weniger entwickelte Länder
+Die Donau fließt durch zehn Länder.
+das weite flache Land
+ein anderes Land
+fließt durch das Land
+für jedes Land
+irgendein anderes Land
+gültig im ganzen Land
+Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+der beste Blick über das Land
+Seine Rede wird im ganzen Land widerhallen.
+meist besuchtes Ferienland
+im Versandland
+in einigen Ländern
+","eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+",None,None,"Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+",None,None,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+","Es macht eine Erweiterung notwendig.
+",None,"die Regierung zahlt Prämien an Exporteure
+","Ihm ist nicht mehr zu helfen.
+Ich werde dir helfen!
+Kann mir jemand kurz helfen?
+Warum sollte ich dir helfen?
+Ich kann mir nicht helfen.
+Ich werde ihm schon helfen!
+Ich wollte nur helfen.
+Er weiß sich nicht mehr zu helfen.
+Er weiß sich gegen Langeweile nicht zu helfen.
+Er weiß sich nie zu helfen.
+Es wird schwierig sein, jemanden zu finden, der mir am Sonntag beim Umziehen helfen kann.
+ein Mensch, der sich immer zu helfen weiß
+wird weiterhin helfen
+Diese Tabletten halfen mir nicht.
+",None,None,"hat den Vorteil, dass
+sie hat
+Hat sie Fieber?
+Hat sie Fieber?
+hat es uns ermöglicht zu
+hat Sie nicht zufriedengestellt (or: zufrieden gestellt)
+hat uns freundlicherweise Ihre Anschrift gegeben
+hat uns Ihre Firma empfohlen
+hat unser Vertrauen
+Hat es sich gelohnt?
+hat eine 2000-jährige Geschichte
+Das hat bis morgen Zeit.
+Das hat keinen Sinn.
+das hat steuerliche Auswirkungen
+","unsere Geschäftsanschrift hat sich geändert
+Mein musikalischer Geschmack hat sich mit der Zeit geändert.
+Die Zeiten haben sich geändert.
+der Zinssatz wird geändert
+kann geändert werden
+haben sich grundlegend geändert
+Ich kann's nicht ändern
+Es lässt sich nicht ändern
+wird sich nicht ändern
+kann sich ändern
+Recht ein Ding zu ändern
+wenn sich etwas ändert
+Es ändert sich von Tag zu Tag
+","Der Hund, der sie angegriffen hat, wurde eingeschläfert.
+","hätte es ihn nicht gegeben
+haben ihre Zahlungsunfähigkeit bekannt gegeben
+hat uns freundlicherweise Ihre Anschrift gegeben
+Ich habe ihm den Apfel gegeben.
+Da wir Ihnen keine Weisungsbefugnis gegeben haben ...
+derjenige, dem der Vorbehalt gegeben wurde
+Anzahl der Beobachtungswerte, die zu einer gegebenen Klasse gehören [Statistics]
+Alle Studenten geben ihre Prüfungsunterlagen ab. infinitive: abgeben
+Wem soll ich es geben?
+bei Auftragserteilung geben Sie bitte an
+Bitte geben Sie an, welche Mengen Sie benötigen.
+Bitte geben Sie uns Ihre Preise
+mit tiefem Bedauern geben wir bekannt
+sollte er es versäumen, Anweisungen zu geben
+",None,"Es würde uns sehr freuen
+Wir würden uns freuen ... zu erhalten.
+Ich freue mich auf dich.
+Es freut mich, dich zu sehen.
+Ich freue mich darauf, ihn zu sehen.
+Er freut sich wie ein Schneekönig.
+Es freut mich sehr zu hören, dass ...
+",None,None,"die einbezogenen Unternehmen
+Wir sollten mal was zusammen unternehmen. [coll.]
+in den Geschäftsräumen des Unternehmens
+Als Eigentümer dieses Unternehmens habe ich das Recht zu erfahren, was hier vor sich geht.
+","Kann ich Ihre Bestellung aufnehmen?
 "

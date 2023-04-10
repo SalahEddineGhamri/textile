@@ -19,7 +19,7 @@ press = Button.Pressed(TextileApp.nouns_button)
 TextileApp.nouns_button.on_button_pressed(press)
 """
 
-TEXT_WIDTH = 80
+TEXT_WIDTH = 100
 
 
 # routines definiton when button is presed
@@ -37,9 +37,15 @@ def call_adjectives():
     TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "ADJ"), width=TEXT_WIDTH))
     TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT, group='ADJ'))
 
+
 def call_adverbs():
     TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "ADV"), width=TEXT_WIDTH))
     TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT, group='ADV'))
+
+
+def call_prepositions():
+    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "PREP"), width=TEXT_WIDTH))
+    TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT, group='PREP'))
 
 # dict of all button actions
 button_action = {'Nouns': call_nouns,
@@ -47,7 +53,7 @@ button_action = {'Nouns': call_nouns,
                  'Adjectives': call_adjectives,
                  'Adverbs': call_adverbs,
                  'Conjunctions': lambda: None,
-                 'Prepositions': lambda: None}
+                 'Prepositions': call_prepositions}
 
 
 class Butt(Button):
@@ -77,6 +83,8 @@ class TextileApp(App):
         """Create child widgets for the app."""
         yield Container(Container(TextLog(highlight=True,
                                           markup=True,
+                                          wrap=True,
+                                          min_width=78,
                                           id="text"),
                                   Container(self.nouns_button,
                                             self.verbs_button,

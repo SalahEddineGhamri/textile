@@ -1,4 +1,4 @@
-voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,verbieten,sagen,wählen
+voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,verbieten,sagen,wählen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,komme,lebe,habe,haben,wohnen,arbeitet,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,klappen
 indicative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -119,7 +119,142 @@ indicative_active,Present," ich geb(e)
  er wählt
  wir wählen
  ihr wählt
- sie wählen"
+ sie wählen"," ich gehör(e)
+ du gehörst
+ er gehört
+ wir gehören
+ ihr gehört
+ sie gehören"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen"," ich hand(e)l(e)
+ du handelst
+ er handelt
+ wir handeln
+ ihr handelt
+ sie handeln"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"," ich sterb(e)
+ du stirbst
+ er stirbt
+ wir sterben
+ ihr sterbt
+ sie sterben"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich verleih(e)
+ du verleihst
+ er verleiht
+ wir verleih(e)n
+ ihr verleiht
+ sie verleih(e)n"," ich gewinn(e)
+ du gewinnst
+ er gewinnt
+ wir gewinnen
+ ihr gewinnt
+ sie gewinnen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen"," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben",," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich wohn(e)
+ du wohnst
+ er wohnt
+ wir wohnen
+ ihr wohnt
+ sie wohnen"," ich arbeit(e)
+ du arbeitest
+ er arbeitet
+ wir arbeiten
+ ihr arbeitet
+ sie arbeiten"," ich helf(e)
+ du hilfst
+ er hilft
+ wir helfen
+ ihr helft
+ sie helfen"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich tret(e) bei
+ du trittst bei
+ er tritt bei
+ wir treten bei
+ ihr tretet bei
+ sie treten bei"," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich änd(e)r(e)
+ du änderst
+ er ändert
+ wir ändern
+ ihr ändert
+ sie ändern"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich zieh(e) hoch
+ du ziehst hoch
+ er zieht hoch
+ wir zieh(e)n hoch
+ ihr zieht hoch
+ sie zieh(e)n hoch"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"," ich kritisier(e)
+ du kritisierst
+ er kritisiert
+ wir kritisieren
+ ihr kritisiert
+ sie kritisieren"," ich unternehm(e)
+ du unternimmst
+ er unternimmt
+ wir unternehmen
+ ihr unternehmt
+ sie unternehmen"," ich nehm(e) auf
+ du nimmst auf
+ er nimmt auf
+ wir nehmen auf
+ ihr nehmt auf
+ sie nehmen auf"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"
 indicative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -240,7 +375,142 @@ indicative_active,Imperfect," ich gab
  er wählte
  wir wählten
  ihr wähltet
- sie wählten"
+ sie wählten"," ich gehörte
+ du gehörtest
+ er gehörte
+ wir gehörten
+ ihr gehörtet
+ sie gehörten"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen"," ich handelte
+ du handeltest
+ er handelte
+ wir handelten
+ ihr handeltet
+ sie handelten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"," ich starb
+ du starbst
+ er starb
+ wir starben
+ ihr starbt
+ sie starben"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich verlieh
+ du verliehst
+ er verlieh
+ wir verlieh(e)n
+ ihr verlieht
+ sie verlieh(e)n"," ich gewann
+ du gewannst
+ er gewann
+ wir gewannen
+ ihr gewannt
+ sie gewannen"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen"," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten",," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich wohnte
+ du wohntest
+ er wohnte
+ wir wohnten
+ ihr wohntet
+ sie wohnten"," ich arbeitete
+ du arbeitetest
+ er arbeitete
+ wir arbeiteten
+ ihr arbeitetet
+ sie arbeiteten"," ich half
+ du halfst
+ er half
+ wir halfen
+ ihr halft
+ sie halfen"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich trat bei
+ du trat(e)st bei
+ er trat bei
+ wir traten bei
+ ihr tratet bei
+ sie traten bei"," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich änderte
+ du ändertest
+ er änderte
+ wir änderten
+ ihr ändertet
+ sie änderten"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich zog hoch
+ du zogst hoch
+ er zog hoch
+ wir zogen hoch
+ ihr zogt hoch
+ sie zogen hoch"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"," ich kritisierte
+ du kritisiertest
+ er kritisierte
+ wir kritisierten
+ ihr kritisiertet
+ sie kritisierten"," ich unternahm
+ du unternahmst
+ er unternahm
+ wir unternahmen
+ ihr unternahmt
+ sie unternahmen"," ich nahm auf
+ du nahmst auf
+ er nahm auf
+ wir nahmen auf
+ ihr nahmt auf
+ sie nahmen auf"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"
 indicative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -361,7 +631,142 @@ indicative_active,Perfect," ich habe gegeben
  er hat gewählt
  wir haben gewählt
  ihr habt gewählt
- sie haben gewählt"
+ sie haben gewählt"," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen"," ich habe gehandelt
+ du hast gehandelt
+ er hat gehandelt
+ wir haben gehandelt
+ ihr habt gehandelt
+ sie haben gehandelt"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"," ich bin gestorben
+ du bist gestorben
+ er ist gestorben
+ wir sind gestorben
+ ihr seid gestorben
+ sie sind gestorben"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe verlieh(e)n
+ du hast verlieh(e)n
+ er hat verlieh(e)n
+ wir haben verlieh(e)n
+ ihr habt verlieh(e)n
+ sie haben verlieh(e)n"," ich habe gewonnen
+ du hast gewonnen
+ er hat gewonnen
+ wir haben gewonnen
+ ihr habt gewonnen
+ sie haben gewonnen"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen"," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt",," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe gewohnt
+ du hast gewohnt
+ er hat gewohnt
+ wir haben gewohnt
+ ihr habt gewohnt
+ sie haben gewohnt"," ich habe gearbeitet
+ du hast gearbeitet
+ er hat gearbeitet
+ wir haben gearbeitet
+ ihr habt gearbeitet
+ sie haben gearbeitet"," ich habe geholfen
+ du hast geholfen
+ er hat geholfen
+ wir haben geholfen
+ ihr habt geholfen
+ sie haben geholfen"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich bin beigetreten
+ du bist beigetreten
+ er ist beigetreten
+ wir sind beigetreten
+ ihr seid beigetreten
+ sie sind beigetreten"," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe geändert
+ du hast geändert
+ er hat geändert
+ wir haben geändert
+ ihr habt geändert
+ sie haben geändert"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin hochgezogen
+ du bist hochgezogen
+ er ist hochgezogen
+ wir sind hochgezogen
+ ihr seid hochgezogen
+ sie sind hochgezogen"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"," ich habe kritisiert
+ du hast kritisiert
+ er hat kritisiert
+ wir haben kritisiert
+ ihr habt kritisiert
+ sie haben kritisiert"," ich habe unternommen
+ du hast unternommen
+ er hat unternommen
+ wir haben unternommen
+ ihr habt unternommen
+ sie haben unternommen"," ich habe aufgenommen
+ du hast aufgenommen
+ er hat aufgenommen
+ wir haben aufgenommen
+ ihr habt aufgenommen
+ sie haben aufgenommen"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"
 indicative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -482,7 +887,142 @@ indicative_active,Pluperfect," ich hatte gegeben
  er hatte gewählt
  wir hatten gewählt
  ihr hattet gewählt
- sie hatten gewählt"
+ sie hatten gewählt"," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen"," ich hatte gehandelt
+ du hattest gehandelt
+ er hatte gehandelt
+ wir hatten gehandelt
+ ihr hattet gehandelt
+ sie hatten gehandelt"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"," ich war gestorben
+ du warst gestorben
+ er war gestorben
+ wir waren gestorben
+ ihr wart gestorben
+ sie waren gestorben"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte verlieh(e)n
+ du hattest verlieh(e)n
+ er hatte verlieh(e)n
+ wir hatten verlieh(e)n
+ ihr hattet verlieh(e)n
+ sie hatten verlieh(e)n"," ich hatte gewonnen
+ du hattest gewonnen
+ er hatte gewonnen
+ wir hatten gewonnen
+ ihr hattet gewonnen
+ sie hatten gewonnen"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen"," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt",," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte gewohnt
+ du hattest gewohnt
+ er hatte gewohnt
+ wir hatten gewohnt
+ ihr hattet gewohnt
+ sie hatten gewohnt"," ich hatte gearbeitet
+ du hattest gearbeitet
+ er hatte gearbeitet
+ wir hatten gearbeitet
+ ihr hattet gearbeitet
+ sie hatten gearbeitet"," ich hatte geholfen
+ du hattest geholfen
+ er hatte geholfen
+ wir hatten geholfen
+ ihr hattet geholfen
+ sie hatten geholfen"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich war beigetreten
+ du warst beigetreten
+ er war beigetreten
+ wir waren beigetreten
+ ihr wart beigetreten
+ sie waren beigetreten"," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte geändert
+ du hattest geändert
+ er hatte geändert
+ wir hatten geändert
+ ihr hattet geändert
+ sie hatten geändert"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war hochgezogen
+ du warst hochgezogen
+ er war hochgezogen
+ wir waren hochgezogen
+ ihr wart hochgezogen
+ sie waren hochgezogen"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"," ich hatte kritisiert
+ du hattest kritisiert
+ er hatte kritisiert
+ wir hatten kritisiert
+ ihr hattet kritisiert
+ sie hatten kritisiert"," ich hatte unternommen
+ du hattest unternommen
+ er hatte unternommen
+ wir hatten unternommen
+ ihr hattet unternommen
+ sie hatten unternommen"," ich hatte aufgenommen
+ du hattest aufgenommen
+ er hatte aufgenommen
+ wir hatten aufgenommen
+ ihr hattet aufgenommen
+ sie hatten aufgenommen"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"
 indicative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -603,7 +1143,142 @@ indicative_active,Future," ich werde geben
  er wird wählen
  wir werden wählen
  ihr werdet wählen
- sie werden wählen"
+ sie werden wählen"," ich werde gehören
+ du wirst gehören
+ er wird gehören
+ wir werden gehören
+ ihr werdet gehören
+ sie werden gehören"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen"," ich werde handeln
+ du wirst handeln
+ er wird handeln
+ wir werden handeln
+ ihr werdet handeln
+ sie werden handeln"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"," ich werde sterben
+ du wirst sterben
+ er wird sterben
+ wir werden sterben
+ ihr werdet sterben
+ sie werden sterben"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde verleih(e)n
+ du wirst verleih(e)n
+ er wird verleih(e)n
+ wir werden verleih(e)n
+ ihr werdet verleih(e)n
+ sie werden verleih(e)n"," ich werde gewinnen
+ du wirst gewinnen
+ er wird gewinnen
+ wir werden gewinnen
+ ihr werdet gewinnen
+ sie werden gewinnen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen"," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben",," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde wohnen
+ du wirst wohnen
+ er wird wohnen
+ wir werden wohnen
+ ihr werdet wohnen
+ sie werden wohnen"," ich werde arbeiten
+ du wirst arbeiten
+ er wird arbeiten
+ wir werden arbeiten
+ ihr werdet arbeiten
+ sie werden arbeiten"," ich werde helfen
+ du wirst helfen
+ er wird helfen
+ wir werden helfen
+ ihr werdet helfen
+ sie werden helfen"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde beitreten
+ du wirst beitreten
+ er wird beitreten
+ wir werden beitreten
+ ihr werdet beitreten
+ sie werden beitreten"," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde ändern
+ du wirst ändern
+ er wird ändern
+ wir werden ändern
+ ihr werdet ändern
+ sie werden ändern"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde hochzieh(e)n
+ du wirst hochzieh(e)n
+ er wird hochzieh(e)n
+ wir werden hochzieh(e)n
+ ihr werdet hochzieh(e)n
+ sie werden hochzieh(e)n"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"," ich werde kritisieren
+ du wirst kritisieren
+ er wird kritisieren
+ wir werden kritisieren
+ ihr werdet kritisieren
+ sie werden kritisieren"," ich werde unternehmen
+ du wirst unternehmen
+ er wird unternehmen
+ wir werden unternehmen
+ ihr werdet unternehmen
+ sie werden unternehmen"," ich werde aufnehmen
+ du wirst aufnehmen
+ er wird aufnehmen
+ wir werden aufnehmen
+ ihr werdet aufnehmen
+ sie werden aufnehmen"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"
 indicative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -724,7 +1399,142 @@ indicative_active,FuturePerfect," ich werde gegeben haben
  er wird gewählt haben
  wir werden gewählt haben
  ihr werdet gewählt haben
- sie werden gewählt haben"
+ sie werden gewählt haben"," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben"," ich werde gehandelt haben
+ du wirst gehandelt haben
+ er wird gehandelt haben
+ wir werden gehandelt haben
+ ihr werdet gehandelt haben
+ sie werden gehandelt haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"," ich werde gestorben sein
+ du wirst gestorben sein
+ er wird gestorben sein
+ wir werden gestorben sein
+ ihr werdet gestorben sein
+ sie werden gestorben sein"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde verlieh(e)n haben
+ du wirst verlieh(e)n haben
+ er wird verlieh(e)n haben
+ wir werden verlieh(e)n haben
+ ihr werdet verlieh(e)n haben
+ sie werden verlieh(e)n haben"," ich werde gewonnen haben
+ du wirst gewonnen haben
+ er wird gewonnen haben
+ wir werden gewonnen haben
+ ihr werdet gewonnen haben
+ sie werden gewonnen haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein"," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben",," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde gewohnt haben
+ du wirst gewohnt haben
+ er wird gewohnt haben
+ wir werden gewohnt haben
+ ihr werdet gewohnt haben
+ sie werden gewohnt haben"," ich werde gearbeitet haben
+ du wirst gearbeitet haben
+ er wird gearbeitet haben
+ wir werden gearbeitet haben
+ ihr werdet gearbeitet haben
+ sie werden gearbeitet haben"," ich werde geholfen haben
+ du wirst geholfen haben
+ er wird geholfen haben
+ wir werden geholfen haben
+ ihr werdet geholfen haben
+ sie werden geholfen haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde beigetreten sein
+ du wirst beigetreten sein
+ er wird beigetreten sein
+ wir werden beigetreten sein
+ ihr werdet beigetreten sein
+ sie werden beigetreten sein"," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde geändert haben
+ du wirst geändert haben
+ er wird geändert haben
+ wir werden geändert haben
+ ihr werdet geändert haben
+ sie werden geändert haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde hochgezogen sein
+ du wirst hochgezogen sein
+ er wird hochgezogen sein
+ wir werden hochgezogen sein
+ ihr werdet hochgezogen sein
+ sie werden hochgezogen sein"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"," ich werde kritisiert haben
+ du wirst kritisiert haben
+ er wird kritisiert haben
+ wir werden kritisiert haben
+ ihr werdet kritisiert haben
+ sie werden kritisiert haben"," ich werde unternommen haben
+ du wirst unternommen haben
+ er wird unternommen haben
+ wir werden unternommen haben
+ ihr werdet unternommen haben
+ sie werden unternommen haben"," ich werde aufgenommen haben
+ du wirst aufgenommen haben
+ er wird aufgenommen haben
+ wir werden aufgenommen haben
+ ihr werdet aufgenommen haben
+ sie werden aufgenommen haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"
 indicative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -749,7 +1559,34 @@ indicative_active,InfinitiveI," geben
  zu treten"," verbieten
  zu verbieten"," sagen
  zu sagen"," wählen
- zu wählen"
+ zu wählen"," gehören
+ zu gehören"," bekommen
+ zu bekommen"," handeln
+ zu handeln"," erzählen
+ zu erzählen"," sterben
+ zu sterben"," kämpfen
+ zu kämpfen"," verleih(e)n
+ zu verleih(e)n"," gewinnen
+ zu gewinnen"," kommen
+ zu kommen"," leben
+ zu leben",," haben
+ zu haben"," wohnen
+ zu wohnen"," arbeiten
+ zu arbeiten"," helfen
+ zu helfen"," angreifen
+ anzugreifen"," beitreten
+ beizutreten"," haben
+ zu haben"," ändern
+ zu ändern"," angreifen
+ anzugreifen"," geben
+ zu geben"," hochzieh(e)n
+ hochzuzieh(e)n"," freu(e)n
+ zu freu(e)n"," klappen
+ zu klappen"," kritisieren
+ zu kritisieren"," unternehmen
+ zu unternehmen"," aufnehmen
+ aufzunehmen"," klappen
+ zu klappen"
 indicative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -774,9 +1611,36 @@ indicative_active,InfinitiveII," gegeben haben
  getreten zu sein"," verboten haben
  verboten zu haben"," gesagt haben
  gesagt zu haben"," gewählt haben
- gewählt zu haben"
-indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
-indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
+ gewählt zu haben"," gehört haben
+ gehört zu haben"," bekommen haben
+ bekommen zu haben"," gehandelt haben
+ gehandelt zu haben"," erzählt haben
+ erzählt zu haben"," gestorben sein
+ gestorben zu sein"," gekämpft haben
+ gekämpft zu haben"," verlieh(e)n haben
+ verlieh(e)n zu haben"," gewonnen haben
+ gewonnen zu haben"," gekommen sein
+ gekommen zu sein"," gelebt haben
+ gelebt zu haben",," gehabt haben
+ gehabt zu haben"," gewohnt haben
+ gewohnt zu haben"," gearbeitet haben
+ gearbeitet zu haben"," geholfen haben
+ geholfen zu haben"," angegriffen haben
+ angegriffen zu haben"," beigetreten sein
+ beigetreten zu sein"," gehabt haben
+ gehabt zu haben"," geändert haben
+ geändert zu haben"," angegriffen haben
+ angegriffen zu haben"," gegeben haben
+ gegeben zu haben"," hochgezogen sein
+ hochgezogen zu sein"," gefreut haben
+ gefreut zu haben"," geklappt haben
+ geklappt zu haben"," kritisiert haben
+ kritisiert zu haben"," unternommen haben
+ unternommen zu haben"," aufgenommen haben
+ aufgenommen zu haben"," geklappt haben
+ geklappt zu haben"
+indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, kommend, lebend,, habend, wohnend, arbeitend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, klappend
+indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, gekommen, gelebt,, gehabt, gewohnt, gearbeitet, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, geklappt
 subjunctive_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -897,7 +1761,142 @@ subjunctive_active,Present," ich geb(e)
  er wählt
  wir wählen
  ihr wählt
- sie wählen"
+ sie wählen"," ich gehör(e)
+ du gehörst
+ er gehört
+ wir gehören
+ ihr gehört
+ sie gehören"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen"," ich hand(e)l(e)
+ du handelst
+ er handelt
+ wir handeln
+ ihr handelt
+ sie handeln"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"," ich sterb(e)
+ du stirbst
+ er stirbt
+ wir sterben
+ ihr sterbt
+ sie sterben"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich verleih(e)
+ du verleihst
+ er verleiht
+ wir verleih(e)n
+ ihr verleiht
+ sie verleih(e)n"," ich gewinn(e)
+ du gewinnst
+ er gewinnt
+ wir gewinnen
+ ihr gewinnt
+ sie gewinnen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen"," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben",," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich wohn(e)
+ du wohnst
+ er wohnt
+ wir wohnen
+ ihr wohnt
+ sie wohnen"," ich arbeit(e)
+ du arbeitest
+ er arbeitet
+ wir arbeiten
+ ihr arbeitet
+ sie arbeiten"," ich helf(e)
+ du hilfst
+ er hilft
+ wir helfen
+ ihr helft
+ sie helfen"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich tret(e) bei
+ du trittst bei
+ er tritt bei
+ wir treten bei
+ ihr tretet bei
+ sie treten bei"," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich änd(e)r(e)
+ du änderst
+ er ändert
+ wir ändern
+ ihr ändert
+ sie ändern"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich zieh(e) hoch
+ du ziehst hoch
+ er zieht hoch
+ wir zieh(e)n hoch
+ ihr zieht hoch
+ sie zieh(e)n hoch"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"," ich kritisier(e)
+ du kritisierst
+ er kritisiert
+ wir kritisieren
+ ihr kritisiert
+ sie kritisieren"," ich unternehm(e)
+ du unternimmst
+ er unternimmt
+ wir unternehmen
+ ihr unternehmt
+ sie unternehmen"," ich nehm(e) auf
+ du nimmst auf
+ er nimmt auf
+ wir nehmen auf
+ ihr nehmt auf
+ sie nehmen auf"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"
 subjunctive_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1018,7 +2017,142 @@ subjunctive_active,Imperfect," ich gab
  er wählte
  wir wählten
  ihr wähltet
- sie wählten"
+ sie wählten"," ich gehörte
+ du gehörtest
+ er gehörte
+ wir gehörten
+ ihr gehörtet
+ sie gehörten"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen"," ich handelte
+ du handeltest
+ er handelte
+ wir handelten
+ ihr handeltet
+ sie handelten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"," ich starb
+ du starbst
+ er starb
+ wir starben
+ ihr starbt
+ sie starben"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich verlieh
+ du verliehst
+ er verlieh
+ wir verlieh(e)n
+ ihr verlieht
+ sie verlieh(e)n"," ich gewann
+ du gewannst
+ er gewann
+ wir gewannen
+ ihr gewannt
+ sie gewannen"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen"," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten",," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich wohnte
+ du wohntest
+ er wohnte
+ wir wohnten
+ ihr wohntet
+ sie wohnten"," ich arbeitete
+ du arbeitetest
+ er arbeitete
+ wir arbeiteten
+ ihr arbeitetet
+ sie arbeiteten"," ich half
+ du halfst
+ er half
+ wir halfen
+ ihr halft
+ sie halfen"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich trat bei
+ du trat(e)st bei
+ er trat bei
+ wir traten bei
+ ihr tratet bei
+ sie traten bei"," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich änderte
+ du ändertest
+ er änderte
+ wir änderten
+ ihr ändertet
+ sie änderten"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich zog hoch
+ du zogst hoch
+ er zog hoch
+ wir zogen hoch
+ ihr zogt hoch
+ sie zogen hoch"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"," ich kritisierte
+ du kritisiertest
+ er kritisierte
+ wir kritisierten
+ ihr kritisiertet
+ sie kritisierten"," ich unternahm
+ du unternahmst
+ er unternahm
+ wir unternahmen
+ ihr unternahmt
+ sie unternahmen"," ich nahm auf
+ du nahmst auf
+ er nahm auf
+ wir nahmen auf
+ ihr nahmt auf
+ sie nahmen auf"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"
 subjunctive_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1139,7 +2273,142 @@ subjunctive_active,Perfect," ich habe gegeben
  er hat gewählt
  wir haben gewählt
  ihr habt gewählt
- sie haben gewählt"
+ sie haben gewählt"," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen"," ich habe gehandelt
+ du hast gehandelt
+ er hat gehandelt
+ wir haben gehandelt
+ ihr habt gehandelt
+ sie haben gehandelt"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"," ich bin gestorben
+ du bist gestorben
+ er ist gestorben
+ wir sind gestorben
+ ihr seid gestorben
+ sie sind gestorben"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe verlieh(e)n
+ du hast verlieh(e)n
+ er hat verlieh(e)n
+ wir haben verlieh(e)n
+ ihr habt verlieh(e)n
+ sie haben verlieh(e)n"," ich habe gewonnen
+ du hast gewonnen
+ er hat gewonnen
+ wir haben gewonnen
+ ihr habt gewonnen
+ sie haben gewonnen"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen"," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt",," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe gewohnt
+ du hast gewohnt
+ er hat gewohnt
+ wir haben gewohnt
+ ihr habt gewohnt
+ sie haben gewohnt"," ich habe gearbeitet
+ du hast gearbeitet
+ er hat gearbeitet
+ wir haben gearbeitet
+ ihr habt gearbeitet
+ sie haben gearbeitet"," ich habe geholfen
+ du hast geholfen
+ er hat geholfen
+ wir haben geholfen
+ ihr habt geholfen
+ sie haben geholfen"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich bin beigetreten
+ du bist beigetreten
+ er ist beigetreten
+ wir sind beigetreten
+ ihr seid beigetreten
+ sie sind beigetreten"," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe geändert
+ du hast geändert
+ er hat geändert
+ wir haben geändert
+ ihr habt geändert
+ sie haben geändert"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin hochgezogen
+ du bist hochgezogen
+ er ist hochgezogen
+ wir sind hochgezogen
+ ihr seid hochgezogen
+ sie sind hochgezogen"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"," ich habe kritisiert
+ du hast kritisiert
+ er hat kritisiert
+ wir haben kritisiert
+ ihr habt kritisiert
+ sie haben kritisiert"," ich habe unternommen
+ du hast unternommen
+ er hat unternommen
+ wir haben unternommen
+ ihr habt unternommen
+ sie haben unternommen"," ich habe aufgenommen
+ du hast aufgenommen
+ er hat aufgenommen
+ wir haben aufgenommen
+ ihr habt aufgenommen
+ sie haben aufgenommen"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"
 subjunctive_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -1260,7 +2529,142 @@ subjunctive_active,Pluperfect," ich hatte gegeben
  er hatte gewählt
  wir hatten gewählt
  ihr hattet gewählt
- sie hatten gewählt"
+ sie hatten gewählt"," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen"," ich hatte gehandelt
+ du hattest gehandelt
+ er hatte gehandelt
+ wir hatten gehandelt
+ ihr hattet gehandelt
+ sie hatten gehandelt"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"," ich war gestorben
+ du warst gestorben
+ er war gestorben
+ wir waren gestorben
+ ihr wart gestorben
+ sie waren gestorben"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte verlieh(e)n
+ du hattest verlieh(e)n
+ er hatte verlieh(e)n
+ wir hatten verlieh(e)n
+ ihr hattet verlieh(e)n
+ sie hatten verlieh(e)n"," ich hatte gewonnen
+ du hattest gewonnen
+ er hatte gewonnen
+ wir hatten gewonnen
+ ihr hattet gewonnen
+ sie hatten gewonnen"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen"," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt",," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte gewohnt
+ du hattest gewohnt
+ er hatte gewohnt
+ wir hatten gewohnt
+ ihr hattet gewohnt
+ sie hatten gewohnt"," ich hatte gearbeitet
+ du hattest gearbeitet
+ er hatte gearbeitet
+ wir hatten gearbeitet
+ ihr hattet gearbeitet
+ sie hatten gearbeitet"," ich hatte geholfen
+ du hattest geholfen
+ er hatte geholfen
+ wir hatten geholfen
+ ihr hattet geholfen
+ sie hatten geholfen"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich war beigetreten
+ du warst beigetreten
+ er war beigetreten
+ wir waren beigetreten
+ ihr wart beigetreten
+ sie waren beigetreten"," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte geändert
+ du hattest geändert
+ er hatte geändert
+ wir hatten geändert
+ ihr hattet geändert
+ sie hatten geändert"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war hochgezogen
+ du warst hochgezogen
+ er war hochgezogen
+ wir waren hochgezogen
+ ihr wart hochgezogen
+ sie waren hochgezogen"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"," ich hatte kritisiert
+ du hattest kritisiert
+ er hatte kritisiert
+ wir hatten kritisiert
+ ihr hattet kritisiert
+ sie hatten kritisiert"," ich hatte unternommen
+ du hattest unternommen
+ er hatte unternommen
+ wir hatten unternommen
+ ihr hattet unternommen
+ sie hatten unternommen"," ich hatte aufgenommen
+ du hattest aufgenommen
+ er hatte aufgenommen
+ wir hatten aufgenommen
+ ihr hattet aufgenommen
+ sie hatten aufgenommen"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"
 subjunctive_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -1381,7 +2785,142 @@ subjunctive_active,Future," ich werde geben
  er wird wählen
  wir werden wählen
  ihr werdet wählen
- sie werden wählen"
+ sie werden wählen"," ich werde gehören
+ du wirst gehören
+ er wird gehören
+ wir werden gehören
+ ihr werdet gehören
+ sie werden gehören"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen"," ich werde handeln
+ du wirst handeln
+ er wird handeln
+ wir werden handeln
+ ihr werdet handeln
+ sie werden handeln"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"," ich werde sterben
+ du wirst sterben
+ er wird sterben
+ wir werden sterben
+ ihr werdet sterben
+ sie werden sterben"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde verleih(e)n
+ du wirst verleih(e)n
+ er wird verleih(e)n
+ wir werden verleih(e)n
+ ihr werdet verleih(e)n
+ sie werden verleih(e)n"," ich werde gewinnen
+ du wirst gewinnen
+ er wird gewinnen
+ wir werden gewinnen
+ ihr werdet gewinnen
+ sie werden gewinnen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen"," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben",," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde wohnen
+ du wirst wohnen
+ er wird wohnen
+ wir werden wohnen
+ ihr werdet wohnen
+ sie werden wohnen"," ich werde arbeiten
+ du wirst arbeiten
+ er wird arbeiten
+ wir werden arbeiten
+ ihr werdet arbeiten
+ sie werden arbeiten"," ich werde helfen
+ du wirst helfen
+ er wird helfen
+ wir werden helfen
+ ihr werdet helfen
+ sie werden helfen"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde beitreten
+ du wirst beitreten
+ er wird beitreten
+ wir werden beitreten
+ ihr werdet beitreten
+ sie werden beitreten"," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde ändern
+ du wirst ändern
+ er wird ändern
+ wir werden ändern
+ ihr werdet ändern
+ sie werden ändern"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde hochzieh(e)n
+ du wirst hochzieh(e)n
+ er wird hochzieh(e)n
+ wir werden hochzieh(e)n
+ ihr werdet hochzieh(e)n
+ sie werden hochzieh(e)n"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"," ich werde kritisieren
+ du wirst kritisieren
+ er wird kritisieren
+ wir werden kritisieren
+ ihr werdet kritisieren
+ sie werden kritisieren"," ich werde unternehmen
+ du wirst unternehmen
+ er wird unternehmen
+ wir werden unternehmen
+ ihr werdet unternehmen
+ sie werden unternehmen"," ich werde aufnehmen
+ du wirst aufnehmen
+ er wird aufnehmen
+ wir werden aufnehmen
+ ihr werdet aufnehmen
+ sie werden aufnehmen"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"
 subjunctive_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -1502,7 +3041,142 @@ subjunctive_active,FuturePerfect," ich werde gegeben haben
  er wird gewählt haben
  wir werden gewählt haben
  ihr werdet gewählt haben
- sie werden gewählt haben"
+ sie werden gewählt haben"," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben"," ich werde gehandelt haben
+ du wirst gehandelt haben
+ er wird gehandelt haben
+ wir werden gehandelt haben
+ ihr werdet gehandelt haben
+ sie werden gehandelt haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"," ich werde gestorben sein
+ du wirst gestorben sein
+ er wird gestorben sein
+ wir werden gestorben sein
+ ihr werdet gestorben sein
+ sie werden gestorben sein"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde verlieh(e)n haben
+ du wirst verlieh(e)n haben
+ er wird verlieh(e)n haben
+ wir werden verlieh(e)n haben
+ ihr werdet verlieh(e)n haben
+ sie werden verlieh(e)n haben"," ich werde gewonnen haben
+ du wirst gewonnen haben
+ er wird gewonnen haben
+ wir werden gewonnen haben
+ ihr werdet gewonnen haben
+ sie werden gewonnen haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein"," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben",," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde gewohnt haben
+ du wirst gewohnt haben
+ er wird gewohnt haben
+ wir werden gewohnt haben
+ ihr werdet gewohnt haben
+ sie werden gewohnt haben"," ich werde gearbeitet haben
+ du wirst gearbeitet haben
+ er wird gearbeitet haben
+ wir werden gearbeitet haben
+ ihr werdet gearbeitet haben
+ sie werden gearbeitet haben"," ich werde geholfen haben
+ du wirst geholfen haben
+ er wird geholfen haben
+ wir werden geholfen haben
+ ihr werdet geholfen haben
+ sie werden geholfen haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde beigetreten sein
+ du wirst beigetreten sein
+ er wird beigetreten sein
+ wir werden beigetreten sein
+ ihr werdet beigetreten sein
+ sie werden beigetreten sein"," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde geändert haben
+ du wirst geändert haben
+ er wird geändert haben
+ wir werden geändert haben
+ ihr werdet geändert haben
+ sie werden geändert haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde hochgezogen sein
+ du wirst hochgezogen sein
+ er wird hochgezogen sein
+ wir werden hochgezogen sein
+ ihr werdet hochgezogen sein
+ sie werden hochgezogen sein"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"," ich werde kritisiert haben
+ du wirst kritisiert haben
+ er wird kritisiert haben
+ wir werden kritisiert haben
+ ihr werdet kritisiert haben
+ sie werden kritisiert haben"," ich werde unternommen haben
+ du wirst unternommen haben
+ er wird unternommen haben
+ wir werden unternommen haben
+ ihr werdet unternommen haben
+ sie werden unternommen haben"," ich werde aufgenommen haben
+ du wirst aufgenommen haben
+ er wird aufgenommen haben
+ wir werden aufgenommen haben
+ ihr werdet aufgenommen haben
+ sie werden aufgenommen haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"
 subjunctive_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -1527,7 +3201,34 @@ subjunctive_active,InfinitiveI," geben
  zu treten"," verbieten
  zu verbieten"," sagen
  zu sagen"," wählen
- zu wählen"
+ zu wählen"," gehören
+ zu gehören"," bekommen
+ zu bekommen"," handeln
+ zu handeln"," erzählen
+ zu erzählen"," sterben
+ zu sterben"," kämpfen
+ zu kämpfen"," verleih(e)n
+ zu verleih(e)n"," gewinnen
+ zu gewinnen"," kommen
+ zu kommen"," leben
+ zu leben",," haben
+ zu haben"," wohnen
+ zu wohnen"," arbeiten
+ zu arbeiten"," helfen
+ zu helfen"," angreifen
+ anzugreifen"," beitreten
+ beizutreten"," haben
+ zu haben"," ändern
+ zu ändern"," angreifen
+ anzugreifen"," geben
+ zu geben"," hochzieh(e)n
+ hochzuzieh(e)n"," freu(e)n
+ zu freu(e)n"," klappen
+ zu klappen"," kritisieren
+ zu kritisieren"," unternehmen
+ zu unternehmen"," aufnehmen
+ aufzunehmen"," klappen
+ zu klappen"
 subjunctive_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -1552,9 +3253,36 @@ subjunctive_active,InfinitiveII," gegeben haben
  getreten zu sein"," verboten haben
  verboten zu haben"," gesagt haben
  gesagt zu haben"," gewählt haben
- gewählt zu haben"
-subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
-subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
+ gewählt zu haben"," gehört haben
+ gehört zu haben"," bekommen haben
+ bekommen zu haben"," gehandelt haben
+ gehandelt zu haben"," erzählt haben
+ erzählt zu haben"," gestorben sein
+ gestorben zu sein"," gekämpft haben
+ gekämpft zu haben"," verlieh(e)n haben
+ verlieh(e)n zu haben"," gewonnen haben
+ gewonnen zu haben"," gekommen sein
+ gekommen zu sein"," gelebt haben
+ gelebt zu haben",," gehabt haben
+ gehabt zu haben"," gewohnt haben
+ gewohnt zu haben"," gearbeitet haben
+ gearbeitet zu haben"," geholfen haben
+ geholfen zu haben"," angegriffen haben
+ angegriffen zu haben"," beigetreten sein
+ beigetreten zu sein"," gehabt haben
+ gehabt zu haben"," geändert haben
+ geändert zu haben"," angegriffen haben
+ angegriffen zu haben"," gegeben haben
+ gegeben zu haben"," hochgezogen sein
+ hochgezogen zu sein"," gefreut haben
+ gefreut zu haben"," geklappt haben
+ geklappt zu haben"," kritisiert haben
+ kritisiert zu haben"," unternommen haben
+ unternommen zu haben"," aufgenommen haben
+ aufgenommen zu haben"," geklappt haben
+ geklappt zu haben"
+subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, kommend, lebend,, habend, wohnend, arbeitend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, klappend
+subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, gekommen, gelebt,, gehabt, gewohnt, gearbeitet, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, geklappt
 conditional_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -1675,7 +3403,142 @@ conditional_active,Present," ich geb(e)
  er wählt
  wir wählen
  ihr wählt
- sie wählen"
+ sie wählen"," ich gehör(e)
+ du gehörst
+ er gehört
+ wir gehören
+ ihr gehört
+ sie gehören"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen"," ich hand(e)l(e)
+ du handelst
+ er handelt
+ wir handeln
+ ihr handelt
+ sie handeln"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"," ich sterb(e)
+ du stirbst
+ er stirbt
+ wir sterben
+ ihr sterbt
+ sie sterben"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich verleih(e)
+ du verleihst
+ er verleiht
+ wir verleih(e)n
+ ihr verleiht
+ sie verleih(e)n"," ich gewinn(e)
+ du gewinnst
+ er gewinnt
+ wir gewinnen
+ ihr gewinnt
+ sie gewinnen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen"," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben",," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich wohn(e)
+ du wohnst
+ er wohnt
+ wir wohnen
+ ihr wohnt
+ sie wohnen"," ich arbeit(e)
+ du arbeitest
+ er arbeitet
+ wir arbeiten
+ ihr arbeitet
+ sie arbeiten"," ich helf(e)
+ du hilfst
+ er hilft
+ wir helfen
+ ihr helft
+ sie helfen"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich tret(e) bei
+ du trittst bei
+ er tritt bei
+ wir treten bei
+ ihr tretet bei
+ sie treten bei"," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich änd(e)r(e)
+ du änderst
+ er ändert
+ wir ändern
+ ihr ändert
+ sie ändern"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich zieh(e) hoch
+ du ziehst hoch
+ er zieht hoch
+ wir zieh(e)n hoch
+ ihr zieht hoch
+ sie zieh(e)n hoch"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"," ich kritisier(e)
+ du kritisierst
+ er kritisiert
+ wir kritisieren
+ ihr kritisiert
+ sie kritisieren"," ich unternehm(e)
+ du unternimmst
+ er unternimmt
+ wir unternehmen
+ ihr unternehmt
+ sie unternehmen"," ich nehm(e) auf
+ du nimmst auf
+ er nimmt auf
+ wir nehmen auf
+ ihr nehmt auf
+ sie nehmen auf"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"
 conditional_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1796,7 +3659,142 @@ conditional_active,Imperfect," ich gab
  er wählte
  wir wählten
  ihr wähltet
- sie wählten"
+ sie wählten"," ich gehörte
+ du gehörtest
+ er gehörte
+ wir gehörten
+ ihr gehörtet
+ sie gehörten"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen"," ich handelte
+ du handeltest
+ er handelte
+ wir handelten
+ ihr handeltet
+ sie handelten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"," ich starb
+ du starbst
+ er starb
+ wir starben
+ ihr starbt
+ sie starben"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich verlieh
+ du verliehst
+ er verlieh
+ wir verlieh(e)n
+ ihr verlieht
+ sie verlieh(e)n"," ich gewann
+ du gewannst
+ er gewann
+ wir gewannen
+ ihr gewannt
+ sie gewannen"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen"," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten",," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich wohnte
+ du wohntest
+ er wohnte
+ wir wohnten
+ ihr wohntet
+ sie wohnten"," ich arbeitete
+ du arbeitetest
+ er arbeitete
+ wir arbeiteten
+ ihr arbeitetet
+ sie arbeiteten"," ich half
+ du halfst
+ er half
+ wir halfen
+ ihr halft
+ sie halfen"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich trat bei
+ du trat(e)st bei
+ er trat bei
+ wir traten bei
+ ihr tratet bei
+ sie traten bei"," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich änderte
+ du ändertest
+ er änderte
+ wir änderten
+ ihr ändertet
+ sie änderten"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich zog hoch
+ du zogst hoch
+ er zog hoch
+ wir zogen hoch
+ ihr zogt hoch
+ sie zogen hoch"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"," ich kritisierte
+ du kritisiertest
+ er kritisierte
+ wir kritisierten
+ ihr kritisiertet
+ sie kritisierten"," ich unternahm
+ du unternahmst
+ er unternahm
+ wir unternahmen
+ ihr unternahmt
+ sie unternahmen"," ich nahm auf
+ du nahmst auf
+ er nahm auf
+ wir nahmen auf
+ ihr nahmt auf
+ sie nahmen auf"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"
 conditional_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1917,7 +3915,142 @@ conditional_active,Perfect," ich habe gegeben
  er hat gewählt
  wir haben gewählt
  ihr habt gewählt
- sie haben gewählt"
+ sie haben gewählt"," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen"," ich habe gehandelt
+ du hast gehandelt
+ er hat gehandelt
+ wir haben gehandelt
+ ihr habt gehandelt
+ sie haben gehandelt"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"," ich bin gestorben
+ du bist gestorben
+ er ist gestorben
+ wir sind gestorben
+ ihr seid gestorben
+ sie sind gestorben"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe verlieh(e)n
+ du hast verlieh(e)n
+ er hat verlieh(e)n
+ wir haben verlieh(e)n
+ ihr habt verlieh(e)n
+ sie haben verlieh(e)n"," ich habe gewonnen
+ du hast gewonnen
+ er hat gewonnen
+ wir haben gewonnen
+ ihr habt gewonnen
+ sie haben gewonnen"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen"," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt",," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe gewohnt
+ du hast gewohnt
+ er hat gewohnt
+ wir haben gewohnt
+ ihr habt gewohnt
+ sie haben gewohnt"," ich habe gearbeitet
+ du hast gearbeitet
+ er hat gearbeitet
+ wir haben gearbeitet
+ ihr habt gearbeitet
+ sie haben gearbeitet"," ich habe geholfen
+ du hast geholfen
+ er hat geholfen
+ wir haben geholfen
+ ihr habt geholfen
+ sie haben geholfen"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich bin beigetreten
+ du bist beigetreten
+ er ist beigetreten
+ wir sind beigetreten
+ ihr seid beigetreten
+ sie sind beigetreten"," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe geändert
+ du hast geändert
+ er hat geändert
+ wir haben geändert
+ ihr habt geändert
+ sie haben geändert"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin hochgezogen
+ du bist hochgezogen
+ er ist hochgezogen
+ wir sind hochgezogen
+ ihr seid hochgezogen
+ sie sind hochgezogen"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"," ich habe kritisiert
+ du hast kritisiert
+ er hat kritisiert
+ wir haben kritisiert
+ ihr habt kritisiert
+ sie haben kritisiert"," ich habe unternommen
+ du hast unternommen
+ er hat unternommen
+ wir haben unternommen
+ ihr habt unternommen
+ sie haben unternommen"," ich habe aufgenommen
+ du hast aufgenommen
+ er hat aufgenommen
+ wir haben aufgenommen
+ ihr habt aufgenommen
+ sie haben aufgenommen"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"
 conditional_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -2038,7 +4171,142 @@ conditional_active,Pluperfect," ich hatte gegeben
  er hatte gewählt
  wir hatten gewählt
  ihr hattet gewählt
- sie hatten gewählt"
+ sie hatten gewählt"," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen"," ich hatte gehandelt
+ du hattest gehandelt
+ er hatte gehandelt
+ wir hatten gehandelt
+ ihr hattet gehandelt
+ sie hatten gehandelt"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"," ich war gestorben
+ du warst gestorben
+ er war gestorben
+ wir waren gestorben
+ ihr wart gestorben
+ sie waren gestorben"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte verlieh(e)n
+ du hattest verlieh(e)n
+ er hatte verlieh(e)n
+ wir hatten verlieh(e)n
+ ihr hattet verlieh(e)n
+ sie hatten verlieh(e)n"," ich hatte gewonnen
+ du hattest gewonnen
+ er hatte gewonnen
+ wir hatten gewonnen
+ ihr hattet gewonnen
+ sie hatten gewonnen"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen"," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt",," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte gewohnt
+ du hattest gewohnt
+ er hatte gewohnt
+ wir hatten gewohnt
+ ihr hattet gewohnt
+ sie hatten gewohnt"," ich hatte gearbeitet
+ du hattest gearbeitet
+ er hatte gearbeitet
+ wir hatten gearbeitet
+ ihr hattet gearbeitet
+ sie hatten gearbeitet"," ich hatte geholfen
+ du hattest geholfen
+ er hatte geholfen
+ wir hatten geholfen
+ ihr hattet geholfen
+ sie hatten geholfen"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich war beigetreten
+ du warst beigetreten
+ er war beigetreten
+ wir waren beigetreten
+ ihr wart beigetreten
+ sie waren beigetreten"," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte geändert
+ du hattest geändert
+ er hatte geändert
+ wir hatten geändert
+ ihr hattet geändert
+ sie hatten geändert"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war hochgezogen
+ du warst hochgezogen
+ er war hochgezogen
+ wir waren hochgezogen
+ ihr wart hochgezogen
+ sie waren hochgezogen"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"," ich hatte kritisiert
+ du hattest kritisiert
+ er hatte kritisiert
+ wir hatten kritisiert
+ ihr hattet kritisiert
+ sie hatten kritisiert"," ich hatte unternommen
+ du hattest unternommen
+ er hatte unternommen
+ wir hatten unternommen
+ ihr hattet unternommen
+ sie hatten unternommen"," ich hatte aufgenommen
+ du hattest aufgenommen
+ er hatte aufgenommen
+ wir hatten aufgenommen
+ ihr hattet aufgenommen
+ sie hatten aufgenommen"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"
 conditional_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -2159,7 +4427,142 @@ conditional_active,Future," ich werde geben
  er wird wählen
  wir werden wählen
  ihr werdet wählen
- sie werden wählen"
+ sie werden wählen"," ich werde gehören
+ du wirst gehören
+ er wird gehören
+ wir werden gehören
+ ihr werdet gehören
+ sie werden gehören"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen"," ich werde handeln
+ du wirst handeln
+ er wird handeln
+ wir werden handeln
+ ihr werdet handeln
+ sie werden handeln"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"," ich werde sterben
+ du wirst sterben
+ er wird sterben
+ wir werden sterben
+ ihr werdet sterben
+ sie werden sterben"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde verleih(e)n
+ du wirst verleih(e)n
+ er wird verleih(e)n
+ wir werden verleih(e)n
+ ihr werdet verleih(e)n
+ sie werden verleih(e)n"," ich werde gewinnen
+ du wirst gewinnen
+ er wird gewinnen
+ wir werden gewinnen
+ ihr werdet gewinnen
+ sie werden gewinnen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen"," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben",," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde wohnen
+ du wirst wohnen
+ er wird wohnen
+ wir werden wohnen
+ ihr werdet wohnen
+ sie werden wohnen"," ich werde arbeiten
+ du wirst arbeiten
+ er wird arbeiten
+ wir werden arbeiten
+ ihr werdet arbeiten
+ sie werden arbeiten"," ich werde helfen
+ du wirst helfen
+ er wird helfen
+ wir werden helfen
+ ihr werdet helfen
+ sie werden helfen"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde beitreten
+ du wirst beitreten
+ er wird beitreten
+ wir werden beitreten
+ ihr werdet beitreten
+ sie werden beitreten"," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde ändern
+ du wirst ändern
+ er wird ändern
+ wir werden ändern
+ ihr werdet ändern
+ sie werden ändern"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde hochzieh(e)n
+ du wirst hochzieh(e)n
+ er wird hochzieh(e)n
+ wir werden hochzieh(e)n
+ ihr werdet hochzieh(e)n
+ sie werden hochzieh(e)n"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"," ich werde kritisieren
+ du wirst kritisieren
+ er wird kritisieren
+ wir werden kritisieren
+ ihr werdet kritisieren
+ sie werden kritisieren"," ich werde unternehmen
+ du wirst unternehmen
+ er wird unternehmen
+ wir werden unternehmen
+ ihr werdet unternehmen
+ sie werden unternehmen"," ich werde aufnehmen
+ du wirst aufnehmen
+ er wird aufnehmen
+ wir werden aufnehmen
+ ihr werdet aufnehmen
+ sie werden aufnehmen"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"
 conditional_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -2280,7 +4683,142 @@ conditional_active,FuturePerfect," ich werde gegeben haben
  er wird gewählt haben
  wir werden gewählt haben
  ihr werdet gewählt haben
- sie werden gewählt haben"
+ sie werden gewählt haben"," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben"," ich werde gehandelt haben
+ du wirst gehandelt haben
+ er wird gehandelt haben
+ wir werden gehandelt haben
+ ihr werdet gehandelt haben
+ sie werden gehandelt haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"," ich werde gestorben sein
+ du wirst gestorben sein
+ er wird gestorben sein
+ wir werden gestorben sein
+ ihr werdet gestorben sein
+ sie werden gestorben sein"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde verlieh(e)n haben
+ du wirst verlieh(e)n haben
+ er wird verlieh(e)n haben
+ wir werden verlieh(e)n haben
+ ihr werdet verlieh(e)n haben
+ sie werden verlieh(e)n haben"," ich werde gewonnen haben
+ du wirst gewonnen haben
+ er wird gewonnen haben
+ wir werden gewonnen haben
+ ihr werdet gewonnen haben
+ sie werden gewonnen haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein"," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben",," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde gewohnt haben
+ du wirst gewohnt haben
+ er wird gewohnt haben
+ wir werden gewohnt haben
+ ihr werdet gewohnt haben
+ sie werden gewohnt haben"," ich werde gearbeitet haben
+ du wirst gearbeitet haben
+ er wird gearbeitet haben
+ wir werden gearbeitet haben
+ ihr werdet gearbeitet haben
+ sie werden gearbeitet haben"," ich werde geholfen haben
+ du wirst geholfen haben
+ er wird geholfen haben
+ wir werden geholfen haben
+ ihr werdet geholfen haben
+ sie werden geholfen haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde beigetreten sein
+ du wirst beigetreten sein
+ er wird beigetreten sein
+ wir werden beigetreten sein
+ ihr werdet beigetreten sein
+ sie werden beigetreten sein"," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde geändert haben
+ du wirst geändert haben
+ er wird geändert haben
+ wir werden geändert haben
+ ihr werdet geändert haben
+ sie werden geändert haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde hochgezogen sein
+ du wirst hochgezogen sein
+ er wird hochgezogen sein
+ wir werden hochgezogen sein
+ ihr werdet hochgezogen sein
+ sie werden hochgezogen sein"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"," ich werde kritisiert haben
+ du wirst kritisiert haben
+ er wird kritisiert haben
+ wir werden kritisiert haben
+ ihr werdet kritisiert haben
+ sie werden kritisiert haben"," ich werde unternommen haben
+ du wirst unternommen haben
+ er wird unternommen haben
+ wir werden unternommen haben
+ ihr werdet unternommen haben
+ sie werden unternommen haben"," ich werde aufgenommen haben
+ du wirst aufgenommen haben
+ er wird aufgenommen haben
+ wir werden aufgenommen haben
+ ihr werdet aufgenommen haben
+ sie werden aufgenommen haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"
 conditional_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -2305,7 +4843,34 @@ conditional_active,InfinitiveI," geben
  zu treten"," verbieten
  zu verbieten"," sagen
  zu sagen"," wählen
- zu wählen"
+ zu wählen"," gehören
+ zu gehören"," bekommen
+ zu bekommen"," handeln
+ zu handeln"," erzählen
+ zu erzählen"," sterben
+ zu sterben"," kämpfen
+ zu kämpfen"," verleih(e)n
+ zu verleih(e)n"," gewinnen
+ zu gewinnen"," kommen
+ zu kommen"," leben
+ zu leben",," haben
+ zu haben"," wohnen
+ zu wohnen"," arbeiten
+ zu arbeiten"," helfen
+ zu helfen"," angreifen
+ anzugreifen"," beitreten
+ beizutreten"," haben
+ zu haben"," ändern
+ zu ändern"," angreifen
+ anzugreifen"," geben
+ zu geben"," hochzieh(e)n
+ hochzuzieh(e)n"," freu(e)n
+ zu freu(e)n"," klappen
+ zu klappen"," kritisieren
+ zu kritisieren"," unternehmen
+ zu unternehmen"," aufnehmen
+ aufzunehmen"," klappen
+ zu klappen"
 conditional_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -2330,9 +4895,36 @@ conditional_active,InfinitiveII," gegeben haben
  getreten zu sein"," verboten haben
  verboten zu haben"," gesagt haben
  gesagt zu haben"," gewählt haben
- gewählt zu haben"
-conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
-conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
+ gewählt zu haben"," gehört haben
+ gehört zu haben"," bekommen haben
+ bekommen zu haben"," gehandelt haben
+ gehandelt zu haben"," erzählt haben
+ erzählt zu haben"," gestorben sein
+ gestorben zu sein"," gekämpft haben
+ gekämpft zu haben"," verlieh(e)n haben
+ verlieh(e)n zu haben"," gewonnen haben
+ gewonnen zu haben"," gekommen sein
+ gekommen zu sein"," gelebt haben
+ gelebt zu haben",," gehabt haben
+ gehabt zu haben"," gewohnt haben
+ gewohnt zu haben"," gearbeitet haben
+ gearbeitet zu haben"," geholfen haben
+ geholfen zu haben"," angegriffen haben
+ angegriffen zu haben"," beigetreten sein
+ beigetreten zu sein"," gehabt haben
+ gehabt zu haben"," geändert haben
+ geändert zu haben"," angegriffen haben
+ angegriffen zu haben"," gegeben haben
+ gegeben zu haben"," hochgezogen sein
+ hochgezogen zu sein"," gefreut haben
+ gefreut zu haben"," geklappt haben
+ geklappt zu haben"," kritisiert haben
+ kritisiert zu haben"," unternommen haben
+ unternommen zu haben"," aufgenommen haben
+ aufgenommen zu haben"," geklappt haben
+ geklappt zu haben"
+conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, kommend, lebend,, habend, wohnend, arbeitend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, klappend
+conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, gekommen, gelebt,, gehabt, gewohnt, gearbeitet, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, geklappt
 imperative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -2453,7 +5045,142 @@ imperative_active,Present," ich geb(e)
  er wählt
  wir wählen
  ihr wählt
- sie wählen"
+ sie wählen"," ich gehör(e)
+ du gehörst
+ er gehört
+ wir gehören
+ ihr gehört
+ sie gehören"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen"," ich hand(e)l(e)
+ du handelst
+ er handelt
+ wir handeln
+ ihr handelt
+ sie handeln"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"," ich sterb(e)
+ du stirbst
+ er stirbt
+ wir sterben
+ ihr sterbt
+ sie sterben"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich verleih(e)
+ du verleihst
+ er verleiht
+ wir verleih(e)n
+ ihr verleiht
+ sie verleih(e)n"," ich gewinn(e)
+ du gewinnst
+ er gewinnt
+ wir gewinnen
+ ihr gewinnt
+ sie gewinnen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen"," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben",," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich wohn(e)
+ du wohnst
+ er wohnt
+ wir wohnen
+ ihr wohnt
+ sie wohnen"," ich arbeit(e)
+ du arbeitest
+ er arbeitet
+ wir arbeiten
+ ihr arbeitet
+ sie arbeiten"," ich helf(e)
+ du hilfst
+ er hilft
+ wir helfen
+ ihr helft
+ sie helfen"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich tret(e) bei
+ du trittst bei
+ er tritt bei
+ wir treten bei
+ ihr tretet bei
+ sie treten bei"," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich änd(e)r(e)
+ du änderst
+ er ändert
+ wir ändern
+ ihr ändert
+ sie ändern"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich zieh(e) hoch
+ du ziehst hoch
+ er zieht hoch
+ wir zieh(e)n hoch
+ ihr zieht hoch
+ sie zieh(e)n hoch"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"," ich kritisier(e)
+ du kritisierst
+ er kritisiert
+ wir kritisieren
+ ihr kritisiert
+ sie kritisieren"," ich unternehm(e)
+ du unternimmst
+ er unternimmt
+ wir unternehmen
+ ihr unternehmt
+ sie unternehmen"," ich nehm(e) auf
+ du nimmst auf
+ er nimmt auf
+ wir nehmen auf
+ ihr nehmt auf
+ sie nehmen auf"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"
 imperative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -2574,7 +5301,142 @@ imperative_active,Imperfect," ich gab
  er wählte
  wir wählten
  ihr wähltet
- sie wählten"
+ sie wählten"," ich gehörte
+ du gehörtest
+ er gehörte
+ wir gehörten
+ ihr gehörtet
+ sie gehörten"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen"," ich handelte
+ du handeltest
+ er handelte
+ wir handelten
+ ihr handeltet
+ sie handelten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"," ich starb
+ du starbst
+ er starb
+ wir starben
+ ihr starbt
+ sie starben"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich verlieh
+ du verliehst
+ er verlieh
+ wir verlieh(e)n
+ ihr verlieht
+ sie verlieh(e)n"," ich gewann
+ du gewannst
+ er gewann
+ wir gewannen
+ ihr gewannt
+ sie gewannen"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen"," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten",," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich wohnte
+ du wohntest
+ er wohnte
+ wir wohnten
+ ihr wohntet
+ sie wohnten"," ich arbeitete
+ du arbeitetest
+ er arbeitete
+ wir arbeiteten
+ ihr arbeitetet
+ sie arbeiteten"," ich half
+ du halfst
+ er half
+ wir halfen
+ ihr halft
+ sie halfen"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich trat bei
+ du trat(e)st bei
+ er trat bei
+ wir traten bei
+ ihr tratet bei
+ sie traten bei"," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich änderte
+ du ändertest
+ er änderte
+ wir änderten
+ ihr ändertet
+ sie änderten"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich zog hoch
+ du zogst hoch
+ er zog hoch
+ wir zogen hoch
+ ihr zogt hoch
+ sie zogen hoch"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"," ich kritisierte
+ du kritisiertest
+ er kritisierte
+ wir kritisierten
+ ihr kritisiertet
+ sie kritisierten"," ich unternahm
+ du unternahmst
+ er unternahm
+ wir unternahmen
+ ihr unternahmt
+ sie unternahmen"," ich nahm auf
+ du nahmst auf
+ er nahm auf
+ wir nahmen auf
+ ihr nahmt auf
+ sie nahmen auf"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"
 imperative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -2695,7 +5557,142 @@ imperative_active,Perfect," ich habe gegeben
  er hat gewählt
  wir haben gewählt
  ihr habt gewählt
- sie haben gewählt"
+ sie haben gewählt"," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen"," ich habe gehandelt
+ du hast gehandelt
+ er hat gehandelt
+ wir haben gehandelt
+ ihr habt gehandelt
+ sie haben gehandelt"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"," ich bin gestorben
+ du bist gestorben
+ er ist gestorben
+ wir sind gestorben
+ ihr seid gestorben
+ sie sind gestorben"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe verlieh(e)n
+ du hast verlieh(e)n
+ er hat verlieh(e)n
+ wir haben verlieh(e)n
+ ihr habt verlieh(e)n
+ sie haben verlieh(e)n"," ich habe gewonnen
+ du hast gewonnen
+ er hat gewonnen
+ wir haben gewonnen
+ ihr habt gewonnen
+ sie haben gewonnen"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen"," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt",," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe gewohnt
+ du hast gewohnt
+ er hat gewohnt
+ wir haben gewohnt
+ ihr habt gewohnt
+ sie haben gewohnt"," ich habe gearbeitet
+ du hast gearbeitet
+ er hat gearbeitet
+ wir haben gearbeitet
+ ihr habt gearbeitet
+ sie haben gearbeitet"," ich habe geholfen
+ du hast geholfen
+ er hat geholfen
+ wir haben geholfen
+ ihr habt geholfen
+ sie haben geholfen"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich bin beigetreten
+ du bist beigetreten
+ er ist beigetreten
+ wir sind beigetreten
+ ihr seid beigetreten
+ sie sind beigetreten"," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe geändert
+ du hast geändert
+ er hat geändert
+ wir haben geändert
+ ihr habt geändert
+ sie haben geändert"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin hochgezogen
+ du bist hochgezogen
+ er ist hochgezogen
+ wir sind hochgezogen
+ ihr seid hochgezogen
+ sie sind hochgezogen"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"," ich habe kritisiert
+ du hast kritisiert
+ er hat kritisiert
+ wir haben kritisiert
+ ihr habt kritisiert
+ sie haben kritisiert"," ich habe unternommen
+ du hast unternommen
+ er hat unternommen
+ wir haben unternommen
+ ihr habt unternommen
+ sie haben unternommen"," ich habe aufgenommen
+ du hast aufgenommen
+ er hat aufgenommen
+ wir haben aufgenommen
+ ihr habt aufgenommen
+ sie haben aufgenommen"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"
 imperative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -2816,7 +5813,142 @@ imperative_active,Pluperfect," ich hatte gegeben
  er hatte gewählt
  wir hatten gewählt
  ihr hattet gewählt
- sie hatten gewählt"
+ sie hatten gewählt"," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen"," ich hatte gehandelt
+ du hattest gehandelt
+ er hatte gehandelt
+ wir hatten gehandelt
+ ihr hattet gehandelt
+ sie hatten gehandelt"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"," ich war gestorben
+ du warst gestorben
+ er war gestorben
+ wir waren gestorben
+ ihr wart gestorben
+ sie waren gestorben"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte verlieh(e)n
+ du hattest verlieh(e)n
+ er hatte verlieh(e)n
+ wir hatten verlieh(e)n
+ ihr hattet verlieh(e)n
+ sie hatten verlieh(e)n"," ich hatte gewonnen
+ du hattest gewonnen
+ er hatte gewonnen
+ wir hatten gewonnen
+ ihr hattet gewonnen
+ sie hatten gewonnen"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen"," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt",," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte gewohnt
+ du hattest gewohnt
+ er hatte gewohnt
+ wir hatten gewohnt
+ ihr hattet gewohnt
+ sie hatten gewohnt"," ich hatte gearbeitet
+ du hattest gearbeitet
+ er hatte gearbeitet
+ wir hatten gearbeitet
+ ihr hattet gearbeitet
+ sie hatten gearbeitet"," ich hatte geholfen
+ du hattest geholfen
+ er hatte geholfen
+ wir hatten geholfen
+ ihr hattet geholfen
+ sie hatten geholfen"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich war beigetreten
+ du warst beigetreten
+ er war beigetreten
+ wir waren beigetreten
+ ihr wart beigetreten
+ sie waren beigetreten"," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte geändert
+ du hattest geändert
+ er hatte geändert
+ wir hatten geändert
+ ihr hattet geändert
+ sie hatten geändert"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war hochgezogen
+ du warst hochgezogen
+ er war hochgezogen
+ wir waren hochgezogen
+ ihr wart hochgezogen
+ sie waren hochgezogen"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"," ich hatte kritisiert
+ du hattest kritisiert
+ er hatte kritisiert
+ wir hatten kritisiert
+ ihr hattet kritisiert
+ sie hatten kritisiert"," ich hatte unternommen
+ du hattest unternommen
+ er hatte unternommen
+ wir hatten unternommen
+ ihr hattet unternommen
+ sie hatten unternommen"," ich hatte aufgenommen
+ du hattest aufgenommen
+ er hatte aufgenommen
+ wir hatten aufgenommen
+ ihr hattet aufgenommen
+ sie hatten aufgenommen"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"
 imperative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -2937,7 +6069,142 @@ imperative_active,Future," ich werde geben
  er wird wählen
  wir werden wählen
  ihr werdet wählen
- sie werden wählen"
+ sie werden wählen"," ich werde gehören
+ du wirst gehören
+ er wird gehören
+ wir werden gehören
+ ihr werdet gehören
+ sie werden gehören"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen"," ich werde handeln
+ du wirst handeln
+ er wird handeln
+ wir werden handeln
+ ihr werdet handeln
+ sie werden handeln"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"," ich werde sterben
+ du wirst sterben
+ er wird sterben
+ wir werden sterben
+ ihr werdet sterben
+ sie werden sterben"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde verleih(e)n
+ du wirst verleih(e)n
+ er wird verleih(e)n
+ wir werden verleih(e)n
+ ihr werdet verleih(e)n
+ sie werden verleih(e)n"," ich werde gewinnen
+ du wirst gewinnen
+ er wird gewinnen
+ wir werden gewinnen
+ ihr werdet gewinnen
+ sie werden gewinnen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen"," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben",," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde wohnen
+ du wirst wohnen
+ er wird wohnen
+ wir werden wohnen
+ ihr werdet wohnen
+ sie werden wohnen"," ich werde arbeiten
+ du wirst arbeiten
+ er wird arbeiten
+ wir werden arbeiten
+ ihr werdet arbeiten
+ sie werden arbeiten"," ich werde helfen
+ du wirst helfen
+ er wird helfen
+ wir werden helfen
+ ihr werdet helfen
+ sie werden helfen"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde beitreten
+ du wirst beitreten
+ er wird beitreten
+ wir werden beitreten
+ ihr werdet beitreten
+ sie werden beitreten"," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde ändern
+ du wirst ändern
+ er wird ändern
+ wir werden ändern
+ ihr werdet ändern
+ sie werden ändern"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde hochzieh(e)n
+ du wirst hochzieh(e)n
+ er wird hochzieh(e)n
+ wir werden hochzieh(e)n
+ ihr werdet hochzieh(e)n
+ sie werden hochzieh(e)n"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"," ich werde kritisieren
+ du wirst kritisieren
+ er wird kritisieren
+ wir werden kritisieren
+ ihr werdet kritisieren
+ sie werden kritisieren"," ich werde unternehmen
+ du wirst unternehmen
+ er wird unternehmen
+ wir werden unternehmen
+ ihr werdet unternehmen
+ sie werden unternehmen"," ich werde aufnehmen
+ du wirst aufnehmen
+ er wird aufnehmen
+ wir werden aufnehmen
+ ihr werdet aufnehmen
+ sie werden aufnehmen"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"
 imperative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -3058,7 +6325,142 @@ imperative_active,FuturePerfect," ich werde gegeben haben
  er wird gewählt haben
  wir werden gewählt haben
  ihr werdet gewählt haben
- sie werden gewählt haben"
+ sie werden gewählt haben"," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben"," ich werde gehandelt haben
+ du wirst gehandelt haben
+ er wird gehandelt haben
+ wir werden gehandelt haben
+ ihr werdet gehandelt haben
+ sie werden gehandelt haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"," ich werde gestorben sein
+ du wirst gestorben sein
+ er wird gestorben sein
+ wir werden gestorben sein
+ ihr werdet gestorben sein
+ sie werden gestorben sein"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde verlieh(e)n haben
+ du wirst verlieh(e)n haben
+ er wird verlieh(e)n haben
+ wir werden verlieh(e)n haben
+ ihr werdet verlieh(e)n haben
+ sie werden verlieh(e)n haben"," ich werde gewonnen haben
+ du wirst gewonnen haben
+ er wird gewonnen haben
+ wir werden gewonnen haben
+ ihr werdet gewonnen haben
+ sie werden gewonnen haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein"," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben",," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde gewohnt haben
+ du wirst gewohnt haben
+ er wird gewohnt haben
+ wir werden gewohnt haben
+ ihr werdet gewohnt haben
+ sie werden gewohnt haben"," ich werde gearbeitet haben
+ du wirst gearbeitet haben
+ er wird gearbeitet haben
+ wir werden gearbeitet haben
+ ihr werdet gearbeitet haben
+ sie werden gearbeitet haben"," ich werde geholfen haben
+ du wirst geholfen haben
+ er wird geholfen haben
+ wir werden geholfen haben
+ ihr werdet geholfen haben
+ sie werden geholfen haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde beigetreten sein
+ du wirst beigetreten sein
+ er wird beigetreten sein
+ wir werden beigetreten sein
+ ihr werdet beigetreten sein
+ sie werden beigetreten sein"," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde geändert haben
+ du wirst geändert haben
+ er wird geändert haben
+ wir werden geändert haben
+ ihr werdet geändert haben
+ sie werden geändert haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde hochgezogen sein
+ du wirst hochgezogen sein
+ er wird hochgezogen sein
+ wir werden hochgezogen sein
+ ihr werdet hochgezogen sein
+ sie werden hochgezogen sein"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"," ich werde kritisiert haben
+ du wirst kritisiert haben
+ er wird kritisiert haben
+ wir werden kritisiert haben
+ ihr werdet kritisiert haben
+ sie werden kritisiert haben"," ich werde unternommen haben
+ du wirst unternommen haben
+ er wird unternommen haben
+ wir werden unternommen haben
+ ihr werdet unternommen haben
+ sie werden unternommen haben"," ich werde aufgenommen haben
+ du wirst aufgenommen haben
+ er wird aufgenommen haben
+ wir werden aufgenommen haben
+ ihr werdet aufgenommen haben
+ sie werden aufgenommen haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"
 imperative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -3083,7 +6485,34 @@ imperative_active,InfinitiveI," geben
  zu treten"," verbieten
  zu verbieten"," sagen
  zu sagen"," wählen
- zu wählen"
+ zu wählen"," gehören
+ zu gehören"," bekommen
+ zu bekommen"," handeln
+ zu handeln"," erzählen
+ zu erzählen"," sterben
+ zu sterben"," kämpfen
+ zu kämpfen"," verleih(e)n
+ zu verleih(e)n"," gewinnen
+ zu gewinnen"," kommen
+ zu kommen"," leben
+ zu leben",," haben
+ zu haben"," wohnen
+ zu wohnen"," arbeiten
+ zu arbeiten"," helfen
+ zu helfen"," angreifen
+ anzugreifen"," beitreten
+ beizutreten"," haben
+ zu haben"," ändern
+ zu ändern"," angreifen
+ anzugreifen"," geben
+ zu geben"," hochzieh(e)n
+ hochzuzieh(e)n"," freu(e)n
+ zu freu(e)n"," klappen
+ zu klappen"," kritisieren
+ zu kritisieren"," unternehmen
+ zu unternehmen"," aufnehmen
+ aufzunehmen"," klappen
+ zu klappen"
 imperative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -3108,9 +6537,36 @@ imperative_active,InfinitiveII," gegeben haben
  getreten zu sein"," verboten haben
  verboten zu haben"," gesagt haben
  gesagt zu haben"," gewählt haben
- gewählt zu haben"
-imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
-imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
+ gewählt zu haben"," gehört haben
+ gehört zu haben"," bekommen haben
+ bekommen zu haben"," gehandelt haben
+ gehandelt zu haben"," erzählt haben
+ erzählt zu haben"," gestorben sein
+ gestorben zu sein"," gekämpft haben
+ gekämpft zu haben"," verlieh(e)n haben
+ verlieh(e)n zu haben"," gewonnen haben
+ gewonnen zu haben"," gekommen sein
+ gekommen zu sein"," gelebt haben
+ gelebt zu haben",," gehabt haben
+ gehabt zu haben"," gewohnt haben
+ gewohnt zu haben"," gearbeitet haben
+ gearbeitet zu haben"," geholfen haben
+ geholfen zu haben"," angegriffen haben
+ angegriffen zu haben"," beigetreten sein
+ beigetreten zu sein"," gehabt haben
+ gehabt zu haben"," geändert haben
+ geändert zu haben"," angegriffen haben
+ angegriffen zu haben"," gegeben haben
+ gegeben zu haben"," hochgezogen sein
+ hochgezogen zu sein"," gefreut haben
+ gefreut zu haben"," geklappt haben
+ geklappt zu haben"," kritisiert haben
+ kritisiert zu haben"," unternommen haben
+ unternommen zu haben"," aufgenommen haben
+ aufgenommen zu haben"," geklappt haben
+ geklappt zu haben"
+imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, kommend, lebend,, habend, wohnend, arbeitend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, klappend
+imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, gekommen, gelebt,, gehabt, gewohnt, gearbeitet, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, geklappt
 infinitive_participle_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -3231,7 +6687,142 @@ infinitive_participle_active,Present," ich geb(e)
  er wählt
  wir wählen
  ihr wählt
- sie wählen"
+ sie wählen"," ich gehör(e)
+ du gehörst
+ er gehört
+ wir gehören
+ ihr gehört
+ sie gehören"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen"," ich hand(e)l(e)
+ du handelst
+ er handelt
+ wir handeln
+ ihr handelt
+ sie handeln"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"," ich sterb(e)
+ du stirbst
+ er stirbt
+ wir sterben
+ ihr sterbt
+ sie sterben"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich verleih(e)
+ du verleihst
+ er verleiht
+ wir verleih(e)n
+ ihr verleiht
+ sie verleih(e)n"," ich gewinn(e)
+ du gewinnst
+ er gewinnt
+ wir gewinnen
+ ihr gewinnt
+ sie gewinnen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen"," ich leb(e)
+ du lebst
+ er lebt
+ wir leben
+ ihr lebt
+ sie leben",," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich wohn(e)
+ du wohnst
+ er wohnt
+ wir wohnen
+ ihr wohnt
+ sie wohnen"," ich arbeit(e)
+ du arbeitest
+ er arbeitet
+ wir arbeiten
+ ihr arbeitet
+ sie arbeiten"," ich helf(e)
+ du hilfst
+ er hilft
+ wir helfen
+ ihr helft
+ sie helfen"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich tret(e) bei
+ du trittst bei
+ er tritt bei
+ wir treten bei
+ ihr tretet bei
+ sie treten bei"," ich hab(e)
+ du hast
+ er hat
+ wir haben
+ ihr habt
+ sie haben"," ich änd(e)r(e)
+ du änderst
+ er ändert
+ wir ändern
+ ihr ändert
+ sie ändern"," ich greif(e) an
+ du greifst an
+ er greift an
+ wir greifen an
+ ihr greift an
+ sie greifen an"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich zieh(e) hoch
+ du ziehst hoch
+ er zieht hoch
+ wir zieh(e)n hoch
+ ihr zieht hoch
+ sie zieh(e)n hoch"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"," ich kritisier(e)
+ du kritisierst
+ er kritisiert
+ wir kritisieren
+ ihr kritisiert
+ sie kritisieren"," ich unternehm(e)
+ du unternimmst
+ er unternimmt
+ wir unternehmen
+ ihr unternehmt
+ sie unternehmen"," ich nehm(e) auf
+ du nimmst auf
+ er nimmt auf
+ wir nehmen auf
+ ihr nehmt auf
+ sie nehmen auf"," ich klapp(e)
+ du klappst
+ er klappt
+ wir klappen
+ ihr klappt
+ sie klappen"
 infinitive_participle_active,Imperfect," ich gab
  du gabst
  er gab
@@ -3352,7 +6943,142 @@ infinitive_participle_active,Imperfect," ich gab
  er wählte
  wir wählten
  ihr wähltet
- sie wählten"
+ sie wählten"," ich gehörte
+ du gehörtest
+ er gehörte
+ wir gehörten
+ ihr gehörtet
+ sie gehörten"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen"," ich handelte
+ du handeltest
+ er handelte
+ wir handelten
+ ihr handeltet
+ sie handelten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"," ich starb
+ du starbst
+ er starb
+ wir starben
+ ihr starbt
+ sie starben"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich verlieh
+ du verliehst
+ er verlieh
+ wir verlieh(e)n
+ ihr verlieht
+ sie verlieh(e)n"," ich gewann
+ du gewannst
+ er gewann
+ wir gewannen
+ ihr gewannt
+ sie gewannen"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen"," ich lebte
+ du lebtest
+ er lebte
+ wir lebten
+ ihr lebtet
+ sie lebten",," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich wohnte
+ du wohntest
+ er wohnte
+ wir wohnten
+ ihr wohntet
+ sie wohnten"," ich arbeitete
+ du arbeitetest
+ er arbeitete
+ wir arbeiteten
+ ihr arbeitetet
+ sie arbeiteten"," ich half
+ du halfst
+ er half
+ wir halfen
+ ihr halft
+ sie halfen"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich trat bei
+ du trat(e)st bei
+ er trat bei
+ wir traten bei
+ ihr tratet bei
+ sie traten bei"," ich hatte
+ du hattest
+ er hatte
+ wir hatten
+ ihr hattet
+ sie hatten"," ich änderte
+ du ändertest
+ er änderte
+ wir änderten
+ ihr ändertet
+ sie änderten"," ich griff an
+ du griffst an
+ er griff an
+ wir griffen an
+ ihr grifft an
+ sie griffen an"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich zog hoch
+ du zogst hoch
+ er zog hoch
+ wir zogen hoch
+ ihr zogt hoch
+ sie zogen hoch"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"," ich kritisierte
+ du kritisiertest
+ er kritisierte
+ wir kritisierten
+ ihr kritisiertet
+ sie kritisierten"," ich unternahm
+ du unternahmst
+ er unternahm
+ wir unternahmen
+ ihr unternahmt
+ sie unternahmen"," ich nahm auf
+ du nahmst auf
+ er nahm auf
+ wir nahmen auf
+ ihr nahmt auf
+ sie nahmen auf"," ich klappte
+ du klapptest
+ er klappte
+ wir klappten
+ ihr klapptet
+ sie klappten"
 infinitive_participle_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -3473,7 +7199,142 @@ infinitive_participle_active,Perfect," ich habe gegeben
  er hat gewählt
  wir haben gewählt
  ihr habt gewählt
- sie haben gewählt"
+ sie haben gewählt"," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen"," ich habe gehandelt
+ du hast gehandelt
+ er hat gehandelt
+ wir haben gehandelt
+ ihr habt gehandelt
+ sie haben gehandelt"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"," ich bin gestorben
+ du bist gestorben
+ er ist gestorben
+ wir sind gestorben
+ ihr seid gestorben
+ sie sind gestorben"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe verlieh(e)n
+ du hast verlieh(e)n
+ er hat verlieh(e)n
+ wir haben verlieh(e)n
+ ihr habt verlieh(e)n
+ sie haben verlieh(e)n"," ich habe gewonnen
+ du hast gewonnen
+ er hat gewonnen
+ wir haben gewonnen
+ ihr habt gewonnen
+ sie haben gewonnen"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen"," ich habe gelebt
+ du hast gelebt
+ er hat gelebt
+ wir haben gelebt
+ ihr habt gelebt
+ sie haben gelebt",," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe gewohnt
+ du hast gewohnt
+ er hat gewohnt
+ wir haben gewohnt
+ ihr habt gewohnt
+ sie haben gewohnt"," ich habe gearbeitet
+ du hast gearbeitet
+ er hat gearbeitet
+ wir haben gearbeitet
+ ihr habt gearbeitet
+ sie haben gearbeitet"," ich habe geholfen
+ du hast geholfen
+ er hat geholfen
+ wir haben geholfen
+ ihr habt geholfen
+ sie haben geholfen"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich bin beigetreten
+ du bist beigetreten
+ er ist beigetreten
+ wir sind beigetreten
+ ihr seid beigetreten
+ sie sind beigetreten"," ich habe gehabt
+ du hast gehabt
+ er hat gehabt
+ wir haben gehabt
+ ihr habt gehabt
+ sie haben gehabt"," ich habe geändert
+ du hast geändert
+ er hat geändert
+ wir haben geändert
+ ihr habt geändert
+ sie haben geändert"," ich habe angegriffen
+ du hast angegriffen
+ er hat angegriffen
+ wir haben angegriffen
+ ihr habt angegriffen
+ sie haben angegriffen"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich bin hochgezogen
+ du bist hochgezogen
+ er ist hochgezogen
+ wir sind hochgezogen
+ ihr seid hochgezogen
+ sie sind hochgezogen"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"," ich habe kritisiert
+ du hast kritisiert
+ er hat kritisiert
+ wir haben kritisiert
+ ihr habt kritisiert
+ sie haben kritisiert"," ich habe unternommen
+ du hast unternommen
+ er hat unternommen
+ wir haben unternommen
+ ihr habt unternommen
+ sie haben unternommen"," ich habe aufgenommen
+ du hast aufgenommen
+ er hat aufgenommen
+ wir haben aufgenommen
+ ihr habt aufgenommen
+ sie haben aufgenommen"," ich habe geklappt
+ du hast geklappt
+ er hat geklappt
+ wir haben geklappt
+ ihr habt geklappt
+ sie haben geklappt"
 infinitive_participle_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -3594,7 +7455,142 @@ infinitive_participle_active,Pluperfect," ich hatte gegeben
  er hatte gewählt
  wir hatten gewählt
  ihr hattet gewählt
- sie hatten gewählt"
+ sie hatten gewählt"," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen"," ich hatte gehandelt
+ du hattest gehandelt
+ er hatte gehandelt
+ wir hatten gehandelt
+ ihr hattet gehandelt
+ sie hatten gehandelt"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"," ich war gestorben
+ du warst gestorben
+ er war gestorben
+ wir waren gestorben
+ ihr wart gestorben
+ sie waren gestorben"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte verlieh(e)n
+ du hattest verlieh(e)n
+ er hatte verlieh(e)n
+ wir hatten verlieh(e)n
+ ihr hattet verlieh(e)n
+ sie hatten verlieh(e)n"," ich hatte gewonnen
+ du hattest gewonnen
+ er hatte gewonnen
+ wir hatten gewonnen
+ ihr hattet gewonnen
+ sie hatten gewonnen"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen"," ich hatte gelebt
+ du hattest gelebt
+ er hatte gelebt
+ wir hatten gelebt
+ ihr hattet gelebt
+ sie hatten gelebt",," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte gewohnt
+ du hattest gewohnt
+ er hatte gewohnt
+ wir hatten gewohnt
+ ihr hattet gewohnt
+ sie hatten gewohnt"," ich hatte gearbeitet
+ du hattest gearbeitet
+ er hatte gearbeitet
+ wir hatten gearbeitet
+ ihr hattet gearbeitet
+ sie hatten gearbeitet"," ich hatte geholfen
+ du hattest geholfen
+ er hatte geholfen
+ wir hatten geholfen
+ ihr hattet geholfen
+ sie hatten geholfen"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich war beigetreten
+ du warst beigetreten
+ er war beigetreten
+ wir waren beigetreten
+ ihr wart beigetreten
+ sie waren beigetreten"," ich hatte gehabt
+ du hattest gehabt
+ er hatte gehabt
+ wir hatten gehabt
+ ihr hattet gehabt
+ sie hatten gehabt"," ich hatte geändert
+ du hattest geändert
+ er hatte geändert
+ wir hatten geändert
+ ihr hattet geändert
+ sie hatten geändert"," ich hatte angegriffen
+ du hattest angegriffen
+ er hatte angegriffen
+ wir hatten angegriffen
+ ihr hattet angegriffen
+ sie hatten angegriffen"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich war hochgezogen
+ du warst hochgezogen
+ er war hochgezogen
+ wir waren hochgezogen
+ ihr wart hochgezogen
+ sie waren hochgezogen"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"," ich hatte kritisiert
+ du hattest kritisiert
+ er hatte kritisiert
+ wir hatten kritisiert
+ ihr hattet kritisiert
+ sie hatten kritisiert"," ich hatte unternommen
+ du hattest unternommen
+ er hatte unternommen
+ wir hatten unternommen
+ ihr hattet unternommen
+ sie hatten unternommen"," ich hatte aufgenommen
+ du hattest aufgenommen
+ er hatte aufgenommen
+ wir hatten aufgenommen
+ ihr hattet aufgenommen
+ sie hatten aufgenommen"," ich hatte geklappt
+ du hattest geklappt
+ er hatte geklappt
+ wir hatten geklappt
+ ihr hattet geklappt
+ sie hatten geklappt"
 infinitive_participle_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -3715,7 +7711,142 @@ infinitive_participle_active,Future," ich werde geben
  er wird wählen
  wir werden wählen
  ihr werdet wählen
- sie werden wählen"
+ sie werden wählen"," ich werde gehören
+ du wirst gehören
+ er wird gehören
+ wir werden gehören
+ ihr werdet gehören
+ sie werden gehören"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen"," ich werde handeln
+ du wirst handeln
+ er wird handeln
+ wir werden handeln
+ ihr werdet handeln
+ sie werden handeln"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"," ich werde sterben
+ du wirst sterben
+ er wird sterben
+ wir werden sterben
+ ihr werdet sterben
+ sie werden sterben"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde verleih(e)n
+ du wirst verleih(e)n
+ er wird verleih(e)n
+ wir werden verleih(e)n
+ ihr werdet verleih(e)n
+ sie werden verleih(e)n"," ich werde gewinnen
+ du wirst gewinnen
+ er wird gewinnen
+ wir werden gewinnen
+ ihr werdet gewinnen
+ sie werden gewinnen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen"," ich werde leben
+ du wirst leben
+ er wird leben
+ wir werden leben
+ ihr werdet leben
+ sie werden leben",," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde wohnen
+ du wirst wohnen
+ er wird wohnen
+ wir werden wohnen
+ ihr werdet wohnen
+ sie werden wohnen"," ich werde arbeiten
+ du wirst arbeiten
+ er wird arbeiten
+ wir werden arbeiten
+ ihr werdet arbeiten
+ sie werden arbeiten"," ich werde helfen
+ du wirst helfen
+ er wird helfen
+ wir werden helfen
+ ihr werdet helfen
+ sie werden helfen"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde beitreten
+ du wirst beitreten
+ er wird beitreten
+ wir werden beitreten
+ ihr werdet beitreten
+ sie werden beitreten"," ich werde haben
+ du wirst haben
+ er wird haben
+ wir werden haben
+ ihr werdet haben
+ sie werden haben"," ich werde ändern
+ du wirst ändern
+ er wird ändern
+ wir werden ändern
+ ihr werdet ändern
+ sie werden ändern"," ich werde angreifen
+ du wirst angreifen
+ er wird angreifen
+ wir werden angreifen
+ ihr werdet angreifen
+ sie werden angreifen"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde hochzieh(e)n
+ du wirst hochzieh(e)n
+ er wird hochzieh(e)n
+ wir werden hochzieh(e)n
+ ihr werdet hochzieh(e)n
+ sie werden hochzieh(e)n"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"," ich werde kritisieren
+ du wirst kritisieren
+ er wird kritisieren
+ wir werden kritisieren
+ ihr werdet kritisieren
+ sie werden kritisieren"," ich werde unternehmen
+ du wirst unternehmen
+ er wird unternehmen
+ wir werden unternehmen
+ ihr werdet unternehmen
+ sie werden unternehmen"," ich werde aufnehmen
+ du wirst aufnehmen
+ er wird aufnehmen
+ wir werden aufnehmen
+ ihr werdet aufnehmen
+ sie werden aufnehmen"," ich werde klappen
+ du wirst klappen
+ er wird klappen
+ wir werden klappen
+ ihr werdet klappen
+ sie werden klappen"
 infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -3836,7 +7967,142 @@ infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  er wird gewählt haben
  wir werden gewählt haben
  ihr werdet gewählt haben
- sie werden gewählt haben"
+ sie werden gewählt haben"," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben"," ich werde gehandelt haben
+ du wirst gehandelt haben
+ er wird gehandelt haben
+ wir werden gehandelt haben
+ ihr werdet gehandelt haben
+ sie werden gehandelt haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"," ich werde gestorben sein
+ du wirst gestorben sein
+ er wird gestorben sein
+ wir werden gestorben sein
+ ihr werdet gestorben sein
+ sie werden gestorben sein"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde verlieh(e)n haben
+ du wirst verlieh(e)n haben
+ er wird verlieh(e)n haben
+ wir werden verlieh(e)n haben
+ ihr werdet verlieh(e)n haben
+ sie werden verlieh(e)n haben"," ich werde gewonnen haben
+ du wirst gewonnen haben
+ er wird gewonnen haben
+ wir werden gewonnen haben
+ ihr werdet gewonnen haben
+ sie werden gewonnen haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein"," ich werde gelebt haben
+ du wirst gelebt haben
+ er wird gelebt haben
+ wir werden gelebt haben
+ ihr werdet gelebt haben
+ sie werden gelebt haben",," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde gewohnt haben
+ du wirst gewohnt haben
+ er wird gewohnt haben
+ wir werden gewohnt haben
+ ihr werdet gewohnt haben
+ sie werden gewohnt haben"," ich werde gearbeitet haben
+ du wirst gearbeitet haben
+ er wird gearbeitet haben
+ wir werden gearbeitet haben
+ ihr werdet gearbeitet haben
+ sie werden gearbeitet haben"," ich werde geholfen haben
+ du wirst geholfen haben
+ er wird geholfen haben
+ wir werden geholfen haben
+ ihr werdet geholfen haben
+ sie werden geholfen haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde beigetreten sein
+ du wirst beigetreten sein
+ er wird beigetreten sein
+ wir werden beigetreten sein
+ ihr werdet beigetreten sein
+ sie werden beigetreten sein"," ich werde gehabt haben
+ du wirst gehabt haben
+ er wird gehabt haben
+ wir werden gehabt haben
+ ihr werdet gehabt haben
+ sie werden gehabt haben"," ich werde geändert haben
+ du wirst geändert haben
+ er wird geändert haben
+ wir werden geändert haben
+ ihr werdet geändert haben
+ sie werden geändert haben"," ich werde angegriffen haben
+ du wirst angegriffen haben
+ er wird angegriffen haben
+ wir werden angegriffen haben
+ ihr werdet angegriffen haben
+ sie werden angegriffen haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde hochgezogen sein
+ du wirst hochgezogen sein
+ er wird hochgezogen sein
+ wir werden hochgezogen sein
+ ihr werdet hochgezogen sein
+ sie werden hochgezogen sein"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"," ich werde kritisiert haben
+ du wirst kritisiert haben
+ er wird kritisiert haben
+ wir werden kritisiert haben
+ ihr werdet kritisiert haben
+ sie werden kritisiert haben"," ich werde unternommen haben
+ du wirst unternommen haben
+ er wird unternommen haben
+ wir werden unternommen haben
+ ihr werdet unternommen haben
+ sie werden unternommen haben"," ich werde aufgenommen haben
+ du wirst aufgenommen haben
+ er wird aufgenommen haben
+ wir werden aufgenommen haben
+ ihr werdet aufgenommen haben
+ sie werden aufgenommen haben"," ich werde geklappt haben
+ du wirst geklappt haben
+ er wird geklappt haben
+ wir werden geklappt haben
+ ihr werdet geklappt haben
+ sie werden geklappt haben"
 infinitive_participle_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -3861,7 +8127,34 @@ infinitive_participle_active,InfinitiveI," geben
  zu treten"," verbieten
  zu verbieten"," sagen
  zu sagen"," wählen
- zu wählen"
+ zu wählen"," gehören
+ zu gehören"," bekommen
+ zu bekommen"," handeln
+ zu handeln"," erzählen
+ zu erzählen"," sterben
+ zu sterben"," kämpfen
+ zu kämpfen"," verleih(e)n
+ zu verleih(e)n"," gewinnen
+ zu gewinnen"," kommen
+ zu kommen"," leben
+ zu leben",," haben
+ zu haben"," wohnen
+ zu wohnen"," arbeiten
+ zu arbeiten"," helfen
+ zu helfen"," angreifen
+ anzugreifen"," beitreten
+ beizutreten"," haben
+ zu haben"," ändern
+ zu ändern"," angreifen
+ anzugreifen"," geben
+ zu geben"," hochzieh(e)n
+ hochzuzieh(e)n"," freu(e)n
+ zu freu(e)n"," klappen
+ zu klappen"," kritisieren
+ zu kritisieren"," unternehmen
+ zu unternehmen"," aufnehmen
+ aufzunehmen"," klappen
+ zu klappen"
 infinitive_participle_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -3886,6 +8179,33 @@ infinitive_participle_active,InfinitiveII," gegeben haben
  getreten zu sein"," verboten haben
  verboten zu haben"," gesagt haben
  gesagt zu haben"," gewählt haben
- gewählt zu haben"
-infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
-infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
+ gewählt zu haben"," gehört haben
+ gehört zu haben"," bekommen haben
+ bekommen zu haben"," gehandelt haben
+ gehandelt zu haben"," erzählt haben
+ erzählt zu haben"," gestorben sein
+ gestorben zu sein"," gekämpft haben
+ gekämpft zu haben"," verlieh(e)n haben
+ verlieh(e)n zu haben"," gewonnen haben
+ gewonnen zu haben"," gekommen sein
+ gekommen zu sein"," gelebt haben
+ gelebt zu haben",," gehabt haben
+ gehabt zu haben"," gewohnt haben
+ gewohnt zu haben"," gearbeitet haben
+ gearbeitet zu haben"," geholfen haben
+ geholfen zu haben"," angegriffen haben
+ angegriffen zu haben"," beigetreten sein
+ beigetreten zu sein"," gehabt haben
+ gehabt zu haben"," geändert haben
+ geändert zu haben"," angegriffen haben
+ angegriffen zu haben"," gegeben haben
+ gegeben zu haben"," hochgezogen sein
+ hochgezogen zu sein"," gefreut haben
+ gefreut zu haben"," geklappt haben
+ geklappt zu haben"," kritisiert haben
+ kritisiert zu haben"," unternommen haben
+ unternommen zu haben"," aufgenommen haben
+ aufgenommen zu haben"," geklappt haben
+ geklappt zu haben"
+infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, kommend, lebend,, habend, wohnend, arbeitend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, klappend
+infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, gekommen, gelebt,, gehabt, gewohnt, gearbeitet, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, geklappt
