@@ -9,12 +9,16 @@ from multiprocessing import Process
 from rich.table import Table
 import numpy as np
 
+# TODO: avoid repeating words
+# TODO: if noun not found try lemma and try decomposing it
 # TODO: create an entity TEXTANALYZER that holds everything
 # TODO: Status when all operations are done
+
 
 def run_in_background(func, *args, **kwargs):
     process = Process(target=func, args=args, kwargs=kwargs)
     process.start()
+    return process
 
 
 # colors dict
@@ -60,13 +64,15 @@ def read_input():
 noun_cache = NounsCache()
 verb_cache = VerbsCache()
 
-
+# TODO: add adjective adverbs prepositions ...
 def analyze_verb(verbs_list):
+    # TODO: verifiy return and add other options
     for verb in verbs_list:
         verb_cache[verb]
 
 
 def analyze_noun(nouns_list):
+    # TODO: verifiy return and add other options
     for noun in nouns_list:
         noun_cache[noun]
 
@@ -121,11 +127,14 @@ def analyze_text(text):
 
     # trigger meaning parsing for all nouns
     nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
-    run_in_background(analyze_noun, nouns_list)
+    pgetting_nouns = run_in_background(analyze_noun, nouns_list)
 
     # trigger verb conjugation for all verbs
-    verbs_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
-    run_in_background(analyze_verb, verbs_list)
+    verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
+    pgetting_verbs = run_in_background(analyze_verb, verbs_list)
+
+    # trigger a corrector in the background
+    # checks for nouns and verbs are not None
 
     return df
 
@@ -162,6 +171,14 @@ def colorize_text(df, scheme=None):
                'color'] = colors_definitions["Blue"]
         # highlight
         df.loc[(df['pos_'] == 'NOUN'), 'highlight'] = True
+
+    elif scheme == "ADJ":
+        df.loc[df['pos_'] == scheme,
+                 ['highlight', 'color']] = [True, colors_definitions[scheme]]
+
+    elif scheme == "ADV":
+        df.loc[df['pos_'] == scheme,
+                 ['highlight', 'color']] = [True, colors_definitions[scheme]]
 
     else:
         df['color'] = df.apply(lambda x: colors_definitions[x['pos_']], axis=1)
@@ -214,44 +231,88 @@ def generate_rich_text(df, width=30):
     return text
 
 
-def generate_rich_analysis(df):
+def generate_rich_analysis(df, group='NOUN' ,row_nbr=5):
     tables = []
-    nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
+    nouns_list = df.loc[(df['pos_'] == group), 'text'].tolist()
+    map = {'NOUN': 'nouns', 'ADJ': 'adjectives_or_adverbs', 'ADV': 'adjectives_or_adverbs'}
     for element in nouns_list:
         df = noun_cache[element]
         df.fillna(value="None", inplace=True)
-        english_text = noun_cache[element]['nouns']['english']
-        german_text = noun_cache[element]['nouns']['german']
+        english_text = noun_cache[element][map[group]]['english']
+        german_text = noun_cache[element][map[group]]['german']
+
+        # TODO: do in analyze
+        if english_text == "None" or german_text == "None":
+            #element = element.replace("-", "").lower()
+            english_text = noun_cache[element][map[group]]['english']
+            german_text = noun_cache[element][map[group]]['german']
+
+        noun_details = noun_cache[element]['noun_details']['english'].split('\n')
+
+        if len(noun_details) > 2:
+            noun_gender = noun_details[2]
+        else:
+            noun_gender = "None"
 
         english_text = english_text.split('\n')
         german_text = german_text.split('\n')
 
-        table = Table(title=f"{element}")
-        table.add_column("English", justify="left", no_wrap=True)
-        table.add_column("German", justify="left", no_wrap=True)
-        for eng, ger in zip(english_text, german_text):
+        gender_styles = {
+            'genus: MASC': colors_definitions['Green'],
+            'genus: FEMI': colors_definitions['Red'],
+            'genus: NEUT': colors_definitions['Blue']
+        }
+
+        style = gender_styles.get(noun_gender, colors_definitions['White'])
+
+        table = Table(title=f"{element}", style=style, header_style=style, title_style=style)
+        table.add_column("English", justify="left", style=style, no_wrap=True)
+        table.add_column("German", justify="left", style=style,no_wrap=True)
+        for eng, ger in zip(english_text[:row_nbr], german_text[:row_nbr]):
             table.add_row(eng, ger)
         tables.append(table)
     return tables
 
 
-def generate_rich_analysis_verb(df):
+def generate_rich_analysis_verb(df, row_nbr=5):
     tables = []
-    nouns_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
-    for element in nouns_list:
-        df = noun_cache[element]
+    verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
+    lemmas_list = df.loc[(df['pos_'] == 'VERB'), 'lemma_'].tolist()
+    for verb, lemma in zip(verbs_list, lemmas_list):
+        df = noun_cache[verb]
         df.fillna(value="None", inplace=True)
-        english_text = noun_cache[element]['verbs']['english']
-        german_text = noun_cache[element]['verbs']['german']
+        english_text = noun_cache[verb]['verbs']['english']
+        german_text = noun_cache[verb]['verbs']['german']
 
         english_text = english_text.split('\n')
         german_text = german_text.split('\n')
 
-        table = Table(title=f"{element}")
+        table = Table(title=f"{verb}")
         table.add_column("English", justify="left", no_wrap=True)
         table.add_column("German", justify="left", no_wrap=True)
-        for eng, ger in zip(english_text, german_text):
+        for eng, ger in zip(english_text[:row_nbr], german_text[:row_nbr]):
             table.add_row(eng, ger)
+        tables.append(table)
+        conj_tables = verb_cache[verb]['indicative_active']
+        conj_tables.fillna(value="None", inplace=True)
+        table = Table()
+        table.add_column("Present", justify="left", no_wrap=False)
+        table.add_column("Imperfect", justify="left", no_wrap=False)
+        table.add_column("Perfect", justify="left", no_wrap=False)
+        table.add_column("Future", justify="left", no_wrap=False)
+        if all(val != "None" for val in conj_tables.values):
+            table.add_row(conj_tables['Present'],
+                          conj_tables['Imperfect'],
+                          conj_tables['Perfect'],
+                          conj_tables['Future'])
+        else:
+            conj_tables = verb_cache[lemma]['indicative_active']
+            conj_tables.fillna(value="None", inplace=True)
+            table.add_row(conj_tables['Present'],
+                          conj_tables['Imperfect'],
+                          conj_tables['Perfect'],
+                          conj_tables['Future'])
+
         tables.append(table)
     return tables
 

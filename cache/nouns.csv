@@ -1,4 +1,4 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,expräsident,frühere,wichtige,neuer,Jetzt,Nun,muss,genau,wieder,Dann
 basic_forms,english,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"alternativ : Adjective
 ",None,None,"der Moderator : Noun
 ","die Nachricht : Noun
@@ -27,12 +27,12 @@ tagen : Verb
 ",None,None,None,"das Elter : Noun
 der Elter : Noun
 ",None,"nähen : Verb
-",None,None,None,,"der Oscar : Noun
-",,,,,"die Weste : Noun
+",None,None,None,None,"der Oscar : Noun
+",None,None,None,None,"die Weste : Noun
 wesen : Verb
 ","neu : Adjective
-",,,,"die Million : Noun
-",,,None,None,,,,,,,None,None,None,None,None,None,"verboten : Adjective
+",None,None,None,"die Million : Noun
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"verboten : Adjective
 ",None,None,None,None,None,"strafen : Verb
 ",None,None,"anklagen : Verb
 sich anklagen : Verb
@@ -57,8 +57,11 @@ bekommen : Verb
 ","wählen : Verb
 ","treten : Verb
 treten : Verb
-",None,None,None,None,
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,None,None,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,
+",None,None,None,None,None,,None,"wichtig : Adjective
+","neu : Adjective
+",None,None,"müssen : Verb
+",None,None,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None,None,
 verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -534,7 +537,7 @@ to bank sth. ⇔ in
 to bank with so. - bank
 to bank | banked, banked | [ENGIN.]
 to bank | banked, banked | [AGR.]
-",,"to film (sth.) | filmed, filmed | - a movie
+",None,"to film (sth.) | filmed, filmed | - a movie
 to film (sth.) | filmed, filmed | - a movie
 to film sth. | filmed, filmed | - a movie
 to film over
@@ -548,7 +551,7 @@ to use up a roll of film [PHOT.]
 to finish a roll of film [PHOT.]
 to use up a roll of film [PHOT.]
 to capture so. on film
-",,,"to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+",None,None,"to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
 to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
 to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
 to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
@@ -575,7 +578,7 @@ to recoin | recoined, recoined | - remint
 to restamp | restamped, restamped |
 to repaper | repapered, repapered |
 to repopulate | repopulated, repopulated |
-",,"to join up
+",None,"to join up
 ","to wage war (against so./sth.)
 to make war (on so./sth.)
 to campaign | campaigned, campaigned |
@@ -619,7 +622,7 @@ to purchase land
 to break up a piece of land
 to work land
 to subdue | subdued, subdued |
-",,,,,,,None,"to elect so. president
+",None,None,None,None,None,None,None,"to elect so. president
 ",None,None,None,"to bribe a judge
 to appoint oneself as judge
 to appoint oneself as judge
@@ -882,7 +885,83 @@ to emerge | emerged, emerged |
 to become evident
 to surface | surfaced, surfaced |
 to appear | appeared, appeared |
-",None,None,None,None,
+",None,None,None,None,None,,None,"to be important
+to be of importance
+to care about sth.
+to aggrandizeAE oneself to aggrandiseBE / aggrandizeBE oneself
+to assume an air of importance
+to concern so. | concerned, concerned |
+to attach importance to sth.
+to outrank so./sth. | outranked, outranked |
+to make a good point
+to put forward good reasons
+to show good cause
+to put on an air of importance
+to offer valuable clues to sth.
+so. is not that fussed about sth. (Brit.)
+to have other fish to fry
+to have other fish to fry
+","to restart | restarted, restarted |
+to reprocess | reprocessed, reprocessed |
+to revalue | revalued, revalued |
+to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
+to reappraise | reappraised, reappraised |
+to rerate | rerated, rerated |
+to reassess | reassessed, reassessed |
+to reappraise | reappraised, reappraised |
+to reclassify | reclassified, reclassified |
+to reapportion | reapportioned, reapportioned |
+to recoin | recoined, recoined | - remint
+to restamp | restamped, restamped |
+to repaper | repapered, repapered |
+to repopulate | repopulated, repopulated |
+","to go ahead and do sth.
+to live for the moment
+to live for the day
+to bring so. back to the here and now
+",None,"to muss sth. up (Amer.) - hair
+to muss sth. up (Amer.) - hair
+must aux.
+to have to
+to be bound to
+to get to
+to be obliged
+to have got to chiefly (Brit.)
+sth. must take a back seat infinitive: take a back seat [fig.]
+sth. must take a back seat infinitive: take a back seat [fig.]
+to have detention - in school
+to be called upon
+to be due to go
+to be moved to tears
+","to pay attention to what so. says
+to detail | detailed, detailed |
+to scrutinizeAE to scrutiniseBE / scrutinizeBE | scrutinized, scrutinized / scrutinised, scrutinised |
+to double-check | double-checked, double-checked |
+to look closely
+to scrutinizeAE to scrutiniseBE / scrutinizeBE | scrutinized, scrutinized / scrutinised, scrutinised |
+to examine with minuteness
+to prick up one's ears
+to scrutinizeAE to scrutiniseBE / scrutinizeBE | scrutinized, scrutinized / scrutinised, scrutinised |
+to identify | identified, identified |
+to be accurate
+to take accurate aim
+to target | targeted, targeted |
+to specify sth. | specified, specified |
+","to relight | relighted/relit, relighted/relit |
+to reignite | reignited, reignited |
+to re-present | re-presented, re-presented |
+to bring forward again
+to reconstruct | reconstructed, reconstructed |
+to rebuild | rebuilt, rebuilt |
+to recur | recurred, recurred |
+to recrudesce | recrudesced, recrudesced |
+to reinvent | reinvented, reinvented |
+to reappear | reappeared, reappeared |
+to reconvene | reconvened, reconvened |
+to resurge | resurged, resurged |
+to rekindle | rekindled, rekindled |
+to become revitalizedAE to become revitalisedBE / revitalizedBE
+",
 verbs,german,None,None,None,None,None,None,None,"Auto fahren
 ein Auto anschieben
 ein Auto in etw.acc. zurücksetzen
@@ -1358,7 +1437,7 @@ etw.acc. eindeichen | deichte ein, eingedeicht |
 ein Konto bei jmdm. haben - bei einer Bank
 überhöhen | überhöhte, überhöht | [Road Construction]
 poldern | polderte, gepoldert | [Holzwirtschaft]
-",,"(etw.acc.) drehen | drehte, gedreht | - filmen
+",None,"(etw.acc.) drehen | drehte, gedreht | - filmen
 (etw.acc.) filmen | filmte, gefilmt |
 verfilmen | verfilmte, verfilmt |
 anlaufen | lief an, angelaufen | - Glas, Spiegel etc.
@@ -1372,7 +1451,7 @@ einen Film verknipsen [coll.]
 einen Film verschießen [coll.]
 einen Film verschießen [coll.]
 jmdn. im Bild festhalten
-",,,"aufs Jahr umrechnen
+",None,None,"aufs Jahr umrechnen
 auf das Jahr rechnen
 auf das Jahr umrechnen
 auf das Jahr rechnen
@@ -1399,7 +1478,7 @@ neu prägen
 neu prägen
 neu tapezieren
 neu besiedeln
-",,"Soldat werden
+",None,"Soldat werden
 ","Krieg (gegen jmdn./etw.) führen
 Krieg (gegen jmdn./etw.) führen
 Krieg führen
@@ -1443,7 +1522,7 @@ Land ankaufen
 Land aufteilen
 Land bearbeiten
 Land erschließen
-",,,,,,,None,"jmdn. zum Präsidenten wählen
+",None,None,None,None,None,None,None,"jmdn. zum Präsidenten wählen
 ",None,None,None,"einen Richter bestechen
 sichacc. zum Richter aufschwingen
 sichacc. zum Richter aufwerfen
@@ -1706,7 +1785,83 @@ zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
 zutage (or: zu Tage) treten
-",None,None,None,None,
+",None,None,None,None,None,,None,"wichtig sein
+wichtig sein
+etw.acc. wichtig nehmen
+sichacc. wichtig machen
+sichacc. wichtig geben
+für jmdn. wichtig sein
+etw.acc. für wichtig halten
+wichtiger als jmd./etw. sein
+auf etw.acc. Wichtiges hinweisen
+wichtige Gründe vorbringen
+wichtige Gründe vorbringen
+eine wichtige Miene aufsetzen
+wichtige Aufschlüsse über etw.acc. geben
+jmdm. ist etw.nom. nicht so wichtig
+wichtigere Dinge zu tun haben
+Wichtigeres zu tun haben
+","neu starten
+neu bearbeiten
+neu bewerten
+neu bewerten
+neu bewerten
+neu bewerten
+neu einschätzen
+neu einschätzen
+neu einteilen
+neu einteilen
+neu prägen
+neu prägen
+neu tapezieren
+neu besiedeln
+","etw.acc. bereits jetzt tun
+im Hier und Jetzt leben
+im Hier und Jetzt leben
+jmdn. ins Hier und Jetzt zurückholen
+",None,"etw.acc. durcheinanderbringen | brachte durcheinander, durcheinandergebracht |
+etw.acc. zerzausen | zerzauste, zerzaust |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst | - im Präsens
+etw.nom. muss hintanstehen
+etw.nom. muss hintenanstehen
+nachsitzen müssen
+tragen müssen
+gehen müssen
+weinen müssen
+","jmdm. genau zuhören
+genau berichten
+genau untersuchen
+genau nachprüfen
+genau hinschauen
+genau prüfen
+genau prüfen
+genau hinhören
+genau überprüfen
+genau bestimmen
+genau sein
+genau zielen
+genau zielen
+etw.acc. genau angeben
+","wieder anzünden
+wieder anzünden
+wieder vorlegen
+wieder vorlegen
+wieder aufbauen
+wieder aufbauen
+wieder auftreten
+wieder ausbrechen
+wieder erfinden
+wieder erscheinen
+wieder zusammenkommen
+wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
+wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
+wiederaufleben or: wieder aufleben | lebte wieder auf, wiederaufgelebt |
+",
 nouns,english,None,None,None,None,None,None,None,"car
 auto (Amer.)
 auto (Amer.)
@@ -2486,7 +2641,7 @@ motion picture
 the movies plural noun (Amer.)
 ","Academy Award
 oscar [ZOOL.]
-",,"year
+",None,"year
 twelvemonth archaic
 New Year
 presidential year (Amer.)
@@ -2524,7 +2679,7 @@ new payment procedure
 new business [COMM.]
 New Testament [abbr.: NT] [REL.]
 New Steering Model [abbr.: NSM] [POL.]
-",,"soldier
+",None,"soldier
 serviceman - pl.: servicemen
 enlisted person (Amer.) [MIL.]
 enlistee (Amer.) [MIL.]
@@ -2617,7 +2772,7 @@ land
 land
 land
 land
-",,,,"director [THEA.][CINE.]
+",None,None,None,"director [THEA.][CINE.]
 producer (Brit.) [THEA.]
 stage director
 ","owner
@@ -2628,7 +2783,7 @@ mistress
 holder [FINAN.]
 tenant
 shareholder
-",,None,"president [abbr.: Pres.]
+",None,None,"president [abbr.: Pres.]
 governor
 chair [ADMIN.][COMM.]
 chairman | chairwoman [ADMIN.][COMM.]
@@ -2793,7 +2948,7 @@ adopted home
 elected government [POL.]
 elocution
 virtual call [TELECOM.]
-",,"prosecutor [LAW]
+",None,"prosecutor [LAW]
 public prosecutor [LAW]
 district attorney [LAW]
 attorney (Amer.) [LAW]
@@ -2812,7 +2967,78 @@ the Diet (Scot.) [LAW]
 ","criminal proceedings plural noun [LAW]
 criminal case [LAW]
 plea bargain [LAW]
-"
+",,"previous debt
+former quotations
+back issue
+former editions pl.
+","bigwig
+notability
+somebody
+important person
+high impact area
+key findings
+key findings
+key leader
+key opinion leader [abbr.: KOL]
+important modifications pl.
+important thing
+matter of importance
+important duty
+important starting point
+","new paragraph
+resummon
+a new lease of (or: on) life
+a new lease of (or: on) life
+new business
+new price
+new start
+new partner
+new arrival [coll.] [hum.]
+New European Driving Cycle [abbr.: NEDC] [AUTOM.]
+new market [ECON.]
+new ridge [GEOL.]
+new material [TECH.]
+nova [ASTR.]
+","now
+","nun
+nun
+nun
+nun
+nun [ZOOL.]
+nun [ZOOL.]
+nun buoy
+nun's fiddle [MUS.][HIST.]
+nun's fiddle [MUS.][HIST.]
+nun's habit [REL.]
+","muss no plural chiefly (Amer.)
+muss no plural chiefly (Amer.)
+necessity
+must
+requisite
+mandatory instruction
+compulsory entry
+shotgun wedding [coll.]
+essential course booking [FINAN.]
+","full calculated value [MATH.][TECH.]
+delineation
+specifications pl.
+scrutiny
+elaboration
+scrutiny
+perusal
+scrutinizingAEscrutinisingBE / scrutinizingBE
+verification
+faithful copy
+minutiae pl.
+scrutiny
+meticulous inspection
+scrutineering
+","to get sth. straightened out [fig.]
+to set sth. straight [fig.]
+on-again, off-again friend
+irreparable damage
+irreparable loss
+",
 nouns,german,None,None,None,None,None,None,None,"das Auto pl.: die Autos
 das Auto pl.: die Autos
 das Fahrzeug pl.: die Fahrzeuge
@@ -3592,7 +3818,7 @@ der Film pl.: die Filme
 der Film pl.: die Filme - Genre
 ","der Oscar pl.: die Oscars
 der Pfauenaugenbuntbarsch pl. Lat.: Astronotus ocellatus [Ichthyology]
-",,"das Jahr pl.: die Jahre
+",None,"das Jahr pl.: die Jahre
 das Jahr pl.: die Jahre
 das neue Jahr
 Jahr der Präsidentenwahl
@@ -3630,7 +3856,7 @@ neues Zahlungsverfahren
 neues Geschäft
 Neues Testament [Bible]
 Neues Steuerungsmodell [abbr.: NSM]
-",,"der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+",None,"der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
 der Soldat pl.: die Soldaten
 der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
 der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
@@ -3723,7 +3949,7 @@ die Ländereien pl., no sg.
 die Fläche pl.: die Flächen
 Grund und Boden
 der Grundbesitz pl.: die Grundbesitze
-",,,,"der Regisseur | die Regisseurin pl.: die Regisseure, die Regisseurinnen
+",None,None,None,"der Regisseur | die Regisseurin pl.: die Regisseure, die Regisseurinnen
 der Regisseur | die Regisseurin pl.: die Regisseure, die Regisseurinnen
 der Regisseur pl.: die Regisseure
 ","der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
@@ -3734,7 +3960,7 @@ die Besitzerin pl.: die Besitzerinnen
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - Wertpapiere
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - auch von beweglichem Vermögen rare
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
-",,None,"der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
+",None,None,"der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
 der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
 der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
 der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
@@ -3899,7 +4125,7 @@ gewähltes Zuhause
 gewählte Regierung
 gewählte Aussprache
 gewählte virtuelle Verbindung
-",,"der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+",None,"der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
 der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
 der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
 der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
@@ -3918,7 +4144,78 @@ der Gerichtstermin pl.: die Gerichtstermine
 ","der Strafprozess pl.: die Strafprozesse
 der Strafprozess pl.: die Strafprozesse
 Vereinbarung im Strafprozess
-"
+",,"frühere Schuld
+frühere Angebote
+frühere Ausgabe
+frühere Ausgaben pl.
+","wichtige Persönlichkeit
+wichtige Persönlichkeit
+wichtige Person
+wichtige Person
+wichtige Bereiche
+wichtige Ergebnisse
+wichtige Erkenntnisse
+wichtige Führungskraft
+wichtige Meinungsbildner
+wichtige Änderungen pl.
+wichtige Angelegenheit
+wichtige Angelegenheit
+wichtige Aufgabe
+wichtige Ausgangsstellung
+","neuer Absatz
+neuer Aufruf
+neuer Aufschwung
+neuer Auftrieb
+neuer Abschluss
+neuer Preis
+neuer Start
+neuer Teilhaber
+neuer Erdenbürger [coll.] [hum.]
+neuer europäischer Fahrzyklus [abbr.: NEFZ]
+neuer Markt
+neuer Presseisrücken
+neuer Werkstoff
+Neuer Stern
+","das Jetzt
+","die Nonne pl.: die Nonnen
+die Klosterfrau pl.: die Klosterfrauen
+die Klosterschwester pl.: die Klosterschwestern
+die Schwester pl.: die Schwestern - im Kloster
+die Blaumeise pl.: die Blaumeisen [Ornithology]
+die Schleiertaube pl. [Ornithology]
+die Spitztonne pl.: die Spitztonnen
+das Trumscheit pl.: die Trumscheite
+die Nonnengeige pl.: die Nonnengeigen - Streichinstrument des 12. bis 18. Jahrhunderts
+die Schwesterntracht pl.: die Schwesterntrachten
+","das Durcheinander no plural
+der (or: das) Wirrwarr no plural
+das Muss no plural
+das Muss no plural
+das Muss no plural - Notwendigkeit
+die Muss-Anweisung
+die Muss-Eingabe
+die Mussehe or: Muss-Ehe pl.: die Mussehen, die Muss-Ehen
+die Muss-Buchung
+","der Genau-Rechenwert
+genaue Darstellung
+genaue Darstellung
+genaue Untersuchung
+genauere Angaben pl.
+genaue Prüfung
+genaue Prüfung
+genaue Prüfung
+genaue Prüfung
+genaue Abschrift
+genaue Einzelheiten pl.
+genaue Überprüfung
+genaue Überprüfung
+genaue Überprüfung
+","etw.acc. wieder zurechtbiegen [fig.] - wieder in Ordnung bringen
+etw.acc. wieder zurechtbiegen [fig.] - wieder in Ordnung bringen
+der der Immer-mal-wieder-Freund | die Immer-mal-wieder-Freundin
+nicht wieder gutzumachender Schaden
+nicht wieder gutzumachender Verlust
+",
 noun_details,english,None,None,None,None,None,None,None,"article: das
 word: Auto
 genus: NEUT
@@ -4195,7 +4492,7 @@ plural: die Filme
 word: Oscar
 genus: MASC
 plural: die Oscars
-",,"article: das
+",None,"article: das
 word: Jahr
 genus: NEUT
 plural: die Jahre
@@ -4207,7 +4504,7 @@ plural: plural
 word: Mitglied
 genus: 
 plural: Mitglied
-",,"article: der
+",None,"article: der
 word: Soldat
 genus: MASC
 plural: die Soldaten, die Soldatinnen
@@ -4235,7 +4532,7 @@ plural: die Städte
 word: Land
 genus: NEUT
 plural: 
-",,,,"article: der
+",None,None,None,"article: der
 word: Regisseur
 genus: MASC
 plural: die Regisseure, die Regisseurinnen
@@ -4243,7 +4540,7 @@ plural: die Regisseure, die Regisseurinnen
 word: Besitzer
 genus: MASC
 plural: die Besitzer, die Besitzerinnen
-",,None,"article: der
+",None,None,"article: der
 word: Präsident
 genus: MASC
 plural: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
@@ -4287,7 +4584,7 @@ plural:
 word: Angeklagten
 genus: FEMI
 plural: 
-",,,"article: gefälschte
+",None,None,"article: gefälschte
 word: Unterschrift
 genus: 
 plural: Unterschrift
@@ -4295,7 +4592,7 @@ plural: Unterschrift
 word: Verbot
 genus: NEUT
 plural: die Verbote
-",,"article: beständiges
+",None,"article: beständiges
 word: Kommen
 genus: 
 plural: Gehen
@@ -4303,7 +4600,7 @@ plural: Gehen
 word: Worten
 genus: 
 plural: gesagt
-",,,"article: entschiedenes
+",None,None,"article: entschiedenes
 word: Handeln
 genus: 
 plural: Handeln
@@ -4315,7 +4612,7 @@ plural: bekommt
 word: Präsident
 genus: 
 plural: Amtsantritt
-",,"article: der
+",None,"article: der
 word: Staatsanwalt
 genus: MASC
 plural: die Staatsanwälte, die Staatsanwältinnen
@@ -4323,7 +4620,7 @@ plural: die Staatsanwälte, die Staatsanwältinnen
 word: Geschäftsunterlagen
 genus: FEMI
 plural: sg.
-",,"article: der
+",None,"article: der
 word: Gerichtstermin
 genus: MASC
 plural: die Gerichtstermine
@@ -4331,8 +4628,40 @@ plural: die Gerichtstermine
 word: Strafprozess
 genus: MASC
 plural: die Strafprozesse
-"
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,None,None,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,
+",,"article: frühere
+word: Schuld
+genus: 
+plural: Schuld
+","article: wichtige
+word: Persönlichkeit
+genus: 
+plural: Persönlichkeit
+","article: neuer
+word: Absatz
+genus: 
+plural: Absatz
+","article: das
+word: Jetzt
+genus: NEUT
+plural: Jetzt
+","article: die
+word: Nonne
+genus: FEMI
+plural: die Nonnen
+","article: das
+word: Durcheinander
+genus: NEUT
+plural: plural
+","article: der
+word: Genau-Rechenwert
+genus: MASC
+plural: Genau-Rechenwert
+","article: etw.acc.
+word: wieder
+genus: 
+plural: bringen
+",
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None,None,
 adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
@@ -4678,7 +5007,7 @@ thin-film-forming adj. [TECH.]
 ","Oscar-winning adj.
 Oscar-winning adj.
 Oscar-winning adj.
-",,"the year after next
+",None,"the year after next
 last year
 every year
 each year
@@ -4715,7 +5044,7 @@ newly constructed
 reformative adj.
 newly founded
 newly-created adj.
-",,"soldierly adj.
+",None,"soldierly adj.
 ","at war
 warring - in conflict adj.
 war-ravaged adj.
@@ -4730,7 +5059,7 @@ in event of war
 nonbelligerentAE / non-belligerentBE adj.
 ","a million times
 million-odd adj.
-",,,"in town
+",None,None,"in town
 in the city
 in the town
 on the outskirts
@@ -4755,7 +5084,7 @@ rural adj.
 praedial or: predial adj.
 land-based adj.
 land-based adj. [MIL.]
-",,,,,,,None,None,None,None,None,None,"illegal adj.
+",None,None,None,None,None,None,None,None,None,None,None,None,"illegal adj.
 prohibited adj.
 banned adj.
 forbidden adj.
@@ -4893,7 +5222,97 @@ unpolled adj.
 unelected adj.
 incoming adj. [POL.]
 newly-elected adj.
-",,None,None,None,None,
+",None,None,None,None,None,None,,"former adj.
+prior adj.
+","important adj.
+grave adj.
+major adj.
+significant adj.
+basic adj.
+big adj.
+crucial adj.
+fundamental adj.
+necessary adj.
+relevant adj.
+consequential - important adj.
+momentous adj.
+meaningful adj.
+vital adj.
+","another adj. pron. - different person/thing
+new adj.
+novel adj.
+recent adj.
+nouveau adj.
+fledgling - used before noun - new adj.
+latest adj.
+recent adj.
+freshest adj.
+anew adv.
+newly constructed
+reformative adj.
+newly founded
+newly-created adj.
+","now adv.
+currently adv.
+at present
+by now
+right now
+yet adv.
+right now
+by now
+from now on
+as of now
+hence adv.
+starting from now
+so far
+to date
+","now adv.
+never adv.
+never adv.
+from now on
+henceforward adv. [form.]
+henceforth adv. [form.]
+","if need be
+","just adv.
+accurate adj.
+exact adj.
+precise adj.
+precisely adv.
+accurately adv.
+detailed adj.
+minute adj.
+right adv.
+specific adj.
+strict adj.
+exactly adj.
+strictly adv.
+true adj.
+","again adv.
+afresh adv.
+once again
+consistently adv.
+resurgent adj.
+reconstructive adj.
+resurgent adj.
+renascent adj.
+reconfirming adj.
+refrozen adj.
+reconnecting adj.
+reissuable adj.
+recrudescent adj.
+time and again
+","then adv.
+then adv.
+in fits and starts
+now and then
+on occasion
+every now and then
+from time to time
+on and off
+till then
+until then
+only if
+"
 adjectives_or_adverbs,german,None,None,None,None,None,None,None,"autoerotisch
 automatisch unterstützt
 ","ohne Pferd
@@ -5239,7 +5658,7 @@ dünnschichtbildend
 ","Oscar-prämiert
 oscargekrönt
 oscarprämiert
-",,"übernächstes Jahr
+",None,"übernächstes Jahr
 vergangenes Jahr
 jedes Jahr
 jedes Jahr
@@ -5276,7 +5695,7 @@ neu erbaut
 neu bildend
 neu gegründet
 neu gegründet
-",,"wie ein Soldat
+",None,"wie ein Soldat
 ","im Krieg
 kriegführend or: Krieg führend
 vom Krieg verwüstet
@@ -5291,7 +5710,7 @@ im Fall eines Krieges
 nicht kriegführend (or: Krieg führend)
 ","Millionen Mal
 etwa eine Million
-",,,"in der Stadt
+",None,None,"in der Stadt
 in der Stadt
 in der Stadt
 am Rand (or: Rande) der Stadt
@@ -5316,7 +5735,7 @@ Land...
 Land...
 auf dem Festland
 landgestützt
-",,,,,,,None,None,None,None,None,None,"verboten
+",None,None,None,None,None,None,None,None,None,None,None,None,"verboten
 verboten
 verboten
 verboten
@@ -5454,7 +5873,97 @@ nicht gewählt
 nicht gewählt
 neugewählt or: neu gewählt
 neu gewählt
-",,None,None,None,None,
+",None,None,None,None,None,None,,"früherer | frühere | früheres
+früherer | frühere | früheres
+","wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+wichtig
+","ein neuer | eine neue | ein neues
+neu
+neu
+neu
+neu
+neu
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+aufs Neue
+neu erbaut
+neu bildend
+neu gegründet
+neu gegründet
+","jetzt
+jetzt
+jetzt
+jetzt
+jetzt gleich
+jetzt noch
+jetzt sofort
+jetzt schon
+ab jetzt
+ab jetzt
+ab jetzt
+ab jetzt
+bis jetzt
+bis jetzt
+","nun
+nun und nimmer - niemals archaic
+nun und nimmermehr - niemals archaic
+von nun an
+von nun an
+von nun an
+","wenn es sein muss
+","genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+genau
+","wieder
+wieder
+wieder adv.
+immer wieder
+wieder erwachend
+wiederaufbauend or: wieder aufbauend
+wiederauflebend or: wieder auflebend
+wiederauflebend or: wieder auflebend
+wieder bestätigend
+wieder eingefroren
+wieder verbindend
+wieder ausgebbar
+wieder verschlimmernd
+wieder und wieder
+","dann
+dann also
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+bis dann
+bis dann
+nur dann, wenn
+"
 phrases_or_collocations,english,None,None,None,None,None,None,None,None,"to put the cart before the horse
 to put the cart before the horse
 to back the wrong horse [fig.]
@@ -5754,7 +6263,7 @@ to put sth. off
 to shelve sth. | shelved, shelved | - not continue with sth. [fig.]
 the party liable or his bank [FINAN.]
 to procrastinate sth. | procrastinated, procrastinated | rare
-",,,,,"no date [abbr.: n.d.]
+",None,None,None,None,"no date [abbr.: n.d.]
 year in and year out
 Happy New Year!
 Happy New Year!
@@ -5787,7 +6296,7 @@ immaculate condition throughout
 new for old
 a new arrival
 a new lease of life
-",,,"All's fair in love and war.
+",None,None,"All's fair in love and war.
 All is fair in love and war.
 ","so. is worth ... million
 ","to be a riddle wrapped up in an enigma
@@ -5796,7 +6305,7 @@ to be a mystery
 a textbook example
 a well-worn volume
 It's a closed book.
-",,"the jewel city
+",None,"the jewel city
 ","to land in the soup [coll.]
 the land of milk and honey
 to land on one's feet archaic
@@ -5811,7 +6320,7 @@ to get the lie of the land[fig.] chiefly (Brit.)
 to get the lay of the land[fig.] chiefly (Amer.)
 to get the lay of the land[fig.] chiefly (Amer.)
 to go to the land of Nod [fig.]
-",,,,,,,None,None,None,None,None,None,"no smoking
+",None,None,None,None,None,None,None,None,None,None,None,None,"no smoking
 smoking is forbidden
 Post no bills! (Brit.)
 off limits
@@ -5999,7 +6508,112 @@ pace prep.
 to spurn one's fortune
 to spurn one's chance of happiness
 Blow me down! [coll.]
-",None,None,None,None,
+",None,None,None,None,None,,None,"a fork in the road
+an important matter
+an important factor
+a fine step forward (Amer.)
+","a new arrival
+a new lease of life
+a new coat of whitewash
+a new low-point
+new wine in old bottles
+almost as new
+immaculate condition throughout
+new for old
+Let's try again!
+New brooms sweep clean.
+A new broom sweeps clean.
+to open a whole new can of worms [fig.]
+new suits at the 2-level - bridge
+What's the news?
+","That does it!
+It's now or never!
+Now, of all times!
+enough already
+Get out of here! [coll.]
+Get out of town! (Amer.) [coll.]
+enough already
+Straight up? - really? [sl.] (Brit.)
+Don't get cute with me! (Amer.)
+Don't get cute with me! (Amer.)
+Sharp's the word!
+That's torn it!
+That's the last straw!
+This is the limit!
+","well
+Well then?
+well
+well
+now then
+What next?
+Now less than ever!
+Spill the beans! [coll.] [fig.]
+That's life.
+That's the way the cookie crumbles. [coll.]
+","a must-see
+a must-see
+a must-have
+a must have
+an absolute must
+Must fly!
+Give him his due.
+a must for anyone
+so. cannot help doing sth.
+Things have come to a pretty pass.
+something has to give
+something's got to give
+Do you mind? - ironic
+Don't mind me!
+","quite - expressing agreement
+quite so - expressing agreement
+That's right.
+Exactly!
+correct to a dot
+due north
+to get granular on sth.
+to put sth. under the microscope
+to go through sth. with a fine-tooth comb [fig.]
+bang on time
+correct to a dot
+come to think of it
+That's nuts to him. archaic
+quite the thing
+an accurate translation
+to be a dead ringer for so.
+","never again
+done again
+to be out and about again - after a period of illnes
+to be up and about again - after a period of illnes
+to be back in contention
+to give sth. a new lease of life (Brit.)
+to give sth. a new lease on life (Amer.)
+It won't happen again!
+Don't be a stranger.
+Don't be a stranger.
+Must fly!
+Time and tide wait for no man.
+It must not happen again!
+it just goes to show that ...
+Keep your shirt on. [coll.]
+Keep your pants on. [coll.]
+Haste ye back! (Scot.)
+","See you later!
+So long!
+Cheers!
+Well then!
+Goodnight, Vienna! (Brit.)
+Hooroo! or: Hooray [coll.] (Aust.)
+Goodnight, Vienna! (Brit.)
+I suppose so
+God helps them that help themselves.
+God helps those that help themselves.
+the best of British luck!
+the best of British luck!
+Business before pleasure.
+And they lived happily ever after.
+A hungry man has no conscience.
+I rest my case. [hum.]
+"
 phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
 aufs falsche Pferd setzen
@@ -6299,7 +6913,7 @@ etw.acc. auf die lange Bank schieben [fig.]
 etw.acc. auf die lange Bank schieben [fig.]
 der Schuldner oder seine Bank
 etw.acc. auf die lange Bank schieben [fig.]
-",,,,,"ohne Jahr [abbr.: o. J.]
+",None,None,None,None,"ohne Jahr [abbr.: o. J.]
 Jahr für Jahr
 Frohes Neues Jahr!
 Frohes neues Jahr!
@@ -6332,7 +6946,7 @@ wie neu
 neu für alt
 ein neuer Erdenbürger
 ein neuer Start
-",,,"In der Liebe und im Krieg ist alles erlaubt.
+",None,None,"In der Liebe und im Krieg ist alles erlaubt.
 In der Liebe und im Krieg ist alles erlaubt.
 ","jemand ist ... Millionen schwer
 ","ein Buch mit sieben Siegeln sein
@@ -6341,7 +6955,7 @@ ein Buch mit sieben Siegeln sein [fig.]
 wie es im Buch steht
 ein ganz zerlesenes Buch
 Das ist ein Buch mit sieben Siegeln.
-",,"die diamantene Stadt
+",None,"die diamantene Stadt
 ","in der Patsche landen [fig.] [coll.]
 das Land, in dem Milch und Honig fließen
 auf die Füße fallen [fig.]
@@ -6356,7 +6970,7 @@ sichacc. einen Eindruck von der Lage verschaffen [fig.]
 die Lage peilen [fig.]
 sichacc. einen Eindruck von der Lage verschaffen [fig.]
 einschlafen | schlief ein, eingeschlafen |
-",,,,,,,None,None,None,None,None,None,"Rauchen verboten
+",None,None,None,None,None,None,None,None,None,None,None,None,"Rauchen verboten
 Rauchen verboten
 Ankleben verboten!
 Zutritt verboten
@@ -6544,7 +7158,112 @@ ohne jmdm. zu nahe treten zu wollen
 sein Glück mit Füßen treten [fig.]
 sein Glück mit Füßen treten [fig.]
 Ich glaub, mich tritt ein Pferd! [sl.]
-",None,None,None,None,
+",None,None,None,None,None,,None,"eine wichtige Entscheidung
+eine wichtige Angelegenheit
+ein wichtiger Faktor
+ein wichtiger Schritt vorwärts
+","ein neuer Erdenbürger
+ein neuer Start
+ein neuer Anstrich
+ein neuer Tiefpunkt
+neuer Wein in alten Flaschen
+fast wie neu [abbr.: fwn] - Bücher
+wie neu
+neu für alt
+Auf ein Neues!
+Neue Besen kehren gut.
+Neue Besen kehren gut.
+ein neues Fass aufmachen [fig.] - neues Problem anschneiden
+neue Farben auf der 2er-Stufe [Card Games]
+Was gibt es Neues?
+","Jetzt reicht's!
+Jetzt oder nie!
+Ausgerechnet jetzt!
+genug jetzt!
+Echt jetzt? [coll.]
+Echt jetzt? [coll.]
+Schluss jetzt! [coll.]
+Echt jetzt? [coll.]
+Jetzt werde mal nicht überheblich!
+Jetzt werde mal nicht unverschämt!
+Jetzt aber dalli!
+Jetzt ist alles aus!
+Jetzt reicht es mir aber!
+Jetzt reicht's mir!
+","nun
+Und nun?
+nun ja
+nun gut
+nun also
+Was nun?
+Nun erst recht nicht!
+Nun erzähl schon!
+So ist nun mal das Leben.
+So ist nun mal das Leben.
+","ein Muss
+ein Muss - Sache, die man unbedingt gesehen haben muss
+ein Muss - Sache, die man unbedingt haben muss
+ein absolutes Muss
+ein absolutes Muss
+Muss schon wieder los!
+Das muss man ihm lassen.
+ein Muss für jeden
+jmd. muss etw.acc. unbedingt tun
+Es muss schon sehr weit gekommen sein.
+es muss endlich etwas passieren
+es muss endlich etwas passieren
+Ich muss doch sehr bitten!
+Ich muss doch sehr bitten!
+","genau
+genau
+Genau.
+Genau!
+aufs Haar genau
+genau nach Norden
+etw.acc. genau unter die Lupe nehmen [fig.]
+etw.acc. genau unter die Lupe nehmen [fig.]
+etw.acc. genau unter die Lupe nehmen [fig.]
+auf die Sekunde genau
+bis aufs i-Tüpfelchen genau
+wenn man es genau bedenkt
+Das ist genau sein Fall.
+genau was ich wollte
+eine genaue Übersetzung
+das genaue Ebenbild von jmdm. sein
+","nie wieder
+schon wieder
+wieder auf den Beinen sein - wieder gesund sein
+wieder auf den Beinen sein
+wieder im Rennen sein [coll.] [fig.]
+etw.acc. wieder in Schuss bringen [coll.] [fig.]
+etw.acc. wieder in Schuss bringen [coll.] [fig.]
+Es wird nicht wieder vorkommen!
+Lass mal wieder was von dir hören.
+Meld dich mal wieder.
+Muss schon wieder los!
+Eine verpasste Gelegenheit kommt nicht so schnell wieder.
+Das darf nicht wieder vorkommen!
+das beweist mal wieder, dass ...
+Reg dich wieder ab. [coll.]
+Reg dich wieder ab. [coll.]
+Komm bald wieder!
+","Bis dann!
+Bis dann!
+Bis dann!
+Na dann!
+Das war's dann!
+Bis dann!
+Dann gut' Nacht!
+Dann wird's wohl so sein.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, dann hilft dir Gott.
+na, dann mal viel Glück!
+na, dann viel Glück!
+Erst die Arbeit, dann das Vergnügen.
+Und wenn sie nicht gestorben sind, dann leben sie noch heute.
+Erst kommt das Fressen, dann die Moral.
+Womit dann alles gesagt wäre.
+"
 examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
 The car backed into the garage.
@@ -6895,12 +7614,12 @@ accepted by a bank
 drawn on the issuing bank
 on behalf of the bank
 the order received by the bank [FINAN.]
-",,"elaborate dance scenes in the film
+",None,"elaborate dance scenes in the film
 You simply must see that film.
 and not too bad a film either
 Visually, the film is good entertainment.
 a peach of a film [coll.]
-",,,"in 1999
+",None,None,"in 1999
 The year draws to a close.
 the coming year
 every half year
@@ -6930,7 +7649,7 @@ the new rules replace the old rules
 Her new hat becomes her.
 a young company
 I've spilt some soup on my new blouse!
-",,,"evils attendant on war
+",None,None,"evils attendant on war
 The cold war has begun to thaw.
 long before the war
 Wars fuel the epidemic.
@@ -6977,8 +7696,8 @@ the best panorama of the area
 his name resounded throughout the land [fig.]
 His speech will resound throughout the country. [fig.]
 most popular tourist region
-",,,,"Steven Soderbergh is currently the hottest director in Hollywood.
-",,,None,"the President shall be responsible for the proper conduct of the hearing [LAW]
+",None,None,None,"Steven Soderbergh is currently the hottest director in Hollywood.
+",None,None,None,"the President shall be responsible for the proper conduct of the hearing [LAW]
 ",None,None,None,"Mr Justice Smith (Brit.) [LAW]
 ","No soliciting allowed.
 It is forbidden to
@@ -7144,7 +7863,102 @@ He gives me the heebie-jeebies. [coll.]
 the point so chosen by the seller
 ","enter into force as from
 he has been treading water
-",None,None,None,None,
+",None,None,None,None,None,,None,"some news of importance
+It matters.
+It hasn't got much point.
+It doesn't greatly matter
+It is important
+It is important to
+It is important to distinguish
+The news is important.
+I've got other fish to fry.
+I told him what was most important.
+","Her new hat becomes her.
+our new boss is an Australian
+under new management
+influx of new residents
+a newly established company
+The time is ripe to begin afresh.
+That's news to me.
+If a student loses their ID card, they have to pay for a new one.
+enclosed you will find our corrected account
+a new branch of our business
+a new world economic order
+the new rules replace the old rules
+What is the news?
+a young company
+","Where do we go from here? [fig.]
+at last it's clear to me
+It's all happening now!
+Now you're talking sense.
+Now you've lost me.
+Enough is enough!
+His number is up.
+Now I get it!
+Now I begin to see.
+It's make-or-break time.
+It's do or die now.
+Now he's got the bug. [coll.] - obsession
+Here we go!
+There you go again! [coll.]
+","There is a world of consoling to be done.
+now that she was sated
+He is like that.
+That's just how it is.
+That's just the way it is.
+what had I best do
+","If a student fails this exam, he or she has to leave the university.
+If a student fails this exam, they have to leave the university.
+must at least
+she has to
+Need he do it?
+must correspond to the sample enclosed
+must be reassessed
+must be divisible by three
+must clearly indicate
+must be strictly adhered to
+is to be published each year
+must be readily sellable
+must be at least as high as
+You've got to hand it to him.
+","this very question
+in exact accordance with our instructions
+accurate to a tenth
+must be strictly adhered to
+It suits me down to the ground.
+Those were his very words.
+accurate to a millimeterAEaccurate to a millimetreBE
+in exactly the same way as ...
+in exactly the same way as ...
+Drink this - it's just what you need when you're feeling unwell.
+exactly 10 years since
+a specified period of time
+the exact postage
+That is the direct opposite.
+That is the exact opposite.
+giving precise instructions
+","I'll be back.
+You'll be back tomorrow, right?
+You'll be back tomorrow, won't you?
+It's not that good.
+again and yet again
+He has remarried since.
+He has since remarried.
+She's back home.
+will induce you to order again
+Don't darken my door again.
+She's herself again.
+I'll come back when you're less busy
+Get out of my life!
+would be able to rejoin later on
+","Then you'll just have to stay at home.
+Then you'll be in trouble, in fact in deep trouble.
+I'll be off then infinitive: be off
+I'll be off then infinitive: be off
+so much for ...
+Something always goes wrong when you least expect it to.
+Fraud originates when ...
+"
 examples,german,None,None,None,None,None,None,None,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
 Das Auto fuhr rückwärts in die Garage.
@@ -7495,12 +8309,12 @@ von einer Bank akzeptiert
 gezogen auf die eröffnende Bank
 im Auftrag der Bank
 der der Bank zugegangene Auftrag
-",,"raffinierte Tanzszenen im Film
+",None,"raffinierte Tanzszenen im Film
 Du musst den Film einfach sehen.
 und auch kein allzu schlechter Film
 Von der Aufmachung her ist der Film sehr unterhaltend.
 ein klasse Film [coll.]
-",,,"im Jahr (or: Jahre) 1999
+",None,None,"im Jahr (or: Jahre) 1999
 Das Jahr neigt sich dem Ende zu.
 das kommende Jahr
 jedes halbe Jahr
@@ -7530,7 +8344,7 @@ die neuen Richtlinien ersetzen die alten
 Ihr neuer Hut steht ihr gut.
 eine neue Firma
 Ich habe etwas Suppe auf meine neue Bluse gekleckert!
-",,,"den Krieg begleitende Übel
+",None,None,"den Krieg begleitende Übel
 Der kalte Krieg hat zu tauen begonnen.
 lange vor dem Krieg
 Kriege schüren die Epidemie.
@@ -7577,8 +8391,8 @@ der beste Blick über das Land
 sein Name war in aller Munde
 Seine Rede wird im ganzen Land widerhallen.
 meist besuchtes Ferienland
-",,,,"Steven Soderbergh ist zurzeit der gefragteste Regisseur in Hollywood.
-",,,None,"dem Präsidenten obliegt die Aufrechterhaltung der Ordnung in der Sitzung
+",None,None,None,"Steven Soderbergh ist zurzeit der gefragteste Regisseur in Hollywood.
+",None,None,None,"dem Präsidenten obliegt die Aufrechterhaltung der Ordnung in der Sitzung
 ",None,None,None,"Richter Smith
 ","Hausieren verboten.
 Es ist verboten zu
@@ -7744,4 +8558,99 @@ Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
 der vom Verkäufer gewählte Ort
 ","treten in Kraft am
 er tritt auf der Stelle
-",None,None,None,None,
+",None,None,None,None,None,,None,"eine wichtige Nachricht
+Es ist wichtig.
+Es ist nicht sehr wichtig.
+Es ist nicht so wichtig
+Es ist wichtig
+Es ist wichtig zu
+Es ist wichtig zu unterscheiden
+die Nachricht ist wichtig.
+Ich habe Wichtigeres zu tun.
+Ich teilte ihm das Wichtigste mit.
+","Ihr neuer Hut steht ihr gut.
+unser neuer Chef ist Australier
+unter neuer Leitung
+der Zustrom neuer Bewohner
+eine neu gegründete Firma
+Die Zeit ist reif, neu anzufangen.
+Das ist mir neu.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+neue Rechnung anbei
+eine neue Filiale unseres Geschäftes
+eine neue weltwirtschaftliche Ordnung
+die neuen Richtlinien ersetzen die alten
+Was gibt es Neues?
+eine neue Firma
+","Und jetzt?
+jetzt blicke rarely: sehe ich endlich durch
+Jetzt geht es richtig rund! - i. S. v. es ist viel los
+Jetzt redest du vernünftig.
+Jetzt kann ich dir nicht mehr folgen.
+Jetzt reicht's aber!
+Jetzt ist er dran.
+Jetzt geht mir ein Licht auf!
+Jetzt geht mir ein Licht auf.
+Jetzt geht es um alles oder nichts.
+Jetzt geht's ums Ganze.
+Jetzt hats ihn gepackt. [coll.]
+Jetzt geht's los! [coll.]
+Jetzt gehts schon wieder los!
+","Nun muss viel Trost gespendet werden.
+nun, da ihre Lüste gestillt waren
+Er ist nun einmal so.
+Es ist nun mal so.
+So ist es nun mal.
+was tue ich denn nun am besten
+","Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+muss wenigstens
+sie muss
+Muss er es tun?
+muss beiliegendem Muster entsprechen
+muss bereinigt werden
+muss durch 3 teilbar sein
+muss eindeutig anzeigen
+muss genau eingehalten werden
+muss jährlich veröffentlicht werden
+muss leicht veräußerlich sein
+muss mindestens so hoch sein wie
+Das muss man ihm lassen.
+","genau diese Frage
+genau nach unseren Weisungen
+genau bis auf ein Zehntel
+muss genau eingehalten werden
+Das ist genau meine Kragenweite.
+Das waren genau seine Worte.
+auf den Millimeter genau
+in genau der gleichen Art und Weise wie ...
+in genau der gleichen Art wie ...
+Trink das - es ist genau das, was man braucht, wenn man sich unwohl fühlt.
+genau 10 Jahre nach
+eine genau bestimmte Frist
+das genaue Porto
+Das ist das genaue Gegenteil.
+Das ist das genaue Gegenteil.
+mit genauen Anweisungen
+","Ich komme wieder.
+Morgen kommst du wieder, nicht wahr?
+Morgen kommst du wieder, nicht wahr?
+So gut ist es auch wieder nicht.
+immer und immer wieder
+Er hat inzwischen wieder geheiratet.
+Er hat inzwischen wieder geheiratet.
+Sie ist wieder zuhause (or: zu Hause).
+wird Sie veranlassen wieder zu bestellen
+Komm mir nie wieder ins Haus.
+Sie ist wieder die Alte.
+ich komme wieder, wenn Sie mehr Zeit haben
+Zieh Leine und komm nicht wieder!
+können sich später wieder anschließen
+","Dann bleibst du halt zu Hause (or: zuhause).
+Dann bekommst du aber Ärger, und zwar gehörigen.
+ich fahre dann mal los infinitive: losfahren
+ich gehe dann mal los infinitive: losgehen
+das war's dann wohl mit ...
+Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
+Betrug entsteht dann, wenn ...
+"

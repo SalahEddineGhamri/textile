@@ -89,5 +89,6 @@ class VerbsCache(pd.DataFrame):
 
 if __name__ == "__main__":
     verb_cache = VerbsCache()
-    print(verb_cache['gehen'])
+    df = verb_cache['gehen']['indicative_active']
+    print(df.values)
     verb_cache.cache()

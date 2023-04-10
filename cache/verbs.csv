@@ -1,4 +1,4 @@
-voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess
+voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,verbieten,sagen,wählen
 indicative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -49,7 +49,77 @@ indicative_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klag(e) an
+ du klagst an
+ er klagt an
+ wir klagen an
+ ihr klagt an
+ sie klagen an"," ich heiß(e)
+ du heißt
+ er heißt
+ wir heißen
+ ihr heißt
+ sie heißen"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich fälsch(e)
+ du fälsch(s)t
+ er fälscht
+ wir fälschen
+ ihr fälscht
+ sie fälschen",," ich muss
+ du musst
+ er muss
+ wir müssen
+ ihr müsst
+ sie müssen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen",," ich tu(e)
+ du tust
+ er tut
+ wir tun
+ ihr tut
+ sie tun"," ich untersuch(e)
+ du untersuchst
+ er untersucht
+ wir untersuchen
+ ihr untersucht
+ sie untersuchen"," ich entscheid(e)
+ du entscheidest
+ er entscheidet
+ wir entscheiden
+ ihr entscheidet
+ sie entscheiden"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen",," ich tret(e)
+ du trittst
+ er tritt
+ wir treten
+ ihr tretet
+ sie treten"," ich verbiet(e)
+ du verbietest
+ er verbietet
+ wir verbieten
+ ihr verbietet
+ sie verbieten"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich wähl(e)
+ du wählst
+ er wählt
+ wir wählen
+ ihr wählt
+ sie wählen"
 indicative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -100,7 +170,77 @@ indicative_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klagte an
+ du klagtest an
+ er klagte an
+ wir klagten an
+ ihr klagtet an
+ sie klagten an"," ich hieß
+ du hieß(es)t
+ er hieß
+ wir hießen
+ ihr hieß(e)t
+ sie hießen"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich fälschte
+ du fälschtest
+ er fälschte
+ wir fälschten
+ ihr fälschtet
+ sie fälschten",," ich musste
+ du musstest
+ er musste
+ wir mussten
+ ihr musstet
+ sie mussten"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen",," ich tat
+ du tat(e)st
+ er tat
+ wir taten
+ ihr tatet
+ sie taten"," ich untersuchte
+ du untersuchtest
+ er untersuchte
+ wir untersuchten
+ ihr untersuchtet
+ sie untersuchten"," ich entschied
+ du entschied(e)st
+ er entschied
+ wir entschieden
+ ihr entschiedet
+ sie entschieden"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen",," ich trat
+ du trat(e)st
+ er trat
+ wir traten
+ ihr tratet
+ sie traten"," ich verbot
+ du verbot(e)st
+ er verbot
+ wir verboten
+ ihr verbotet
+ sie verboten"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich wählte
+ du wähltest
+ er wählte
+ wir wählten
+ ihr wähltet
+ sie wählten"
 indicative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -151,7 +291,77 @@ indicative_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich habe angeklagt
+ du hast angeklagt
+ er hat angeklagt
+ wir haben angeklagt
+ ihr habt angeklagt
+ sie haben angeklagt"," ich habe geheißen
+ du hast geheißen
+ er hat geheißen
+ wir haben geheißen
+ ihr habt geheißen
+ sie haben geheißen"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gefälscht
+ du hast gefälscht
+ er hat gefälscht
+ wir haben gefälscht
+ ihr habt gefälscht
+ sie haben gefälscht",," ich habe gemusst
+ du hast gemusst
+ er hat gemusst
+ wir haben gemusst
+ ihr habt gemusst
+ sie haben gemusst"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen",," ich habe getan
+ du hast getan
+ er hat getan
+ wir haben getan
+ ihr habt getan
+ sie haben getan"," ich habe untersucht
+ du hast untersucht
+ er hat untersucht
+ wir haben untersucht
+ ihr habt untersucht
+ sie haben untersucht"," ich habe entschieden
+ du hast entschieden
+ er hat entschieden
+ wir haben entschieden
+ ihr habt entschieden
+ sie haben entschieden"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen",," ich bin getreten
+ du bist getreten
+ er ist getreten
+ wir sind getreten
+ ihr seid getreten
+ sie sind getreten"," ich habe verboten
+ du hast verboten
+ er hat verboten
+ wir haben verboten
+ ihr habt verboten
+ sie haben verboten"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gewählt
+ du hast gewählt
+ er hat gewählt
+ wir haben gewählt
+ ihr habt gewählt
+ sie haben gewählt"
 indicative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -202,7 +412,77 @@ indicative_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich hatte angeklagt
+ du hattest angeklagt
+ er hatte angeklagt
+ wir hatten angeklagt
+ ihr hattet angeklagt
+ sie hatten angeklagt"," ich hatte geheißen
+ du hattest geheißen
+ er hatte geheißen
+ wir hatten geheißen
+ ihr hattet geheißen
+ sie hatten geheißen"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gefälscht
+ du hattest gefälscht
+ er hatte gefälscht
+ wir hatten gefälscht
+ ihr hattet gefälscht
+ sie hatten gefälscht",," ich hatte gemusst
+ du hattest gemusst
+ er hatte gemusst
+ wir hatten gemusst
+ ihr hattet gemusst
+ sie hatten gemusst"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen",," ich hatte getan
+ du hattest getan
+ er hatte getan
+ wir hatten getan
+ ihr hattet getan
+ sie hatten getan"," ich hatte untersucht
+ du hattest untersucht
+ er hatte untersucht
+ wir hatten untersucht
+ ihr hattet untersucht
+ sie hatten untersucht"," ich hatte entschieden
+ du hattest entschieden
+ er hatte entschieden
+ wir hatten entschieden
+ ihr hattet entschieden
+ sie hatten entschieden"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen",," ich war getreten
+ du warst getreten
+ er war getreten
+ wir waren getreten
+ ihr wart getreten
+ sie waren getreten"," ich hatte verboten
+ du hattest verboten
+ er hatte verboten
+ wir hatten verboten
+ ihr hattet verboten
+ sie hatten verboten"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gewählt
+ du hattest gewählt
+ er hatte gewählt
+ wir hatten gewählt
+ ihr hattet gewählt
+ sie hatten gewählt"
 indicative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -253,7 +533,77 @@ indicative_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde anklagen
+ du wirst anklagen
+ er wird anklagen
+ wir werden anklagen
+ ihr werdet anklagen
+ sie werden anklagen"," ich werde heißen
+ du wirst heißen
+ er wird heißen
+ wir werden heißen
+ ihr werdet heißen
+ sie werden heißen"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde fälschen
+ du wirst fälschen
+ er wird fälschen
+ wir werden fälschen
+ ihr werdet fälschen
+ sie werden fälschen",," ich werde müssen
+ du wirst müssen
+ er wird müssen
+ wir werden müssen
+ ihr werdet müssen
+ sie werden müssen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen",," ich werde tun
+ du wirst tun
+ er wird tun
+ wir werden tun
+ ihr werdet tun
+ sie werden tun"," ich werde untersuchen
+ du wirst untersuchen
+ er wird untersuchen
+ wir werden untersuchen
+ ihr werdet untersuchen
+ sie werden untersuchen"," ich werde entscheiden
+ du wirst entscheiden
+ er wird entscheiden
+ wir werden entscheiden
+ ihr werdet entscheiden
+ sie werden entscheiden"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen",," ich werde treten
+ du wirst treten
+ er wird treten
+ wir werden treten
+ ihr werdet treten
+ sie werden treten"," ich werde verbieten
+ du wirst verbieten
+ er wird verbieten
+ wir werden verbieten
+ ihr werdet verbieten
+ sie werden verbieten"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde wählen
+ du wirst wählen
+ er wird wählen
+ wir werden wählen
+ ihr werdet wählen
+ sie werden wählen"
 indicative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -304,7 +654,77 @@ indicative_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde angeklagt haben
+ du wirst angeklagt haben
+ er wird angeklagt haben
+ wir werden angeklagt haben
+ ihr werdet angeklagt haben
+ sie werden angeklagt haben"," ich werde geheißen haben
+ du wirst geheißen haben
+ er wird geheißen haben
+ wir werden geheißen haben
+ ihr werdet geheißen haben
+ sie werden geheißen haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gefälscht haben
+ du wirst gefälscht haben
+ er wird gefälscht haben
+ wir werden gefälscht haben
+ ihr werdet gefälscht haben
+ sie werden gefälscht haben",," ich werde gemusst haben
+ du wirst gemusst haben
+ er wird gemusst haben
+ wir werden gemusst haben
+ ihr werdet gemusst haben
+ sie werden gemusst haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein",," ich werde getan haben
+ du wirst getan haben
+ er wird getan haben
+ wir werden getan haben
+ ihr werdet getan haben
+ sie werden getan haben"," ich werde untersucht haben
+ du wirst untersucht haben
+ er wird untersucht haben
+ wir werden untersucht haben
+ ihr werdet untersucht haben
+ sie werden untersucht haben"," ich werde entschieden haben
+ du wirst entschieden haben
+ er wird entschieden haben
+ wir werden entschieden haben
+ ihr werdet entschieden haben
+ sie werden entschieden haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben",," ich werde getreten sein
+ du wirst getreten sein
+ er wird getreten sein
+ wir werden getreten sein
+ ihr werdet getreten sein
+ sie werden getreten sein"," ich werde verboten haben
+ du wirst verboten haben
+ er wird verboten haben
+ wir werden verboten haben
+ ihr werdet verboten haben
+ sie werden verboten haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gewählt haben
+ du wirst gewählt haben
+ er wird gewählt haben
+ wir werden gewählt haben
+ ihr werdet gewählt haben
+ sie werden gewählt haben"
 indicative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -315,7 +735,21 @@ indicative_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," anklagen
+ anzuklagen"," heißen
+ zu heißen"," sagen
+ zu sagen"," fälschen
+ zu fälschen",," müssen
+ zu müssen"," kommen
+ zu kommen",," tun
+ zu tun"," untersuchen
+ zu untersuchen"," entscheiden
+ zu entscheiden"," bekommen
+ zu bekommen",," treten
+ zu treten"," verbieten
+ zu verbieten"," sagen
+ zu sagen"," wählen
+ zu wählen"
 indicative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -326,9 +760,23 @@ indicative_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," angeklagt haben
+ angeklagt zu haben"," geheißen haben
+ geheißen zu haben"," gesagt haben
+ gesagt zu haben"," gefälscht haben
+ gefälscht zu haben",," gemusst haben
+ gemusst zu haben"," gekommen sein
+ gekommen zu sein",," getan haben
+ getan zu haben"," untersucht haben
+ untersucht zu haben"," entschieden haben
+ entschieden zu haben"," bekommen haben
+ bekommen zu haben",," getreten sein
+ getreten zu sein"," verboten haben
+ verboten zu haben"," gesagt haben
+ gesagt zu haben"," gewählt haben
+ gewählt zu haben"
+indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
+indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
 subjunctive_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -379,7 +827,77 @@ subjunctive_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klag(e) an
+ du klagst an
+ er klagt an
+ wir klagen an
+ ihr klagt an
+ sie klagen an"," ich heiß(e)
+ du heißt
+ er heißt
+ wir heißen
+ ihr heißt
+ sie heißen"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich fälsch(e)
+ du fälsch(s)t
+ er fälscht
+ wir fälschen
+ ihr fälscht
+ sie fälschen",," ich muss
+ du musst
+ er muss
+ wir müssen
+ ihr müsst
+ sie müssen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen",," ich tu(e)
+ du tust
+ er tut
+ wir tun
+ ihr tut
+ sie tun"," ich untersuch(e)
+ du untersuchst
+ er untersucht
+ wir untersuchen
+ ihr untersucht
+ sie untersuchen"," ich entscheid(e)
+ du entscheidest
+ er entscheidet
+ wir entscheiden
+ ihr entscheidet
+ sie entscheiden"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen",," ich tret(e)
+ du trittst
+ er tritt
+ wir treten
+ ihr tretet
+ sie treten"," ich verbiet(e)
+ du verbietest
+ er verbietet
+ wir verbieten
+ ihr verbietet
+ sie verbieten"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich wähl(e)
+ du wählst
+ er wählt
+ wir wählen
+ ihr wählt
+ sie wählen"
 subjunctive_active,Imperfect," ich gab
  du gabst
  er gab
@@ -430,7 +948,77 @@ subjunctive_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klagte an
+ du klagtest an
+ er klagte an
+ wir klagten an
+ ihr klagtet an
+ sie klagten an"," ich hieß
+ du hieß(es)t
+ er hieß
+ wir hießen
+ ihr hieß(e)t
+ sie hießen"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich fälschte
+ du fälschtest
+ er fälschte
+ wir fälschten
+ ihr fälschtet
+ sie fälschten",," ich musste
+ du musstest
+ er musste
+ wir mussten
+ ihr musstet
+ sie mussten"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen",," ich tat
+ du tat(e)st
+ er tat
+ wir taten
+ ihr tatet
+ sie taten"," ich untersuchte
+ du untersuchtest
+ er untersuchte
+ wir untersuchten
+ ihr untersuchtet
+ sie untersuchten"," ich entschied
+ du entschied(e)st
+ er entschied
+ wir entschieden
+ ihr entschiedet
+ sie entschieden"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen",," ich trat
+ du trat(e)st
+ er trat
+ wir traten
+ ihr tratet
+ sie traten"," ich verbot
+ du verbot(e)st
+ er verbot
+ wir verboten
+ ihr verbotet
+ sie verboten"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich wählte
+ du wähltest
+ er wählte
+ wir wählten
+ ihr wähltet
+ sie wählten"
 subjunctive_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -481,7 +1069,77 @@ subjunctive_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich habe angeklagt
+ du hast angeklagt
+ er hat angeklagt
+ wir haben angeklagt
+ ihr habt angeklagt
+ sie haben angeklagt"," ich habe geheißen
+ du hast geheißen
+ er hat geheißen
+ wir haben geheißen
+ ihr habt geheißen
+ sie haben geheißen"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gefälscht
+ du hast gefälscht
+ er hat gefälscht
+ wir haben gefälscht
+ ihr habt gefälscht
+ sie haben gefälscht",," ich habe gemusst
+ du hast gemusst
+ er hat gemusst
+ wir haben gemusst
+ ihr habt gemusst
+ sie haben gemusst"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen",," ich habe getan
+ du hast getan
+ er hat getan
+ wir haben getan
+ ihr habt getan
+ sie haben getan"," ich habe untersucht
+ du hast untersucht
+ er hat untersucht
+ wir haben untersucht
+ ihr habt untersucht
+ sie haben untersucht"," ich habe entschieden
+ du hast entschieden
+ er hat entschieden
+ wir haben entschieden
+ ihr habt entschieden
+ sie haben entschieden"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen",," ich bin getreten
+ du bist getreten
+ er ist getreten
+ wir sind getreten
+ ihr seid getreten
+ sie sind getreten"," ich habe verboten
+ du hast verboten
+ er hat verboten
+ wir haben verboten
+ ihr habt verboten
+ sie haben verboten"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gewählt
+ du hast gewählt
+ er hat gewählt
+ wir haben gewählt
+ ihr habt gewählt
+ sie haben gewählt"
 subjunctive_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -532,7 +1190,77 @@ subjunctive_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich hatte angeklagt
+ du hattest angeklagt
+ er hatte angeklagt
+ wir hatten angeklagt
+ ihr hattet angeklagt
+ sie hatten angeklagt"," ich hatte geheißen
+ du hattest geheißen
+ er hatte geheißen
+ wir hatten geheißen
+ ihr hattet geheißen
+ sie hatten geheißen"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gefälscht
+ du hattest gefälscht
+ er hatte gefälscht
+ wir hatten gefälscht
+ ihr hattet gefälscht
+ sie hatten gefälscht",," ich hatte gemusst
+ du hattest gemusst
+ er hatte gemusst
+ wir hatten gemusst
+ ihr hattet gemusst
+ sie hatten gemusst"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen",," ich hatte getan
+ du hattest getan
+ er hatte getan
+ wir hatten getan
+ ihr hattet getan
+ sie hatten getan"," ich hatte untersucht
+ du hattest untersucht
+ er hatte untersucht
+ wir hatten untersucht
+ ihr hattet untersucht
+ sie hatten untersucht"," ich hatte entschieden
+ du hattest entschieden
+ er hatte entschieden
+ wir hatten entschieden
+ ihr hattet entschieden
+ sie hatten entschieden"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen",," ich war getreten
+ du warst getreten
+ er war getreten
+ wir waren getreten
+ ihr wart getreten
+ sie waren getreten"," ich hatte verboten
+ du hattest verboten
+ er hatte verboten
+ wir hatten verboten
+ ihr hattet verboten
+ sie hatten verboten"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gewählt
+ du hattest gewählt
+ er hatte gewählt
+ wir hatten gewählt
+ ihr hattet gewählt
+ sie hatten gewählt"
 subjunctive_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -583,7 +1311,77 @@ subjunctive_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde anklagen
+ du wirst anklagen
+ er wird anklagen
+ wir werden anklagen
+ ihr werdet anklagen
+ sie werden anklagen"," ich werde heißen
+ du wirst heißen
+ er wird heißen
+ wir werden heißen
+ ihr werdet heißen
+ sie werden heißen"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde fälschen
+ du wirst fälschen
+ er wird fälschen
+ wir werden fälschen
+ ihr werdet fälschen
+ sie werden fälschen",," ich werde müssen
+ du wirst müssen
+ er wird müssen
+ wir werden müssen
+ ihr werdet müssen
+ sie werden müssen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen",," ich werde tun
+ du wirst tun
+ er wird tun
+ wir werden tun
+ ihr werdet tun
+ sie werden tun"," ich werde untersuchen
+ du wirst untersuchen
+ er wird untersuchen
+ wir werden untersuchen
+ ihr werdet untersuchen
+ sie werden untersuchen"," ich werde entscheiden
+ du wirst entscheiden
+ er wird entscheiden
+ wir werden entscheiden
+ ihr werdet entscheiden
+ sie werden entscheiden"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen",," ich werde treten
+ du wirst treten
+ er wird treten
+ wir werden treten
+ ihr werdet treten
+ sie werden treten"," ich werde verbieten
+ du wirst verbieten
+ er wird verbieten
+ wir werden verbieten
+ ihr werdet verbieten
+ sie werden verbieten"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde wählen
+ du wirst wählen
+ er wird wählen
+ wir werden wählen
+ ihr werdet wählen
+ sie werden wählen"
 subjunctive_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -634,7 +1432,77 @@ subjunctive_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde angeklagt haben
+ du wirst angeklagt haben
+ er wird angeklagt haben
+ wir werden angeklagt haben
+ ihr werdet angeklagt haben
+ sie werden angeklagt haben"," ich werde geheißen haben
+ du wirst geheißen haben
+ er wird geheißen haben
+ wir werden geheißen haben
+ ihr werdet geheißen haben
+ sie werden geheißen haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gefälscht haben
+ du wirst gefälscht haben
+ er wird gefälscht haben
+ wir werden gefälscht haben
+ ihr werdet gefälscht haben
+ sie werden gefälscht haben",," ich werde gemusst haben
+ du wirst gemusst haben
+ er wird gemusst haben
+ wir werden gemusst haben
+ ihr werdet gemusst haben
+ sie werden gemusst haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein",," ich werde getan haben
+ du wirst getan haben
+ er wird getan haben
+ wir werden getan haben
+ ihr werdet getan haben
+ sie werden getan haben"," ich werde untersucht haben
+ du wirst untersucht haben
+ er wird untersucht haben
+ wir werden untersucht haben
+ ihr werdet untersucht haben
+ sie werden untersucht haben"," ich werde entschieden haben
+ du wirst entschieden haben
+ er wird entschieden haben
+ wir werden entschieden haben
+ ihr werdet entschieden haben
+ sie werden entschieden haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben",," ich werde getreten sein
+ du wirst getreten sein
+ er wird getreten sein
+ wir werden getreten sein
+ ihr werdet getreten sein
+ sie werden getreten sein"," ich werde verboten haben
+ du wirst verboten haben
+ er wird verboten haben
+ wir werden verboten haben
+ ihr werdet verboten haben
+ sie werden verboten haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gewählt haben
+ du wirst gewählt haben
+ er wird gewählt haben
+ wir werden gewählt haben
+ ihr werdet gewählt haben
+ sie werden gewählt haben"
 subjunctive_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -645,7 +1513,21 @@ subjunctive_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," anklagen
+ anzuklagen"," heißen
+ zu heißen"," sagen
+ zu sagen"," fälschen
+ zu fälschen",," müssen
+ zu müssen"," kommen
+ zu kommen",," tun
+ zu tun"," untersuchen
+ zu untersuchen"," entscheiden
+ zu entscheiden"," bekommen
+ zu bekommen",," treten
+ zu treten"," verbieten
+ zu verbieten"," sagen
+ zu sagen"," wählen
+ zu wählen"
 subjunctive_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -656,9 +1538,23 @@ subjunctive_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," angeklagt haben
+ angeklagt zu haben"," geheißen haben
+ geheißen zu haben"," gesagt haben
+ gesagt zu haben"," gefälscht haben
+ gefälscht zu haben",," gemusst haben
+ gemusst zu haben"," gekommen sein
+ gekommen zu sein",," getan haben
+ getan zu haben"," untersucht haben
+ untersucht zu haben"," entschieden haben
+ entschieden zu haben"," bekommen haben
+ bekommen zu haben",," getreten sein
+ getreten zu sein"," verboten haben
+ verboten zu haben"," gesagt haben
+ gesagt zu haben"," gewählt haben
+ gewählt zu haben"
+subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
+subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
 conditional_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -709,7 +1605,77 @@ conditional_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klag(e) an
+ du klagst an
+ er klagt an
+ wir klagen an
+ ihr klagt an
+ sie klagen an"," ich heiß(e)
+ du heißt
+ er heißt
+ wir heißen
+ ihr heißt
+ sie heißen"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich fälsch(e)
+ du fälsch(s)t
+ er fälscht
+ wir fälschen
+ ihr fälscht
+ sie fälschen",," ich muss
+ du musst
+ er muss
+ wir müssen
+ ihr müsst
+ sie müssen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen",," ich tu(e)
+ du tust
+ er tut
+ wir tun
+ ihr tut
+ sie tun"," ich untersuch(e)
+ du untersuchst
+ er untersucht
+ wir untersuchen
+ ihr untersucht
+ sie untersuchen"," ich entscheid(e)
+ du entscheidest
+ er entscheidet
+ wir entscheiden
+ ihr entscheidet
+ sie entscheiden"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen",," ich tret(e)
+ du trittst
+ er tritt
+ wir treten
+ ihr tretet
+ sie treten"," ich verbiet(e)
+ du verbietest
+ er verbietet
+ wir verbieten
+ ihr verbietet
+ sie verbieten"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich wähl(e)
+ du wählst
+ er wählt
+ wir wählen
+ ihr wählt
+ sie wählen"
 conditional_active,Imperfect," ich gab
  du gabst
  er gab
@@ -760,7 +1726,77 @@ conditional_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klagte an
+ du klagtest an
+ er klagte an
+ wir klagten an
+ ihr klagtet an
+ sie klagten an"," ich hieß
+ du hieß(es)t
+ er hieß
+ wir hießen
+ ihr hieß(e)t
+ sie hießen"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich fälschte
+ du fälschtest
+ er fälschte
+ wir fälschten
+ ihr fälschtet
+ sie fälschten",," ich musste
+ du musstest
+ er musste
+ wir mussten
+ ihr musstet
+ sie mussten"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen",," ich tat
+ du tat(e)st
+ er tat
+ wir taten
+ ihr tatet
+ sie taten"," ich untersuchte
+ du untersuchtest
+ er untersuchte
+ wir untersuchten
+ ihr untersuchtet
+ sie untersuchten"," ich entschied
+ du entschied(e)st
+ er entschied
+ wir entschieden
+ ihr entschiedet
+ sie entschieden"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen",," ich trat
+ du trat(e)st
+ er trat
+ wir traten
+ ihr tratet
+ sie traten"," ich verbot
+ du verbot(e)st
+ er verbot
+ wir verboten
+ ihr verbotet
+ sie verboten"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich wählte
+ du wähltest
+ er wählte
+ wir wählten
+ ihr wähltet
+ sie wählten"
 conditional_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -811,7 +1847,77 @@ conditional_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich habe angeklagt
+ du hast angeklagt
+ er hat angeklagt
+ wir haben angeklagt
+ ihr habt angeklagt
+ sie haben angeklagt"," ich habe geheißen
+ du hast geheißen
+ er hat geheißen
+ wir haben geheißen
+ ihr habt geheißen
+ sie haben geheißen"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gefälscht
+ du hast gefälscht
+ er hat gefälscht
+ wir haben gefälscht
+ ihr habt gefälscht
+ sie haben gefälscht",," ich habe gemusst
+ du hast gemusst
+ er hat gemusst
+ wir haben gemusst
+ ihr habt gemusst
+ sie haben gemusst"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen",," ich habe getan
+ du hast getan
+ er hat getan
+ wir haben getan
+ ihr habt getan
+ sie haben getan"," ich habe untersucht
+ du hast untersucht
+ er hat untersucht
+ wir haben untersucht
+ ihr habt untersucht
+ sie haben untersucht"," ich habe entschieden
+ du hast entschieden
+ er hat entschieden
+ wir haben entschieden
+ ihr habt entschieden
+ sie haben entschieden"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen",," ich bin getreten
+ du bist getreten
+ er ist getreten
+ wir sind getreten
+ ihr seid getreten
+ sie sind getreten"," ich habe verboten
+ du hast verboten
+ er hat verboten
+ wir haben verboten
+ ihr habt verboten
+ sie haben verboten"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gewählt
+ du hast gewählt
+ er hat gewählt
+ wir haben gewählt
+ ihr habt gewählt
+ sie haben gewählt"
 conditional_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -862,7 +1968,77 @@ conditional_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich hatte angeklagt
+ du hattest angeklagt
+ er hatte angeklagt
+ wir hatten angeklagt
+ ihr hattet angeklagt
+ sie hatten angeklagt"," ich hatte geheißen
+ du hattest geheißen
+ er hatte geheißen
+ wir hatten geheißen
+ ihr hattet geheißen
+ sie hatten geheißen"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gefälscht
+ du hattest gefälscht
+ er hatte gefälscht
+ wir hatten gefälscht
+ ihr hattet gefälscht
+ sie hatten gefälscht",," ich hatte gemusst
+ du hattest gemusst
+ er hatte gemusst
+ wir hatten gemusst
+ ihr hattet gemusst
+ sie hatten gemusst"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen",," ich hatte getan
+ du hattest getan
+ er hatte getan
+ wir hatten getan
+ ihr hattet getan
+ sie hatten getan"," ich hatte untersucht
+ du hattest untersucht
+ er hatte untersucht
+ wir hatten untersucht
+ ihr hattet untersucht
+ sie hatten untersucht"," ich hatte entschieden
+ du hattest entschieden
+ er hatte entschieden
+ wir hatten entschieden
+ ihr hattet entschieden
+ sie hatten entschieden"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen",," ich war getreten
+ du warst getreten
+ er war getreten
+ wir waren getreten
+ ihr wart getreten
+ sie waren getreten"," ich hatte verboten
+ du hattest verboten
+ er hatte verboten
+ wir hatten verboten
+ ihr hattet verboten
+ sie hatten verboten"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gewählt
+ du hattest gewählt
+ er hatte gewählt
+ wir hatten gewählt
+ ihr hattet gewählt
+ sie hatten gewählt"
 conditional_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -913,7 +2089,77 @@ conditional_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde anklagen
+ du wirst anklagen
+ er wird anklagen
+ wir werden anklagen
+ ihr werdet anklagen
+ sie werden anklagen"," ich werde heißen
+ du wirst heißen
+ er wird heißen
+ wir werden heißen
+ ihr werdet heißen
+ sie werden heißen"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde fälschen
+ du wirst fälschen
+ er wird fälschen
+ wir werden fälschen
+ ihr werdet fälschen
+ sie werden fälschen",," ich werde müssen
+ du wirst müssen
+ er wird müssen
+ wir werden müssen
+ ihr werdet müssen
+ sie werden müssen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen",," ich werde tun
+ du wirst tun
+ er wird tun
+ wir werden tun
+ ihr werdet tun
+ sie werden tun"," ich werde untersuchen
+ du wirst untersuchen
+ er wird untersuchen
+ wir werden untersuchen
+ ihr werdet untersuchen
+ sie werden untersuchen"," ich werde entscheiden
+ du wirst entscheiden
+ er wird entscheiden
+ wir werden entscheiden
+ ihr werdet entscheiden
+ sie werden entscheiden"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen",," ich werde treten
+ du wirst treten
+ er wird treten
+ wir werden treten
+ ihr werdet treten
+ sie werden treten"," ich werde verbieten
+ du wirst verbieten
+ er wird verbieten
+ wir werden verbieten
+ ihr werdet verbieten
+ sie werden verbieten"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde wählen
+ du wirst wählen
+ er wird wählen
+ wir werden wählen
+ ihr werdet wählen
+ sie werden wählen"
 conditional_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -964,7 +2210,77 @@ conditional_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde angeklagt haben
+ du wirst angeklagt haben
+ er wird angeklagt haben
+ wir werden angeklagt haben
+ ihr werdet angeklagt haben
+ sie werden angeklagt haben"," ich werde geheißen haben
+ du wirst geheißen haben
+ er wird geheißen haben
+ wir werden geheißen haben
+ ihr werdet geheißen haben
+ sie werden geheißen haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gefälscht haben
+ du wirst gefälscht haben
+ er wird gefälscht haben
+ wir werden gefälscht haben
+ ihr werdet gefälscht haben
+ sie werden gefälscht haben",," ich werde gemusst haben
+ du wirst gemusst haben
+ er wird gemusst haben
+ wir werden gemusst haben
+ ihr werdet gemusst haben
+ sie werden gemusst haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein",," ich werde getan haben
+ du wirst getan haben
+ er wird getan haben
+ wir werden getan haben
+ ihr werdet getan haben
+ sie werden getan haben"," ich werde untersucht haben
+ du wirst untersucht haben
+ er wird untersucht haben
+ wir werden untersucht haben
+ ihr werdet untersucht haben
+ sie werden untersucht haben"," ich werde entschieden haben
+ du wirst entschieden haben
+ er wird entschieden haben
+ wir werden entschieden haben
+ ihr werdet entschieden haben
+ sie werden entschieden haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben",," ich werde getreten sein
+ du wirst getreten sein
+ er wird getreten sein
+ wir werden getreten sein
+ ihr werdet getreten sein
+ sie werden getreten sein"," ich werde verboten haben
+ du wirst verboten haben
+ er wird verboten haben
+ wir werden verboten haben
+ ihr werdet verboten haben
+ sie werden verboten haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gewählt haben
+ du wirst gewählt haben
+ er wird gewählt haben
+ wir werden gewählt haben
+ ihr werdet gewählt haben
+ sie werden gewählt haben"
 conditional_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -975,7 +2291,21 @@ conditional_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," anklagen
+ anzuklagen"," heißen
+ zu heißen"," sagen
+ zu sagen"," fälschen
+ zu fälschen",," müssen
+ zu müssen"," kommen
+ zu kommen",," tun
+ zu tun"," untersuchen
+ zu untersuchen"," entscheiden
+ zu entscheiden"," bekommen
+ zu bekommen",," treten
+ zu treten"," verbieten
+ zu verbieten"," sagen
+ zu sagen"," wählen
+ zu wählen"
 conditional_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -986,9 +2316,23 @@ conditional_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," angeklagt haben
+ angeklagt zu haben"," geheißen haben
+ geheißen zu haben"," gesagt haben
+ gesagt zu haben"," gefälscht haben
+ gefälscht zu haben",," gemusst haben
+ gemusst zu haben"," gekommen sein
+ gekommen zu sein",," getan haben
+ getan zu haben"," untersucht haben
+ untersucht zu haben"," entschieden haben
+ entschieden zu haben"," bekommen haben
+ bekommen zu haben",," getreten sein
+ getreten zu sein"," verboten haben
+ verboten zu haben"," gesagt haben
+ gesagt zu haben"," gewählt haben
+ gewählt zu haben"
+conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
+conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
 imperative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -1039,7 +2383,77 @@ imperative_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klag(e) an
+ du klagst an
+ er klagt an
+ wir klagen an
+ ihr klagt an
+ sie klagen an"," ich heiß(e)
+ du heißt
+ er heißt
+ wir heißen
+ ihr heißt
+ sie heißen"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich fälsch(e)
+ du fälsch(s)t
+ er fälscht
+ wir fälschen
+ ihr fälscht
+ sie fälschen",," ich muss
+ du musst
+ er muss
+ wir müssen
+ ihr müsst
+ sie müssen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen",," ich tu(e)
+ du tust
+ er tut
+ wir tun
+ ihr tut
+ sie tun"," ich untersuch(e)
+ du untersuchst
+ er untersucht
+ wir untersuchen
+ ihr untersucht
+ sie untersuchen"," ich entscheid(e)
+ du entscheidest
+ er entscheidet
+ wir entscheiden
+ ihr entscheidet
+ sie entscheiden"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen",," ich tret(e)
+ du trittst
+ er tritt
+ wir treten
+ ihr tretet
+ sie treten"," ich verbiet(e)
+ du verbietest
+ er verbietet
+ wir verbieten
+ ihr verbietet
+ sie verbieten"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich wähl(e)
+ du wählst
+ er wählt
+ wir wählen
+ ihr wählt
+ sie wählen"
 imperative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1090,7 +2504,77 @@ imperative_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klagte an
+ du klagtest an
+ er klagte an
+ wir klagten an
+ ihr klagtet an
+ sie klagten an"," ich hieß
+ du hieß(es)t
+ er hieß
+ wir hießen
+ ihr hieß(e)t
+ sie hießen"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich fälschte
+ du fälschtest
+ er fälschte
+ wir fälschten
+ ihr fälschtet
+ sie fälschten",," ich musste
+ du musstest
+ er musste
+ wir mussten
+ ihr musstet
+ sie mussten"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen",," ich tat
+ du tat(e)st
+ er tat
+ wir taten
+ ihr tatet
+ sie taten"," ich untersuchte
+ du untersuchtest
+ er untersuchte
+ wir untersuchten
+ ihr untersuchtet
+ sie untersuchten"," ich entschied
+ du entschied(e)st
+ er entschied
+ wir entschieden
+ ihr entschiedet
+ sie entschieden"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen",," ich trat
+ du trat(e)st
+ er trat
+ wir traten
+ ihr tratet
+ sie traten"," ich verbot
+ du verbot(e)st
+ er verbot
+ wir verboten
+ ihr verbotet
+ sie verboten"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich wählte
+ du wähltest
+ er wählte
+ wir wählten
+ ihr wähltet
+ sie wählten"
 imperative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1141,7 +2625,77 @@ imperative_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich habe angeklagt
+ du hast angeklagt
+ er hat angeklagt
+ wir haben angeklagt
+ ihr habt angeklagt
+ sie haben angeklagt"," ich habe geheißen
+ du hast geheißen
+ er hat geheißen
+ wir haben geheißen
+ ihr habt geheißen
+ sie haben geheißen"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gefälscht
+ du hast gefälscht
+ er hat gefälscht
+ wir haben gefälscht
+ ihr habt gefälscht
+ sie haben gefälscht",," ich habe gemusst
+ du hast gemusst
+ er hat gemusst
+ wir haben gemusst
+ ihr habt gemusst
+ sie haben gemusst"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen",," ich habe getan
+ du hast getan
+ er hat getan
+ wir haben getan
+ ihr habt getan
+ sie haben getan"," ich habe untersucht
+ du hast untersucht
+ er hat untersucht
+ wir haben untersucht
+ ihr habt untersucht
+ sie haben untersucht"," ich habe entschieden
+ du hast entschieden
+ er hat entschieden
+ wir haben entschieden
+ ihr habt entschieden
+ sie haben entschieden"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen",," ich bin getreten
+ du bist getreten
+ er ist getreten
+ wir sind getreten
+ ihr seid getreten
+ sie sind getreten"," ich habe verboten
+ du hast verboten
+ er hat verboten
+ wir haben verboten
+ ihr habt verboten
+ sie haben verboten"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gewählt
+ du hast gewählt
+ er hat gewählt
+ wir haben gewählt
+ ihr habt gewählt
+ sie haben gewählt"
 imperative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -1192,7 +2746,77 @@ imperative_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich hatte angeklagt
+ du hattest angeklagt
+ er hatte angeklagt
+ wir hatten angeklagt
+ ihr hattet angeklagt
+ sie hatten angeklagt"," ich hatte geheißen
+ du hattest geheißen
+ er hatte geheißen
+ wir hatten geheißen
+ ihr hattet geheißen
+ sie hatten geheißen"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gefälscht
+ du hattest gefälscht
+ er hatte gefälscht
+ wir hatten gefälscht
+ ihr hattet gefälscht
+ sie hatten gefälscht",," ich hatte gemusst
+ du hattest gemusst
+ er hatte gemusst
+ wir hatten gemusst
+ ihr hattet gemusst
+ sie hatten gemusst"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen",," ich hatte getan
+ du hattest getan
+ er hatte getan
+ wir hatten getan
+ ihr hattet getan
+ sie hatten getan"," ich hatte untersucht
+ du hattest untersucht
+ er hatte untersucht
+ wir hatten untersucht
+ ihr hattet untersucht
+ sie hatten untersucht"," ich hatte entschieden
+ du hattest entschieden
+ er hatte entschieden
+ wir hatten entschieden
+ ihr hattet entschieden
+ sie hatten entschieden"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen",," ich war getreten
+ du warst getreten
+ er war getreten
+ wir waren getreten
+ ihr wart getreten
+ sie waren getreten"," ich hatte verboten
+ du hattest verboten
+ er hatte verboten
+ wir hatten verboten
+ ihr hattet verboten
+ sie hatten verboten"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gewählt
+ du hattest gewählt
+ er hatte gewählt
+ wir hatten gewählt
+ ihr hattet gewählt
+ sie hatten gewählt"
 imperative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -1243,7 +2867,77 @@ imperative_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde anklagen
+ du wirst anklagen
+ er wird anklagen
+ wir werden anklagen
+ ihr werdet anklagen
+ sie werden anklagen"," ich werde heißen
+ du wirst heißen
+ er wird heißen
+ wir werden heißen
+ ihr werdet heißen
+ sie werden heißen"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde fälschen
+ du wirst fälschen
+ er wird fälschen
+ wir werden fälschen
+ ihr werdet fälschen
+ sie werden fälschen",," ich werde müssen
+ du wirst müssen
+ er wird müssen
+ wir werden müssen
+ ihr werdet müssen
+ sie werden müssen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen",," ich werde tun
+ du wirst tun
+ er wird tun
+ wir werden tun
+ ihr werdet tun
+ sie werden tun"," ich werde untersuchen
+ du wirst untersuchen
+ er wird untersuchen
+ wir werden untersuchen
+ ihr werdet untersuchen
+ sie werden untersuchen"," ich werde entscheiden
+ du wirst entscheiden
+ er wird entscheiden
+ wir werden entscheiden
+ ihr werdet entscheiden
+ sie werden entscheiden"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen",," ich werde treten
+ du wirst treten
+ er wird treten
+ wir werden treten
+ ihr werdet treten
+ sie werden treten"," ich werde verbieten
+ du wirst verbieten
+ er wird verbieten
+ wir werden verbieten
+ ihr werdet verbieten
+ sie werden verbieten"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde wählen
+ du wirst wählen
+ er wird wählen
+ wir werden wählen
+ ihr werdet wählen
+ sie werden wählen"
 imperative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -1294,7 +2988,77 @@ imperative_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde angeklagt haben
+ du wirst angeklagt haben
+ er wird angeklagt haben
+ wir werden angeklagt haben
+ ihr werdet angeklagt haben
+ sie werden angeklagt haben"," ich werde geheißen haben
+ du wirst geheißen haben
+ er wird geheißen haben
+ wir werden geheißen haben
+ ihr werdet geheißen haben
+ sie werden geheißen haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gefälscht haben
+ du wirst gefälscht haben
+ er wird gefälscht haben
+ wir werden gefälscht haben
+ ihr werdet gefälscht haben
+ sie werden gefälscht haben",," ich werde gemusst haben
+ du wirst gemusst haben
+ er wird gemusst haben
+ wir werden gemusst haben
+ ihr werdet gemusst haben
+ sie werden gemusst haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein",," ich werde getan haben
+ du wirst getan haben
+ er wird getan haben
+ wir werden getan haben
+ ihr werdet getan haben
+ sie werden getan haben"," ich werde untersucht haben
+ du wirst untersucht haben
+ er wird untersucht haben
+ wir werden untersucht haben
+ ihr werdet untersucht haben
+ sie werden untersucht haben"," ich werde entschieden haben
+ du wirst entschieden haben
+ er wird entschieden haben
+ wir werden entschieden haben
+ ihr werdet entschieden haben
+ sie werden entschieden haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben",," ich werde getreten sein
+ du wirst getreten sein
+ er wird getreten sein
+ wir werden getreten sein
+ ihr werdet getreten sein
+ sie werden getreten sein"," ich werde verboten haben
+ du wirst verboten haben
+ er wird verboten haben
+ wir werden verboten haben
+ ihr werdet verboten haben
+ sie werden verboten haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gewählt haben
+ du wirst gewählt haben
+ er wird gewählt haben
+ wir werden gewählt haben
+ ihr werdet gewählt haben
+ sie werden gewählt haben"
 imperative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -1305,7 +3069,21 @@ imperative_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," anklagen
+ anzuklagen"," heißen
+ zu heißen"," sagen
+ zu sagen"," fälschen
+ zu fälschen",," müssen
+ zu müssen"," kommen
+ zu kommen",," tun
+ zu tun"," untersuchen
+ zu untersuchen"," entscheiden
+ zu entscheiden"," bekommen
+ zu bekommen",," treten
+ zu treten"," verbieten
+ zu verbieten"," sagen
+ zu sagen"," wählen
+ zu wählen"
 imperative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -1316,9 +3094,23 @@ imperative_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," angeklagt haben
+ angeklagt zu haben"," geheißen haben
+ geheißen zu haben"," gesagt haben
+ gesagt zu haben"," gefälscht haben
+ gefälscht zu haben",," gemusst haben
+ gemusst zu haben"," gekommen sein
+ gekommen zu sein",," getan haben
+ getan zu haben"," untersucht haben
+ untersucht zu haben"," entschieden haben
+ entschieden zu haben"," bekommen haben
+ bekommen zu haben",," getreten sein
+ getreten zu sein"," verboten haben
+ verboten zu haben"," gesagt haben
+ gesagt zu haben"," gewählt haben
+ gewählt zu haben"
+imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
+imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt
 infinitive_participle_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -1369,7 +3161,77 @@ infinitive_participle_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klag(e) an
+ du klagst an
+ er klagt an
+ wir klagen an
+ ihr klagt an
+ sie klagen an"," ich heiß(e)
+ du heißt
+ er heißt
+ wir heißen
+ ihr heißt
+ sie heißen"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich fälsch(e)
+ du fälsch(s)t
+ er fälscht
+ wir fälschen
+ ihr fälscht
+ sie fälschen",," ich muss
+ du musst
+ er muss
+ wir müssen
+ ihr müsst
+ sie müssen"," ich komm(e)
+ du kommst/kömmst
+ er kommt/kömmt
+ wir kommen
+ ihr kommt
+ sie kommen",," ich tu(e)
+ du tust
+ er tut
+ wir tun
+ ihr tut
+ sie tun"," ich untersuch(e)
+ du untersuchst
+ er untersucht
+ wir untersuchen
+ ihr untersucht
+ sie untersuchen"," ich entscheid(e)
+ du entscheidest
+ er entscheidet
+ wir entscheiden
+ ihr entscheidet
+ sie entscheiden"," ich bekomm(e)
+ du bekommst/bekömmst
+ er bekommt/bekömmt
+ wir bekommen
+ ihr bekommt
+ sie bekommen",," ich tret(e)
+ du trittst
+ er tritt
+ wir treten
+ ihr tretet
+ sie treten"," ich verbiet(e)
+ du verbietest
+ er verbietet
+ wir verbieten
+ ihr verbietet
+ sie verbieten"," ich sag(e)
+ du sagst
+ er sagt
+ wir sagen
+ ihr sagt
+ sie sagen"," ich wähl(e)
+ du wählst
+ er wählt
+ wir wählen
+ ihr wählt
+ sie wählen"
 infinitive_participle_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1420,7 +3282,77 @@ infinitive_participle_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich klagte an
+ du klagtest an
+ er klagte an
+ wir klagten an
+ ihr klagtet an
+ sie klagten an"," ich hieß
+ du hieß(es)t
+ er hieß
+ wir hießen
+ ihr hieß(e)t
+ sie hießen"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich fälschte
+ du fälschtest
+ er fälschte
+ wir fälschten
+ ihr fälschtet
+ sie fälschten",," ich musste
+ du musstest
+ er musste
+ wir mussten
+ ihr musstet
+ sie mussten"," ich kam
+ du kamst
+ er kam
+ wir kamen
+ ihr kamt
+ sie kamen",," ich tat
+ du tat(e)st
+ er tat
+ wir taten
+ ihr tatet
+ sie taten"," ich untersuchte
+ du untersuchtest
+ er untersuchte
+ wir untersuchten
+ ihr untersuchtet
+ sie untersuchten"," ich entschied
+ du entschied(e)st
+ er entschied
+ wir entschieden
+ ihr entschiedet
+ sie entschieden"," ich bekam
+ du bekamst
+ er bekam
+ wir bekamen
+ ihr bekamt
+ sie bekamen",," ich trat
+ du trat(e)st
+ er trat
+ wir traten
+ ihr tratet
+ sie traten"," ich verbot
+ du verbot(e)st
+ er verbot
+ wir verboten
+ ihr verbotet
+ sie verboten"," ich sagte
+ du sagtest
+ er sagte
+ wir sagten
+ ihr sagtet
+ sie sagten"," ich wählte
+ du wähltest
+ er wählte
+ wir wählten
+ ihr wähltet
+ sie wählten"
 infinitive_participle_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1471,7 +3403,77 @@ infinitive_participle_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich habe angeklagt
+ du hast angeklagt
+ er hat angeklagt
+ wir haben angeklagt
+ ihr habt angeklagt
+ sie haben angeklagt"," ich habe geheißen
+ du hast geheißen
+ er hat geheißen
+ wir haben geheißen
+ ihr habt geheißen
+ sie haben geheißen"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gefälscht
+ du hast gefälscht
+ er hat gefälscht
+ wir haben gefälscht
+ ihr habt gefälscht
+ sie haben gefälscht",," ich habe gemusst
+ du hast gemusst
+ er hat gemusst
+ wir haben gemusst
+ ihr habt gemusst
+ sie haben gemusst"," ich bin gekommen
+ du bist gekommen
+ er ist gekommen
+ wir sind gekommen
+ ihr seid gekommen
+ sie sind gekommen",," ich habe getan
+ du hast getan
+ er hat getan
+ wir haben getan
+ ihr habt getan
+ sie haben getan"," ich habe untersucht
+ du hast untersucht
+ er hat untersucht
+ wir haben untersucht
+ ihr habt untersucht
+ sie haben untersucht"," ich habe entschieden
+ du hast entschieden
+ er hat entschieden
+ wir haben entschieden
+ ihr habt entschieden
+ sie haben entschieden"," ich habe bekommen
+ du hast bekommen
+ er hat bekommen
+ wir haben bekommen
+ ihr habt bekommen
+ sie haben bekommen",," ich bin getreten
+ du bist getreten
+ er ist getreten
+ wir sind getreten
+ ihr seid getreten
+ sie sind getreten"," ich habe verboten
+ du hast verboten
+ er hat verboten
+ wir haben verboten
+ ihr habt verboten
+ sie haben verboten"," ich habe gesagt
+ du hast gesagt
+ er hat gesagt
+ wir haben gesagt
+ ihr habt gesagt
+ sie haben gesagt"," ich habe gewählt
+ du hast gewählt
+ er hat gewählt
+ wir haben gewählt
+ ihr habt gewählt
+ sie haben gewählt"
 infinitive_participle_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -1522,7 +3524,77 @@ infinitive_participle_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich hatte angeklagt
+ du hattest angeklagt
+ er hatte angeklagt
+ wir hatten angeklagt
+ ihr hattet angeklagt
+ sie hatten angeklagt"," ich hatte geheißen
+ du hattest geheißen
+ er hatte geheißen
+ wir hatten geheißen
+ ihr hattet geheißen
+ sie hatten geheißen"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gefälscht
+ du hattest gefälscht
+ er hatte gefälscht
+ wir hatten gefälscht
+ ihr hattet gefälscht
+ sie hatten gefälscht",," ich hatte gemusst
+ du hattest gemusst
+ er hatte gemusst
+ wir hatten gemusst
+ ihr hattet gemusst
+ sie hatten gemusst"," ich war gekommen
+ du warst gekommen
+ er war gekommen
+ wir waren gekommen
+ ihr wart gekommen
+ sie waren gekommen",," ich hatte getan
+ du hattest getan
+ er hatte getan
+ wir hatten getan
+ ihr hattet getan
+ sie hatten getan"," ich hatte untersucht
+ du hattest untersucht
+ er hatte untersucht
+ wir hatten untersucht
+ ihr hattet untersucht
+ sie hatten untersucht"," ich hatte entschieden
+ du hattest entschieden
+ er hatte entschieden
+ wir hatten entschieden
+ ihr hattet entschieden
+ sie hatten entschieden"," ich hatte bekommen
+ du hattest bekommen
+ er hatte bekommen
+ wir hatten bekommen
+ ihr hattet bekommen
+ sie hatten bekommen",," ich war getreten
+ du warst getreten
+ er war getreten
+ wir waren getreten
+ ihr wart getreten
+ sie waren getreten"," ich hatte verboten
+ du hattest verboten
+ er hatte verboten
+ wir hatten verboten
+ ihr hattet verboten
+ sie hatten verboten"," ich hatte gesagt
+ du hattest gesagt
+ er hatte gesagt
+ wir hatten gesagt
+ ihr hattet gesagt
+ sie hatten gesagt"," ich hatte gewählt
+ du hattest gewählt
+ er hatte gewählt
+ wir hatten gewählt
+ ihr hattet gewählt
+ sie hatten gewählt"
 infinitive_participle_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -1573,7 +3645,77 @@ infinitive_participle_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde anklagen
+ du wirst anklagen
+ er wird anklagen
+ wir werden anklagen
+ ihr werdet anklagen
+ sie werden anklagen"," ich werde heißen
+ du wirst heißen
+ er wird heißen
+ wir werden heißen
+ ihr werdet heißen
+ sie werden heißen"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde fälschen
+ du wirst fälschen
+ er wird fälschen
+ wir werden fälschen
+ ihr werdet fälschen
+ sie werden fälschen",," ich werde müssen
+ du wirst müssen
+ er wird müssen
+ wir werden müssen
+ ihr werdet müssen
+ sie werden müssen"," ich werde kommen
+ du wirst kommen
+ er wird kommen
+ wir werden kommen
+ ihr werdet kommen
+ sie werden kommen",," ich werde tun
+ du wirst tun
+ er wird tun
+ wir werden tun
+ ihr werdet tun
+ sie werden tun"," ich werde untersuchen
+ du wirst untersuchen
+ er wird untersuchen
+ wir werden untersuchen
+ ihr werdet untersuchen
+ sie werden untersuchen"," ich werde entscheiden
+ du wirst entscheiden
+ er wird entscheiden
+ wir werden entscheiden
+ ihr werdet entscheiden
+ sie werden entscheiden"," ich werde bekommen
+ du wirst bekommen
+ er wird bekommen
+ wir werden bekommen
+ ihr werdet bekommen
+ sie werden bekommen",," ich werde treten
+ du wirst treten
+ er wird treten
+ wir werden treten
+ ihr werdet treten
+ sie werden treten"," ich werde verbieten
+ du wirst verbieten
+ er wird verbieten
+ wir werden verbieten
+ ihr werdet verbieten
+ sie werden verbieten"," ich werde sagen
+ du wirst sagen
+ er wird sagen
+ wir werden sagen
+ ihr werdet sagen
+ sie werden sagen"," ich werde wählen
+ du wirst wählen
+ er wird wählen
+ wir werden wählen
+ ihr werdet wählen
+ sie werden wählen"
 infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -1624,7 +3766,77 @@ infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," ich werde angeklagt haben
+ du wirst angeklagt haben
+ er wird angeklagt haben
+ wir werden angeklagt haben
+ ihr werdet angeklagt haben
+ sie werden angeklagt haben"," ich werde geheißen haben
+ du wirst geheißen haben
+ er wird geheißen haben
+ wir werden geheißen haben
+ ihr werdet geheißen haben
+ sie werden geheißen haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gefälscht haben
+ du wirst gefälscht haben
+ er wird gefälscht haben
+ wir werden gefälscht haben
+ ihr werdet gefälscht haben
+ sie werden gefälscht haben",," ich werde gemusst haben
+ du wirst gemusst haben
+ er wird gemusst haben
+ wir werden gemusst haben
+ ihr werdet gemusst haben
+ sie werden gemusst haben"," ich werde gekommen sein
+ du wirst gekommen sein
+ er wird gekommen sein
+ wir werden gekommen sein
+ ihr werdet gekommen sein
+ sie werden gekommen sein",," ich werde getan haben
+ du wirst getan haben
+ er wird getan haben
+ wir werden getan haben
+ ihr werdet getan haben
+ sie werden getan haben"," ich werde untersucht haben
+ du wirst untersucht haben
+ er wird untersucht haben
+ wir werden untersucht haben
+ ihr werdet untersucht haben
+ sie werden untersucht haben"," ich werde entschieden haben
+ du wirst entschieden haben
+ er wird entschieden haben
+ wir werden entschieden haben
+ ihr werdet entschieden haben
+ sie werden entschieden haben"," ich werde bekommen haben
+ du wirst bekommen haben
+ er wird bekommen haben
+ wir werden bekommen haben
+ ihr werdet bekommen haben
+ sie werden bekommen haben",," ich werde getreten sein
+ du wirst getreten sein
+ er wird getreten sein
+ wir werden getreten sein
+ ihr werdet getreten sein
+ sie werden getreten sein"," ich werde verboten haben
+ du wirst verboten haben
+ er wird verboten haben
+ wir werden verboten haben
+ ihr werdet verboten haben
+ sie werden verboten haben"," ich werde gesagt haben
+ du wirst gesagt haben
+ er wird gesagt haben
+ wir werden gesagt haben
+ ihr werdet gesagt haben
+ sie werden gesagt haben"," ich werde gewählt haben
+ du wirst gewählt haben
+ er wird gewählt haben
+ wir werden gewählt haben
+ ihr werdet gewählt haben
+ sie werden gewählt haben"
 infinitive_participle_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -1635,7 +3847,21 @@ infinitive_participle_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," anklagen
+ anzuklagen"," heißen
+ zu heißen"," sagen
+ zu sagen"," fälschen
+ zu fälschen",," müssen
+ zu müssen"," kommen
+ zu kommen",," tun
+ zu tun"," untersuchen
+ zu untersuchen"," entscheiden
+ zu entscheiden"," bekommen
+ zu bekommen",," treten
+ zu treten"," verbieten
+ zu verbieten"," sagen
+ zu sagen"," wählen
+ zu wählen"
 infinitive_participle_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -1646,6 +3872,20 @@ infinitive_participle_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," angeklagt haben
+ angeklagt zu haben"," geheißen haben
+ geheißen zu haben"," gesagt haben
+ gesagt zu haben"," gefälscht haben
+ gefälscht zu haben",," gemusst haben
+ gemusst zu haben"," gekommen sein
+ gekommen zu sein",," getan haben
+ getan zu haben"," untersucht haben
+ untersucht zu haben"," entschieden haben
+ entschieden zu haben"," bekommen haben
+ bekommen zu haben",," getreten sein
+ getreten zu sein"," verboten haben
+ verboten zu haben"," gesagt haben
+ gesagt zu haben"," gewählt haben
+ gewählt zu haben"
+infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, verbietend, sagend, wählend
+infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, verboten, gesagt, gewählt

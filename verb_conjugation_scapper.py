@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+#TODO: scrapper must state if None is returned
 
 # Construct the URL to search for the verb
 url = 'https://www.verbformen.com/conjugation/?w='
@@ -60,4 +61,4 @@ def scrapp_for_verb(verb):
 
 
 if __name__ == "__main__":
-    print(scrapp_for_verb('machen'))
+    print(scrapp_for_verb('gesagt'))

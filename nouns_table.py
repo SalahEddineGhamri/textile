@@ -84,4 +84,5 @@ if __name__ == "__main__":
     noun_cache.fillna(value="None", inplace=True)
     print(noun_cache['Auto']['nouns']['english'])
     print(noun_cache['Auto']['nouns']['german'])
+    print(noun_cache['Auto']['noun_details']['english'].split('\n'))
     noun_cache.cache()
