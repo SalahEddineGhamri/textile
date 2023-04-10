@@ -1,4 +1,4 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess
 basic_forms,english,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"alternativ : Adjective
 ",None,None,"der Moderator : Noun
 ","die Nachricht : Noun
@@ -32,8 +32,33 @@ der Elter : Noun
 wesen : Verb
 ","neu : Adjective
 ",,,,"die Million : Noun
-",,,,,,,,,,
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+",,,None,None,,,,,,,None,None,None,None,None,None,"verboten : Adjective
+",None,None,None,None,None,"strafen : Verb
+",None,None,"anklagen : Verb
+sich anklagen : Verb
+","heißen : Verb
+heißen : Verb
+","sich sagen : Verb
+sagen : Verb
+","fälschen : Verb
+","das Verbot : Noun
+verbieten : Verb
+sich verbieten : Verb
+","müssen : Verb
+",None,"sagen : Verb
+sich sagen : Verb
+","tun : Verb
+sich tun : Verb
+","untersuchen : Verb
+","entscheiden : Verb
+sich entscheiden : Verb
+","bekommen : Verb
+bekommen : Verb
+","wählen : Verb
+","treten : Verb
+treten : Verb
+",None,None,None,None,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,None,None,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,
 verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -594,7 +619,270 @@ to purchase land
 to break up a piece of land
 to work land
 to subdue | subdued, subdued |
-",,,,,,
+",,,,,,,None,"to elect so. president
+",None,None,None,"to bribe a judge
+to appoint oneself as judge
+to appoint oneself as judge
+to be raised to the Bench
+",None,"to prevaricate | prevaricated, prevaricated |
+to speak the truth
+to tell the truth
+to blurt out the truth
+to blurt out the truth
+to deviate from the truth
+to cough up (Brit.) [coll.]
+","to close month [FINAN.]
+to set so. a target of six months
+",None,"to preside over a court
+to go to court [LAW]
+to take legal action [LAW]
+to be in the dock
+to submit to the court
+to plead in court
+to bring an action at law
+to go to court
+to try so. | tried, tried |
+to submit a case to a court
+to cite before the court
+to file sth. with a court
+to bring an action against so.
+to bring so. to trial
+",None,"to strafe | strafed, strafed |
+to strafe | strafed, strafed | [MIL.]
+to punish | punished, punished |
+to chasten so. | chastened, chastened |
+to amerce so. | amerced, amerced | [HIST.][LAW]
+to serve a sentence
+to serve a sentence
+to accept a punishment
+to assess the penalty
+to pay the penalty
+to do time
+to award a penalty [SPORT.]
+to hand out a punishment to so. [LAW]
+to penalizeAE to penaliseBE / penalizeBE | penalized, penalized / penalised, penalised |
+","to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall | fell, fallen | - decrease in number, intensity ...
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall down
+to fall down
+to fall down
+","to make a choice
+to take one's choice
+to go to the polls
+to call an election
+to nominate so. for election
+to throw one's hat in the ring [fig.]
+to contest an election (Amer.) [POL.]
+to face a choice
+to call for elections
+to call an election
+to hold elections
+to be faced with (a) Hobson's choice
+to get first dibs on sth. (Amer.)
+to have first dibs on sth. (Amer.)
+","to accuse so. (of sth.) | accused, accused | [LAW]
+to indict so. (for sth.) | indicted, indicted |
+to incriminate so. | incriminated, incriminated |
+to arraign so. | arraigned, arraigned | [LAW]
+to be on trial [LAW]
+to indict for war crimes
+to impeach so. for sth.
+to accuse so. of sth.
+to impeach so. | impeached, impeached |
+to charge so. with sth. [LAW]
+to charge so. with sth. [LAW]
+to bring a charge (of sth.) against so. [LAW]
+to be indicted for theft
+to be charged with sth.
+to be accused of sth.
+to acquit the accused for want of evidence [LAW]
+to charge so. with a felony [LAW]
+","to be called
+to mean sth. | meant, meant |
+to hoist | hoisted, hoisted | [NAUT.]
+to welcome so./sth. | welcomed, welcomed |
+to bid so. to do sth.
+to tell so. to do sth.
+to bid so. (to) do sth.
+to be on tenterhooks
+","so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
+","to falsify | falsified, falsified |
+to forge | forged, forged |
+to doctor | doctored, doctored |
+to commit forgery
+to counterfeit sth. | counterfeited, counterfeited |
+to fake sth. | faked, faked |
+to fabricate sth. | fabricated, fabricated |
+to fudge sth. | fudged, fudged |
+to adulterate sth. | adulterated, adulterated |
+to imitate sth. | imitated, imitated |
+to spoof sth. | spoofed, spoofed | - an e-mail address
+to tamper with sth.
+to fake sth. ⇔ up [sl.]
+to deceit | deceited, deceited | rare archaic
+","to prohibit | prohibited, prohibited |
+to ban sth. | banned, banned |
+to forbid sth. | forbid/forbade, forbid/forbidden |
+to proscribe sth. | proscribed, proscribed |
+to interdict sth. | interdicted, interdicted | chiefly (Amer.)
+to veto sth. | vetoed, vetoed |
+to bar sth. | barred, barred |
+to bar so. from sth.
+to enact a ban
+to impose a ban
+to ban so. from doing sth.
+to bar so. from doing sth.
+to forbid so. to do sth.
+to ban so. from speaking
+","must aux.
+to have to
+to be bound to
+to get to
+to be obliged
+to have got to chiefly (Brit.)
+to have detention - in school
+to be called upon
+to be due to go
+to be moved to tears
+to suffer | suffered, suffered |
+to be on a budget
+to have to do sth.
+to need to do sth.
+","to come | came, come |
+to turn up - come, arrive
+to arrive (at sth.) | arrived, arrived |
+to be along [coll.]
+to come | came, come | [sl.] - have an orgasm
+to come from London/the Canary Islands/Switzerland
+to work sth. ⇔ out
+to get the hang of sth.
+to conceive (of) sth. | conceived, conceived |
+to get to the bottom of sth.
+to take after so.
+to get down to sth.
+to work round to sth.
+to amount to sth.
+","to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
+","to do sth. | did, done |
+to perform | performed, performed |
+to be just about to do sth.
+to be able to do sth.
+to be allowed to do sth.
+to like doing sth.
+to order so. to do sth.
+to tell so. to do sth.
+to hurt | hurt, hurt |
+to hurt oneself
+to hurt one's knee/leg/finger
+to have sth. done
+to command (so.) (to do sth.) | commanded, commanded |
+to intend to do sth.
+","to examine | examined, examined | also [MED.]
+to investigate | investigated, investigated |
+to research | researched, researched |
+to analyzeAE / analyseBE sth. | analyzed, analyzed / analysed, analysed |
+to test sth. | tested, tested |
+to survey sth. | surveyed, surveyed |
+to scan | scanned, scanned |
+to inquireespAE / enquireespBE | inquired, inquired / enquired, enquired |
+to study | studied, studied |
+to prove | proved, proved/proven |
+to scrutinizeAE to scrutiniseBE / scrutinizeBE | scrutinized, scrutinized / scrutinised, scrutinised |
+to check up (Amer.)
+to check sth. ⇔ out
+to explore sth. | explored, explored |
+","to decide sth. | decided, decided |
+to determine sth. | determined, determined |
+to decide | decided, decided |
+to rule sth. | ruled, ruled |
+to will sth. | willed, willed |
+to decide about sth.
+to resolve sth. | resolved, resolved |
+to clinch sth. | clinched, clinched |
+to make up one's mind
+to opt for sth.
+to decide on sth.
+to go for sth.
+to settle on sth.
+to jump to one side of the fence
+","sth. does so. good/bad infinitive: do good, do bad
+sth. agrees with so. - food infinitive: agree
+sth. becomes so. - be appropriate, suitable
+to get sth. (from so.) | got, got/gotten |
+to receive sth. (from so.) | received, received |
+to catch sth. | caught, caught |
+to come by sth.
+to gain sth. | gained, gained | - obtain
+to obtain sth. | obtained, obtained |
+to agree with so.
+to come down with sth.
+to get sth. through sth.
+sth. disagrees with so. - food infinitive: disagree
+sth. disagrees with so. - food infinitive: disagree
+","to choose sth. | chose, chosen |
+to dial | dialed/dialled, dialed/dialled | [TELECOM.]
+to select | selected, selected |
+to vote | voted, voted |
+to pick sth. | picked, picked |
+to elect so. (sth.) | elected, elected |
+to opt for sth.
+to chuse | chused, chused | archaic - to choose
+to list | listed, listed | archaic - choose
+to dial a number
+to elect a chairman
+to elect to the board
+to elect so. president
+to choose so. as a companion
+","to step | stepped, stepped |
+to kick (so./sth.) | kicked, kicked |
+to tread | trod, trodden/trod |
+to pedal sth. | pedaled/pedalled, pedaled/pedalled |
+to step on sth.
+to kick at sth.
+to step up to so.
+to tread water
+to backpedalespAE / back-pedalespBE | backpedaled/backpedalled, backpedaled/backpedalled / back-pedaled/back-pedalled, back-pedaled/back-pedalled |
+to come to light
+to emerge | emerged, emerged |
+to become evident
+to surface | surfaced, surfaced |
+to appear | appeared, appeared |
+",None,None,None,None,
 verbs,german,None,None,None,None,None,None,None,"Auto fahren
 ein Auto anschieben
 ein Auto in etw.acc. zurücksetzen
@@ -1155,7 +1443,270 @@ Land ankaufen
 Land aufteilen
 Land bearbeiten
 Land erschließen
-",,,,,,
+",,,,,,,None,"jmdn. zum Präsidenten wählen
+",None,None,None,"einen Richter bestechen
+sichacc. zum Richter aufschwingen
+sichacc. zum Richter aufwerfen
+zum Richter bestimmt werden
+",None,"die Wahrheit verdrehen
+die Wahrheit sagen
+die Wahrheit sagen
+die Wahrheit verraten
+mit der Wahrheit herausplatzen
+von der Wahrheit abweichen
+mit der Wahrheit herausrücken
+","Monat schließen [Bookkeeping]
+jmdm. eine Frist von sechs Monaten setzen
+",None,"einem Gericht vorsitzen
+das Gericht anrufen
+das Gericht anrufen
+vor Gericht stehen
+bei Gericht vortragen
+bei Gericht vortragen
+vor Gericht gehen
+vor Gericht gehen
+jmdn. vor Gericht stellen
+etw.acc. vor Gericht bringen
+jmdn. vor Gericht laden
+etw.acc. bei Gericht einreichen
+jmdn. vor Gericht bringen
+jmdn. vor Gericht bringen
+",None,"aus der Luft unter Beschuss nehmen
+beschießen | beschoss, beschossen |
+strafen | strafte, gestraft |
+jmdn. strafen | strafte, gestraft |
+jmdn. strafen | strafte, gestraft |
+eine Strafe absitzen
+eine Strafe verbüßen
+die Strafe annehmen
+die Strafe bemessen
+die Strafe zahlen
+eine Strafe abbrummen [coll.]
+eine Strafe erteilen
+eine Strafe gegen jmdn. verhängen
+unter Strafe stellen
+","fallen | fiel, gefallen |
+stürzen | stürzte, gestürzt |
+sinken | sank, gesunken | - z. B. Druck, Spannung
+zurückgehen | ging zurück, zurückgegangen |
+absinken | sank ab, abgesunken |
+hinfallen | fiel hin, hingefallen |
+rückläufig sein
+abstürzen | stürzte ab, abgestürzt |
+zerfallen | zerfiel, zerfallen |
+nachgeben | gab nach, nachgegeben |
+abnehmen | nahm ab, abgenommen |
+hinunterstürzen | stürzte hinunter, hinuntergestürzt |
+herunterstürzen | stürzte herunter, heruntergestürzt |
+herabfallen | fiel herab, herabgefallen |
+","eine Wahl treffen
+eine Wahl treffen
+zur Wahl gehen
+eine Wahl ausschreiben
+jmdn. zur Wahl vorschlagen
+sichacc. zur Wahl stellen
+eine Wahl anfechten
+vor der Wahl stehen
+Wahlen ausrufen
+Wahlen ansetzen
+Wahlen durchführen
+keine Wahl haben
+bei etw.dat. die erste Wahl haben
+bei etw.dat. die erste Wahl haben
+","jmdn. (einer Sachegen.) anklagen | klagte an, angeklagt |
+jmdn. (einer Sachegen.) anklagen | klagte an, angeklagt |
+jmdn. anklagen | klagte an, angeklagt |
+jmdn. anklagen | klagte an, angeklagt |
+angeklagt sein
+wegen Kriegsverbrechen anklagen
+jmdn. wegen einer Sache anklagen
+jmdn. wegen einer Sachegen. anklagen
+jmdn. wegen Amtsvergehen anklagen
+jmdn. einer Sachegen. anklagen
+jmdn. wegen einer Sachegen. anklagen
+jmdn. (wegen) einer Sachegen. anklagen
+wegen Diebstahl angeklagt sein
+wegen einer Sachegen. angeklagt sein
+wegen einer Sachegen. angeklagt sein
+den Angeklagten mangels Beweises freisprechen
+jmdn. eines schweren Verbrechens anklagen
+","heißen | hieß, geheißen |
+etw.acc. heißen | hieß, geheißen |
+heißen | heißte, geheißt |
+jmdn./etw. willkommen heißen
+jmdn. etw.acc. tun heißen
+jmdn. etw.acc. tun heißen
+jmdn. etw.acc. tun heißen [form.]
+wie auf heißen Kohlen sitzen
+","jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
+","fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht | - eine E-Mail-Adresse
+etw.acc. fälschen | fälschte, gefälscht | - Urkunde
+etw.acc. fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+","verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+jmdm. etw.acc. verbieten | verbot, verboten |
+ein Verbot erlassen
+ein Verbot verhängen
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten zu sprechen
+","müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst | - im Präsens
+nachsitzen müssen
+tragen müssen
+gehen müssen
+weinen müssen
+bezahlen müssen
+sparen müssen
+etw.acc. tun müssen
+etw.acc. tun müssen
+","kommen | kam, gekommen |
+kommen | kam, gekommen |
+(zu etw.dat.) kommen | kam, gekommen | - Ergebnis, Einigung etc.
+kommen | kam, gekommen |
+kommen | kam, gekommen | - einen Orgasmus haben
+aus London/von den Kanarischen Inseln/aus der Schweiz kommen
+hinter etw.acc. kommen | kam, gekommen |
+hinter etw.acc. kommen | kam, gekommen |
+auf etw.acc. kommen | kam, gekommen |
+hinter etw.dat. kommen | kam, gekommen |
+nach jmdm. kommen | kam, gekommen | - ähneln
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+","etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
+","etw.acc. tun | tat, getan |
+tun | tat, getan |
+gleich etw.acc. tun
+etw.acc. tun können
+etw.acc. tun dürfen
+etw.acc. gern tun
+jmdm. befehlen, etw.acc. zu tun
+jmdm. befehlen, etw.acc. zu tun
+wehtun or: weh tun | tat weh, wehgetan | [coll.]
+sichdat. wehtun or: weh tun | tat weh, wehgetan | [coll.]
+sichdat. am Knie/Bein/Finger wehtun or: weh tun [coll.]
+etw.acc. tun lassen
+(jmdm.) befehlen (etw.acc. zu tun) | befahl, befohlen |
+beabsichtigen, etw.acc. zu tun
+","untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+","etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+sichacc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+sichacc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+","etw.nom. bekommt jmdm. gut/schlecht infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen - zuträglich sein, guttun
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+jmdm. (gut) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen | - Grippe, Erkältung
+etw.acc. durch etw.acc. bekommen | bekam, bekommen |
+etw.nom. bekommt jmdm. nicht infinitive: bekommen
+etw.nom. bekommt jmdm. schlecht infinitive: bekommen
+","etw.acc. wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+etw.acc. wählen | wählte, gewählt |
+jmdn. (zu etw.dat.) wählen | wählte, gewählt |
+etw.acc. wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+eine Nummer wählen
+einen Vorsitzenden wählen
+in den Vorstand wählen
+jmdn. zum Präsidenten wählen
+jmdn. als Partner wählen
+","treten | trat, getreten |
+(jmdn./etw.) treten | trat, getreten |
+treten | trat, getreten |
+etw.acc. treten | trat, getreten |
+auf etw.acc. treten | trat, getreten |
+gegen etw.acc. treten | trat, getreten |
+zu jmdm. treten | trat, getreten |
+Wasser treten
+rückwärts treten - beim Fahrrad
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+",None,None,None,None,
 nouns,english,None,None,None,None,None,None,None,"car
 auto (Amer.)
 auto (Amer.)
@@ -2077,7 +2628,191 @@ mistress
 holder [FINAN.]
 tenant
 shareholder
-",
+",,None,"president [abbr.: Pres.]
+governor
+chair [ADMIN.][COMM.]
+chairman | chairwoman [ADMIN.][COMM.]
+chairperson [ADMIN.][COMM.]
+chief magistrate [POL.]
+first magistrate [POL.]
+prez [sl.]
+prexy - of a university [sl.]
+Federal Reserve Chairman (Amer.) [FINAN.]
+president-elect (Amer.)
+acting president
+deputy governor
+the president elect
+",None,None,None,"judge [LAW][SPORT.]
+justice - judge of Supreme Court [LAW]
+jurist (Amer.)
+bench
+Judges used with sg. verb [abbr.: Judg, Jg, Jgs, Jud] - book of the bible [REL.]
+magistrate [LAW]
+referee [LAW]
+Richter scale [GEOL.]
+associate judge
+corrupt judge
+honorary judge [LAW]
+lay judge [LAW]
+Book of Judges [abbr.: Judg., Jgs] [REL.]
+arbitrator
+","forbidden energy band
+illegal transaction
+illicit business
+illegal trade
+forbidden band [TECH.]
+illegal business [LAW]
+forbidden transition
+prohibited trade
+forbidden clone
+banned imports pl.
+banned imports goods pl.
+banned export goods pl.
+the forbidden fruit
+forbidden fruit pl. [fig.]
+","truth
+verity
+trueness
+the lowdown [coll.]
+sooth archaic
+genuine truth
+truth or dare
+established truth
+accepted truth
+absolute truth
+bitter truth
+intrinsic truth
+arbiter of truth
+the absolute truth
+","month
+month
+month of August
+month of July
+current month
+sidereal month [GEOL.]
+lunation [ASTR.]
+previous month
+month after payment
+barrels per month [TECH.]
+midmonth
+three-month deputyship
+","January [abbr.: Jan.]
+January effect [FINAN.]
+","dish
+court [LAW]
+justice [LAW]
+forum - pl.: forums rarely: fora
+law court
+mess
+eat sg., usually in plural: eats [coll.]
+court of law [LAW]
+bar [LAW]
+tribunal [LAW]
+court of justice [LAW]
+take-home meal
+supreme court
+court having jurisdiction
+",None,"punishment
+pain
+penalty [LAW]
+sentence [LAW]
+fine [FINAN.][LAW]
+retribution
+forfeit
+chastisement
+discipline
+imposition
+visitation - for one's sins [REL.]
+comeuppance
+exemplary punishment
+nemesis
+","fall
+fall
+fall (Amer.)
+fall
+case also [LAW][LING.][MED.]
+drop
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+","choice
+election
+selection
+vote
+voting
+ballot [POL.]
+option
+pick
+poll - process of voting
+alternative
+elections pl.
+elections pl.
+polls pl.
+adoption of an approach
+","the accused
+advising the defendant of his rights
+",None,None,"forged signature
+bogus ticket
+forged coin
+funny money
+counterfeit bond
+manipulated data
+manipulated information
+counterfeit card [FINAN.]
+forged checkAE [FINAN.]forged chequeBE [FINAN.]
+cold checkAE [FINAN.]cold chequeBE [FINAN.]
+forged endorsement (or: indorsement)
+counterfeit trade
+trade in counterfeit products [COMM.]
+","ban
+prohibition
+interdiction
+proscription
+embargo - pl.: embargoes
+veto
+forbiddance rare
+imitations pl. [TECH.]
+limitations pl. [TECH.]
+forbidden transition
+prohibited trade
+forbidden clone
+forbidden energy band
+banned imports pl.
+",None,"continual coming and going
+","said in words
+",None,None,"resolute action
+res judicata Latin [LAW]
+","over-the-counter drug [PHARM.]
+","president-elect (Amer.)
+adopted home
+elected government [POL.]
+elocution
+virtual call [TELECOM.]
+",,"prosecutor [LAW]
+public prosecutor [LAW]
+district attorney [LAW]
+attorney (Amer.) [LAW]
+prosecuting attorney [LAW]
+counsel for the prosecution [LAW]
+Crown Prosecutor (Brit.) [LAW]
+federal prosecutor [LAW]
+State Attorney [LAW]
+procurator fiscal (Scot.) [LAW]
+","business records pl.
+business documents pl. [COMM.]
+",None,"hearing [LAW]
+court session [LAW]
+court trial [LAW]
+the Diet (Scot.) [LAW]
+","criminal proceedings plural noun [LAW]
+criminal case [LAW]
+plea bargain [LAW]
+"
 nouns,german,None,None,None,None,None,None,None,"das Auto pl.: die Autos
 das Auto pl.: die Autos
 das Fahrzeug pl.: die Fahrzeuge
@@ -2999,7 +3734,191 @@ die Besitzerin pl.: die Besitzerinnen
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - Wertpapiere
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - auch von beweglichem Vermögen rare
 der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
-",
+",,None,"der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten - einer Universität
+Präsident der US-Notenbank
+gewählter Präsident - vor dem Amtsantritt
+amtierender Präsident
+stellvertretender Präsident
+der designierte Präsident
+",None,None,None,"der Richter | die Richterin pl.: die Richter, die Richterinnen
+der Richter | die Richterin pl.: die Richter, die Richterinnen - des Obersten Gerichtshofs
+der Richter pl.: die Richter
+die Richter pl. [coll.]
+Richter [abbr.: Ri] - Buch im Alten Testament [Bible]
+der Richter | die Richterin pl.: die Richter, die Richterinnen
+der Richter | die Richterin pl.: die Richter, die Richterinnen
+die Richterskala or: Richter-Skala no plural
+beisitzender Richter
+bestechlicher Richter
+ehrenamtlicher Richter
+ehrenamtlicher Richter
+das Buch (der) Richter [abbr.: Ri] [Bible]
+Richter am Schiedsgericht
+","verbotenes Energieband
+verbotenes Geschäft
+verbotenes Geschäft
+verbotenes Gewerbe
+verbotenes Band
+verbotenes Geschäft
+verbotener Übergang
+verbotener Handel
+verbotener Klon
+verbotene Einfuhren pl.
+verbotene Einfuhrgüter pl.
+verbotene Exportgüter pl.
+die verbotene Frucht pl.: die Früchte
+verbotene Früchte pl. [fig.]
+","die Wahrheit pl.
+die Wahrheit pl.
+die Wahrheit no plural
+die Wahrheit no plural
+die Wahrheit pl.
+die Wahrheit pl.
+Wahrheit oder Pflicht
+anerkannte Wahrheit
+anerkannte Wahrheit
+absolute Wahrheit
+bittere Wahrheit
+grundlegende Wahrheit
+Schiedsrichter der Wahrheit
+die reine Wahrheit pl.
+","der Monat pl.: die Monate
+der (or: das) Monat pl.: die Monate (Austria)
+Monat August
+Monat Juli
+laufender Monat
+siderischer Monat
+synodischer Monat
+voriger Monat
+Zahlung nächsten Monat
+Barrels pro Monat
+Mitte des Monats
+Vertretung für 3 Monate
+","der Januar pl. [abbr.: Jan.]
+der Januar-Effekt [Stock Exchange]
+","das Gericht pl.: die Gerichte - Essen
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte - Mahlzeit, Speise
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+Gericht zum Mitnehmen
+oberstes Gericht
+zuständiges Gericht
+",None,"die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen - Strafmaß
+die Strafe pl.: die Strafen - Geldbuße
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen - für jmds. Sünden
+wohlverdiente Strafe
+exemplarische Strafe
+gerechte Strafe
+","der Sturz pl.: die Stürze
+der Fall pl.: die Fälle
+der Herbst pl.: die Herbste
+der Rückgang pl.: die Rückgänge
+der Fall pl.: die Fälle
+der Fall pl.: die Fälle
+der Absturz pl.: die Abstürze
+das Gefälle pl.: die Gefälle
+die Abnahme pl.: die Abnahmen
+das Druckgefälle pl.: die Druckgefälle
+die Fallhöhe pl.: die Fallhöhen
+die Neigung pl.: die Neigungen
+der Niedergang no plural
+der Rutsch pl.: die Rutsche
+","die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahlen pl.
+die Wahlen pl.
+Wahl eines Ansatzes
+","die Angeklagten pl.
+Belehrung über die Rechte des Angeklagten
+",None,None,"gefälschte Unterschrift
+gefälschte Karte
+gefälschte Münze
+gefälschtes Geld
+gefälschte Anleihe
+gefälschte Daten
+gefälschte Informationen pl.
+gefälschte Karte
+gefälschter Scheck
+gefälschter Scheck
+gefälschtes Indossament
+Handel mit gefälschten Produkten
+Handel mit gefälschten Produkten
+","das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+die Verbote pl. [Surface Treatment]
+die Verbote pl. [Surface Treatment]
+verbotener Übergang
+verbotener Handel
+verbotener Klon
+verbotenes Energieband
+verbotene Einfuhren pl.
+",None,"beständiges Kommen und Gehen
+","in Worten gesagt
+",None,None,"entschiedenes Handeln
+rechtskräftig entschiedene Sache
+","Medikament, das man ohne Rezept bekommt
+","gewählter Präsident - vor dem Amtsantritt
+gewähltes Zuhause
+gewählte Regierung
+gewählte Aussprache
+gewählte virtuelle Verbindung
+",,"der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen - in Schottland
+","die Geschäftsunterlagen pl., no sg.
+die Geschäftsunterlagen pl., no sg.
+",None,"der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+","der Strafprozess pl.: die Strafprozesse
+der Strafprozess pl.: die Strafprozesse
+Vereinbarung im Strafprozess
+"
 noun_details,english,None,None,None,None,None,None,None,"article: das
 word: Auto
 genus: NEUT
@@ -3324,8 +4243,96 @@ plural: die Regisseure, die Regisseurinnen
 word: Besitzer
 genus: MASC
 plural: die Besitzer, die Besitzerinnen
-",
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+",,None,"article: der
+word: Präsident
+genus: MASC
+plural: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
+",None,None,None,"article: der
+word: Richter
+genus: MASC
+plural: die Richter, die Richterinnen
+","article: verbotenes
+word: Energieband
+genus: 
+plural: Energieband
+","article: die
+word: Wahrheit
+genus: FEMI
+plural: 
+","article: der
+word: Monat
+genus: MASC
+plural: die Monate
+","article: der
+word: Januar
+genus: MASC
+plural: [abbr.: Jan.]
+","article: das
+word: Gericht
+genus: NEUT
+plural: die Gerichte - Essen
+",None,"article: die
+word: Strafe
+genus: FEMI
+plural: die Strafen
+","article: der
+word: Sturz
+genus: MASC
+plural: die Stürze
+","article: die
+word: Wahl
+genus: FEMI
+plural: 
+","article: die
+word: Angeklagten
+genus: FEMI
+plural: 
+",,,"article: gefälschte
+word: Unterschrift
+genus: 
+plural: Unterschrift
+","article: das
+word: Verbot
+genus: NEUT
+plural: die Verbote
+",,"article: beständiges
+word: Kommen
+genus: 
+plural: Gehen
+","article: in
+word: Worten
+genus: 
+plural: gesagt
+",,,"article: entschiedenes
+word: Handeln
+genus: 
+plural: Handeln
+","article: Medikament,
+word: das
+genus: 
+plural: bekommt
+","article: gewählter
+word: Präsident
+genus: 
+plural: Amtsantritt
+",,"article: der
+word: Staatsanwalt
+genus: MASC
+plural: die Staatsanwälte, die Staatsanwältinnen
+","article: die
+word: Geschäftsunterlagen
+genus: FEMI
+plural: sg.
+",,"article: der
+word: Gerichtstermin
+genus: MASC
+plural: die Gerichtstermine
+","article: der
+word: Strafprozess
+genus: MASC
+plural: die Strafprozesse
+"
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,None,None,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,
 adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
@@ -3748,7 +4755,145 @@ rural adj.
 praedial or: predial adj.
 land-based adj.
 land-based adj. [MIL.]
-",,,,,,
+",,,,,,,None,None,None,None,None,None,"illegal adj.
+prohibited adj.
+banned adj.
+forbidden adj.
+off-limits adj.
+illicit adj.
+out of bounds
+tabooed adj.
+illegal adj.
+verboten adj. German
+strictly forbidden
+verboten adj. German
+strictly forbidden
+outlawed adj.
+unforbidden adj.
+forbidden under penalty of death
+","in truth
+","a month later
+a month later
+per month
+once a month
+proximo adv.
+a month ago
+monthly adj.
+no more than a month ago
+per month or part thereof [FINAN.]
+quarterly adj. adv.
+bimonthly or: bi-monthly adj. adv.
+proximo adv.
+every six months
+ultimo [abbr.: ult., ulto.] adj. - used after noun
+",None,"court-appointed adj.
+per curiam Latin [LAW]
+amicably adv.
+forensic adj.
+pending with a court [LAW]
+untried adj. [LAW]
+cognizableAE adj. [LAW]cognisableBE / cognizableBE adj. [LAW]
+",None,"pardoning adj.
+","in event of war
+in the event of nonpaymentAE in the event of non-paymentBE
+at best
+best-case adj.
+at its best
+at the best
+in the latter case
+conversely adv.
+in the present case
+in the case under consideration
+in the last resort
+if so
+in the former case
+downstream adj. - used before noun
+","optional adj.
+pre-election adj.
+electoral adj.
+elective adj.
+electing adj.
+of so.'s own choice
+at one's own option
+at the buyer's option
+chosen by vote
+at buyer's option
+at the master's option
+","indicted adj.
+impeached adj.
+defendant adj. [LAW]
+","namely adv. also [LAW]
+viz. - short for Latin ""videlicet"" adv. [form.] Latin
+","purportedly adv.
+self-described adj.
+","counterfeit adj.
+bogus adj.
+fake adj.
+falsified adj.
+forged adj.
+phonyespAE / phoneyespBE adj.
+faked adj.
+doctored adj.
+spurious adj.
+imitated adj.
+pinchbeck adj.
+affictitious adj. archaic
+","illegal adj.
+prohibited adj.
+banned adj.
+forbidden adj.
+off-limits adj.
+illicit adj.
+out of bounds
+tabooed adj.
+verboten adj. German
+verboten adj. German
+illegal adj.
+strictly forbidden
+strictly forbidden
+outlawed adj.
+unforbidden adj.
+forbidden under penalty of death
+",None,None,"in short
+in fine
+frankly speaking
+frankly speaking
+frankly adv.
+in other words
+tautologous adj.
+in plain terms
+aforesaid adj.
+more precisely
+in few words
+","done adj.
+surreptitious adj.
+","probed adj.
+reviewed adj.
+untried adj.
+","positive adj.
+definitive adj.
+decided adj.
+roundly adv.
+firmly adv.
+settled adj.
+decidedly adv.
+peremptorily adv.
+resolutely adv.
+assertive adj.
+determined adj.
+characterful adj.
+peremptory adj.
+authoritative adj.
+resolute adj.
+cut and dried adj. [fig.]
+",None,"elected adj.
+elective adj.
+felicitous adj.
+unpolled adj.
+unelected adj.
+incoming adj. [POL.]
+newly-elected adj.
+",,None,None,None,None,
 adjectives_or_adverbs,german,None,None,None,None,None,None,None,"autoerotisch
 automatisch unterstützt
 ","ohne Pferd
@@ -4171,7 +5316,145 @@ Land...
 Land...
 auf dem Festland
 landgestützt
-",,,,,,
+",,,,,,,None,None,None,None,None,None,"verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+gesetzlich verboten
+streng verboten
+streng verboten
+strengstens verboten
+strengstens verboten
+gesetzlich verboten
+nicht verboten
+bei Todesstrafe verboten
+","in Wahrheit
+","ein Monat später
+einen Monat später
+pro Monat
+einmal im Monat
+im nächsten Monat
+vor einem Monat
+Monats...
+erst letzten Monat
+für jeden angefangenen Monat [Bookkeeping]
+alle drei Monate
+alle zwei Monate
+des nächsten Monats
+alle sechs Monate
+des letzten Monats
+",None,"vom Gericht berufen
+durch das Gericht - als Kollektiv
+außer Gericht
+Gerichts...
+bei Gericht anhängig
+nicht vor Gericht gestellt
+vor ein Gericht gehörig
+",None,"eine Strafe erlassend
+","im Fall eines Krieges
+im Fall der Nichtbezahlung
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im letzteren Fall
+im umgekehrten Fall
+im vorliegenden Fall
+im vorliegenden Fall
+im schlimmsten Fall
+in dem Fall
+im ersteren Fall
+Fall...
+","der Wahl überlassen
+vor der Wahl
+Wahl...
+Wahl...
+Wahl...
+nach eigener Wahl
+nach eigener Wahl
+nach Wahl des Käufers
+durch Wahl bestimmt
+nach Käufers Wahl
+nach Wahl des Meisters
+","angeklagt
+angeklagt
+angeklagt
+","das heißt [abbr.: d.h.]
+das heißt [abbr.: d. h.]
+","wie man sagt
+wie jmd. über sich selbst sagt
+","gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+","verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+streng verboten
+strengstens verboten
+gesetzlich verboten
+streng verboten
+strengstens verboten
+gesetzlich verboten
+nicht verboten
+bei Todesstrafe verboten
+",None,None,"kurz gesagt
+kurz gesagt
+ehrlich gesagt
+offen gesagt
+offen gesagt
+anders gesagt
+doppelt gesagt
+rundheraus gesagt
+zuvor gesagt
+genauer gesagt
+knapp gesagt
+","getan
+heimlich getan
+","untersucht
+untersucht
+nicht untersucht
+","entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+",None,"gewählt
+gewählt
+glücklich gewählt
+nicht gewählt
+nicht gewählt
+neugewählt or: neu gewählt
+neu gewählt
+",,None,None,None,None,
 phrases_or_collocations,english,None,None,None,None,None,None,None,None,"to put the cart before the horse
 to put the cart before the horse
 to back the wrong horse [fig.]
@@ -4528,7 +5811,195 @@ to get the lie of the land[fig.] chiefly (Brit.)
 to get the lay of the land[fig.] chiefly (Amer.)
 to get the lay of the land[fig.] chiefly (Amer.)
 to go to the land of Nod [fig.]
-",,,,,,
+",,,,,,,None,None,None,None,None,None,"no smoking
+smoking is forbidden
+Post no bills! (Brit.)
+off limits
+keep out
+No parking.
+Keep out!
+No admittance!
+no humping
+Keep off the grass!
+No trespassing
+Posted - on signs (Amer.)
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Keep off the grass!
+That's strictly forbidden!
+Forbidden fruit is the sweetest.
+","half the truth
+an established truth
+a grain of truth [fig.]
+a kernel of truth [fig.]
+to unearth the truth
+the truth, the whole truth and nothing but the truth [LAW]
+In wine there is truth.
+not a scrap of truth
+to tell the truth
+truth be told
+Children and fools speak the truth
+","How far gone are you?
+at the beginning of the month
+",None,"the court has ruled
+",None,"to get one's just deserts
+to receive one's just deserts
+","to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall into a trap also [fig.]
+to fall into a trap also [fig.]
+to fall for so.'s line
+to fall foul of sth.
+to fall by the wayside [fig.]
+a lost cause
+if the worst comes to the worst
+a case in point
+","a choice between the devil and the deep blue sea
+to be between a rock and a hard place [fig.]
+to be caught between a rock and a hard place [fig.]
+to be stuck between a rock and a hard place [fig.]
+it was a case of Hobson's choice
+it was Hobson's choice
+It's a case of Hobson's choice.
+to be spoilt for choice
+",None,"or so they say
+or so they say
+That's saying something!
+Mary, Jane and all the rest of them.
+Stop beating around the bush!
+a drop in the bucket
+a drop in the ocean
+to beat about the bush [coll.] [fig.]
+to beat around the bush [coll.] [fig.]
+to pussyfoot around [coll.] [fig.]
+to beat about the bush [coll.] [fig.]
+","to coin a phrase
+In for a penny, in for a pound. (Brit.)
+as the name implies
+as the name suggests
+A picture is worth a thousand words.
+A picture speaks a thousand words.
+A picture tells a thousand words.
+judging from what so. says
+let's say ...
+to say sth. in a roundabout way
+Let's put it this way ...
+I daresay
+if you will pardon the expression
+if you will pardon my saying so
+",None,"no smoking
+smoking is forbidden
+Post no bills! (Brit.)
+off limits
+keep out
+No parking.
+Keep out!
+No admittance!
+no humping
+Keep off the grass!
+No trespassing
+Posted - on signs (Amer.)
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Keep off the grass!
+That's strictly forbidden!
+Forbidden fruit is the sweetest.
+","to be left holding the bag (Amer.)
+to take the blame
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+to carry the can for sth. [fig.]
+That calls for a drink.
+precautions must be taken
+to bite the dust [coll.] - be killed, die
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+to get a shellacking [coll.] (Amer.) - get defeated
+to take a drubbing [coll.] (Amer.) - get defeated
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+","to cotton on to so.
+to get on to so.
+to see through so.'s game
+to get on to so.
+to get on to the track of so./sth.
+to get run over
+to hit the spot
+to cut to the chase [fig.] (Amer.)
+to get off the ground [fig.]
+to come to the fore [fig.]
+to go to the dogs [coll.]
+to go to the dogs [coll.] [fig.]
+to cut (right) to the chase [fig.] (Amer.)
+Do come in!
+","no sooner said than done
+to make a long story short
+truth be told
+to tell the truth
+to tell you the truth
+to say the least
+to put it mildly
+that's putting it mildly
+or words to that effect
+..., nay, ... [coll.]
+..., nay, ... [coll.]
+Take it from me.
+off the record
+between you and me
+","no sooner said than done
+That's easier said than done.
+to be so kind as to do sth.
+We've got our hands full.
+Get a life!
+overegging the pudding
+to be as quiet as a mouse
+the dos and don'ts
+dead set on doing sth.
+so. cannot avoid doing sth.
+so. cannot help doing sth.
+so. cannot help doing sth.
+in an endeavorAE to do sth.in an endeavourBE to do sth.
+it takes sth. to do sth.
+",None,"It's still up in the air.
+determine as above
+You pays your money and you takes your choice. [coll.] [hum.]
+","sth. gives so. the fantods [coll.] chiefly (Amer.)
+sth. gives so. the fantods [coll.] chiefly (Amer.)
+to fall about (laughing) (Brit.)
+to catch hell (from so.) [coll.] [fig.]
+to get the brush-off
+to get the mitten [coll.]
+to catch wind of sth. [fig.]
+to get wind of sth. [fig.]
+to get one's just deserts
+to receive one's just deserts
+to go weak at the knees
+to have one's legs turn to jelly
+to get one's just deserts
+to receive one's just deserts
+","better the devil you know than the devil you don't
+","to put one's foot in it
+to drop a clanger [coll.] (Brit.)
+to put one's foot in one's mouth [coll.]
+to drop a brick [coll.] (Brit.)
+to mark time [fig.]
+to tread on so.'s toes [fig.]
+to fill so.'s shoes
+to follow in so.'s footsteps [fig.]
+to step into so.'s shoes [fig.]
+to tread in so.'s footsteps [fig.]
+to ride roughshod over so.
+to spurn sth. | spurned, spurned |
+to trample sth. under foot
+pace prep.
+to spurn one's fortune
+to spurn one's chance of happiness
+Blow me down! [coll.]
+",None,None,None,None,
 phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
 aufs falsche Pferd setzen
@@ -4885,7 +6356,195 @@ sichacc. einen Eindruck von der Lage verschaffen [fig.]
 die Lage peilen [fig.]
 sichacc. einen Eindruck von der Lage verschaffen [fig.]
 einschlafen | schlief ein, eingeschlafen |
-",,,,,,
+",,,,,,,None,None,None,None,None,None,"Rauchen verboten
+Rauchen verboten
+Ankleben verboten!
+Zutritt verboten
+Eintritt verboten
+Parken verboten.
+Eintritt verboten!
+Zutritt verboten!
+Abdrücken verboten [Railroad (Amer.)/Railway (Brit.)]
+Betreten des Rasens verboten!
+Unbefugter Zutritt verboten
+Unbefugter Zutritt verboten
+Zugang für Unbefugte verboten!
+Zutritt für Unbefugte verboten!
+Rasen betreten verboten!
+Das ist streng verboten!
+Verbotene Frucht schmeckt am besten.
+","die halbe Wahrheit
+eine fundierte Wahrheit
+ein Körnchen Wahrheit
+ein Körnchen Wahrheit
+die Wahrheit ans Licht bringen [fig.]
+die Wahrheit, die reine Wahrheit und nichts als die Wahrheit
+Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
+kein Körnchen Wahrheit
+um die Wahrheit zu sagen
+um die Wahrheit zu sagen
+Kinder und Narren reden die Wahrheit
+","In welchem Monat bist du?
+Anfang des Monats
+",None,"das Gericht hat beschlossen
+",None,"seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+","einen Lachanfall bekommen [coll.]
+sichacc. kringeln | kringelte, gekringelt | [coll.]
+sichacc. krummlachen [coll.]
+sichacc. vor Lachen biegen [coll.]
+sichacc. vor Lachen kringeln [coll.]
+sichacc. vor Lachen schütteln [coll.]
+in eine Falle geraten or [fig.]
+in eine Falle gehen or [fig.]
+jmdm. auf den Leim gehen
+mit etw.acc. in Konflikt geraten
+auf der Strecke bleiben [coll.] [fig.]
+ein hoffnungsloser Fall
+im allerschlimmsten Fall
+ein einschlägiger Fall
+","die Wahl zwischen Pest und Cholera
+die Wahl zwischen Pest und Cholera haben [fig.]
+die Wahl zwischen Pest und Cholera haben [fig.]
+die Wahl zwischen Pest und Cholera haben [fig.]
+ich hatte keine andere Wahl
+ich hatte keine andere Wahl
+Da habe ich wohl keine andere Wahl.
+die Qual der Wahl haben
+",None,"so heißt es jedenfalls
+oder so heißt es jedenfalls
+Das will was heißen!
+Mary, Jane und wie sie alle heißen.
+Geh nicht wie die Katz um den heißen Brei!
+ein Tropfen auf den heißen Stein [fig.]
+ein Tropfen auf den heißen Stein [fig.]
+um den heißen Brei herumreden
+um den heißen Brei herumreden
+um den heißen Brei herumreden
+wie die Katze um den heißen Brei schleichen rare
+","wie man so schön sagt
+Wer A sagt, muss auch B sagen.
+wie der Name schon sagt
+wie der Name schon sagt
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+nach dem zu urteilen, was jmd. sagt
+sagen wir ...
+etw.acc. durch die Blume sagen [fig.]
+Sagen wir mal so ...
+ich wage zu sagen
+mit Verlaub zu sagen
+mit Verlaub zu sagen
+",None,"Rauchen verboten
+Rauchen verboten
+Ankleben verboten!
+Zutritt verboten
+Eintritt verboten
+Parken verboten.
+Eintritt verboten!
+Zutritt verboten!
+Abdrücken verboten [Railroad (Amer.)/Railway (Brit.)]
+Betreten des Rasens verboten!
+Unbefugter Zutritt verboten
+Unbefugter Zutritt verboten
+Zugang für Unbefugte verboten!
+Zutritt für Unbefugte verboten!
+Rasen betreten verboten!
+Das ist streng verboten!
+Verbotene Frucht schmeckt am besten.
+","etw.acc. ausbaden müssen [fig.]
+etw.acc. ausbaden müssen [fig.]
+etw.acc. erledigen müssen [fig.]
+etw.acc. erledigen müssen [fig.]
+etw.acc. ausbaden müssen [coll.] [fig.]
+Das müssen wir begießen.
+vorbeugende Maßnahmen müssen getroffen sein
+dran glauben müssen
+mal wohin müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal wohin müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+eine herbe Niederlage hinnehmen müssen [coll.] [fig.]
+eine herbe Niederlage hinnehmen müssen [coll.] [fig.]
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+","jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Spur kommen
+jmdm./etw. auf die Spur kommen
+unter die Räder kommen - überfahren werden
+gut kommen [coll.]
+zur Sache kommen
+in Gang kommen [fig.]
+ans Ruder kommen [fig.] - die Macht übernehmen
+auf den Hund kommen [coll.]
+unter die Räder kommen [coll.] [fig.]
+(gleich) auf den (or: zum) Punkt kommen
+Kommen Sie doch herein!
+","gesagt, getan
+kurz gesagt
+ehrlich gesagt
+ehrlich gesagt
+ehrlich gesagt
+gelinde gesagt
+gelinde gesagt
+gelinde gesagt
+sinngemäß gesagt
+..., oder besser gesagt, ...
+..., oder genauer gesagt, ...
+Lass es dir von mir gesagt sein.
+unter uns gesagt
+unter uns gesagt
+","gesagt, getan
+Das ist leichter gesagt als getan.
+netterweise etw.acc. tun
+Wir haben alle Hände voll zu tun.
+Hast du nichts Besseres zu tun?
+des Guten zu viel tun
+keinen Mucks tun
+was man tun und nicht tun sollte
+fest entschlossen, etw.acc. zu tun
+jmd. kann nicht umhin, etw.acc. zu tun
+jmd. kann nicht anders, als etw.acc. zu tun
+jmd. muss etw.acc. unbedingt tun
+in dem Bestreben, etw.acc. zu tun
+etw.nom. ist nötig, um etw.acc. zu tun
+",None,"Es ist noch nichts entschieden.
+wie oben zu entscheiden
+Das musst du selbst entscheiden.
+","jmd.nom. bekommt von etw.dat. einen Rappel
+jmd.nom. bekommt von etw.dat. Zuckungen
+einen Lachanfall bekommen [coll.]
+(von jmdm.) einen Anschiss bekommen [coll.] [fig.]
+einen Korb bekommen [fig.]
+einen Korb bekommen [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+sein Fett bekommen
+sein Fett bekommen
+weiche Knie bekommen
+weiche Knie bekommen
+seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+","von zwei Übeln wählt man besser das, was man schon kennt
+","ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+auf der Stelle treten
+jmdm. auf den Schlips treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+jmdn. mit Füßen treten [fig.]
+etw.acc. mit Füßen treten [fig.]
+etw.acc. mit Füßen treten [fig.]
+ohne jmdm. zu nahe treten zu wollen
+sein Glück mit Füßen treten [fig.]
+sein Glück mit Füßen treten [fig.]
+Ich glaub, mich tritt ein Pferd! [sl.]
+",None,None,None,None,
 examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
 The car backed into the garage.
@@ -5319,7 +6978,173 @@ his name resounded throughout the land [fig.]
 His speech will resound throughout the country. [fig.]
 most popular tourist region
 ",,,,"Steven Soderbergh is currently the hottest director in Hollywood.
-",,
+",,,None,"the President shall be responsible for the proper conduct of the hearing [LAW]
+",None,None,None,"Mr Justice Smith (Brit.) [LAW]
+","No soliciting allowed.
+It is forbidden to
+the rule whereby it is not allowed
+","demand for truth
+He will not rest until he discovers the truth.
+That's the absolute truth.
+That is only half the truth.
+She had enough guts to tell the truth. [coll.]
+","as early as next month
+It should require a month
+I'm short of cash this month.
+It will take about a month
+payable by monthly installmentsAE of £1000payable by monthly instalmentsBE of £1000
+first half of the month
+He was sentenced to six months in prison.
+He was sentenced to six months in prison.
+It will take three months
+duration of several months
+after the end of this month
+at least 6 months
+during the past two months
+The book continued in installmentsAE over the next several months.The book continued in instalmentsBE over the next several months.
+second half of the month
+","in January
+from January 1st to March 29th
+from the beginning of January to the end of March
+Romania and Bulgaria will be admitted to the European Union in January 2007
+","This dish has no taste.
+He attended personally in court.
+a court will refuse to
+a number of local dishes
+The catch is that these two dishes do not come from India.
+Sushi dishes which have gone down well in my restaurant ...
+",None,"Ignorance is no excuse.
+","this particular case
+above-average fall in the price
+a further fall in price
+a further fall in prices
+a further fall in prices
+at best he will get 30 votes
+in a similar case
+another case in point is ...
+I see this is the case
+I see this is not the case.
+owing to the fall of the dollar
+I didn't just fall off the turnip truck. [coll.] (Amer.)
+conditions subsequent to the policy [INSUR.]
+after having examined the case
+monetary value falls
+renewal falls due
+","at the discretion of the manufacturer
+You leave me with little choice.
+of his own choice
+in the run-up to the elections
+His speech swayed the elections.
+The Prime Minister who introduced the idea lost the ensuing election.
+","Are you related to the defendant by birth or by marriage?
+","they say
+What's your name?
+What's the name of this place?
+That doesn't mean a lot.
+She is called Myra.
+My girlfriend, who lives in Paris, is called Julie.
+It should read ...
+My name is ...
+","they say
+it is said ...
+He says first one thing then another.
+You have to be careful what you say these days.
+Can you understand what he's saying?
+It agrees with me
+the climate agrees with me
+He only says money's not important because he's got plenty.
+When someone says they want to wash their hands, they often mean that they want to go to the toilet.
+The council is a rubber-stamp body.
+One has to be careful what one says these days. [form.]
+please tell me
+He has no say.
+I felt impelled to say it.
+","a falsified document
+","No soliciting allowed.
+It is forbidden to
+the rule whereby it is not allowed
+should an order prohibit sth.
+","He had to change his arrangements.
+It was bound to happen.
+I was violently ill. (Amer.)
+She did a double take.
+He was kept in after school.
+I had to swallow a lot.
+She had to swallow a lot.
+If a student loses their ID card, they have to pay for a new one.
+If a student fails this exam, they have to leave the university.
+We have to ...
+You ought to have known better.
+We have to go as well.
+We must stick together.
+Everyone needs to do their part.
+","He couldn't come.
+He used to come.
+We're coming.
+see me tomorrow
+Do they meet their liabilities?
+Do they meet their obligations?
+Do you get many foreign visitors here at the museum?
+Owing to the rain we couldn't come.
+Three of us are coming together.
+It was bound to happen.
+I'm sure he will come.
+in order to meet you
+Where do you come from?
+Where do you come from?
+","like I said
+Didn't I tell you before?
+I told you so.
+I only said it in fun.
+How many times have I told you to empty the bin?
+It's all very well to say that
+Why did you say that?
+It's carrying things too far.
+It sounds to me from what you have said that ...
+That is a darned cheek, if you will pardon the expression.
+That is a darned cheek, if you will pardon my saying so.
+please tell me
+He has no say.
+I felt impelled to say it.
+","What have I done?
+You always found studying difficult.
+You always found studying difficult.
+he/she ain't done it [coll.]
+You needn't do it.
+You mustn't do it.
+He's in a quandary.
+It lies with you to do it.
+Need he do it?
+What remains to be done?
+We're only pretending.
+You needn't do it.
+He was so unapologetic about it.
+I still have a lot to do.
+",None,"You have to make up your mind.
+Should you decide to accept this offer, ...
+the bank must determine
+You must make a choice.
+","That doesn't agree with me.
+He rarely has any visitors.
+She never gets credit for her good ideas, which I think is really unfair.
+Coffee doesn't agree with me.
+I will pay a reward to the person who finds my cat - whosoever that may be!
+She got into hot water with her parents.
+see whether you can get ...
+When I asked for more I didn't expect to get that much!
+They'll throw the book at you if you get found out. [fig.]
+I have it sent to me.
+That gives me the creeps.
+I'll blow my top.
+Then you'll be in trouble, in fact in deep trouble.
+As the store's hundred thousandth customer he was given a free TV.
+It gives me the heebie-jeebies. [coll.]
+He gives me the heebie-jeebies. [coll.]
+","elected for a period of 3 years
+the point so chosen by the seller
+","enter into force as from
+he has been treading water
+",None,None,None,None,
 examples,german,None,None,None,None,None,None,None,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
 Das Auto fuhr rückwärts in die Garage.
@@ -5753,4 +7578,170 @@ sein Name war in aller Munde
 Seine Rede wird im ganzen Land widerhallen.
 meist besuchtes Ferienland
 ",,,,"Steven Soderbergh ist zurzeit der gefragteste Regisseur in Hollywood.
-",,
+",,,None,"dem Präsidenten obliegt die Aufrechterhaltung der Ordnung in der Sitzung
+",None,None,None,"Richter Smith
+","Hausieren verboten.
+Es ist verboten zu
+die Vorschrift, wonach es verboten ist
+","der Anspruch auf Wahrheit
+Er wird nicht ruhen, bis er die Wahrheit gefunden hat.
+Das ist die reine Wahrheit.
+Das ist nur die halbe Wahrheit.
+Sie hatte genug Schneid, die Wahrheit zu sagen.
+","schon nächsten Monat
+Es dürfte einen Monat dauern
+Ich bin diesen Monat schlecht bei Kasse.
+Es wird etwa einen Monat dauern
+zahlbar in Monatsraten von £1000
+erste Hälfte des Monats
+Er wurde zu sechs Monaten Haft verurteilt.
+Sein Urteil lautete auf sechs Monate Gefängnis.
+Es wird drei Monate dauern
+Laufzeit von mehreren Monaten
+nach Ende dieses Monats
+wenigstens 6 Monate
+während der vergangenen zwei Monate
+Das Buch erschien die nächsten Monate in Fortsetzungsfolgen.
+zweite Hälfte des Monats
+","im Januar
+vom 1. Januar bis 29. März
+von Anfang Januar bis Ende März
+Rumänien und Bulgarien werden im Januar 2007 in die Europäische Union aufgenommen werden.
+","Dieses Gericht schmeckt nach nichts.
+Er erschien persönlich vor Gericht.
+ein Gericht wird sich weigern
+eine Anzahl heimischer Gerichte
+Der Haken ist, dass diese zwei Gerichte nicht aus Indien stammen.
+Sushi-Gerichte, die gut in meinem Restaurant ankommen ...
+",None,"Unwissenheit schützt vor Strafe nicht.
+","dieser spezielle Fall
+der überdurchschnittliche Preisverfall
+ein weiterer Preisverfall
+ein weiterer Preisverfall
+ein weiteres Nachlassen der Preise
+im besten Fall erhält er 30 Stimmen
+in einem ähnlichen Fall
+denken wir auch an den Fall ...
+Ich sehe, das ist der Fall.
+Ich sehe, das ist nicht der Fall.
+wegen des Verfalls des Dollars
+Ich bin nicht auf der Brennsuppe dahergeschwommen. [coll.] (South-eastern Germany; Austria)
+vertragliche Obliegenheiten nach dem Versicherungsfall
+nach Prüfung des Falles
+der Geldwert sinkt
+die Erneuerung wird fällig
+","nach Wahl des Herstellers
+Ihr lasst mir kaum eine andere Wahl.
+nach eigener Wahl
+im Vorfeld der Wahlen
+Seine Rede beeinflusste die Wahlen.
+Der Premierminister, der die Idee einbrachte, hat die darauffolgenden Wahlen verloren.
+","Sind Sie mit dem Angeklagten verwandt oder verschwägert?
+","es heißt
+Wie heißt du?
+Wie heißt dieser Ort?
+Das heißt nicht viel.
+Sie heißt Myra.
+Meine Freundin, die in Paris lebt, heißt Julie.
+Es muss heißen ...
+Ich heiße ...
+","man sagt
+man sagt ...
+Er sagt mal so, mal so.
+Heutzutage muss man aufpassen, was man sagt.
+Verstehst du, was er sagt?
+Es sagt mir zu
+das Klima sagt mir zu
+Er sagt nur deshalb, dass Geld unwichtig sei, weil er jede Menge davon hat.
+Wenn jemand sagt, er möchte sich die Hände waschen, meint er oft, dass er die Toilette benutzen möchte.
+Die Ratsversammlung sagt zu allem Ja und Amen. [coll.]
+Heutzutage muss man aufpassen, was man sagt.
+sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+","eine gefälschte Urkunde
+","Hausieren verboten.
+Es ist verboten zu
+die Vorschrift, wonach es verboten ist
+falls ein Auftrag etwas verbietet
+","Er musste umdisponieren.
+Es musste ja so kommen.
+Ich musste mich heftig übergeben.
+Sie musste zweimal hinsehen.
+Er musste nachsitzen.
+Ich musste viel hinunterschlucken.
+Sie musste viel hinunterschlucken.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+Wenn Studierende bei dieser Prüfung durchfallen, müssen sie die Universität verlassen.
+Wir müssen ...
+Du hättest es besser wissen müssen.
+Wir müssen auch gehen.
+Wir müssen zusammenhalten.
+Alle müssen ihren Teil beitragen.
+","Er konnte nicht kommen.
+Er pflegte zu kommen.
+Wir kommen.
+kommen Sie morgen zu mir
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen viele ausländische Besucher hier ins Museum?
+Infolge des Regens konnten wir nicht kommen.
+Wir kommen zu dritt.
+Es musste ja so kommen.
+Sicherlich wird er kommen.
+um Ihnen entgegen zu kommen
+Wo kommen Sie her?
+Woher kommen Sie?
+","wie gesagt
+Habe ich es nicht gleich gesagt?
+Ich habe es Ihnen gesagt.
+Ich habe es nur zum Spaß gesagt.
+Wie oft habe ich dir gesagt du sollst den Müll rausbringen?
+Das ist leicht gesagt
+Warum hast du das gesagt?
+Das ist zu viel gesagt.
+Was du gesagt hast, klingt für mich so, als ob ...
+Das ist, mit Verlaub gesagt, eine Frechheit.
+Das ist, mit Verlaub gesagt, eine Frechheit.
+sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+","Was habe ich bloß getan?
+Du hast dich mit dem Lernen immer schwer getan.
+Du hast dir mit dem Lernen immer schwer getan.
+er (or: sie) hat es nicht getan
+Du brauchst es nicht zu tun.
+Du darfst es nicht tun.
+Er weiß nicht, was er tun soll.
+Es liegt an Ihnen, es zu tun.
+Muss er es tun?
+Was kann man noch tun?
+Wir tun nur so.
+Du musst es nicht tun.
+Es schien ihm überhaupt nicht leid zu tun.
+Ich habe noch viel zu tun.
+",None,"Sie müssen sich entscheiden.
+Sollten Sie sich entscheiden, das Angebot anzunehmen ... infinitive: annehmen
+die Bank muss entscheiden
+Sie müssen sich entscheiden.
+","Das bekommt mir nicht.
+Er bekommt selten Besuch.
+Sie bekommt nie Anerkennung für ihre guten Ideen, was ich absolut unfair finde.
+Kaffee bekommt mir nicht.
+Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Sie hat mit ihren Eltern Stunk bekommen.
+schauen Sie, ob Sie ... bekommen können
+Als ich um mehr gebeten habe, habe ich nicht erwartet, dass ich so viel bekommen würde!
+Du wirst die volle Härte des Gesetzes zu spüren bekommen, wenn sie dich erwischen.
+Ich bekomme es zugeschickt.
+Davon bekomme ich eine Gänsehaut.
+Ich bekomme einen Wutanfall.
+Dann bekommst du aber Ärger, und zwar gehörigen.
+Als hunderttausendster Kunde im Laden bekam er einen Fernseher geschenkt.
+Dabei bekomme ich eine Gänsehaut.
+Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
+","für 3 Jahre gewählt
+der vom Verkäufer gewählte Ort
+","treten in Kraft am
+er tritt auf der Stelle
+",None,None,None,None,

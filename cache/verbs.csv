@@ -1,4 +1,4 @@
-voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon
+voice,tense,geben,gehen,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess
 indicative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -49,7 +49,7 @@ indicative_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -100,7 +100,7 @@ indicative_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -151,7 +151,7 @@ indicative_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -202,7 +202,7 @@ indicative_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -253,7 +253,7 @@ indicative_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -304,7 +304,7 @@ indicative_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -315,7 +315,7 @@ indicative_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 indicative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -326,9 +326,9 @@ indicative_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+indicative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+indicative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -379,7 +379,7 @@ subjunctive_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Imperfect," ich gab
  du gabst
  er gab
@@ -430,7 +430,7 @@ subjunctive_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -481,7 +481,7 @@ subjunctive_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -532,7 +532,7 @@ subjunctive_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -583,7 +583,7 @@ subjunctive_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -634,7 +634,7 @@ subjunctive_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -645,7 +645,7 @@ subjunctive_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 subjunctive_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -656,9 +656,9 @@ subjunctive_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+subjunctive_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+subjunctive_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -709,7 +709,7 @@ conditional_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Imperfect," ich gab
  du gabst
  er gab
@@ -760,7 +760,7 @@ conditional_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -811,7 +811,7 @@ conditional_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -862,7 +862,7 @@ conditional_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -913,7 +913,7 @@ conditional_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -964,7 +964,7 @@ conditional_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -975,7 +975,7 @@ conditional_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 conditional_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -986,9 +986,9 @@ conditional_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+conditional_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+conditional_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -1039,7 +1039,7 @@ imperative_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1090,7 +1090,7 @@ imperative_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1141,7 +1141,7 @@ imperative_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -1192,7 +1192,7 @@ imperative_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -1243,7 +1243,7 @@ imperative_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -1294,7 +1294,7 @@ imperative_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -1305,7 +1305,7 @@ imperative_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 imperative_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -1316,9 +1316,9 @@ imperative_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+imperative_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+imperative_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Present," ich geb(e)
  du gibst
  er gibt
@@ -1369,7 +1369,7 @@ infinitive_participle_active,Present," ich geb(e)
  er jährt
  wir jähren
  ihr jährt
- sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Imperfect," ich gab
  du gabst
  er gab
@@ -1420,7 +1420,7 @@ infinitive_participle_active,Imperfect," ich gab
  er jährte
  wir jährten
  ihr jährtet
- sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie jährten",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Perfect," ich habe gegeben
  du hast gegeben
  er hat gegeben
@@ -1471,7 +1471,7 @@ infinitive_participle_active,Perfect," ich habe gegeben
  er hat gejährt
  wir haben gejährt
  ihr habt gejährt
- sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie haben gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Pluperfect," ich hatte gegeben
  du hattest gegeben
  er hatte gegeben
@@ -1522,7 +1522,7 @@ infinitive_participle_active,Pluperfect," ich hatte gegeben
  er hatte gejährt
  wir hatten gejährt
  ihr hattet gejährt
- sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie hatten gejährt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,Future," ich werde geben
  du wirst geben
  er wird geben
@@ -1573,7 +1573,7 @@ infinitive_participle_active,Future," ich werde geben
  er wird jähren
  wir werden jähren
  ihr werdet jähren
- sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  du wirst gegeben haben
  er wird gegeben haben
@@ -1624,7 +1624,7 @@ infinitive_participle_active,FuturePerfect," ich werde gegeben haben
  er wird gejährt haben
  wir werden gejährt haben
  ihr werdet gejährt haben
- sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ sie werden gejährt haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,InfinitiveI," geben
  zu geben"," geh(e)n
  zu geh(e)n",," leben
@@ -1635,7 +1635,7 @@ infinitive_participle_active,InfinitiveI," geben
  zu schmerzen",,,,,,,,," essen
  zu essen",,,,," bleiben
  zu bleiben",,,,,,,,,,," jähren
- zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ zu jähren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 infinitive_participle_active,InfinitiveII," gegeben haben
  gegeben zu haben"," gegangen sein
  gegangen zu sein",," gelebt haben
@@ -1646,6 +1646,6 @@ infinitive_participle_active,InfinitiveII," gegeben haben
  geschmerzt zu haben",,,,,,,,," gegessen haben
  gegessen zu haben",,,,," geblieben sein
  geblieben zu sein",,,,,,,,,,," gejährt haben
- gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ gejährt zu haben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infinitive_participle_active,ParticipleI, gebend, gehend,, lebend, podcastend,,,,,,,,,,,,,,,, schnupfend, hustend,,,,,,,,, schmerzend,,,,,,,,, essend,,,,, bleibend,,,,,,,,,,, jährend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infinitive_participle_active,ParticipleII, gegeben, gegangen,, gelebt, gepodcastet,,,,,,,,,,,,,,,, geschnupft, gehustet,,,,,,,,, geschmerzt,,,,,,,,, gegessen,,,,, geblieben,,,,,,,,,,, gejährt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

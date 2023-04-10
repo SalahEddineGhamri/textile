@@ -3,6 +3,8 @@ import warnings
 import pandas as pd
 from config import VERBS_CACHE_FILE
 from verb_conjugation_scapper import scrapp_for_verb
+import time
+import random
 
 # TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
@@ -73,6 +75,8 @@ class VerbsCache(pd.DataFrame):
         try:
             return super().__getitem__(key)
         except KeyError:
+            sleep_interval = random.uniform(0.1, 0.4)
+            time.sleep(sleep_interval)
             # print("scrapping for verb ...")
             new_verb = scrapp_for_verb(key)
             self[key] = pd.Series(index=self.index, dtype='object')

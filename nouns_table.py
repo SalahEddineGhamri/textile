@@ -3,6 +3,8 @@ import warnings
 import pandas as pd
 from config import NOUNS_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
+import time
+import random
 
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
@@ -65,6 +67,8 @@ class NounsCache(pd.DataFrame):
         try:
             return super().__getitem__(key)
         except KeyError:
+            sleep_interval = random.uniform(0.1, 0.4)
+            time.sleep(sleep_interval)
             # print("scrapping for noun ...")
             new_noun = nouns_definition_parser(key)
             for aspect, languages in new_noun.items():

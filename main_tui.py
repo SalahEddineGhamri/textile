@@ -4,7 +4,7 @@ from textual.widgets import TextLog
 from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
-from text import generate_rich_text, colorize_text, ANALYZED_TEXT, generate_rich_analysis
+from text import generate_rich_text, colorize_text, ANALYZED_TEXT, generate_rich_analysis, generate_rich_analysis_verb
 from rich.table import Table
 
 # PROGRESS IN TUI------------------------------------
@@ -26,6 +26,8 @@ def call_nouns():
 
 def call_verbs():
     TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "VERB"), width=TEXT_WIDTH))
+    rich_analysis = generate_rich_analysis_verb(ANALYZED_TEXT)
+    TextileApp.set_message(rich_analysis)
 
 
 # dict of all button actions
