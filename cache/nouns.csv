@@ -1,4 +1,4 @@
-aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,expräsident,frühere,wichtige,neuer,Jetzt,Nun,muss,genau,wieder,Dann,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,Weltkrieg,FilmPreisen,WeltKrieg,FilmMusik,KameraFührung,SzenenBild,WaschSalon,komme,lebe,habe,wohnen,arbeitet,NATOMitglied,MilitärBündnis,MitgliedsLänder,Länder,Mitglieder,Russland,HauptQuartier,Feier,Fahne,GeneralSekretär,Mitglied,Erweiterung,Beitritt,Regierung,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt
+aspects,language,verbs,english,german,nouns,noun_details,adjectives_or_adverbs,examples,Auto,Pferd,Blume,Flasche,Dialog,leben,Podcast,Morgenradio,Alternative,Radio,Morgen,Moderatoren,Nachrichten,Welt,Menschen,Geschichte,Text,Dialoges,Zeit,Spaziergang,Sohn,Fieber,Schnupfen,Husten,Kopfweh,Grippe,Erkältung,Schule,Arzt,Kinderarzt,Schmerzmittel,Saft,Schmerzen,Gefühl,Kind,Winter,Viren,Kinder,Kontakt,Wunder,Tag,Essen,Getränke,Katze,Besserung,Danke,Bleib,Mühe,Wochen,Tage,Arbeit,Glück,Attest,Wartezimmer,Rezept,Medikamente,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Oscars,Film,Oscar,Film-Preisen,Jahr,Westen,Neues,Welt-Krieg,Soldat,Krieg,Millionen,Buch,Schriftsteller,Stadt,Land,Film-Musik,Kamera-Führung,Szenen-Bild,Regisseur,Besitzerin,Wasch-Salon,Ex-Präsident,Präsident,Staats-Anwalt,Geschäfts-Unterlagen,Gerichts-Termin,Richter,Verbotenes,Wahrheit,Monat,Januar,Gericht,Straf-Prozess,Strafe,Fall,Wahl,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,Staatsanwalt,Geschäftsunterlagen,Expräsident,Gerichtstermin,Strafprozess,expräsident,frühere,wichtige,neuer,Jetzt,Nun,muss,genau,wieder,Dann,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,Weltkrieg,FilmPreisen,WeltKrieg,FilmMusik,KameraFührung,SzenenBild,WaschSalon,komme,lebe,habe,wohnen,arbeitet,NATOMitglied,MilitärBündnis,MitgliedsLänder,Länder,Mitglieder,Russland,HauptQuartier,Feier,Fahne,GeneralSekretär,Mitglied,Erweiterung,Beitritt,Regierung,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,Militär-Bündnis,Mitglieds-Länder,Haupt-Quartier,General-Sekretär,Noun,Generalsekretär, Bündnis, Sekretär, Mitglied,tatsächlich,Quartier,Nato,Militär,Militärbündnis,Mitglieds, Länder,Mitgliedsländer,Haupt, Quartier,Hauptquartier,General
 basic_forms,english,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"alternativ : Adjective
 ",None,None,"der Moderator : Noun
 ","die Nachricht : Noun
@@ -110,8 +110,10 @@ klappen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
-"
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+",None,None,None,None,None,None,None,None,None,None,None,,,,"das Mitglied : Noun
+",,"das Mitgliedsland : Noun
+",,,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,
 verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -1413,6 +1415,26 @@ to start | started, started |
 to loop up
 to collect | collected, collected |
 to pick sth. ⇔ up
+",None,None,None,None,None,None,"to form an alliance
+to confederate | confederated, confederated |
+",None,"to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+",None,"to give no quarter archaic [MIL.]
+",,"to be in uniform
+",,"to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+","to identify countries
+",,,"to give no quarter archaic [MIL.]
+",,"to get a general idea
+to record in the general ledger
+to become generally accepted
+to become generally known as ...
 "
 verbs,german,None,None,None,None,None,None,None,"Auto fahren
 ein Auto anschieben
@@ -2715,6 +2737,26 @@ aufnehmen | nahm auf, aufgenommen |
 aufnehmen | nahm auf, aufgenommen |
 aufnehmen | nahm auf, aufgenommen | - Material
 etw.acc. aufnehmen | nahm auf, aufgenommen |
+",None,None,None,None,None,None,"ein Bündnis schließen
+sichacc. zu einem Bündnis zusammenschließen
+",None,"Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,"kein Quartier geben
+",,"beim Militär sein
+",,"Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+","Länder bezeichnen
+",,,"kein Quartier geben
+",,"sichdat. einen Überblick verschaffen
+im Hauptbuch eintragen
+allgemein akzeptiert werden
+allgemein bekanntwerden (or: bekannt werden) als ...
 "
 nouns,english,None,None,None,None,None,None,None,"car
 auto (Amer.)
@@ -4094,7 +4136,153 @@ unit
 business company
 corporate client
 firm [COMM.]
-",
+",None,None,None,None,None,"noun [LING.]
+noun [LING.]
+noun [LING.]
+noun [LING.]
+noun phrase [LING.]
+collective noun
+collective noun
+masculine noun
+proper noun
+common noun [LING.]
+common noun [LING.]
+plural-only noun [LING.]
+singular-only noun [LING.]
+abstract noun [LING.]
+","general secretary
+secretary general
+Secretary-General [POL.]
+","alliance
+league
+confederacy
+confederation
+covenant
+federation
+pact
+global alliance
+North Atlantic Treaty Organization [abbr.: NATO] [POL.]
+close alliance [POL.]
+Alliance for Jobs [POL.]
+Climate Alliance
+","secretary
+amanuensis
+clerk
+bureau
+davenport chiefly (Brit.)
+escritoire
+secretary bird (or: secretarybird) [ZOOL.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","real address
+actual attainment
+actual deaths pl.
+actual value
+true value
+actual expenditure
+actual profit
+physical damage
+actual situation
+present market
+actual date
+actual price
+actual address [COMP.]
+absolute address [COMP.]
+","accommodation sg., usually in plural: accommodations (Amer.)
+accommodation (Brit.)
+lodging
+quarters plural noun
+billet [MIL.]
+cantonment [MIL.]
+","North Atlantic Treaty Organization [abbr.: NATO] [POL.]
+razor-barbed wire
+Nato stock number [ADMIN.]
+","army no plural
+the military
+soldiery
+armed forces plural noun [MIL.]
+military standard [AVIAT.]
+military brass [MIL.]
+","military alliance [MIL.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","European countries
+Länder authority [ADMIN.]
+Eastern (or: East) European countries pl.
+new Länder
+Nordics pl.
+West European countries pl.
+industrializedAE worldindustrialisedBE / industrializedBE world
+oil-producing nations
+oil-producing nations
+developed countries pl.
+European countries
+southern European countries
+participating countries pl.
+Working Committee of the Surveying Authorities of the States of the Federal Republic of Germany
+","member body country
+member country [POL.]
+member state [POL.]
+","head
+pate
+crown of a press [TECH.]
+best clean ore [GEOL.]
+upper bed [GEOL.]
+upper cleaving grain - stone-cutting [GEOL.]
+upper end - e.g. of a valley, stream, or river [GEOL.]
+upper part [GEOL.]
+key performance indicator [abbr.: KPI]
+master-detail-screen
+dominant mode - in a waveguide [TELECOM.]
+fundamental mode - deprecated [TELECOM.]
+principal characteristic [ELEC.]
+principal voltage-current characteristic [ELEC.]
+","accommodation sg., usually in plural: accommodations (Amer.)
+accommodation (Brit.)
+lodging
+quarters plural noun
+billet [MIL.]
+cantonment [MIL.]
+","headquarters - pl.: headquarters [abbr.: H.Q., h.q., HQ]
+","general [MIL.]
+general
+general [MIL.]
+the generals pl. [MIL.]
+general map
+general map
+general strike
+general strike
+general survey
+general survey
+general agreement
+general agreement
+general agreement
+general agreement
+"
 nouns,german,None,None,None,None,None,None,None,"das Auto pl.: die Autos
 das Auto pl.: die Autos
 das Fahrzeug pl.: die Fahrzeuge
@@ -5473,7 +5661,153 @@ das Unternehmen pl.: die Unternehmen
 das Unternehmen pl.: die Unternehmen
 das Unternehmen pl.: die Unternehmen - als Kunde
 das Unternehmen pl.: die Unternehmen
-",
+",None,None,None,None,None,"das Hauptwort pl.: die Hauptwörter [Grammar]
+das Nomen pl.: die Nomen/die Nomina [Grammar]
+das Substantiv pl.: die Substantive [Grammar]
+das Nennwort pl.: die Nennwörter
+die Nominalphrase pl.: die Nominalphrasen [Grammar]
+das Kollektivum pl.: die Kollektiva
+der Sammelname pl.: die Sammelnamen
+das Maskulinum pl.: die Maskulina
+der Eigenname pl.: die Eigennamen
+das Appellativ
+der Gattungsname pl.: die Gattungsnamen [Grammar]
+das Pluraletantum pl.: die Pluraletantums/die Pluraliatantum
+das Singularetantum pl.: die Singularetantums/die Singulariatantum
+das Abstraktum pl.: die Abstrakta
+","der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+","das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+globales Bündnis
+nordatlantisches Bündnis
+enges Bündnis
+Bündnis für Arbeit
+Klima-Bündnis e. V.
+","der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär pl.: die Sekretäre - Möbelstück
+der Sekretär pl.: die Sekretäre - Möbelstück
+der Sekretär pl.: die Sekretäre
+der Sekretär pl. Lat.: Sagittarius serpentarius [Ornithology]
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","tatsächliche Adresse
+tatsächliche Leistung
+tatsächliche Todesfälle pl.
+tatsächlicher Wert
+tatsächlicher Wert
+tatsächliche Ausgaben pl.
+tatsächlicher Gewinn
+tatsächlicher Schaden
+tatsächliche Situation
+tatsächlicher Markt
+tatsächlicher Termin
+tatsächlicher Preis
+tatsächliche Adresse
+tatsächliche Adresse
+","das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+","die NATO or: Nato no plural
+der NATO-Draht or: Natodraht pl.: die Natodrähte
+die Versorgungsnummer
+","das Militär no plural
+das Militär no plural
+das Militär no plural
+das Militär no plural
+die Militär-Norm
+hochrangige Militärs pl.
+","das Militärbündnis pl.: die Militärbündnisse
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","Länder Europas
+die Landesbehörde pl.: die Landesbehörden
+osteuropäische Länder pl.
+Neue Bundesländer
+nordische Länder
+westeuropäische Länder pl.
+industrialisierte Länder
+ölfördernde Länder pl.
+ölproduzierende Länder
+entwickelte Länder pl.
+europäische Länder
+südeuropäische Länder
+teilnehmende Länder pl.
+Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland [abbr.: AdV]
+","das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+","das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+der Haupt-Erfolgsindikator
+die Haupt-Detail-Ansicht
+der Haupt-Mode - im Hohlleiter
+der Haupt-Mode - im Hohlleiter
+die Haupt-Strom-Spannungs-Charakteristik
+die Haupt-Strom-Spannungs-Charakteristik
+","das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+","das Hauptquartier pl.: die Hauptquartiere
+","der General pl.: die Generale/die Generäle
+Allgemeines
+der Feldherr pl.: die Feldherren
+die Generalität rarely in pl.
+die Übersichtskarte
+die Übersicht pl.
+der Generalstreik pl.: die Generalstreiks
+allgemeiner Streik
+die Gesamtübersicht pl.: die Gesamtübersichten
+allgemeiner Überblick
+die Rahmenvereinbarung pl.: die Rahmenvereinbarungen
+allgemeine Übereinkunft
+allgemeines Einverständnis
+das Globalabkommen pl.: die Globalabkommen
+"
 noun_details,english,None,None,None,None,None,None,None,"article: das
 word: Auto
 genus: NEUT
@@ -6014,7 +6348,7 @@ plural: die Regierungen
 word: Helfe
 genus: FEMI
 plural: die Helfen
-",,,"article: der
+",None,None,"article: der
 word: Hut
 genus: MASC
 plural: die Hüte
@@ -6034,12 +6368,80 @@ plural: Organisationsökologie
 word: Schultern
 genus: 
 plural: 
-",,,,"article: das
+",None,None,None,"article: das
 word: Unternehmen
 genus: NEUT
 plural: die Unternehmen
-",
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+",None,None,None,None,None,"article: das
+word: Hauptwort
+genus: NEUT
+plural: die Hauptwörter [Grammar]
+","article: der
+word: Generalsekretär
+genus: MASC
+plural: die Generalsekretäre
+","article: das
+word: Bündnis
+genus: NEUT
+plural: die Bündnisse
+","article: der
+word: Sekretär
+genus: MASC
+plural: die Sekretäre, die Sekretärinnen
+","article: das
+word: Mitglied
+genus: NEUT
+plural: die Mitglieder
+","article: tatsächliche
+word: Adresse
+genus: 
+plural: Adresse
+","article: das
+word: Quartier
+genus: NEUT
+plural: die Quartiere
+","article: die
+word: NATO
+genus: FEMI
+plural: plural
+","article: das
+word: Militär
+genus: NEUT
+plural: plural
+","article: das
+word: Militärbündnis
+genus: NEUT
+plural: die Militärbündnisse
+","article: das
+word: Mitglied
+genus: NEUT
+plural: die Mitglieder
+","article: Länder
+word: Europas
+genus: 
+plural: Europas
+","article: das
+word: Mitgliedsland
+genus: NEUT
+plural: die Mitgliedsländer
+","article: das
+word: Haupt
+genus: NEUT
+plural: die Häupter
+","article: das
+word: Quartier
+genus: NEUT
+plural: die Quartiere
+","article: das
+word: Hauptquartier
+genus: NEUT
+plural: die Hauptquartiere
+","article: der
+word: General
+genus: MASC
+plural: die Generale/die Generäle
+"
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,
 adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
@@ -6761,7 +7163,53 @@ pitched adj.
 corporate adj. [COMM.]
 intra-firm or: intrafirm adj.
 noncorporateAE / non-corporateBE adj.
-",
+",None,None,None,None,None,None,None,"confederative adj.
+",None,None,"actual adj.
+actually adv.
+real adj.
+effectively adv.
+positive adj.
+really adv.
+effective adj.
+factual adj.
+in fact
+indeed adv.
+in point of fact
+as it happens
+as a matter of fact
+essentially adv.
+",None,,"in the army
+military adj.
+",,,,,"main adj. - used before noun
+chief adj. - used before noun
+major adj. - used before noun
+root adj. - used before noun
+principal adj. also [MATH.]
+cardinal adj. - used before noun
+key adj. - usually before noun
+peak adj. - used before noun
+pilot adj.
+capital adj. - used before noun
+primary adj.
+basic adj. - used before noun
+central adj. - used before noun
+lead adj. - used before noun
+",,"headquartered (in) adj.
+","general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+generally adv.
+"
 adjectives_or_adverbs,german,None,None,None,None,None,None,None,"autoerotisch
 automatisch unterstützt
 ","ohne Pferd
@@ -7483,7 +7931,53 @@ hochgezogen
 Unternehmens...
 innerhalb eines Unternehmens
 nicht zum Unternehmen gehörig
-",
+",None,None,None,None,None,None,None,"Bündnis...
+",None,None,"tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+tatsächlich
+",None,,"beim Militär
+Militär...
+",,,,,"Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+",,"mit Hauptquartier (in)
+","allgemein
+üblich
+generell
+normal
+global
+Allgemein...
+allseitig
+allgemeingültig or: allgemein gültig
+gewöhnlich
+breit
+landläufig
+unbestimmt
+General...
+im Allgemeinen [abbr.: i. Allg.]
+"
 phrases_or_collocations,english,None,None,None,None,None,None,None,None,"to put the cart before the horse
 to put the cart before the horse
 to back the wrong horse [fig.]
@@ -8301,6 +8795,13 @@ I'm looking forward to seeing you again.
 ","if things work out
 ",None,"a company's survival
 ","to be no match for so./sth.
+",None,None,None,None,None,None,None,None,None,None,None,,,,,"When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+",,"Mea culpa! [hum.]
+to wear sackcloth and ashes [fig.]
+",,,"caviar to the general
+subject to our general terms and conditions
 "
 phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
 das Pferd von hinten aufzäumen
@@ -9119,6 +9620,13 @@ Ich freue mich auf ein Wiedersehen mit Ihnen.
 ","wenn alles klappt
 ",None,"Erhalt eines Unternehmens
 ","es nicht mit jmdm./etw. aufnehmen können
+",None,None,None,None,None,None,None,None,None,None,None,,,,,"andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+",,"Asche auf mein Haupt!
+sichdat. Asche aufs Haupt streuen [fig.] [coll.]
+",,,"Kaviar fürs Volk
+unterliegt Geschäftsbedingungen
 "
 examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
 The car drove without lights and on the wrong side of the road.
@@ -10032,6 +10540,30 @@ We should hang out some time. [coll.]
 on the business premises of the company
 I'm the owner of this firm and as such I have a right to know what's going on here.
 ","Are you ready to order?
+",None,None,None,None,None,None,None,None,"a list of members
+Upper limit is 21 members.
+","amount actually paid
+",None,,,,"a list of members
+Upper limit is 21 members.
+","nations which are less developed
+The Danube flows through ten countries.
+",,"our chief business will be
+our main business will be
+our chief activities will be
+our main activities will be
+in addition to the principal amount
+bound to the principal debt
+",,,"a general depression in trade
+a general improvement in trade
+By virtue of this deed I grant X general power of attorney.
+conceived in general terms
+finds general approval
+site of general cultural interest
+to be provided for general information
+the general conditions
+the generally high level of orders on hand
+It was generally agreed
+this method is generally applied
 "
 examples,german,None,None,None,None,None,None,None,"Das Auto ist zuverlässig und (noch) nicht einmal teuer.
 Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
@@ -10945,4 +11477,28 @@ Wir sollten mal was zusammen unternehmen. [coll.]
 in den Geschäftsräumen des Unternehmens
 Als Eigentümer dieses Unternehmens habe ich das Recht zu erfahren, was hier vor sich geht.
 ","Kann ich Ihre Bestellung aufnehmen?
+",None,None,None,None,None,None,None,None,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+","tatsächlich ausbezahlter Betrag
+",None,,,,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+","weniger entwickelte Länder
+Die Donau fließt durch zehn Länder.
+",,"unser Hauptgeschäft wird sein
+unser Hauptgeschäft wird sein
+unsere Haupttätigkeiten werden sein
+unsere Haupttätigkeiten werden sein
+zusätzlich zum Hauptbetrag
+an die Hauptschuld gebunden
+",,,"eine allgemeine Flaute
+allgemeine Verbesserung der Marktlage
+Mit dieser Urkunde erteile ich X Generalvollmacht.
+in allgemeinen Worten abgefasst
+findet allgemeinen Anklang
+Stätte von allgemeinem kulturellem Interesse
+bieten allgemeine Informationen
+die allgemeinen Bedingungen
+der allgemein hohe Auftragsbestand
+Man war sich allgemein einig
+dieses Verfahren ist üblich
 "

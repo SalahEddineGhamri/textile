@@ -11,10 +11,11 @@ from prepositions_table import PrepositionsCache
 from multiprocessing import Process, Manager
 from rich.table import Table
 from time import sleep
-from anki_generator import AnkiGenerator, VerbNote, NounNote
-from config import NOUNS_CACHE_FILE, INPUT_PATH
+from anki_generator import AnkiGenerator
 
 # TODO: if noun not found try lemma and try decomposing it <corrector>
+# TODO: create an entity TEXTANALYZER that holds everything
+# TODO: Status when all operations are done
 
 # colors dict
 colors_definitions = {
@@ -45,24 +46,14 @@ colors_definitions = {
     'SPACE': None
 }
 
+INPUT_PATH = "./texts/input_5.txt"
+
+
 # TODO: must be joined
 def run_in_background(func, *args, **kwargs):
     process = Process(target=func, args=args, kwargs=kwargs)
     process.start()
 
-
-def split_hyphenated_string(s):
-    words = s.split('-')
-    result = []
-    for i, word in enumerate(words):
-        if i == 0:
-            result.append(word.capitalize())
-        elif i == len(words) - 1:
-            result.append(' ' + word.capitalize())
-            result.append(''.join(words).capitalize())
-        else:
-            result.append(' ' + word.capitalize())
-    return result
 
 class Blackboard:
     def __init__(self, input_path):
@@ -70,16 +61,16 @@ class Blackboard:
         manager = Manager()
         self.manager = manager.dict()
 
-        self.text = ""
+        self.manager['text'] = ""
         # dataframe
         self.manager['analyzed_text'] = None
 
         # caches
-        self.noun_cache = NounsCache()
-        self.verb_cache = VerbsCache()
-        self.adjective_cache = AdjectivesCache()
-        self.adverb_cache = AdverbsCache()
-        self.preposition_cache = PrepositionsCache()
+        self.manager['noun_cache'] = NounsCache()
+        self.manager['verb_cache'] = VerbsCache()
+        self.manager['adjective_cache'] = AdjectivesCache()
+        self.manager['adverb_cache'] = AdverbsCache()
+        self.manager['preposition_cache'] = PrepositionsCache()
 
         stages = manager.dict()
         stages['input_read'] = None
@@ -89,8 +80,7 @@ class Blackboard:
         stages['analyzed_adjectives'] = None
         stages['analyzed_adverbs'] = None
         stages['analyzed_prepositions'] = None
-        stages['correction'] = 'DONE'
-        stages['anki_generation'] = 'DONE'
+        stages['correction'] = None
 
         # stages: None - 'started' - 'done'
         self.manager['stages'] = stages
@@ -102,86 +92,59 @@ class Blackboard:
     def read_input(self, input_path):
         self.manager['stages']['input_read'] = 'STARTED'
         with File(input_path, "r") as f:
-            self.text = f.getData()
+            self.manager['text'] = f.getData()
             self.manager['stages']['input_read'] = 'DONE'
 
-    def analyze_verbs(self, cache):
+    def analyze_verbs(self):
         self.manager['stages']['analyzed_verbs'] = 'STARTED'
         verbs_list = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'VERB'), 'text'].tolist()
         for verb in verbs_list:
-            cache[verb]
-        cache.cache()
+            self.manager['verb_cache'][verb]
+        self.manager['verb_cache'].cache()
         self.manager['stages']['analyzed_verbs'] = 'DONE'
 
-    def analyze_nouns(self, cache):
+    def analyze_nouns(self):
         self.manager['stages']['analyzed_nouns'] = 'STARTED'
         # trigger meaning parsing for all nouns
-        df = self.manager['analyzed_text']
-        nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
-        nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
-        nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
-        for noun in nouns_list+nouns_with_hyphen:
-            cache[noun]
-        cache.cache()
+        self.manager['analyzed_text'].loc[self.manager['analyzed_text']['pos_'] == 'NOUN', 'text'] = \
+            self.manager['analyzed_text'].loc[self.manager['analyzed_text']['pos_'] == 'NOUN', 'text'].replace('-', '')
+        nouns_list = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
+        for noun in nouns_list:
+            self.manager['noun_cache'][noun]
+        self.manager['noun_cache'].cache()
         self.manager['stages']['analyzed_nouns'] = 'DONE'
 
-    def analyze_adjectives(self, cache):
+    def analyze_adjectives(self):
         self.manager['stages']['analyzed_adjectives'] = 'STARTED'
         adjectives_list = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'ADJ'), 'text'].tolist()
         for adjective in adjectives_list:
-            cache[adjective]
-        cache.cache()
+            self.manager['adjective_cache'][adjective]
+        self.manager['adjective_cache'].cache()
         self.manager['stages']['analyzed_adjectives'] = 'DONE'
 
-    def analyze_adverbs(self, cache):
+    def analyze_adverbs(self):
         self.manager['stages']['analyzed_adverbs'] = 'STARTED'
         adverbs_list = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'ADV'), 'text'].tolist()
         for adverb in adverbs_list:
-            cache[adverb]
-        cache.cache()
+            self.manager['adverb_cache'][adverb]
         self.manager['stages']['analyzed_adverbs'] = 'DONE'
 
-    def analyze_prepositions(self, cache):
+    def analyze_prepositions(self):
         self.manager['stages']['analyzed_prepositions'] = 'STARTED'
         prepos_ = ['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']
         prepositions_list = self.manager['analyzed_text'].loc[self.manager['analyzed_text']['pos_'].isin(prepos_), 'text'].tolist()
         for preposition in prepositions_list:
-            cache[preposition]
-        cache.cache()
+            self.manager['preposition_cache'][preposition]
+        self.manager['preposition_cache'].cache()
         self.manager['stages']['analyzed_prepositions'] = 'DONE'
 
     def anki_generation(self):
-        # anki generation will start if all stages all done
-        # TODO: max loop exit with failure
-        while not all(value == 'DONE' for value in self.manager['stages'].values()):
-            sleep(0.001)
-        self.manager['stages']['correction'] = 'STARTED'
-        try:
-            nouns = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
-        except (BrokenPipeError, ConnectionResetError):
-            pass
-        self.manager['stages']['correction'] = 'DONE'
-        """
-
-        # loop all nouns and verbs
-        nouns_df = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN')]
-        print(nouns_df)
-        #fields = ['Noun', 'English', 'FullNoun', 'Plural']
-        #self.anki_generator.add_note()
-
-        verbs_df = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'VERB')]
-        #fields = ['Verb', 'English', 'PresentPastParticip']
-        #self.anki_generator.add_note()
-
-        self.anki_generator.add_note()
-        self.manager['stages']['correction'] = 'DONE'
-        """
-
+        pass
 
     def analyze_text(self):
         self.manager['stages']['analyzed_input'] = 'STARTED'
         nlp = spacy.load("de_core_news_sm")
-        doc = nlp(self.text)
+        doc = nlp(self.manager['text'])
         data = []
         for token in doc:
             data.append([token.text,
@@ -220,7 +183,6 @@ class Blackboard:
         self.manager['analyzed_text']['color'] = colors_definitions['White']
         self.manager['analyzed_text']['highlight'] = False
 
-
         # fill the meta data Case, Gender, Number, Person
         df = self.manager['analyzed_text']
         df['meta'] = df['morph_case'].apply(lambda x: x.copy())
@@ -230,17 +192,34 @@ class Blackboard:
         self.manager['analyzed_text'] = df
         self.manager['stages']['analyzed_input'] = 'DONE'
 
-        run_in_background(self.analyze_nouns, self.noun_cache)
-        run_in_background(self.analyze_verbs, self.verb_cache)
-        run_in_background(self.analyze_adjectives, self.adjective_cache)
-        run_in_background(self.analyze_adverbs, self.adverb_cache)
-        run_in_background(self.analyze_prepositions, self.preposition_cache)
-
+        run_in_background(self.analyze_nouns)
+        run_in_background(self.analyze_verbs)
+        run_in_background(self.analyze_adjectives)
+        run_in_background(self.analyze_adverbs)
+        run_in_background(self.analyze_prepositions)
         #run_in_background(self.corrector)
         run_in_background(self.anki_generation)
 
     def get_analysed_text(self):
+        while self.manager['analyzed_text'] is None:
+            sleep(1)
         return self.manager['analyzed_text']
+
+
+# TODO: work on this
+blackboard = Blackboard()
+print(blackboard.manager['stages'])
+blackboard.read_input(INPUT_PATH)
+print(blackboard.manager['stages'])
+blackboard.analyze_text()
+print(blackboard.manager['stages'])
+ANALYZED_TEXT = blackboard.get_analysed_text()
+
+noun_cache = blackboard.manager['noun_cache']
+verb_cache = blackboard.manager['verb_cache']
+adjective_cache = blackboard.manager['adjective_cache']
+adverb_cache = blackboard.manager['adverb_cache']
+preposition_cache = blackboard.manager['preposition_cache']
 
 
 def colorize_text(df, scheme=None):
@@ -289,7 +268,6 @@ def generate_rich_text(df, width=30):
     text.no_wrap = False
     text_width = 0
     for index, row in df.iterrows():
-        print(row['color'])
         if row['text'] == '\n':
             text.append('\n')
             text_width = 0
@@ -327,12 +305,12 @@ def generate_rich_text(df, width=30):
     return text
 
 
-def generate_rich_analysis(df, blackboard, group='NOUN', row_nbr=5):
+def generate_rich_analysis(df, group='NOUN', row_nbr=5):
     # map [group: [select part of meaning, select cache, tags]]
-    map = {'NOUN': ['nouns', blackboard.noun_cache, ['NOUN']],
-           'ADJ': ['adjectives_or_adverbs', blackboard.adjective_cache, ['ADJ']],
-           'ADV': ['adjectives_or_adverbs', blackboard.adverb_cache, ['ADV']],
-           'PREP': ['examples', blackboard.preposition_cache, ['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']],
+    map = {'NOUN': ['nouns', noun_cache, ['NOUN']],
+           'ADJ': ['adjectives_or_adverbs', adjective_cache, ['ADJ']],
+           'ADV': ['adjectives_or_adverbs', adverb_cache, ['ADV']],
+           'PREP': ['examples', preposition_cache, ['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']],
            }
     tables = []
     nouns_list = df.loc[(df['pos_'].isin(map[group][2])), 'text'].tolist()
@@ -342,8 +320,6 @@ def generate_rich_analysis(df, blackboard, group='NOUN', row_nbr=5):
 
     for element in nouns_list:
         df = cache[element]
-        if df is None:
-            continue
         df.fillna(value="None", inplace=True)
         english_text = cache[element][map[group][0]]['english']
         german_text = cache[element][map[group][0]]['german']
@@ -375,7 +351,7 @@ def generate_rich_analysis(df, blackboard, group='NOUN', row_nbr=5):
     return tables
 
 
-def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
+def generate_rich_analysis_verb(df, row_nbr=5):
     tables = []
     verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
     lemmas_list = df.loc[(df['pos_'] == 'VERB'), 'lemma_'].tolist()
@@ -384,10 +360,10 @@ def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
     lemmas_list = list(set(lemmas_list))
 
     for verb, lemma in zip(verbs_list, lemmas_list):
-        df = blackboard.noun_cache[verb]
+        df = noun_cache[verb]
         df.fillna(value="None", inplace=True)
-        english_text = blackboard.noun_cache[verb]['verbs']['english']
-        german_text = blackboard.noun_cache[verb]['verbs']['german']
+        english_text = noun_cache[verb]['verbs']['english']
+        german_text = noun_cache[verb]['verbs']['german']
 
         english_text = english_text.split('\n')
         german_text = german_text.split('\n')
@@ -398,7 +374,7 @@ def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
         for eng, ger in zip(english_text[:row_nbr], german_text[:row_nbr]):
             table.add_row(eng, ger)
         tables.append(table)
-        conj_tables = blackboard.verb_cache[verb]['indicative_active']
+        conj_tables = verb_cache[verb]['indicative_active']
         conj_tables.fillna(value="None", inplace=True)
         table = Table()
         table.add_column("Present", justify="left", no_wrap=False)
@@ -411,7 +387,7 @@ def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
                           conj_tables['Perfect'],
                           conj_tables['Future'])
         else:
-            conj_tables = blackboard.verb_cache[lemma]['indicative_active']
+            conj_tables = verb_cache[lemma]['indicative_active']
             conj_tables.fillna(value="None", inplace=True)
             table.add_row(conj_tables['Present'],
                           conj_tables['Imperfect'],
@@ -423,24 +399,7 @@ def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
 
 
 if __name__ == "__main__":
-    # TODO: work on this
-    blackboard = Blackboard(INPUT_PATH)
-    blackboard.read_input(INPUT_PATH)
-    blackboard.analyze_text()
-    ANALYZED_TEXT = blackboard.get_analysed_text()
-
-    noun_cache = blackboard.noun_cache
-    verb_cache = blackboard.verb_cache
-    adjective_cache = blackboard.adjective_cache
-    adverb_cache = blackboard.adverb_cache
-    preposition_cache = blackboard.preposition_cache
-
-    TEXT_WIDTH = 90
     df = colorize_text(ANALYZED_TEXT, 'NOUN')
-    print(generate_rich_analysis(df, blackboard)[0])
-    print(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
-    print(generate_rich_analysis(ANALYZED_TEXT, blackboard))
+    print(generate_rich_analysis(df)[0])
+    print(blackboard.manager['stages'])
 
-    while not all(value == 'DONE' for value in blackboard.manager['stages'].values()):
-        print(blackboard.manager['stages'])
-        sleep(1)

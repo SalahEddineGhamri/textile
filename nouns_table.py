@@ -1,7 +1,7 @@
 # contains a cache for nouns
 import warnings
 import pandas as pd
-from config import NOUNS_CACHE_FILE
+from config import NOUNS_CACHE_FILE, INPUT_PATH
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
@@ -38,6 +38,9 @@ class NounsCache(pd.DataFrame):
         else:
             return None
 
+    def delete_noun(self, noun):
+        self.drop(noun, axis=1, inplace=True)
+
     def add_noun(self, noun, aspect, language, value):
         if noun in self.columns:
             self.loc[(aspect, language), noun] = value
@@ -56,7 +59,7 @@ class NounsCache(pd.DataFrame):
                 return False
 
             super().to_csv(NOUNS_CACHE_FILE, index=True)
-            # print(f'DataFrame has been written to {NOUNS_CACHE_FILE}')
+            #print(f'------->>>> DataFrame has been written to {NOUNS_CACHE_FILE}')
             return True
 
         except Exception as e:
@@ -69,20 +72,23 @@ class NounsCache(pd.DataFrame):
         except KeyError:
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
-            # print("scrapping for noun ...")
+            #print("scrapping for noun ...")
             new_noun = nouns_definition_parser(key)
-            for aspect, languages in new_noun.items():
-                if languages is not None:
-                    self.loc[(aspect, 'english'), key] = languages[0]
-                    self.loc[(aspect, 'german'), key] = languages[1]
-            self.cache()
-            return self[key]
+            if new_noun is not None:
+                if new_noun['nouns'] is not None:
+                    for aspect, languages in new_noun.items():
+                        if languages is not None:
+                            self.loc[(aspect, 'english'), key] = languages[0]
+                            self.loc[(aspect, 'german'), key] = languages[1]
+                    return self[key]
+                else:
+                    return None
 
 
 if __name__ == "__main__":
     noun_cache = NounsCache()
     noun_cache.fillna(value="None", inplace=True)
-    print(noun_cache['Russland']['nouns']['english'])
-    print(noun_cache['Russland']['nouns']['german'])
-    print(noun_cache['Russland']['noun_details']['english'].split('\n'))
+    word = 'Quartier'
+    print(noun_cache[word])
+    print(word in noun_cache.columns)
     noun_cache.cache()

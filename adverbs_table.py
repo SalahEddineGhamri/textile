@@ -76,7 +76,6 @@ class AdverbsCache(pd.DataFrame):
                 if languages is not None:
                     self.loc[(aspect, 'english'), key] = languages[0]
                     self.loc[(aspect, 'german'), key] = languages[1]
-            self.cache()
             return self[key]
 
 

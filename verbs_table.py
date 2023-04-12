@@ -83,7 +83,6 @@ class VerbsCache(pd.DataFrame):
             for (voice, tense), values in new_verb.items():
                 if values[key] is not None:
                     self.loc[(voice, tense), key] = values[key]
-            self.cache()
             return self[key]
 
 
