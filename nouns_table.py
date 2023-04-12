@@ -30,6 +30,8 @@ class NounsCache(pd.DataFrame):
         else:
             super().__init__(pd.read_csv(NOUNS_CACHE_FILE,
                                          index_col=['aspects', 'language']))
+        self.fillna(value="None", inplace=True)
+
 
     def get_noun(self, noun, aspect, language):
         noun_df = self[noun]

@@ -110,10 +110,10 @@ klappen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
-",None,None,None,None,None,None,None,None,None,None,None,,,,"das Mitglied : Noun
-",,"das Mitgliedsland : Noun
-",,,,
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,"das Mitglied : Noun
+",None,"das Mitgliedsland : Noun
+",None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,None,None,None,None,None,None,"to drive | drove, driven |
 to push-start a car
 to back a car into sth.
@@ -1423,15 +1423,15 @@ to join a club
 to attract new members
 to pair with [fig.] [POL.]
 ",None,"to give no quarter archaic [MIL.]
-",,"to be in uniform
-",,"to be a member of sth.
+",None,"to be in uniform
+",None,"to be a member of sth.
 to accept so. as a member
 to join a club
 to attract new members
 to pair with [fig.] [POL.]
 ","to identify countries
-",,,"to give no quarter archaic [MIL.]
-",,"to get a general idea
+",None,None,"to give no quarter archaic [MIL.]
+",None,"to get a general idea
 to record in the general ledger
 to become generally accepted
 to become generally known as ...
@@ -2745,15 +2745,15 @@ Mitglied in einem Verein werden
 neue Mitglieder gewinnen
 mit einem Mitglied einer anderen Partei ein Abkommen treffen
 ",None,"kein Quartier geben
-",,"beim Militär sein
-",,"Mitglied von etw.dat. sein
+",None,"beim Militär sein
+",None,"Mitglied von etw.dat. sein
 jmdn. als Mitglied aufnehmen
 Mitglied in einem Verein werden
 neue Mitglieder gewinnen
 mit einem Mitglied einer anderen Partei ein Abkommen treffen
 ","Länder bezeichnen
-",,,"kein Quartier geben
-",,"sichdat. einen Überblick verschaffen
+",None,None,"kein Quartier geben
+",None,"sichdat. einen Überblick verschaffen
 im Hauptbuch eintragen
 allgemein akzeptiert werden
 allgemein bekanntwerden (or: bekannt werden) als ...
@@ -6441,7 +6441,7 @@ word: General
 genus: MASC
 plural: die Generale/die Generäle
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,None,None,None,None,None,None,None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
 ","steedless adj.
@@ -7178,9 +7178,9 @@ in point of fact
 as it happens
 as a matter of fact
 essentially adv.
-",None,,"in the army
+",None,None,"in the army
 military adj.
-",,,,,"main adj. - used before noun
+",None,None,None,None,"main adj. - used before noun
 chief adj. - used before noun
 major adj. - used before noun
 root adj. - used before noun
@@ -7194,7 +7194,7 @@ primary adj.
 basic adj. - used before noun
 central adj. - used before noun
 lead adj. - used before noun
-",,"headquartered (in) adj.
+",None,"headquartered (in) adj.
 ","general adj.
 general adj.
 general adj.
@@ -7946,9 +7946,9 @@ tatsächlich
 tatsächlich
 tatsächlich
 tatsächlich
-",None,,"beim Militär
+",None,None,"beim Militär
 Militär...
-",,,,,"Haupt...
+",None,None,None,None,"Haupt...
 Haupt...
 Haupt...
 Haupt...
@@ -7962,7 +7962,7 @@ Haupt...
 Haupt...
 Haupt...
 Haupt...
-",,"mit Hauptquartier (in)
+",None,"mit Hauptquartier (in)
 ","allgemein
 üblich
 generell
@@ -8795,12 +8795,12 @@ I'm looking forward to seeing you again.
 ","if things work out
 ",None,"a company's survival
 ","to be no match for so./sth.
-",None,None,None,None,None,None,None,None,None,None,None,,,,,"When in Rome do as the Romans do
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"When in Rome do as the Romans do
 When in Rome ...
 Different strokes for different folks. (Amer.)
-",,"Mea culpa! [hum.]
+",None,"Mea culpa! [hum.]
 to wear sackcloth and ashes [fig.]
-",,,"caviar to the general
+",None,None,"caviar to the general
 subject to our general terms and conditions
 "
 phrases_or_collocations,german,None,None,None,None,None,None,None,None,"das Pferd beim Schwanz aufzäumen
@@ -9620,12 +9620,12 @@ Ich freue mich auf ein Wiedersehen mit Ihnen.
 ","wenn alles klappt
 ",None,"Erhalt eines Unternehmens
 ","es nicht mit jmdm./etw. aufnehmen können
-",None,None,None,None,None,None,None,None,None,None,None,,,,,"andere Länder, andere Sitten
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"andere Länder, andere Sitten
 andere Länder, andere Sitten
 Andere Länder, andere Sitten.
-",,"Asche auf mein Haupt!
+",None,"Asche auf mein Haupt!
 sichdat. Asche aufs Haupt streuen [fig.] [coll.]
-",,,"Kaviar fürs Volk
+",None,None,"Kaviar fürs Volk
 unterliegt Geschäftsbedingungen
 "
 examples,english,None,None,None,None,None,None,None,"The car is reliable and not expensive either.
@@ -10543,17 +10543,17 @@ I'm the owner of this firm and as such I have a right to know what's going on he
 ",None,None,None,None,None,None,None,None,"a list of members
 Upper limit is 21 members.
 ","amount actually paid
-",None,,,,"a list of members
+",None,None,None,None,"a list of members
 Upper limit is 21 members.
 ","nations which are less developed
 The Danube flows through ten countries.
-",,"our chief business will be
+",None,"our chief business will be
 our main business will be
 our chief activities will be
 our main activities will be
 in addition to the principal amount
 bound to the principal debt
-",,,"a general depression in trade
+",None,None,"a general depression in trade
 a general improvement in trade
 By virtue of this deed I grant X general power of attorney.
 conceived in general terms
@@ -11480,17 +11480,17 @@ Als Eigentümer dieses Unternehmens habe ich das Recht zu erfahren, was hier vor
 ",None,None,None,None,None,None,None,None,"eine Liste der Mitglieder
 Die Obergrenze liegt bei 21 Mitgliedern.
 ","tatsächlich ausbezahlter Betrag
-",None,,,,"eine Liste der Mitglieder
+",None,None,None,None,"eine Liste der Mitglieder
 Die Obergrenze liegt bei 21 Mitgliedern.
 ","weniger entwickelte Länder
 Die Donau fließt durch zehn Länder.
-",,"unser Hauptgeschäft wird sein
+",None,"unser Hauptgeschäft wird sein
 unser Hauptgeschäft wird sein
 unsere Haupttätigkeiten werden sein
 unsere Haupttätigkeiten werden sein
 zusätzlich zum Hauptbetrag
 an die Hauptschuld gebunden
-",,,"eine allgemeine Flaute
+",None,None,"eine allgemeine Flaute
 allgemeine Verbesserung der Marktlage
 Mit dieser Urkunde erteile ich X Generalvollmacht.
 in allgemeinen Worten abgefasst

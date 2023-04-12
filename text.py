@@ -13,8 +13,40 @@ from rich.table import Table
 from time import sleep
 from anki_generator import AnkiGenerator, VerbNote, NounNote
 from config import NOUNS_CACHE_FILE, INPUT_PATH
+import re
 
 # TODO: if noun not found try lemma and try decomposing it <corrector>
+
+
+def extract_info(noun, english, german):
+
+    english = english.split('\n')
+    german = german.split('\n')
+
+    full_noun = []
+    for line in german:
+        pattern = r'((?:der|die|das)\s+)(\w+)\s+pl.:\s+die\s+(\w+)'
+        match = re.match(pattern, line)
+        if match:
+            full_noun.append(match.group(1) + " " + match.group(2))
+
+    # extract plural forms of German nouns starting with "die"
+    plural = []
+    for line in german:
+        match = re.match(r'die\s+(\w+)\s+pl.:\s+die\s+(\w+)', line)
+        if match:
+            plural.append(match.group(2))
+
+    full_noun = list(set(full_noun))
+    plural = list(set(plural))
+    # combine into a dictionary
+    return {
+        'Noun': noun,
+        'English': english[:2],
+        'FullNoun': full_noun,
+        'Plural': plural,
+    }
+
 
 # colors dict
 colors_definitions = {
@@ -118,6 +150,7 @@ class Blackboard:
         # trigger meaning parsing for all nouns
         df = self.manager['analyzed_text']
         nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
+        # add more possiblities for hyphen words
         nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
         nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
         for noun in nouns_list+nouns_with_hyphen:
@@ -150,19 +183,24 @@ class Blackboard:
         cache.cache()
         self.manager['stages']['analyzed_prepositions'] = 'DONE'
 
-    def anki_generation(self):
+    def anki_generation(self, noun_cache):
         # anki generation will start if all stages all done
         # TODO: max loop exit with failure
         while not all(value == 'DONE' for value in self.manager['stages'].values()):
             sleep(0.001)
-        self.manager['stages']['correction'] = 'STARTED'
-        try:
-            nouns = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
-        except (BrokenPipeError, ConnectionResetError):
-            pass
-        self.manager['stages']['correction'] = 'DONE'
-        """
 
+        self.manager['stages']['correction'] = 'STARTED'
+        nouns = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
+        nouns = list(set(nouns))
+        for noun in nouns:
+            nc = noun_cache[noun]
+            if nc is not None:
+                if nc['nouns']['english'] != "None":
+                    print(self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['text'] == noun)])
+                    print(extract_info(noun,nc['nouns']['english'], nc['nouns']['german']))
+        self.manager['stages']['correction'] = 'DONE'
+
+        """
         # loop all nouns and verbs
         nouns_df = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN')]
         print(nouns_df)
@@ -237,7 +275,7 @@ class Blackboard:
         run_in_background(self.analyze_prepositions, self.preposition_cache)
 
         #run_in_background(self.corrector)
-        run_in_background(self.anki_generation)
+        run_in_background(self.anki_generation, self.noun_cache)
 
     def get_analysed_text(self):
         return self.manager['analyzed_text']
@@ -336,10 +374,16 @@ def generate_rich_analysis(df, blackboard, group='NOUN', row_nbr=5):
            }
     tables = []
     nouns_list = df.loc[(df['pos_'].isin(map[group][2])), 'text'].tolist()
-    nouns_list = list(set(nouns_list))
+    # add more possiblities for hyphen words
+    nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
+    nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
 
     cache = map[group][1]
 
+    # unique values
+    nouns_list = list(set(nouns_list + nouns_with_hyphen))
+
+    # TODO: more check on the none values
     for element in nouns_list:
         df = cache[element]
         if df is None:
@@ -437,9 +481,9 @@ if __name__ == "__main__":
 
     TEXT_WIDTH = 90
     df = colorize_text(ANALYZED_TEXT, 'NOUN')
-    print(generate_rich_analysis(df, blackboard)[0])
-    print(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
-    print(generate_rich_analysis(ANALYZED_TEXT, blackboard))
+    #print(generate_rich_analysis(df, blackboard)[0])
+    #print(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
+    #print(generate_rich_analysis(ANALYZED_TEXT, blackboard))
 
     while not all(value == 'DONE' for value in blackboard.manager['stages'].values()):
         print(blackboard.manager['stages'])
