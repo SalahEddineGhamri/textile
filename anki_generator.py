@@ -1,7 +1,6 @@
 import genanki
 import random
 
-
 class NounNote:
     def __init__(self, fields):
         '''

@@ -1,7 +1,7 @@
 # contains a cache for nouns
 import warnings
 import pandas as pd
-from config import NOUNS_CACHE_FILE, INPUT_PATH
+from config import NOUNS_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
@@ -32,7 +32,6 @@ class NounsCache(pd.DataFrame):
                                          index_col=['aspects', 'language']))
         self.fillna(value="None", inplace=True)
 
-
     def get_noun(self, noun, aspect, language):
         noun_df = self[noun]
         if noun_df is not None:
@@ -61,7 +60,7 @@ class NounsCache(pd.DataFrame):
                 return False
 
             super().to_csv(NOUNS_CACHE_FILE, index=True)
-            #print(f'------->>>> DataFrame has been written to {NOUNS_CACHE_FILE}')
+            # print(f'------->>>> DataFrame has been written to {NOUNS_CACHE_FILE}')
             return True
 
         except Exception as e:
@@ -74,7 +73,7 @@ class NounsCache(pd.DataFrame):
         except KeyError:
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
-            #print("scrapping for noun ...")
+            # print("scrapping for noun ...")
             new_noun = nouns_definition_parser(key)
             if new_noun is not None:
                 if new_noun['nouns'] is not None:

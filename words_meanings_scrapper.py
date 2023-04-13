@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import bs4
 import sys
-
+# TODO: should use other sources for scrapping like
+# https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
 
 # define the URL and headers for the website
 url = "https://dict.leo.org/german-english/"
@@ -86,10 +87,13 @@ def extract_noun_details(entry):
              "die": "FEMI",
              "das": "NEUT"}.get(words[0], "")
 
+    meaning = ""
+
     return {'article': words[0],
             'word': words[1],
             'genus': genus,
-            'plural': plural}
+            'plural': plural,
+            'meaning': meaning}
 
 
 def nouns_definition_parser(word):
@@ -102,6 +106,11 @@ def nouns_definition_parser(word):
     adjectives_or_adverbs = parse(page_content["Adjectives_or_Adverbs"])
     phrases_or_collocations = parse(page_content["Phrases_or_Collocations"])
     examples = parse(page_content["Examples"])
+
+    # TODO: parse table here to correct the plural and gender
+    """
+    data-dz-ui="dictentry:showFlecttab"
+    """
 
     noun_details = ""
     # if nouns add more details

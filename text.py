@@ -200,22 +200,6 @@ class Blackboard:
                     print(extract_info(noun,nc['nouns']['english'], nc['nouns']['german']))
         self.manager['stages']['correction'] = 'DONE'
 
-        """
-        # loop all nouns and verbs
-        nouns_df = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN')]
-        print(nouns_df)
-        #fields = ['Noun', 'English', 'FullNoun', 'Plural']
-        #self.anki_generator.add_note()
-
-        verbs_df = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'VERB')]
-        #fields = ['Verb', 'English', 'PresentPastParticip']
-        #self.anki_generator.add_note()
-
-        self.anki_generator.add_note()
-        self.manager['stages']['correction'] = 'DONE'
-        """
-
-
     def analyze_text(self):
         self.manager['stages']['analyzed_input'] = 'STARTED'
         nlp = spacy.load("de_core_news_sm")
