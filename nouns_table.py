@@ -5,6 +5,7 @@ from config import NOUNS_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
+# TODO: create a blacklist for nouns which are not nouns
 
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
@@ -71,9 +72,12 @@ class NounsCache(pd.DataFrame):
         try:
             return super().__getitem__(key)
         except KeyError:
+            # TODO: workarround to till solution
+            if "-" in key:
+                return None
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
-            # print("scrapping for noun ...")
+            # print(f"scrapping for noun ...{key}")
             new_noun = nouns_definition_parser(key)
             if new_noun is not None:
                 if new_noun['nouns'] is not None:
@@ -87,9 +91,9 @@ class NounsCache(pd.DataFrame):
 
 
 if __name__ == "__main__":
-    noun_cache = NounsCache()
-    noun_cache.fillna(value="None", inplace=True)
     word = 'Quartier'
-    print(noun_cache[word])
-    print(word in noun_cache.columns)
+    noun_cache = NounsCache()
+    print(noun_cache[word]['noun_details']['english'])
+    # noun_cache.fillna(value="None", inplace=True)
+    # print(word in noun_cache.columns)
     noun_cache.cache()

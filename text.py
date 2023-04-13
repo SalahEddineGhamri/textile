@@ -12,38 +12,23 @@ from multiprocessing import Process, Manager
 from rich.table import Table
 from time import sleep
 from anki_generator import AnkiGenerator, VerbNote, NounNote
-from config import NOUNS_CACHE_FILE, INPUT_PATH
-import re
-
-# TODO: if noun not found try lemma and try decomposing it <corrector>
+from config import NOUNS_CACHE_FILE, INPUT_PATH, ANKI_PATH
 
 
-def extract_info(noun, english, german):
+def extract_info(noun, noun_details):
+    # i puted it in english to save form
+    details = noun_details['english']
+    details = details.split('\n')
 
-    english = english.split('\n')
-    german = german.split('\n')
+    article = details[0].split(':')[1].strip()
+    word = details[1].split(':')[1].strip()
+    plural = details[3].split(':')[1].strip()
+    meaning = details[4].split(':')[1].strip()
 
-    full_noun = []
-    for line in german:
-        pattern = r'((?:der|die|das)\s+)(\w+)\s+pl.:\s+die\s+(\w+)'
-        match = re.match(pattern, line)
-        if match:
-            full_noun.append(match.group(1) + " " + match.group(2))
-
-    # extract plural forms of German nouns starting with "die"
-    plural = []
-    for line in german:
-        match = re.match(r'die\s+(\w+)\s+pl.:\s+die\s+(\w+)', line)
-        if match:
-            plural.append(match.group(2))
-
-    full_noun = list(set(full_noun))
-    plural = list(set(plural))
-    # combine into a dictionary
     return {
         'Noun': noun,
-        'English': english[:2],
-        'FullNoun': full_noun,
+        'English': meaning,
+        'FullNoun': article + " " + word,
         'Plural': plural,
     }
 
@@ -77,6 +62,7 @@ colors_definitions = {
     'SPACE': None
 }
 
+
 # TODO: must be joined
 def run_in_background(func, *args, **kwargs):
     process = Process(target=func, args=args, kwargs=kwargs)
@@ -95,6 +81,7 @@ def split_hyphenated_string(s):
         else:
             result.append(' ' + word.capitalize())
     return result
+
 
 class Blackboard:
     def __init__(self, input_path):
@@ -128,7 +115,7 @@ class Blackboard:
         self.manager['stages'] = stages
 
         self.read_input(input_path)
-        deck_name = input_path.split('/')[-1]
+        deck_name = input_path.split('/')[-1].split(".")[0]
         self.anki_generator = AnkiGenerator(deck_name)
 
     def read_input(self, input_path):
@@ -149,11 +136,16 @@ class Blackboard:
         self.manager['stages']['analyzed_nouns'] = 'STARTED'
         # trigger meaning parsing for all nouns
         df = self.manager['analyzed_text']
-        nouns_list = df.loc[(df['pos_'] == 'NOUN'), 'text'].tolist()
+        df = df.loc[df['pos_'] == 'NOUN']
+
         # add more possiblities for hyphen words
         nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
+        nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].tolist()
+
         nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
-        for noun in nouns_list+nouns_with_hyphen:
+        nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
+
+        for noun in nouns_list:
             cache[noun]
         cache.cache()
         self.manager['stages']['analyzed_nouns'] = 'DONE'
@@ -196,8 +188,11 @@ class Blackboard:
             nc = noun_cache[noun]
             if nc is not None:
                 if nc['nouns']['english'] != "None":
-                    print(self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['text'] == noun)])
-                    print(extract_info(noun,nc['nouns']['english'], nc['nouns']['german']))
+                    inputs = list(extract_info(noun, nc['noun_details']).values())
+                    if all(inputs) != '':
+                        anki_noun_note = NounNote(inputs)
+                        self.anki_generator.add_note(anki_noun_note)
+        self.anki_generator.save(ANKI_PATH)
         self.manager['stages']['correction'] = 'DONE'
 
     def analyze_text(self):
@@ -357,15 +352,18 @@ def generate_rich_analysis(df, blackboard, group='NOUN', row_nbr=5):
            'PREP': ['examples', blackboard.preposition_cache, ['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']],
            }
     tables = []
-    nouns_list = df.loc[(df['pos_'].isin(map[group][2])), 'text'].tolist()
+    df = df.loc[(df['pos_'].isin(map[group][2]))]
+
     # add more possiblities for hyphen words
     nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
+    nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].tolist()
+
     nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
 
     cache = map[group][1]
 
     # unique values
-    nouns_list = list(set(nouns_list + nouns_with_hyphen))
+    nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
 
     # TODO: more check on the none values
     for element in nouns_list:
@@ -413,6 +411,8 @@ def generate_rich_analysis_verb(df, blackboard, row_nbr=5):
 
     for verb, lemma in zip(verbs_list, lemmas_list):
         df = blackboard.noun_cache[verb]
+        if df is None:
+            continue
         df.fillna(value="None", inplace=True)
         english_text = blackboard.noun_cache[verb]['verbs']['english']
         german_text = blackboard.noun_cache[verb]['verbs']['german']
@@ -465,7 +465,7 @@ if __name__ == "__main__":
 
     TEXT_WIDTH = 90
     df = colorize_text(ANALYZED_TEXT, 'NOUN')
-    #print(generate_rich_analysis(df, blackboard)[0])
+    print(generate_rich_analysis(df, blackboard)[0])
     #print(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
     #print(generate_rich_analysis(ANALYZED_TEXT, blackboard))
 

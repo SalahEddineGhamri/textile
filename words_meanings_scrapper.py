@@ -1,9 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
+from german_nouns.lookup import Nouns
 import bs4
 import sys
 # TODO: should use other sources for scrapping like
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
+
 
 # define the URL and headers for the website
 url = "https://dict.leo.org/german-english/"
@@ -67,8 +69,10 @@ def parse(table):
 
 
 def extract_noun_details(entry):
+    english_entry = entry[0]
+    german_entry = entry[1]
     # first pair in the table has the info
-    phrases = entry.split("\n")
+    phrases = german_entry.split("\n")
     words = phrases[0].split()
     if len(words) < 2:
         words = ["", ""]
@@ -87,7 +91,8 @@ def extract_noun_details(entry):
              "die": "FEMI",
              "das": "NEUT"}.get(words[0], "")
 
-    meaning = ""
+    meaning = english_entry.split("\n")[:2]
+    meaning = "\n".join(meaning)
 
     return {'article': words[0],
             'word': words[1],
@@ -113,9 +118,11 @@ def nouns_definition_parser(word):
     """
 
     noun_details = ""
-    # if nouns add more details
+    # if nouns add more details, these are the absolute truth
     if nouns:
-        for key, value in extract_noun_details(nouns[1]).items():
+        details = extract_noun_details(nouns)
+        nouns_definition_nouns(word, details)
+        for key, value in details.items():
             noun_details += f"{key}: {value}\n"
     noun_details = (noun_details, None)
 
@@ -126,6 +133,38 @@ def nouns_definition_parser(word):
             "adjectives_or_adverbs": adjectives_or_adverbs,
             "phrases_or_collocations": phrases_or_collocations,
             "examples": examples}
+
+
+# adds more to nouns
+def nouns_definition_nouns(word, details):
+    # Lookup a word
+    NOUNS = Nouns()
+    word = NOUNS[word]
+
+    if word:
+        if word[0].get('flexion') is not None:
+            if word[0]['flexion'].get('nominativ plural') is not None:
+                details['plural'] = word[0]['flexion']['nominativ plural']
+            else:
+                if word[0]['flexion'].get('nominativ plural 1') is not None:
+                    details['plural'] = word[0]['flexion']['nominativ plural 1']
+                if word[0]['flexion'].get('nominativ plural 2') is not None:
+                    details['plural'] += " / "
+                    details['plural'] += word[0]['flexion']['nominativ plural 2']
+            if word[0]['flexion'].get('nominativ singular') is not None:
+                details['word'] = word[0]['flexion']['nominativ singular']
+
+        # get article based on genus
+        if word[0].get('genus') is not None:
+            article = {"m": "Der",
+                       "f": "Die",
+                       "n": "Das"}.get(word[0]['genus'], "")
+            if article != "":
+                details['article'] = article
+    else:
+        # parse compound word
+        # words = nouns.parse_compound(result['word'])
+        pass
 
 
 if __name__ == "__main__":

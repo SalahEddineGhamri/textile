@@ -1,53 +1,56 @@
 import genanki
 import random
 
-class NounNote:
-    def __init__(self, fields):
+
+class NounNote(genanki.Note):
+    model = genanki.Model(
+                        9607292589,
+                        'Simple Model',
+                        fields=[
+                            {'name': 'Noun'},
+                            {'name': 'English'},
+                            {'name': 'FullNoun'},
+                            {'name': 'Plural'}
+                        ],
+                        templates=[
+                            {
+                                'name': 'Card 1',
+                                'qfmt': '<div style="text-align: center; font-size: 24px;">{{Noun}}</div>',
+                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: center; font-size: 24px;"> meaning: {{English}} <br> noun: {{FullNoun}} <br> plural: Die {{Plural}} </div>',
+                            },
+                        ],
+                    )
+
+    def __init__(self, inputs):
         '''
         fields = ['Noun', 'English', 'FullNoun', 'Plural']
         '''
-        model = genanki.Model(
-                            9607292589,
-                            'Simple Model',
-                            fields=[
-                                {'name': 'Noun'},
-                                {'name': 'English'},
-                                {'name': 'FullNoun'},
-                                {'name': 'Plural'}
-                            ],
-                            templates=[
-                                {
-                                    'name': 'Card 1',
-                                    'qfmt': '{{Noun}}',
-                                    'afmt': '{{FrontSide}}<hr id="answer">{{English}}{{FullNoun}}{{Plural}}',
-                                },
-                            ],
-                        )
-        return genanki.Note(model=model, fields=fields,)
+        super().__init__(model=NounNote.model, fields=inputs,)
 
 
-class VerbNote:
-    def __init__(self, fields):
+class VerbNote(genanki.Note):
+    model = genanki.Model(
+                        1607492519,
+                        'Simple Model',
+                        fields=[
+                            {'name': 'Verb'},
+                            {'name': 'English'},
+                            {'name': 'PresentPastParticip'}
+                        ],
+                        templates=[
+                            {
+                                'name': 'Card 1',
+                                'qfmt': '{{Verb}}',
+                                'afmt': '{{FrontSide}}<hr id="answer"> {{English}} {{PresentPastParticip}}',
+                            },
+                        ],
+                    )
+
+    def __init__(self, inputs):
         '''
         fields = ['Verb', 'English', 'PresentPastParticip']
         '''
-        model = genanki.Model(
-                            1607492519,
-                            'Simple Model',
-                            fields=[
-                                {'name': 'Verb'},
-                                {'name': 'English'},
-                                {'name': 'PresentPastParticip'}
-                            ],
-                            templates=[
-                                {
-                                    'name': 'Card 1',
-                                    'qfmt': '{{Verb}}',
-                                    'afmt': '{{FrontSide}}<hr id="answer">{{English}}{{PresentPastParticip}}',
-                                },
-                            ],
-                        )
-        return genanki.Note(model=model, fields=fields,)
+        super().__init__(model=VerbNote.model, fields=inputs,)
 
 
 class AnkiGenerator:
@@ -63,4 +66,6 @@ class AnkiGenerator:
         ./anki/my_deck.apkg
         '''
         package = genanki.Package(self.deck)
-        package.write_to_file(path+self.deck_name+".apkg")
+        file_name = self.deck_name + ".apkg"
+        path = path / file_name
+        package.write_to_file(path)
