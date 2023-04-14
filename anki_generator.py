@@ -1,6 +1,8 @@
 import genanki
 import random
 
+# fields are HTML
+
 
 class NounNote(genanki.Note):
     model = genanki.Model(
@@ -14,9 +16,9 @@ class NounNote(genanki.Note):
                         ],
                         templates=[
                             {
-                                'name': 'Card 1',
+                                'name': 'Noun_Card',
                                 'qfmt': '<div style="text-align: center; font-size: 24px;">{{Noun}}</div>',
-                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: center; font-size: 24px;"> meaning: {{English}} <br> noun: {{FullNoun}} <br> plural: Die {{Plural}} </div>',
+                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: center; font-size: 24px;"> meaning: {{English}} <br> noun: {{FullNoun}} <br> plural: Die {{Plural}} </div>',
                             },
                         ],
                     )
@@ -35,20 +37,20 @@ class VerbNote(genanki.Note):
                         fields=[
                             {'name': 'Verb'},
                             {'name': 'English'},
-                            {'name': 'PresentPastParticip'}
+                            {'name': 'Conjugation'}
                         ],
                         templates=[
                             {
-                                'name': 'Card 1',
-                                'qfmt': '{{Verb}}',
-                                'afmt': '{{FrontSide}}<hr id="answer"> {{English}} {{PresentPastParticip}}',
+                                'name': 'Verb_Card',
+                                'qfmt': '<div style="text-align: center; font-size: 24px;">{{Verb}}',
+                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: center; font-size: 24px;"> meaning: {{English}} <br> conjugation: <br> {{Conjugation}}',
                             },
                         ],
                     )
 
     def __init__(self, inputs):
         '''
-        fields = ['Verb', 'English', 'PresentPastParticip']
+        fields = ['Verb', 'English', 'Conjugation']
         '''
         super().__init__(model=VerbNote.model, fields=inputs,)
 

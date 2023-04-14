@@ -80,7 +80,7 @@ class NounsCache(pd.DataFrame):
             # print(f"scrapping for noun ...{key}")
             new_noun = nouns_definition_parser(key)
             if new_noun is not None:
-                if new_noun['nouns'] is not None:
+                if new_noun['nouns'] or new_noun['verbs']:
                     for aspect, languages in new_noun.items():
                         if languages is not None:
                             self.loc[(aspect, 'english'), key] = languages[0]
@@ -91,9 +91,10 @@ class NounsCache(pd.DataFrame):
 
 
 if __name__ == "__main__":
-    word = 'Quartier'
+    word = 'beitreten'
     noun_cache = NounsCache()
-    print(noun_cache[word]['noun_details']['english'])
+    #noun_cache.delete_noun(word)
+    print(noun_cache[word])
     # noun_cache.fillna(value="None", inplace=True)
     # print(word in noun_cache.columns)
     noun_cache.cache()

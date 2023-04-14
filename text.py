@@ -63,6 +63,33 @@ colors_definitions = {
 }
 
 
+def generate_html_table(column1, column2, column3):
+    # Check that all inputs are strings
+    if not all(isinstance(col, str) for col in [column1, column2, column3]):
+        return None
+
+    rows1 = column1.split('\n')
+    rows2 = column2.split('\n')
+    rows3 = column3.split('\n')
+
+    # Get the maximum number of rows in the three columns
+    max_rows = max(len(rows1), len(rows2), len(rows3))
+
+    # Fill in empty rows if necessary
+    rows1 += [''] * (max_rows - len(rows1))
+    rows2 += [''] * (max_rows - len(rows2))
+    rows3 += [''] * (max_rows - len(rows3))
+
+    # Generate the HTML table
+    html = '<table>'
+    for row1, row2, row3 in zip(rows1, rows2, rows3):
+        html += f'<tr><td style="border-right: 1px solid red; text-align: left;">{row1}</td> \
+                      <td style="border-right: 1px solid red; text-align: left;">{row2}</td> \
+                      <td style="text-align: left;">{row3}</td></tr>'
+    html += '</table>'
+    return html
+
+
 # TODO: must be joined
 def run_in_background(func, *args, **kwargs):
     process = Process(target=func, args=args, kwargs=kwargs)
@@ -175,13 +202,15 @@ class Blackboard:
         cache.cache()
         self.manager['stages']['analyzed_prepositions'] = 'DONE'
 
-    def anki_generation(self, noun_cache):
+    def anki_generation(self, noun_cache, verb_cache):
+        # TODO: these should be agents
         # anki generation will start if all stages all done
-        # TODO: max loop exit with failure
         while not all(value == 'DONE' for value in self.manager['stages'].values()):
+            # this will break the pipe
             sleep(0.001)
 
         self.manager['stages']['correction'] = 'STARTED'
+        # generate anki nouns
         nouns = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
         nouns = list(set(nouns))
         for noun in nouns:
@@ -192,6 +221,35 @@ class Blackboard:
                     if all(inputs) != '':
                         anki_noun_note = NounNote(inputs)
                         self.anki_generator.add_note(anki_noun_note)
+
+        # generate anki verbs
+        verbs = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'VERB'), 'text'].tolist()
+        verbs_lemma = self.manager['analyzed_text'].loc[(self.manager['analyzed_text']['pos_'] == 'VERB'), 'lemma_'].tolist()
+        verbs = list(zip(verbs, verbs_lemma))
+        verbs = list(set(verbs))
+        for verb, lemma in verbs:
+            meaning = ""
+            nc = noun_cache[verb]
+            if nc is not None:
+                if nc['verbs']['english'] != "None":
+                    meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
+            else:
+                nc = noun_cache[lemma]
+                if nc['verbs']['english'] != "None":
+                    meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
+
+            vc = verb_cache[verb]
+            if vc is not None:
+                column1 = vc['indicative_active']['Present']
+                column2 = vc['indicative_active']['Imperfect']
+                column3 = vc['indicative_active']['Perfect']
+                presentpastperfect = generate_html_table(column1, column2, column3)
+                if presentpastperfect is not None:
+                    inputs = [verb, meaning, presentpastperfect]
+                    anki_verb_note = VerbNote(inputs)
+                    self.anki_generator.add_note(anki_verb_note)
+
+        # save the anki database
         self.anki_generator.save(ANKI_PATH)
         self.manager['stages']['correction'] = 'DONE'
 
@@ -253,8 +311,9 @@ class Blackboard:
         run_in_background(self.analyze_adverbs, self.adverb_cache)
         run_in_background(self.analyze_prepositions, self.preposition_cache)
 
-        #run_in_background(self.corrector)
-        run_in_background(self.anki_generation, self.noun_cache)
+        run_in_background(self.anki_generation,
+                          self.noun_cache,
+                          self.verb_cache)
 
     def get_analysed_text(self):
         return self.manager['analyzed_text']

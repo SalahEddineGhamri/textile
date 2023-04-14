@@ -3,6 +3,7 @@ import warnings
 import pandas as pd
 from config import VERBS_CACHE_FILE
 from verb_conjugation_scapper import scrapp_for_verb
+from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
 
@@ -78,6 +79,7 @@ class VerbsCache(pd.DataFrame):
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
             # print("scrapping for verb ...")
+            # new_verb_meaning = nouns_definition_parser(key)
             new_verb = scrapp_for_verb(key)
             self[key] = pd.Series(index=self.index, dtype='object')
             for (voice, tense), values in new_verb.items():

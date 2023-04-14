@@ -1,11 +1,11 @@
-aspects,language, Bündnis,Haupt,Mitglied, Länder,Militär, Quartier,Mitglieder,Nato, Sekretär,Feier,Mitgliedsländer,Länder,Hauptquartier,Land,Militärbündnis,Stadt,Erweiterung,General, Mitglied,Generalsekretär,Beitritt,Russland,Regierung,Fahne,Mitglieds
+aspects,language, Bündnis,Haupt,Mitglied, Länder,Militär, Quartier,Mitglieder,Nato, Sekretär,Feier,Mitgliedsländer,Länder,Hauptquartier,Land,Militärbündnis,Stadt,Erweiterung,General, Mitglied,Generalsekretär,Beitritt,Russland,Regierung,Fahne,Mitglieds,beitreten
 basic_forms,english,None,None,None,None,None,None,"das Mitglied : Noun
 ",None,None,None,"das Mitgliedsland : Noun
 ","das Land : Noun
 ",None,None,None,None,None,None,None,None,"beitreten : Verb
 ",None,None,None,"das Mitglied : Noun
-"
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+",None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,"to form an alliance
 to confederate | confederated, confederated |
 ",None,"to be a member of sth.
@@ -82,6 +82,13 @@ to accept so. as a member
 to join a club
 to attract new members
 to pair with [fig.] [POL.]
+","to join | joined, joined |
+to accede to sth.
+to enter into sth. [POL.]
+to contract out of sth. - of pension scheme (Brit.)
+to join a party
+to affiliate with an association
+to join an action [LAW]
 "
 verbs,german,"ein Bündnis schließen
 sichacc. zu einem Bündnis zusammenschließen
@@ -159,6 +166,13 @@ jmdn. als Mitglied aufnehmen
 Mitglied in einem Verein werden
 neue Mitglieder gewinnen
 mit einem Mitglied einer anderen Partei ein Abkommen treffen
+","beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. nicht beitreten
+einer Partei beitreten
+einem Verband beitreten
+einem Prozess als Nebenkläger beitreten
 "
 nouns,english,"alliance
 league
@@ -402,7 +416,7 @@ member of a student fraternity
 academician
 member of the stock exchange
 member of the management
-"
+",None
 nouns,german,"das Bündnis pl.: die Bündnisse
 das Bündnis pl.: die Bündnisse
 das Bündnis pl.: die Bündnisse
@@ -645,7 +659,7 @@ Mitglied einer Studentenverbindung
 Mitglied der Akademie
 Mitglied der Börse
 Mitglied der Geschäftsführung
-"
+",None
 noun_details,english,"article: das
 word: Bündnis
 genus: NEUT
@@ -796,8 +810,8 @@ genus: NEUT
 plural: Mitglieder
 meaning: member
 fellow
-"
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+",None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"confederative adj.
 ","main adj. - used before noun
 chief adj. - used before noun
@@ -877,7 +891,7 @@ governmental adj.
 government-controlled adj.
 government-controlled adj.
 intergovernmental adj.
-",None,None
+",None,None,None
 adjectives_or_adverbs,german,"Bündnis...
 ","Haupt...
 Haupt...
@@ -957,7 +971,7 @@ von der Regierung ausgehend
 von der Regierung gelenkt
 von der Regierung kontrolliert
 zwischen zwei Regierungen
-",None,None
+",None,None,None
 phrases_or_collocations,english,None,"Mea culpa! [hum.]
 to wear sackcloth and ashes [fig.]
 ",None,"When in Rome do as the Romans do
@@ -990,7 +1004,7 @@ to go to the land of Nod [fig.]
 ",None,"the jewel city
 ",None,"caviar to the general
 subject to our general terms and conditions
-",None,None,None,None,None,None,None
+",None,None,None,None,None,None,None,None
 phrases_or_collocations,german,None,"Asche auf mein Haupt!
 sichdat. Asche aufs Haupt streuen [fig.] [coll.]
 ",None,"andere Länder, andere Sitten
@@ -1023,7 +1037,7 @@ einschlafen | schlief ein, eingeschlafen |
 ",None,"die diamantene Stadt
 ",None,"Kaviar fürs Volk
 unterliegt Geschäftsbedingungen
-",None,None,None,None,None,None,None
+",None,None,None,None,None,None,None,None
 examples,english,None,"our chief business will be
 our main business will be
 our chief activities will be
@@ -1091,7 +1105,7 @@ Upper limit is 21 members.
 ",None,None,None,"our government pays bounties to exporters
 ",None,"a list of members
 Upper limit is 21 members.
-"
+",None
 examples,german,None,"unser Hauptgeschäft wird sein
 unser Hauptgeschäft wird sein
 unsere Haupttätigkeiten werden sein
@@ -1159,4 +1173,4 @@ Die Obergrenze liegt bei 21 Mitgliedern.
 ",None,None,None,"die Regierung zahlt Prämien an Exporteure
 ",None,"eine Liste der Mitglieder
 Die Obergrenze liegt bei 21 Mitgliedern.
-"
+",None
