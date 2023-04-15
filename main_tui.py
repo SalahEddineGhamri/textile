@@ -8,8 +8,7 @@ from config import INPUT_PATH
 from text import generate_rich_text, \
                  colorize_text, \
                  Blackboard, \
-                 generate_rich_analysis, \
-                 generate_rich_analysis_verb
+                 generate_rich_analysis
 
 # PROGRESS IN TUI------------------------------------
 # TODO: manager arguments in the TUI script >> input is selected
@@ -30,35 +29,35 @@ ANALYZED_TEXT = blackboard.get_analysed_text()
 
 # routines definiton when button is presed
 def call_nouns():
-    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "NOUN"), width=TEXT_WIDTH))
-    TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT, blackboard))
+    TextileApp.set_text(blackboard.manager['nouns_rich_text'])
+    TextileApp.set_message(blackboard.manager['nouns_rich_analysis'])
 
 
 def call_verbs():
-    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "VERB"), width=TEXT_WIDTH))
-    TextileApp.set_message(generate_rich_analysis_verb(ANALYZED_TEXT, blackboard))
+    TextileApp.set_text(blackboard.manager['verbs_rich_text'])
+    TextileApp.set_message(blackboard.manager['verbs_rich_analysis'])
 
 
 def call_adjectives():
-    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "ADJ"), width=TEXT_WIDTH))
-    TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT,blackboard, group='ADJ'))
+    TextileApp.set_text(blackboard.manager['adjectives_rich_text'])
+    TextileApp.set_message(blackboard.manager['adjectives_rich_analysis'])
 
 
 def call_adverbs():
-    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "ADV"), width=TEXT_WIDTH))
-    TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT,blackboard, group='ADV'))
+    TextileApp.set_text(blackboard.manager['adverbs_rich_text'])
+    TextileApp.set_message(blackboard.manager['adverbs_rich_analysis'])
 
 
 def call_prepositions():
-    TextileApp.set_text(generate_rich_text(colorize_text(ANALYZED_TEXT, "PREP"), width=TEXT_WIDTH))
-    TextileApp.set_message(generate_rich_analysis(ANALYZED_TEXT,blackboard, group='PREP'))
+    TextileApp.set_text(blackboard.manager['prepositions_rich_text'])
+    TextileApp.set_message(blackboard.manager['prepositions_rich_analysis'])
+
 
 # dict of all button actions
 button_action = {'Nouns': call_nouns,
                  'Verbs': call_verbs,
                  'Adjectives': call_adjectives,
                  'Adverbs': call_adverbs,
-                 'Conjunctions': lambda: None,
                  'Prepositions': call_prepositions}
 
 
