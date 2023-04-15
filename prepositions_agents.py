@@ -69,18 +69,18 @@ class PrepositionsAgent(Process):
         tables = []
 
         # add more possiblities for hyphen words
-        adverbs_list = df.loc[(df['pos_'] == 'ADV'), 'text'].tolist()
+        prepositions_list = df.loc[df['pos_'].isin(['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']), 'text'].tolist()
 
         # unique values
-        adverbs_list = list(set(adverbs_list))
+        prepositions_list = list(set(prepositions_list))
 
-        for element in adverbs_list:
+        for element in prepositions_list:
             df = self.cache[element]
             if df is None:
                 continue
             df.fillna(value="None", inplace=True)
-            english_text = self.cache[element]['example']['english']
-            german_text = self.cache[element]['example']['german']
+            english_text = self.cache[element]['examples']['english']
+            german_text = self.cache[element]['examples']['german']
 
             english_text = english_text.split('\n')
             german_text = german_text.split('\n')

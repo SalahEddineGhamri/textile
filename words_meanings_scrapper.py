@@ -1,10 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-from german_nouns.lookup import Nouns
 import bs4
+import warnings
+from german_nouns.lookup import Nouns
 import sys
 # TODO: should use other sources for scrapping like
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
+
+
+with warnings.catch_warnings():
+    warnings.simplefilter("ignore", ResourceWarning)
+    NOUNS = Nouns()
 
 
 # define the URL and headers for the website
@@ -138,7 +144,7 @@ def nouns_definition_parser(word):
 # adds more to nouns
 def nouns_definition_nouns(word, details):
     # Lookup a word
-    NOUNS = Nouns()
+
     word = NOUNS[word]
 
     if word:

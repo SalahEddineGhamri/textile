@@ -5,13 +5,16 @@ from textual.widgets import Button
 from textual.containers import Container
 from bindings import bindings
 from config import INPUT_PATH
-from text import generate_rich_text, \
-                 colorize_text, \
-                 Blackboard, \
-                 generate_rich_analysis
+from text import Blackboard, TextAnalyzer
 
-# PROGRESS IN TUI------------------------------------
+# PROGRESS ------------------------------------------
 # TODO: manager arguments in the TUI script >> input is selected
+# TODO: pass the status to the tui.
+# TODO: an analyzed text should never trigger scrapping
+# TODO: finish anki generation for the rest of:
+# - adjectives
+# - adverbs
+# - prepositions
 # ---------------------------------------------------
 """
 # TODO: use it to redraw text
@@ -21,10 +24,7 @@ TextileApp.nouns_button.on_button_pressed(press)
 
 TEXT_WIDTH = 100
 blackboard = Blackboard(INPUT_PATH)
-blackboard.read_input(INPUT_PATH)
-blackboard.analyze_text()
-ANALYZED_TEXT = blackboard.get_analysed_text()
-
+text_analyzer = TextAnalyzer(blackboard.manager)
 
 
 # routines definiton when button is presed
@@ -75,7 +75,7 @@ class TextileApp(App):
 
     #TODO: add redraw func
     message = None
-    text = blackboard.text
+    text = blackboard.manager['text']
 
     # buttons
     nouns_button = Butt("Nouns")
@@ -123,7 +123,7 @@ class TextileApp(App):
             for element in TextileApp.message:
                 self.analysis_log.write(element)
         else:
-            self.analysis_log.write(f"Heeerre {TextileApp.message}")
+            self.analysis_log.write(f"Processing ... {TextileApp.message}")
 
     @staticmethod
     def set_message(message):
