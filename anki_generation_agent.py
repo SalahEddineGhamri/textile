@@ -1,9 +1,12 @@
 from multiprocessing import Process
 from time import sleep
-from anki_generator import AnkiGenerator, VerbNote, NounNote
+from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
 from config import INPUT_PATH, ANKI_PATH
 from nouns_table import NounsCache
 from verbs_table import VerbsCache
+from adjectives_table import AdjectivesCache
+from adverbs_table import AdverbsCache
+from prepositions_table import PrepositionsCache
 
 
 def extract_info(noun, noun_details):
@@ -59,11 +62,15 @@ class AnkiGenerationAgent(Process):
         self.anki_generator = AnkiGenerator(deck_name)
         self.noun_cache = NounsCache()
         self.verb_cache = VerbsCache()
+        self.adjective_cache = AdjectivesCache()
+        self.adverb_cache = AdverbsCache()
+        self.preposition_cache = PrepositionsCache()
 
 
     def add_nouns(self):
-        nouns = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN'), 'text'].tolist()
-        nouns = list(set(nouns))
+        nouns = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN'), 'text']
+        nouns = nouns.drop_duplicates()
+        nouns = nouns.tolist()
         for noun in nouns:
             nc = self.noun_cache[noun]
             if nc is not None:
@@ -87,8 +94,9 @@ class AnkiGenerationAgent(Process):
                     meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
             else:
                 nc = self.noun_cache[lemma]
-                if nc['verbs']['english'] != "None":
-                    meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
+                if nc is not None:
+                    if nc['verbs']['english'] != "None":
+                        meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
 
             vc = self.verb_cache[verb]
             if vc is not None:
@@ -100,6 +108,51 @@ class AnkiGenerationAgent(Process):
                     inputs = [verb, meaning, presentpastperfect]
                     anki_verb_note = VerbNote(inputs)
                     self.anki_generator.add_note(anki_verb_note)
+
+    def add_else(self):
+        df = self.blackboard['analyzed_text']
+        # adjectives
+        words = df.loc[(df['pos_'] == 'ADJ'), 'text']
+        words = words.drop_duplicates()
+        words = words.tolist()
+        for word in words:
+            nc = self.adjective_cache[word]
+            if nc is not None:
+                english_text = self.adjective_cache[word]['adjectives_or_adverbs']['english']
+                german_text = self.adjective_cache[word]['adjectives_or_adverbs']['german']
+                inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
+                if all(inputs) != '':
+                    anki_note = GeneralNote(inputs)
+                    self.anki_generator.add_note(anki_note)
+
+        # adverbs
+        words = df.loc[(df['pos_'] == 'ADV'), 'text']
+        words = words.drop_duplicates()
+        words = words.tolist()
+        for word in words:
+            nc = self.adverb_cache[word]
+            if nc is not None:
+                english_text = self.adverb_cache[word]['adjectives_or_adverbs']['english']
+                german_text = self.adverb_cache[word]['adjectives_or_adverbs']['german']
+                inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
+                if all(inputs) != '':
+                    anki_note = GeneralNote(inputs)
+                    self.anki_generator.add_note(anki_note)
+
+        # prepositions
+        words = df.loc[df['pos_'].isin(['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']), 'text']
+        words = words.drop_duplicates()
+        words = words.tolist()
+        for word in words:
+            nc = self.preposition_cache[word]
+            if nc is not None:
+                english_text = self.preposition_cache[word]['examples']['english']
+                german_text = self.preposition_cache[word]['examples']['german']
+                inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
+                if all(inputs) != '':
+                    anki_note = GeneralNote(inputs)
+                    self.anki_generator.add_note(anki_note)
+
 
     def save_to_file(self):
         self.anki_generator.save(ANKI_PATH)
@@ -114,7 +167,8 @@ class AnkiGenerationAgent(Process):
         self.blackboard['stages']['anki_generation'] = 'Nouns added!'
         self.add_verbs()
         self.blackboard['stages']['anki_generation'] = 'Verbs added!'
-        #self.add_adjectives()
+        self.add_else()
+        self.blackboard['stages']['anki_generation'] = 'Adjectives/Adverbs/Prepostion added!'
         self.save_to_file()
         self.blackboard['stages']['anki_generation'] = 'Saved to file!'
         self.blackboard['stages']['anki_generation'] = 'DONE'
