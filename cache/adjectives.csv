@@ -1,24 +1,141 @@
-aspects,language,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,wichtiges,anderes,neues,neuen
-basic_forms,english,,,"jung : Adjective
+aspects,language,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger
+basic_forms,english,"eigen : Adjective
+eigene : Adjective
+","gut : Adjective
+","schlecht : Adjective
+","echt : Adjective
+","krank : Adjective
+","ganz : Adjective
+ganze : Adjective
+das Ganze : Noun
+","dritte : Adjective
+das Dritte : Noun
+die Dritte : Noun
+der Dritte : Noun
+","anderer : pronoun
+der Andere : Noun
+die Andere : Noun
+","krank : Adjective
+der Kranke : Noun
+die Kranke : Noun
+",None,None,"jung : Adjective
 das Junge : Noun
 ","beste : Adjective
 gut : Adjective
 der Beste : Noun
 die Beste : Noun
 ","international : Adjective
-",,"beste : Adjective
+",None,"beste : Adjective
 gut : Adjective
 das Beste : Noun
 die Beste : Noun
 der Beste : Noun
-",,,"lustig : Adjective
-","wichtig : Adjective
-","anderer : pronoun
-","neu : Adjective
-","neu : Adjective
+",None,None,"lustig : Adjective
 "
-basic_forms,german,,,,,,,,,,,,,,
-verbs,english,,"to make it 1-0 [SPORT.]
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+verbs,english,"to appropriate sth. | appropriated, appropriated |
+to buy in to sth.
+to embrace sth. | embraced, embraced |
+to adopt sth. as one's own
+sth. is proper to so./sth.
+to own sth. | owned, owned |
+to inhere in sth. [form.]
+to have a will of one's own
+to act on one's own behalf
+to game sth. | gamed, gamed |
+to have a mind of one's own
+to fake one's own death
+to cut one's own path
+to use one's own means of transport
+","to encourage so. | encouraged, encouraged |
+to score well
+to do well
+to come off well
+to go down well
+to be well received
+to arrive safely
+to turn out all right
+to be a looker
+to work well
+to work out
+to come up roses
+to be a good match
+to be a good fit
+","to mismanage | mismanaged, mismanaged |
+to maladminister | maladministered, maladministered |
+to misconduct | misconducted, misconducted |
+to lose out
+to perish | perished, perished |
+to deteriorate | deteriorated, deteriorated |
+to go bad
+to spoil | spoiled/spoilt, spoiled/spoilt |
+to taint | tainted, tainted |
+to go off
+to misgovern | misgoverned, misgoverned |
+to misrule | misruled, misruled |
+to malfunction | malfunctioned, malfunctioned |
+to do poorly
+","to authenticate sth. | authenticated, authenticated |
+to authenticate sth. | authenticated, authenticated |
+to suck | sucked, sucked | [sl.]
+to suck | sucked, sucked | [sl.]
+to be born within the sound of Bow bells
+","to sicken | sickened, sickened |
+to be taken ill
+to be taken sick
+to fall ill
+to sicken | sickened, sickened |
+to malinger | malingered, malingered |
+to sham illness
+to skive off work (Brit.) [coll.]
+to feel poorly chiefly (Brit.) [coll.] - feel ill/sick
+to tend a patient
+","to sell in bulk
+to pay sth. in full
+to keep entirely clear
+to go all out [fig.]
+to get one's head down (Brit.) [coll.] [fig.] - concentrate on sth.
+to be taken up with sth.
+to pay sth. in full
+to hold everyone up
+to be liable for the total sum
+to go all tingly
+to go tingly all over
+to be all knocked out
+to make a good job of it
+to be wide awake
+","to escrow | escrowed, escrowed | chiefly (Amer.)
+to rank first/third/... | ranked, ranked |
+to show | showed, shown/showed | [SPORT.]
+to change into third gear [AUTOM.]
+to shift into third gear (Amer.) [AUTOM.]
+to assign rights to a third party
+to cube sth. | cubed, cubed | [MATH.]
+","to change channels/stations
+to pretend to be so. else
+to arrive in advance of the others
+to run down other people
+to pass off as so. else
+to come across as
+to take so./sth. for so./sth. else
+to look for a different station
+to apply another standard
+to determine a new fiscal position [FINAN.]
+to lend money to another bank [FINAN.]
+to live with other people
+to be like two peas in a pod
+to be two of a kind
+","to tend a patient
+to sicken | sickened, sickened |
+to be taken ill
+to be taken sick
+to fall ill
+to sicken | sickened, sickened |
+to malinger | malingered, malingered |
+to sham illness
+to skive off work (Brit.) [coll.]
+to feel poorly chiefly (Brit.) [coll.] - feel ill/sick
+",None,"to make it 1-0 [SPORT.]
 to make it 1-0 [SPORT.]
 ","to breed | bred, bred |
 to fawn | fawned, fawned |
@@ -43,7 +160,7 @@ to be a looker
 to work well
 to work out
 to come up roses
-",,"to make the best of sth.
+",None,"to make the best of sth.
 to bring out the best in so.
 to come out on top
 to have a ball
@@ -80,7 +197,7 @@ to stick one's nose into everything
 to do everything by the book
 to do everything in one's power
 to have everything under control
-",,"sth. is fun infinitive: to be fun
+",None,"sth. is fun infinitive: to be fun
 to deride so./sth. | derided, derided |
 to make sport of so./sth.
 to make fun of so./sth.
@@ -95,66 +212,110 @@ to take the mick out of so./sth. (Brit.) [sl.]
 to take the mickey out of so./sth. (Brit.) [sl.]
 to take the piss out of so./sth. [sl.]
 not to see the fun of sth.
-","to make a good point
-to be important
-to be of importance
-to care about sth.
-to aggrandizeAE oneself to aggrandiseBE / aggrandizeBE oneself
-to assume an air of importance
-to concern so. | concerned, concerned |
-to attach importance to sth.
-to outrank so./sth. | outranked, outranked |
-so. is not that fussed about sth. (Brit.)
-to put forward good reasons
-to show good cause
-to put on an air of importance
-to have other fish to fry
-to have other fish to fry
-to offer valuable clues to sth.
-","to take so./sth. for so./sth. else
-to pass off as so. else
-to change channels/stations
-to pretend to be so. else
-to arrive in advance of the others
-to change channels
-to make all the difference
-to disagree (about sth.) | disagreed, disagreed |
-to beg to differ
-to be of another opinion
-to beg to differ
-to dissent from
-to look for a different station
-to apply another standard
-","to restart | restarted, restarted |
-to reprocess | reprocessed, reprocessed |
-to revalue | revalued, revalued |
-to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
-to reappraise | reappraised, reappraised |
-to rerate | rerated, rerated |
-to reassess | reassessed, reassessed |
-to reappraise | reappraised, reappraised |
-to reclassify | reclassified, reclassified |
-to reapportion | reapportioned, reapportioned |
-to recoin | recoined, recoined | - remint
-to restamp | restamped, restamped |
-to repaper | repapered, repapered |
-to repopulate | repopulated, repopulated |
-","to restart | restarted, restarted |
-to reprocess | reprocessed, reprocessed |
-to revalue | revalued, revalued |
-to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
-to reappraise | reappraised, reappraised |
-to rerate | rerated, rerated |
-to reassess | reassessed, reassessed |
-to reappraise | reappraised, reappraised |
-to reclassify | reclassified, reclassified |
-to reapportion | reapportioned, reapportioned |
-to recoin | recoined, recoined | - remint
-to restamp | restamped, restamped |
-to repaper | repapered, repapered |
-to repopulate | repopulated, repopulated |
 "
-verbs,german,,"das 1:0 erzielen
+verbs,german,"sichdat. etw.acc. zu eigen machen
+sichdat. etw.acc. zu eigen machen
+sichdat. etw.acc. zu eigen machen
+sichdat. etw.acc. zu eigen machen
+etw.nom. ist jmdm./etw. eigen
+sichacc. etw.acc. zu eigen machen
+etw.dat. zu eigen sein
+einen eigenen Willen haben
+im eigenen Namen handeln
+etw.acc. zum eigenen Vorteil beeinflussen
+seinen eigenen Kopf haben
+seinen eigenen Tod vortäuschen
+seinen eigenen Weg gehen
+seine eigenen Transportmittel benutzen
+","jmdm. gut zureden
+gut abschneiden
+gut abschneiden
+gut abschneiden
+gut ankommen
+gut ankommen
+gut ankommen
+gut ausgehen
+gut aussehen
+gut funktionieren
+gut laufen
+gut werden
+gut zusammenpassen
+gut zusammenpassen
+","schlecht verwalten
+schlecht verwalten
+schlecht verwalten
+schlecht wegkommen
+schlecht werden
+schlecht werden
+schlecht werden
+schlecht werden
+schlecht werden
+schlecht werden - Lebensmittel
+schlecht regieren
+schlecht regieren
+schlecht funktionieren
+schlecht abschneiden
+","etw.acc. als echt beweisen
+etw.acc. für echt erklären
+echt Scheiße sein [sl.] [vulg.]
+echt beschissen sein [sl.] [vulg.]
+ein echter Cockney sein
+","krank machen
+krank werden
+krank werden
+krank werden
+krank werden
+sichacc. krank stellen
+sichacc. krank stellen
+krank feiern
+sichacc. krank fühlen
+einen Kranken pflegen
+","im Ganzen verkaufen
+etw.acc. im Ganzen zahlen
+ganz freihalten
+aufs Ganze gehen
+sichacc. ganz auf etw.acc. konzentrieren
+in etw.dat. ganz aufgehen
+etw.acc. ganz bezahlen
+den ganzen Betrieb aufhalten
+den ganzen Betrag schulden
+ganz kribbelig werden
+ganz kribbelig werden
+ganz erledigt sein
+ganze Arbeit leisten
+ganz wach sein
+","bei einem Dritten hinterlegen
+an erster/dritter/... Stelle stehen
+den dritten Platz belegen - Hunde- oder Pferderennen
+in den dritten Gang schalten
+in den dritten Gang schalten
+Rechte an Dritte übertragen
+etw.acc. in die dritte Potenz erheben
+","auf einen anderen Kanal/Sender umschalten
+sichacc. für einen anderen ausgeben
+vor den anderen ankommen
+andere schlechtmachen
+sichacc. als ein anderer ausgeben
+auf andere wirken
+jmdn./etw. für jmdn./etw. anderes halten
+einen anderen Radiosender suchen
+einen anderen Maßstab anlegen
+einen anderen steuerlichen Tatbestand schaffen [Taxation]
+einer anderen Bank Geld leihen
+mit anderen Leuten zusammenwohnen
+sichdat. gleichen wie ein Ei dem anderen
+sichdat. gleichen wie ein Ei dem anderen
+","einen Kranken pflegen
+krank machen
+krank werden
+krank werden
+krank werden
+krank werden
+sichacc. krank stellen
+sichacc. krank stellen
+krank feiern
+sichacc. krank fühlen
+",None,"das 1:0 erzielen
 zum 1:0 verwandeln [Football]
 ","Junge haben
 Junge bekommen
@@ -179,7 +340,7 @@ gut aussehen
 gut funktionieren
 gut laufen
 gut werden
-",,"das Beste aus etw.dat. machen
+",None,"das Beste aus etw.dat. machen
 das Beste aus jmdm. herausholen
 als Bester abschneiden
 sichacc. bestens amüsieren
@@ -216,7 +377,7 @@ seine Nase in alles hineinstecken
 den Amtsschimmel reiten
 alles in seiner Macht Stehende tun
 alles unter Kontrolle haben
-",,"etw.nom. ist lustig infinitive: lustig sein
+",None,"etw.nom. ist lustig infinitive: lustig sein
 sichacc. über jmdn./etw. lustig machen
 sichacc. über jmdn./etw. lustig machen
 sichacc. über jmdn./etw. lustig machen
@@ -231,66 +392,125 @@ sichacc. über jmdn./etw. lustig machen
 sichacc. über jmdn./etw. lustig machen
 sichacc. über jmdn./etw. lustig machen
 etw.acc. gar nicht lustig finden
-","auf etw.acc. Wichtiges hinweisen
-wichtig sein
-wichtig sein
-etw.acc. wichtig nehmen
-sichacc. wichtig machen
-sichacc. wichtig geben
-für jmdn. wichtig sein
-etw.acc. für wichtig halten
-wichtiger als jmd./etw. sein
-jmdm. ist etw.nom. nicht so wichtig
-wichtige Gründe vorbringen
-wichtige Gründe vorbringen
-eine wichtige Miene aufsetzen
-wichtigere Dinge zu tun haben
-Wichtigeres zu tun haben
-wichtige Aufschlüsse über etw.acc. geben
-","jmdn./etw. für jmdn./etw. anderes halten
-sichacc. als ein anderer ausgeben
-auf einen anderen Kanal/Sender umschalten
-sichacc. für einen anderen ausgeben
-vor den anderen ankommen
-auf ein anderes Programm umschalten
-etw.dat. ein ganz anderes Gesicht geben
-(über etw.acc.) anderer Meinung sein
-anderer Meinung sein
-anderer Meinung sein
-anderer Ansicht sein
-anderer Meinung sein als
-einen anderen Radiosender suchen
-einen anderen Maßstab anlegen
-","neu starten
-neu bearbeiten
-neu bewerten
-neu bewerten
-neu bewerten
-neu bewerten
-neu einschätzen
-neu einschätzen
-neu einteilen
-neu einteilen
-neu prägen
-neu prägen
-neu tapezieren
-neu besiedeln
-","neu starten
-neu bearbeiten
-neu bewerten
-neu bewerten
-neu bewerten
-neu bewerten
-neu einschätzen
-neu einschätzen
-neu einteilen
-neu einteilen
-neu prägen
-neu prägen
-neu tapezieren
-neu besiedeln
 "
-nouns,english,,"first class
+nouns,english,"selfhood
+own brand
+own funds
+internal variance
+treasury stock - own shares
+in-house production
+internal price variance
+own special stock
+internal power supply
+ideas of one's own
+separate identity
+domestic purity
+separate paragraph
+separate item
+","good
+the good guys (Amer.) [coll.]
+good/bad form - behaviour
+good/bad form - behaviour
+good manners
+great news
+fair average quality
+fairy godmother
+good fairy
+good laboratory practice
+great news
+good documentation practice
+good behaviorAEgood behaviourBE
+good conduct
+","good/bad form - behaviour
+good/bad form - behaviour
+sulkiness
+bad temper
+crossness
+fretfulness
+moods
+poor quality
+disservice
+mismatching of duals
+bad bargain
+bad buy
+guilty conscience
+bad conscience
+","kinnikinnick or: kinnikinnik
+bearberry
+red bearberry
+real threat
+genuine risk
+authentic signature
+laid line
+real bronze
+real class
+effective demand
+cicely [BOT.]
+sweet cicely [BOT.]
+myrrh [BOT.]
+aloe vera [BOT.]
+","sick people
+the sick
+terminal ill
+bedside manner
+","the lot
+the whole issue
+the whole thing
+ensemble
+whole unit
+total availability
+the whole enchilada (Amer.)
+the whole boodle
+the full story
+the whole boodle
+the whole extent
+the entire country
+reams pl.
+the whole shebang (Amer.)
+","denture sg., usually in plural: dentures
+false teeth plural noun
+third
+third party [ECON.][LAW]
+third person [ECON.][LAW]
+other party [INSUR.]
+first/second/third/... instar [ZOOL.]
+denture sg., usually in plural: dentures
+false teeth plural noun
+cube
+third harmonic
+live rail
+third rail
+third version
+","the others
+alternative
+step-change
+different view
+the far end
+the far side
+assimilated premiums [FINAN.]
+brazing and soldering [TECH.]
+soldering [TECH.]
+other additives [TECH.]
+generalizedAE other [SOCIOL.]generalisedBE / generalizedBE other [SOCIOL.]
+Swiss Institute for the Prevention of Alcohol and Drug Problems [abbr.: SIPA]
+reverse side
+alter ego
+","sick people
+the sick
+invalid
+sick person
+hospital
+medical and health care (or: healthcare)
+medical institution [MED.]
+aids victim
+AIDS sufferer [MED.]
+AIDS case [MED.]
+AIDS patient [MED.]
+AIDS victim [MED.]
+terminal ill
+bedside manner
+mental-health charity
+",None,"first class
 All Fools' Day
 April Fool's (or: Fools') Day
 First Sunday of (or: in) Advent [REL.]
@@ -377,66 +597,127 @@ first quality
 ","theory of everything [abbr.: TOE] [PHYS.]
 the internet of everything (or: Internet of Everything)
 internet of everything [COMP.]
-",,"funny tale
+",None,"funny tale
 funny bone [fig.]
-","important right
-major product [COMM.]
-bigwig
-notability
-somebody
-important person
-core principle
-high impact area
-key findings
-key findings
-key leader
-key opinion leader [abbr.: KOL]
-key message
-key findings
-","the others
-alter ego
-referral to another court [LAW]
-parallel consumption of other drugs
-inspection by other methods [TECH.]
-legal entity of a different legal form [LAW]
-holder of other credit cards [FINAN.]
-interaction
-off-site processing
-jamming [TECH.]
-IP spoofing [COMP.]
-contact with other cargoes
-sending goods to another country
-beggar-my-neighborAE policy [ECON.]beggar-my-neighbourBE policy [ECON.]
-","entrant
-new member
-initiate
-baby brother - new-born brother
-baby sister - new-born sister
-new venture
-new venture
-recent field of research
-new public management
-new trading segment
-new payment procedure
-new business [COMM.]
-New Testament [abbr.: NT] [REL.]
-New Steering Model [abbr.: NSM] [POL.]
-","newly-formed German states
-New Year
-new edition
-reformulation
-reanalysis - pl.: reanalyses
-entrant
-new member
-initiate
-reanimation
-revalidation
-new approach
-expanded town
-new town (Brit.)
-reinterpretation
 "
-nouns,german,,"1. Klasse
+nouns,german,"eigene Persönlichkeit
+eigene Marke
+eigene Mittel
+eigene Abweichung
+eigene Anteile
+eigene Herstellung
+eigene Preisabweichung
+eigener Sonderbestand
+eigene Energieversorgung
+eigene Ideen
+eigene Identität
+eigene Lauterkeit
+eigener Abschnitt
+eigener Artikel
+","das Gute no plural
+die Guten pl.
+gute/schlechte Manieren
+gute/schlechte Umgangsformen pl.
+gute Manieren pl.
+gute Neuigkeiten
+gute Durchschnittsqualität
+gute Fee
+gute Fee
+gute Laborpraxis
+gute Nachricht
+gute Dokumentationspraxis
+gute Führung
+gute Führung
+","gute/schlechte Manieren
+gute/schlechte Umgangsformen pl.
+schlechte Laune
+schlechte Laune
+schlechte Laune
+schlechte Laune
+schlechte Laune
+schlechte Qualität
+schlechter Dienst
+schlechte Zwillingspaarung
+schlechtes Geschäft
+schlechtes Geschäft
+schlechtes Gewissen
+schlechtes Gewissen
+","Echte Bärentraube Lat.: Arctostaphylos uva-ursi
+Echte Bärentraube Lat.: Arctostaphylos uva-ursi
+Echte Bärentraube Lat.: Arctostaphylos uva-ursi
+echte Bedrohung
+echte Gefahr
+echte Unterschrift
+echte Wasserlinie
+echte Bronze
+echte Klasse
+echte Nachfrage
+Echte Süßdolde Lat.: Myrrhis odorata
+Echte Süßdolde Lat.: Myrrhis odorata
+Echte Süßdolde Lat.: Myrrhis odorata
+Echte Aloe Lat.: Aloë vera
+","die Kranken pl.
+die Kranken pl.
+unheilbar Kranker
+Verhalten gegenüber einem Kranken
+","das Ganze no plural
+das Ganze no plural
+das Ganze no plural
+das Ganze no plural
+ganze Einheit
+ganze Verfügbarkeit
+das ganze Zeug
+der ganze Kram
+die ganze Geschichte
+der ganze Schwindel
+das ganze Ausmaß
+das ganze Land
+ganze Bände [fig.]
+der ganze Kram [coll.]
+","die Dritten requires article pl., no sg. [coll.] [hum.]
+die Dritten requires article pl., no sg. [coll.] [hum.]
+der Dritte | die Dritte pl.: die Dritten
+der Dritte | die Dritte pl.: die Dritten
+der Dritte | die Dritte pl.: die Dritten
+der Dritte | die Dritte pl.: die Dritten
+erstes/zweites/drittes/... Larvenstadium
+die dritten Zähne requires article pl., no sg. [hum.]
+die dritten Zähne requires article pl., no sg. [hum.]
+dritte Potenz
+dritte Harmonische
+dritte Schiene
+dritte Schiene
+dritte Überarbeitung
+","die anderen (or: Anderen)
+andere Wahl
+andere Gangart
+andere Ansicht
+das andere Ende pl.: die Enden
+die andere Seite pl.: die Seiten
+andere Kapitalreserven
+andere Lötverfahren
+andere Lötverfahren
+andere Zusätze [Hoisting Technology]
+der (or: das) verallgemeinerte Andere pl.: die Anderen
+Schweizerische Fachstelle für Alkohol- und andere Drogenprobleme [abbr.: SFA] (Switzerland)
+andere Seite
+anderes Ich
+","die Kranken pl.
+die Kranken pl.
+der Kranke | die Kranke pl.: die Kranken
+der Kranke | die Kranke pl.: die Kranken
+die Kranken- und Kuranstalt
+die Kranken- und Gesundheitspflege
+die Kranken- und Kuranstalt
+der Aids-Kranke pl.: die Aids-Kranken
+der Aids-Kranke | die Aids-Kranke pl.: die Aids-Kranken
+der Aids-Kranke | die Aids-Kranke pl.: die Aids-Kranken
+der Aids-Kranke | die Aids-Kranke pl.: die Aids-Kranken
+der Aids-Kranke | die Aids-Kranke pl.: die Aids-Kranken
+unheilbar Kranker
+Verhalten gegenüber einem Kranken
+gemeinnützige Organisation für psychisch Kranke
+",None,"1. Klasse
 der 1. April
 der 1. April
 erster Advent or: 1. Advent - Adventssonntag
@@ -523,116 +804,239 @@ beste Qualität
 ","die Weltformel pl.: die Weltformeln
 Internet der Dinge
 Internet der Dinge
-",,"lustige Geschichte
+",None,"lustige Geschichte
 lustige Ader
-","wichtiges Recht
-wichtiges Produkt
-wichtige Persönlichkeit
-wichtige Persönlichkeit
-wichtige Person
-wichtige Person
-wichtigster Grundsatz
-wichtige Bereiche
-wichtige Ergebnisse
-wichtige Erkenntnisse
-wichtige Führungskraft
-wichtige Meinungsbildner
-wichtigste Botschaft
-wichtigste Ergebnisse
-","die anderen (or: Anderen)
-anderes Ich
-Abgabe an ein anderes Gericht
-Beikonsum anderer Suchtmittel [Drugs]
-Inspektion mittels anderer Methoden [Hoisting Technology]
-Rechtsträger anderer Rechtsform
-Inhaber anderer Kreditkarten
-Wechselwirkung mit anderen Mitteln
-Durchführung in einem anderen Werk
-Störung von einem anderen Sender
-Vortäuschen einer anderen IP-Adresse
-Berührung mit anderen Ladungen
-Versendung von Waren in ein anderes Land
-Außenhandelspolitik zu Lasten anderer Länder - Ausplünderung deines Nachbarn
-","neues Mitglied
-neues Mitglied
-neues Mitglied
-neues Brüderchen
-neues Schwesterchen
-neues Unternehmen
-neues Wagnis
-neues Forschungsgebiet
-neues Steuerungsmodell
-neues Handelssegment
-neues Zahlungsverfahren
-neues Geschäft
-Neues Testament [Bible]
-Neues Steuerungsmodell [abbr.: NSM]
-","die neuen Bundesländer pl.
-das neue Jahr
-neue Auflage
-neue Darlegung
-neue Darlegung
-neues Mitglied
-neues Mitglied
-neues Mitglied
-neue Belebung
-neue Gültigkeit
-neue Konzeption
-neue Stadt
-neue Stadt
-neue Übersetzung
 "
-noun_details,english,,"article: 1.
-word: Klasse
+noun_details,english,"article: eigene
+word: Persönlichkeit
 genus: 
-plural: Klasse
-","article: der
-word: Junge
-genus: MASC
-plural: die Jungen/die Jungs
-","article: der,
-word: die,
+plural: Persönlichkeit
+meaning: selfhood
+own brand
+","article: Der
+word: Gute
+genus: NEUT
+plural: plural
+meaning: good
+the good guys (Amer.) [coll.]
+","article: gute/schlechte
+word: Manieren
 genus: 
-plural: 
-","article: Internationaler
-word: Frauentag
+plural: Manieren
+meaning: good/bad form - behaviour
+good/bad form - behaviour
+","article: Echte
+word: Bärentraube
 genus: 
-plural: März
-","article: der,
-word: die,
-genus: 
-plural: 
-","article: der,
-word: die,
-genus: 
-plural: 
+plural: uva-ursi
+meaning: kinnikinnick or: kinnikinnik
+bearberry
 ","article: die
-word: Weltformel
+word: Kranken
 genus: FEMI
-plural: die Weltformeln
-",,"article: lustige
-word: Geschichte
-genus: 
-plural: Geschichte
-","article: wichtiges
-word: Recht
-genus: 
-plural: Recht
+plural: 
+meaning: sick people
+the sick
+","article: Das
+word: Ganze
+genus: NEUT
+plural: plural
+meaning: the lot
+the whole issue
+","article: Die
+word: Dritten
+genus: FEMI
+plural: [hum.]
+meaning: denture sg., usually in plural: dentures
+false teeth plural noun
 ","article: die
 word: anderen
 genus: FEMI
 plural: Anderen)
-","article: neues
-word: Mitglied
-genus: 
-plural: Mitglied
-","article: die
-word: neuen
+meaning: the others
+alternative
+","article: Die
+word: Kranken
 genus: FEMI
 plural: 
+meaning: sick people
+the sick
+",None,"article: 1.
+word: Klasse
+genus: 
+plural: Klasse
+meaning: first class
+All Fools' Day
+","article: Das
+word: Junge
+genus: MASC
+plural: die Jungen/die Jungs
+meaning: boy
+youngster - boy
+","article: Der
+word: die,
+genus: 
+plural: 
+meaning: pick of the bunch
+the best
+","article: Internationaler
+word: Frauentag
+genus: 
+plural: März
+meaning: International Women's Day [abbr.: IWD]
+international airport
+","article: Die
+word: die,
+genus: 
+plural: 
+meaning: pick of the bunch
+the best
+","article: Die
+word: die,
+genus: 
+plural: 
+meaning: pick of the bunch
+the best
+","article: die
+word: Weltformel
+genus: FEMI
+plural: die Weltformeln
+meaning: theory of everything [abbr.: TOE] [PHYS.]
+the internet of everything (or: Internet of Everything)
+",None,"article: lustige
+word: Geschichte
+genus: 
+plural: Geschichte
+meaning: funny tale
+funny bone [fig.]
 "
-noun_details,german,,,,,,,,,,,,,,
-adjectives_or_adverbs,english,"of capital importance
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+adjectives_or_adverbs,english,"quirky adj.
+peculiar adj.
+inherent adj.
+distinct adj.
+appropriate adj.
+innate adj.
+particular adj.
+idiosyncratic adj.
+own adj.
+proprietary adj.
+of one's own
+private adj.
+for one's own end
+for one's own ends
+","well adj. adv.
+all right - without problems
+good adj. - better, best
+characterful adj.
+sound adj.
+good adj. [EDUC.]
+superior (to sth.) adj.
+improved adj.
+good-looking adj.
+handsome adj.
+well-appointed - building, room adj.
+well-dressed adj.
+nice-looking adj.
+attractive adj.
+","bad - worse, worst adj.
+poor adj.
+ill adj.
+evil adj.
+corrupt adj.
+unpalatable adj.
+faulty adj.
+foul adj.
+iniquitous adj.
+brackish adj.
+decayed adj.
+shoddy adj.
+amiss adj.
+off adj.
+","real adj.
+genuine adj.
+proper adj.
+pure adj.
+true adj.
+authentic adj.
+bona fide
+echt adj. German
+sincere adj.
+straight-up (Amer.) - honest, genuine adj.
+substantial adj.
+unfeigned adj.
+warranted adj.
+pukka adj. - Anglo-Indian
+","ill adj.
+sick adj. - physically ill
+bad adj.
+diseased adj.
+sickly adj.
+morbid adj.
+off-colorAE adj.off-colourBE adj.
+sick adj. [fig.] - sadistic, cruel
+unsound adj. [MED.]
+worse - more ill adj.
+mentally ill
+critically ill
+seriously ill
+ailing adj.
+terminally ill
+medical adj.
+homesick adj.
+","in the aggregate
+altogether adv.
+in all
+on balance
+on the whole
+all adj. adv.
+all adj.
+whole adj.
+entire adj.
+full adj.
+intact adj.
+total adj.
+solid adj.
+complete adj.
+","third-instar adv. - used before verb[ZOOL.]
+triplicate adj.
+third-class adj.
+on the part of any third parties
+by order of a third party
+third-person adj. [LING.]
+tertiary adj.
+","and others [abbr.: et al.]
+in other words
+one at a time
+one by one
+in turn
+in single file
+none other than
+some other time
+crosstown adj.
+crosstown adj.
+in other cases
+on the other hand
+over the road
+for some other reason
+","ill adj.
+sick adj. - physically ill
+bad adj.
+diseased adj.
+sickly adj.
+morbid adj.
+off-colorAE adj.off-colourBE adj.
+sick adj. [fig.] - sadistic, cruel
+unsound adj. [MED.]
+worse - more ill adj.
+medical adj.
+mentally ill
+critically ill
+seriously ill
+ailing adj.
+terminally ill
+homesick adj.
+","of capital importance
 ","A one (or: A-one, A 1, A-1) [coll.] adj.
 on a scale of 1 : x
 ","young adj.
@@ -731,64 +1135,133 @@ jocular adj.
 amusing adj.
 cheerful adj.
 comical adj.
-","important adj.
-grave adj.
-major adj.
-significant adj.
-basic adj.
-big adj.
-crucial adj.
-fundamental adj.
-necessary adj.
-relevant adj.
-consequential - important adj.
-momentous adj.
-meaningful adj.
-vital adj.
-","some other time
-none other than
-in other words
-one at a time
-one by one
-in turn
-in single file
-elsewhere adv.
-without prejudice to other provisions
-of quite a different nature
-on behalf of others
-in other respects
-crosstown adj.
-crosstown adj.
-","new adj.
-novel adj.
-recent adj.
-nouveau adj.
-fledgling - used before noun - new adj.
-latest adj.
-recent adj.
-freshest adj.
-anew adv.
-another adj. pron. - different person/thing
-newly constructed
-reformative adj.
-newly founded
-newly-created adj.
-","new adj.
-novel adj.
-recent adj.
-nouveau adj.
-fledgling - used before noun - new adj.
-latest adj.
-recent adj.
-freshest adj.
-anew adv.
-another adj. pron. - different person/thing
-newly constructed
-reformative adj.
-newly founded
-newly-created adj.
 "
-adjectives_or_adverbs,german,"am wichtigsten
+adjectives_or_adverbs,german,"eigen
+eigen
+eigen
+eigen
+eigen
+eigen
+eigen
+eigen
+eigener | eigene | eigenes
+eigener | eigene | eigenes
+eigener | eigene | eigenes
+eigener | eigene | eigenes
+zum eigenen Nutzen
+zum eigenen Nutzen
+","gut
+gut
+gut - besser, am besten
+gut
+gut
+gut - Note
+besser (als etw.acc.)
+besser
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+gut ausgestattet
+gut gekleidet
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+","schlecht - schlechter, am schlechtesten
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht
+schlecht - Nahrungsmittel
+","echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+echt
+","krank
+krank
+krank
+krank
+krank
+krank
+krank
+krank [fig.]
+krank
+kränker
+psychisch krank
+schwerkrank or: schwer krank
+ernsthaft krank
+lange krank
+unheilbar krank
+Kranken...
+krank vor Heimweh
+","im Ganzen
+im Ganzen
+im Ganzen
+im Ganzen
+im Ganzen
+ganz
+der, die, das ganze
+ganz
+ganz
+ganz
+ganz
+ganz
+ganz
+ganz
+","im dritten Larvenstadium
+dritte Ausfertigung
+dritter Klasse
+seitens Dritter
+im Auftrag eines Dritten
+in der dritten Person
+an dritter Stelle
+","und andere [abbr.: et al.]
+mit anderen Worten [abbr.: m. a. W.]
+einer nach dem anderen
+einer nach dem anderen
+einer nach dem anderen
+einer hinter dem anderen
+kein anderer als
+ein anderes Mal
+am anderen Ende der Stadt
+vom anderen Ende der Stadt
+in anderen Fällen
+auf der anderen Seite
+auf der anderen Straßenseite
+aus einem anderen Grund
+","krank
+krank
+krank
+krank
+krank
+krank
+krank
+krank [fig.]
+krank
+kränker
+Kranken...
+psychisch krank
+schwerkrank or: schwer krank
+ernsthaft krank
+lange krank
+unheilbar krank
+krank vor Heimweh
+","am wichtigsten
 ","erstklassig
 im Maßstab 1 : x
 ","jung
@@ -887,64 +1360,85 @@ lustig
 lustig
 lustig
 lustig
-","wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-wichtig
-","ein anderes Mal
-kein anderer als
-mit anderen Worten [abbr.: m. a. W.]
-einer nach dem anderen
-einer nach dem anderen
-einer nach dem anderen
-einer hinter dem anderen
-an anderer Stelle
-unbeschadet anderer Vorschriften
-von ganz anderer Art
-im Namen anderer
-in anderer Beziehung
-am anderen Ende der Stadt
-vom anderen Ende der Stadt
-","neu
-neu
-neu
-neu
-neu
-neuester | neueste | neuestes or: neuster | neuste | neustes
-neuester | neueste | neuestes or: neuster | neuste | neustes
-neuester | neueste | neuestes or: neuster | neuste | neustes
-aufs Neue
-ein neuer | eine neue | ein neues
-neu erbaut
-neu bildend
-neu gegründet
-neu gegründet
-","neu
-neu
-neu
-neu
-neu
-neuester | neueste | neuestes or: neuster | neuste | neustes
-neuester | neueste | neuestes or: neuster | neuste | neustes
-neuester | neueste | neuestes or: neuster | neuste | neustes
-aufs Neue
-ein neuer | eine neue | ein neues
-neu erbaut
-neu bildend
-neu gegründet
-neu gegründet
 "
-phrases_or_collocations,english,,,"the young
+phrases_or_collocations,english,"to let so. stew in their own grease [fig.]
+to let so. stew in their own juice [fig.]
+to let so. stew in their own grease [fig.]
+to let so. stew in their own juice [fig.]
+to be one's own man
+with one's own eyes
+to stand on one's own feet
+to stand on one's own two feet
+Mind your own business!
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+to learn sth. the hard way
+Get a life!
+beyond one's own nose [fig.]
+to be on one's own
+","Good night!
+Goodnight!
+Have a good trip!
+Have a safe journey!
+Get well soon!
+Best wishes for a speedy recovery!
+Speedy recovery!
+Have a good trip!
+Sounds good to me!
+a good innings
+a long mile
+Godspeed! archaic
+Take care!
+All the best!
+","Every cloud has a silver lining.
+to be star-crossed
+to be in bad shape [fig.]
+rough-and-ready adj.
+Not bad!
+that was a poor job
+that was a poor show
+Sweet! [coll.]
+a sore loser
+a bad egg
+to have a bad vibe about this
+to be in ill repute (with so.) [fig.]
+a bum rap
+to bite the hand that feeds one
+","Get out of here! [coll.]
+Get out of town! (Amer.) [coll.]
+Straight up? - really? [sl.] (Brit.)
+That sucks! [sl.]
+a true-blue hero
+",None,"what with ...
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+to be the laughingstockAE of the street/the world/the classto be the laughing stockBE of the street/the world/the class
+24 hours a day [coll.]
+quite so - expressing agreement
+that's right
+exactly
+quite - expressing agreement
+all of a dither
+all of a dither
+(as) white as a sheet
+bang on time
+(as) white as a sheet
+few and far between
+","to one or more other parties
+encumbered with third parties' rights
+","to be head and shoulders above the rest
+in the family way - pregnant
+first things first
+One man's meat is another man's poison.
+one man's joy is another man's sorrow
+by default
+to be as like as two peas in a pod
+What you win on the swings you lose on the roundabouts.
+Tell that to the Marines!
+That's a different kettle of fish.
+The pot calling the kettle black
+The pot calling the kettle black.
+There's honorAE among thieves.There's honourBE among thieves.
+one person's trash is another person's treasure
+",None,None,None,"the young
 a well-mannered young man
 Boy, oh boy! [coll.]
 Oh boy! [coll.]
@@ -971,7 +1465,7 @@ to hit the spot
 Sleep tight! - usually said to children
 Sleep well!
 Take care!
-",,"the way forward
+",None,"the way forward
 the cream of the crop
 decidedly the best
 Attack is the best form of defense.AEAttack is the best form of defence.BE
@@ -1007,55 +1501,86 @@ That beats everything.
 to turn everything topsy-turvy
 not to take everything literally [fig.]
 to paint a gloomy picture of everything [fig.]
-",,"The Merry Widow
-","a fork in the road
-an important matter
-an important factor
-a fine step forward (Amer.)
-","another time
-another thing
-a whole new ball game
-a different kettle of fish [fig.]
-a very different beast
-That's a horse of another color.AEThat's a horse of another colour.BE
-That's a horse of a different color.AEThat's a horse of a different colour.BE
-a different kettle of fish
-unless otherwise agreed
-unless otherwise provided
-unless otherwise agreed
-to be head and shoulders above the rest
-in the family way - pregnant
-first things first
-","Let's try again!
-to open a whole new can of worms [fig.]
-What's the news?
-Happy New Year!
-Happy New Year!
-What's the news?
-a prosperous new year
-Merry Christmas and a happy New Year!
-Season's greetings and best wishes for the New Year!
-almost as new
-immaculate condition throughout
-new for old
-a new arrival
-a new lease of life
-","old wine in new skins
-almost as new
-immaculate condition throughout
-new for old
-a new arrival
-a new lease of life
-a new coat of whitewash
-a new low-point
-Let's try again!
-New brooms sweep clean.
-A new broom sweeps clean.
-new wine in old bottles
-to open a whole new can of worms [fig.]
-new suits at the 2-level - bridge
+",None,"The Merry Widow
 "
-phrases_or_collocations,german,,,"die Jungen
+phrases_or_collocations,german,"jmdn. im eigenen Fett schmorenlassen (or: schmoren lassen) [fig.]
+jmdn. im eigenen Fett schmorenlassen (or: schmoren lassen) [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+seinen eigenen Kopf haben
+mit eigenen Augen
+auf eigenen Füßen stehen
+auf eigenen Füßen stehen
+Kümmern Sie sich um Ihre eigenen Angelegenheiten!
+Ein Prophet gilt nichts im eigenen Land.
+etw.acc. am eigenen Leib erfahren
+Kümmer dich um deinen eigenen Kram! [coll.]
+über den eigenen Tellerrand [fig.]
+auf eigenen Füßen stehen [fig.]
+","Gute Nacht!
+Gute Nacht!
+Gute Reise!
+Gute Reise!
+Gute Besserung!
+Gute Besserung!
+Gute Besserung!
+Gute Fahrt!
+Gute Idee!
+eine gute Gelegenheit
+eine gute Meile
+Gute Reise!
+Alles Gute!
+Alles Gute!
+","In allem Schlechten liegt das Gute im Ansatz schon verborgen.
+unter einem schlechten Stern stehen
+in einem schlechten Zustand sein
+schlecht und recht
+Nicht schlecht!
+das war schlecht
+das war schlecht
+Nicht schlecht!
+ein schlechter Verlierer
+ein schlechter Kerl
+ein schlechtes Gefühl bei der Sache haben
+(bei jmdm.) ein schlechtes Ansehen genießen
+ein unverdient schlechter Ruf
+Gutes mit Schlechtem vergelten
+","Echt jetzt? [coll.]
+Echt jetzt? [coll.]
+Echt jetzt? [coll.]
+Das ist echt Scheiße! [vulg.]
+ein echter Held
+",None,"mit dem ganzen ...
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+das Gespött der ganzen Straße/Welt/Klasse sein
+den ganzen Tag
+ganz recht
+ganz recht
+ganz recht
+ganz recht
+ganz aufgeregt
+ganz verdattert
+ganz blass
+ganz pünktlich
+ganz weiß
+ganz vereinzelt
+","einem Dritten oder mehreren Dritten
+mit Rechten Dritter belastet
+","den anderen haushoch überlegen sein
+in anderen Umständen
+eins nach dem anderen
+Des einen Freud, des anderen Leid.
+des einen Freud, des anderen Leid
+in Ermangelung eines anderen Kandidaten
+sichdat. gleichen wie ein Ei dem anderen
+Was man auf der einen Seite gewinnt, verliert man auf der anderen.
+Das mach einem anderen weis!
+Das steht auf einem anderen Blatt.
+Ein Esel schimpft den anderen Langohr
+Ein Esel schilt den anderen Langohr.
+Eine Krähe hackt der anderen kein Auge aus.
+was dem einen nichts ist, ist dem anderen alles
+",None,None,None,"die Jungen
 ein junger Mann mit guten Manieren
 Junge, Junge! [coll.]
 Junge, Junge! [coll.]
@@ -1082,7 +1607,7 @@ gut kommen [coll.]
 Schlaf gut!
 Schlaf gut!
 Mach's gut! - 2. Person Sg.
-",,"die beste Lösung
+",None,"die beste Lösung
 das Beste vom Besten
 eindeutig das Beste
 Angriff ist die beste Verteidigung.
@@ -1118,55 +1643,92 @@ Das übertrifft alles!
 alles auf den Kopf stellen
 nicht jedes Wort auf die Goldwaage legen - nicht übergenau nehmen, was jemand sagt
 alles grau in grau malen
-",,"Die lustige Witwe - Operette
-","eine wichtige Entscheidung
-eine wichtige Angelegenheit
-ein wichtiger Faktor
-ein wichtiger Schritt vorwärts
-","ein anderes Mal
-etwas anderes
-ein anderes Paar Schuhe
-ein anderes Paar Schuhe [fig.]
-etwas ganz anderes
-Das ist etwas anderes.
-Das ist etwas anderes.
-ein ganz anderes Paar Schuhe
-sofern nichts anderes vereinbart ist
-vorbehaltlich anderer Bestimmungen
-mangels anderer Vereinbarung
-den anderen haushoch überlegen sein
-in anderen Umständen
-eins nach dem anderen
-","Auf ein Neues!
-ein neues Fass aufmachen [fig.] - neues Problem anschneiden
-Was gibt es Neues?
-Frohes Neues Jahr!
-Frohes neues Jahr!
-Was gibt's Neues?
-ein erfolgreiches neues Jahr
-Frohe Weihnachten und ein gutes neues Jahr!
-Frohe Weihnachten und ein gutes neues Jahr
-fast wie neu [abbr.: fwn] - Bücher
-wie neu
-neu für alt
-ein neuer Erdenbürger
-ein neuer Start
-","alter Wein in neuen Schläuchen
-fast wie neu [abbr.: fwn] - Bücher
-wie neu
-neu für alt
-ein neuer Erdenbürger
-ein neuer Start
-ein neuer Anstrich
-ein neuer Tiefpunkt
-Auf ein Neues!
-Neue Besen kehren gut.
-Neue Besen kehren gut.
-neuer Wein in alten Flaschen
-ein neues Fass aufmachen [fig.] - neues Problem anschneiden
-neue Farben auf der 2er-Stufe [Card Games]
+",None,"Die lustige Witwe - Operette
 "
-examples,english,,"1 am
+examples,english,"He is on his own.
+He's on his own.
+It was a case of the biter bit.
+Mind your own business!
+conscious of one's own importance
+They each have their respective merits.
+by his own account
+according to his own statement
+under my own name
+We operate our own fleet of vehicles.
+for his own benefit
+Mind your own business!
+despite ourselves
+at his own expense
+","a good knowledge of
+a good quality at that price
+the good news is ...
+We've got some good news.
+This career offers good prospects.
+She has as good a chance as her brother.
+a good yield of wheat
+I don't have a lot of really good friends.
+He assured me of his willingness.
+Hotel markets have traded strongly.
+She is as good a warrior as you are.
+It was a pleasure to work with you.
+Thank you for being such a good colleague.
+Thank you for your contribution to our good work.
+","It was his off day.
+Bad workmanship was responsible for the failure.
+You're breaking up.
+I'm badly off.
+rotten to the core
+He's doing badly.
+He's badly off.
+He's hard up.
+I feel queasy.
+a chimney that draws badly
+He dealt ill.
+He's doing badly.
+He's badly off.
+He's in a bad way.
+",None,"He must be sick.
+He's said to be ill.
+He appears to be sick.
+The Prime Minister, who has been ill recently, will be unable to chair the meeting.
+I'm seasick.
+He has a good bedside manner.
+","throughout the market
+a full set
+over the entire term
+throughout the entire term
+all through May
+Tom spent most of the day with his daughter.
+I can't concentrate with all that noise going on.
+I've been freezing all day.
+She has millions of fans worldwide.
+valid for the whole country
+all over the town
+His speech will resound throughout the country. [fig.]
+over the full travel [AVIAT.]
+and everything that goes with it
+","to a third party
+","all other stipulations of the credit
+superior to any other make
+free from other levies
+isolated from other transactions
+among other duties
+she's no different from the rest
+and all the rest of them
+Let's not get ahead of ourselves.
+He loved her but she married another.
+There's nobody else I can turn to.
+a comparison with other offers
+I had back-to-back meetings today.
+That's another story.
+She married him on the rebound.
+","He has a good bedside manner.
+He must be sick.
+He's said to be ill.
+He appears to be sick.
+The Prime Minister, who has been ill recently, will be unable to chair the meeting.
+I'm seasick.
+",None,"1 am
 1 am
 from January 1st to March 29th
 on March 1st
@@ -1202,7 +1764,7 @@ a good selling line
 I'm fine.
 It's best not to tangle with him.
 You look well.
-",,"the best thing about him
+",None,"the best thing about him
 the best cut of the meat
 the best panorama of the area
 Please give our order your best attention.
@@ -1244,64 +1806,95 @@ everything is in order
 Everything is going to be alright.
 and everything that goes with it
 You can't have everything.
-",,"He's fun.
+",None,"He's fun.
 I don't see the joke.
 I don't see the fun of it.
 She's only trying to poke fun at you.
-","It matters.
-It hasn't got much point.
-It doesn't greatly matter
-It is important
-It is important to
-It is important to distinguish
-The news is important.
-some news of importance
-I've got other fish to fry.
-I told him what was most important.
-","unless otherwise specified
-another country
-any foreign country
-That's a different matter.
-There's nothing else for it but to ...
-I beg to differ.
-He's of another opinion.
-She has no respect for other people's feelings.
-She shows no respect for other people's feelings.
-except when otherwise stipulated
-all other stipulations of the credit
-superior to any other make
-free from other levies
-isolated from other transactions
-","What is the news?
-Her new album is a belter.
-have been given a new look
-a newly established company
-The time is ripe to begin afresh.
-That's news to me.
-If a student loses their ID card, they have to pay for a new one.
-enclosed you will find our corrected account
-a new branch of our business
-a new world economic order
-the new rules replace the old rules
-Her new hat becomes her.
-a young company
-I've spilt some soup on my new blouse!
-","If a student loses their ID card, they have to pay for a new one.
-the new rules replace the old rules
-There he was, resplendent in his new uniform.
-will be subject to new prices
-The manufacturer made a presentation of his new product line.
-an enormous continent, up for grabs by the new settlers
-with the assistance of a new partner
-We are in search of a new market.
-a newly established company
-The time is ripe to begin afresh.
-That's news to me.
-enclosed you will find our corrected account
-a new branch of our business
-a new world economic order
 "
-examples,german,,"1 Uhr morgens
+examples,german,"Er steht auf eigenen Füßen.
+Er steht auf eigenen Füßen.
+Er wurde mit seinen eigenen Waffen geschlagen.
+Kümmere dich um deine eigenen Angelegenheiten!
+der eigenen Bedeutung bewusst
+Jeder von ihnen hat seine eigenen Vorteile.
+nach seinen eigenen Angaben
+nach seiner eigenen Erklärung
+unter meinem eigenen Namen
+Wir haben unseren eigenen Fahrzeugpark.
+zu seinem eigenen Nutzen
+Kümmern Sie sich um Ihre eigenen Sachen!
+unserem eigenen Willen zum Trotz
+auf seine eigenen Kosten
+","gute Kenntnisse
+eine gute Qualität zu diesem Preis
+die gute Nachricht ist ...
+Wir haben gute Nachrichten.
+Diese Laufbahn bietet gute Chancen.
+Sie hat ebenso gute Chancen wie ihr Bruder.
+eine gute Weizenernte
+Ich habe nicht viele sehr gute Freunde.
+Er beteuerte seine gute Absicht.
+Die Hotels machten gute Geschäfte.
+Sie ist eine ebenso gute Kriegerin, wie du es bist.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+","Er hatte einen schlechten Tag.
+Schlecht ausgeführte Arbeit war für das Versagen verantwortlich.
+Deine Verbindung ist schlecht.
+Ich bin schlecht dran.
+durch und durch schlecht
+Es geht ihm schlecht.
+Es geht ihm schlecht.
+Es geht ihm schlecht.
+Mir ist schlecht.
+ein schlecht ziehender Kamin
+Er handelte schlecht.
+Es geht ihm finanziell schlecht.
+Es geht ihm sehr schlecht.
+Es steht schlecht um ihn.
+",None,"Er muss krank sein.
+Er soll krank sein.
+Er scheint krank zu sein.
+Der Premierminister, der in letzter Zeit krank war, wird den Vorsitz bei der Sitzung nicht übernehmen können.
+Ich bin seekrank.
+Er kann gut mit Kranken umgehen.
+","am ganzen Markt
+einen ganzen Satz
+während der ganzen Laufzeit
+während der ganzen Laufzeit
+während des ganzen Mai
+Tom verbrachte fast den ganzen Tag mit seiner Tochter.
+Bei dem ganzen Krach kann ich mich nicht konzentrieren.
+Ich friere schon den ganzen Tag.
+Sie hat Millionen Fans auf der ganzen Welt.
+gültig im ganzen Land
+in der ganzen Stadt
+Seine Rede wird im ganzen Land widerhallen.
+über den ganzen Hub
+und das ganze Drumherum
+","an einen Dritten
+","alle anderen Bedingungen des Kredits
+allem anderen überlegen
+frei von anderen Abgaben
+getrennt von anderen Geschäften
+neben anderen Aufgaben
+sie ist wie alle anderen
+und alle anderen
+Eins nach dem anderen (or: Anderen).
+Er hat sie geliebt, aber sie hat einen anderen geheiratet.
+Es gibt niemand anderen, an den ich mich wenden kann.
+der Vergleich mit anderen Angeboten
+Ich hatte heute ein Meeting nach dem anderen.
+Das steht auf einem anderen Blatt.
+Sie heiratete ihn, um sich über einen anderen hinwegzutrösten. infinitive: hinwegtrösten
+","Er kann gut mit Kranken umgehen.
+Er muss krank sein.
+Er soll krank sein.
+Er scheint krank zu sein.
+Der Premierminister, der in letzter Zeit krank war, wird den Vorsitz bei der Sitzung nicht übernehmen können.
+Ich bin seekrank.
+",None,"1 Uhr morgens
 1 Uhr nachts
 vom 1. Januar bis 29. März
 am 1. März
@@ -1337,7 +1930,7 @@ ein sich gut verkaufender Artikel
 Mir geht es gut.
 Mit ihm ist nicht gut Kirschen essen.
 Sie sehen gut aus.
-",,"das Beste an ihm
+",None,"das Beste an ihm
 der beste Teil des Fleisches
 der beste Blick über das Land
 Bitte um beste Aufmerksamkeit
@@ -1379,60 +1972,8 @@ alles ist in Ordnung
 Alles wird gut.
 und das ganze Drumherum
 Irgendwo muss man Abstriche machen.
-",,"Er ist ein lustiger Kerl.
+",None,"Er ist ein lustiger Kerl.
 Was soll daran so lustig sein?
 Ich finde das gar nicht lustig.
 Sie macht sich nur über Sie lustig.
-","Es ist wichtig.
-Es ist nicht sehr wichtig.
-Es ist nicht so wichtig
-Es ist wichtig
-Es ist wichtig zu
-Es ist wichtig zu unterscheiden
-die Nachricht ist wichtig.
-eine wichtige Nachricht
-Ich habe Wichtigeres zu tun.
-Ich teilte ihm das Wichtigste mit.
-","sofern nichts anderes bestimmt ist
-ein anderes Land
-irgendein anderes Land
-Das ist etwas Anderes.
-Es bleibt einem nichts anderes übrig als zu ...
-Ich bin anderer Ansicht.
-Er ist anderer Meinung.
-Sie nimmt keine Rücksicht auf die Gefühle anderer.
-Sie nimmt keine Rücksicht auf die Gefühle anderer.
-vorbehaltlich anderer Vereinbarung
-alle anderen Bedingungen des Kredits
-allem anderen überlegen
-frei von anderen Abgaben
-getrennt von anderen Geschäften
-","Was gibt es Neues?
-Ihr neues Album ist ein Hammer [coll.]
-haben ein neues Aussehen erhalten
-eine neu gegründete Firma
-Die Zeit ist reif, neu anzufangen.
-Das ist mir neu.
-Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
-neue Rechnung anbei
-eine neue Filiale unseres Geschäftes
-eine neue weltwirtschaftliche Ordnung
-die neuen Richtlinien ersetzen die alten
-Ihr neuer Hut steht ihr gut.
-eine neue Firma
-Ich habe etwas Suppe auf meine neue Bluse gekleckert!
-","Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
-die neuen Richtlinien ersetzen die alten
-Da war er, in seiner funkelnden neuen Uniform.
-werden nach neuen Preisen berechnet
-Der Hersteller veranstaltete eine Präsentation seiner neuen Produktlinie.
-ein großer Kontinent, der für die neuen Siedler zu haben war
-mit der Hilfe eines neuen Teilhabers
-Wir halten nach einem neuen Markt Ausschau.
-eine neu gegründete Firma
-Die Zeit ist reif, neu anzufangen.
-Das ist mir neu.
-neue Rechnung anbei
-eine neue Filiale unseres Geschäftes
-eine neue weltwirtschaftliche Ordnung
 "

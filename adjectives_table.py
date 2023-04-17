@@ -32,6 +32,8 @@ class AdjectivesCache(pd.DataFrame):
             super().__init__(pd.read_csv(ADJECTIVES_CACHE_FILE,
                                          index_col=['aspects', 'language']))
 
+        self.fillna(value="None", inplace=True)
+
     def get_adjective(self, adjective, aspect, language):
         adjective_df = self[adjective]
         if adjective_df is not None:
@@ -71,12 +73,16 @@ class AdjectivesCache(pd.DataFrame):
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
             # print("scrapping for noun ...")
-            new_noun = nouns_definition_parser(key)
-            for aspect, languages in new_noun.items():
-                if languages is not None:
-                    self.loc[(aspect, 'english'), key] = languages[0]
-                    self.loc[(aspect, 'german'), key] = languages[1]
-            return self[key]
+            new_noun = nouns_definition_parser('adjectives_table', key)
+            if new_noun:
+                for aspect, languages in new_noun.items():
+                    if languages is not None:
+                        self.loc[(aspect, 'english'), key] = languages[0]
+                        self.loc[(aspect, 'german'), key] = languages[1]
+                self.to_csv(ADJECTIVES_CACHE_FILE, index=True)
+                return self[key]
+            else:
+                return None
 
 
 if __name__ == "__main__":

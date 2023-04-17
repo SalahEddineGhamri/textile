@@ -2,29 +2,38 @@ from multiprocessing import Process
 from time import sleep
 from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
 from config import INPUT_PATH, ANKI_PATH
-from nouns_table import NounsCache
-from verbs_table import VerbsCache
+from nouns_table import NOUN_CACHE
+from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from adjectives_table import AdjectivesCache
 from adverbs_table import AdverbsCache
 from prepositions_table import PrepositionsCache
+from nouns_agents import split_hyphenated_string
 
 
 def extract_info(noun, noun_details):
     # i puted it in english to save form
     details = noun_details['english']
-    details = details.split('\n')
+    if details != 'None' and details is not None:
+        details = details.split('\n')
 
-    article = details[0].split(':')[1].strip()
-    word = details[1].split(':')[1].strip()
-    plural = details[3].split(':')[1].strip()
-    meaning = details[4].split(':')[1].strip()
+        article = details[0].split(':')[1].strip()
+        word = details[1].split(':')[1].strip()
+        plural = details[3].split(':')[1].strip()
+        meaning = details[4].split(':')[1].strip()
 
-    return {
-        'Noun': noun,
-        'English': meaning,
-        'FullNoun': article + " " + word,
-        'Plural': plural,
-    }
+        return {
+            'Noun': noun,
+            'English': meaning,
+            'FullNoun': article + " " + word,
+            'Plural': plural,
+        }
+    else:
+        return {
+            'Noun': "",
+            'English': "",
+            'FullNoun': "",
+            'Plural': "",
+        }
 
 
 def generate_html_table(column1, column2, column3):
@@ -60,21 +69,28 @@ class AnkiGenerationAgent(Process):
         self.blackboard = blackboard
         deck_name = INPUT_PATH.split('/')[-1].split(".")[0]
         self.anki_generator = AnkiGenerator(deck_name)
-        self.noun_cache = NounsCache()
-        self.verb_cache = VerbsCache()
-        self.adjective_cache = AdjectivesCache()
-        self.adverb_cache = AdverbsCache()
-        self.preposition_cache = PrepositionsCache()
+        self.noun_cache = NOUN_CACHE
+        self.verb_meaning_cache = VERBS_MEANING_CACHE
+        self.verb_conjugation_cache = VERBS_CONJUGATION_CACHE
+        self.adjective_cache = blackboard['adjective_cache']
+        self.adverb_cache = blackboard['adverb_cache']
+        self.preposition_cache = blackboard['preposition_cache']
 
 
     def add_nouns(self):
-        nouns = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN'), 'text']
-        nouns = nouns.drop_duplicates()
-        nouns = nouns.tolist()
+        df = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN')]
+
+        # add more possiblities for hyphen words
+        nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].drop_duplicates().tolist()
+        nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].drop_duplicates().tolist()
+        nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
+
+        nouns = nouns_without_hyphen + nouns_with_hyphen
+
         for noun in nouns:
             nc = self.noun_cache[noun]
             if nc is not None:
-                if nc['nouns']['english'] != "None":
+                if nc['nouns']['english'] != "None" and nc['noun_details'][0] != 'None':
                     inputs = list(extract_info(noun, nc['noun_details']).values())
                     if all(inputs) != '':
                         anki_noun_note = NounNote(inputs)
@@ -88,17 +104,17 @@ class AnkiGenerationAgent(Process):
         verbs = list(set(verbs))
         for verb, lemma in verbs:
             meaning = ""
-            nc = self.noun_cache[verb]
+            nc = self.verb_meaning_cache[verb]
             if nc is not None:
                 if nc['verbs']['english'] != "None":
                     meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
             else:
-                nc = self.noun_cache[lemma]
+                nc = self.verb_meaning_cache[lemma]
                 if nc is not None:
                     if nc['verbs']['english'] != "None":
                         meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
 
-            vc = self.verb_cache[verb]
+            vc = self.verb_conjugation_cache[verb]
             if vc is not None:
                 column1 = vc['indicative_active']['Present']
                 column2 = vc['indicative_active']['Imperfect']
@@ -118,8 +134,9 @@ class AnkiGenerationAgent(Process):
         for word in words:
             nc = self.adjective_cache[word]
             if nc is not None:
-                english_text = self.adjective_cache[word]['adjectives_or_adverbs']['english']
-                german_text = self.adjective_cache[word]['adjectives_or_adverbs']['german']
+                english_text = str(nc['adjectives_or_adverbs']['english'])
+                german_text = str(nc['adjectives_or_adverbs']['german'])
+
                 inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
                 if all(inputs) != '':
                     anki_note = GeneralNote(inputs)
@@ -132,8 +149,8 @@ class AnkiGenerationAgent(Process):
         for word in words:
             nc = self.adverb_cache[word]
             if nc is not None:
-                english_text = self.adverb_cache[word]['adjectives_or_adverbs']['english']
-                german_text = self.adverb_cache[word]['adjectives_or_adverbs']['german']
+                english_text = str(nc['adjectives_or_adverbs']['english'])
+                german_text = str(nc['adjectives_or_adverbs']['german'])
                 inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
                 if all(inputs) != '':
                     anki_note = GeneralNote(inputs)
@@ -146,8 +163,8 @@ class AnkiGenerationAgent(Process):
         for word in words:
             nc = self.preposition_cache[word]
             if nc is not None:
-                english_text = self.preposition_cache[word]['examples']['english']
-                german_text = self.preposition_cache[word]['examples']['german']
+                english_text = str(nc['adjectives_or_adverbs']['english'])
+                german_text = str(nc['adjectives_or_adverbs']['german'])
                 inputs = [word, english_text.replace('\n', '<br>'), german_text.replace('\n', '<br>')]
                 if all(inputs) != '':
                     anki_note = GeneralNote(inputs)

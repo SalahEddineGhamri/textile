@@ -12,6 +12,10 @@ from adverbs_agents import AdverbsAgent
 from prepositions_agents import PrepositionsAgent
 from text_agents import TextAgent
 
+from adverbs_table import AdverbsCache
+from adjectives_table import AdjectivesCache
+from prepositions_table import PrepositionsCache
+
 
 class Blackboard:
     def __init__(self, input_path):
@@ -33,6 +37,11 @@ class Blackboard:
 
         # stages: None - 'started' - 'done'
         self.manager['stages'] = stages
+
+        # get caches
+        self.manager['adjective_cache'] = AdjectivesCache()
+        self.manager['adverb_cache'] = AdverbsCache()
+        self.manager['preposition_cache'] = PrepositionsCache()
 
         self.manager['stages']['input_read'] = 'STARTED'
         with File(input_path, "r") as f:

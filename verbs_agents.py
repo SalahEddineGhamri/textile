@@ -1,7 +1,6 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
-from nouns_table import NounsCache
-from verbs_table import VerbsCache
+from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
@@ -13,8 +12,8 @@ class VerbsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.noun_cache = NounsCache()
-        self.verb_cache = VerbsCache()
+        self.verb_meaning_cache = VERBS_MEANING_CACHE
+        self.verb_conjugation_cache = VERBS_CONJUGATION_CACHE
         self.blackboard['verbs_rich_text'] = ""
         self.blackboard['verbs_rich_analysis'] = ""
 
@@ -22,8 +21,8 @@ class VerbsAgent(Process):
         df = self.blackboard['analyzed_text']
         verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
         for verb in verbs_list:
-            self.verb_cache[verb]
-        self.verb_cache.cache()
+            self.verb_conjugation_cache[verb]
+        self.verb_conjugation_cache.cache()
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "VERB")
@@ -71,8 +70,8 @@ class VerbsAgent(Process):
         df = self.blackboard['analyzed_text']
 
         # Cache frequently used data
-        verb_cache = self.verb_cache
-        noun_cache = self.noun_cache
+        verb_conjugation_cache = self.verb_conjugation_cache
+        verb_meaning_cache = self.verb_meaning_cache
 
         # Vectorize DataFrame operations
         verbs_df = df.loc[df['pos_'] == 'VERB', ['text', 'lemma_']]
@@ -83,7 +82,7 @@ class VerbsAgent(Process):
         tables = []
         with ThreadPoolExecutor() as executor:
             # Multi-threaded generation of tables
-            future_to_verb = {executor.submit(self._generate_verb_table, verb, lemma, noun_cache, verb_cache, row_nbr): verb for verb, lemma in zip(verbs, lemmas)}
+            future_to_verb = {executor.submit(self._generate_verb_table, verb, lemma, verb_meaning_cache, verb_conjugation_cache, row_nbr): verb for verb, lemma in zip(verbs, lemmas)}
             for future in concurrent.futures.as_completed(future_to_verb):
                 verb = future_to_verb[future]
                 try:
@@ -95,13 +94,13 @@ class VerbsAgent(Process):
 
         self.blackboard['verbs_rich_analysis'] = tables
 
-    def _generate_verb_table(self, verb, lemma, noun_cache, verb_cache, row_nbr):
-        df = noun_cache.get(verb)
+    def _generate_verb_table(self, verb, lemma, verb_meaning_cache, verb_conjugation_cache, row_nbr):
+        df = verb_meaning_cache[verb]
         if df is None:
             return None
         df.fillna(value="None", inplace=True)
-        english_text = noun_cache[verb]['verbs']['english']
-        german_text = noun_cache[verb]['verbs']['german']
+        english_text = df['verbs']['english']
+        german_text = df['verbs']['german']
 
         english_text = english_text.split('\n')
         german_text = german_text.split('\n')
@@ -113,7 +112,7 @@ class VerbsAgent(Process):
             meaning_table.add_row(eng, ger)
 
         # verbs conjugation
-        conj_tables = verb_cache.get(verb, {}).get('indicative_active')
+        conj_tables = verb_conjugation_cache.get(verb, {}).get('indicative_active')
         if conj_tables is not None:
             conj_tables.fillna(value="None", inplace=True)
             table = Table()
@@ -124,7 +123,7 @@ class VerbsAgent(Process):
             if "None" not in conj_tables.values:
                 table.add_row(conj_tables['Present'], conj_tables['Imperfect'], conj_tables['Perfect'], conj_tables['Future'])
             else:
-                conj_tables = verb_cache.get(lemma, {}).get('indicative_active')
+                conj_tables = verb_conjugation_cache.get(lemma, {}).get('indicative_active')
                 if conj_tables is not None:
                     conj_tables.fillna(value="None", inplace=True)
                     table.add_row(conj_tables['Present'], conj_tables['Imperfect'], conj_tables['Perfect'], conj_tables['Future'])
@@ -139,11 +138,11 @@ class VerbsAgent(Process):
         verbs_list = verbs_df['text'].tolist()
         lemmas_list = verbs_df['lemma_'].tolist()
 
-        noun_cache = self.noun_cache
-        verb_cache = self.verb_cache
+        verb_meaning_cache = self.verb_meaning_cache
+        verb_conjugation_cache = self.verb_conjugation_cache
 
         for verb, lemma in zip(verbs_list, lemmas_list):
-            df = noun_cache[verb]
+            df = verb_meaning_cache[verb]
             if df is None:
                 continue
             df.fillna(value="None", inplace=True)
@@ -161,7 +160,7 @@ class VerbsAgent(Process):
             tables.append(table)
 
             # verbs conjugation
-            conj_tables = verb_cache[verb]['indicative_active']
+            conj_tables = verb_conjugation_cache[verb]['indicative_active']
             conj_tables.fillna(value="None", inplace=True)
             table = Table()
             table.add_column("Present", justify="left", no_wrap=False)
@@ -174,7 +173,7 @@ class VerbsAgent(Process):
                               conj_tables['Perfect'],
                               conj_tables['Future'])
             else:
-                conj_tables = verb_cache[lemma]['indicative_active']
+                conj_tables = verb_conjugation_cache[lemma]['indicative_active']
                 conj_tables.fillna(value="None", inplace=True)
                 table.add_row(conj_tables['Present'],
                               conj_tables['Imperfect'],
@@ -193,6 +192,6 @@ class VerbsAgent(Process):
         self.blackboard['stages']['analyzed_verbs'] = 'Analyzed verbs!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich text!'
-        self.generate_rich_analysis_mt()
+        self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich analysis!'
         self.blackboard['stages']['analyzed_verbs'] = 'DONE'

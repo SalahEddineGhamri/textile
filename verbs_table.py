@@ -1,17 +1,72 @@
 # contains a cache for verbs
 import warnings
 import pandas as pd
-from config import VERBS_CACHE_FILE
+from config import VERBS_CONJUGATION_CACHE_FILE, VERBS_MEANING_CACHE_FILE
 from verb_conjugation_scapper import scrapp_for_verb
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
+import multiprocessing
 
 # TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
 
-class VerbsCache(pd.DataFrame):
+class VerbsMeaningCache(pd.DataFrame):
+    aspects = ["basic_forms",
+               "verbs",
+               "nouns",
+               "noun_details",
+               "adjectives_or_adverbs",
+               "phrases_or_collocations",
+               "examples"]
+
+    language = ["english", "german"]
+
+    index = pd.MultiIndex.from_product([aspects, language],
+                                       names=('aspects', 'language'))
+
+    def __init__(self):
+        if not VERBS_MEANING_CACHE_FILE.exists():
+            super().__init__(index=self.index)
+        else:
+            super().__init__(pd.read_csv(VERBS_MEANING_CACHE_FILE,
+                                         index_col=['aspects', 'language']))
+        self.lock = multiprocessing.Lock()
+
+    def cache(self):
+        with self.lock:
+            try:
+                if super().empty:
+                    return False
+                if not VERBS_MEANING_CACHE_FILE:
+                    return False
+                super().to_csv(VERBS_MEANING_CACHE_FILE, index=True)
+                return True
+            except Exception as e:
+                return False
+
+    def __getitem__(self, key):
+        with self.lock:
+            if key in self.columns:
+                return super().__getitem__(key)
+            else:
+                sleep_interval = random.uniform(0.1, 0.4)
+                time.sleep(sleep_interval)
+                new_verb = nouns_definition_parser('verbs_table', key)
+                if new_verb is not None:
+                    if new_verb['verbs']:
+                        for aspect, languages in new_verb.items():
+                            if languages is not None:
+                                self.loc[(aspect, 'english'), key] = languages[0]
+                                self.loc[(aspect, 'german'), key] = languages[1]
+                        self.to_csv(VERBS_MEANING_CACHE_FILE, index=True)
+                        return super().__getitem__(key)
+                else:
+                    return None
+
+
+class VerbsConjugationCache(pd.DataFrame):
 
     voices = ['indicative_active',
               'subjunctive_active',
@@ -34,10 +89,10 @@ class VerbsCache(pd.DataFrame):
                                        names=('voice', 'tense'))
 
     def __init__(self):
-        if not VERBS_CACHE_FILE.exists():
+        if not VERBS_CONJUGATION_CACHE_FILE.exists():
             super().__init__(index=self.index)
         else:
-            super().__init__(pd.read_csv(VERBS_CACHE_FILE,
+            super().__init__(pd.read_csv(VERBS_CONJUGATION_CACHE_FILE,
                                          index_col=['voice', 'tense']))
 
     def get_verb(self, verb, voice, tense):
@@ -60,11 +115,11 @@ class VerbsCache(pd.DataFrame):
                 # print('The DataFrame is empty')
                 return False
 
-            if not VERBS_CACHE_FILE:
+            if not VERBS_CONJUGATION_CACHE_FILE:
                 # print('The file path is empty')
                 return False
 
-            super().to_csv(VERBS_CACHE_FILE, index=True)
+            super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
             # print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
             return True
 
@@ -85,11 +140,17 @@ class VerbsCache(pd.DataFrame):
             for (voice, tense), values in new_verb.items():
                 if values[key] is not None:
                     self.loc[(voice, tense), key] = values[key]
+            super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
             return self[key]
 
+VERBS_CONJUGATION_CACHE = VerbsConjugationCache()
+VERBS_MEANING_CACHE = VerbsMeaningCache()
 
 if __name__ == "__main__":
-    verb_cache = VerbsCache()
-    df = verb_cache['gehen']['indicative_active']
+    verb_meaning_cache = VerbsMeaningCache()
+    df = verb_meaning_cache['machen']
+    print(df)
+    verb_conjugation_cache = VerbsConjugationCache()
+    df = verb_conjugation_cache['gehen']['indicative_active']
     print(df.values)
-    verb_cache.cache()
+    verb_conjugation_cache.cache()

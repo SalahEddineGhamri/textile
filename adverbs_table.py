@@ -68,15 +68,19 @@ class AdverbsCache(pd.DataFrame):
         try:
             return super().__getitem__(key)
         except KeyError:
-            sleep_interval = random.uniform(0.1, 0.3)
+            sleep_interval = random.uniform(0.1, 0.7)
             time.sleep(sleep_interval)
             # print("scrapping for noun ...")
-            new_noun = nouns_definition_parser(key)
-            for aspect, languages in new_noun.items():
-                if languages is not None:
-                    self.loc[(aspect, 'english'), key] = languages[0]
-                    self.loc[(aspect, 'german'), key] = languages[1]
-            return self[key]
+            new_noun = nouns_definition_parser('adverbs_table', key)
+            if new_noun is not None:
+                for aspect, languages in new_noun.items():
+                    if languages is not None:
+                        self.loc[(aspect, 'english'), key] = languages[0]
+                        self.loc[(aspect, 'german'), key] = languages[1]
+                self.to_csv(ADVERBS_CACHE_FILE, index=True)
+                return self[key]
+            else:
+                return None
 
 
 if __name__ == "__main__":

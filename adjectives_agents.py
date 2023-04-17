@@ -10,7 +10,7 @@ class AdjectivesAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.adjective_cache = AdjectivesCache()
+        self.adjective_cache = blackboard['adjective_cache']
         self.blackboard['adjectives_rich_text'] = ""
         self.blackboard['adjectives_rich_analysis'] = ""
 

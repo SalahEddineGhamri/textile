@@ -5,7 +5,8 @@ from config import NOUNS_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
-# TODO: create a blacklist for nouns which are not nouns
+import sys
+import multiprocessing
 
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
@@ -26,11 +27,13 @@ class NounsCache(pd.DataFrame):
                                        names=('aspects', 'language'))
 
     def __init__(self):
+        # get nouns cache
         if not NOUNS_CACHE_FILE.exists():
             super().__init__(index=self.index)
         else:
             super().__init__(pd.read_csv(NOUNS_CACHE_FILE,
                                          index_col=['aspects', 'language']))
+
         self.fillna(value="None", inplace=True)
 
     def get_noun(self, noun, aspect, language):
@@ -53,48 +56,52 @@ class NounsCache(pd.DataFrame):
     def cache(self):
         try:
             if super().empty:
-                print('The DataFrame is empty')
                 return False
-
             if not NOUNS_CACHE_FILE:
-                print('The file path is empty')
                 return False
-
             super().to_csv(NOUNS_CACHE_FILE, index=True)
-            # print(f'------->>>> DataFrame has been written to {NOUNS_CACHE_FILE}')
             return True
-
         except Exception as e:
-            # print(f'An error occurred while writing to file: {e}')
             return False
 
     def __getitem__(self, key):
-        try:
+        if key in self.columns:
             return super().__getitem__(key)
-        except KeyError:
-            # TODO: workarround to till solution
-            if "-" in key:
+        else:
+            # check if word is blacklisted
+            if not isinstance(key, str):
                 return None
+
             sleep_interval = random.uniform(0.1, 0.4)
             time.sleep(sleep_interval)
-            # print(f"scrapping for noun ...{key}")
-            new_noun = nouns_definition_parser(key)
+            new_noun = nouns_definition_parser('nouns_table', key)
+
             if new_noun is not None:
-                if new_noun['nouns'] or new_noun['verbs']:
+                # the most important is nouns
+                if new_noun['nouns'] is not None:
+                    self[key] = pd.Series(index=self.index, dtype='object')
                     for aspect, languages in new_noun.items():
                         if languages is not None:
                             self.loc[(aspect, 'english'), key] = languages[0]
                             self.loc[(aspect, 'german'), key] = languages[1]
-                    return self[key]
+                    self.to_csv(NOUNS_CACHE_FILE, index=True)
+                    return super().loc[(slice(None), slice(None)), key]
                 else:
+                    print("elsed no nouns - not blacklisted", key)
                     return None
+            else:
+                print("noun parsed no return ", key)
+                return None
 
+
+NOUN_CACHE = NounsCache()
 
 if __name__ == "__main__":
-    word = 'beitreten'
+    #word = sys.argv[1]
     noun_cache = NounsCache()
-    #noun_cache.delete_noun(word)
-    print(noun_cache[word])
-    # noun_cache.fillna(value="None", inplace=True)
+    noun_cache['leben']
+    #noun_cache.delete_noun('leben')
+    for key in noun_cache.columns:
+        print("---- ", key)
+        print(noun_cache[key])
     # print(word in noun_cache.columns)
-    noun_cache.cache()

@@ -1,6 +1,5 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
-from adverbs_table import AdverbsCache
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
@@ -10,16 +9,15 @@ class AdverbsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.cache = AdverbsCache()
+        self.cache = blackboard['adverb_cache']
         self.blackboard['adverbs_rich_text'] = ""
         self.blackboard['adverbs_rich_analysis'] = ""
 
     def analyze(self):
         df = self.blackboard['analyzed_text']
         adverbs_list = df.loc[(df['pos_'] == 'ADV'), 'text'].tolist()
-        for adjective in adverbs_list:
-            self.cache[adjective]
-        self.cache.cache()
+        for adverb in adverbs_list:
+            self.cache[adverb]
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "ADV")

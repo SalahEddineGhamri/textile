@@ -4,9 +4,26 @@ import bs4
 import warnings
 from german_nouns.lookup import Nouns
 import sys
+import pandas as pd
+from config import BLACKLIST_CACHE_FILE
 # TODO: should use other sources for scrapping like
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
+import multiprocessing
 
+lock = multiprocessing.Lock()
+
+class BlacklistCache(pd.DataFrame):
+    def __init__(self):
+        # get blacklisted words
+        if not BLACKLIST_CACHE_FILE.exists():
+            super().__init__(columns=['word'])
+        else:
+            super().__init__(pd.read_csv(BLACKLIST_CACHE_FILE,
+                                         header=None,
+                                         names=['word']))
+
+
+BLACKLIST = BlacklistCache()
 
 with warnings.catch_warnings():
     warnings.simplefilter("ignore", ResourceWarning)
@@ -53,7 +70,9 @@ def base_forms(possible_table):
             word_type = entry.text.strip().split()[-1].strip('()')
             word = ' '.join(entry.text.strip().split()[:-1])
             base_forms += f"{word} : {word_type}\n"
-        return (base_forms, None)
+        return (base_forms, "")
+    else:
+        return None
 
 
 def parse(table):
@@ -72,6 +91,8 @@ def parse(table):
                 german_ += f"{words}\n"
 
         return english_, german_
+    else:
+        return None
 
 
 def extract_noun_details(entry):
@@ -107,38 +128,52 @@ def extract_noun_details(entry):
             'meaning': meaning}
 
 
-def nouns_definition_parser(word):
-    response = requests.get(url + word, headers=headers)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    page_content = split_page_content(word, soup)
-    basic_forms = base_forms(page_content["Possible"])
-    verbs = parse(page_content["Verbs"])
-    nouns = parse(page_content["Nouns"])
-    adjectives_or_adverbs = parse(page_content["Adjectives_or_Adverbs"])
-    phrases_or_collocations = parse(page_content["Phrases_or_Collocations"])
-    examples = parse(page_content["Examples"])
+def nouns_definition_parser(caller, word):
+    with lock:
+        if word in BLACKLIST['word'].values:
+            return None
+        print(f"[ ALERT ] parsing ... {word} for {caller}")
 
-    # TODO: parse table here to correct the plural and gender
-    """
-    data-dz-ui="dictentry:showFlecttab"
-    """
+        response = requests.get(url + word, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
+        page_content = split_page_content(word, soup)
+        basic_forms = base_forms(page_content["Possible"])
+        verbs = parse(page_content["Verbs"])
+        nouns = parse(page_content["Nouns"])
+        adjectives_or_adverbs = parse(page_content["Adjectives_or_Adverbs"])
+        phrases_or_collocations = parse(page_content["Phrases_or_Collocations"])
+        examples = parse(page_content["Examples"])
 
-    noun_details = ""
-    # if nouns add more details, these are the absolute truth
-    if nouns:
-        details = extract_noun_details(nouns)
-        nouns_definition_nouns(word, details)
-        for key, value in details.items():
-            noun_details += f"{key}: {value}\n"
-    noun_details = (noun_details, None)
+        # TODO: parse table here to correct the plural and gender
+        """
+        data-dz-ui="dictentry:showFlecttab"
+        """
 
-    return {"basic_forms": basic_forms,
-            "verbs": verbs,
-            "nouns": nouns,
-            "noun_details": noun_details,
-            "adjectives_or_adverbs": adjectives_or_adverbs,
-            "phrases_or_collocations": phrases_or_collocations,
-            "examples": examples}
+        noun_details = None
+
+        result = {"basic_forms": basic_forms,
+                  "verbs": verbs,
+                  "nouns": nouns,
+                  "noun_details": noun_details,
+                  "adjectives_or_adverbs": adjectives_or_adverbs,
+                  "phrases_or_collocations": phrases_or_collocations,
+                  "examples": examples}
+
+        if all(ele is None for ele in result.values()):
+            # blacklist this key
+            BLACKLIST.loc[len(BLACKLIST)] = [word]
+            BLACKLIST.to_csv(BLACKLIST_CACHE_FILE, index=False, header=False)
+            return None
+
+        # if nouns add more details, these are the absolute truth
+        noun_details = ""
+        if nouns:
+            details = extract_noun_details(nouns)
+            nouns_definition_nouns(word, details)
+            for key, value in details.items():
+                noun_details += f"{key}: {value}\n"
+        result['noun_details'] = (noun_details, "")
+        return result
 
 
 # adds more to nouns

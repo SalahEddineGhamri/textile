@@ -10,7 +10,7 @@ class PrepositionsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.cache = PrepositionsCache()
+        self.cache = blackboard['preposition_cache']
         self.blackboard['prepositions_rich_text'] = ""
         self.blackboard['prepositions_rich_analysis'] = ""
 

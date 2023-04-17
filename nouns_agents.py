@@ -1,10 +1,9 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
-from nouns_table import NounsCache
-from verbs_table import VerbsCache
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
+from nouns_table import NOUN_CACHE
 
 
 def split_hyphenated_string(s):
@@ -25,8 +24,6 @@ class NounsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.noun_cache = NounsCache()
-        self.verb_cache = VerbsCache()
         self.blackboard['nouns_rich_text'] = ""
         self.blackboard['nouns_rich_analysis'] = ""
 
@@ -34,18 +31,14 @@ class NounsAgent(Process):
         # trigger meaning parsing for all nouns
         df = self.blackboard['analyzed_text']
         df = df.loc[df['pos_'] == 'NOUN']
-
         # add more possiblities for hyphen words
         nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
         nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].tolist()
-
         nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
         nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
-
+        print("nouns ", nouns_list)
         for noun in nouns_list:
-            self.noun_cache[noun]
-        self.noun_cache.cache()
-        self.blackboard['stages']['analyzed_nouns'] = 'DONE'
+            NOUN_CACHE[noun]
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "NOUN")
@@ -57,19 +50,15 @@ class NounsAgent(Process):
                 text.append('\n')
                 text_width = 0
                 continue
-
             if text_width >= width:
                 text.append('\n')
                 text_width = 0
-
             if index != 0 and row['pos_'] != 'PUNCT' and text_width != 0:
                 text.append(" ")
                 text_width += 1
-
             style = Style(color=row['color'])
             text.append(row['text'], style=style)
             text_width += len(row['text'])
-
             if row['highlight']:
                 # meta
                 text.append(" ")
@@ -79,7 +68,6 @@ class NounsAgent(Process):
                               dim=True)
                 text.append(f" {''.join(row['meta'])} ", style=style)
                 text_width += len(''.join(row['meta']))
-
                 # lemma_
                 style = Style(color=row['color'],
                               bgcolor=colors_definitions["White"],
@@ -104,14 +92,13 @@ class NounsAgent(Process):
         nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
 
         for element in nouns_list:
-            df = self.noun_cache[element]
+            df = NOUN_CACHE[element]
             if df is None:
                 continue
             df.fillna(value="None", inplace=True)
-            english_text = self.noun_cache[element]['nouns']['english']
-            german_text = self.noun_cache[element]['nouns']['german']
-
-            noun_details = self.noun_cache[element]['noun_details']['english'].split('\n')
+            english_text = df['nouns']['english']
+            german_text = df['nouns']['german']
+            noun_details = df['noun_details']['english'].split('\n')
 
             if len(noun_details) > 2:
                 noun_gender = noun_details[2]
