@@ -16,10 +16,22 @@ def extract_info(noun, noun_details):
     if details != 'None' and details is not None:
         details = details.split('\n')
 
-        article = details[0].split(':')[1].strip()
-        word = details[1].split(':')[1].strip()
-        plural = details[3].split(':')[1].strip()
-        meaning = details[4].split(':')[1].strip()
+        try:
+            article = details[0].split(':')[1].strip()
+        except:
+            article = ""
+        try:
+            word = details[1].split(':')[1].strip()
+        except:
+            word = ""
+        try:
+            plural = details[3].split(':')[1].strip()
+        except:
+            plural = ""
+        try:
+            meaning = details[4].split(':')[1].strip()
+        except:
+            meaning = ""
 
         return {
             'Noun': noun,
@@ -69,13 +81,6 @@ class AnkiGenerationAgent(Process):
         self.blackboard = blackboard
         deck_name = INPUT_PATH.split('/')[-1].split(".")[0]
         self.anki_generator = AnkiGenerator(deck_name)
-        self.noun_cache = NOUN_CACHE
-        self.verb_meaning_cache = VERBS_MEANING_CACHE
-        self.verb_conjugation_cache = VERBS_CONJUGATION_CACHE
-        self.adjective_cache = ADJECTIVES_CACHE
-        self.adverb_cache = ADVERBS_CACHE
-        self.preposition_cache = PREPOSITIONS_CACHE
-
 
     def add_nouns(self):
         df = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN')]
@@ -88,7 +93,7 @@ class AnkiGenerationAgent(Process):
         nouns = nouns_without_hyphen + nouns_with_hyphen
 
         for noun in nouns:
-            nc = self.noun_cache[noun]
+            nc = NOUN_CACHE[noun]
             if nc is not None:
                 if nc['nouns']['english'] != "None" and nc['noun_details'][0] != 'None':
                     inputs = list(extract_info(noun, nc['noun_details']).values())
@@ -104,17 +109,17 @@ class AnkiGenerationAgent(Process):
         verbs = list(set(verbs))
         for verb, lemma in verbs:
             meaning = ""
-            nc = self.verb_meaning_cache[verb]
+            nc = VERBS_MEANING_CACHE[verb]
             if nc is not None:
                 if nc['verbs']['english'] != "None":
                     meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
             else:
-                nc = self.verb_meaning_cache[lemma]
+                nc = VERBS_MEANING_CACHE[lemma]
                 if nc is not None:
                     if nc['verbs']['english'] != "None":
                         meaning = " ".join(nc['verbs']['english'].split('\n')[:3])
 
-            vc = self.verb_conjugation_cache[verb]
+            vc = VERBS_CONJUGATION_CACHE[verb]
             if vc is not None:
                 column1 = vc['indicative_active']['Present']
                 column2 = vc['indicative_active']['Imperfect']
@@ -132,7 +137,7 @@ class AnkiGenerationAgent(Process):
         words = words.drop_duplicates()
         words = words.tolist()
         for word in words:
-            nc = self.adjective_cache[word]
+            nc = ADJECTIVES_CACHE[word]
             if nc is not None:
                 english_text = str(nc['adjectives_or_adverbs']['english'])
                 german_text = str(nc['adjectives_or_adverbs']['german'])
@@ -147,7 +152,7 @@ class AnkiGenerationAgent(Process):
         words = words.drop_duplicates()
         words = words.tolist()
         for word in words:
-            nc = self.adverb_cache[word]
+            nc = ADVERBS_CACHE[word]
             if nc is not None:
                 english_text = str(nc['adjectives_or_adverbs']['english'])
                 german_text = str(nc['adjectives_or_adverbs']['german'])
@@ -161,7 +166,7 @@ class AnkiGenerationAgent(Process):
         words = words.drop_duplicates()
         words = words.tolist()
         for word in words:
-            nc = self.preposition_cache[word]
+            nc = PREPOSITIONS_CACHE[word]
             if nc is not None:
                 english_text = str(nc['adjectives_or_adverbs']['english'])
                 german_text = str(nc['adjectives_or_adverbs']['german'])

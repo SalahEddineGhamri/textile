@@ -35,40 +35,39 @@ class AdverbsCache(pd.DataFrame):
         self.lock = Lock()
 
     def cache(self):
-        with self.lock:
-            try:
-                if super().empty:
-                    return False
-                if not ADVERBS_CACHE_FILE:
-                    return False
-                super().to_csv(ADVERBS_CACHE_FILE, index=True)
-                return True
-            except Exception:
+        try:
+            if super().empty:
                 return False
+            if not ADVERBS_CACHE_FILE:
+                return False
+            with self.lock:
+                super().to_csv(ADVERBS_CACHE_FILE, index=True)
+            return True
+        except Exception:
+            return False
 
     def __getitem__(self, key):
-            try:
-                return super().__getitem__(key)
-            except KeyError:
-                with self.lock:
-                    sleep_interval = random.uniform(0.1, 2)
-                    time.sleep(sleep_interval)
+        if key in self.columns:
+            return super().__getitem__(key)
+        else:
+            with self.lock:
+                sleep_interval = random.uniform(0.1, 2)
+                time.sleep(sleep_interval)
 
-                    new_noun = nouns_definition_parser('adverbs_table', key)
+                new_noun = nouns_definition_parser('adverbs_table', key)
 
-                    if new_noun is not None:
-                        if new_noun['adjectives_or_adverbs'] is not None:
-                            self[key] = pd.Series(index=self.index, dtype='object')
-                            for aspect, languages in new_noun.items():
-                                if languages is not None:
-                                    self.loc[(aspect, 'english'), key] = languages[0]
-                                    self.loc[(aspect, 'german'), key] = languages[1]
-                            self.to_csv(ADVERBS_CACHE_FILE, index=True)
-                            return super().loc[(slice(None), slice(None)), key]
-                        else:
-                            return None
+                if new_noun is not None:
+                    if new_noun['adjectives_or_adverbs'] is not None:
+                        self[key] = pd.Series(index=self.index, dtype='object')
+                        for aspect, languages in new_noun.items():
+                            if languages is not None:
+                                self.loc[(aspect, 'english'), key] = languages[0]
+                                self.loc[(aspect, 'german'), key] = languages[1]
+                        return super().loc[(slice(None), slice(None)), key]
                     else:
                         return None
+                else:
+                    return None
 
 
 ADVERBS_CACHE = AdverbsCache()

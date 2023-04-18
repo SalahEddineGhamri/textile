@@ -1,11 +1,32 @@
-aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank
-basic_forms,english,,"das Jahr : Noun
+aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Richter,Monat,Gericht,Fall,Staatsanwalt,Strafprozess,Strafe,Geschäftsunterlagen,Stadt,Verbotenes,Wahl,Land,Januar,Präsident,Gerichtstermin,Wahrheit, Bündnis,Mitgliedsländer, Quartier,Hauptquartier,Russland,Militär,Mitglied,Nato,Mitglieds,Erweiterung,General,Generalsekretär,Beitritt, Länder,Militärbündnis,Fahne, Mitglied,Haupt,Länder,Regierung,Mitglieder, Sekretär,Feier,Schriftsteller,Krieg, Musik,Millionen,Soldat,Welt, Führung, Krieg,Westen, Salon, Preisen, Bild,Filmpreisen,Waschsalon,Kamera,Jahr,Besitzerin,Szenen,Kameraführung,Menschen,Grippe,Fieber,Alternative,Kinder,Essen,Besserung,Rezept,leben,Sohn,Viren,Podcast,Husten,Erkältung,Saft,Dialog,Moderatoren,Winter,Morgen,Zeit,Mühe,Wochen
+basic_forms,english,None,"das Jahr : Noun
 ","das Jahr : Noun
-",,,,"das Elter : Noun
+",None,None,None,"das Elter : Noun
 der Elter : Noun
-",,"nähen : Verb
-",,,,
-basic_forms,german,,,,,,,,,,,,,
+",None,"nähen : Verb
+",None,None,None,None,None,None,None,None,None,None,"strafen : Verb
+",None,None,"verboten : Adjective
+",None,None,None,None,None,None,None,"das Mitgliedsland : Noun
+",None,None,None,None,None,None,"das Mitglied : Noun
+",None,None,None,"beitreten : Verb
+",None,None,None,None,None,"das Land : Noun
+",None,"das Mitglied : Noun
+",None,None,None,None,None,"die Million : Noun
+",None,None,None,None,"die Weste : Noun
+wesen : Verb
+",None,None,None,"der Filmpreis : Noun
+",None,None,None,None,"die Szene : Noun
+",None,"der Mensch : Noun
+",None,None,"alternativ : Adjective
+","das Kind : Noun
+","die Esse : Noun
+",None,None,None,None,"das Virus : Noun
+",None,None,None,None,None,"der Moderator : Noun
+",None,None,None,"sich mühen : Verb
+mühen : Verb
+","die Woche : Noun
+"
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,,None,None,None,,
 verbs,english,"to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
@@ -44,7 +65,7 @@ to be getting a bit long in the tooth
 to be over the hill
 to take a sabbatical
 to be in one's prime
-",,,,"to be born with a silver spoon in one's mouth
+",None,None,None,"to be born with a silver spoon in one's mouth
 ","to economizeAE to economiseBE / economizeBE | economized, economized / economised, economised |
 to budget | budgeted, budgeted |
 to husband | husbanded, husbanded |
@@ -82,7 +103,7 @@ to mutter sth. to oneself
 to be a mother of two children
 to mutter sth. under one's breath
 to play house
-",,"to play house
+",None,"to play house
 ","to bank | banked, banked |
 to bank | banked, banked | - at a bank
 to bank on sth.
@@ -97,6 +118,365 @@ to bank sth. ⇔ in
 to bank with so. - bank
 to bank | banked, banked | [ENGIN.]
 to bank | banked, banked | [AGR.]
+","to bribe a judge
+to appoint oneself as judge
+to appoint oneself as judge
+to be raised to the Bench
+","to close month [FINAN.]
+to set so. a target of six months
+","to preside over a court
+to go to court [LAW]
+to take legal action [LAW]
+to be in the dock
+to submit to the court
+to plead in court
+to bring an action at law
+to go to court
+to try so. | tried, tried |
+to submit a case to a court
+to cite before the court
+to file sth. with a court
+to bring an action against so.
+to bring so. to trial
+","to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall | fell, fallen | - decrease in number, intensity ...
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall down
+to fall down
+to fall down
+",None,None,"to strafe | strafed, strafed |
+to strafe | strafed, strafed | [MIL.]
+to punish | punished, punished |
+to chasten so. | chastened, chastened |
+to amerce so. | amerced, amerced | [HIST.][LAW]
+to serve a sentence
+to serve a sentence
+to accept a punishment
+to assess the penalty
+to pay the penalty
+to do time
+to award a penalty [SPORT.]
+to hand out a punishment to so. [LAW]
+to penalizeAE to penaliseBE / penalizeBE | penalized, penalized / penalised, penalised |
+",None,"to go sightseeing - in a town, city
+to skip town [coll.]
+",None,"to make a choice
+to take one's choice
+to go to the polls
+to call an election
+to nominate so. for election
+to throw one's hat in the ring [fig.]
+to contest an election (Amer.) [POL.]
+to face a choice
+to call for elections
+to call an election
+to hold elections
+to be faced with (a) Hobson's choice
+to get first dibs on sth. (Amer.)
+to have first dibs on sth. (Amer.)
+","to land (sth.) | landed, landed |
+to land so. | landed, landed |
+to land | landed, landed |
+to land so. | landed, landed |
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [NAUT.]
+to land | landed, landed | [COMM.][NAUT.]
+to land | landed, landed |
+to reclaim land
+to purchase land
+to break up a piece of land
+to work land
+to subdue | subdued, subdued |
+",None,"to elect so. president
+",None,"to prevaricate | prevaricated, prevaricated |
+to speak the truth
+to tell the truth
+to blurt out the truth
+to blurt out the truth
+to deviate from the truth
+to cough up (Brit.) [coll.]
+","to form an alliance
+to confederate | confederated, confederated |
+",None,"to give no quarter archaic [MIL.]
+",None,None,"to be in uniform
+","to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+",None,"to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+",None,"to get a general idea
+to record in the general ledger
+to become generally accepted
+to become generally known as ...
+",None,"to join | joined, joined |
+to accede to sth.
+to enter into sth. [POL.]
+to contract out of sth. - of pension scheme (Brit.)
+to join a party
+to affiliate with an association
+to join an action [LAW]
+","to identify countries
+",None,"to strike the colorsAE to strike the coloursBE
+to furl a flag
+to fly a flag
+to smell of booze [coll.]
+to have boozy breath
+to wave the white flag
+","to be a member of sth.
+to accept so. as a member
+to join a club
+to attract new members
+to pair with [fig.] [POL.]
+",None,"to identify countries
+to reclaim land
+to purchase land
+to break up a piece of land
+to work land
+to subdue | subdued, subdued |
+to assign land
+to dash around the country
+to go rural
+to remove to the country
+to rusticate | rusticated, rusticated |
+to run a country
+to expel so. (from a country) | expelled, expelled |
+to disembark | disembarked, disembarked |
+","to bring down a government
+to suspend a government
+to overturn a government [POL.]
+to overthrow a government [fig.] [POL.]
+","to be a member of sth.
+to accept so. as a member
+to attract new members
+to join a club
+to pair with [fig.] [POL.]
+",None,None,"to begin as a writer
+","to wage war (against so./sth.)
+to make war (on so./sth.)
+to campaign | campaigned, campaigned |
+to be at war
+to wage a war
+to declare war on so./sth.
+to fight a war with so.
+to be at war with so.
+to be at war with so.
+to be at war with so.
+to be on the verge of war
+","to play music
+to make music
+to add music to sth.
+to be music to so.'s ears
+to rave | raved, raved | - dance to electronic rhythms
+","to go platinum
+","to join up
+","to welt so. | welted, welted |
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to welt | welted, welted | [TECH.]
+to hold sway over the world
+to give birth to so.
+to be born
+to abandon the world
+to retire from the world
+to bring the roof down on so.'s head
+to depart this world
+to plant a rumorAE to plant a rumourBE
+to squash rumorsAE of sth. to squash rumoursBE of sth.
+","to take the lead
+to get in the lead
+to take charge
+to assume control
+to assume the leadership
+to take over leadership
+to keep ahead
+to stay ahead
+to go on a guided tour
+to extend the lead [SPORT.]
+to be in the lead
+to go into the lead
+to take the lead
+to gain the lead
+","to wage war (against so./sth.)
+to make war (on so./sth.)
+to campaign | campaigned, campaigned |
+to be at war
+to wage a war
+to declare war on so./sth.
+to fight a war with so.
+to be at war with so.
+to be at war with so.
+to be at war with so.
+to be on the verge of war
+","to be a westerner
+","to adjourn to the drawing room
+","to laud | lauded, lauded |
+to exalt | exalted, exalted |
+to vaunt sth. | vaunted, vaunted |
+to praise so./sth. | praised, praised |
+to glorify so./sth. | glorified, glorified |
+to eulogizeAE so. to eulogiseBE / eulogizeBE so. | eulogized, eulogized / eulogised, eulogised |
+to bless so./sth. | blessed, blessed | - praise [REL.]
+to decontrol prices
+to cut prices
+to mark up prices
+to scale down prices
+to control prices
+to scale up prices
+to cut prices
+","to fit in
+to take down a picture
+to fill so. ⇔ in (on sth.)
+to get an idea of sth.
+to get a picture of sth.
+to capture so. on film
+to visualizeAE sth. to visualiseBE / visualizeBE sth. | visualized, visualized / visualised, visualised |
+to scan | scanned, scanned | [COMP.]
+to fill so. in on sth. [coll.]
+to restore a picture
+to be a horrific scene
+to be a horrific sight
+to sanitizeAE the public image of sth. to sanitiseBE / sanitizeBE the public image of sth.
+to join the dots
+",None,None,None,"to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE to annualiseBE / annualizeBE | annualized, annualized / annualised, annualised |
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [COMM.]to annualiseBE / annualizeBE [COMM.]
+to annualizeAE | annualized, annualized / annualised, annualised | [FINAN.]to annualiseBE / annualizeBE [FINAN.]
+to take a sabbatical
+to be 3/15/62 ... years old
+to be so.'s junior (by ... years)
+to be getting a bit long in the tooth
+to be over the hill
+to be in one's prime
+",None,"to scenarizeAE to scenariseBE / scenarizeBE | scenarized, scenarized / scenarised, scenarised |
+to re-enact (or: reenact) a scene
+to play to the gallery [fig.]
+to rehearse a scene
+to restage sth. | restaged, restaged | [THEA.]
+",None,"to manage people
+to manage people
+to transfer sth. to humans
+to bring people closer together
+to make a match between two people [coll.]
+to act like one was born yesterday
+","to have the flu
+","to have a temperature
+to be running a temperature [coll.]
+to take so.'s temperature
+",None,"to bear children
+to watch children
+to raise a family
+to raise children
+to conceive a child
+to change a baby's diaper (or: diapers) (Amer.)
+to change a baby's nappy (or: nappies) (Brit.)
+to change a baby
+to have a baby
+to be expecting - a baby
+to bathe a child
+to deliver a baby
+to bear a child
+to hold a child over the ground to let it eliminate
+","to eat (sth.) | ate, eaten |
+to chow down [sl.]
+to eat out
+to go for a meal
+to go out for food
+to arrange a dinner party
+to bolt one's food
+to eat out
+to eat simply
+to eat (sth.) with relish
+to snack | snacked, snacked |
+to have a snack
+to take a snack
+to snack on sth.
+","to wish so. a speedy recovery
+to be on the mend
+","to make out a prescription
+to fill a prescription [coll.] (Amer.)
+to fill a prescription (Amer.) [PHARM.]
+to get a prescription filled [coll.] (Amer.) [PHARM.]
+to have a prescription filled (Amer.) [PHARM.]
+to dispense | dispensed, dispensed |
+","to live | lived, lived |
+to be alive
+to exist | existed, existed |
+to roost | roosted, roosted | [ZOOL.]
+to abide | abode, abode | obsolete
+to live on sth.
+to make a living doing sth.
+to live for so./sth.
+to stay with so.
+to be alive
+to save life
+to stay alive
+to keep alive
+to lose one's life
+",None,"to safeguard a computer system against viruses [COMP.]
+to go viral
+",None,"to cough | coughed, coughed |
+to expectorate | expectorated, expectorated | [MED.]
+to hack | hacked, hacked | - cough
+to throw up [coll.]
+to practice coughing and sneezing etiquette
+","to come down with a cold
+to come down with a cold
+to nurse a cold
+to have a bad cold
+","to press out the juice
+to sap sth. | sapped, sapped |
+",None,None,"to winter | wintered, wintered |
+to overwinter | overwintered, overwintered |
+","to bid so. a good morning
+","to time | timed, timed |
+to spend time
+to save time
+to lose time
+to take time
+to gain time
+to temporizeAE to temporiseBE / temporizeBE | temporized, temporized / temporised, temporised |
+to dawdle | dawdled, dawdled |
+to waste time
+to lose time
+to spend time
+to temporizeAE to temporiseBE / temporizeBE | temporized, temporized / temporised, temporised |
+to kill time
+to take one's time
+","to laborAE / labourBE | labored, labored / laboured, laboured |
+to give trouble
+to make an effort
+to exert oneself (for sth.)
+to get through
+to take trouble with so./sth.
+to take pains with (or: over) sth.
+to take care in doing sth.
+to be worthwhile
+to be worth the effort
+to be worth the trouble
+to be hard-pressed to do sth.
+to struggle to do sth.
+to have a hard time doing sth.
+","to ask for a week off
+to ask for a week's leave
+to have a week-long party
+to have one day a week off
 "
 verbs,german,"etw.acc. benennen | benannte, benannt |
 etw.acc. bezeichnen | bezeichnete, bezeichnet |
@@ -136,7 +516,7 @@ etwas in die Jahre kommen
 seine besten Jahre hinter sichdat. haben
 sichacc. für ein Jahr beurlauben lassen
 in den besten Jahren sein
-",,,,"das Kind reicher Eltern sein
+",None,None,None,"das Kind reicher Eltern sein
 ","haushalten or: Haus halten | haushaltete, gehaushaltet |
 haushalten or: Haus halten | haushaltete, gehaushaltet |
 haushalten or: Haus halten | haushaltete, gehaushaltet |
@@ -174,7 +554,7 @@ etw.acc. vor sichacc. hin murmeln
 Mutter von zwei Kindern sein
 etw.acc. leise vor sichacc. hin murmeln
 Vater-Mutter-Kind spielen
-",,"Vater-Mutter-Kind spielen
+",None,"Vater-Mutter-Kind spielen
 ","Bankgeschäfte machen
 ein Bankkonto haben - bei einer Bank
 auf etw.acc. zählen | zählte, gezählt |
@@ -189,6 +569,365 @@ etw.acc. eindeichen | deichte ein, eingedeicht |
 ein Konto bei jmdm. haben - bei einer Bank
 überhöhen | überhöhte, überhöht | [Road Construction]
 poldern | polderte, gepoldert | [Holzwirtschaft]
+","einen Richter bestechen
+sichacc. zum Richter aufschwingen
+sichacc. zum Richter aufwerfen
+zum Richter bestimmt werden
+","Monat schließen [Bookkeeping]
+jmdm. eine Frist von sechs Monaten setzen
+","einem Gericht vorsitzen
+das Gericht anrufen
+das Gericht anrufen
+vor Gericht stehen
+bei Gericht vortragen
+bei Gericht vortragen
+vor Gericht gehen
+vor Gericht gehen
+jmdn. vor Gericht stellen
+etw.acc. vor Gericht bringen
+jmdn. vor Gericht laden
+etw.acc. bei Gericht einreichen
+jmdn. vor Gericht bringen
+jmdn. vor Gericht bringen
+","fallen | fiel, gefallen |
+stürzen | stürzte, gestürzt |
+sinken | sank, gesunken | - z. B. Druck, Spannung
+zurückgehen | ging zurück, zurückgegangen |
+absinken | sank ab, abgesunken |
+hinfallen | fiel hin, hingefallen |
+rückläufig sein
+abstürzen | stürzte ab, abgestürzt |
+zerfallen | zerfiel, zerfallen |
+nachgeben | gab nach, nachgegeben |
+abnehmen | nahm ab, abgenommen |
+hinunterstürzen | stürzte hinunter, hinuntergestürzt |
+herunterstürzen | stürzte herunter, heruntergestürzt |
+herabfallen | fiel herab, herabgefallen |
+",None,None,"aus der Luft unter Beschuss nehmen
+beschießen | beschoss, beschossen |
+strafen | strafte, gestraft |
+jmdn. strafen | strafte, gestraft |
+jmdn. strafen | strafte, gestraft |
+eine Strafe absitzen
+eine Strafe verbüßen
+die Strafe annehmen
+die Strafe bemessen
+die Strafe zahlen
+eine Strafe abbrummen [coll.]
+eine Strafe erteilen
+eine Strafe gegen jmdn. verhängen
+unter Strafe stellen
+",None,"die Stadt besichtigen
+fluchtartig die Stadt verlassen
+",None,"eine Wahl treffen
+eine Wahl treffen
+zur Wahl gehen
+eine Wahl ausschreiben
+jmdn. zur Wahl vorschlagen
+sichacc. zur Wahl stellen
+eine Wahl anfechten
+vor der Wahl stehen
+Wahlen ausrufen
+Wahlen ansetzen
+Wahlen durchführen
+keine Wahl haben
+bei etw.dat. die erste Wahl haben
+bei etw.dat. die erste Wahl haben
+","(etw.acc.) landen | landete, gelandet |
+jmdn. bringen | brachte, gebracht |
+ausschiffen | schiffte aus, ausgeschifft |
+jmdn. an Land ziehen
+an Land gehen - Passagiere
+anlegen | legte an, angelegt |
+anlanden | landete an, angelandet |
+löschen | löschte, gelöscht | - Ladung
+ausladen | lud aus, ausgeladen |
+Land abgewinnen
+Land ankaufen
+Land aufteilen
+Land bearbeiten
+Land erschließen
+",None,"jmdn. zum Präsidenten wählen
+",None,"die Wahrheit verdrehen
+die Wahrheit sagen
+die Wahrheit sagen
+die Wahrheit verraten
+mit der Wahrheit herausplatzen
+von der Wahrheit abweichen
+mit der Wahrheit herausrücken
+","ein Bündnis schließen
+sichacc. zu einem Bündnis zusammenschließen
+",None,"kein Quartier geben
+",None,None,"beim Militär sein
+","Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,"Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,"sichdat. einen Überblick verschaffen
+im Hauptbuch eintragen
+allgemein akzeptiert werden
+allgemein bekanntwerden (or: bekannt werden) als ...
+",None,"beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. nicht beitreten
+einer Partei beitreten
+einem Verband beitreten
+einem Prozess als Nebenkläger beitreten
+","Länder bezeichnen
+",None,"die Fahne einziehen
+eine Fahne aufrollen
+eine Fahne hissen
+eine Fahne haben [coll.]
+eine Fahne haben [coll.]
+durch Zeigen der weißen Fahne die Aufgabe anzeigen
+","Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+Mitglied in einem Verein werden
+neue Mitglieder gewinnen
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,"Länder bezeichnen
+Land abgewinnen
+Land ankaufen
+Land aufteilen
+Land bearbeiten
+Land erschließen
+Land zuweisen
+im Land herumziehen
+aufs Land gehen
+aufs Land ziehen
+aufs Land ziehen
+ein Land regieren
+jmdn. (aus einem Land) ausweisen | wies aus, ausgewiesen |
+an Land gehen
+","eine Regierung stürzen
+eine Regierung auflösen
+eine Regierung stürzen
+eine Regierung stürzen [fig.]
+","Mitglied von etw.dat. sein
+jmdn. als Mitglied aufnehmen
+neue Mitglieder gewinnen
+Mitglied in einem Verein werden
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+",None,None,"als Schriftsteller anfangen
+","Krieg (gegen jmdn./etw.) führen
+Krieg (gegen jmdn./etw.) führen
+Krieg führen
+im Krieg sein
+einen Krieg führen
+jmdm./etw. den Krieg erklären
+sichdat. einen Krieg mit jmdm. liefern
+gegen jmdn. Krieg führen
+mit jmdm. Krieg führen
+sichacc. mit jmdm. im Krieg befinden
+am Rande eines Krieges stehen
+","Musik machen
+Musik machen
+etw.acc. mit Musik unterlegen
+Musik in jmds. Ohren sein
+nach Techno-Musik tanzen
+","sichacc. fünf Millionen Mal verkaufen
+","Soldat werden
+","jmdn. prügeln | prügelte, geprügelt |
+bördeln | bördelte, gebördelt | [Blechbearbeitung]
+sicken | sickte, gesickt | [Blechbearbeitung]
+umbördeln | bördelte um, umgebördelt |
+walzsicken | -, walzgesickt |
+die Welt beherrschen
+jmdn. zur Welt bringen
+auf die Welt kommen
+sichacc. aus der Welt zurückziehen
+sichacc. von der Welt zurückziehen
+jmds. Welt einstürzen lassen
+aus dieser Welt scheiden
+ein Gerücht in die Welt setzen
+die Gerüchte über etw.acc. aus der Welt räumen
+","die Führung übernehmen
+die Führung übernehmen
+die Führung übernehmen
+die Führung übernehmen
+die Führung übernehmen
+die Führung übernehmen
+die Führung halten
+die Führung halten
+eine Führung mitmachen
+die Führung ausbauen
+in Führung liegen
+in Führung gehen
+in Führung gehen
+in Führung gehen
+","Krieg (gegen jmdn./etw.) führen
+Krieg (gegen jmdn./etw.) führen
+Krieg führen
+im Krieg sein
+einen Krieg führen
+jmdm./etw. den Krieg erklären
+sichdat. einen Krieg mit jmdm. liefern
+gegen jmdn. Krieg führen
+mit jmdm. Krieg führen
+sichacc. mit jmdm. im Krieg befinden
+am Rande eines Krieges stehen
+","aus dem Westen sein
+","sichacc. in den Salon zurückziehen
+","preisen | pries, gepriesen |
+preisen | pries, gepriesen |
+etw.acc. preisen | pries, gepriesen |
+jmdn./etw. preisen | pries, gepriesen |
+jmdn./etw. preisen | pries, gepriesen |
+jmdn. preisen | pries, gepriesen |
+jmdn./etw. preisen | pries, gepriesen |
+Preise freigeben (or: frei geben)
+Preise reduzieren
+Preise erhöhen
+Preise herabsetzen
+Preise festlegen
+Preise heraufsetzen
+Preise senken
+","ins Bild passen
+ein Bild abhängen
+jmdn. (über etw.acc.) ins Bild setzen
+sichdat. ein Bild von etw.dat. machen
+sichdat. ein Bild von etw.dat. machen
+jmdn. im Bild festhalten
+sichacc. ein Bild von etw.dat. machen
+ein Bild abtasten
+jmdn. über etw.acc. ins Bild setzen
+das Bild restaurieren
+ein Bild des Grauens bieten
+ein Bild des Grauens bieten
+das Bild von etw.dat. in der Öffentlichkeit aufwerten
+Punkte verbinden, damit ein Bild entsteht
+",None,None,None,"aufs Jahr umrechnen
+auf das Jahr rechnen
+auf das Jahr umrechnen
+auf das Jahr rechnen
+umrechnen auf das Jahr
+umrechnen auf das Jahr
+sichacc. für ein Jahr beurlauben lassen
+3/15/62/... Jahre alt sein
+(... Jahre) jünger sein als jmd.
+etwas in die Jahre kommen
+seine besten Jahre hinter sichdat. haben
+in den besten Jahren sein
+",None,"in Szenen umschreiben
+eine Szene nachstellen
+sichacc. in Szene setzen
+eine Szene proben
+etw.acc. neu in Szene setzen
+",None,"Menschen führen
+Menschen leiten
+etw.acc. auf den Menschen übertragen
+Menschen einander näher bringen
+zwei Menschen miteinander verkuppeln [coll.]
+sichacc. anstellen wie der erste Mensch
+","die Grippe haben
+","Fieber haben
+Fieber haben
+bei jmdm. Fieber messen
+",None,"Kinder gebären
+auf Kinder aufpassen
+Kinder aufziehen
+Kinder großziehen
+ein Kind empfangen - schwanger werden
+ein Kind wickeln
+ein Kind wickeln
+ein Kind wickeln
+ein Kind bekommen
+ein Kind erwarten
+ein Kind baden
+ein Kind gebären
+ein Kind gebären
+ein Kind abhalten
+","(etw.acc.) essen | aß, gegessen |
+essen | aß, gegessen |
+essen gehen
+essen gehen
+essen gehen
+ein Essen geben
+das Essen hinunterschlingen [coll.]
+auswärts essen
+einfach essen
+(etw.acc.) mit Behagen essen
+einen Happen essen
+einen Happen essen
+einen Happen essen
+etw.acc. zwischendurch essen
+","jmdm. gute Besserung wünschen
+auf dem Wege (or: Weg) der Besserung sein
+","ein Rezept ausstellen
+ein Rezept einlösen
+ein Rezept beliefern
+ein Rezept einlösen
+ein Rezept einlösen
+nach Rezept anfertigen
+","leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt |
+leben | lebte, gelebt | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
+leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+von etw.dat. leben | lebte, gelebt |
+für jmdn./etw. leben | lebte, gelebt |
+bei jmdm. leben | lebte, gelebt |
+am Leben sein
+Leben retten
+am Leben bleiben
+am Leben bleiben
+ums Leben kommen
+",None,"ein Computersystem gegen Viren sichern
+sichacc. wie ein Virus im Internet verbreiten
+",None,"husten | hustete, gehustet |
+husten | hustete, gehustet | - Schleim, Blut
+krampfhaft husten
+Bröckchen husten [coll.] - sich erbrechen
+Husten- und Niesetikette befolgen
+","eine Erkältung bekommen
+eine Erkältung kriegen
+an einer Erkältung laborieren [coll.]
+eine schlimme Erkältung haben
+","den Saft auspressen
+von etw.dat. Saft abziehen
+",None,None,"überwintern | überwinterte, überwintert |
+über den Winter kommen
+","jmdm. einen guten Morgen entbieten [form.] dated
+","Zeit messen
+Zeit verbringen
+Zeit sparen
+Zeit verschwenden
+Zeit brauchen
+Zeit gewinnen
+Zeit gewinnen
+Zeit totschlagen
+Zeit vergeuden
+Zeit vergeuden
+Zeit aufbringen
+Zeit herausschinden
+die Zeit totschlagen
+sichdat. Zeit lassen
+","sichacc. mühen | mühte, gemüht |
+Mühe machen
+sichdat. Mühe machen
+sichdat. Mühe (um etw.acc. (or: wegen einer Sachegen.)) geben
+mit Mühe absolvieren
+sichdat. mit jmdm./etw. Mühe geben
+sichdat. mit etw.dat. Mühe geben
+sichdat. bei etw.dat. Mühe geben
+der Mühe wert sein
+der Mühe wert sein
+der Mühe wert sein
+Mühe haben, etw.acc. zu tun
+Mühe haben, etw.acc. zu tun
+Mühe haben, etw.acc. zu tun
+","sichacc. eine Woche beurlauben lassen
+sichacc. eine Woche beurlauben lassen
+eine ganze Woche durchfeiern
+einen Tag in der Woche freihaben (or: frei haben)
 "
 nouns,english,"name
 name
@@ -343,6 +1082,832 @@ bank
 bank
 bank
 bank
+","judge [LAW][SPORT.]
+justice - judge of Supreme Court [LAW]
+jurist (Amer.)
+bench
+Judges used with sg. verb [abbr.: Judg, Jg, Jgs, Jud] - book of the bible [REL.]
+magistrate [LAW]
+referee [LAW]
+Richter scale [GEOL.]
+associate judge
+corrupt judge
+honorary judge [LAW]
+lay judge [LAW]
+Book of Judges [abbr.: Judg., Jgs] [REL.]
+arbitrator
+","month
+month
+month of August
+month of July
+current month
+sidereal month [GEOL.]
+lunation [ASTR.]
+previous month
+month after payment
+barrels per month [TECH.]
+midmonth
+three-month deputyship
+","dish
+court [LAW]
+justice [LAW]
+forum - pl.: forums rarely: fora
+law court
+mess
+eat sg., usually in plural: eats [coll.]
+court of law [LAW]
+bar [LAW]
+tribunal [LAW]
+court of justice [LAW]
+take-home meal
+supreme court
+court having jurisdiction
+","fall
+fall
+fall (Amer.)
+fall
+case also [LAW][LING.][MED.]
+drop
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+","prosecutor [LAW]
+public prosecutor [LAW]
+district attorney [LAW]
+attorney (Amer.) [LAW]
+prosecuting attorney [LAW]
+counsel for the prosecution [LAW]
+Crown Prosecutor (Brit.) [LAW]
+federal prosecutor [LAW]
+State Attorney [LAW]
+procurator fiscal (Scot.) [LAW]
+","criminal proceedings plural noun [LAW]
+criminal case [LAW]
+plea bargain [LAW]
+","punishment
+pain
+penalty [LAW]
+sentence [LAW]
+fine [FINAN.][LAW]
+retribution
+forfeit
+chastisement
+discipline
+imposition
+visitation - for one's sins [REL.]
+comeuppance
+exemplary punishment
+nemesis
+","business records pl.
+business documents pl. [COMM.]
+","city
+town
+burg [coll.] (Amer.)
+corporation (Brit.) [ADMIN.]
+historic town
+expanded town
+new town (Brit.)
+sacred city
+town independent of a Kreis
+urban municipality
+town with ribbon development
+ancient town
+the Eternal City
+expanding town
+","forbidden energy band
+illegal transaction
+illicit business
+illegal trade
+forbidden band [TECH.]
+illegal business [LAW]
+forbidden transition
+prohibited trade
+forbidden clone
+banned imports pl.
+banned imports goods pl.
+banned export goods pl.
+the forbidden fruit
+forbidden fruit pl. [fig.]
+","choice
+election
+selection
+vote
+voting
+ballot [POL.]
+option
+pick
+poll - process of voting
+alternative
+elections pl.
+elections pl.
+polls pl.
+adoption of an approach
+","country
+land
+ground
+nation
+land
+land
+land
+land
+land
+land
+land
+land
+land
+land
+","January [abbr.: Jan.]
+January effect [FINAN.]
+","president [abbr.: Pres.]
+governor
+chair [ADMIN.][COMM.]
+chairman | chairwoman [ADMIN.][COMM.]
+chairperson [ADMIN.][COMM.]
+chief magistrate [POL.]
+first magistrate [POL.]
+prez [sl.]
+prexy - of a university [sl.]
+Federal Reserve Chairman (Amer.) [FINAN.]
+president-elect (Amer.)
+acting president
+deputy governor
+the president elect
+","hearing [LAW]
+court session [LAW]
+court trial [LAW]
+the Diet (Scot.) [LAW]
+","truth
+verity
+trueness
+the lowdown [coll.]
+sooth archaic
+genuine truth
+truth or dare
+established truth
+accepted truth
+absolute truth
+bitter truth
+intrinsic truth
+arbiter of truth
+the absolute truth
+","alliance
+league
+confederacy
+confederation
+covenant
+federation
+pact
+global alliance
+North Atlantic Treaty Organization [abbr.: NATO] [POL.]
+close alliance [POL.]
+Alliance for Jobs [POL.]
+Climate Alliance
+","member body country
+member country [POL.]
+member state [POL.]
+","accommodation sg., usually in plural: accommodations (Amer.)
+accommodation (Brit.)
+lodging
+quarters plural noun
+billet [MIL.]
+cantonment [MIL.]
+","headquarters - pl.: headquarters [abbr.: H.Q., h.q., HQ]
+","Russia [GEOG.]
+Muscovy [HIST.]
+","army no plural
+the military
+soldiery
+armed forces plural noun [MIL.]
+military standard [AVIAT.]
+military brass [MIL.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","North Atlantic Treaty Organization [abbr.: NATO] [POL.]
+razor-barbed wire
+Nato stock number [ADMIN.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","expansion
+extension
+dilation
+amplification
+enhancement
+add-on
+dilatation
+enlargement
+increment
+interpolation
+upgrading
+widening
+amelioration
+uprating
+","general [MIL.]
+general
+general [MIL.]
+the generals pl. [MIL.]
+general map
+general map
+general strike
+general strike
+general survey
+general survey
+general agreement
+general agreement
+general agreement
+general agreement
+","general secretary
+secretary general
+Secretary-General [POL.]
+","admission
+accedence
+joining
+entry - into a society, group, etc.
+accession [LAW][POL.]
+unilateral accession [FINAN.]
+","European countries
+Länder authority [ADMIN.]
+Eastern (or: East) European countries pl.
+new Länder
+Nordics pl.
+West European countries pl.
+industrializedAE worldindustrialisedBE / industrializedBE world
+oil-producing nations
+oil-producing nations
+developed countries pl.
+European countries
+southern European countries
+participating countries pl.
+Working Committee of the Surveying Authorities of the States of the Federal Republic of Germany
+","military alliance [MIL.]
+","flag
+ensign
+plume
+ply
+barb - of feather
+lug
+banner
+oriflamme
+rim
+vane
+standard
+smell of alcohol on one's breath
+galley proof [PRINT.]
+galley slip [PRINT.]
+","member
+fellow
+insider
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+clansman
+stakeholder
+Member of the Commission
+member of the public
+member of a student fraternity
+academician
+member of the stock exchange
+member of the management
+","head
+pate
+crown of a press [TECH.]
+best clean ore [GEOL.]
+upper bed [GEOL.]
+upper cleaving grain - stone-cutting [GEOL.]
+upper end - e.g. of a valley, stream, or river [GEOL.]
+upper part [GEOL.]
+key performance indicator [abbr.: KPI]
+master-detail-screen
+dominant mode - in a waveguide [TELECOM.]
+fundamental mode - deprecated [TELECOM.]
+principal characteristic [ELEC.]
+principal voltage-current characteristic [ELEC.]
+","country
+ground
+land
+nation
+countryside
+soil
+state
+terra
+terrain
+Federal Land
+terrene
+territory
+European countries
+Länder authority [ADMIN.]
+","government
+administration (Amer.) [POL.]
+regime or: régime
+governance [POL.]
+regnancy rare
+cabinet
+misrule
+(10) Downing Street (Brit.) [fig.] [POL.]
+elected government [POL.]
+government effectiveness - World Bank indicator [POL.]
+government department
+provisional government [POL.]
+center-rightAE government [POL.]centre-rightBE government [POL.]
+government bonds pl.
+","member
+fellow
+insider
+commonality or: commonalty
+good fellas (Amer.) [sl.]
+rank and file
+non-European members
+total number of members
+list of members
+register of members
+members of the Common Market pl.
+Member of the European Parliament [abbr.: MEP]
+vigilante
+academician
+","secretary
+amanuensis
+clerk
+bureau
+davenport chiefly (Brit.)
+escritoire
+secretary bird (or: secretarybird) [ZOOL.]
+","party
+celebration
+ceremony
+function - ceremony
+exercises (Amer.) pl. - traditional ceremony
+festivity
+do - pl.: dos, do's chiefly (Brit.) [coll.]
+bash - party [coll.]
+bash - party [coll.]
+decennial
+","writer
+author - of a book, poem, etc.
+penman - pl.: penmen - author
+knight of the pen [hum.]
+committed writer
+brilliant writer
+classical author
+classical writer
+polemic writer
+","war
+warfare
+cyber war
+war in cyberspace
+holy war
+Holy War
+Trojan War [MYTH.]
+Cold War [POL.]
+Peloponnesian War [HIST.]
+Franco-Prussian War [HIST.]
+Russo-Turkish war [HIST.]
+Austro-Prussian War [HIST.]
+Seven Weeks' War [HIST.]
+Franco-Spanish War [MIL.] [HIST.]
+","music
+classical music
+electronic music
+part music
+sleepy melody
+early music [MUS.]
+folk music [MUS.]
+degenerate music [MUS.] [HIST.]
+serious music
+sweet music
+sheet music
+soundtrack
+salsa [MUS.]
+merengue [MUS.]
+","million [abbr.: m]
+millions of ...
+billion [abbr.: bn]
+crore
+several million
+several millions pl.
+zillions pl. [coll.]
+milliard (Brit.) obsolete
+million instructions per second [abbr.: MIPS] [COMP.]
+million instructions per second [abbr.: MIPS] [COMP.]
+parts per million
+million barrels of oil equivalent per day [abbr.: MMBOEpd] [COMM.]
+","soldier
+serviceman - pl.: servicemen
+enlisted person (Amer.) [MIL.]
+enlistee (Amer.) [MIL.]
+dinergate [ZOOL.]
+troops plural noun [MIL.]
+ex-serviceman - pl.: ex-servicemen
+campaigner
+trooper
+regular [MIL.]
+digger (Aust.) [coll.]
+digger (N.Z.) [coll.]
+GI - pl.: GIs [MIL.]
+scaly-naped amazon [ZOOL.]
+conscript army [MIL.]
+","world
+welt - weal sg., usually in plural: welts
+welt
+welt
+welt
+earth
+welt [TEXTIL.]
+welt cutter
+scientific world
+welt buttonhole [TEXTIL.]
+welt edge [TEXTIL.]
+welt seam [TEXTIL.]
+animate world
+smart set
+","guidance
+management
+conduct
+leadership
+direction
+command [MIL.]
+duct
+lead - first position in a competition
+tutelage
+guided tour
+government
+conducted tour
+gib (Amer.)
+steering
+","war
+warfare
+cyber war
+war in cyberspace
+holy war
+Holy War
+Trojan War [MYTH.]
+Cold War [POL.]
+Peloponnesian War [HIST.]
+Franco-Prussian War [HIST.]
+Russo-Turkish war [HIST.]
+Austro-Prussian War [HIST.]
+Seven Weeks' War [HIST.]
+Franco-Spanish War [MIL.] [HIST.]
+","west
+Occident or: occident
+West or: west
+vest (Amer.)
+waistcoat
+wild West
+Midwest [GEOG.]
+bullet proof vest
+bulletproof vest
+bulletproof vest
+","saloon
+parlorAE / parlourBE
+drawing room
+tanning salon
+tanning salon
+beauty salon
+beauty salon
+beauty salon
+beauty salon
+sunbed salon (Brit.)
+men's salon
+hair salon
+hair salon
+ladies' beauty salon
+men's hairdressing salon
+","cut-price goods
+markdown [COMM.]
+GDP in constant prices [ECON.]
+GDP in current prices [ECON.]
+price decontrol [COMM.]
+Nash equilibrium in prices [ECON.]
+Dutch descending auction [FINAN.]
+calculation of prices [COMM.]
+quotation of prices [FINAN.]
+stagflation [ECON.]
+fixed-price contract [COMM.]
+","picture
+photograph [PHOT.]
+image also [MATH.][TECH.]
+photo
+drawing - picture, sketch
+pattern
+view
+symbol
+figure [TECH.]
+prospect no plural - mental picture
+illustration
+likeness
+screen
+tableau - pl.: tableaux, tableaus
+",None,"launderette or: laundrette (Brit.)
+laundromat
+self-service laundry
+","camera [PHOT.]
+chamber [TECH.]
+candid camera
+electronic camera [TECH.]
+acoustic camera [ELEC.]
+digital camera [TECH.]
+photographic camera [PHOT.]
+high-resolution camera [ELEC.]
+multi-band camera [PHOT.]
+multi-band camera [PHOT.]
+rectangular expansion joint [TECH.]
+camera telecine [TELECOM.]
+closed-circuit television camera
+consumer grade camera
+","year
+twelvemonth archaic
+New Year
+presidential year (Amer.)
+year of assessment
+year of availability [TECH.]
+academic year
+gap year taken to do voluntary work in the environmental sector
+current year
+year-to-date [abbr.: YTD]
+gap year usually taken to do voluntary work in the social sector
+sabbatical year
+fiscal year
+Julian year
+","owner
+possessor
+proprietor | proprietress
+occupant
+mistress
+holder [FINAN.]
+tenant
+shareholder
+","scene
+sequence
+retake
+in-crowd [coll.]
+","camera work
+point-of-view shot [CINE.][PHOT.]
+","people plural noun
+humans pl.
+human
+person
+man - pl.: men
+human being
+the elderly
+elderly people plural noun
+Young Men's Christian Association [abbr.: YMCA]
+externals
+the desperate pl.
+anthropology
+human welfare
+man and beast
+","influenza
+flu
+grippe archaic [MED.]
+Spanish flu [MED.]
+influenza A virus infection [MED.]
+abdominal influenza [MED.]
+stomach flu [MED.]
+","fever
+temperature
+pyrexia [MED.]
+ague [MED.]
+calenture
+rheumatic fever [MED.]
+typhoid fever [MED.]
+ephemeral fever [MED.]
+African coast fever [MED.]
+fever tree [BOT.]
+fever tree [BOT.]
+dengue fever [MED.]
+Ebola fever [MED.]
+Ebola virus disease [abbr.: EVD] [MED.]
+","alternative (to sth.)
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+alternative
+option
+alternative hypothesis
+alternative solution
+","child - pl.: children
+infant
+kid [coll.] - child
+kiddy
+moppet [coll.]
+sprog (Brit.) [sl.]
+bairn (Scot.)
+chit (Amer.) archaic
+children of school-age
+growing children pl.
+children with a disability
+young children
+waifs and strays pl.
+mouths to feed
+","dinner
+food no plural
+meal
+feed
+grub [sl.]
+chow [sl.]
+tucker (Aust.; N.Z.) [coll.]
+chimney also [GEOL.]
+stack
+forge
+flue [CONSTR.]
+chimney stack [TECH.]
+smith's hearth [TECH.]
+breccia pipe [GEOL.]
+","improvement
+betterment
+recovery
+reform
+upturn
+amendment
+mended ways
+amelioration [MED.]
+sign of recovery pl.
+care order [LAW]
+hospital order [LAW]
+","recipe [fig.]
+recipe [COOK.]
+prescription [PHARM.]
+Rx chiefly (Amer.) - used in written form on a sign, document, etc., from Latin 'recipe': prescription [PHARM.]
+formula - pl.: formulas, formulae - list of ingredients for making something
+industry recipes [COMM.]
+over-the-counter drug [PHARM.]
+","life - pl.: lives
+living
+lifetime
+existence
+animation
+aquatic life
+singlehood
+urban life
+a life of dissiation
+strenuous life
+strenuous life
+extraterrestrial life
+farming life
+civic life
+","son
+stamper [TECH.]
+man-child or: man child, manchild [poet.] - son
+cadet
+prodigal son [REL.]
+","virus [MED.]
+virus [COMP.]
+adenoidal pharyngeal conjunctival viruses [MED.]
+African Horse Sickness Virus [abbr.: AHSV] [MED.]
+lymphadenopathy-associated virus [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+Zika virus [MED.]
+Epstein-Barr virus [abbr.: EBV] [MED.]
+respiratory syncytial virus [abbr.: RSV] [MED.]
+Absettarov virus [MED.]
+adenoidal pharyngeal conjunctival virus [MED.]
+helper virus [MED.]
+Marburg virus disease [MED.]
+","podcast
+","cough [MED.]
+dry cough
+irritating cough
+dry cough
+irritating cough
+tracheal cough [MED.]
+hack - dry cough [MED.]
+tracheal cough [MED.]
+productive cough [MED.]
+asthmatic cough [MED.]
+unproductive cough [MED.]
+cough and sneeze etiquette
+coughing and sneezing etiquette
+staccato cough [MED.]
+","cold
+chill
+common cold [MED.]
+acute nasopharyngitis [MED.]
+bad cold
+after a chill [MED.]
+severe cold
+cold medication
+","juice
+crush
+liquor - any liquid, juice
+sap [BOT.]
+juice [sl.] - electricity
+fleshy hawthorn [BOT.]
+succulent hawthorn [BOT.]
+","dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+engagement
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAE boarddialogueBE board
+dialogueAE / dialogAE moduledialogueBE module
+dialogueAE / dialogAE partnerdialogueBE partner
+dialogueAE / dialogAE systemdialogueBE system
+dialogueAE / dialogAE box [TECH.]dialogueBE box [TECH.]
+dialogueAE / dialogAE window [COMP.]dialogueBE window [COMP.]
+dialogueAE / dialogAE level [TECH.]dialogueBE level [TECH.]
+dialogueAE / dialogAE marketing [TECH.]dialogueBE marketing [TECH.]
+","host
+presenter
+emcee
+anchorman | anchorwoman
+moderator
+master of ceremonies [abbr.: MC]
+link man
+facilitator [POL.]
+moderator [COMP.][PHYS.]
+chat-show host
+radio chat-show host
+moderator-fuel ratio [METEO.]
+","winter
+winter season
+winter season
+winter clothes pl.
+winter (or: winter's) day
+winter fog
+winter garden
+winter holiday (Brit.) (Brit.)
+winter vacation (Amer.)
+winter sky
+winter abode
+winter boots pl.
+winter coat
+winter sleep
+","morning
+morn [poet.]
+morgen - former measure of land used in Prussia, Norway, and Denmark equal to about 0.3 hectare obsolete
+morrow [poet.] archaic
+yesterday morning
+yestermorning
+red-eye flight
+","time
+period
+while
+term
+time duration
+terms pl.
+tense [LING.]
+times pl.
+driving time
+bedtime
+childbearing period
+supper-time
+tripping period [TECH.]
+amortizationAE period [FINAN.]amortisationBE / amortizationBE period [FINAN.]
+","trouble
+effort
+laborAE / labourBE
+pain
+toil
+bother
+hassle
+arduousness
+travail sg., usually in plural: travails - toil [poet.] dated
+troubles pl.
+best effort
+vain endeavorAEvain endeavourBE
+","week
+sennight or: se'nnight archaic
+fortnight
+Shavuot or: Shabuoth [REL.]
+exhausting week
+midweek
+previous week
 "
 nouns,german,"der Name rarely: Namen pl.: die Namen
 die Benennung pl.: die Benennungen
@@ -497,6 +2062,832 @@ das Geldinstitut pl.: die Geldinstitute
 die Strosse pl.: die Strossen
 das Bankgebäude pl.: die Bankgebäude
 der Erddamm pl.: die Erddämme
+","der Richter | die Richterin pl.: die Richter, die Richterinnen
+der Richter | die Richterin pl.: die Richter, die Richterinnen - des Obersten Gerichtshofs
+der Richter pl.: die Richter
+die Richter pl. [coll.]
+Richter [abbr.: Ri] - Buch im Alten Testament [Bible]
+der Richter | die Richterin pl.: die Richter, die Richterinnen
+der Richter | die Richterin pl.: die Richter, die Richterinnen
+die Richterskala or: Richter-Skala no plural
+beisitzender Richter
+bestechlicher Richter
+ehrenamtlicher Richter
+ehrenamtlicher Richter
+das Buch (der) Richter [abbr.: Ri] [Bible]
+Richter am Schiedsgericht
+","der Monat pl.: die Monate
+der (or: das) Monat pl.: die Monate (Austria)
+Monat August
+Monat Juli
+laufender Monat
+siderischer Monat
+synodischer Monat
+voriger Monat
+Zahlung nächsten Monat
+Barrels pro Monat
+Mitte des Monats
+Vertretung für 3 Monate
+","das Gericht pl.: die Gerichte - Essen
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte - Mahlzeit, Speise
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+das Gericht pl.: die Gerichte
+Gericht zum Mitnehmen
+oberstes Gericht
+zuständiges Gericht
+","der Sturz pl.: die Stürze
+der Fall pl.: die Fälle
+der Herbst pl.: die Herbste
+der Rückgang pl.: die Rückgänge
+der Fall pl.: die Fälle
+der Fall pl.: die Fälle
+der Absturz pl.: die Abstürze
+das Gefälle pl.: die Gefälle
+die Abnahme pl.: die Abnahmen
+das Druckgefälle pl.: die Druckgefälle
+die Fallhöhe pl.: die Fallhöhen
+die Neigung pl.: die Neigungen
+der Niedergang no plural
+der Rutsch pl.: die Rutsche
+","der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen
+der Staatsanwalt | die Staatsanwältin pl.: die Staatsanwälte, die Staatsanwältinnen - in Schottland
+","der Strafprozess pl.: die Strafprozesse
+der Strafprozess pl.: die Strafprozesse
+Vereinbarung im Strafprozess
+","die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen - Strafmaß
+die Strafe pl.: die Strafen - Geldbuße
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen
+die Strafe pl.: die Strafen - für jmds. Sünden
+wohlverdiente Strafe
+exemplarische Strafe
+gerechte Strafe
+","die Geschäftsunterlagen pl., no sg.
+die Geschäftsunterlagen pl., no sg.
+","die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+die Stadt pl.: die Städte
+historische Stadt
+neue Stadt
+neue Stadt
+heilige Stadt
+kreisfreie Stadt
+kreisfreie Stadt
+lineare Stadt
+alte Stadt
+die Ewige Stadt - Rom
+sich ausbreitende Stadt
+","verbotenes Energieband
+verbotenes Geschäft
+verbotenes Geschäft
+verbotenes Gewerbe
+verbotenes Band
+verbotenes Geschäft
+verbotener Übergang
+verbotener Handel
+verbotener Klon
+verbotene Einfuhren pl.
+verbotene Einfuhrgüter pl.
+verbotene Exportgüter pl.
+die verbotene Frucht pl.: die Früchte
+verbotene Früchte pl. [fig.]
+","die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.: die Wahlen
+die Wahl pl.
+die Wahl pl.: die Wahlen
+die Wahlen pl.
+die Wahlen pl.
+Wahl eines Ansatzes
+","das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Festland pl.
+das Grundstück pl.: die Grundstücke
+das Gelände pl.: die Gelände
+der Boden pl.: die Böden
+das Bundesland pl.: die Bundesländer
+das Terrain pl.: die Terrains
+die Ländereien pl., no sg.
+die Fläche pl.: die Flächen
+Grund und Boden
+der Grundbesitz pl.: die Grundbesitze
+","der Januar pl. [abbr.: Jan.]
+der Januar-Effekt [Stock Exchange]
+","der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen [abbr.: Präs.]
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident | die Präsidentin pl.: die Präsidenten, die Präsidentinnen
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten
+der Präsident pl.: die Präsidenten - einer Universität
+Präsident der US-Notenbank
+gewählter Präsident - vor dem Amtsantritt
+amtierender Präsident
+stellvertretender Präsident
+der designierte Präsident
+","der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+der Gerichtstermin pl.: die Gerichtstermine
+","die Wahrheit pl.
+die Wahrheit pl.
+die Wahrheit no plural
+die Wahrheit no plural
+die Wahrheit pl.
+die Wahrheit pl.
+Wahrheit oder Pflicht
+anerkannte Wahrheit
+anerkannte Wahrheit
+absolute Wahrheit
+bittere Wahrheit
+grundlegende Wahrheit
+Schiedsrichter der Wahrheit
+die reine Wahrheit pl.
+","das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+das Bündnis pl.: die Bündnisse
+globales Bündnis
+nordatlantisches Bündnis
+enges Bündnis
+Bündnis für Arbeit
+Klima-Bündnis e. V.
+","das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+das Mitgliedsland pl.: die Mitgliedsländer
+","das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+das Quartier pl.: die Quartiere
+","das Hauptquartier pl.: die Hauptquartiere
+","Russland
+Russland
+","das Militär no plural
+das Militär no plural
+das Militär no plural
+das Militär no plural
+die Militär-Norm
+hochrangige Militärs pl.
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","die NATO or: Nato no plural
+der NATO-Draht or: Natodraht pl.: die Natodrähte
+die Versorgungsnummer
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+die Erweiterung pl.: die Erweiterungen
+","der General pl.: die Generale/die Generäle
+Allgemeines
+der Feldherr pl.: die Feldherren
+die Generalität rarely in pl.
+die Übersichtskarte
+die Übersicht pl.
+der Generalstreik pl.: die Generalstreiks
+allgemeiner Streik
+die Gesamtübersicht pl.: die Gesamtübersichten
+allgemeiner Überblick
+die Rahmenvereinbarung pl.: die Rahmenvereinbarungen
+allgemeine Übereinkunft
+allgemeines Einverständnis
+das Globalabkommen pl.: die Globalabkommen
+","der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+der Generalsekretär pl.: die Generalsekretäre
+","der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte
+der Beitritt pl.: die Beitritte - Beitreten
+der Beitritt pl.: die Beitritte
+unilateraler Beitritt
+","Länder Europas
+die Landesbehörde pl.: die Landesbehörden
+osteuropäische Länder pl.
+Neue Bundesländer
+nordische Länder
+westeuropäische Länder pl.
+industrialisierte Länder
+ölfördernde Länder pl.
+ölproduzierende Länder
+entwickelte Länder pl.
+europäische Länder
+südeuropäische Länder
+teilnehmende Länder pl.
+Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland [abbr.: AdV]
+","das Militärbündnis pl.: die Militärbündnisse
+","die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+die Fahne no plural - kurz für: ""Alkoholfahne""
+die Fahne pl.: die Fahnen
+die Fahne pl.: die Fahnen
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+Mitglied eines Clans
+Mitglied einer Interessengruppe
+Mitglied der Kommission
+Mitglied der Öffentlichkeit
+Mitglied einer Studentenverbindung
+Mitglied der Akademie
+Mitglied der Börse
+Mitglied der Geschäftsführung
+","das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+das Haupt pl.: die Häupter
+der Haupt-Erfolgsindikator
+die Haupt-Detail-Ansicht
+der Haupt-Mode - im Hohlleiter
+der Haupt-Mode - im Hohlleiter
+die Haupt-Strom-Spannungs-Charakteristik
+die Haupt-Strom-Spannungs-Charakteristik
+","das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land no plural
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.: die Länder
+das Land pl.
+das Land pl.
+Länder Europas
+die Landesbehörde pl.: die Landesbehörden
+","die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+schlechte Regierung
+britische Regierung
+gewählte Regierung
+Leistungsfähigkeit der Regierung - BMZ
+Dienststelle der Regierung
+provisorische Regierung
+die Mitte-Rechts-Regierung pl.: die Mitte-Rechts-Regierungen
+von der Regierung ausgegebene Anleihen pl.
+","das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+das Mitglied pl.: die Mitglieder
+Mitglieder einer Körperschaft
+Mitglieder der US-Mafia pl.
+einfache Mitglieder pl. - einer Gewerkschaft
+nichteuropäische Mitglieder pl.
+Gesamtzahl der Mitglieder
+Liste der Mitglieder
+Liste der Mitglieder
+die EG-Mitglieder pl.
+Mitglied des Europäischen Parlaments [abbr.: MdEP]
+Mitglied einer Bürgerwehr
+Mitglied einer Akademie
+","der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär | die Sekretärin pl.: die Sekretäre, die Sekretärinnen
+der Sekretär pl.: die Sekretäre - Möbelstück
+der Sekretär pl.: die Sekretäre - Möbelstück
+der Sekretär pl.: die Sekretäre
+der Sekretär pl. Lat.: Sagittarius serpentarius [Ornithology]
+","die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+die Feier pl.: die Feiern
+große Feier
+die Zehn-Jahres-Feier pl.: die Zehn-Jahres-Feiern
+","der Schriftsteller | die Schriftstellerin pl.: die Schriftsteller, die Schriftstellerinnen
+der Schriftsteller | die Schriftstellerin pl.: die Schriftsteller, die Schriftstellerinnen
+der Schriftsteller pl.: die Schriftsteller
+der Schriftsteller pl.: die Schriftsteller
+engagierter Schriftsteller
+exzellenter Schriftsteller
+klassischer Schriftsteller
+klassischer Schriftsteller
+streitsüchtiger Schriftsteller
+","der Krieg pl.: die Kriege
+der Krieg pl.: die Kriege
+Krieg im Cyberspace
+Krieg im Cyberspace
+heiliger Krieg
+Heiliger Krieg
+Trojanischer Krieg
+Kalter Krieg
+Peloponnesischer Krieg
+Deutsch-Französischer Krieg - 1870-71
+Russisch-Türkischer Krieg
+Deutscher Krieg - 1866
+Deutscher Krieg - 1866
+Französisch-Spanischer Krieg - 1635-1659
+","die Musik pl.
+klassische Musik
+elektronische Musik
+mehrstimmige Musik - meist vokal
+träumerische Musik
+Alte Musik
+volkstümliche Musik
+entartete Musik
+ernste Musik
+liebliche Musik
+Musik auf Notenblättern
+Musik zu einem Film
+der (or: die) Salsa pl.: die Salsas - lateinamerikanischer Tanz- und Musikstil
+der Merengue - lateinamerikanischer Tanz- und Musikstil
+","die Million pl.: die Millionen [abbr.: Mio., Mill.]
+Millionen von ...
+1000 Millionen
+zehn Millionen - in Indien
+etliche Millionen
+mehrere Millionen pl.
+zig Millionen
+1000 Millionen
+Millionen Anweisungen pro Sekunde
+Million Instruktionen je Sekunde
+Teile pro Million
+Millionen Barrel Öl-Äquivalent pro Tag
+","der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat pl.: die Soldaten
+der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat | die Soldatin pl.: die Soldaten, die Soldatinnen
+der Soldat pl.: die Soldaten - der Ameisen
+die Soldaten pl.
+ehemaliger Soldat
+alter Soldat
+einfacher Soldat
+regulärer Soldat
+australischer Soldat
+neuseeländischer Soldat
+der US-Soldat | die US-Soldatin pl.: die US-Soldaten, die US-Soldatinnen
+die Soldaten-Amazone Lat.: Amazona mercenaria, Amazona mercenarius [Ornithology]
+Armee wehrpflichtiger Soldaten
+","die Welt pl.: die Welten
+die Strieme usually in pl. Striemen
+die Einfassung pl.: die Einfassungen
+der Rahmen pl.: die Rahmen
+die Quaddel pl.: die Quaddeln
+die Welt pl.: die Welten
+der Keder pl.: die Keder
+das Randmesser pl.: die Randmesser
+Welt der Wissenschaft
+das Paspelknopfloch pl.: die Paspelknopflöcher
+die Wulstkante pl.: die Wulstkanten
+die Wulstnaht pl.: die Wulstnähte
+belebte Welt
+elegante Welt
+","die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+die Führung pl.: die Führungen
+","der Krieg pl.: die Kriege
+der Krieg pl.: die Kriege
+Krieg im Cyberspace
+Krieg im Cyberspace
+heiliger Krieg
+Heiliger Krieg
+Trojanischer Krieg
+Kalter Krieg
+Peloponnesischer Krieg
+Deutsch-Französischer Krieg - 1870-71
+Russisch-Türkischer Krieg
+Deutscher Krieg - 1866
+Deutscher Krieg - 1866
+Französisch-Spanischer Krieg - 1635-1659
+","der Westen no plural
+der Westen no plural
+der Westen no plural - Bridge
+die Weste pl.: die Westen
+die Weste pl.: die Westen
+der wilde Westen no plural
+mittlerer Westen - USA
+kugelsichere Weste
+kugelsichere Weste
+schusssichere Weste
+","der Salon pl.: die Salons
+der Salon pl.: die Salons
+der Salon pl.: die Salons dated
+das Sonnenstudio pl.: die Sonnenstudios
+das Bräunungsstudio pl.: die Bräunungsstudios
+das Kosmetikstudio pl.: die Kosmetikstudios
+der Kosmetiksalon pl.: die Kosmetiksalons
+der Schönheitssalon pl.: die Schönheitssalons
+der Damensalon pl.: die Damensalons
+das Sonnenstudio pl.: die Sonnenstudios
+der Herrensalon pl.: die Herrensalons
+der Friseursalon or: Frisörsalon pl.: die Friseursalons, die Frisörsalons dated
+der Frisiersalon pl.: die Frisiersalons dated
+der Damensalon pl.: die Damensalons
+der Herrensalon pl.: die Herrensalons
+","Waren zu herabgesetzten Preisen
+Herabsetzung von Preisen
+BIP in konstanten Preisen
+BIP in laufenden Preisen
+Freigabe von Preisen
+Nash-Gleichgewicht in Preisen
+Versteigerung mit sinkenden Preisen
+Berechnung von Preisen
+Notierung von Preisen
+Stagnation bei steigenden Preisen
+Vertrag zu festen Preisen
+","das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+das Bild pl.: die Bilder
+",None,"der Waschsalon pl.: die Waschsalons
+der Waschsalon pl.: die Waschsalons
+der Waschsalon pl.: die Waschsalons
+","die Kamera pl.: die Kameras
+die Kamera pl.: die Kameras [Photogrammetry]
+versteckte Kamera
+elektronische Kamera
+akustische Kamera
+digitale Kamera
+fotografische (or: photographische) Kamera
+hochauflösende Kamera
+mehrlinsige Kamera
+viellinsige Kamera
+der Kamera-Dehnungsausgleicher
+der Kamera-Filmabtaster
+die CCTV-Kamera
+die Hobby-Kamera
+","das Jahr pl.: die Jahre
+das Jahr pl.: die Jahre
+das neue Jahr
+Jahr der Präsidentenwahl
+Jahr der Veranlagung
+Jahr der Verfügbarkeit [Standardization]
+akademisches Jahr
+Freiwilliges Ökologisches Jahr [abbr.: FÖJ]
+laufendes Jahr
+laufendes Jahr
+Freiwilliges Soziales Jahr [abbr.: FSJ]
+dienstfreies Jahr
+fiskalisches Jahr
+julianisches Jahr
+","der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - eines Gebäudes
+die Besitzerin pl.: die Besitzerinnen
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - Wertpapiere
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen - auch von beweglichem Vermögen rare
+der Besitzer | die Besitzerin pl.: die Besitzer, die Besitzerinnen
+","die Szene pl.: die Szenen
+die Szene pl.: die Szenen
+Nachdrehen einer Szene
+die Schickimicki-Szene pl.: die Schickimicki-Szenen
+","die Kameraführung pl.: die Kameraführungen
+subjektive Kameraführung
+","die Menschen pl.
+die Menschen pl.
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+der Mensch pl.: die Menschen
+ältere Menschen pl.
+ältere Menschen pl.
+christlicher Verein junger Menschen [abbr.: CVJM]
+fremdbestimmte Menschen
+verzweifelte Menschen pl.
+Lehre vom Menschen
+Wohlergehen der Menschen
+Mensch und Tier
+","die Grippe pl.: die Grippen
+die Grippe pl.: die Grippen
+die Grippe pl.: die Grippen
+Spanische Grippe
+echte Grippe
+die Magen-Darm-Grippe pl.: die Magen-Darm-Grippen
+die Magen-Darm-Grippe pl.: die Magen-Darm-Grippen
+","das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+das Fieber pl.: die Fieber
+heftiges Fieber
+rheumatisches Fieber Lat.: Febris rheumatica
+typhoides Fieber Lat.: Typhus abdominalis
+ephemeres Fieber
+Rhodesisches Fieber
+die Fieberakazie or: Fieber-Akazie pl. Lat.: Acacia xanthophloea, Vachellia xanthophloea
+der Fieberbaum or: Fieber-Akazie pl. Lat.: Acacia xanthophloea, Vachellia xanthophloea
+das Denguefieber or: Dengue-Fieber pl.
+das Ebolafieber or: Ebola-Fieber no plural
+das Ebolafieber or: Ebola-Fieber no plural
+","die Alternative (zu etw.dat.) pl.: die Alternativen
+die Variante pl.: die Varianten
+der Ersatz no plural
+die Ausweichmöglichkeit pl.: die Ausweichmöglichkeiten
+andere Wahl
+die Mehrfachmöglichkeit pl.: die Mehrfachmöglichkeiten
+die Ersatzlösung pl.: die Ersatzlösungen
+das Ersatzwerk pl.: die Ersatzwerke
+die Möglichkeit pl.: die Möglichkeiten
+die Wahl pl.
+die Wahlmöglichkeit pl.: die Wahlmöglichkeiten
+die Alternative pl.: die Alternativen
+die Alternative pl.: die Alternativen
+die Alternative pl.: die Alternativen
+","das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+Kinder im Schulalter
+heranwachsende Kinder pl.
+behinderte Kinder pl.
+kleine Kinder pl.
+heimatlose Kinder pl.
+durchzufütternde Kinder pl. [coll.]
+","das Essen no plural
+das Essen no plural
+das Essen pl.: die Essen
+das Essen no plural
+das Essen no plural
+das Essen no plural
+das Essen no plural
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen
+die Esse pl.: die Essen [Schmieden]
+die Esse pl.: die Essen
+","die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural
+die Besserung no plural - des Lebenswandels
+die Besserung no plural
+Anzeichen der Besserung pl.
+Maßregeln der Sicherung und Besserung
+Maßregeln der Sicherung und Besserung
+","das Rezept pl.: die Rezepte [fig.]
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+das Rezept pl.: die Rezepte
+branchenspezifische Rezepte
+Medikament, das man ohne Rezept bekommt
+","das Leben pl.
+das Leben no plural
+das Leben pl.
+das Leben pl.
+das Leben no plural
+Leben im Wasser
+Leben als Single
+städtisches Leben
+zügelloses Leben
+anstrengendes Leben
+arbeitsreiches Leben
+außerirdisches Leben
+bäuerliches Leben
+bürgerliches Leben
+","der Sohn pl.: die Söhne
+der Sohn pl.: die Söhne
+der Sohn pl.: die Söhne
+jüngerer Sohn
+verlorener Sohn
+","das Virus pl.: die Viren - außerhalb der Fachsprache auch: der Virus
+der (or: das) Virus pl.: die Viren
+die APV-Viren pl.
+Virus der Pferdepest
+Lymphadenopathie-assoziiertes Virus
+humanes respiratorisches Synzytial-Virus [abbr.: HRSV]
+respiratorisches Synzytial-Virus [abbr.: RSV]
+das Zikavirus or: Zika-Virus pl.: die Zikaviren, die Zika-Viren
+das Epstein-Barr-Virus pl.: die Epstein-Barr-Viren [abbr.: EBV]
+das RS-Virus [abbr.: RSV]
+der (or: das) Absettarov-Virus
+das APC-Virus pl.: die APC-Viren
+das Helfer-Virus pl.: die Helfer-Viren
+die Marburg-Virus-Krankheit pl.
+","der Podcast pl.: die Podcasts
+","der Husten pl.
+trockener Husten
+ärgerlicher Husten
+bellender Husten
+lästiger Husten
+bellender Husten - volkstümliche Bezeichnung für den harten bellenden Husten bei Tracheitis
+trockener Husten
+trockener Husten - volkstümliche Bezeichnung für den harten bellenden Husten bei Tracheitis
+produktiver Husten
+spastischer Husten
+unproduktiver Husten
+die Husten- und Niesetikette or: Husten- und Nies-Etikette
+die Husten- und Niesetikette or: Husten- und Nies-Etikette
+der Stakkato-Husten
+","die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+die Erkältung pl.: die Erkältungen
+schlimme Erkältung
+nach einer Erkältung
+schlimme Erkältung
+Medizin gegen Erkältungen
+","der Saft pl.: die Säfte
+der Saft pl.: die Säfte
+der Saft pl.: die Säfte - z. B. Fleischsaft
+der Saft pl.: die Säfte
+der Saft pl. - Strom, Brennstoff [sl.]
+der Saftweißdorn or: Saft-Weißdorn pl. Lat.: Crataegus succulenta
+der Saftweißdorn or: Saft-Weißdorn pl. Lat.: Crataegus succulenta
+","der Dialog pl.: die Dialoge
+das Gespräch pl.: die Gespräche
+das Wechselgespräch pl.: die Wechselgespräche
+die Zwiesprache pl.: die Zwiesprachen
+der Dialog pl.: die Dialoge
+das Zwiegespräch pl.: die Zwiegespräche
+das Dialogforum pl.: die Dialogforen
+der Dialogbaustein pl.: die Dialogbausteine
+der Gesprächspartner | die Gesprächspartnerin pl.: die Gesprächspartner, die Gesprächspartnerinnen
+interaktives System
+das Dialogfenster pl.: die Dialogfenster
+das Dialogfenster pl.: die Dialogfenster
+die Dialogebene pl.: die Dialogebenen
+das Dialogmarketing no plural
+","der Moderator pl.: die Moderatoren
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator pl.: die Moderatoren
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen - Radio, TV
+der Moderator | die Moderatorin pl.: die Moderatoren, die Moderatorinnen
+der Moderator pl.: die Moderatoren
+Moderator einer Talkshow
+Moderator einer Radio-Talkshow
+das Moderator-Spaltstoff-Verhältnis
+","der Winter pl.: die Winter
+die Wintersaison pl.: die Wintersaisons/die Wintersaisonen
+die Winterzeit pl.: die Winterzeiten
+die Wintersachen pl., no sg.
+der Wintertag pl.: die Wintertage
+der Winternebel pl.: die Winternebel
+der Wintergarten pl.: die Wintergärten
+der Winterurlaub pl.: die Winterurlaube
+der Winterurlaub pl.: die Winterurlaube
+der Winterhimmel pl.: die Winterhimmel
+der Winteraufenthalt pl.: die Winteraufenthalte
+die Winterstiefel pl.
+der Wintermantel pl.: die Wintermäntel
+der Winterschlaf no plural
+","der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen - älteres Feldmaß, territorial verschieden zwischen 2500 und 3600 m2
+das Morgen no plural
+gestern Morgen
+gestern Morgen
+Frühflug am Morgen
+","die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten
+die Zeit pl.: die Zeiten - Zeitform
+die Zeiten pl.
+Zeit am Steuer
+Zeit zum Schlafengehen
+Zeit der Schwangerschaft
+Zeit zum Abendessen
+Zeit zum Auslösen
+Zeit zur Abzahlung
+","die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe pl.: die Mühen
+die Mühe no plural
+die Mühe usually in pl. Mühen
+die Mühen pl.
+größte Mühe
+vergebliche Mühe
+","die Woche pl.: die Wochen
+die Woche pl.: die Wochen
+zwei Wochen
+Fest der Wochen [Judaism]
+anstrengende Woche
+Mitte der Woche
+vorige Woche
 "
 noun_details,english,"article: Der
 word: Name
@@ -576,8 +2967,482 @@ genus: FEMI
 plural: Bänke
 meaning: bench
 bank [FINAN.]
+","article: Der
+word: Richter
+genus: MASC
+plural: Richter
+meaning: judge [LAW][SPORT.]
+justice - judge of Supreme Court [LAW]
+","article: der
+word: Monat
+genus: MASC
+plural: Monate
+meaning: month
+month
+","article: Das
+word: Gericht
+genus: NEUT
+plural: Gerichte
+meaning: dish
+court [LAW]
+","article: Der
+word: Fall
+genus: MASC
+plural: Fälle
+meaning: fall
+fall
+","article: Der
+word: Staatsanwalt
+genus: MASC
+plural: Staatsanwälte
+meaning: prosecutor [LAW]
+public prosecutor [LAW]
+","article: Der
+word: Strafprozess
+genus: MASC
+plural: Strafprozesse
+meaning: criminal proceedings plural noun [LAW]
+criminal case [LAW]
+","article: Die
+word: Strafe
+genus: FEMI
+plural: Strafen
+meaning: punishment
+pain
+","article: die
+word: Geschäftsunterlagen
+genus: FEMI
+plural: sg.
+meaning: business records pl.
+business documents pl. [COMM.]
+","article: Die
+word: Stadt
+genus: FEMI
+plural: Städte
+meaning: city
+town
+","article: verbotenes
+word: Energieband
+genus: 
+plural: Energieband
+meaning: forbidden energy band
+illegal transaction
+","article: Die
+word: Wahl
+genus: FEMI
+plural: Wahlen
+meaning: choice
+election
+","article: Das
+word: Land
+genus: NEUT
+plural: Länder / Lande
+meaning: country
+land
+","article: Der
+word: Januar
+genus: MASC
+plural: Januare
+meaning: January [abbr.: Jan.]
+January effect [FINAN.]
+","article: Der
+word: Präsident
+genus: MASC
+plural: Präsidenten
+meaning: president [abbr.: Pres.]
+governor
+","article: Der
+word: Gerichtstermin
+genus: MASC
+plural: Gerichtstermine
+meaning: hearing [LAW]
+court session [LAW]
+","article: Die
+word: Wahrheit
+genus: FEMI
+plural: Wahrheiten
+meaning: truth
+verity
+","article: das
+word: Bündnis
+genus: NEUT
+plural: die Bündnisse
+meaning: alliance
+league
+","article: Das
+word: Mitgliedsland
+genus: NEUT
+plural: Mitgliedsländer / Mitgliedslande
+meaning: member body country
+member country [POL.]
+","article: das
+word: Quartier
+genus: NEUT
+plural: die Quartiere
+meaning: accommodation sg., usually in plural: accommodations (Amer.)
+accommodation (Brit.)
+","article: Das
+word: Hauptquartier
+genus: NEUT
+plural: Hauptquartiere
+meaning: headquarters - pl.: headquarters [abbr.: H.Q., h.q., HQ]
+
+","article: 
+word: 
+genus: 
+plural: 
+meaning: Russia [GEOG.]
+Muscovy [HIST.]
+","article: Das
+word: Militär
+genus: NEUT
+plural: plural
+meaning: army no plural
+the military
+","article: Das
+word: Mitglied
+genus: NEUT
+plural: Mitglieder
+meaning: member
+fellow
+","article: Die
+word: NATO
+genus: FEMI
+plural: plural
+meaning: North Atlantic Treaty Organization [abbr.: NATO] [POL.]
+razor-barbed wire
+","article: Das
+word: Mitglied
+genus: NEUT
+plural: Mitglieder
+meaning: member
+fellow
+","article: Die
+word: Erweiterung
+genus: FEMI
+plural: Erweiterungen
+meaning: expansion
+extension
+","article: Der
+word: General
+genus: MASC
+plural: Generale / Generäle
+meaning: general [MIL.]
+general
+","article: Der
+word: Generalsekretär
+genus: MASC
+plural: Generalsekretäre
+meaning: general secretary
+secretary general
+","article: Der
+word: Beitritt
+genus: MASC
+plural: Beitritte
+meaning: admission
+accedence
+","article: Länder
+word: Europas
+genus: 
+plural: Europas
+meaning: European countries
+Länder authority [ADMIN.]
+","article: Das
+word: Militärbündnis
+genus: NEUT
+plural: Militärbündnisse
+meaning: military alliance [MIL.]
+
+","article: Die
+word: Fahne
+genus: FEMI
+plural: Fahnen
+meaning: flag
+ensign
+","article: das
+word: Mitglied
+genus: NEUT
+plural: die Mitglieder
+meaning: member
+fellow
+","article: Das
+word: Haupt
+genus: NEUT
+plural: Häupter
+meaning: head
+pate
+","article: Das
+word: Land
+genus: NEUT
+plural: Länder / Lande
+meaning: country
+ground
+","article: Die
+word: Regierung
+genus: FEMI
+plural: Regierungen
+meaning: government
+administration (Amer.) [POL.]
+","article: Das
+word: Mitglied
+genus: NEUT
+plural: Mitglieder
+meaning: member
+fellow
+","article: der
+word: Sekretär
+genus: MASC
+plural: die Sekretäre, die Sekretärinnen
+meaning: secretary
+amanuensis
+","article: Die
+word: Feier
+genus: FEMI
+plural: Feiern
+meaning: party
+celebration
+","article: Der
+word: Schriftsteller
+genus: MASC
+plural: Schriftsteller
+meaning: writer
+author - of a book, poem, etc.
+","article: Der
+word: Krieg
+genus: MASC
+plural: Kriege
+meaning: war
+warfare
+","article: die
+word: Musik
+genus: FEMI
+plural: 
+meaning: music
+classical music
+","article: Die
+word: Million
+genus: FEMI
+plural: Millionen
+meaning: million [abbr.: m]
+millions of ...
+","article: Der
+word: Soldat
+genus: MASC
+plural: Soldaten
+meaning: soldier
+serviceman - pl.: servicemen
+","article: Die
+word: Welt
+genus: FEMI
+plural: Welten
+meaning: world
+welt - weal sg., usually in plural: welts
+","article: die
+word: Führung
+genus: FEMI
+plural: die Führungen
+meaning: guidance
+management
+","article: der
+word: Krieg
+genus: MASC
+plural: die Kriege
+meaning: war
+warfare
+","article: Der
+word: Westen
+genus: MASC
+plural: plural
+meaning: west
+Occident or: occident
+","article: der
+word: Salon
+genus: MASC
+plural: die Salons
+meaning: saloon
+parlorAE / parlourBE
+","article: Waren
+word: zu
+genus: 
+plural: Preisen
+meaning: cut-price goods
+markdown [COMM.]
+","article: das
+word: Bild
+genus: NEUT
+plural: die Bilder
+meaning: picture
+photograph [PHOT.]
+",None,"article: Der
+word: Waschsalon
+genus: MASC
+plural: Waschsalons
+meaning: launderette or: laundrette (Brit.)
+laundromat
+","article: Die
+word: Kamera
+genus: FEMI
+plural: Kameras
+meaning: camera [PHOT.]
+chamber [TECH.]
+","article: Das
+word: Jahr
+genus: NEUT
+plural: Jahre
+meaning: year
+twelvemonth archaic
+","article: Die
+word: Besitzerin
+genus: MASC
+plural: Besitzerinnen
+meaning: owner
+possessor
+","article: Die
+word: Szene
+genus: FEMI
+plural: Szenen
+meaning: scene
+sequence
+","article: Die
+word: Kameraführung
+genus: FEMI
+plural: Kameraführungen
+meaning: camera work
+point-of-view shot [CINE.][PHOT.]
+","article: Der
+word: Mensch
+genus: FEMI
+plural: Menschen
+meaning: people plural noun
+humans pl.
+","article: Die
+word: Grippe
+genus: FEMI
+plural: Grippen
+meaning: influenza
+flu
+","article: Das
+word: Fieber
+genus: NEUT
+plural: Fieber
+meaning: fever
+temperature
+","article: Die
+word: Alternative
+genus: FEMI
+plural: Alternativen
+meaning: alternative (to sth.)
+alternative
+","article: Das
+word: Kind
+genus: NEUT
+plural: Kinder
+meaning: child - pl.: children
+infant
+","article: Das
+word: Essen
+genus: NEUT
+plural: Essen
+meaning: dinner
+food no plural
+","article: Die
+word: Besserung
+genus: FEMI
+plural: Besserungen
+meaning: improvement
+betterment
+","article: Das
+word: Rezept
+genus: NEUT
+plural: Rezepte
+meaning: recipe [fig.]
+recipe [COOK.]
+","article: Das
+word: Leben
+genus: NEUT
+plural: Leben
+meaning: life - pl.: lives
+living
+","article: Der
+word: Sohn
+genus: MASC
+plural: Söhne
+meaning: son
+stamper [TECH.]
+","article: das
+word: Virus
+genus: NEUT
+plural: Viren
+meaning: virus [MED.]
+virus [COMP.]
+","article: der
+word: Podcast
+genus: MASC
+plural: Podcasts
+meaning: podcast
+
+","article: Der
+word: Husten
+genus: MASC
+plural: Husten
+meaning: cough [MED.]
+dry cough
+","article: Die
+word: Erkältung
+genus: FEMI
+plural: Erkältungen
+meaning: cold
+chill
+","article: Der
+word: Saft
+genus: MASC
+plural: Säfte
+meaning: juice
+crush
+","article: Der
+word: Dialog
+genus: MASC
+plural: Dialoge
+meaning: dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+","article: Der
+word: Moderator
+genus: MASC
+plural: Moderatoren
+meaning: host
+presenter
+","article: Der
+word: Winter
+genus: MASC
+plural: Winter
+meaning: winter
+winter season
+","article: Der
+word: Morgen
+genus: MASC
+plural: Morgen
+meaning: morning
+morn [poet.]
+","article: Die
+word: Zeit
+genus: FEMI
+plural: Zeiten
+meaning: time
+period
+","article: Die
+word: Mühe
+genus: FEMI
+plural: Mühen
+meaning: trouble
+effort
+","article: Die
+word: Woche
+genus: FEMI
+plural: Wochen
+meaning: week
+sennight or: se'nnight archaic
 "
-noun_details,german,,,,,,,,,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,
 adjectives_or_adverbs,english,"by name - postpos.
 according to name
 in all but name
@@ -620,7 +3485,7 @@ year-to-date adj.
 last year
 in one year
 Y2K-compliant adj.
-",,"sisterless adj.
+",None,"sisterless adj.
 ","brotherless adj.
 between friends
 ","parental guidance [abbr.: PG]
@@ -651,7 +3516,7 @@ at close range
 within spitting distance
 at close quarters
 ","born to an unmarried mother
-",,"fatherlike adj.
+",None,"fatherlike adj.
 ","across the board
 with a bank [FINAN.]
 bank-financed adj. [FINAN.]
@@ -662,6 +3527,352 @@ on the left bank
 along the south bank
 endorsed by a bank [FINAN.]
 based on banks [FINAN.]
+",None,"a month later
+a month later
+per month
+once a month
+proximo adv.
+a month ago
+monthly adj.
+no more than a month ago
+per month or part thereof [FINAN.]
+quarterly adj. adv.
+bimonthly or: bi-monthly adj. adv.
+proximo adv.
+every six months
+ultimo [abbr.: ult., ulto.] adj. - used after noun
+","court-appointed adj.
+per curiam Latin [LAW]
+amicably adv.
+forensic adj.
+pending with a court [LAW]
+untried adj. [LAW]
+cognizableAE adj. [LAW]cognisableBE / cognizableBE adj. [LAW]
+","in event of war
+in the event of nonpaymentAE in the event of non-paymentBE
+at best
+best-case adj.
+at its best
+at the best
+in the latter case
+conversely adv.
+in the present case
+in the case under consideration
+in the last resort
+if so
+in the former case
+downstream adj. - used before noun
+",None,None,"pardoning adj.
+",None,"in town
+in the city
+in the town
+on the outskirts
+urban adj.
+municipal adj.
+townless adj.
+inter-city adj.
+crosstown adj. adv. (Amer.)
+crosstown adj.
+crosstown adj.
+","illegal adj.
+prohibited adj.
+banned adj.
+forbidden adj.
+off-limits adj.
+illicit adj.
+out of bounds
+tabooed adj.
+illegal adj.
+verboten adj. German
+strictly forbidden
+verboten adj. German
+strictly forbidden
+outlawed adj.
+unforbidden adj.
+forbidden under penalty of death
+","optional adj.
+pre-election adj.
+electoral adj.
+elective adj.
+electing adj.
+of so.'s own choice
+at one's own option
+at the buyer's option
+chosen by vote
+at buyer's option
+at the master's option
+","land-based adj.
+ashore adv.
+onshore adv.
+in the country
+in the countryside
+nationwide adv.
+in the whole country
+throughout the country
+on home soil
+overland adv.
+rural adj.
+praedial or: predial adj.
+land-based adj.
+land-based adj. [MIL.]
+",None,None,None,"in truth
+","confederative adj.
+",None,None,"headquartered (in) adj.
+",None,"in the army
+military adj.
+",None,None,None,None,"general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+general adj.
+generally adv.
+",None,None,None,None,None,None,"main adj. - used before noun
+chief adj. - used before noun
+major adj. - used before noun
+root adj. - used before noun
+principal adj. also [MATH.]
+cardinal adj. - used before noun
+key adj. - usually before noun
+peak adj. - used before noun
+pilot adj.
+capital adj. - used before noun
+primary adj.
+basic adj. - used before noun
+central adj. - used before noun
+lead adj. - used before noun
+","land-based adj.
+ashore adv.
+onshore adv.
+in the country
+in the countryside
+nationwide adv.
+in the whole country
+throughout the country
+on home soil
+overland adv.
+rural adj.
+praedial or: predial adj.
+native adj.
+in this country
+","intergovernmental adj.
+autonomous adj.
+governmental adj.
+government-controlled adj.
+government-controlled adj.
+intergovernmental adj.
+",None,None,"fey adj.
+fey adj. (Brit.)
+",None,"at war
+warring - in conflict adj.
+war-ravaged adj.
+war-torn adj.
+war-torn adj.
+war-torn adj.
+postwar adj.
+prior to the war
+pre-war adj.
+martial adj. - used before noun
+in event of war
+nonbelligerentAE / non-belligerentBE adj.
+","musical adj.
+","a million times
+million-odd adj.
+","soldierly adj.
+","in public
+at the back of beyond
+in the back of beyond
+welt-sewn adj. - shoe
+global adj.
+universal adj.
+not of this world
+all over the world
+worldwide adj.
+out in the world
+across the globe
+begotten adj.
+all over the world
+to the world's end
+born on digital [COMM.]
+why ever (or: whyever) - emphatic form of why adv.
+why on earth adv.
+","narrated adj.
+unguided adj.
+","at war
+warring - in conflict adj.
+war-ravaged adj.
+war-torn adj.
+war-torn adj.
+war-torn adj.
+postwar adj.
+prior to the war
+pre-war adj.
+martial adj. - used before noun
+in event of war
+nonbelligerentAE / non-belligerentBE adj.
+","in the West
+round the western regions
+in a westward direction
+from the West
+waistcoated adj.
+vested adj.
+due west
+in a westward direction
+westbound adj.
+",None,"at constant prices
+at reduced prices
+at low prices
+moderately priced
+at all prices
+at reasonable prices
+at fixed prices
+at advanced prices
+at current prices
+at popular prices
+at rock bottom prices
+at popular prices
+at popular prices
+at the prices stipulated
+at cut prices
+in a rising market
+at steady prices
+","in sound and vision
+clinical adj.
+subclinical adj. [MED.]
+",None,None,None,"the year after next
+last year
+every year
+each year
+last year
+per annum [abbr.: p.a.]
+the year before last
+biyearly or: bi-yearly - twice a year adj. adv.
+biannual or: bi-annual adj.
+year-to-date adj.
+last year
+in one year
+Y2K-compliant adj.
+Y2K-compliant adj.
+",None,None,None,"inhuman adj.
+anthropogenic adj.
+man-made adj.
+human-centeredAE / human-centredBE adj.
+densely packed
+human-centeredAE / human-centredBE adj.
+man-machine adj.
+human-centeredAE / human-centredBE adj.
+uniquely human
+","down with influenza
+","pyrogenic adj. [MED.]
+aguish adj. [MED.]
+provocative of fever [MED.]
+afebrile adj. [MED.]
+apyrexial adj. [MED.]
+","alternative adj.
+alternative adj.
+alternative adj.
+alternative adj. [LAW]
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv.
+alternatively adv. [LAW]
+in the alternative [LAW]
+","kind adj.
+kind adj.
+kind adj.
+kind adj.
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kindly adj. - e.g. climate
+","postprandial adj.
+prandial adj.
+","on the mend
+","dispensing adj. [PHARM.]
+","alive adj.
+to the fore
+in life
+life-giving adj.
+bio-destructible adj. [TECH.]
+bustling adj.
+in the flesh
+all my/your/her/his/our life
+paired for life
+taken from real life
+bread-and-butter adj. - used before noun
+","filial adj.
+","viral adj.
+",None,None,None,None,"online or: on-line adj.
+conversational adj.
+in dialogueAE / dialogAE form in dialogueBE form
+",None,"wintered adj.
+in winter
+hibernal adj.
+autumn-sown adj. [AGR.]
+brumal adj. [poet.] (Amer.)
+both in summer and in winter
+","tomorrow adv.
+in the morning
+the morn (Scot.)
+tomorrow morning
+tomorrow night
+tomorrow morning
+by tomorrow
+early in the morning
+in the early morning
+all morning
+a week tomorrow
+a week tomorrow
+overnight adv.
+cold turkey
+of this morning
+as soon as the day broke
+all-morning adj.
+","long adv. - long time
+time-consuming adj.
+time-killing adj.
+time-saving adj.
+all my/your/her/his/our life
+for a while
+for a spell - for a period
+for a time
+awhile adv.
+a long time
+for any length of time
+in due course
+in due time
+in good season
+","narrowly adv.
+without effort
+","weekly adj.
+the week before last
+the week after next
+every week
+during the week
+in the week (Brit.)
+on weekdays
+in a week's time
+by midweek
+within a week
+biweekly or: bi-weekly adj. adv.
+in a fortnight
+within a week or two
+every other week
 "
 adjectives_or_adverbs,german,"namentlich
 nach Namen
@@ -705,7 +3916,7 @@ aufgelaufen im Jahr
 im vergangenen Jahr
 in einem Jahr
 Jahr-2000-fähig
-",,"ohne Schwestern - nachgestellt
+",None,"ohne Schwestern - nachgestellt
 ","ohne Brüder - nachgestellt
 unter Brüdern
 ","in Begleitung der Eltern
@@ -736,7 +3947,7 @@ aus nächster Nähe
 in unmittelbarer Nähe
 ganz in der Nähe
 ","von einer unverheirateten Mutter geboren
-",,"wie ein Vater
+",None,"wie ein Vater
 ","durch die Bank
 bei einer Bank
 von einer Bank finanziert [Banking]
@@ -747,6 +3958,352 @@ linksufrig
 am Südufer
 bankgiriert - nachgestellt [Banking]
 bankbasiert
+",None,"ein Monat später
+einen Monat später
+pro Monat
+einmal im Monat
+im nächsten Monat
+vor einem Monat
+Monats...
+erst letzten Monat
+für jeden angefangenen Monat [Bookkeeping]
+alle drei Monate
+alle zwei Monate
+des nächsten Monats
+alle sechs Monate
+des letzten Monats
+","vom Gericht berufen
+durch das Gericht - als Kollektiv
+außer Gericht
+Gerichts...
+bei Gericht anhängig
+nicht vor Gericht gestellt
+vor ein Gericht gehörig
+","im Fall eines Krieges
+im Fall der Nichtbezahlung
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im letzteren Fall
+im umgekehrten Fall
+im vorliegenden Fall
+im vorliegenden Fall
+im schlimmsten Fall
+in dem Fall
+im ersteren Fall
+Fall...
+",None,None,"eine Strafe erlassend
+",None,"in der Stadt
+in der Stadt
+in der Stadt
+am Rand (or: Rande) der Stadt
+Stadt...
+Stadt...
+ohne Städte
+zwischen den Städten
+quer durch die Stadt
+am anderen Ende der Stadt
+vom anderen Ende der Stadt
+","verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+gesetzlich verboten
+streng verboten
+streng verboten
+strengstens verboten
+strengstens verboten
+gesetzlich verboten
+nicht verboten
+bei Todesstrafe verboten
+","der Wahl überlassen
+vor der Wahl
+Wahl...
+Wahl...
+Wahl...
+nach eigener Wahl
+nach eigener Wahl
+nach Wahl des Käufers
+durch Wahl bestimmt
+nach Käufers Wahl
+nach Wahl des Meisters
+","vom Land aus
+an Land
+an Land
+auf dem Land (or: Lande)
+auf dem Land (or: Lande)
+im ganzen Land
+im ganzen Land
+im ganzen Land
+im eigenen Land
+über Land
+Land...
+Land...
+auf dem Festland
+landgestützt
+",None,None,None,"in Wahrheit
+","Bündnis...
+",None,None,"mit Hauptquartier (in)
+",None,"beim Militär
+Militär...
+",None,None,None,None,"allgemein
+üblich
+generell
+normal
+global
+Allgemein...
+allseitig
+allgemeingültig or: allgemein gültig
+gewöhnlich
+breit
+landläufig
+unbestimmt
+General...
+im Allgemeinen [abbr.: i. Allg.]
+",None,None,None,None,None,None,"Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+Haupt...
+","vom Land aus
+an Land
+an Land
+auf dem Land (or: Lande)
+auf dem Land (or: Lande)
+im ganzen Land
+im ganzen Land
+im ganzen Land
+im eigenen Land
+über Land
+Land...
+Land...
+Landes...
+hierzulande or: hier zu Lande
+","zwischen den Regierungen
+mit eigener Regierung
+von der Regierung ausgehend
+von der Regierung gelenkt
+von der Regierung kontrolliert
+zwischen zwei Regierungen
+",None,None,"entrückt
+todgeweiht
+",None,"im Krieg
+kriegführend or: Krieg führend
+vom Krieg verwüstet
+vom Krieg gezeichnet
+vom Krieg erschüttert
+vom Krieg zerrüttet
+nach dem Krieg
+vor dem Krieg
+vor dem Krieg
+Kriegs...
+im Fall eines Krieges
+nicht kriegführend (or: Krieg führend)
+","Musik...
+","Millionen Mal
+etwa eine Million
+","wie ein Soldat
+","vor der Welt
+am Ende der Welt
+am Arsch der Welt [vulg.]
+echt rahmengenäht
+Welt...
+Welt...
+nicht von dieser Welt
+auf der ganzen Welt
+auf der ganzen Welt
+draußen in der Welt
+rund um die Welt
+in die Welt gesetzt
+überall auf der Welt
+bis ans Ende der Welt
+aus der digitalen Welt
+wieso um alles in der Welt
+wieso um alles in der Welt
+","mit Führung
+ohne Führung
+","im Krieg
+kriegführend or: Krieg führend
+vom Krieg verwüstet
+vom Krieg gezeichnet
+vom Krieg erschüttert
+vom Krieg zerrüttet
+nach dem Krieg
+vor dem Krieg
+vor dem Krieg
+Kriegs...
+im Fall eines Krieges
+nicht kriegführend (or: Krieg führend)
+","im Westen
+im Westen
+nach Westen
+aus dem Westen
+mit Weste
+mit einer Weste
+genau nach Westen
+in Richtung Westen
+nach Westen gehend
+",None,"zu konstanten Preisen
+zu herabgesetzten Preisen
+zu niedrigen Preisen
+mit gemäßigten Preisen
+zu allen Preisen
+zu angemessenen Preisen
+zu festen Preisen
+zu höheren Preisen
+zu jeweiligen Preisen
+zu mäßigen Preisen
+zu niedrigsten Preisen
+zu populären Preisen
+zu volkstümlichen Preisen
+zu den festgelegten Preisen
+zu herabgesetzten Preisen
+bei anziehenden Preisen
+zu stabilen Preisen
+","in Ton und Bild
+das klinische Bild betreffend
+kein klinisches Bild aufweisend
+",None,None,None,"übernächstes Jahr
+vergangenes Jahr
+jedes Jahr
+jedes Jahr
+letztes Jahr
+pro Jahr
+vorletztes Jahr
+zweimal im Jahr
+zweimal im Jahr
+aufgelaufen im Jahr
+im vergangenen Jahr
+in einem Jahr
+Jahr-2000-fähig
+Jahr-2000-kompatibel
+",None,None,None,"menschenverachtend or: Menschen verachtend
+vom Menschen verursacht
+vom Menschen verursacht
+am Menschen orientiert
+voller Menschen
+für den Menschen
+Mensch-Maschinen-...
+auf den Menschen fokussiert
+nur beim Menschen vorkommend
+","an Grippe erkrankt
+","fiebererzeugend or: Fieber erzeugend
+fiebererzeugend or: Fieber erzeugend
+Fieber hervorrufend
+ohne Fieber
+ohne Fieber
+","alternativ
+Alternativ...
+abwechselnd
+hilfsweise adv.
+alternativ
+ersatzweise
+anderenfalls or: andernfalls
+wahlweise
+wechselseitig
+hilfsweise
+hilfsweise adv.
+","freundlich
+nett
+liebenswürdig
+gütig
+aussichtsvoll [Mining]
+höffig [Mining]
+hoffnungsvoll [Mining]
+gestaltig [Mining]
+höfflich [Mining]
+hoffnungserregend [Mining]
+nicht genau bekannt [Mining]
+nicht nachgewiesen [Mining]
+nicht sicher [Mining]
+angenehm
+","nach dem Essen
+Essens...
+","auf dem Weg der Besserung
+","nach Rezept anfertigend
+","am Leben
+am Leben
+im Leben
+lebenspendend or: Leben spendend
+lebenzerstörend or: Leben zerstörend
+voller Leben
+im richtigen Leben
+zeit meines/deines/ihres/seines/unseres Lebens
+ein Leben lang verbunden
+aus dem Leben gegriffen
+des täglichen Lebens
+","Sohnes...
+","Virus...
+",None,None,None,None,"im Dialog
+Dialog...
+in Gesprächsform
+",None,"dem Winter ausgesetzt
+winters adv.
+Winter...
+Winter...
+Winter...
+Sommer wie Winter
+","morgen
+am Morgen
+morgen adv.
+morgen früh (or: Früh)
+morgen Abend
+morgen Vormittag
+bis morgen
+früh am Morgen
+früh am Morgen
+den ganzen Morgen
+morgen in acht Tagen
+morgen in einer Woche
+von heute auf morgen
+von heute auf morgen
+von heute Morgen
+schon am frühen Morgen
+den ganzen Morgen lang
+","lange Zeit
+zeitraubend or: Zeit raubend
+zeitraubend or: Zeit raubend
+zeitsparend or: Zeit sparend
+zeit meines/deines/ihres/seines/unseres Lebens
+eine Zeitlang (or: Zeit lang)
+eine Zeitlang (or: Zeit lang)
+eine Zeitlang (or: Zeit lang)
+eine Zeit lang (or: Zeitlang)
+lange Zeit
+(für) längere Zeit
+zur rechten Zeit
+zur rechten Zeit
+zur rechten Zeit
+","mit Mühe
+ohne Mühe
+","Wochen...
+vorletzte Woche
+übernächste Woche
+jede Woche
+unter der Woche
+unter der Woche
+unter der Woche
+in einer Woche
+Mitte der Woche
+innerhalb einer Woche
+alle zwei Wochen
+in zwei Wochen
+in ein bis zwei Wochen
+jede zweite Woche
 "
 phrases_or_collocations,english,"What's in a name?
 a name to conjure with
@@ -786,8 +4343,8 @@ all the year round
 a prosperous new year
 Merry Christmas and a happy New Year!
 Happy New Year!
-",,,"Brother John [MUS.]
-",,"a house of one's own
+",None,None,"Brother John [MUS.]
+",None,"a house of one's own
 sth. is on the house infinitive: to be on the house
 house for sale
 When the cat's away, the mice will play.
@@ -799,7 +4356,7 @@ to win the White House [fig.][POL.]
 ","a chip off the old block
 mother of two
 Prudence is the better part of valor.AEPrudence is the better part of valour.BE
-",,"a chip off the old block
+",None,"a chip off the old block
 like father, like son
 If wishes were horses, beggars would ride.
 If ifs and ands were pots and pans there'd be no work for tinkers.
@@ -808,6 +4365,218 @@ to put sth. off
 to shelve sth. | shelved, shelved | - not continue with sth. [fig.]
 the party liable or his bank [FINAN.]
 to procrastinate sth. | procrastinated, procrastinated | rare
+",None,"How far gone are you?
+at the beginning of the month
+","the court has ruled
+","to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall into a trap also [fig.]
+to fall into a trap also [fig.]
+to fall for so.'s line
+to fall foul of sth.
+to fall by the wayside [fig.]
+a lost cause
+if the worst comes to the worst
+a case in point
+",None,None,"to get one's just deserts
+to receive one's just deserts
+",None,"the jewel city
+","no smoking
+smoking is forbidden
+Post no bills! (Brit.)
+off limits
+keep out
+No parking.
+Keep out!
+No admittance!
+no humping
+Keep off the grass!
+No trespassing
+Posted - on signs (Amer.)
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Keep off the grass!
+That's strictly forbidden!
+Forbidden fruit is the sweetest.
+","a choice between the devil and the deep blue sea
+to be between a rock and a hard place [fig.]
+to be caught between a rock and a hard place [fig.]
+to be stuck between a rock and a hard place [fig.]
+it was a case of Hobson's choice
+it was Hobson's choice
+It's a case of Hobson's choice.
+to be spoilt for choice
+","to land in the soup [coll.]
+the land of milk and honey
+to land on one's feet archaic
+to be in over one's head
+That's how the land lies!
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+to live off the fat of the land [fig.]
+to live off the fat of the land [fig.]
+to get the lie of the land[fig.] chiefly (Brit.)
+to get the lie of the land[fig.] chiefly (Brit.)
+to get the lay of the land[fig.] chiefly (Amer.)
+to get the lay of the land[fig.] chiefly (Amer.)
+to go to the land of Nod [fig.]
+",None,None,None,"half the truth
+an established truth
+a grain of truth [fig.]
+a kernel of truth [fig.]
+to unearth the truth
+the truth, the whole truth and nothing but the truth [LAW]
+In wine there is truth.
+not a scrap of truth
+to tell the truth
+truth be told
+Children and fools speak the truth
+",None,None,None,None,None,None,None,None,None,None,"caviar to the general
+subject to our general terms and conditions
+",None,None,"When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+",None,None,None,"Mea culpa! [hum.]
+to wear sackcloth and ashes [fig.]
+","When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+the land of milk and honey
+to be in over one's head
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+",None,None,None,"to throw a party
+to mark the occasion
+in honorAE of the occasionin honourBE of the occasion
+",None,"All's fair in love and war.
+All is fair in love and war.
+","music to so.'s ears
+It's not what you say, but how you say it.
+","a bazillion [coll.]
+so. is worth ... million
+",None,"largest in the world
+the world of letters
+all the world
+the way of the world
+course of the world
+All the world and his wife
+all the world and his brother
+in the middle of nowhere
+out in the sticks [coll.]
+in the boondocks [coll.] [pej.] (Amer.)
+in the middle of nowhere
+It's a small world!
+how on earth ...
+not for a million dollars (Amer.)
+",None,"All's fair in love and war.
+All is fair in love and war.
+","to have a clean slate [fig.]
+to have a clean record
+to have a clean record
+to have a clean slate [fig.]
+to be a cleanskin (Aust.) [fig.]
+",None,"subject to price ruling at time of dispatch (or: despatch)
+","a scene of destruction
+A picture is worth a thousand words.
+A picture speaks a thousand words.
+A picture tells a thousand words.
+a sight for the gods
+What a sight!
+",None,None,None,"no date [abbr.: n.d.]
+year in and year out
+Happy New Year!
+Happy New Year!
+the seven-year itch
+all the year round
+a prosperous new year
+Merry Christmas and a happy New Year!
+Happy New Year!
+Season's greetings and best wishes for the New Year!
+twenty-four-seven or: 24/7, 24-7 adv. [coll.]
+the burden of years
+anno Domini [abbr.: AD]
+past one's prime
+",None,"It's a wrap! - at the end of filming a scene [CINE.]
+",None,"to be a good-hearted soul
+to be a good soul
+","a touch of the flu
+","a touch of fever (Brit.)
+a cold attended with fever
+",None,"as a child
+a kind (of) ...
+Children not admitted!
+children admitted half-price
+Children and fools speak the truth
+mother of two
+kind of
+kind of
+kind regards
+kind regards
+bag and baggage
+Kind regards, ...
+to call a spade a spade
+to call a spade a spade
+","an elaborate dinner
+meals on wheels
+Dinner is served!
+to eat like a horse [coll.] [fig.]
+to eat like a bird [coll.] [fig.]
+","Get well soon!
+Best wishes for a speedy recovery!
+Speedy recovery!
+to be on the up and up (Brit.) [coll.]
+",None,"to spring to life [fig.]
+once in a lifetime
+life and limb
+not on your nelly (Brit.)
+No way!
+to live in sin
+to live out of a suitcase
+not in a month of Sundays [fig.]
+Not on your nelly! (Brit.) [coll.]
+to be behind the times
+to lead the life of Riley
+Life isn't all beer and skittles.
+Life isn't all beer and skittles.
+Live and let live.
+","like father, like son
+",None,None,None,"a cold attended with fever
+","sapless adj.
+to let so. stew in their own grease [fig.]
+to let so. stew in their own juice [fig.]
+",None,None,None,"Good morning!
+See you tomorrow!
+first thing tomorrow morning
+Good morning everyone!
+There's no time like the present.
+","to play for time
+for some time
+Time is short.
+to let no grass grow under one's feet
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+heaps of time
+a short spell
+the whole time
+for some time
+a fairly long time
+the passage of time
+a matter of time
+the signs of the times
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+","worth one's while
+no end of trouble
+no end of trouble
+Don't bother!
+not worth worrying about
+","the week after next
+this time last week
+a week from today
+in week commencing ... [abbr.: w/c] - +date
+twenty-four-seven or: 24/7, 24-7 adv. [coll.]
 "
 phrases_or_collocations,german,"Name ist Schall und Rauch.
 ein Name, der Wunder wirkt
@@ -847,8 +4616,8 @@ das ganze Jahr hindurch
 ein erfolgreiches neues Jahr
 Frohe Weihnachten und ein gutes neues Jahr!
 Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
-",,,"Bruder Jakob
-",,"ein eigenes Haus
+",None,None,"Bruder Jakob
+",None,"ein eigenes Haus
 etw.nom. geht aufs Haus infinitive: aufs Haus gehen
 Haus zu verkaufen
 Wenn die Katze aus dem Haus ist, tanzen die Mäuse.
@@ -860,7 +4629,7 @@ es ins Weiße Haus schaffen - die Wahl gewinnen
 ","ganz die Mutter
 Mutter zweier Kinder
 Vorsicht ist die Mutter der Porzellankiste.
-",,"ganz der Vater
+",None,"ganz der Vater
 wie der Vater, so der Sohn
 Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär
 Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär.
@@ -869,6 +4638,218 @@ etw.acc. auf die lange Bank schieben [fig.]
 etw.acc. auf die lange Bank schieben [fig.]
 der Schuldner oder seine Bank
 etw.acc. auf die lange Bank schieben [fig.]
+",None,"In welchem Monat bist du?
+Anfang des Monats
+","das Gericht hat beschlossen
+","einen Lachanfall bekommen [coll.]
+sichacc. kringeln | kringelte, gekringelt | [coll.]
+sichacc. krummlachen [coll.]
+sichacc. vor Lachen biegen [coll.]
+sichacc. vor Lachen kringeln [coll.]
+sichacc. vor Lachen schütteln [coll.]
+in eine Falle geraten or [fig.]
+in eine Falle gehen or [fig.]
+jmdm. auf den Leim gehen
+mit etw.acc. in Konflikt geraten
+auf der Strecke bleiben [coll.] [fig.]
+ein hoffnungsloser Fall
+im allerschlimmsten Fall
+ein einschlägiger Fall
+",None,None,"seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+",None,"die diamantene Stadt
+","Rauchen verboten
+Rauchen verboten
+Ankleben verboten!
+Zutritt verboten
+Eintritt verboten
+Parken verboten.
+Eintritt verboten!
+Zutritt verboten!
+Abdrücken verboten [Railroad (Amer.)/Railway (Brit.)]
+Betreten des Rasens verboten!
+Unbefugter Zutritt verboten
+Unbefugter Zutritt verboten
+Zugang für Unbefugte verboten!
+Zutritt für Unbefugte verboten!
+Rasen betreten verboten!
+Das ist streng verboten!
+Verbotene Frucht schmeckt am besten.
+","die Wahl zwischen Pest und Cholera
+die Wahl zwischen Pest und Cholera haben [fig.]
+die Wahl zwischen Pest und Cholera haben [fig.]
+die Wahl zwischen Pest und Cholera haben [fig.]
+ich hatte keine andere Wahl
+ich hatte keine andere Wahl
+Da habe ich wohl keine andere Wahl.
+die Qual der Wahl haben
+","in der Patsche landen [fig.] [coll.]
+das Land, in dem Milch und Honig fließen
+auf die Füße fallen [fig.]
+kein Land mehr sehen können
+Daher weht der Wind
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+Ein Prophet gilt nichts im eigenen Land.
+wie die Made im Speck leben [fig.]
+wie Gott in Frankreich leben [fig.]
+die Lage peilen [fig.] [coll.]
+sichacc. einen Eindruck von der Lage verschaffen [fig.]
+die Lage peilen [fig.]
+sichacc. einen Eindruck von der Lage verschaffen [fig.]
+einschlafen | schlief ein, eingeschlafen |
+",None,None,None,"die halbe Wahrheit
+eine fundierte Wahrheit
+ein Körnchen Wahrheit
+ein Körnchen Wahrheit
+die Wahrheit ans Licht bringen [fig.]
+die Wahrheit, die reine Wahrheit und nichts als die Wahrheit
+Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
+kein Körnchen Wahrheit
+um die Wahrheit zu sagen
+um die Wahrheit zu sagen
+Kinder und Narren reden die Wahrheit
+",None,None,None,None,None,None,None,None,None,None,"Kaviar fürs Volk
+unterliegt Geschäftsbedingungen
+",None,None,"andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+",None,None,None,"Asche auf mein Haupt!
+sichdat. Asche aufs Haupt streuen [fig.] [coll.]
+","andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+das Land, in dem Milch und Honig fließen
+kein Land mehr sehen können
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+Ein Prophet gilt nichts im eigenen Land.
+",None,None,None,"eine Feier veranstalten
+zur Feier des Tages
+zur Feier des Tages chiefly [hum.]
+",None,"In der Liebe und im Krieg ist alles erlaubt.
+In der Liebe und im Krieg ist alles erlaubt.
+","Musik in jmds. Ohren
+Der Ton macht die Musik.
+","zig Millionen
+jemand ist ... Millionen schwer
+",None,"der Welt größtes
+die gelehrte Welt
+die ganze Welt
+der Lauf der Welt
+der Lauf der Welt
+Gott und die Welt
+Gott und die Welt
+am Ende der Welt [fig.]
+am Arsch der Welt [vulg.]
+am Arsch der Welt [vulg.]
+am Arsch der Welt [vulg.]
+Die Welt ist klein!
+wie in aller Welt
+für kein Geld der Welt
+",None,"In der Liebe und im Krieg ist alles erlaubt.
+In der Liebe und im Krieg ist alles erlaubt.
+","eine weiße Weste haben [fig.]
+eine weiße Weste haben [fig.]
+eine reine Weste haben [fig.]
+eine reine Weste haben [fig.]
+eine reine Weste haben [fig.]
+",None,"zu Preisen am Versandtermin
+","ein Bild der Zerstörung
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+ein Bild für die Götter
+Das ist ein Bild für Götter!
+",None,None,None,"ohne Jahr [abbr.: o. J.]
+Jahr für Jahr
+Frohes Neues Jahr!
+Frohes neues Jahr!
+das verflixte siebte Jahr
+das ganze Jahr hindurch
+ein erfolgreiches neues Jahr
+Frohe Weihnachten und ein gutes neues Jahr!
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+Frohe Weihnachten und ein gutes neues Jahr
+24 Stunden am Tag, 365 Tage im Jahr
+die Last der Jahre
+im Jahre des Herrn
+nicht mehr in den besten Jahren
+",None,"Die Szene ist im Kasten! [coll.]
+",None,"eine Seele von Mensch sein
+eine Seele von Mensch sein
+","eine leichte Grippe
+","leichtes Fieber
+eine von Fieber begleitete Erkältung
+",None,"als Kind
+eine Art von ...
+Kinder haben keinen Zutritt!
+Kinder zum halben Preis
+Kinder und Narren reden die Wahrheit
+Mutter zweier Kinder
+irgendwie adv.
+ziemlich adv.
+herzliche Grüße
+freundliche Grüße
+Kind und Kegel
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+das Kind beim Namen nennen
+das Kind beim rechten Namen nennen
+","ein ausgefeiltes Essen
+Essen auf Rädern
+Das Essen ist angerichtet!
+essen wie ein Scheunendrescher [coll.] [fig.]
+wie ein Spatz essen [fig.]
+","Gute Besserung!
+Gute Besserung!
+Gute Besserung!
+auf dem Wege (or: Weg) der Besserung sein
+",None,"zum Leben erwachen [fig.]
+einmal im Leben
+Leib und Leben
+nie im Leben
+Nie im Leben!
+in Sünde leben
+aus dem Koffer leben
+nie im Leben [fig.]
+Nie im Leben!
+hinter dem Mond leben [fig.]
+leben wie Gott in Frankreich
+Das Leben besteht nicht nur aus Vergnügen.
+Das Leben ist kein endloses Vergnügen.
+Leben und leben lassen.
+","wie der Vater, so der Sohn
+",None,None,None,"eine von Fieber begleitete Erkältung
+","ohne Saft und Kraft [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+jmdn. im eigenen Saft schmorenlassen (or: schmoren lassen) [fig.]
+",None,None,None,"Guten Morgen!
+Bis morgen!
+gleich morgen früh
+Guten Morgen allerseits!
+Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+","Zeit schinden
+eine Zeitlang (or: Zeit lang)
+Die Zeit drängt.
+die Zeit nutzen
+Zeit schinden [coll.]
+viel Zeit
+kurze Zeit
+die ganze Zeit
+eine geraume Zeit
+eine geraume Zeit
+das Verstreichen der Zeit
+eine Frage der Zeit
+die Zeichen der Zeit
+auf Zeit spielen [coll.]
+","jmds. Mühe wert
+endlose Mühe
+Mühe ohne Ende
+Mach dir keine Mühe!
+nicht der Mühe wert
+","übernächste Woche
+letzte Woche um diese Zeit
+heute in einer Woche
+in der Woche vom ... bis ...
+24 Stunden am Tag, sieben Tage die Woche
 "
 examples,english,"name and address are kept secret
 I didn't catch your name.
@@ -912,7 +4893,7 @@ as from 2002 (Brit.)
 as of 2002
 That dates back several years.
 He's a few years under age.
-",,"Neither of her sisters called on her birthday.
+",None,"Neither of her sisters called on her birthday.
 ","She has as good a chance as her brother.
 The two brothers look very similar.
 ","Parents need perseverance.
@@ -944,7 +4925,7 @@ Life is difficult for a mother of five.
 the patient did not respond to his mother's voice
 Trust your mother/the Germans/the neighbours/...!
 He didn't have the guts to tell his mother. [coll.]
-",,"Remember me to your father.
+",None,"Remember me to your father.
 Say hello to your father from me.
 my late father
 He's a chip off the old block.
@@ -962,6 +4943,300 @@ accepted by a bank
 drawn on the issuing bank
 on behalf of the bank
 the order received by the bank [FINAN.]
+","Mr Justice Smith (Brit.) [LAW]
+","as early as next month
+It should require a month
+I'm short of cash this month.
+It will take about a month
+payable by monthly installmentsAE of £1000payable by monthly instalmentsBE of £1000
+first half of the month
+He was sentenced to six months in prison.
+He was sentenced to six months in prison.
+It will take three months
+duration of several months
+after the end of this month
+at least 6 months
+during the past two months
+The book continued in installmentsAE over the next several months.The book continued in instalmentsBE over the next several months.
+second half of the month
+","This dish has no taste.
+He attended personally in court.
+a court will refuse to
+a number of local dishes
+The catch is that these two dishes do not come from India.
+Sushi dishes which have gone down well in my restaurant ...
+","this particular case
+above-average fall in the price
+a further fall in price
+a further fall in prices
+a further fall in prices
+at best he will get 30 votes
+in a similar case
+another case in point is ...
+I see this is the case
+I see this is not the case.
+owing to the fall of the dollar
+I didn't just fall off the turnip truck. [coll.] (Amer.)
+conditions subsequent to the policy [INSUR.]
+after having examined the case
+monetary value falls
+renewal falls due
+",None,None,"Ignorance is no excuse.
+",None,"The town is still being shelled.
+a booming city
+the town was brightly decorated
+I saw him in town.
+all over the town
+This house, which was built in the 18th century, is the oldest building in town.
+a limited number of cities
+","No soliciting allowed.
+It is forbidden to
+the rule whereby it is not allowed
+","at the discretion of the manufacturer
+You leave me with little choice.
+of his own choice
+in the run-up to the elections
+His speech swayed the elections.
+The Prime Minister who introduced the idea lost the ensuing election.
+","Federal law shall override Land law.
+the wide open spaces
+another country
+flows through the land
+We used to live in the country.
+for each country
+any foreign country
+The aircraft whose wing was damaged managed to land safely.
+valid for the whole country
+Turkey battles to repatriate antiquities.
+the best panorama of the area
+his name resounded throughout the land [fig.]
+His speech will resound throughout the country. [fig.]
+most popular tourist region
+","in January
+from January 1st to March 29th
+from the beginning of January to the end of March
+Romania and Bulgaria will be admitted to the European Union in January 2007
+","the President shall be responsible for the proper conduct of the hearing [LAW]
+",None,"demand for truth
+He will not rest until he discovers the truth.
+That's the absolute truth.
+That is only half the truth.
+She had enough guts to tell the truth. [coll.]
+",None,None,None,None,None,None,"a list of members
+Upper limit is 21 members.
+",None,"a list of members
+Upper limit is 21 members.
+","It necessitates amplification.
+","a general depression in trade
+a general improvement in trade
+By virtue of this deed I grant X general power of attorney.
+conceived in general terms
+finds general approval
+site of general cultural interest
+to be provided for general information
+the general conditions
+the generally high level of orders on hand
+It was generally agreed
+this method is generally applied
+",None,None,"nations which are less developed
+The Danube flows through ten countries.
+",None,None,"a list of members
+Upper limit is 21 members.
+","our chief business will be
+our main business will be
+our chief activities will be
+our main activities will be
+in addition to the principal amount
+bound to the principal debt
+","nations which are less developed
+The Danube flows through ten countries.
+the wide open spaces
+another country
+flows through the land
+for each country
+any foreign country
+valid for the whole country
+Turkey battles to repatriate antiquities.
+the best panorama of the area
+His speech will resound throughout the country. [fig.]
+most popular tourist region
+in the country of dispatch (or: despatch)
+in some countries
+","our government pays bounties to exporters
+","a list of members
+Upper limit is 21 members.
+",None,"Do you remember the guy that we met at the party?
+Do you remember the guy we met at the party?
+Do you remember the guy who (or: whom) we met at the party?
+","an important writer
+a respectable writer
+","evils attendant on war
+The cold war has begun to thaw.
+long before the war
+Wars fuel the epidemic.
+the deprivations of the war
+evils attendant on war
+","He taught me music.
+","a whopping $5 million
+She has millions of fans worldwide.
+a population of 7 million
+nears the 1 million mark
+",None,"All's right with the world.
+He went out into the big, wide world.
+She has millions of fans worldwide.
+the world's largest glacial cave
+The world's his oyster. [fig.]
+... to cope with the growing world responsibilities incumbent on Europe [POL.]
+a new world economic order
+",None,"evils attendant on war
+The cold war has begun to thaw.
+long before the war
+Wars fuel the epidemic.
+the deprivations of the war
+evils attendant on war
+","Westward ho!
+a blot on his escutcheon [fig.]
+",None,"will be subject to new prices
+at exceptionally high prices
+at considerably reduced prices pl.
+at greatly reduced prices pl.
+at the current prices pl.
+in a falling market
+We buy at competitive prices.
+","The picture is crooked.
+It was a scene of destruction.
+She speaks in images.
+recording of pictures on digital camera
+",None,None,"recording of pictures on digital camera
+","in 1999
+The year draws to a close.
+the coming year
+every half year
+Business hasn't been good so far this year.
+He's got the seven-year itch.
+We shall not know until next year.
+The right of recourse is subject to a limitation period of one year after the notification of the final judgment. [LAW]
+for less than a year
+at the end of the trading year
+The holiday entitlement is 30 days/year.
+It only happens once in a blue moon.
+many thousand years
+There isn't much to do here at this time of the year.
+",None,None,None,"three lives were lost
+She has little patience for impolite people.
+All people are equal before the law.
+He is no respecter of persons.
+It's little wonder people are upset.
+the wall in people's minds
+The dignity of man is inviolable. To respect and protect it shall be the duty of all public authority.
+Human dignity is inviolable. [POL.]
+a man of resources
+He's a decent fellow.
+",None,"He has a temperature.
+Does she have a fever?
+Does she have a high temperature?
+","There is no alternative to this measurement.
+","Settle down, children!
+children under 12
+Children travel at half price.
+Her children are really badly behaved.
+children half price
+She is a doting mother.
+None of the children like broccoli.
+Most of the children in my class like chocolate.
+but for the children
+she has her children attended to
+Are the kids back from school yet?
+The child whose balloon had burst was screaming his lungs out.
+I kind of thought.
+What kind of work do you do?
+","It's best not to tangle with him.
+What would you like to eat?
+Do you spend lots of money on food?
+He just pecked at his food.
+She barely tasted her food.
+What's for eats?
+a spot of lunch
+We had company at dinner.
+I offered to invite him for a meal in return for his help, but he was having none of it.
+Would you like a spot of wine with the meal?
+We asked a few friends round for a meal.
+I enjoyed my supper.
+He is a tremendous eater.
+","There's little hope of improvement.
+He's on the mend.
+",None,"Life is fatal!
+three lives were lost
+His life is at stake.
+I can live with it.
+I can live with that.
+They swam for dear life.
+Get out of my life!
+It's a matter of life and death.
+The lines between working life and home life are often blurred.
+They live from hand to mouth.
+What does he do for a living?
+ability to earn a livelihood
+He lives beyond his means.
+He lives the life of Riley.
+","My son is a sensitive boy.
+",None,None,"I'll see you further first.
+","I've got a bad cold.
+","Is there any juice left?
+",None,None,"Winter was coming.
+Do you get much snow here in winter?
+The coat will have to do for one more winter.
+","You'll be back tomorrow, right?
+You'll be back tomorrow, won't you?
+He may come tomorrow.
+see me tomorrow
+I'm available on the phone tomorrow from 10 am.
+It's my birthday tomorrow.
+I'm to go tomorrow.
+I will call in again tomorrow.
+We can't solve these problems overnight.
+Could you lend me some money till tomorrow?
+It is understood that the meeting is taking place tomorrow.
+Dawn has broken.
+It will do tomorrow.
+I'll arrive a week tomorrow.
+","a lot of time
+The time is ripe to begin afresh.
+at the time of effecting the insurance
+The time is ripe for revolution.
+I've been extremely busy lately.
+My turn will come.
+His time is up.
+How much time will that require?
+It's high time.
+for an indefinite time
+She doesn't have time.
+after this time has elapsed
+We have plenty of time - it's only ten past.
+There isn't much to do here at this time of the year.
+","a good deal of trouble
+He gives me a lot of trouble.
+worth your while
+She gives me a lot of trouble.
+It's worth the trouble.
+She tried hard.
+It is not worth the trouble
+It's not worth worrying about.
+He tried hard.
+","within two weeks
+It should require a fortnight
+another three weeks
+another three weeks
+extending over several weeks
+a two weeks' extension
+Four weeks have elapsed since ...
+The smell lingers for about three weeks.
+a period of fifteen days
+I'm sorry about last week.
+a week or so
+She goes every week.
+She comes every week.
+It should require a week
 "
 examples,german,"Name und Anschrift werden geheim gehalten
 Ich habe Ihren Namen nicht verstanden.
@@ -1005,7 +5280,7 @@ ab dem Jahre 2002
 ab dem Jahre 2002
 Das liegt mehrere Jahre zurück. infinitive: zurückliegen
 Er ist ein paar Jahre zu jung.
-",,"Keine ihrer beiden Schwestern rief an ihrem Geburtstag an.
+",None,"Keine ihrer beiden Schwestern rief an ihrem Geburtstag an.
 ","Sie hat ebenso gute Chancen wie ihr Bruder.
 Die beiden Brüder sehen sich sehr ähnlich.
 ","Eltern brauchen Ausdauer.
@@ -1037,7 +5312,7 @@ Als Mutter von fünf Kindern hat man es schwer.
 der Patient reagierte nicht auf die Stimme seiner Mutter
 Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
 Er traute sich nicht, es seiner Mutter zu erzählen.
-",,"Grüßen Sie Ihren Vater von mir.
+",None,"Grüßen Sie Ihren Vater von mir.
 Grüßen Sie Ihren Vater von mir.
 mein verstorbener Vater
 Er ist ganz der Vater.
@@ -1055,4 +5330,298 @@ von einer Bank akzeptiert
 gezogen auf die eröffnende Bank
 im Auftrag der Bank
 der der Bank zugegangene Auftrag
+","Richter Smith
+","schon nächsten Monat
+Es dürfte einen Monat dauern
+Ich bin diesen Monat schlecht bei Kasse.
+Es wird etwa einen Monat dauern
+zahlbar in Monatsraten von £1000
+erste Hälfte des Monats
+Er wurde zu sechs Monaten Haft verurteilt.
+Sein Urteil lautete auf sechs Monate Gefängnis.
+Es wird drei Monate dauern
+Laufzeit von mehreren Monaten
+nach Ende dieses Monats
+wenigstens 6 Monate
+während der vergangenen zwei Monate
+Das Buch erschien die nächsten Monate in Fortsetzungsfolgen.
+zweite Hälfte des Monats
+","Dieses Gericht schmeckt nach nichts.
+Er erschien persönlich vor Gericht.
+ein Gericht wird sich weigern
+eine Anzahl heimischer Gerichte
+Der Haken ist, dass diese zwei Gerichte nicht aus Indien stammen.
+Sushi-Gerichte, die gut in meinem Restaurant ankommen ...
+","dieser spezielle Fall
+der überdurchschnittliche Preisverfall
+ein weiterer Preisverfall
+ein weiterer Preisverfall
+ein weiteres Nachlassen der Preise
+im besten Fall erhält er 30 Stimmen
+in einem ähnlichen Fall
+denken wir auch an den Fall ...
+Ich sehe, das ist der Fall.
+Ich sehe, das ist nicht der Fall.
+wegen des Verfalls des Dollars
+Ich bin nicht auf der Brennsuppe dahergeschwommen. [coll.] (South-eastern Germany; Austria)
+vertragliche Obliegenheiten nach dem Versicherungsfall
+nach Prüfung des Falles
+der Geldwert sinkt
+die Erneuerung wird fällig
+",None,None,"Unwissenheit schützt vor Strafe nicht.
+",None,"Die Stadt steht immer noch unter Beschuss.
+eine Stadt im Aufschwung
+die Stadt war prächtig geschmückt
+Ich habe ihn in der Stadt gesehen.
+in der ganzen Stadt
+Dieses Haus, das im 18. Jahrhundert erbaut wurde, ist das älteste Gebäude in der Stadt.
+eine begrenzte Zahl von Städten
+","Hausieren verboten.
+Es ist verboten zu
+die Vorschrift, wonach es verboten ist
+","nach Wahl des Herstellers
+Ihr lasst mir kaum eine andere Wahl.
+nach eigener Wahl
+im Vorfeld der Wahlen
+Seine Rede beeinflusste die Wahlen.
+Der Premierminister, der die Idee einbrachte, hat die darauffolgenden Wahlen verloren.
+","Bundesrecht bricht Landesrecht.
+das weite flache Land
+ein anderes Land
+fließt durch das Land
+Früher wohnten wir auf dem Land.
+für jedes Land
+irgendein anderes Land
+Das Flugzeug, dessen Tragfläche beschädigt war, konnte sicher landen.
+gültig im ganzen Land
+Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+der beste Blick über das Land
+sein Name war in aller Munde
+Seine Rede wird im ganzen Land widerhallen.
+meist besuchtes Ferienland
+","im Januar
+vom 1. Januar bis 29. März
+von Anfang Januar bis Ende März
+Rumänien und Bulgarien werden im Januar 2007 in die Europäische Union aufgenommen werden.
+","dem Präsidenten obliegt die Aufrechterhaltung der Ordnung in der Sitzung
+",None,"der Anspruch auf Wahrheit
+Er wird nicht ruhen, bis er die Wahrheit gefunden hat.
+Das ist die reine Wahrheit.
+Das ist nur die halbe Wahrheit.
+Sie hatte genug Schneid, die Wahrheit zu sagen.
+",None,None,None,None,None,None,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+",None,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+","Es macht eine Erweiterung notwendig.
+","eine allgemeine Flaute
+allgemeine Verbesserung der Marktlage
+Mit dieser Urkunde erteile ich X Generalvollmacht.
+in allgemeinen Worten abgefasst
+findet allgemeinen Anklang
+Stätte von allgemeinem kulturellem Interesse
+bieten allgemeine Informationen
+die allgemeinen Bedingungen
+der allgemein hohe Auftragsbestand
+Man war sich allgemein einig
+dieses Verfahren ist üblich
+",None,None,"weniger entwickelte Länder
+Die Donau fließt durch zehn Länder.
+",None,None,"eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+","unser Hauptgeschäft wird sein
+unser Hauptgeschäft wird sein
+unsere Haupttätigkeiten werden sein
+unsere Haupttätigkeiten werden sein
+zusätzlich zum Hauptbetrag
+an die Hauptschuld gebunden
+","weniger entwickelte Länder
+Die Donau fließt durch zehn Länder.
+das weite flache Land
+ein anderes Land
+fließt durch das Land
+für jedes Land
+irgendein anderes Land
+gültig im ganzen Land
+Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+der beste Blick über das Land
+Seine Rede wird im ganzen Land widerhallen.
+meist besuchtes Ferienland
+im Versandland
+in einigen Ländern
+","die Regierung zahlt Prämien an Exporteure
+","eine Liste der Mitglieder
+Die Obergrenze liegt bei 21 Mitgliedern.
+",None,"Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+Erinnerst du dich an den Typen, dem wir auf der Feier begegnet sind?
+","ein bedeutender Schriftsteller
+ein ganz ordentlicher Schriftsteller
+","den Krieg begleitende Übel
+Der kalte Krieg hat zu tauen begonnen.
+lange vor dem Krieg
+Kriege schüren die Epidemie.
+die Entbehrungen des Krieges
+Übel im Gefolge des Krieges
+","Er unterrichtete mich in Musik.
+","ein Riesenbetrag von 5 Millionen Dollar
+Sie hat Millionen Fans auf der ganzen Welt.
+eine Bevölkerung von 7 Millionen
+nähert sich der Million
+",None,"Die Welt ist in Ordnung.
+Er ging in die große, weite Welt hinaus.
+Sie hat Millionen Fans auf der ganzen Welt.
+größte Eishöhle der Welt
+Ihm liegt die Welt zu Füßen. [fig.]
+... um der steigenden Verantwortung gerecht zu werden, die Europa in der Welt zukommt
+eine neue weltwirtschaftliche Ordnung
+",None,"den Krieg begleitende Übel
+Der kalte Krieg hat zu tauen begonnen.
+lange vor dem Krieg
+Kriege schüren die Epidemie.
+die Entbehrungen des Krieges
+Übel im Gefolge des Krieges
+","Auf nach Westen!
+ein Fleck auf seiner weißen Weste
+",None,"werden nach neuen Preisen berechnet
+zu außergewöhnlich hohen Preisen
+zu beträchtlich reduzierten Preisen
+zu stark reduzierten Preisen
+zu den gegenwärtigen Preisen
+bei fallenden Preisen
+Wir kaufen zu konkurrenzfähigen Preisen.
+","Das Bild hängt schief.
+Es war ein Bild der Zerstörung.
+Sie redet in Bildern.
+Aufnehmen von Bildern mit einer digitalen Kamera
+",None,None,"Aufnehmen von Bildern mit einer digitalen Kamera
+","im Jahr (or: Jahre) 1999
+Das Jahr neigt sich dem Ende zu.
+das kommende Jahr
+jedes halbe Jahr
+Bisher läuft das Geschäft in diesem Jahr nicht gut.
+Er ist im verflixten siebenten Jahr.
+Wir können es erst im nächsten Jahr erfahren.
+Das Rückgriffsrecht verjährt ein Jahr nach Kenntnis des rechtskräftigen Urteils.
+für weniger als ein Jahr
+am Ende des Geschäftsjahres
+Der Urlaub beträgt 30 Arbeitstage/Jahr.
+Das kommt alle Jubeljahre vor.
+viele tausend Jahre
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+",None,None,None,"drei Menschen kamen ums Leben
+Sie hat wenig Geduld mit unhöflichen Menschen.
+Alle Menschen sind vor dem Gesetz gleich.
+Er achtet die Menschen nicht.
+Es ist nicht weiter verwunderlich, dass die Menschen verärgert sind.
+die Mauer in den Köpfen der Menschen
+Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+Die Würde des Menschen ist unantastbar.
+ein Mensch, der sich immer zu helfen weiß
+Er ist ein anständiger Mensch.
+",None,"Er hat Fieber.
+Hat sie Fieber?
+Hat sie Fieber?
+","Diese Maßnahme ist alternativlos.
+","Ruhig, Kinder!
+Kinder unter 12 Jahren
+Kinder reisen zum halben Preis.
+Ihre Kinder sind wirklich ungezogen.
+halber Preis für Kinder
+Sie liebt ihre Kinder abgöttisch.
+Keines der Kinder mag Brokkoli.
+Die meisten Kinder in meiner Klasse mögen Schokolade.
+wären die Kinder nicht gewesen
+sie hat jemanden, um auf die Kinder aufzupassen
+Sind die Kinder schon aus der Schule zurück?
+Das Kind, dessen Luftballon zerplatzt war, schrie sich die Lunge aus dem Hals.
+Ich dachte so ungefähr.
+Was machen Sie beruflich?
+","Mit ihm ist nicht gut Kirschen essen.
+Was möchtest du essen?
+Gibst du viel Geld für Essen aus?
+Er stocherte nur in seinem Essen herum. infinitive: herumstochern
+Sie hat ihr Essen kaum angerührt.
+Was gibt es zu essen?
+ein wenig zum Essen
+Wir hatten Gäste zum Essen.
+Ich wollte ihn als Dank für seine Hilfe zum Essen einladen, aber das kam für ihn überhaupt nicht infrage (or: in Frage).
+Möchten Sie ein wenig Wein zum Essen?
+Wir haben ein paar Freunde zum Essen eingeladen.
+Das Abendessen hat mir geschmeckt.
+Er isst unglaublich viel.
+","Es besteht kaum Hoffnung auf Besserung.
+Er ist auf dem Weg der Besserung.
+",None,"Das Leben ist tödlich!
+drei Menschen kamen ums Leben
+Es geht um sein Leben.
+Ich kann damit leben.
+Ich kann damit leben.
+Sie schwammen um ihr Leben.
+Verschwinde aus meinem Leben!
+Es geht um Leben und Tod.
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
+Sie leben von der Hand in den Mund.
+Womit verdient er seinen Lebensunterhalt?
+Fähigkeit, den Lebensunterhalt zu verdienen
+Er lebt über seine Verhältnisse.
+Er lebt wie Gott in Frankreich.
+","Mein Sohn ist ein sensibler Junge.
+",None,None,"Ich werde Ihnen was husten.
+","Ich habe eine schlimme Erkältung.
+","Ist noch Saft übrig?
+",None,None,"Es winterte.
+Gibt es im Winter hier viel Schnee?
+Der Mantel wird diesen Winter noch einmal herhalten müssen.
+","Morgen kommst du wieder, nicht wahr?
+Morgen kommst du wieder, nicht wahr?
+Er kommt vielleicht morgen.
+kommen Sie morgen zu mir
+Ich bin morgen ab 10 Uhr telefonisch erreichbar.
+Ich habe morgen Geburtstag infinitive: Geburtstag haben
+Ich soll morgen gehen.
+Ich werde morgen nochmals vorbeikommen.
+Diese Probleme können wir nicht von heute auf morgen lösen.
+Könntest du mir bis morgen etwas Geld leihen?
+Offenbar findet das Meeting morgen statt.
+Der Morgen dämmert.
+Es hat Zeit bis morgen.
+Ich komme morgen in acht Tagen.
+","viel Zeit
+Die Zeit ist reif, neu anzufangen.
+zur Zeit des Versicherungsabschlusses
+Die Zeit ist reif für eine Revolution.
+Ich war in letzter Zeit sehr beschäftigt.
+Meine Zeit kommt noch.
+Seine Zeit ist abgelaufen.
+Wie viel Zeit wird dazu nötig sein?
+Es ist höchste Zeit.
+für unbestimmte Zeit
+Sie hat keine Zeit.
+nach Ablauf dieser Zeit
+Wir haben jede Menge Zeit - es ist erst zehn nach!
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+","viel Mühe
+Er macht mir viel Mühe.
+ihrer Mühe wert
+Sie macht mir viel Mühe.
+Es ist der Mühe wert.
+Sie gab sich große Mühe.
+Es ist nicht der Mühe wert
+Es ist nicht der Mühe wert.
+Er gab sich große Mühe.
+","innerhalb von zwei Wochen
+Es dürfte zwei Wochen dauern
+noch drei Wochen
+weitere drei Wochen
+sich über mehrere Wochen erstreckend
+eine Verlängerung von zwei Wochen
+Vier Wochen sind verstrichen seit ...
+Der Geruch hält sich etwa drei Wochen.
+eine Frist von zwei Wochen
+Es tut mir leid wegen letzter Woche.
+etwa eine Woche
+Sie geht jede Woche.
+Sie kommt jede Woche.
+Es dürfte eine Woche dauern
 "

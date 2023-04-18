@@ -106,4 +106,5 @@ class PrepositionsAgent(Process):
         self.blackboard['stages']['analyzed_prepositions'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_prepositions'] = 'Generated rich analysis!'
+        PREPOSITIONS_CACHE.cache()
         self.blackboard['stages']['analyzed_prepositions'] = 'DONE'

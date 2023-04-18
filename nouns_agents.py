@@ -84,7 +84,6 @@ class NounsAgent(Process):
         # add more possiblities for hyphen words
         nouns_with_hyphen = df.loc[df['text'].str.contains('-'), 'text'].tolist()
         nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].tolist()
-
         nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
 
         # unique values
@@ -92,8 +91,10 @@ class NounsAgent(Process):
 
         for element in nouns_list:
             df = NOUN_CACHE[element]
+
             if df is None:
                 continue
+
             df.fillna(value="None", inplace=True)
             english_text = df['nouns']['english']
             german_text = df['nouns']['german']
@@ -134,4 +135,5 @@ class NounsAgent(Process):
         self.blackboard['stages']['analyzed_nouns'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_nouns'] = 'Generated rich analysis!'
+        NOUN_CACHE.cache()
         self.blackboard['stages']['analyzed_nouns'] = 'DONE'

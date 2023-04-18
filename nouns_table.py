@@ -66,16 +66,12 @@ class NounsCache(pd.DataFrame):
                 new_noun = nouns_definition_parser('nouns_table', key)
 
                 if new_noun is not None:
-                    if new_noun['nouns'] is not None:
-                        self[key] = pd.Series(index=self.index, dtype='object')
-                        for aspect, languages in new_noun.items():
-                            if languages is not None:
-                                self.loc[(aspect, 'english'), key] = languages[0]
-                                self.loc[(aspect, 'german'), key] = languages[1]
-                        self.to_csv(NOUNS_CACHE_FILE, index=True)
-                        return super().loc[(slice(None), slice(None)), key]
-                    else:
-                        return None
+                    self[key] = pd.Series(index=self.index, dtype='object')
+                    for aspect, languages in new_noun.items():
+                        if languages is not None:
+                            self.loc[(aspect, 'english'), key] = languages[0]
+                            self.loc[(aspect, 'german'), key] = languages[1]
+                    return super().loc[(slice(None), slice(None)), key]
                 else:
                     return None
 

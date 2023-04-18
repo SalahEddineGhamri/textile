@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -9,8 +9,105 @@ heißen : Verb
 ","sich kommen : Verb
 kommen : Verb
 kommen : Verb
+","müssen : Verb
+","sagen : Verb
+sich sagen : Verb
+","das Verbot : Noun
+verbieten : Verb
+sich verbieten : Verb
+","anklagen : Verb
+sich anklagen : Verb
+","tun : Verb
+sich tun : Verb
+","treten : Verb
+treten : Verb
+",,"wählen : Verb
+","entscheiden : Verb
+sich entscheiden : Verb
+","bekommen : Verb
+bekommen : Verb
+","fälschen : Verb
+","sich sagen : Verb
+sagen : Verb
+","untersuchen : Verb
+",None,"aufnehmen : Verb
+sich aufnehmen : Verb
+sich aufnehmen : Verb
+sich aufnehmen : Verb
+","beitreten : Verb
+",None,"die Helfe : Noun
+","ändern : Verb
+sich ändern : Verb
+","angreifen : Verb
+sich angreifen : Verb
+","hochziehen : Verb
+sich hochziehen : Verb
+hochziehen : Verb
+","geben : Verb
+sich geben : Verb
+sich geben : Verb
+","angreifen : Verb
+sich angreifen : Verb
+","kritisieren : Verb
+","sich haben : Verb
+sich haben : Verb
+haben : Verb
+","klappen : Verb
+klappen : Verb
+","sich hören : Verb
+hören : Verb
+sich gehören : Verb
+gehören : Verb
+",None,"sich handeln : Verb
+handeln : Verb
+","erzählen : Verb
+","sterben : Verb
+","kämpfen : Verb
+sich kämpfen : Verb
+","verleihen : Verb
+","gewinnen : Verb
+sich gewinnen : Verb
+","die Habe : Noun
+","sich haben : Verb
+sich haben : Verb
+haben : Verb
+","aufwachen : Verb
+","klingen : Verb
+",None,"entschuldigen : Verb
+sich entschuldigen : Verb
+","wissen : Verb
+","gehen : Verb
+",None,None,"sich können : Verb
+sich können : Verb
+können : Verb
+",None,"sich vertun : Verb
+vertun : Verb
+","sich helfen : Verb
+helfen : Verb
+","hassen : Verb
+sich hassen : Verb
+",None,None,None,"erinnern : Verb
+sich erinnern : Verb
+",None,"sich bringen : Verb
+sich bringen : Verb
+bringen : Verb
+","schlafen : Verb
+","stimmen : Verb
+stimmen : Verb
+","der Wunsch : Noun
+sich wünschen : Verb
+wünschen : Verb
+",None,"sich stecken : Verb
+stecken : Verb
+","sich geben : Verb
+sich geben : Verb
+geben : Verb
+",None,"brauchen : Verb
+gebrauchen : Verb
+","der Sitz : Noun
+","brauchen : Verb
 "
-basic_forms,german,,,,,,
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,,,,None,None,None,,None,,,,,None,,,None,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -89,6 +186,881 @@ to take after so.
 to get down to sth.
 to work round to sth.
 to amount to sth.
+","must aux.
+to have to
+to be bound to
+to get to
+to be obliged
+to have got to chiefly (Brit.)
+to have detention - in school
+to be called upon
+to be due to go
+to be moved to tears
+to suffer | suffered, suffered |
+to be on a budget
+to have to do sth.
+to need to do sth.
+","to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
+","to prohibit | prohibited, prohibited |
+to ban sth. | banned, banned |
+to forbid sth. | forbid/forbade, forbid/forbidden |
+to proscribe sth. | proscribed, proscribed |
+to interdict sth. | interdicted, interdicted | chiefly (Amer.)
+to veto sth. | vetoed, vetoed |
+to bar sth. | barred, barred |
+to bar so. from sth.
+to enact a ban
+to impose a ban
+to ban so. from doing sth.
+to bar so. from doing sth.
+to forbid so. to do sth.
+to ban so. from speaking
+","to accuse so. (of sth.) | accused, accused | [LAW]
+to indict so. (for sth.) | indicted, indicted |
+to incriminate so. | incriminated, incriminated |
+to arraign so. | arraigned, arraigned | [LAW]
+to be on trial [LAW]
+to indict for war crimes
+to impeach so. for sth.
+to accuse so. of sth.
+to impeach so. | impeached, impeached |
+to charge so. with sth. [LAW]
+to charge so. with sth. [LAW]
+to bring a charge (of sth.) against so. [LAW]
+to be indicted for theft
+to be charged with sth.
+to be accused of sth.
+to acquit the accused for want of evidence [LAW]
+to charge so. with a felony [LAW]
+","to do sth. | did, done |
+to perform | performed, performed |
+to be just about to do sth.
+to be able to do sth.
+to be allowed to do sth.
+to like doing sth.
+to order so. to do sth.
+to tell so. to do sth.
+to hurt | hurt, hurt |
+to hurt oneself
+to hurt one's knee/leg/finger
+to have sth. done
+to command (so.) (to do sth.) | commanded, commanded |
+to intend to do sth.
+","to step | stepped, stepped |
+to kick (so./sth.) | kicked, kicked |
+to tread | trod, trodden/trod |
+to pedal sth. | pedaled/pedalled, pedaled/pedalled |
+to step on sth.
+to kick at sth.
+to step up to so.
+to tread water
+to backpedalespAE / back-pedalespBE | backpedaled/backpedalled, backpedaled/backpedalled / back-pedaled/back-pedalled, back-pedaled/back-pedalled |
+to come to light
+to emerge | emerged, emerged |
+to become evident
+to surface | surfaced, surfaced |
+to appear | appeared, appeared |
+","to come | came, come |
+to turn up - come, arrive
+to arrive (at sth.) | arrived, arrived |
+to be along [coll.]
+to come | came, come | [sl.] - have an orgasm
+to come from London/the Canary Islands/Switzerland
+to work sth. ⇔ out
+to get the hang of sth.
+to conceive (of) sth. | conceived, conceived |
+to get to the bottom of sth.
+to take after so.
+to get down to sth.
+to work round to sth.
+to amount to sth.
+","to choose sth. | chose, chosen |
+to dial | dialed/dialled, dialed/dialled | [TELECOM.]
+to select | selected, selected |
+to vote | voted, voted |
+to pick sth. | picked, picked |
+to elect so. (sth.) | elected, elected |
+to opt for sth.
+to chuse | chused, chused | archaic - to choose
+to list | listed, listed | archaic - choose
+to dial a number
+to elect a chairman
+to elect to the board
+to elect so. president
+to choose so. as a companion
+","to decide sth. | decided, decided |
+to determine sth. | determined, determined |
+to decide | decided, decided |
+to rule sth. | ruled, ruled |
+to will sth. | willed, willed |
+to decide about sth.
+to resolve sth. | resolved, resolved |
+to clinch sth. | clinched, clinched |
+to make up one's mind
+to opt for sth.
+to decide on sth.
+to go for sth.
+to settle on sth.
+to jump to one side of the fence
+","sth. does so. good/bad infinitive: do good, do bad
+sth. agrees with so. - food infinitive: agree
+sth. becomes so. - be appropriate, suitable
+to get sth. (from so.) | got, got/gotten |
+to receive sth. (from so.) | received, received |
+to catch sth. | caught, caught |
+to come by sth.
+to gain sth. | gained, gained | - obtain
+to obtain sth. | obtained, obtained |
+to agree with so.
+to come down with sth.
+to get sth. through sth.
+sth. disagrees with so. - food infinitive: disagree
+sth. disagrees with so. - food infinitive: disagree
+","to falsify | falsified, falsified |
+to forge | forged, forged |
+to doctor | doctored, doctored |
+to commit forgery
+to counterfeit sth. | counterfeited, counterfeited |
+to fake sth. | faked, faked |
+to fabricate sth. | fabricated, fabricated |
+to fudge sth. | fudged, fudged |
+to adulterate sth. | adulterated, adulterated |
+to imitate sth. | imitated, imitated |
+to spoof sth. | spoofed, spoofed | - an e-mail address
+to tamper with sth.
+to fake sth. ⇔ up [sl.]
+to deceit | deceited, deceited | rare archaic
+","so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
+","to examine | examined, examined | also [MED.]
+to investigate | investigated, investigated |
+to research | researched, researched |
+to analyzeAE / analyseBE sth. | analyzed, analyzed / analysed, analysed |
+to test sth. | tested, tested |
+to survey sth. | surveyed, surveyed |
+to scan | scanned, scanned |
+to inquireespAE / enquireespBE | inquired, inquired / enquired, enquired |
+to study | studied, studied |
+to prove | proved, proved/proven |
+to scrutinizeAE to scrutiniseBE / scrutinizeBE | scrutinized, scrutinized / scrutinised, scrutinised |
+to check up (Amer.)
+to check sth. ⇔ out
+to explore sth. | explored, explored |
+","to wage | waged, waged |
+to venture | ventured, ventured |
+to undertake sth. | undertook, undertaken |
+to do sth. | did, done |
+to go in for sth.
+to do sth. about sth.
+to abandon an enterprise
+to set up a company
+to start a business
+to delayer the enterprise
+to abandon an undertaking
+to close a company
+to manage a company
+to continue a firm
+","to record | recorded, recorded |
+to absorb sth. | absorbed, absorbed |
+to receive so. | received, received | - a guest
+to ingest | ingested, ingested |
+to include | included, included |
+to borrow | borrowed, borrowed |
+to hold | held, held |
+to meet with
+to mount | mounted, mounted |
+to open | opened, opened |
+to start | started, started |
+to loop up
+to collect | collected, collected |
+to pick sth. ⇔ up
+","to join | joined, joined |
+to accede to sth.
+to enter into sth. [POL.]
+to contract out of sth. - of pension scheme (Brit.)
+to join a party
+to affiliate with an association
+to join an action [LAW]
+","to be pleased (about (or: with) sth.)
+to be glad
+to rejoice | rejoiced, rejoiced | [poet.]
+to look forward to sth.
+to be happy for so.
+to be excited about sth.
+to get excited about sth.
+to be happy about sth.
+to share so.'s happiness
+to be stoked to do sth.
+to be pleased to do sth.
+to gloat | gloated, gloated |
+to be thrilled
+to be able to look forward to sth.
+to be chuffed about sth. (Brit.) [coll.]
+","to help so. | helped, helped |
+to assist (with sth.) | assisted, assisted |
+to be of assistance (to so.)
+to bear a hand
+to abet | abetted, abetted |
+to avail | availed, availed |
+to assist so. (with sth.) | assisted, assisted |
+to abet so. | abetted, abetted | - in doing sth. wrong
+to back so. | backed, backed |
+to lend so. a hand
+to aid so./sth. (in sth.) | aided, aided | [form.]
+to bestead so. | besteaded, besteaded | archaic (Amer.)
+to aid so. with sth. [form.]
+to be of no avail
+","to change sth. | changed, changed |
+to change | changed, changed |
+to alter sth. | altered, altered |
+to modify sth. | modified, modified |
+to vary | varied, varied |
+to vary sth. | varied, varied | - method, style ...
+to redraft | redrafted, redrafted |
+to amend sth. | amended, amended |
+to revise sth. | revised, revised |
+to alter | altered, altered |
+to shift | shifted, shifted |
+to change considerably
+to tamper with sth.
+to change one's spots
+","to attack | attacked, attacked |
+to tackle (so.) | tackled, tackled | [SPORT.]
+to charge | charged, charged | [MIL.]
+to offend | offended, offended |
+to affect sth. | affected, affected | - cause physical damage, e.g. to an organ
+to launch into sth.
+to strike sth. | struck, struck/stricken |
+to fret at sth.
+to gnaw at sth.
+to assail so. | assailed, assailed |
+to lay into so. - assault
+to affront so. | affronted, affronted |
+to take a swipe at so.
+to assault so. | assaulted, assaulted |
+","to raise sth. | raised, raised | [TECH.]
+to hitch sth. ⇔ up - a piece of clothing
+to hoist sth. | hoisted, hoisted |
+to lift sth. | lifted, lifted |
+to pull sth. ⇔ up
+to draw sth. ⇔ up
+to heave | heaved/hove, heaved/hove | [AVIAT.][TECH.]
+to draw | drew, drawn |
+to pull sth. | pulled, pulled |
+to bank sth. | banked, banked | - ore, coal, rock, etc., to the surface [TECH.]
+to draw sth. ⇔ out [TECH.]
+to heave sth. ⇔ up [TECH.]
+to wind sth. | wound, wound | [TECH.]
+to bring up the walls
+to hunch one's shoulders
+to snuffle | snuffled, snuffled |
+to hoick (or: hoik) sth. | hoicked, hoicked / hoiked, hoiked |
+","to give so. sth. (or: sth. to so.) | gave, given |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to bestow sth. upon so.
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+to take sth. as read
+to take sth. for granted
+to take sth. as a given
+to take sth. as a given
+to take sth. for granted
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+","to attack | attacked, attacked |
+to tackle (so.) | tackled, tackled | [SPORT.]
+to charge | charged, charged | [MIL.]
+to offend | offended, offended |
+to affect sth. | affected, affected | - cause physical damage, e.g. to an organ
+to launch into sth.
+to strike sth. | struck, struck/stricken |
+to fret at sth.
+to gnaw at sth.
+to assail so. | assailed, assailed |
+to lay into so. - assault
+to affront so. | affronted, affronted |
+to take a swipe at so.
+to assault so. | assaulted, assaulted |
+","to criticizeAE so./sth. to criticiseBE / criticizeBE so./sth. | criticized, criticized / criticised, criticised |
+to review sth. | reviewed, reviewed |
+to take a swipe at so.
+to lay into so.
+to run so. down
+to stick it to so.
+to knock so./sth. | knocked, knocked | [coll.]
+to zing so. | zinged, zinged | [coll.]
+to animadvert on (or: upon) sth. [form.]
+to rap so. for sth.
+to scathe | scathed, scathed |
+to excoriate so. | excoriated, excoriated | - criticise severely
+to haul so. over the coals
+to assail so./sth. | assailed, assailed |
+","hath [poet.] archaic - 3rd person singular
+to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+","to clap | clapped, clapped |
+to fold | folded, folded |
+to flap | flapped, flapped |
+to work | worked, worked |
+to work out
+to go over well
+to go over
+to come off well
+to work like a charm
+sth. does the trick [coll.] infinitive: do the trick
+sth. goes swimmingly infinitive: go swimmingly
+","sth. belongs to so.
+to hear (sth.) | heard, heard |
+to listen | listened, listened |
+to belong to so./sth.
+to belong to so.
+to be so.'s | was, been |
+to be owned by so.
+to catch sth. | caught, caught | - hear, understand
+to hearken or: harken | hearkened, hearkened / harkened, harkened | [LIT.]
+to read so. | read, read | - hear and understand when communicating by radio [TELECOM.]
+to list | listed, listed | [poet.] archaic - listen
+to appertain to so./sth.
+to pertain to so./sth.
+to affiliate with so./sth.
+","to get sth. (from so.) | got, got/gotten |
+to receive sth. (from so.) | received, received |
+to catch sth. | caught, caught |
+to come by sth.
+to gain sth. | gained, gained | - obtain
+to obtain sth. | obtained, obtained |
+to agree with so.
+to come down with sth.
+to get sth. through sth.
+sth. does so. good/bad infinitive: do good, do bad
+sth. agrees with so. - food infinitive: agree
+sth. becomes so. - be appropriate, suitable
+to blister | blistered, blistered |
+to get life - be sentenced to life imprisonment
+","sth. deals with sth. infinitive: deal
+to act | acted, acted | - take action
+to trade | traded, traded |
+to deal in cigars/coal/corn/cosmetics/crystal/...
+to bargain (for sth.) | bargained, bargained |
+to take action
+to merchandise | merchandised, merchandised |
+to negotiate | negotiated, negotiated |
+to proceed | proceeded, proceeded |
+to haggle | haggled, haggled |
+to higgle | higgled, higgled | - archaic spelling of haggle
+to operate | operated, operated |
+to dicker | dickered, dickered | (Amer.)
+to traffic | trafficked, trafficked |
+","to tell so. sth. (or: sth. to so.) | told, told |
+to narrate | narrated, narrated |
+to recount | recounted, recounted |
+to report | reported, reported |
+to relate sth. (to so.) | related, related | [form.]
+to tell (so.) of sth.
+to tell so. about sth.
+to retell | retold, retold |
+to prose | prosed, prosed |
+to retell | retold, retold |
+to tell so. lies
+to lie about so./sth.
+to tell a long rigmarole
+to misnarrate | misnarrated, misnarrated | rare
+to outtell sth. | outtold, outtold | - tell to the end rare
+to fable | fabled, fabled | archaic
+to give so. the lowdown on so./sth. [coll.]
+","to die (of (or: from) sth.) | died, died |
+to perish | perished, perished |
+to decease | deceased, deceased |
+to pass away
+to die off
+to pay one's debt to nature
+to fade away
+to pay the debt of nature
+to flatline | flatlined, flatlined | - said of a person [coll.]
+to snuff it (Brit.) [sl.]
+to buy the farm (Amer.) [sl.] [MIL.]
+to cark | carked, carked | - to die (Aust.) [coll.]
+to die of fear/shame/boredom [fig.]
+to be burnt to death
+","to battle (against sth.) | battled, battled |
+to fight (so./sth.) | fought, fought |
+to struggle | struggled, struggled |
+to contend (with so. for sth.) | contended, contended |
+to campaign (against so./sth.) | campaigned, campaigned |
+to combat | combated/combatted, combated/combatted |
+to brawl | brawled, brawled |
+to fray | frayed, frayed |
+to bear arms
+to contest sth. | contested, contested | - fight for
+to struggle for sth.
+to compete for sth.
+to battle for sth.
+to wage a fight for sth.
+","to lend sth. (to so.) | lent, lent |
+to award so. sth. (or: sth. to so.) | awarded, awarded |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to impart | imparted, imparted |
+to distribute films
+to confer sth. | conferred, conferred |
+to imbue sth. | imbued, imbued |
+to concede sth. | conceded, conceded |
+to lend sth. ⇔ out
+to rent sth. ⇔ out
+to distribute sth. | distributed, distributed |
+to bestow sth. on (or: upon) so.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to accord so. sth. | accorded, accorded |
+","to win (at sth.) | won, won |
+to gain sth. | gained, gained | - obtain
+to win sth. | won, won |
+to obtain | obtained, obtained |
+to gather | gathered, gathered |
+to carry sth. ⇔ off - a prize
+to allure so. | allured, allured |
+to take sth. | took, taken | - a prize or medal
+to attain sth. | attained, attained |
+to extract | extracted, extracted | [TECH.]
+to produce | produced, produced | [TECH.]
+to mine | mined, mined | [TECH.]
+to work | worked, worked | [TECH.]
+to scallop | scalloped, scalloped | [TECH.]
+","to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+to carry on with so. [coll.]
+","to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+to carry on with so. [coll.]
+","to wake up
+to wake | woke/waked, woken/waked |
+to waken | wakened, wakened |
+to awake | awoke/awaked, awoken/awaked/awoke |
+to awaken (from sth.) | awakened, awakened |
+to awake from a dream
+","to sound | sounded, sounded |
+to ring | rang, rung |
+to clink | clinked, clinked |
+to tingle | tingled, tingled |
+to jingle | jingled, jingled |
+to twang | twanged, twanged |
+to ring true
+to sound trite
+to be trite
+to ring false
+to ring hollow
+to have a ring to it
+to chink glasses
+","to drink (sth.) | drank, drunk |
+to suckle | suckled, suckled |
+to water | watered, watered |
+to imbibe | imbibed, imbibed | [form.] also [hum.]
+to booze | boozed, boozed | [coll.]
+to skull | skulled, skulled | (Aust.) [sl.]
+to drink to so./sth.
+to toast so./sth. | toasted, toasted |
+to go for a drink
+to have tea
+to down | downed, downed | - a drink
+to take a nip
+to drink to close friendship with so.
+to chug-a-lug | chug-a-lugged, chug-a-lugged | [coll.]
+","to apologizeAE to apologiseBE / apologizeBE | apologized, apologized / apologised, apologised |
+to beg off
+to offer one's apologies
+to excuse so./sth. | excused, excused |
+to forgive sth. | forgave, forgiven |
+to make excuses for so.
+to excuse oneself (for sth.)
+to apologizeAE for doing sth. to apologiseBE / apologizeBE for doing sth.
+to apologizeAE for so./sth. to apologiseBE / apologizeBE for so./sth.
+to plead sth. | pled/pleaded, pled/pleaded |
+to excuse so. from sth.
+to exculpate so. from sth.
+to apologizeAE to so. to apologiseBE / apologizeBE to so.
+to make an excuse to so.
+","to know | knew, known |
+to be aware of sth.
+to understand sth. | understood, understood |
+to ken sth. | kenned, kenned | chiefly (Scot.)
+to be privy to sth.
+to know about sth.
+to know sth. about so./sth.
+to go white
+to turn white
+to whiten | whitened, whitened |
+to blanch sth. | blanched, blanched |
+to wonder about sth.
+to impart knowledge
+to let so. know sth.
+","sth. gets the better of so. infinitive: get the better
+sth. dies on so. - e.g. a plant, an animals
+so. runs out of sth. infinitive: run out of sth.
+so. is running short of sth.
+so./sth. lacks sth. infinitive: lack
+sth. regards so./sth. infinitive: regard
+sth. affects so. infinitive: affect
+so. misses so./sth. infinitive: miss
+to go | went, gone |
+to walk | walked, walked |
+to attend sth. | attended, attended |
+to ambulate | ambulated, ambulated | [form.] also technical usage
+to pace | paced, paced |
+to be off
+","to go | went, gone |
+to walk | walked, walked |
+to attend sth. | attended, attended |
+to ambulate | ambulated, ambulated | [form.] also technical usage
+to pace | paced, paced |
+to be off
+to head for
+to walk along
+to go steady with so.
+to go with so.
+to go out with so.
+to stride up and down
+to pace up and down
+to go from ... to ...
+","to do sth. | did, done |
+to make sth. | made, made |
+to render sth. | rendered, rendered |
+to create sth. | created, created |
+to make so. sth. (or: sth. for so.) | made, made |
+to fix so. sth. (or: sth. for so.) | fixed, fixed | (Amer.) [coll.]
+to make so. sth. | made, made |
+to set about sth.
+to go about sth.
+to set out to do sth.
+to go for sth.
+to turn so./sth. into so./sth.
+sth. bothers so. infinitive: bother
+to worry (about so./sth.) | worried, worried |
+","can aux.
+may aux.
+to know sth. | knew, known |
+could aux.
+to know how to do sth.
+to master sth. | mastered, mastered |
+to be able to do sth.
+to be able to afford sth.
+cannot
+to be able to go
+to be able to come
+to be numerate
+to be able to resist
+to be able to pay
+","to give so. sth. (or: sth. to so.) | gave, given |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to bestow sth. upon so.
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+to disclose sth. | disclosed, disclosed |
+to blame so. for sth.
+to tutor (so.) | tutored, tutored |
+to give the alarm
+to raise the alarm
+","to do sth. | did, done |
+to perform | performed, performed |
+to be just about to do sth.
+to lose | lost, lost |
+to fritter sth. ⇔ away
+sth. does so. good/bad infinitive: do good, bad
+doth archaic - third person singular present of do [LIT.]
+to be able to do sth.
+to be allowed to do sth.
+to like doing sth.
+to order so. to do sth.
+to tell so. to do sth.
+to hurt | hurt, hurt |
+to hurt oneself
+","to help so. | helped, helped |
+to assist (with sth.) | assisted, assisted |
+to be of assistance (to so.)
+to bear a hand
+to abet | abetted, abetted |
+to avail | availed, availed |
+to assist so. (with sth.) | assisted, assisted |
+to abet so. | abetted, abetted | - in doing sth. wrong
+to back so. | backed, backed |
+to lend so. a hand
+to aid so./sth. (in sth.) | aided, aided | [form.]
+to bestead so. | besteaded, besteaded | archaic (Amer.)
+to aid so. with sth. [form.]
+to be of no avail
+","to hate so./sth. | hated, hated |
+to detest so./sth. | detested, detested |
+to loathe so./sth. | loathed, loathed |
+to execrate so./sth. | execrated, execrated |
+to abhor sth. | abhorred, abhorred |
+to ug so./sth. archaic regional
+to hate sth. about so./sth.
+to mob sth. | mobbed, mobbed | - a bird [ORNITH.]
+to hate so.'s guts [coll.]
+to hate so.'s guts [coll.]
+to loathe so./sth. | loathed, loathed |
+","to change sth. | changed, changed |
+to change | changed, changed |
+to alter sth. | altered, altered |
+to modify sth. | modified, modified |
+to vary | varied, varied |
+to vary sth. | varied, varied | - method, style ...
+to redraft | redrafted, redrafted |
+to amend sth. | amended, amended |
+to revise sth. | revised, revised |
+to alter | altered, altered |
+to shift | shifted, shifted |
+to change considerably
+to tamper with sth.
+to change one's spots
+","to find common ground [fig.]
+","to stick | stuck, stuck |
+to put | put, put |
+to plunge | plunged, plunged |
+to poke | poked, poked |
+to push | pushed, pushed |
+to tuck sth. | tucked, tucked |
+to plug sth. ⇔ in
+to jack sth. ⇔ in (Brit.) [coll.]
+to insert sth. in (or: into) sth.
+to tuck sth. into sth.
+to be at the bottom of sth.
+to pop sth. into sth. [coll.]
+to stick | stuck, stuck |
+to get stuck
+","to remember (so./sth.) | remembered, remembered |
+to recollect (so./sth.) | recollected, recollected |
+to remind so. of so./sth.
+to recall sth. | recalled, recalled |
+to look back on sth.
+to bring sth. to mind
+to bear sth. in mind
+to be evocative of sth.
+to commemorate so./sth. | commemorated, commemorated |
+sth. is remindful of sth.
+sth. is remindful of sth. - reminiscent
+sth. is reminiscent of sth.
+to return to mind
+to put so. in mind of so.
+to forget about so./sth.
+to be redolent of sth.
+to admonish so. to do his duty
+","to watch television
+to watch TV
+to teleview | televiewed, televiewed | rare
+to telecast | telecast, telecast |
+to transmit by television
+to telecast | telecast, telecast |
+to be on TV
+to televise sth. | televised, televised |
+to adapt sth. for the screen
+","to bring so./sth. | brought, brought |
+to land so. | landed, landed |
+to bring so. sth. (or: sth. to so.) | brought, brought |
+to yield sth. | yielded, yielded |
+to carry sth. | carried, carried |
+to deliver sth. | delivered, delivered |
+to feature sth. | featured, featured |
+to get so. sth. (or: sth. for so.) | got, got/gotten |
+to fetch | fetched, fetched | [coll.]
+to entail sth.
+to implicate sth. | implicated, implicated |
+to involve sth. | involved, involved |
+to bring sth. ⇔ about
+to acquire sth. | acquired, acquired | - a skill, habit, etc.
+","to sleep | slept, slept |
+to be asleep
+to make love to so.
+to nod | nodded, nodded |
+to roost | roosted, roosted | [ZOOL.]
+to sleep with so.
+to go to bed
+to make love
+to go to sleep
+to hit the pillow
+to hit the hay - go to bed [coll.]
+to sleep soundly
+to rest easy
+to sleep around
+","to vote (for (or: against) sth.) | voted, voted |
+to pitch sth. | pitched, pitched | [MUS.]
+to tune sth. | tuned, tuned | [MUS.]
+to be right
+to add up
+to tune up - adjust an instrument to the correct pitch [MUS.]
+to attune sth. | attuned, attuned | archaic [MUS.]
+to vote for so./sth.
+to blackball so. | blackballed, blackballed | - vote against so.'s admission into a club or the like
+to vote against so./sth.
+sth. squares (with sth.) infinitive: square with
+to pull in votes
+to electioneer | electioneered, electioneered |
+to sadden | saddened, saddened |
+to propitiate so. | propitiated, propitiated |
+to placate so. | placated, placated |
+","to want sth. | wanted, wanted |
+to want sth. | wanted, wanted |
+to desire sth. | desired, desired |
+to wish (for sth.) | wished, wished |
+to wish so. sth. | wished, wished |
+to require sth. | required, required |
+to wish sth. on so.
+to make a wish
+to will sth. | willed, willed | - desire
+to want sth. for so.
+to satisfy a wish
+to suppress a desire
+to wish to do sth.
+to fulfillAE a desire to fulfilBE a desire
+","to position | positioned, positioned |
+to align sth. | aligned, aligned |
+to cater sth. | catered, catered |
+to angle sth. | angled, angled |
+to straighten sth. | straightened, straightened |
+to justify sth. | justified, justified |
+to orientate sth. | orientated, orientated |
+to arrange sth. | arranged, arranged |
+to bring sth. into line
+to organizeAE sth. to organiseBE / organizeBE sth. | organized, organized / organised, organised |
+to orient sth. (to (or: toward) sth.) | oriented, oriented | also [TECH.]
+to relay sth. to so.
+to orchestrate sth. | orchestrated, orchestrated | [fig.] - carefully organise
+to level sth. | leveled/levelled, leveled/levelled | [TECH.]
+","to stick | stuck, stuck |
+to put | put, put |
+to plunge | plunged, plunged |
+to poke | poked, poked |
+to push | pushed, pushed |
+to tuck sth. | tucked, tucked |
+to plug sth. ⇔ in
+to jack sth. ⇔ in (Brit.) [coll.]
+to insert sth. in (or: into) sth.
+to tuck sth. into sth.
+to be at the bottom of sth.
+to pop sth. into sth. [coll.]
+to stick | stuck, stuck |
+to get stuck
+","to give so. sth. (or: sth. to so.) | gave, given |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to bestow sth. upon so.
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+to disclose sth. | disclosed, disclosed |
+to blame so. for sth.
+to tutor (so.) | tutored, tutored |
+to give the alarm
+to raise the alarm
+","to get sth. | got, got/gotten | - understand
+to notice sth. | noticed, noticed |
+to get sth. to take with one
+to miss sth. | missed, missed |
+","to need sth. (from so./sth.) (for sth.) | needed, needed |
+to use sth. | used, used |
+to lack sth. | lacked, lacked |
+to require sth. | required, required |
+to exert | exerted, exerted |
+to make use
+to exercise | exercised, exercised |
+to be in need of sth.
+to use sth. | used, used |
+to employ sth. | employed, employed |
+to resort to sth.
+to utilizeAE sth. to utiliseBE / utilizeBE sth. | utilized, utilized / utilised, utilised |
+to want so./sth. | wanted, wanted |
+sth. takes sth. infinitive: take
+","to sit | sat, sat |
+to perch | perched, perched |
+to be set
+to be seated
+to do bird [coll.] [fig.]
+to do time
+to serve a stretch
+to roost | roosted, roosted | [ZOOL.]
+to remain seated
+to run out on so. - abandon so.
+to bail on so. (Amer.)
+to walk out on so.
+to abandon so. | abandoned, abandoned |
+to have had a few - too many alcoholic drinks
+","sth. takes sth. infinitive: take
+to need sth. (from so./sth.) (for sth.) | needed, needed |
+to lack sth. | lacked, lacked |
+to require sth. | required, required |
+to be in need of sth.
+to use sth. | used, used |
+to want so./sth. | wanted, wanted |
+to need help
+to need rest
+to take time
+to be in need of money
+to need a change
+to need a change
+to be in dire need of sth.
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -168,6 +1140,881 @@ nach jmdm. kommen | kam, gekommen | - ähneln
 zu etw.dat. kommen | kam, gekommen |
 zu etw.dat. kommen | kam, gekommen |
 zu etw.dat. kommen | kam, gekommen |
+","müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst | - im Präsens
+nachsitzen müssen
+tragen müssen
+gehen müssen
+weinen müssen
+bezahlen müssen
+sparen müssen
+etw.acc. tun müssen
+etw.acc. tun müssen
+","etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
+","verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+etw.acc. verbieten | verbot, verboten |
+jmdm. etw.acc. verbieten | verbot, verboten |
+ein Verbot erlassen
+ein Verbot verhängen
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten, etw.acc. zu tun
+jmdm. verbieten zu sprechen
+","jmdn. (einer Sachegen.) anklagen | klagte an, angeklagt |
+jmdn. (einer Sachegen.) anklagen | klagte an, angeklagt |
+jmdn. anklagen | klagte an, angeklagt |
+jmdn. anklagen | klagte an, angeklagt |
+angeklagt sein
+wegen Kriegsverbrechen anklagen
+jmdn. wegen einer Sache anklagen
+jmdn. wegen einer Sachegen. anklagen
+jmdn. wegen Amtsvergehen anklagen
+jmdn. einer Sachegen. anklagen
+jmdn. wegen einer Sachegen. anklagen
+jmdn. (wegen) einer Sachegen. anklagen
+wegen Diebstahl angeklagt sein
+wegen einer Sachegen. angeklagt sein
+wegen einer Sachegen. angeklagt sein
+den Angeklagten mangels Beweises freisprechen
+jmdn. eines schweren Verbrechens anklagen
+","etw.acc. tun | tat, getan |
+tun | tat, getan |
+gleich etw.acc. tun
+etw.acc. tun können
+etw.acc. tun dürfen
+etw.acc. gern tun
+jmdm. befehlen, etw.acc. zu tun
+jmdm. befehlen, etw.acc. zu tun
+wehtun or: weh tun | tat weh, wehgetan | [coll.]
+sichdat. wehtun or: weh tun | tat weh, wehgetan | [coll.]
+sichdat. am Knie/Bein/Finger wehtun or: weh tun [coll.]
+etw.acc. tun lassen
+(jmdm.) befehlen (etw.acc. zu tun) | befahl, befohlen |
+beabsichtigen, etw.acc. zu tun
+","treten | trat, getreten |
+(jmdn./etw.) treten | trat, getreten |
+treten | trat, getreten |
+etw.acc. treten | trat, getreten |
+auf etw.acc. treten | trat, getreten |
+gegen etw.acc. treten | trat, getreten |
+zu jmdm. treten | trat, getreten |
+Wasser treten
+rückwärts treten - beim Fahrrad
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+","kommen | kam, gekommen |
+kommen | kam, gekommen |
+(zu etw.dat.) kommen | kam, gekommen | - Ergebnis, Einigung etc.
+kommen | kam, gekommen |
+kommen | kam, gekommen | - einen Orgasmus haben
+aus London/von den Kanarischen Inseln/aus der Schweiz kommen
+hinter etw.acc. kommen | kam, gekommen |
+hinter etw.acc. kommen | kam, gekommen |
+auf etw.acc. kommen | kam, gekommen |
+hinter etw.dat. kommen | kam, gekommen |
+nach jmdm. kommen | kam, gekommen | - ähneln
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+","etw.acc. wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+etw.acc. wählen | wählte, gewählt |
+jmdn. (zu etw.dat.) wählen | wählte, gewählt |
+etw.acc. wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+wählen | wählte, gewählt |
+eine Nummer wählen
+einen Vorsitzenden wählen
+in den Vorstand wählen
+jmdn. zum Präsidenten wählen
+jmdn. als Partner wählen
+","etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+sichacc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+etw.acc. entscheiden | entschied, entschieden |
+sichacc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+sichacc. für etw.acc. entscheiden | entschied, entschieden |
+","etw.nom. bekommt jmdm. gut/schlecht infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen - zuträglich sein, guttun
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+jmdm. (gut) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen | - Grippe, Erkältung
+etw.acc. durch etw.acc. bekommen | bekam, bekommen |
+etw.nom. bekommt jmdm. nicht infinitive: bekommen
+etw.nom. bekommt jmdm. schlecht infinitive: bekommen
+","fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht |
+etw.acc. fälschen | fälschte, gefälscht | - eine E-Mail-Adresse
+etw.acc. fälschen | fälschte, gefälscht | - Urkunde
+etw.acc. fälschen | fälschte, gefälscht |
+fälschen | fälschte, gefälscht |
+","jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
+","untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+etw.acc. untersuchen | untersuchte, untersucht |
+","unternehmen | unternahm, unternommen |
+unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.acc. unternehmen | unternahm, unternommen |
+etw.nom. gegen etw.acc. unternehmen | unternahm, unternommen |
+ein Unternehmen aufgeben
+ein Unternehmen gründen
+ein Unternehmen gründen
+das Unternehmen verflachen
+ein Unternehmen abbrechen
+ein Unternehmen auflösen
+ein Unternehmen leiten
+ein Unternehmen weiterführen
+","aufnehmen | nahm auf, aufgenommen |
+etw.acc. aufnehmen | nahm auf, aufgenommen |
+jmdn. aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen |
+aufnehmen | nahm auf, aufgenommen | - Material
+etw.acc. aufnehmen | nahm auf, aufgenommen |
+","beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. beitreten | trat bei, beigetreten |
+etw.dat. nicht beitreten
+einer Partei beitreten
+einem Verband beitreten
+einem Prozess als Nebenkläger beitreten
+","sichacc. (über etw.acc.) freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. auf etw.acc. freuen | freute, gefreut |
+sichacc. für jmdn. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. mit jmdm. freuen | freute, gefreut |
+sichacc. freuen, etw.acc. zu tun
+sichacc. freuen, etw.acc. zu tun
+sichacc. hämisch freuen
+sichacc. riesig freuen
+sichacc. auf etw.acc. freuen können
+sichacc. riesig über etw.acc. freuen
+","jmdm. helfen | half, geholfen |
+(bei etw.dat.) helfen | half, geholfen |
+(jmdm.) helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+jmdm. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm./etw. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. bei etw.dat. helfen | half, geholfen |
+nichts helfen
+","etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert | - verändern
+ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+ändern | änderte, geändert |
+wesentlich ändern
+etw.acc. betrügerisch ändern
+sichacc. grundlegend ändern
+","angreifen | griff an, angegriffen |
+(jmdn.) angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+","etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen | - ein Kleidungsstück
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+hochziehen | zog hoch, hochgezogen |
+hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+etw.acc. hochziehen | zog hoch, hochgezogen |
+Mauern hochziehen
+die Schultern hochziehen
+die Nase hochziehen
+etw.acc. plötzlich hochziehen
+","jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben annehmen
+etw.acc. als gegeben voraussetzen
+etw.acc. als gegeben ansehen
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+","angreifen | griff an, angegriffen |
+(jmdn.) angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+etw.acc. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+jmdn. angreifen | griff an, angegriffen |
+","jmdn./etw. kritisieren | kritisierte, kritisiert |
+etw.acc. kritisieren | kritisierte, kritisiert | - (als Kritiker) fachlich besprechen
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+jmdn./etw. kritisieren | kritisierte, kritisiert |
+jmdn. kritisieren | kritisierte, kritisiert |
+etw.acc. kritisieren | kritisierte, kritisiert |
+jmdn. für etw.acc. kritisieren | kritisierte, kritisiert |
+scharf kritisieren
+jmdn. scharf kritisieren
+jmdn. scharf kritisieren
+jmdn./etw. scharf kritisieren
+","hat
+haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+","klappen | klappte, geklappt |
+klappen | klappte, geklappt |
+klappen | klappte, geklappt |
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+klappen | klappte, geklappt | [coll.]
+hervorragend klappen
+mit etw.dat. klappt es
+etw.nom. klappt wie am Schnürchen infinitive: wie am Schnürchen klappen
+","etw.nom. gehört jmdm. infinitive: gehören
+(etw.acc.) hören | hörte, gehört |
+hören | hörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+jmdm. gehören | gehörte, gehört |
+etw.acc. hören | hörte, gehört |
+hören | hörte, gehört |
+jmdn. hören | hörte, gehört |
+hören | hörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+zu jmdm./etw. gehören | gehörte, gehört |
+","etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. (von jmdm.) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen |
+jmdm. (gut) bekommen | bekam, bekommen |
+etw.acc. bekommen | bekam, bekommen | - Grippe, Erkältung
+etw.acc. durch etw.acc. bekommen | bekam, bekommen |
+etw.nom. bekommt jmdm. gut/schlecht infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen
+etw.nom. bekommt jmdm. infinitive: bekommen - zuträglich sein, guttun
+Blasen bekommen
+""lebenslänglich"" bekommen
+","etw.nom. handelt von etw.dat. infinitive: handeln
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+mit Zigarren/Kohle/Getreide/Kosmetika/Kristall/... handeln | handelte, gehandelt |
+(um etw.acc.) handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+handeln | handelte, gehandelt |
+","jmdm. etw.acc. erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+(jmdm.) etw.acc. erzählen | erzählte, erzählt |
+(jmdm.) von etw.dat. erzählen | erzählte, erzählt |
+jmdm. von etw.dat. erzählen | erzählte, erzählt |
+wieder erzählen
+langweilig erzählen
+nochmals erzählen
+jmdm. Lügen erzählen
+Lügen über jmdn./etw. erzählen
+lang und breit erzählen
+falsch erzählen
+etw.acc. zu Ende erzählen
+Märchen erzählen [fig.]
+jmdm. erzählen, was man über jmdn./etw. weiß
+","(an etw.dat.) sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+sterben | starb, gestorben |
+vor Angst/Scham/Langeweile sterben [fig.]
+den Feuertod sterben
+","(gegen etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+(mit jmdm. um etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+","etw.acc. (an jmdn.) verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+verleihen | verlieh, verliehen |
+verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen | - Titel, Diplom etc.
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen |
+etw.acc. verleihen | verlieh, verliehen | - Film
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+jmdm. etw.acc. verleihen | verlieh, verliehen |
+","(bei etw.dat.) gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen |
+jmdn. gewinnen | gewann, gewonnen |
+etw.acc. gewinnen | gewann, gewonnen | - Preis, Medaille
+etw.acc. gewinnen | gewann, gewonnen | - erlangen
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen |
+gewinnen | gewann, gewonnen | - der Kohle von Hand
+","haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. mit jmdm. haben | hatte, gehabt |
+","haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. mit jmdm. haben | hatte, gehabt |
+","aufwachen | wachte auf, aufgewacht |
+aufwachen | wachte auf, aufgewacht |
+aufwachen | wachte auf, aufgewacht |
+aufwachen | wachte auf, aufgewacht |
+(aus etw.dat.) aufwachen | wachte auf, aufgewacht |
+von einem Traum aufwachen
+","klingen | klang, geklungen |
+klingen | klang, geklungen |
+klingen | klang, geklungen |
+klingen | klang, geklungen |
+klingen | klang, geklungen |
+klingen | klang, geklungen |
+richtig klingen
+abgedroschen klingen
+abgedroschen klingen
+falsch klingen
+unglaubwürdig klingen
+gut klingen
+die Gläser klingen lassen [fig.] [poet.] - anstoßen
+","(etw.acc.) trinken | trank, getrunken |
+trinken | trank, getrunken | - an Brust oder Euter
+trinken | trank, getrunken | - Tiere
+trinken | trank, getrunken |
+trinken | trank, getrunken | - Alkohol
+trinken | trank, getrunken | - Alkohol
+auf jmdn./etw. trinken | trank, getrunken |
+auf jmdn./etw. trinken | trank, getrunken |
+etw.acc. trinken gehen
+Tee trinken
+auf ex trinken
+ein Schlückchen trinken
+mit jmdm. Brüderschaft trinken
+auf ex trinken
+","sichacc. entschuldigen | entschuldigte, entschuldigt |
+sichacc. entschuldigen | entschuldigte, entschuldigt |
+sichacc. entschuldigen | entschuldigte, entschuldigt |
+jmdn./etw. entschuldigen | entschuldigte, entschuldigt |
+etw.acc. entschuldigen | entschuldigte, entschuldigt |
+jmdn. entschuldigen | entschuldigte, entschuldigt |
+sichacc. (für etw.acc., wegen einer Sachegen.) entschuldigen | entschuldigte, entschuldigt |
+sichacc. für etw.acc. entschuldigen | entschuldigte, entschuldigt |
+sichacc. für jmdn./etw. entschuldigen | entschuldigte, entschuldigt |
+sichacc. mit etw.dat. entschuldigen | entschuldigte, entschuldigt |
+jmdn. von etw.dat. entschuldigen | entschuldigte, entschuldigt |
+jmdn. von etw.dat. entschuldigen | entschuldigte, entschuldigt |
+sichacc. bei jmdm. entschuldigen | entschuldigte, entschuldigt |
+sichacc. bei jmdm. entschuldigen | entschuldigte, entschuldigt |
+","wissen | wusste, gewusst |
+etw.acc. wissen | wusste, gewusst |
+etw.acc. wissen | wusste, gewusst |
+etw.acc. wissen | wusste, gewusst |
+von etw.dat. wissen | wusste, gewusst |
+von etw.dat. wissen | wusste, gewusst |
+etw.acc. über jmdn./etw. wissen | wusste, gewusst |
+weiß werden
+weiß werden
+weiß machen
+etw.acc. weiß machen
+etw.acc. wissen wollen
+Wissen vermitteln
+jmdn. etw.acc. wissen lassen (or: wissenlassen) | ließ wissen, wissengelassen |
+","etw.nom. geht mit jmdm. durch infinitive: durchgehen
+jmdm. geht etw.nom. ein infinitive: eingehen - z. B. eine Pflanze, ein Tier
+jmdm. geht etw.nom. aus infinitive: ausgehen
+jmdm. geht etw.nom. aus
+jmdm./etw. geht etw.nom. ab infinitive: abgehen
+etw.nom. geht jmdn./etw. an infinitive: angehen
+etw.nom. geht jmdm. nahe infinitive: nahegehen
+jmdm. geht jmd./etw. ab [coll.] infinitive: abgehen
+gehen | ging, gegangen |
+gehen | ging, gegangen |
+auf etw.acc. gehen | ging, gegangen |
+gehen | ging, gegangen |
+gehen | ging, gegangen |
+gehen | ging, gegangen | - aufbrechen
+","gehen | ging, gegangen |
+gehen | ging, gegangen |
+auf etw.acc. gehen | ging, gegangen |
+gehen | ging, gegangen |
+gehen | ging, gegangen |
+gehen | ging, gegangen | - aufbrechen
+gehen | ging, gegangen | - in eine Richtung
+entlang gehen | ging, gegangen |
+mit jmdm. gehen | ging, gegangen |
+mit jmdm. gehen | ging, gegangen |
+mit jmdm. gehen | ging, gegangen |
+auf und ab gehen
+auf und ab gehen
+von ... nach ... gehen | ging, gegangen |
+","etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+jmdm. etw.acc. machen | machte, gemacht |
+jmdm. etw.acc. machen | machte, gemacht | - Essen, Getränk
+jmdn. zu etw.dat. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+jmdn./etw. zu jmdm./etw. machen | machte, gemacht |
+etw.nom. macht jmdm. etw.acc. aus infinitive: ausmachen
+sichdat. (um jmdn./etw.) Sorgen machen
+","können | konnte, gekonnt |
+können | konnte, gekonnt |
+etw.acc. können | konnte, gekonnt |
+können | konnte, gekonnt | - Modalverb; flektierte Formen könnte, könntest, könnten
+etw.acc. können | konnte, gekonnt |
+etw.acc. können | konnte, gekonnt |
+etw.acc. tun können
+sichdat. etw.acc. leisten können
+können nicht
+mitgehen können
+mitkommen können
+rechnen können
+widerstehen können
+zahlen können
+","jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+jmdm. die Schuld an etw.dat. geben
+(jmdm.) Nachhilfeunterricht geben
+Alarm geben
+Alarm geben
+","etw.acc. tun | tat, getan |
+tun | tat, getan |
+gleich etw.acc. tun
+vertun | vertat, vertan |
+etw.acc. vertun | vertat, vertan |
+etw.nom. tut jmdm. gut/nicht gut infinitive: guttun, nicht guttun
+tut
+etw.acc. tun können
+etw.acc. tun dürfen
+etw.acc. gern tun
+jmdm. befehlen, etw.acc. zu tun
+jmdm. befehlen, etw.acc. zu tun
+wehtun or: weh tun | tat weh, wehgetan | [coll.]
+sichdat. wehtun or: weh tun | tat weh, wehgetan | [coll.]
+","jmdm. helfen | half, geholfen |
+(bei etw.dat.) helfen | half, geholfen |
+(jmdm.) helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+helfen | half, geholfen |
+jmdm. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm./etw. (bei etw.dat.) helfen | half, geholfen |
+jmdm. helfen | half, geholfen |
+jmdm. bei etw.dat. helfen | half, geholfen |
+nichts helfen
+","jmdn./etw. hassen | hasste, gehasst |
+jmdn./etw. hassen | hasste, gehasst |
+jmdn./etw. hassen | hasste, gehasst |
+jmdn./etw. hassen | hasste, gehasst |
+etw.acc. hassen | hasste, gehasst |
+jmdn./etw. hassen | hasste, gehasst |
+etw.acc. an jmdm./etw. hassen | hasste, gehasst |
+auf etw.acc. hassen | hasste, gehasst | - auf einen Vogel [Hunting Language]
+jmdn. abgrundtief hassen
+jmdn. wie die Pest hassen [coll.]
+jmdn./etw. wie die Pest hassen [coll.]
+","etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert | - verändern
+ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+etw.acc. ändern | änderte, geändert |
+sichacc. ändern | änderte, geändert |
+ändern | änderte, geändert |
+wesentlich ändern
+etw.acc. betrügerisch ändern
+sichacc. grundlegend ändern
+","zueinanderfinden or: zueinander finden | fand zueinander, zueinandergefunden |
+","stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt | [coll.]
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+hinter etw.dat. stecken | steckte, gesteckt | [coll.]
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+steckenbleiben or: stecken bleiben | blieb stecken, steckengeblieben |
+steckenbleiben or: stecken bleiben | blieb stecken, steckengeblieben |
+","sichacc. (an jmdn./etw.) erinnern | erinnerte, erinnert |
+sichacc. (an jmdn./etw.) erinnern | erinnerte, erinnert |
+jmdn. an jmdn./etw. erinnern | erinnerte, erinnert |
+sichacc. an etw.acc. erinnern | erinnerte, erinnert |
+sichacc. an etw.acc. erinnern | erinnerte, erinnert |
+sichacc. an etw.acc. erinnern | erinnerte, erinnert |
+sichacc. an etw.acc. erinnern | erinnerte, erinnert |
+an etw.acc. erinnern | erinnerte, erinnert |
+an jmdn./etw. erinnern | erinnerte, erinnert |
+etw.nom. erinnert an etw.acc. infinitive: an etw.acc. erinnern
+etw.nom. erinnert an etw.acc. infinitive: erinnern
+etw.nom. erinnert an etw.acc. infinitive: erinnern
+sichacc. wieder erinnern
+jmdn. an jemanden erinnern
+sichacc. nicht an jmdn./etw. erinnern
+stark an etw.acc. erinnern
+jmdn. an seine Pflichten erinnern
+","fernsehen | sah fern, ferngesehen |
+fernsehen | sah fern, ferngesehen |
+fernsehen | sah fern, ferngesehen |
+im Fernsehen übertragen
+im Fernsehen übertragen
+im Fernsehen senden
+im Fernsehen sein
+etw.acc. im Fernsehen übertragen
+etw.acc. fürs Fernsehen bearbeiten
+","jmdn./etw. bringen | brachte, gebracht |
+jmdn. bringen | brachte, gebracht |
+jmdm. etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht | - z. B. in der Zeitung
+jmdm. etw.acc. bringen | brachte, gebracht |
+bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. an sichacc. bringen | brachte, gebracht | - sich etw. aneignen
+","schlafen | schlief, geschlafen |
+schlafen | schlief, geschlafen |
+mit jmdm. schlafen | schlief, geschlafen |
+schlafen | schlief, geschlafen |
+schlafen | schlief, geschlafen | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
+mit jmdm. schlafen | schlief, geschlafen |
+schlafen gehen
+miteinander schlafen
+schlafen gehen
+schlafen gehen
+schlafen gehen
+tief schlafen
+ruhig schlafen
+sichacc. durch die Betten schlafen
+","(für (or: gegen) etw.acc.) stimmen | stimmte, gestimmt |
+etw.acc. stimmen | stimmte, gestimmt |
+etw.acc. stimmen | stimmte, gestimmt | - Instrument
+stimmen | stimmte, gestimmt |
+stimmen | stimmte, gestimmt |
+stimmen | stimmte, gestimmt |
+etw.acc. stimmen | stimmte, gestimmt | - Instrument
+für jmdn./etw. stimmen | stimmte, gestimmt |
+gegen jmdn. stimmen | stimmte, gestimmt |
+gegen jmdn./etw. stimmen | stimmte, gestimmt |
+etw.nom. stimmt mit etw.dat. überein infinitive: mit etw.dat. übereinstimmen
+Stimmen bekommen
+Stimmen werben
+traurig stimmen
+jmdn. günstig stimmen
+jmdn. versöhnlich stimmen
+","etw.acc. wünschen | wünschte, gewünscht |
+sichdat. etw.acc. wünschen | wünschte, gewünscht |
+(sichdat.) etw.acc. wünschen | wünschte, gewünscht |
+sichdat. (etw.acc.) wünschen | wünschte, gewünscht |
+jmdm. etw.acc. wünschen | wünschte, gewünscht |
+etw.acc. wünschen | wünschte, gewünscht |
+jmdm. etw.acc. wünschen | wünschte, gewünscht |
+sichdat. etw.acc. wünschen | wünschte, gewünscht |
+sichdat. etw.acc. wünschen | wünschte, gewünscht |
+etw.acc. für jmdn. wünschen | wünschte, gewünscht |
+einen Wunsch erfüllen
+den Wunsch unterdrücken
+sichdat. wünschen, etw.acc. zu tun
+einen Wunsch erfüllen
+","ausrichten | richtete aus, ausgerichtet | - z. B. Bilder bei der stereoskopischen Betrachtung
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. (nach etw.dat.) ausrichten | richtete aus, ausgerichtet |
+jmdm. etw.acc. ausrichten | richtete aus, ausgerichtet |
+etw.acc. ausrichten | richtete aus, ausgerichtet | - arrangieren, organisieren
+etw.acc. ausrichten | richtete aus, ausgerichtet |
+","stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt |
+etw.acc. stecken | steckte, gesteckt | [coll.]
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+hinter etw.dat. stecken | steckte, gesteckt | [coll.]
+etw.acc. in etw.acc. stecken | steckte, gesteckt |
+steckenbleiben or: stecken bleiben | blieb stecken, steckengeblieben |
+steckenbleiben or: stecken bleiben | blieb stecken, steckengeblieben |
+","jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+jmdm. die Schuld an etw.dat. geben
+(jmdm.) Nachhilfeunterricht geben
+Alarm geben
+Alarm geben
+","etw.acc. mitbekommen | bekam mit, mitbekommen | - verstehen
+etw.acc. mitbekommen | bekam mit, mitbekommen |
+etw.acc. mitbekommen | bekam mit, mitbekommen | - als Gabe
+etw.acc. nicht mitbekommen
+","etw.acc. (von jmdm./etw.) (für etw.acc.) brauchen | brauchte, gebraucht |
+etw.acc. gebrauchen | gebrauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+gebrauchen | gebrauchte, gebraucht |
+gebrauchen | gebrauchte, gebraucht |
+gebrauchen | gebrauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. gebrauchen | gebrauchte, gebraucht |
+etw.acc. gebrauchen | gebrauchte, gebraucht |
+etw.acc. gebrauchen | gebrauchte, gebraucht |
+jmdn./etw. brauchen | brauchte, gebraucht |
+etw.nom. braucht etw.acc. infinitive: brauchen - Zeit
+","sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - z. B. Vögel/Insekten in der Vegetation
+sitzen bleiben
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+einen sitzen haben
+","etw.nom. braucht etw.acc. infinitive: brauchen - Zeit
+etw.acc. (von jmdm./etw.) (für etw.acc.) brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+etw.acc. brauchen | brauchte, gebraucht |
+jmdn./etw. brauchen | brauchte, gebraucht |
+Hilfe brauchen
+Ruhe brauchen
+Zeit brauchen
+Geld brauchen
+Luftwechsel brauchen
+Veränderung brauchen
+etw.acc. dringend brauchen
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -180,7 +2027,234 @@ chattels pl. [LAW]
 effects plural noun - personal belongings
 movable belongings
 personal effects [FINAN.]
-",,,,
+",,,None,,,"said in words
+","ban
+prohibition
+interdiction
+proscription
+embargo - pl.: embargoes
+veto
+forbiddance rare
+imitations pl. [TECH.]
+limitations pl. [TECH.]
+forbidden transition
+prohibited trade
+forbidden clone
+forbidden energy band
+banned imports pl.
+","the accused
+advising the defendant of his rights
+",,,"continual coming and going
+","president-elect (Amer.)
+adopted home
+elected government [POL.]
+elocution
+virtual call [TELECOM.]
+","resolute action
+res judicata Latin [LAW]
+","over-the-counter drug [PHARM.]
+","forged signature
+bogus ticket
+forged coin
+funny money
+counterfeit bond
+manipulated data
+manipulated information
+counterfeit card [FINAN.]
+forged checkAE [FINAN.]forged chequeBE [FINAN.]
+cold checkAE [FINAN.]cold chequeBE [FINAN.]
+forged endorsement (or: indorsement)
+counterfeit trade
+trade in counterfeit products [COMM.]
+",,,"venture
+corporation
+establishment
+enterprise [COMM.]
+company [COMM.]
+organizationAE [COMM.]organisationBE / organizationBE [COMM.]
+undertaking
+proposition
+endeavorAE / endeavourBE
+task
+unit
+business company
+corporate client
+firm [COMM.]
+",None,None,None,"heald [TEXTIL.]
+heddle [TEXTIL.]
+","redesign
+altered circumstances
+amended claim
+amended forecast [METEO.]
+reallocation of non-capitalizableAE cost (or: costs) [FINAN.]reallocation of non-capitalisableBE / non-capitalizableBE cost (or: costs) [FINAN.]
+",None,"hunched shoulders
+purl buttonhole [TEXTIL.]
+purl stitch buttonhole [TEXTIL.]
+","legitimation
+datum
+fixed stock [COMM.]
+items of a given population
+","poor health
+bad heart
+corroded fossil [GEOL.]
+partly dissolved fossil [GEOL.]
+",None,"hat - with a brim
+hat - head covering (without a brim)
+hat
+hat rack
+hat rack
+hatstand or: hat stand (Brit.)
+hatstand or: hat stand (Brit.)
+hat box
+hat brim
+hat cord
+hat feather
+hat leather
+hat seller
+hat string
+",None,None,"to go stir-crazy [coll.]
+to go stir-crazy [coll.]
+",None,None,None,None,"concession mine [LAW]
+concession pit [LAW]
+concession mine [LAW]
+concession pit [LAW]
+title bestowed by the Pope
+","broken ore - shrinkage stoping [GEOL.]
+broken ore - shrinkage stoping [GEOL.]
+reclaimed ground
+reclaimed soil [AGR.][GEOL.]
+","credit [FINAN.]
+assets pl. [FINAN.]
+credits pl. [FINAN.]
+belongings plural noun
+possession
+chattels pl. [LAW]
+effects plural noun - personal belongings
+debit and credit [FINAN.]
+credit clearing entry [FINAN.]
+credit spread [FINAN.]
+credit balance [FINAN.]
+credit amount [FINAN.]
+credits indicator [FINAN.]
+movable belongings
+","haste
+precipitation
+hurry
+precipitancy
+rashness
+flurry
+precipitance
+",None,None,"drinking
+excessive drinking
+","authorizedAE absenceauthorisedBE / authorizedBE absence
+authorizedAE absenceauthorisedBE / authorizedBE absence
+","white
+lord only knows [coll.]
+Paris white
+fine white [MIN.]
+white clover [BOT.]
+Dutch clover [BOT.]
+abele [BOT.]
+white poplar [BOT.]
+silver poplar [BOT.]
+silver birch [BOT.]
+weeping birch [BOT.]
+white oak [BOT.]
+grayAE alder [BOT.]greyBE alder [BOT.]
+speckled alder [BOT.]
+","old traditions are disappearing
+multiplication and division first, then addition and subtraction [MATH.]
+getting started [COMP.]
+bad hair day [coll.]
+","going
+racewalking or: race walking [SPORT.]
+canvassing
+continual coming and going
+20 kilometersAE race walk [SPORT.]20 kilometresBE race walk [SPORT.]
+mineral depletion
+","to embolden so.
+to be committed to doing sth.
+",None,"to relax one's grip
+give-and-take basis
+","tun
+tun
+tun
+action
+tun - of wine
+tun case [HIST.]
+tun case [HIST.]
+action or inaction [PSYCH.]
+lauter tun
+frenemies
+obligation to act
+to be committed to doing sth.
+reason for doing sth.
+wooden tun ring [HIST.]
+to find it in one's heart to do sth.
+",None,None,"no-altering principle
+",None,"plugging [ELEC.]
+stick
+rear plug-up [ELEC.]
+edge-socket connector [ELEC.]
+",None,"television [abbr.: TV]
+TV
+television broadcasting [abbr.: TV]
+television broadcasting service
+the tube chiefly (Amer.) [coll.]
+telly (Brit.) [coll.]
+community antenna television system [abbr.: CATV] [TECH.]
+digital television
+closed-circuit television [abbr.: CCTV]
+public broadcasting
+nationally-transmitted television
+nationwide television broadcasting
+commercial television
+ad-funded TV
+",None,None,None,"desire (for)
+request
+wish
+will
+best wishes
+pipe dream
+wishful thinking
+burning desire
+dealer's option
+","alignment rarely: alinement [TECH.]
+sighting [TECH.]
+adjustment [TECH.]
+straightening [TECH.]
+boning
+straight alignment [TECH.]
+form alignment
+",None,None,None,"reach-me-down (Brit.)
+hand-me-down - garment handed down
+used packaging
+post-consumer packaging
+used books
+second-hand machine
+second-hand machinery
+used machine
+used machinery
+post-consumer packaging
+used packaging
+washings
+used insulating liquid [ELEC.]
+used machinery [TECH.]
+","seat
+fit
+registered office
+domicile
+hub [TECH.]
+chair
+bestride
+place of business [COMM.]
+place of establishment [COMM.]
+fit of the glaze [TECH.]
+town council seat [POL.]
+lug
+sliding seat
+misfit
+",None
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -192,7 +2266,234 @@ die Habe pl.: die Haben
 die Habe pl.: die Haben [form.]
 bewegliche Habe
 persönliche Habe
-",,,,
+",,,None,,,"in Worten gesagt
+","das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+das Verbot pl.: die Verbote
+die Verbote pl. [Surface Treatment]
+die Verbote pl. [Surface Treatment]
+verbotener Übergang
+verbotener Handel
+verbotener Klon
+verbotenes Energieband
+verbotene Einfuhren pl.
+","die Angeklagten pl.
+Belehrung über die Rechte des Angeklagten
+",,,"beständiges Kommen und Gehen
+","gewählter Präsident - vor dem Amtsantritt
+gewähltes Zuhause
+gewählte Regierung
+gewählte Aussprache
+gewählte virtuelle Verbindung
+","entschiedenes Handeln
+rechtskräftig entschiedene Sache
+","Medikament, das man ohne Rezept bekommt
+","gefälschte Unterschrift
+gefälschte Karte
+gefälschte Münze
+gefälschtes Geld
+gefälschte Anleihe
+gefälschte Daten
+gefälschte Informationen pl.
+gefälschte Karte
+gefälschter Scheck
+gefälschter Scheck
+gefälschtes Indossament
+Handel mit gefälschten Produkten
+Handel mit gefälschten Produkten
+",,,"das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen
+das Unternehmen pl.: die Unternehmen - als Kunde
+das Unternehmen pl.: die Unternehmen
+",None,None,None,"die Helfe pl.: die Helfen
+die Helfe pl.: die Helfen
+","geändertes Design
+geänderte Umstände
+geänderter Anspruch
+geänderte Wettervorhersage
+geänderte Zuordnung nichtaktivierungsfähiger Aufwendungen
+",None,"hochgezogene Schultern pl.
+hochgezogenes Knopfloch
+hochgezogenes Knopfloch
+","Annahme als gegeben - Organisationsökologie
+gegebene Größe
+gegebener Bestand
+Elemente einer gegebenen Grundgesamtheit [Statistics]
+","angegriffene Gesundheit
+angegriffenes Herz
+angegriffenes Fossil
+angegriffenes Fossil
+",None,"der Hut pl.: die Hüte
+die Mütze pl.: die Mützen - Kopfbedeckung (ohne Schirm)
+der Chapeau pl.: die Chapeaus archaic
+die Hutablage pl.: die Hutablagen
+der Hutständer pl.: die Hutständer
+der Hutständer pl.: die Hutständer
+der Kleiderständer pl.: die Kleiderständer
+die Hutschachtel pl.: die Hutschachteln
+die Hutkrempe pl.: die Hutkrempen
+die Hutschnur pl.: die Hutschnüre
+die Hutfeder pl.: die Hutfedern
+das Hutschweißleder
+der Hutverkäufer pl.: die Hutverkäufer
+die Hutschnur pl.: die Hutschnüre
+",None,None,"einen Gefängniskoller bekommen [coll.]
+einen Lagerkoller bekommen [coll.]
+",None,None,None,None,"verliehene Grube [Bergrecht]
+verliehene Grube [Bergrecht]
+verliehenes Bergwerk [Bergrecht]
+verliehenes Bergwerk [Bergrecht]
+vom Papst verliehener Adel
+","gewonnenes Erz
+gewonnenes Haufwerk
+neugewonnenes (or: neu gewonnenes) Land
+neugewonnenes (or: neu gewonnenes) Land
+","das Haben no plural
+das Haben no plural
+das Haben no plural [Banking]
+die Habe pl.: die Haben
+die Habe pl.: die Haben
+die Habe pl.: die Haben
+die Habe pl.: die Haben [form.]
+Soll und Haben [Banking]
+Ausgleichsbuchung im Haben [Banking]
+der Haben-Spread
+der Haben-Saldo
+der Haben-Betrag [Banking]
+das Haben-Kennzeichen
+bewegliche Habe
+","die Hast no plural
+die Hast no plural
+die Hast no plural
+die Hast no plural
+die Hast no plural
+die Hast no plural
+die Hast no plural
+",None,None,"das Trinken no plural
+unmäßiges Trinken
+","entschuldigtes Fernbleiben
+entschuldigte Fehlzeit
+","das Weiß pl.
+weiß der Himmel [coll.]
+Pariser Weiß
+reines Weiß - handelsüblicher Diamantfarbton
+der Weißklee or: Weiß-Klee pl. Lat.: Trifolium repens
+der Weißklee or: Weiß-Klee pl. Lat.: Trifolium repens
+die Weißpappel or: Weiß-Pappel pl. Lat.: Populus alba
+die Weißpappel or: Weiß-Pappel pl. Lat.: Populus alba
+die Weißpappel or: Weiß-Pappel pl. Lat.: Populus alba
+die Weißbirke or: Weiß-Birke pl. Lat.: Betula pendula
+die Weißbirke or: Weiß-Birke pl.: die Weißbirken Lat.: Betula pendula
+die Weißeiche or: Weiß-Eiche pl.: die Weißeichen Lat.: Quercus alba
+die Weißerle or: Weiß-Erle pl. Lat.: Alnus incana
+die Weißerle or: Weiß-Erle pl. Lat.: Alnus incana
+","altes Brauchtum geht verloren
+Punkt- geht vor Strichrechnung - Rechenregel
+los geht's
+Tag, an dem alles schief geht
+","das Gehen no plural
+das Gehen no plural [Athletics]
+das Von-Haus-Zu-Haus-Gehen no plural
+beständiges Kommen und Gehen
+20 Kilometer Gehen
+Zur-Neige-Gehen von Mineralien
+","jmdm. Mut machen
+sichdat. zur Aufgabe machen, etw.acc. zu tun
+",None,"aus der Hand geben
+Grundsatz des Gebens und Nehmens
+","die Tonne pl.: die Tonnen - zylindrischer Behälter meist aus Metall
+das Fass pl.: die Fässer
+der Bottich pl.: die Bottiche
+das Tun no plural
+das Fuder pl.: die Fuder archaic - Hohlmaß für Wein
+die Steinkiste pl.: die Steinkisten - Holzverkleidung von Mahlgängen [Molinology]
+die Zarge pl.: die Zargen - Holzverkleidung von Mahlgängen [Molinology]
+Tun oder Nichttun
+der Läuterbottich pl.: die Läuterbottiche
+die so tun
+Verpflichtung, etw.acc. zu tun
+sichdat. zur Aufgabe machen, etw.acc. zu tun
+der Grund etw.acc. zu tun
+der Zargenkranz pl.: die Zargenkränze [Molinology]
+sichacc. dazu durchringen können, etw.acc. zu tun
+",None,None,"das Nicht-Ändern-Prinzip
+",None,"das Stecken no plural - Steckverbindung herstellen
+der Stecken pl.: die Stecken regional
+rückseitiges Stecken
+Steckverbinder für direktes Stecken
+",None,"das Fernsehen no plural
+das Fernsehen no plural
+das Fernsehen no plural
+das Fernsehen no plural
+das Fernsehen no plural
+das Fernsehen no plural
+Fernsehen über Gemeinschaftsantenne [abbr.: CATV]
+digitales Fernsehen
+internes Fernsehen
+öffentlich-rechtliches Fernsehen
+bundesweites Fernsehen
+bundesweites Fernsehen
+kommerzielles Fernsehen
+werbefinanziertes Fernsehen
+",None,None,None,"der Wunsch (nach) pl.: die Wünsche
+der Wunsch pl.: die Wünsche
+der Wunsch pl.: die Wünsche
+der Wunsch pl.: die Wünsche
+beste Wünsche
+frommer Wunsch
+frommer Wunsch
+sehnlicher Wunsch
+Wunsch des Händlers
+","das Ausrichten no plural
+das Ausrichten no plural
+das Ausrichten no plural
+das Ausrichten no plural
+das Ausrichten no plural
+gerades Ausrichten
+Ausrichten des Formulars
+",None,None,None,"gebrauchtes Kleidungsstück
+gebrauchtes Kleidungsstück
+gebrauchte Verpackung
+gebrauchte Verpackung
+gebrauchte Bücher
+gebrauchte Maschine
+gebrauchte Maschine
+gebrauchte Maschine
+gebrauchte Maschine
+gebrauchte Verkaufspackung
+gebrauchte Verkaufspackung
+gebrauchtes Spülwasser
+gebrauchte Isolierflüssigkeit
+gebrauchte Maschinen
+","der Sitz pl.: die Sitze
+der Sitz pl.: die Sitze - Kleidungsstück
+der Sitz pl.: die Sitze - einer Firma
+der Sitz pl.: die Sitze - einer Firma
+der Sitz pl.: die Sitze
+der Sitz pl.: die Sitze
+rittlings sitzen
+Sitz der Firma
+Sitz der Firma
+Sitz der Glasur [Ceramics]
+Sitz im Stadtrat
+angegossener Sitz
+verschiebbarer Sitz
+schlechter Sitz - Kleidungsstück
+",None
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -205,14 +2506,584 @@ genus: FEMI
 plural: die Haben
 meaning: belongings plural noun
 possession
-",,,,
-noun_details,german,,,,,,
-adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
+",,,None,,,"article: in
+word: Worten
+genus: 
+plural: gesagt
+meaning: said in words
+
+","article: Das
+word: Verbot
+genus: NEUT
+plural: Verbote
+meaning: ban
+prohibition
+","article: die
+word: Angeklagten
+genus: FEMI
+plural: 
+meaning: the accused
+advising the defendant of his rights
+",,,"article: beständiges
+word: Kommen
+genus: 
+plural: Gehen
+meaning: continual coming and going
+
+","article: gewählter
+word: Präsident
+genus: 
+plural: Amtsantritt
+meaning: president-elect (Amer.)
+adopted home
+","article: entschiedenes
+word: Handeln
+genus: 
+plural: Handeln
+meaning: resolute action
+res judicata Latin [LAW]
+","article: Medikament,
+word: das
+genus: 
+plural: bekommt
+meaning: over-the-counter drug [PHARM.]
+
+","article: gefälschte
+word: Unterschrift
+genus: 
+plural: Unterschrift
+meaning: forged signature
+bogus ticket
+",,,"article: Das
+word: Unternehmen
+genus: NEUT
+plural: Unternehmen
+meaning: venture
+corporation
+",None,None,None,"article: die
+word: Helfe
+genus: FEMI
+plural: die Helfen
+meaning: heald [TEXTIL.]
+heddle [TEXTIL.]
+","article: geändertes
+word: Design
+genus: 
+plural: Design
+meaning: redesign
+altered circumstances
+",None,"article: hochgezogene
+word: Schultern
+genus: 
+plural: 
+meaning: hunched shoulders
+purl buttonhole [TEXTIL.]
+","article: Annahme
+word: als
+genus: 
+plural: Organisationsökologie
+meaning: legitimation
+datum
+","article: angegriffene
+word: Gesundheit
+genus: 
+plural: Gesundheit
+meaning: poor health
+bad heart
+",None,"article: der
+word: Hut
+genus: MASC
+plural: die Hüte
+meaning: hat - with a brim
+hat - head covering (without a brim)
+",None,None,"article: einen
+word: Gefängniskoller
+genus: 
+plural: [coll.]
+meaning: to go stir-crazy [coll.]
+to go stir-crazy [coll.]
+",None,None,None,None,"article: verliehene
+word: Grube
+genus: 
+plural: [Bergrecht]
+meaning: concession mine [LAW]
+concession pit [LAW]
+","article: gewonnenes
+word: Erz
+genus: 
+plural: Erz
+meaning: broken ore - shrinkage stoping [GEOL.]
+broken ore - shrinkage stoping [GEOL.]
+","article: Das
+word: Haben
+genus: NEUT
+plural: plural
+meaning: credit [FINAN.]
+assets pl. [FINAN.]
+","article: Die
+word: Hast
+genus: FEMI
+plural: plural
+meaning: haste
+precipitation
+",None,None,"article: Das
+word: Trinken
+genus: NEUT
+plural: plural
+meaning: drinking
+excessive drinking
+","article: entschuldigtes
+word: Fernbleiben
+genus: 
+plural: Fernbleiben
+meaning: authorizedAE absenceauthorisedBE / authorizedBE absence
+authorizedAE absenceauthorisedBE / authorizedBE absence
+","article: Das
+word: Weiß
+genus: NEUT
+plural: 
+meaning: white
+lord only knows [coll.]
+","article: altes
+word: Brauchtum
+genus: 
+plural: verloren
+meaning: old traditions are disappearing
+multiplication and division first, then addition and subtraction [MATH.]
+","article: Das
+word: Gehen
+genus: NEUT
+plural: plural
+meaning: going
+racewalking or: race walking [SPORT.]
+","article: jmdm.
+word: Mut
+genus: 
+plural: machen
+meaning: to embolden so.
+to be committed to doing sth.
+",,"article: aus
+word: der
+genus: 
+plural: geben
+meaning: to relax one's grip
+give-and-take basis
+","article: Das
+word: Tun
+genus: FEMI
+plural: die Tonnen - zylindrischer Behälter meist aus Metall
+meaning: tun
+tun
+",,,"article: das
+word: Nicht-Ändern-Prinzip
+genus: NEUT
+plural: Nicht-Ändern-Prinzip
+meaning: no-altering principle
+
+",,"article: Der
+word: Stecken
+genus: NEUT
+plural: Stecken
+meaning: plugging [ELEC.]
+stick
+",,"article: Das
+word: Fernsehen
+genus: NEUT
+plural: plural
+meaning: television [abbr.: TV]
+TV
+",,,,"article: Der
+word: Wunsch
+genus: MASC
+plural: Wünsche
+meaning: desire (for)
+request
+","article: das
+word: Ausrichten
+genus: NEUT
+plural: plural
+meaning: alignment rarely: alinement [TECH.]
+sighting [TECH.]
+",,,,"article: gebrauchtes
+word: Kleidungsstück
+genus: 
+plural: Kleidungsstück
+meaning: reach-me-down (Brit.)
+hand-me-down - garment handed down
+","article: Der
+word: Sitz
+genus: MASC
+plural: Sitze
+meaning: seat
+fit
+",
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,
+adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
-",
-adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
+",,,"in short
+in fine
+frankly speaking
+frankly speaking
+frankly adv.
+in other words
+tautologous adj.
+in plain terms
+aforesaid adj.
+more precisely
+in few words
+","illegal adj.
+prohibited adj.
+banned adj.
+forbidden adj.
+off-limits adj.
+illicit adj.
+out of bounds
+tabooed adj.
+verboten adj. German
+verboten adj. German
+illegal adj.
+strictly forbidden
+strictly forbidden
+outlawed adj.
+unforbidden adj.
+forbidden under penalty of death
+","indicted adj.
+impeached adj.
+defendant adj. [LAW]
+","done adj.
+surreptitious adj.
+",,,"elected adj.
+elective adj.
+felicitous adj.
+unpolled adj.
+unelected adj.
+incoming adj. [POL.]
+newly-elected adj.
+","positive adj.
+definitive adj.
+decided adj.
+roundly adv.
+firmly adv.
+settled adj.
+decidedly adv.
+peremptorily adv.
+resolutely adv.
+assertive adj.
+determined adj.
+characterful adj.
+peremptory adj.
+authoritative adj.
+resolute adj.
+cut and dried adj. [fig.]
+",,"counterfeit adj.
+bogus adj.
+fake adj.
+falsified adj.
+forged adj.
+phonyespAE / phoneyespBE adj.
+faked adj.
+doctored adj.
+spurious adj.
+imitated adj.
+pinchbeck adj.
+affictitious adj. archaic
+","purportedly adv.
+self-described adj.
+","probed adj.
+reviewed adj.
+untried adj.
+","at a venture
+corporate adj. [COMM.]
+intra-firm or: intrafirm adj.
+noncorporateAE / non-corporateBE adj.
+",None,None,None,None,"altered adj.
+modified adj.
+changed adj.
+revised adj.
+last amended
+redesigned adj.
+as amended
+",None,"elevated adj.
+lifted adj.
+pitched adj.
+","given adj.
+fixed adj.
+preexisting adj.
+in due course
+undisclosed adj.
+commissioned adj.
+mandated adj.
+apprenticed adj.
+in due course
+in due time
+at any one time
+under the circumstances
+under the prevailing circumstances
+","affected adj.
+attacked adj.
+disordered adj.
+unsound adj. [MED.]
+unassayed adj.
+blitzed adj. [MIL.]
+",None,"hat in hand (Amer.; Canad.)
+hat in hand (Amer.; Canad.)
+",None,"comme il faut French
+","hard to get
+manageable adj.
+",None,"narrated adj.
+unrecounted adj.
+untold adj.
+twice-told adj.
+","dead adj.
+","battled adj.
+","lent adj.
+commissioned adj.
+conferred adj.
+","gotten adj.
+","on an empty stomach
+one (or: a) sandwich short of a picnic
+","without rushing
+pell-mell or: pellmell adv.
+",None,None,None,"excused adj.
+absent with valid excuse
+unpardoned adj.
+unexcused adj.
+","white adj.
+pale adj.
+Caucasian - esp. used in the US as a synonym for ""white-skinned"" adj.
+whitely adv.
+lettered in white
+whitewashed adj.
+dressed in white
+spotless white
+black-and-white adj. - used before noun
+monochrome adj.
+black and white - used after noun
+in black and white
+dressed all in white
+dressed all in white
+dressed in white
+white-sanded adj.
+white-steepled adj.
+",None,None,"irreversible adj.
+quick to anger
+undiscriminating adj.
+",None,None,"in an effort to do sth.
+",None,None,None,"to each other
+together adv.
+","deadlocked adj.
+",None,"televised adj.
+telecasting adj.
+televising adj.
+telecasted adj.
+televising adj.
+",None,None,None,"nice-to-have adj.
+at the buyer's option
+at buyer's option
+at customer's option
+custom-made adj.
+by popular request
+at seller's option
+",None,None,None,None,"used adj.
+reach-me-down adj. (Brit.)
+hand-me-down adj.
+second-hand adj.
+second hand
+much-needed adj.
+unutilizedAE adj.unutilisedBE / unutilizedBE adj.
+redundant adj.
+commonly used
+most commonly used
+in constant requisition
+reconditioned adj. [TECH.]
+long-needed adj.
+","abandoned adj.
+located in
+cane-bottomed adj.
+",None
+adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
-",
+",,,"kurz gesagt
+kurz gesagt
+ehrlich gesagt
+offen gesagt
+offen gesagt
+anders gesagt
+doppelt gesagt
+rundheraus gesagt
+zuvor gesagt
+genauer gesagt
+knapp gesagt
+","verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+verboten
+streng verboten
+strengstens verboten
+gesetzlich verboten
+streng verboten
+strengstens verboten
+gesetzlich verboten
+nicht verboten
+bei Todesstrafe verboten
+","angeklagt
+angeklagt
+angeklagt
+","getan
+heimlich getan
+",,,"gewählt
+gewählt
+glücklich gewählt
+nicht gewählt
+nicht gewählt
+neugewählt or: neu gewählt
+neu gewählt
+","entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+entschieden
+",,"gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+gefälscht
+","wie man sagt
+wie jmd. über sich selbst sagt
+","untersucht
+untersucht
+nicht untersucht
+","bei einem Unternehmen
+Unternehmens...
+innerhalb eines Unternehmens
+nicht zum Unternehmen gehörig
+",None,None,None,None,"geändert
+geändert
+geändert
+geändert
+zuletzt geändert
+mit geändertem Design
+in der geänderten Fassung - Gesetze, Verordnungen, etc.
+",None,"hochgezogen
+hochgezogen
+hochgezogen
+","gegeben
+gegeben
+gegeben
+zur gegebenen Zeit
+nicht bekannt gegeben
+in Auftrag gegeben
+in Auftrag gegeben
+in die Lehre gegeben
+zu gegebener Zeit
+zu gegebener Zeit
+zu einem gegebenen Zeitpunkt
+unter den gegebenen Umständen
+unter den gegebenen Umständen
+","angegriffen
+angegriffen
+angegriffen
+angegriffen - Gesundheit
+nicht angegriffen
+aus der Luft angegriffen
+",None,"demütig
+unterwürfig
+",None,"wie es sich gehört French
+","schwer zu bekommen
+in den Griff zu bekommen
+",None,"erzählt
+nicht erzählt
+nicht erzählt
+zweimal erzählt
+","gestorben
+","gekämpft
+","verliehen
+verliehen
+verliehen
+","gewonnen
+","ohne etwas gegessen zu haben
+nicht alle Tassen im Schrank haben
+","ohne Hast
+in großer Hast
+",None,None,None,"entschuldigt
+entschuldigt abwesend
+nicht entschuldigt
+nicht entschuldigt
+","weiß - Farbe
+weiß - blass
+weiß - Hautfarbe
+weiß
+weiß beschriftet
+weiß gekalkt
+weiß gekleidet
+strahlend weiß
+schwarz-weiß or: schwarzweiß
+schwarz-weiß
+schwarz-weiß or: schwarzweiß adj.
+schwarz auf weiß
+ganz in Weiß gekleidet
+ganz weiß gekleidet
+in Weiß gekleidet
+mit weißem Sand - nachgestellt
+mit weißem Kirchturm
+",None,None,"nicht rückgängig zu machen
+schnell wütend zu machen
+ohne einen Unterschied zu machen
+",None,None,"in dem Bestreben etw.acc. zu tun
+",None,None,None,"zueinander adv.
+zueinander
+","stecken geblieben
+",None,"im Fernsehen gezeigt
+im Fernsehen übertragend
+im Fernsehen übertragend
+im Fernsehen gesendet
+im Fernsehen zeigend
+",None,None,None,"Wunsch...
+nach Wunsch des Kunden
+nach Wunsch des Kunden
+nach Wunsch des Kunden
+nach Wunsch des Kunden
+auf allgemeinen Wunsch
+nach Wunsch des Verkäufers
+",None,None,None,None,"gebraucht
+gebraucht
+gebraucht
+gebraucht
+gebraucht
+dringend gebraucht
+nicht gebraucht
+nicht gebraucht
+häufig gebraucht
+am häufigsten gebraucht
+ständig gebraucht
+gebraucht, aber neuwertig
+seit langem (or: Langem) gebraucht
+","sitzengelassen or: sitzen gelassen
+mit Sitz in
+mit Sitz aus Rohrgeflecht
+",None
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -268,6 +3139,501 @@ to cut to the chase [fig.] (Amer.)
 to get off the ground [fig.]
 to come to the fore [fig.]
 to go to the dogs [coll.]
+","to be left holding the bag (Amer.)
+to take the blame
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+to carry the can for sth. [fig.]
+That calls for a drink.
+precautions must be taken
+to bite the dust [coll.] - be killed, die
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+to get a shellacking [coll.] (Amer.) - get defeated
+to take a drubbing [coll.] (Amer.) - get defeated
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+","no sooner said than done
+to make a long story short
+truth be told
+to tell the truth
+to tell you the truth
+to say the least
+to put it mildly
+that's putting it mildly
+or words to that effect
+..., nay, ... [coll.]
+..., nay, ... [coll.]
+Take it from me.
+off the record
+between you and me
+","no smoking
+smoking is forbidden
+Post no bills! (Brit.)
+off limits
+keep out
+No parking.
+Keep out!
+No admittance!
+no humping
+Keep off the grass!
+No trespassing
+Posted - on signs (Amer.)
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Off limits to unauthorizedAE personnel!Off limits to unauthorisedBE / unauthorizedBE personnel!
+Keep off the grass!
+That's strictly forbidden!
+Forbidden fruit is the sweetest.
+",,"no sooner said than done
+That's easier said than done.
+to be so kind as to do sth.
+We've got our hands full.
+Get a life!
+overegging the pudding
+to be as quiet as a mouse
+the dos and don'ts
+dead set on doing sth.
+so. cannot avoid doing sth.
+so. cannot help doing sth.
+so. cannot help doing sth.
+in an endeavorAE to do sth.in an endeavourBE to do sth.
+it takes sth. to do sth.
+","to put one's foot in it
+to drop a clanger [coll.] (Brit.)
+to put one's foot in one's mouth [coll.]
+to drop a brick [coll.] (Brit.)
+to mark time [fig.]
+to tread on so.'s toes [fig.]
+to fill so.'s shoes
+to follow in so.'s footsteps [fig.]
+to step into so.'s shoes [fig.]
+to tread in so.'s footsteps [fig.]
+to ride roughshod over so.
+to spurn sth. | spurned, spurned |
+to trample sth. under foot
+pace prep.
+to spurn one's fortune
+to spurn one's chance of happiness
+Blow me down! [coll.]
+","to cotton on to so.
+to get on to so.
+to see through so.'s game
+to get on to so.
+to get on to the track of so./sth.
+to get run over
+to hit the spot
+to cut to the chase [fig.] (Amer.)
+to get off the ground [fig.]
+to come to the fore [fig.]
+to go to the dogs [coll.]
+to go to the dogs [coll.] [fig.]
+to cut (right) to the chase [fig.] (Amer.)
+Do come in!
+","better the devil you know than the devil you don't
+","It's still up in the air.
+determine as above
+You pays your money and you takes your choice. [coll.] [hum.]
+","sth. gives so. the fantods [coll.] chiefly (Amer.)
+sth. gives so. the fantods [coll.] chiefly (Amer.)
+to fall about (laughing) (Brit.)
+to catch hell (from so.) [coll.] [fig.]
+to get the brush-off
+to get the mitten [coll.]
+to catch wind of sth. [fig.]
+to get wind of sth. [fig.]
+to get one's just deserts
+to receive one's just deserts
+to go weak at the knees
+to have one's legs turn to jelly
+to get one's just deserts
+to receive one's just deserts
+",,"to coin a phrase
+In for a penny, in for a pound. (Brit.)
+as the name implies
+as the name suggests
+A picture is worth a thousand words.
+A picture speaks a thousand words.
+A picture tells a thousand words.
+judging from what so. says
+let's say ...
+to say sth. in a roundabout way
+Let's put it this way ...
+I daresay
+if you will pardon the expression
+if you will pardon my saying so
+",,"a company's survival
+","to be no match for so./sth.
+",None,"to be as pleased as Punch
+to be as merry as a lark
+Pleased to meet you.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm glad to meet you.
+I'm pleased to meet you.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+","So help me God.
+God helps them that help themselves.
+God helps those that help themselves.
+God helps them that help themselves.
+God helps those that help themselves.
+","adopted ... as amended
+something has to give
+something's got to give
+",None,None,"from time to time
+whistle for attention
+to turn tail and run
+to have so.'s back
+to give so. their marching orders
+to give so./sth. a boot
+to throw in the towel [fig.]
+to turn so. down
+to rebuff so. | rebuffed, rebuffed |
+to throw in the towel [SPORT.]
+to paste so. | pasted, pasted | [fig.] [SPORT.]
+Please allow us your very best terms.
+to give sth. the thumbs up
+there is bound to be ...
+",None,None,"That hit home.
+sth. is a ripsnorter (or: rip-snorter) [coll.]
+old hat [coll.] [fig.]
+That's all I needed.
+That's the last thing I needed.
+There's something to be said for that.
+That hit close to home.
+That set a precedent.
+No matter!
+Queen Anne is dead!
+it knocked my socks off
+it knocked my socks off
+a little bird told me
+so. has little regard for so./sth.
+","if things work out
+","from what I've heard
+I understand that ...
+the full panoply of sth.
+that includes ...
+This is something I like!
+It takes two to tango.
+it takes two to tango
+Don't be a stranger.
+Don't be a stranger.
+It's so quiet you could hear a pin drop.
+to hear wedding bells [fig.]
+to read too much into things
+to have a sixth sense
+to trust one's gut (or: guts) [fig.]
+Hear, hear!
+Hear ye! archaic
+mirabile dictu Latin
+","to fall about (laughing) (Brit.)
+to catch hell (from so.) [coll.] [fig.]
+to get the brush-off
+to get the mitten [coll.]
+to catch wind of sth. [fig.]
+to get wind of sth. [fig.]
+to get one's just deserts
+to receive one's just deserts
+to go weak at the knees
+to have one's legs turn to jelly
+to get one's just deserts
+to receive one's just deserts
+to get hold of the wrong end of the stick
+to take sth. the wrong way
+","it's a question of
+the question is if ...
+","as legend has it
+Tell that to the Marines!
+You're telling me!
+Tell us another!
+","And they lived happily ever after.
+Some mothers do have them.
+Take it or leave it!
+It's sink or swim.
+It's Hobson's choice.
+Hope dies last.
+Hope springs eternal.
+It's sink or swim.
+It's my way or the highway!
+My way or the highway!
+Whom the gods love die young.
+","to pull no punches
+to fight to the last
+","to hammer sth. ⇔ home [fig.]
+","to win hands down [fig.] - easily
+to win in a walk (Amer.)
+easy come, easy go
+Well begun is half done
+Nothing ventured, nothing gained.
+to gain the upper hand (over so.)
+to get the upper hand (over so.)
+to prevail (over so.) | prevailed, prevailed |
+to play for time
+May the best man win.
+That's nothing to write home about. [coll.]
+to sweep the board [fig.] (Brit.)
+Nothing ventured, nothing gained.
+Nothing ventured, nothing gained.
+","to have brains
+to have the hiccups
+to be as strong as an ox
+to have a niggle - a slight pain in a part of the body
+to have the patience of a saint
+to be in authority
+to be in the driver's seat
+to have the upper hand (over so./sth.)
+to have a head
+to be not quite right in the head
+to come out on top
+to have sth. to burn
+to have so. on the line
+to have so. on the phone
+","thou hast archaic - second person singular present of have
+thou hast archaic - second person singular present of have
+Did you ever!
+Get a life!
+you got it all wrong
+A fine mess you've made of that!
+You lucky bastard! [coll.]
+You can talk.
+it's over and done with
+Talk is cheap.
+When's it due?
+Say when [coll.] - used to tell someone to indicate when they have been poured enough of a drink or served enough food
+to have brains
+to have the hiccups
+","Rise and shine!
+","Sounds good.
+Sounds good to me!
+","to have a pint
+to have one over the eight
+to drink so. under the table [coll.] [fig.]
+to wait and see
+sth. is so.'s favoriteAE tipplesth. is so.'s favouriteBE tipple
+","Excuse me!
+I beg your pardon.
+I beg your pardon!
+Pardon me.
+You have my apologies.
+excuse my French
+Please accept my apologies.
+Kindly excuse ...
+","Heaven knows
+God knows
+Heaven knows
+dunno - short form of ""don't know"" [sl.]
+(as) white as a sheet
+goodness knows
+to my knowledge
+I gather
+as far as I know ...
+for all I know ... - as far as I know
+for all I know ... - as far as I know
+(as) white as a sheet
+(as) white as a ghost
+in writing
+","sth. is on so. infinitive: to be on so. - paid for by so.
+How are you?
+How are you?
+How are you?
+That's all right.
+That's okay.
+sth. is on the house infinitive: to be on the house
+sth. gets so.'s goat infinitive: get [coll.] [fig.]
+sth. rubs so. up the wrong way [fig.] [coll.] (Brit.)
+sth. rubs so. the wrong way [fig.] [coll.] (Amer.)
+What's cracking? [coll.]
+What's up? chiefly (Amer.) [coll.]
+That's not my pigeon (or: pidgin). - pigeon, pidgin: Chinese alteration of English ""business""
+That's all right.
+","sth. is on so. infinitive: to be on so. - paid for by so.
+Let's go!
+to go the whole hog
+to go on the pull (Brit.)
+to get on so.'s nerves
+to be on one's last legs
+to get on so.'s nerves (with sth.)
+to blow up also [fig.]
+to go off also [fig.]
+to fall for so.'s line
+to fall into a trap also [fig.]
+to get caught in a trap also [fig.]
+to be neck or nothing
+to come down to the wire
+","to do sth. blindfold
+to line one's pockets
+to make money hand over fist
+to live sth. ⇔ down
+to share one's perception of sth.
+to make so. get a move on
+to make oneself scarce
+to take to one's heels
+to break up with so. - with one's boyfriend or girlfriend
+to get on so.'s bad side (by doing sth.)
+to sling one's hook (Brit.) [coll.] [fig.]
+to drop a brick [coll.] (Brit.)
+to put up a fuss
+to fly the coop [coll.] (Amer.)
+","Tell that to the Marines!
+Tell me about it.
+You can say that again.
+Tell that to the Marines!
+You do the math. (Amer.)
+You can say goodbye (or: good-bye) to that.
+You can forget about that.
+You can wait until (or: till) the cows come home!
+You can bet your life on it.
+You can bet your life on that.
+You can bet your bottom dollar.
+Don't hold your breath!
+You can wait until hell freezes over!
+you may thank your stars
+","whistle for attention
+to turn tail and run
+to have so.'s back
+to give so. their marching orders
+to give so./sth. a boot
+to throw in the towel [fig.]
+to turn so. down
+to rebuff so. | rebuffed, rebuffed |
+to throw in the towel [SPORT.]
+to paste so. | pasted, pasted | [fig.] [SPORT.]
+Stay safe!
+Please allow us your very best terms.
+to give sth. the thumbs up
+there is bound to be ...
+","to be so kind as to do sth.
+Do as you please.
+Be my guest. [coll.]
+We've got our hands full.
+Get a life!
+overegging the pudding
+to be as quiet as a mouse
+the dos and don'ts
+dead set on doing sth.
+so. cannot avoid doing sth.
+so. cannot help doing sth.
+so. cannot help doing sth.
+in an endeavorAE to do sth.in an endeavourBE to do sth.
+it takes sth. to do sth.
+","God helps them that help themselves.
+God helps those that help themselves.
+God helps them that help themselves.
+God helps those that help themselves.
+So help me God.
+",None,"something has to give
+something's got to give
+",None,"to be in a bind
+to be in the fledgling stages
+to be in its infancy
+to be up to one's neck in sth.
+to get bogged down by sth. [fig.]
+to be behind the eight ball (Amer.) [coll.]
+to pigeonhole so./sth. | pigeonholed, pigeonholed | [fig.]
+to be in an awkward position
+to be in a hole
+to be stuck between a rock and a hard place [fig.]
+to have blotted one's copybook
+to have skeletons in the closet
+to put one's heart and soul into sth.
+to be up to one's ears in debt
+","if I remember rightly
+if I remember correctly [abbr.: IIRC]
+as far as I recall [abbr.: AFAIR]
+as far as I remember [abbr.: AFAIR]
+to the best of one's recollection
+to the best of one's remembrance
+",None,"to get sth. over with
+to reduce so. to despair
+to reduce so. to poverty
+to beggar so. | beggared, beggared |
+to get sth. up to speed
+to cut the mustard [coll.]
+to cut it (Amer.) [coll.]
+to deliver the goods
+to exasperate so. | exasperated, exasperated |
+to drive so. nuts
+to drive so. crazy
+to bring sth. ⇔ up
+to broach sth. | broached, broached |
+to get sth. over with
+","to sleep like a log
+to be fast asleep
+to be sound asleep
+to sleep like spoons
+to be dead to the world [fig.]
+to be asleep at the switch [fig.]
+to be asleep at the wheel [fig.]
+to be dead to the world [fig.]
+to be dead to the world [fig.]
+Homer sometimes nods.
+","That's true.
+That's right.
+Keep the change.
+That's wrong.
+That's right on! (Amer.)
+Silence gives consent.
+Silence means consent.
+There is something amiss.
+There's something the matter with ...
+I smell a rat.
+to smell a rat
+The two stories agree.
+","all the best wishes
+to leave nothing to be desired
+Accept my sincere good wishes.
+What can I do for you?
+Can I help you?
+a pious hope
+You can whistle for it. [coll.] [fig.]
+Your wish is my command.
+",None,"to be in a bind
+to be in the fledgling stages
+to be in its infancy
+to be up to one's neck in sth.
+to get bogged down by sth. [fig.]
+to be behind the eight ball (Amer.) [coll.]
+to pigeonhole so./sth. | pigeonholed, pigeonholed | [fig.]
+to be in an awkward position
+to be in a hole
+to be stuck between a rock and a hard place [fig.]
+to put one's heart and soul into sth.
+to be up to one's ears in debt
+to be in its infancy
+to be in over one's head with debt
+","whistle for attention
+to turn tail and run
+to have so.'s back
+to give so. their marching orders
+to give so./sth. a boot
+to throw in the towel [fig.]
+to turn so. down
+to rebuff so. | rebuffed, rebuffed |
+to throw in the towel [SPORT.]
+to paste so. | pasted, pasted | [fig.] [SPORT.]
+Please allow us your very best terms.
+to give sth. the thumbs up
+there is bound to be ...
+there are bound to be ...
+","I understand that ...
+","good for nothing
+The laugh is always on the loser.
+","to be on pins and needles chiefly (Amer.)
+to be in a bind
+to be up a gum tree
+to be close on so.'s heels
+to be sitting on a powder keg
+to breathe down so.'s neck
+to breathe down so.'s neck
+to be caught in a trap also [fig.]
+to be caught in a quagmire
+to be in a pickle
+to be snookered (Brit.) [coll.] [fig.]
+to be in a jam
+to be left in the lurch
+to be in the starting blocks [fig.]
+","The laugh is always on the loser.
 "
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
@@ -324,6 +3690,501 @@ zur Sache kommen
 in Gang kommen [fig.]
 ans Ruder kommen [fig.] - die Macht übernehmen
 auf den Hund kommen [coll.]
+","etw.acc. ausbaden müssen [fig.]
+etw.acc. ausbaden müssen [fig.]
+etw.acc. erledigen müssen [fig.]
+etw.acc. erledigen müssen [fig.]
+etw.acc. ausbaden müssen [coll.] [fig.]
+Das müssen wir begießen.
+vorbeugende Maßnahmen müssen getroffen sein
+dran glauben müssen
+mal wohin müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal wohin müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+eine herbe Niederlage hinnehmen müssen [coll.] [fig.]
+eine herbe Niederlage hinnehmen müssen [coll.] [fig.]
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+","gesagt, getan
+kurz gesagt
+ehrlich gesagt
+ehrlich gesagt
+ehrlich gesagt
+gelinde gesagt
+gelinde gesagt
+gelinde gesagt
+sinngemäß gesagt
+..., oder besser gesagt, ...
+..., oder genauer gesagt, ...
+Lass es dir von mir gesagt sein.
+unter uns gesagt
+unter uns gesagt
+","Rauchen verboten
+Rauchen verboten
+Ankleben verboten!
+Zutritt verboten
+Eintritt verboten
+Parken verboten.
+Eintritt verboten!
+Zutritt verboten!
+Abdrücken verboten [Railroad (Amer.)/Railway (Brit.)]
+Betreten des Rasens verboten!
+Unbefugter Zutritt verboten
+Unbefugter Zutritt verboten
+Zugang für Unbefugte verboten!
+Zutritt für Unbefugte verboten!
+Rasen betreten verboten!
+Das ist streng verboten!
+Verbotene Frucht schmeckt am besten.
+",,"gesagt, getan
+Das ist leichter gesagt als getan.
+netterweise etw.acc. tun
+Wir haben alle Hände voll zu tun.
+Hast du nichts Besseres zu tun?
+des Guten zu viel tun
+keinen Mucks tun
+was man tun und nicht tun sollte
+fest entschlossen, etw.acc. zu tun
+jmd. kann nicht umhin, etw.acc. zu tun
+jmd. kann nicht anders, als etw.acc. zu tun
+jmd. muss etw.acc. unbedingt tun
+in dem Bestreben, etw.acc. zu tun
+etw.nom. ist nötig, um etw.acc. zu tun
+","ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+ins Fettnäpfchen treten
+auf der Stelle treten
+jmdm. auf den Schlips treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+in jmds. Fußstapfen treten [fig.]
+jmdn. mit Füßen treten [fig.]
+etw.acc. mit Füßen treten [fig.]
+etw.acc. mit Füßen treten [fig.]
+ohne jmdm. zu nahe treten zu wollen
+sein Glück mit Füßen treten [fig.]
+sein Glück mit Füßen treten [fig.]
+Ich glaub, mich tritt ein Pferd! [sl.]
+","jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Spur kommen
+jmdm./etw. auf die Spur kommen
+unter die Räder kommen - überfahren werden
+gut kommen [coll.]
+zur Sache kommen
+in Gang kommen [fig.]
+ans Ruder kommen [fig.] - die Macht übernehmen
+auf den Hund kommen [coll.]
+unter die Räder kommen [coll.] [fig.]
+(gleich) auf den (or: zum) Punkt kommen
+Kommen Sie doch herein!
+","von zwei Übeln wählt man besser das, was man schon kennt
+","Es ist noch nichts entschieden.
+wie oben zu entscheiden
+Das musst du selbst entscheiden.
+","jmd.nom. bekommt von etw.dat. einen Rappel
+jmd.nom. bekommt von etw.dat. Zuckungen
+einen Lachanfall bekommen [coll.]
+(von jmdm.) einen Anschiss bekommen [coll.] [fig.]
+einen Korb bekommen [fig.]
+einen Korb bekommen [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+sein Fett bekommen
+sein Fett bekommen
+weiche Knie bekommen
+weiche Knie bekommen
+seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+",,"wie man so schön sagt
+Wer A sagt, muss auch B sagen.
+wie der Name schon sagt
+wie der Name schon sagt
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+Ein Bild sagt mehr als tausend Worte.
+nach dem zu urteilen, was jmd. sagt
+sagen wir ...
+etw.acc. durch die Blume sagen [fig.]
+Sagen wir mal so ...
+ich wage zu sagen
+mit Verlaub zu sagen
+mit Verlaub zu sagen
+",,"Erhalt eines Unternehmens
+","es nicht mit jmdm./etw. aufnehmen können
+",None,"sichacc. wie ein Schneekönig freuen
+sichacc. wie ein Schneekönig freuen
+Es freut mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich darauf, Dich wiederzusehen.
+Ich freue mich darauf, Sie wiederzusehen.
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich auf ein Wiedersehen.
+Ich freue mich auf ein Wiedersehen mit Dir.
+Ich freue mich auf ein Wiedersehen mit Ihnen.
+","So wahr mir Gott helfe.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+","in der geänderten Fassung vom ...
+es muss sich etwas ändern
+es muss sich etwas ändern
+",None,None,"zu gegebener Zeit
+Achtungssignal geben
+Fersengeld geben
+jmdm. Rückendeckung geben
+jmdm. den Laufpass geben
+jmdm./etw. einen Tritt geben
+sichacc. geschlagen geben
+jmdm. einen Korb geben [fig.]
+jmdm. einen Korb geben [fig.]
+sichacc. geschlagen geben [Boxing]
+jmdm. die Packung geben
+Bitte geben Sie uns Ihre besten Bedingungen.
+einer Sache grünes Licht geben
+es wird bestimmt ... geben
+",None,None,"Das hat gesessen.
+etw.nom. hat es in sich infinitive: es in sich haben [coll.]
+alter Hut [coll.] [fig.]
+Das hat mir gerade noch gefehlt.
+Das hat mir gerade noch gefehlt.
+Das hat etwas für sich.
+Das hat richtig gesessen.
+Das hat Schule gemacht.
+Das hat nichts zu sagen!
+Das hat so einen Bart!
+das hat mich aus den Socken gehauen
+das hat mich vom Hocker gehauen
+das hat mir ein Vöglein gezwitschert
+jmd. hat wenig Achtung vor jmdm./etw.
+","wenn alles klappt
+","nach allem, was ich gehört habe
+wie ich gehört habe ...
+etw.nom. mit allem, was dazu gehört
+dazu gehören ...
+Das lässt sich hören!
+Es gehören immer zwei dazu.
+es gehören immer zwei dazu
+Lass mal wieder was von dir hören.
+Lass von dir hören.
+Es ist so still, dass man eine Stecknadel fallen hören könnte.
+die Hochzeitsglocken läuten hören [fig.]
+das Gras wachsen hören [coll.]
+das Gras wachsen hören [coll.]
+auf sein Bauchgefühl hören
+Hört, hört!
+Hört, hört!
+man höre und staune
+","einen Lachanfall bekommen [coll.]
+(von jmdm.) einen Anschiss bekommen [coll.] [fig.]
+einen Korb bekommen [fig.]
+einen Korb bekommen [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+von etw.dat. Wind bekommen [coll.] [fig.]
+sein Fett bekommen
+sein Fett bekommen
+weiche Knie bekommen
+weiche Knie bekommen
+seine gerechte Strafe für etw.acc. bekommen
+seine gerechte Strafe für etw.acc. bekommen
+etw.acc. in den falschen Hals bekommen
+etw.acc. in den falschen Hals bekommen
+","es handelt sich um
+es handelt sich darum, dass ...
+","es wird erzählt, dass
+Das kannst du deiner Großmutter erzählen!
+Wem erzählen Sie das!
+Das können Sie uns nicht erzählen!
+","Und wenn sie nicht gestorben sind, dann leben sie noch heute.
+Die Dummen sterben nie aus.
+Friss oder stirb!
+Friss oder stirb!
+Friss oder stirb.
+Die Hoffnung stirbt zuletzt.
+Die Hoffnung stirbt zuletzt.
+Vogel friss oder stirb.
+Friss, Vogel, oder stirb!
+Friss, Vogel, oder stirb!
+Wen die Götter lieben, der stirbt jung.
+","mit harten Bandagen kämpfen [fig.]
+bis zum bitteren Ende kämpfen [fig.]
+","etw.dat. Nachdruck verleihen
+","mit links gewinnen [coll.]
+mit links gewinnen [fig.]
+wie gewonnen, so zerronnen
+Frisch gewagt ist halb gewonnen
+Frisch gewagt ist halb gewonnen.
+die Oberhand (über jmdn.) gewinnen
+die Oberhand (über jmdn.) gewinnen
+die Oberhand (über jmdn.) gewinnen
+Zeit gewinnen wollen
+Möge der Bessere gewinnen.
+Damit ist kein Blumentopf zu gewinnen.
+alle Spiele gewinnen [coll.] [fig.]
+Wer nicht wagt, gewinnt nicht.
+Wer wagt, gewinnt.
+","Köpfchen haben
+Schluckauf haben no article
+Bärenkräfte haben
+Beschwerden haben - Schmerzen in einem Körperteil haben
+eine Engelsgeduld haben
+das Sagen haben
+das Sagen haben
+die Oberhand (über jmdn./etw.) haben
+einen Brummschädel haben
+einen Kopfschuss haben
+die Oberhand haben
+etw.acc. im Überfluss haben
+jmdn. an der Strippe haben
+jmdn. an der Strippe haben
+","du hast
+Ihr habt archaic - Anrede an eine einzelne Person
+Hast du Töne!
+Hast du nichts Besseres zu tun?
+das hast du völlig falsch verstanden
+Das hast du ja toll hingekriegt!
+Hast du ein Glück, du Schuft!
+Du hast gut reden.
+du hast es hinter dir
+Du hast gut reden!
+Wann hast du Termin? - Geburtstermin [coll.]
+Sag, wenn du genug hast!
+Köpfchen haben
+Schluckauf haben no article
+","Aufgewacht!
+","Klingt gut!
+Klingt gut!
+","einen trinken gehen [coll.]
+einen über den Durst trinken
+jmdn. unter den Tisch trinken [coll.] [fig.]
+abwarten und Tee trinken
+jmd. trinkt etw.acc. am liebsten
+","Entschuldigen Sie!
+Entschuldigen Sie.
+Entschuldigen Sie bitte!
+Entschuldigen Sie bitte!
+Entschuldigen Sie bitte!
+entschuldigen Sie meine Ausdrucksweise
+Bitte entschuldigen Sie.
+Bitte entschuldigen Sie ...
+","weiß Gott
+weiß Gott
+weiß der Himmel
+weiß nicht
+ganz weiß
+wer weiß
+soviel ich weiß
+soviel ich weiß
+soviel ich weiß ...
+soviel ich weiß ...
+soweit ich weiß ...
+(so) weiß wie die Wand
+(so) weiß wie die Wand
+schwarz auf weiß
+","etw.nom. geht auf jmdn. infinitive: auf jmdn. gehen
+Wie geht es dir?
+Wie geht es Ihnen?
+Wie geht es euch?
+Das geht klar.
+Das geht klar.
+etw.nom. geht aufs Haus infinitive: aufs Haus gehen
+etw.nom. geht jmdm. (gewaltig) auf den Zeiger [coll.] infinitive: auf den Zeiger gehen
+etw.nom. geht jmdm. gegen den Strich [fig.] [coll.]
+etw.nom. geht jmdm. gegen den Strich [fig.] [coll.]
+Was geht? [coll.]
+Was geht? [coll.]
+Das geht mich nichts an.
+Das geht in Ordnung.
+","etw.nom. geht auf jmdn. infinitive: auf jmdn. gehen
+Gehen wir!
+aufs Ganze gehen
+auf Männerfang (or: Frauenfang) gehen
+jmdm. auf die Nerven gehen
+auf dem Zahnfleisch gehen
+jmdm. (mit etw.dat.) auf den Geist gehen
+in die Luft gehen or [fig.]
+in die Luft gehen or [fig.]
+jmdm. auf den Leim gehen
+in eine Falle gehen or [fig.]
+in eine Falle gehen or [fig.]
+um die Wurst gehen
+um die Wurst gehen
+","etw.acc. mit links machen [fig.]
+Kohle machen
+einen Reibach machen
+etw.acc. ungeschehen machen
+etw.acc. erlebbar machen
+jmdm. Beine machen
+sichacc. aus dem Staub (or: Staube) machen
+sichacc. aus dem Staub (or: Staube) machen
+mit jmdm. Schluss machen
+sichacc. bei jmdm. (durch etw.acc.) unbeliebt machen
+die (or: eine) Fliege machen [coll.] [fig.] - verschwinden
+einen Schnitzer machen
+ein Theater machen [fig.]
+sichacc. aus dem Staub (or: Staube) machen
+","Das kannst du deiner Großmutter erzählen!
+Das kannst du laut sagen.
+Das kannst du laut sagen.
+Das kannst du mir nicht weismachen!
+Das kannst du dir selbst ausrechnen.
+Das kannst du in den Wind schreiben.
+Das kannst du in der Pfeife rauchen.
+Da kannst du lange warten!
+Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst Du lange warten!
+Da kannst du warten, bis du schwarz wirst!
+da kannst du von Glück sagen
+","Achtungssignal geben
+Fersengeld geben
+jmdm. Rückendeckung geben
+jmdm. den Laufpass geben
+jmdm./etw. einen Tritt geben
+sichacc. geschlagen geben
+jmdm. einen Korb geben [fig.]
+jmdm. einen Korb geben [fig.]
+sichacc. geschlagen geben [Boxing]
+jmdm. die Packung geben
+Geben Sie auf sich acht (or: Acht)!
+Bitte geben Sie uns Ihre besten Bedingungen.
+einer Sache grünes Licht geben
+es wird bestimmt ... geben
+","netterweise etw.acc. tun
+Tun Sie, was Sie wollen.
+Tun Sie sich keinen Zwang an.
+Wir haben alle Hände voll zu tun.
+Hast du nichts Besseres zu tun?
+des Guten zu viel tun
+keinen Mucks tun
+was man tun und nicht tun sollte
+fest entschlossen, etw.acc. zu tun
+jmd. kann nicht umhin, etw.acc. zu tun
+jmd. kann nicht anders, als etw.acc. zu tun
+jmd. muss etw.acc. unbedingt tun
+in dem Bestreben, etw.acc. zu tun
+etw.nom. ist nötig, um etw.acc. zu tun
+","Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+So wahr mir Gott helfe.
+",None,"es muss sich etwas ändern
+es muss sich etwas ändern
+",None,"in der Klemme stecken
+in den Kinderschuhen stecken
+in den Kinderschuhen stecken
+bis zum Hals in etw.dat. stecken
+bis zum Hals in etw.dat. stecken [fig.]
+in der Klemme stecken [fig.] [coll.]
+jmdn./etw. in eine Schublade stecken [fig.]
+in der Klemme stecken [fig.]
+in der Klemme stecken [fig.]
+in der (or: einer) Zwickmühle stecken [fig.]
+Dreck am Stecken haben
+Dreck am Stecken haben
+sein ganzes Herzblut in etw.acc. stecken
+bis über beide Ohren in Schulden stecken
+","wenn ich mich recht erinnere
+wenn ich mich recht erinnere
+soweit ich mich erinnere
+soweit ich mich erinnere
+soweit man sich erinnern kann
+soweit man sich erinnern kann
+",None,"etw. hinter sich bringen [fig.]
+jmdn. zur Verzweiflung bringen
+jmdn. an den Bettelstab bringen
+jmdn. an den Bettelstab bringen
+etw.acc. auf Hochtouren bringen
+es bringen [coll.]
+es bringen [coll.]
+es bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+etw.acc. aufs Tapet bringen [fig.]
+etw.acc. aufs Tapet bringen [fig.]
+etw. über die Bühne bringen [fig.]
+","schlafen wie ein Murmeltier
+tief und fest schlafen
+tief und fest schlafen
+wie die Löffelchen schlafen
+tief und fest schlafen
+mit offenen Augen schlafen [fig.]
+mit offenen Augen schlafen [fig.]
+wie ein Murmeltier schlafen [fig.]
+wie ein Stein schlafen [fig.]
+Auch Homer schläft zuweilen.
+","Das stimmt.
+Das stimmt.
+Stimmt so.
+Das stimmt nicht.
+Das stimmt haargenau! [coll.]
+Wer schweigt, stimmt zu.
+Wer schweigt, stimmt zu.
+Etwas stimmt nicht.
+Da stimmt etwas nicht mit +dat. ...
+Hier stimmt etwas nicht. [coll.]
+merken, dass etwas nicht stimmt [coll.]
+Beide Geschichten stimmen überein.
+","die besten Wünsche
+keine Wünsche offenlassen
+Nimm meine aufrichtigen Wünsche entgegen.
+Sie wünschen?
+Was wünschen Sie?
+ein frommer Wunsch
+Wünschen kann man sich alles. - ironisch gemeint
+Dein Wunsch sei (or: ist) mir Befehl.
+",None,"in der Klemme stecken
+in den Kinderschuhen stecken
+in den Kinderschuhen stecken
+bis zum Hals in etw.dat. stecken
+bis zum Hals in etw.dat. stecken [fig.]
+in der Klemme stecken [fig.] [coll.]
+jmdn./etw. in eine Schublade stecken [fig.]
+in der Klemme stecken [fig.]
+in der Klemme stecken [fig.]
+in der (or: einer) Zwickmühle stecken [fig.]
+sein ganzes Herzblut in etw.acc. stecken
+bis über beide Ohren in Schulden stecken
+noch in den Kinderschuhen stecken
+bis zum Hals in Schulden stecken
+","Achtungssignal geben
+Fersengeld geben
+jmdm. Rückendeckung geben
+jmdm. den Laufpass geben
+jmdm./etw. einen Tritt geben
+sichacc. geschlagen geben
+jmdm. einen Korb geben [fig.]
+jmdm. einen Korb geben [fig.]
+sichacc. geschlagen geben [Boxing]
+jmdm. die Packung geben
+Bitte geben Sie uns Ihre besten Bedingungen.
+einer Sache grünes Licht geben
+es wird bestimmt ... geben
+es wird bestimmt ... geben
+","wie ich mitbekommen habe ...
+","zu nichts zu gebrauchen
+Wer den Schaden hat, braucht für den Spott nicht zu sorgen.
+","auf Nadeln sitzen
+in der Klemme sitzen
+in der Klemme sitzen
+jmdm. auf den Fersen sitzen
+auf einem Pulverfass sitzen
+jmdm. im Genick sitzen
+jmdm. im Nacken sitzen
+in der Falle sitzen [fig.]
+in der Patsche sitzen [fig.]
+in der Patsche sitzen [fig.]
+in der Patsche sitzen [fig.]
+in der Patsche sitzen [fig.]
+in der Patsche sitzen [fig.]
+in den Startlöchern sitzen [fig.]
+","Wer den Schaden hat, braucht für den Spott nicht zu sorgen.
 "
 examples,english,"Do you belong here?
 Where do you live?
@@ -395,6 +4256,524 @@ He couldn't come.
 He used to come.
 We're coming.
 see me tomorrow
+","He had to change his arrangements.
+It was bound to happen.
+I was violently ill. (Amer.)
+She did a double take.
+He was kept in after school.
+I had to swallow a lot.
+She had to swallow a lot.
+If a student loses their ID card, they have to pay for a new one.
+If a student fails this exam, they have to leave the university.
+We have to ...
+You ought to have known better.
+We have to go as well.
+We must stick together.
+Everyone needs to do their part.
+","like I said
+Didn't I tell you before?
+I told you so.
+I only said it in fun.
+How many times have I told you to empty the bin?
+It's all very well to say that
+Why did you say that?
+It's carrying things too far.
+It sounds to me from what you have said that ...
+That is a darned cheek, if you will pardon the expression.
+That is a darned cheek, if you will pardon my saying so.
+please tell me
+He has no say.
+I felt impelled to say it.
+","No soliciting allowed.
+It is forbidden to
+the rule whereby it is not allowed
+should an order prohibit sth.
+","Are you related to the defendant by birth or by marriage?
+","What have I done?
+You always found studying difficult.
+You always found studying difficult.
+he/she ain't done it [coll.]
+You needn't do it.
+You mustn't do it.
+He's in a quandary.
+It lies with you to do it.
+Need he do it?
+What remains to be done?
+We're only pretending.
+You needn't do it.
+He was so unapologetic about it.
+I still have a lot to do.
+","enter into force as from
+he has been treading water
+","He couldn't come.
+He used to come.
+We're coming.
+see me tomorrow
+Do they meet their liabilities?
+Do they meet their obligations?
+Do you get many foreign visitors here at the museum?
+Owing to the rain we couldn't come.
+Three of us are coming together.
+It was bound to happen.
+I'm sure he will come.
+in order to meet you
+Where do you come from?
+Where do you come from?
+","elected for a period of 3 years
+the point so chosen by the seller
+","You have to make up your mind.
+Should you decide to accept this offer, ...
+the bank must determine
+You must make a choice.
+","That doesn't agree with me.
+He rarely has any visitors.
+She never gets credit for her good ideas, which I think is really unfair.
+Coffee doesn't agree with me.
+I will pay a reward to the person who finds my cat - whosoever that may be!
+She got into hot water with her parents.
+see whether you can get ...
+When I asked for more I didn't expect to get that much!
+They'll throw the book at you if you get found out. [fig.]
+I have it sent to me.
+That gives me the creeps.
+I'll blow my top.
+Then you'll be in trouble, in fact in deep trouble.
+As the store's hundred thousandth customer he was given a free TV.
+It gives me the heebie-jeebies. [coll.]
+He gives me the heebie-jeebies. [coll.]
+","a falsified document
+","they say
+it is said ...
+He says first one thing then another.
+You have to be careful what you say these days.
+Can you understand what he's saying?
+It agrees with me
+the climate agrees with me
+He only says money's not important because he's got plenty.
+When someone says they want to wash their hands, they often mean that they want to go to the toilet.
+The council is a rubber-stamp body.
+One has to be careful what one says these days. [form.]
+please tell me
+He has no say.
+I felt impelled to say it.
+",,"the companies included
+We should hang out some time. [coll.]
+on the business premises of the company
+I'm the owner of this firm and as such I have a right to know what's going on here.
+","Are you ready to order?
+",None,"It would give us great pleasure
+We would be pleased to receive ...
+I'm looking forward to seeing you.
+I am pleased to see you.
+I am looking forward to seeing him.
+He's as pleased as Punch.
+I am very pleased to hear that ...
+","He's beyond help.
+I'll give you what for!
+Can someone give me a hand?
+Why should I help you?
+I can't help myself.
+I'll give him what for!
+I was simply trying to help.
+He's at the end of his tether.
+He has no resources against boredom.
+He has no inner resources.
+I'm going to be hard pushed to find someone to help me move on Sunday.
+a man of resources
+will continue to help
+These pills did me no good.
+","our business address has changed
+My taste in music has changed over the years.
+Times have changed.
+the interest rate is being changed [FINAN.]
+may be amended
+have changed radically
+I can't help it.
+It can't be helped
+will remain unchanged
+may be changed
+right of altering a thing
+if changes occur
+It changes from day to day
+",None,None,"but for him
+have announced their insolvency
+has kindly given us your address
+I gave him the apple.
+Not having given you any authority ...
+the party to whom the reserve was made
+number of observations falling into a specified class
+All students turn in their exam papers.
+To whom shall I give it?
+when ordering please quote
+Please state what quantities you require.
+Please state your prices.
+with deep regret we have to announce
+should he fail to give instructions
+","The dog which attacked her has been put down.
+",None,"has the advantage that
+she has
+Does she have a fever?
+Does she have a high temperature?
+has enabled us to
+has not given you satisfaction
+has kindly given us your address
+recommended your firm to us
+has our confidence
+Was it worthwhile?
+history goes back 2000 years
+That can wait till tomorrow.
+There's no point in that.
+this has fiscal effects
+",None,"That's just not done.
+That's not respectable.
+belongs to extent of delivery
+That's all part of my job.
+this is not part of the business
+That's beside the point.
+It's theirs.
+It's mine.
+In all his born days he had never heard a bigger lie.
+this is yours
+That needs character.
+I heard it this morning on the radio.
+It's bad manners.
+It is part of the nature of
+","She got into hot water with her parents.
+see whether you can get ...
+When I asked for more I didn't expect to get that much!
+They'll throw the book at you if you get found out. [fig.]
+That doesn't agree with me.
+I have it sent to me.
+He rarely has any visitors.
+She never gets credit for her good ideas, which I think is really unfair.
+Coffee doesn't agree with me.
+That gives me the creeps.
+I'll blow my top.
+I will pay a reward to the person who finds my cat - whosoever that may be!
+Then you'll be in trouble, in fact in deep trouble.
+As the store's hundred thousandth customer he was given a free TV.
+It gives me the heebie-jeebies. [coll.]
+He gives me the heebie-jeebies. [coll.]
+","an administrative offenseAE shall be deemed to have been committed by anyone whoan administrative offenceBE shall be deemed to have been committed by anyone who
+He deals in shoes.
+That's not the issue.
+What's it all about?
+What is it all about?
+It's about ...
+What's it about?
+What is it all about?
+It is a matter of ...
+It is a question of ...
+It is about sth.
+It concerns the following ...
+He will act as our representative.
+do not deal in goods
+","it is said ...
+let us know something more about ...
+He didn't have the guts to tell his mother. [coll.]
+When I told her my problems, she was very sympathetic.
+When I told her my problems, she was very sympathetic.
+","he all but died
+I was bored stiff
+He died of a heart attack.
+","Turkey battles to repatriate antiquities.
+",None,"They won by three goals to one.
+They won by three goals to one.
+There's little doubt she would have won.
+Whose horse won the race?
+Whether they'll win will depend on how they are feeling that day.
+He won by a close vote.
+I stand to win.
+I don't care who wins.
+The smart money is on him winning.
+The swimmer won gold in the 400m individual medley at the Olympic Games.
+","We have ...
+is reported to have ...
+Do you have a light?
+Do you feel hungry?
+Have you got ...?
+Have you got her phone number by any chance?
+Has everyone got his or her ticket ready?
+Do you have any questions?
+are entitled to
+have filed a petition in bankruptcy
+have contributed to
+have announced their insolvency
+Do you have any change?
+Do you mind if I smoke?
+","Have you eaten yet?
+Have you got ...?
+Have you any money with you?
+Do you have any money?
+Did you notice the accident?
+You haven't the faintest idea!
+Did you look at yourself in the mirror?
+That was slick of you!
+You're right.
+Who did you write to?
+To whom did you write?
+It's all very well for you to laugh!
+When do you finish work?
+What else haven't you told me?
+",None,"It sounds as if ...
+It sounds very dodgy
+It rings true.
+It sounds like ...
+It sounds to me from what you have said that ...
+","I think you've had enough.
+I think you've had enough to drink.
+He's a heavy drinker.
+eat and drink your fill
+He nurses a glass of wine.
+","Excuse my interrupting.
+Excuse my interrupting.
+Excuse me for interrupting.
+Excuse me for interrupting.
+apologizing once more for
+please excuse our overlooking this matter
+please excuse the oversight
+please excuse the delay
+He asked to be excused.
+It allows no excuse
+You must apologize.AEYou must apologise.BE / apologize.BE
+We apologizeAE for the trouble caused.We apologiseBE / apologizeBE for the trouble caused.
+","she knows
+I appreciate that very much.
+He's in a quandary.
+I'm blessed if I know.
+I'm sure I don't know.
+I know my own mind.
+as far as I know
+I don't know.
+I happen to know.
+I don't know why we argue so much - we're not even married to each other!
+I don't know what got into me.
+I know about it.
+I don't know a thing about it.
+I'm at a loss what to do.
+","She's going.
+it works
+He goes.
+Let me take care of that!
+That's no concern of mine.
+That's none of her business!
+I'm that way, too
+This concerns you.
+That's over my head.
+That's too deep for me.
+That's over my head.
+That's going too far.
+I find that no trouble.
+is transferred from seller to the buyer
+","I ought to go.
+We're going.
+Use it sparingly!
+Let's play it safe.
+Turn to the left!
+turn left
+Keep straight on ...
+You are at liberty to go.
+You are free to go.
+She wasn't allowed to go.
+May I go?
+I'm to go tomorrow.
+What is your occupation?
+We have to go as well.
+","Make three copies!
+Have it your own way.
+Don't put yourself out on my account.
+see if you can make us a special quotation
+Make us a favorableAE offer.Make us a favourableBE offer.
+Please give us the lowest price at which you can supply.
+I can't do it.
+You can't have everything.
+however you do it
+before you provide any details
+He always has to scoff at everything.
+What do you do for a living?
+What kind of work do you do?
+What line of work are you in?
+","Can you keep a secret?
+Can you drop me off on the way home?
+Will you drop me off on the way home?
+Can you make use of that?
+Could you get me a carton of milk at the supermarket?
+I can't stand that.
+you can't
+When can you be here by?
+You can use either of them.
+You can have both books.
+You can have both of the books.
+Whatever it is, you can tell me.
+Do you know who to ask?
+You can put that idea right out of your mind.
+","Pay heed to what he says!
+Give our goods a chance.
+Put the order in hand!
+Put us in a position ...
+Give us your lowest rate of freight for ...
+All students turn in their exam papers.
+To whom shall I give it?
+when ordering please quote
+Please state what quantities you require.
+Please state your prices.
+with deep regret we have to announce
+should he fail to give instructions
+will give you further details
+Would you give us your earliest delivery day?
+","Do it with a clear conscience.
+You needn't do it.
+You mustn't do it.
+He's in a quandary.
+It lies with you to do it.
+Need he do it?
+What remains to be done?
+We're only pretending.
+You needn't do it.
+He was so unapologetic about it.
+I still have a lot to do.
+I refused to deal with him.
+What can I do for you?
+I have a lot to do.
+","He's beyond help.
+I'll give you what for!
+Can someone give me a hand?
+Why should I help you?
+I can't help myself.
+I'll give him what for!
+I was simply trying to help.
+He's at the end of his tether.
+He has no resources against boredom.
+He has no inner resources.
+I'm going to be hard pushed to find someone to help me move on Sunday.
+a man of resources
+will continue to help
+These pills did me no good.
+","I hate you
+","I can't help it.
+It can't be helped
+will remain unchanged
+may be changed
+right of altering a thing
+if changes occur
+It changes from day to day
+",None,"Put it in your pocket.
+I wouldn't like to be in his shoes.
+Where did we break off?
+There's more to it than you think.
+","Do you remember me?
+as far as I can remember
+to the best of my recollection
+to the best of my remembrance
+May I remind you of ...?
+May I remind you that ...?
+We would like to remind you that ...
+This reminds me of home.
+The fragrance is remindful of strawberries.
+","What's on TV?
+The book was adapted for the screen in 1981.
+It's all wired for television.
+It's all wired up for television.
+","I just manage to get by.
+I'll see you home.
+He'll never get anywhere.
+will not inconvenience you
+he conned her out of all her money
+The postman brought bad news.
+He makes things hum.
+She drove me crazy.
+There's little point in blaming each other.
+We made him talk.
+He took me to the airport.
+It has been updated
+He had them rolling in the aisles.
+My biggest pet peeve is people who jump the queue.
+He was taken to hospital with concussion.
+","The wrinkles revealed that he had slept in his clothes.
+We slept out of doors.
+in his sleep
+I slept like a log.
+","That's not right. - Yes it is.
+It corresponds with our books
+It doesn't scan. - of a poem
+am I right or am I right?
+That may be so.
+all are agreed that
+They all conform with ...
+","their individual convenience
+Would you like anything else?
+complying with your request
+leaves nothing to be desired
+any information you may desire
+if the parties wish that
+I wish I could stay.
+complying with your wish
+following your request
+in order to meet your wishes
+In compliance with your desire ...
+In compliance with your request ...
+In compliance with your wishes ...
+","Can I take a message?
+","I wouldn't like to be in his shoes.
+Where did we break off?
+There's more to it than you think.
+","God grant that ...
+I grant you that ...
+All students turn in their exam papers.
+To whom shall I give it?
+when ordering please quote
+Please state what quantities you require.
+Please state your prices.
+with deep regret we have to announce
+should he fail to give instructions
+will give you further details
+Would you give us your earliest delivery day?
+Please state what quantities you have on hand.
+There is bound to be someone.
+can you give me a piece of advice, please?
+","Did you notice the accident?
+","You needn't justify yourself.
+could do with sth.
+We need ...
+Parents need perseverance.
+How long will you require to ...?
+How much time would you require to ...?
+will take 20 days
+will take about 20 days
+will take at least 3 days
+I could do with ...
+I could use a little help around here.
+Can you make use of that?
+You needn't do it.
+He needs helping.
+","Keep your seats!
+You should sit up straight.
+We're all in the same boat.
+She's in a jam.
+She was at the wheel.
+We were sitting outside, chit-chatting about this and that.
+She sat on the motorcycle clinging on for dear life.
+The girls were sitting all bunched together.
+I was on pins and needles. [fig.]
+based in Brussels
+with its head office in Frankfurt
+Where is your permanent residence?
+Seats can be booked in advance.
+All seats are reserved.
+","He needs helping.
+She hasn't got to go.
+as much money as one needs
+Drink this - it's just what you need when you're feeling unwell.
+You needn't justify yourself.
+We need ...
+Parents need perseverance.
+How long will you require to ...?
+How much time would you require to ...?
+will take 20 days
+will take about 20 days
+will take at least 3 days
+You needn't do it.
+You're certain to need help.
 "
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -466,4 +4845,522 @@ Er konnte nicht kommen.
 Er pflegte zu kommen.
 Wir kommen.
 kommen Sie morgen zu mir
+","Er musste umdisponieren.
+Es musste ja so kommen.
+Ich musste mich heftig übergeben.
+Sie musste zweimal hinsehen.
+Er musste nachsitzen.
+Ich musste viel hinunterschlucken.
+Sie musste viel hinunterschlucken.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+Wenn Studierende bei dieser Prüfung durchfallen, müssen sie die Universität verlassen.
+Wir müssen ...
+Du hättest es besser wissen müssen.
+Wir müssen auch gehen.
+Wir müssen zusammenhalten.
+Alle müssen ihren Teil beitragen.
+","wie gesagt
+Habe ich es nicht gleich gesagt?
+Ich habe es Ihnen gesagt.
+Ich habe es nur zum Spaß gesagt.
+Wie oft habe ich dir gesagt du sollst den Müll rausbringen?
+Das ist leicht gesagt
+Warum hast du das gesagt?
+Das ist zu viel gesagt.
+Was du gesagt hast, klingt für mich so, als ob ...
+Das ist, mit Verlaub gesagt, eine Frechheit.
+Das ist, mit Verlaub gesagt, eine Frechheit.
+sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+","Hausieren verboten.
+Es ist verboten zu
+die Vorschrift, wonach es verboten ist
+falls ein Auftrag etwas verbietet
+","Sind Sie mit dem Angeklagten verwandt oder verschwägert?
+","Was habe ich bloß getan?
+Du hast dich mit dem Lernen immer schwer getan.
+Du hast dir mit dem Lernen immer schwer getan.
+er (or: sie) hat es nicht getan
+Du brauchst es nicht zu tun.
+Du darfst es nicht tun.
+Er weiß nicht, was er tun soll.
+Es liegt an Ihnen, es zu tun.
+Muss er es tun?
+Was kann man noch tun?
+Wir tun nur so.
+Du musst es nicht tun.
+Es schien ihm überhaupt nicht leid zu tun.
+Ich habe noch viel zu tun.
+","treten in Kraft am
+er tritt auf der Stelle
+","Er konnte nicht kommen.
+Er pflegte zu kommen.
+Wir kommen.
+kommen Sie morgen zu mir
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen viele ausländische Besucher hier ins Museum?
+Infolge des Regens konnten wir nicht kommen.
+Wir kommen zu dritt.
+Es musste ja so kommen.
+Sicherlich wird er kommen.
+um Ihnen entgegen zu kommen
+Wo kommen Sie her?
+Woher kommen Sie?
+","für 3 Jahre gewählt
+der vom Verkäufer gewählte Ort
+","Sie müssen sich entscheiden.
+Sollten Sie sich entscheiden, das Angebot anzunehmen ... infinitive: annehmen
+die Bank muss entscheiden
+Sie müssen sich entscheiden.
+","Das bekommt mir nicht.
+Er bekommt selten Besuch.
+Sie bekommt nie Anerkennung für ihre guten Ideen, was ich absolut unfair finde.
+Kaffee bekommt mir nicht.
+Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Sie hat mit ihren Eltern Stunk bekommen.
+schauen Sie, ob Sie ... bekommen können
+Als ich um mehr gebeten habe, habe ich nicht erwartet, dass ich so viel bekommen würde!
+Du wirst die volle Härte des Gesetzes zu spüren bekommen, wenn sie dich erwischen.
+Ich bekomme es zugeschickt.
+Davon bekomme ich eine Gänsehaut.
+Ich bekomme einen Wutanfall.
+Dann bekommst du aber Ärger, und zwar gehörigen.
+Als hunderttausendster Kunde im Laden bekam er einen Fernseher geschenkt.
+Dabei bekomme ich eine Gänsehaut.
+Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
+","eine gefälschte Urkunde
+","man sagt
+man sagt ...
+Er sagt mal so, mal so.
+Heutzutage muss man aufpassen, was man sagt.
+Verstehst du, was er sagt?
+Es sagt mir zu
+das Klima sagt mir zu
+Er sagt nur deshalb, dass Geld unwichtig sei, weil er jede Menge davon hat.
+Wenn jemand sagt, er möchte sich die Hände waschen, meint er oft, dass er die Toilette benutzen möchte.
+Die Ratsversammlung sagt zu allem Ja und Amen. [coll.]
+Heutzutage muss man aufpassen, was man sagt.
+sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+",,"die einbezogenen Unternehmen
+Wir sollten mal was zusammen unternehmen. [coll.]
+in den Geschäftsräumen des Unternehmens
+Als Eigentümer dieses Unternehmens habe ich das Recht zu erfahren, was hier vor sich geht.
+","Kann ich Ihre Bestellung aufnehmen?
+",None,"Es würde uns sehr freuen
+Wir würden uns freuen ... zu erhalten.
+Ich freue mich auf dich.
+Es freut mich, dich zu sehen.
+Ich freue mich darauf, ihn zu sehen.
+Er freut sich wie ein Schneekönig.
+Es freut mich sehr zu hören, dass ...
+","Ihm ist nicht mehr zu helfen.
+Ich werde dir helfen!
+Kann mir jemand kurz helfen?
+Warum sollte ich dir helfen?
+Ich kann mir nicht helfen.
+Ich werde ihm schon helfen!
+Ich wollte nur helfen.
+Er weiß sich nicht mehr zu helfen.
+Er weiß sich gegen Langeweile nicht zu helfen.
+Er weiß sich nie zu helfen.
+Es wird schwierig sein, jemanden zu finden, der mir am Sonntag beim Umziehen helfen kann.
+ein Mensch, der sich immer zu helfen weiß
+wird weiterhin helfen
+Diese Tabletten halfen mir nicht.
+","unsere Geschäftsanschrift hat sich geändert
+Mein musikalischer Geschmack hat sich mit der Zeit geändert.
+Die Zeiten haben sich geändert.
+der Zinssatz wird geändert
+kann geändert werden
+haben sich grundlegend geändert
+Ich kann's nicht ändern
+Es lässt sich nicht ändern
+wird sich nicht ändern
+kann sich ändern
+Recht ein Ding zu ändern
+wenn sich etwas ändert
+Es ändert sich von Tag zu Tag
+",None,None,"hätte es ihn nicht gegeben
+haben ihre Zahlungsunfähigkeit bekannt gegeben
+hat uns freundlicherweise Ihre Anschrift gegeben
+Ich habe ihm den Apfel gegeben.
+Da wir Ihnen keine Weisungsbefugnis gegeben haben ...
+derjenige, dem der Vorbehalt gegeben wurde
+Anzahl der Beobachtungswerte, die zu einer gegebenen Klasse gehören [Statistics]
+Alle Studenten geben ihre Prüfungsunterlagen ab. infinitive: abgeben
+Wem soll ich es geben?
+bei Auftragserteilung geben Sie bitte an
+Bitte geben Sie an, welche Mengen Sie benötigen.
+Bitte geben Sie uns Ihre Preise
+mit tiefem Bedauern geben wir bekannt
+sollte er es versäumen, Anweisungen zu geben
+","Der Hund, der sie angegriffen hat, wurde eingeschläfert.
+",None,"hat den Vorteil, dass
+sie hat
+Hat sie Fieber?
+Hat sie Fieber?
+hat es uns ermöglicht zu
+hat Sie nicht zufriedengestellt (or: zufrieden gestellt)
+hat uns freundlicherweise Ihre Anschrift gegeben
+hat uns Ihre Firma empfohlen
+hat unser Vertrauen
+Hat es sich gelohnt?
+hat eine 2000-jährige Geschichte
+Das hat bis morgen Zeit.
+Das hat keinen Sinn.
+das hat steuerliche Auswirkungen
+",None,"Das gehört sich nicht.
+Das gehört sich nicht.
+gehört zur Lieferung
+Das gehört zu meiner Aufgabe.
+das gehört nicht zum Geschäft
+Das gehört nicht zur Sache.
+Es gehört ihnen.
+Es gehört mir.
+Sein Lebtag hatte er noch keine größere Lüge gehört.
+das gehört dir
+Dazu gehört Charakter.
+Ich habe es heute Morgen im Radio gehört.
+Es gehört sich nicht.
+Es gehört zur Natur von
+","Sie hat mit ihren Eltern Stunk bekommen.
+schauen Sie, ob Sie ... bekommen können
+Als ich um mehr gebeten habe, habe ich nicht erwartet, dass ich so viel bekommen würde!
+Du wirst die volle Härte des Gesetzes zu spüren bekommen, wenn sie dich erwischen.
+Das bekommt mir nicht.
+Ich bekomme es zugeschickt.
+Er bekommt selten Besuch.
+Sie bekommt nie Anerkennung für ihre guten Ideen, was ich absolut unfair finde.
+Kaffee bekommt mir nicht.
+Davon bekomme ich eine Gänsehaut.
+Ich bekomme einen Wutanfall.
+Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Dann bekommst du aber Ärger, und zwar gehörigen.
+Als hunderttausendster Kunde im Laden bekam er einen Fernseher geschenkt.
+Dabei bekomme ich eine Gänsehaut.
+Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
+","ordnungswidrig handelt, wer
+Er handelt mit Schuhen.
+Darum handelt es sich nicht.
+Um was handelt es sich?
+Um was handelt es sich?
+Es handelt von ...
+Worum handelt es sich?
+Worum handelt es sich?
+Es handelt sich um ...
+Es handelt sich um ...
+Es handelt sich um etw.
+Es handelt sich um Folgendes ...
+Er wird als unser Vertreter handeln.
+handeln nicht mit Waren
+","es wird erzählt ...
+erzählen Sie uns etwas mehr über ...
+Er traute sich nicht, es seiner Mutter zu erzählen.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr mitfühlend.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr verständnisvoll.
+","er wäre fast gestorben
+ich bin fast gestorben vor Langeweile
+Er starb an einem Herzschlag.
+","Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+",None,"Sie haben 3:1 gewonnen.
+Sie haben 3 zu 1 gewonnen.
+Es besteht kaum Zweifel, dass sie gewonnen hätte.
+Wessen Pferd hat das Rennen gewonnen?
+Ob sie gewinnen hängt von ihrer Tagesform ab.
+Er gewann mit knapper Mehrheit.
+Ich gewinne bestimmt.
+Mir ist egal, wer gewinnt.
+Insider setzen darauf, dass er gewinnt.
+Der Schwimmer gewann bei den Olympischen Spielen Gold über 400 Meter Lagen.
+","Wir haben ...
+soll ... haben
+Haben Sie Feuer?
+Haben Sie Hunger?
+Haben Sie ...?
+Haben Sie zufällig ihre Telefonnummer?
+Haben alle ihre Karte bereit?
+Haben Sie noch Fragen?
+haben Anspruch auf
+haben Bankrott angemeldet
+haben beigetragen zu
+haben ihre Zahlungsunfähigkeit bekannt gegeben
+Haben Sie Kleingeld?
+Haben Sie etwas dagegen, wenn ich rauche?
+","Hast du schon gegessen?
+Hast du ...?
+Hast du Geld bei dir?
+Hast du Geld?
+Hast du den Unfall mitbekommen?
+Hast Du eine Ahnung!
+Hast du dich im Spiegel gesehen?
+Das hast du aber geschickt gemacht!
+Du hast recht (or: Recht).
+An wen hast du geschrieben?
+An wen hast du geschrieben?
+Du hast gut lachen!
+Wann hast du Feierabend?
+Was hast du mir sonst noch verschwiegen?
+",None,"Es klingt, als ...
+Das klingt sehr fragwürdig
+Es klingt richtig.
+Es klingt wie ...
+Was du gesagt hast, klingt für mich so, als ob ...
+","Ich denke, du hast jetzt genug getrunken!
+Ich denke, du hast jetzt genug getrunken!
+Er trinkt viel.
+esst und trinkt so viel ihr wollt
+Er trinkt bedächtig ein Glas Wein.
+","Entschuldigen Sie, dass ich Sie unterbreche.
+Entschuldigen Sie, dass ich unterbreche.
+Entschuldigen Sie, wenn ich Sie unterbreche.
+Entschuldigen Sie, wenn ich unterbreche.
+indem wir uns nochmals entschuldigen
+bitte entschuldigen Sie das Versehen
+bitte entschuldigen Sie das Versehen
+bitte entschuldigen Sie die Verspätung
+Er ließ sich entschuldigen.
+Es lässt sich nicht entschuldigen
+Sie müssen sich entschuldigen.
+Wir entschuldigen uns für die aufgetretenen Unannehmlichkeiten.
+","sie weiß
+Das weiß ich sehr zu schätzen.
+Er weiß nicht, was er tun soll.
+Ich weiß es wirklich nicht.
+Ich weiß es wirklich nicht.
+Ich weiß, was ich will.
+soviel ich weiß
+Ich weiß es nicht.
+Ich weiß es zufällig.
+Ich weiß nicht, warum wir uns so streiten - wir sind nicht mal verheiratet!
+Ich weiß nicht, was über mich gekommen ist.
+Ich weiß davon.
+Ich weiß kein Wort davon.
+Ich weiß nicht, was ich tun soll.
+","Sie geht.
+es geht
+Er geht.
+Das geht auf mich!
+Das geht mich nichts an. infinitive: angehen
+Das geht sie nichts an!
+das geht mir auch immer so
+Das geht Sie an.
+Das geht über meinen Horizont.
+Das geht über meinen Horizont.
+Das geht über meinen Verstand.
+Das geht zu weit.
+Das geht mir leicht von der Hand.
+geht vom Verkäufer auf den Käufer über
+","Ich sollte gehen.
+Wir gehen.
+Gehen Sie sparsam damit um!
+Gehen wir auf Nummer Sicher.
+Gehen Sie nach links!
+gehen Sie nach links
+Gehen Sie geradeaus ...
+Es steht Ihnen frei, zu gehen.
+Es steht Ihnen frei, zu gehen.
+Sie durfte nicht gehen.
+Darf ich gehen?
+Ich soll morgen gehen.
+Welcher Tätigkeit gehen Sie nach?
+Wir müssen auch gehen.
+","Machen Sie drei Durchschläge!
+Machen Sie, was Sie wollen.
+Machen Sie sich meinetwegen keine Umstände.
+machen Sie uns doch ein gutes Angebot
+Machen Sie uns ein günstiges Angebot.
+Machen Sie uns bitte den niedrigsten Preis zu dem Sie liefern können.
+Ich kann es nicht machen.
+Irgendwo muss man Abstriche machen.
+wie Sie es auch immer machen
+ehe Sie irgendwelche Angaben machen
+Er muss über alles seine Glossen machen.
+Was machen Sie beruflich?
+Was machen Sie beruflich?
+Was machen Sie beruflich?
+","Kannst du etwas für dich behalten?
+Kannst du mich auf der Rückfahrt absetzen?
+Kannst du mich auf der Rückfahrt absetzen?
+Kannst du das gebrauchen?
+Kannst du mir eine Tüte Milch vom Supermarkt holen?
+Damit kannst du mich jagen.
+du kannst nicht
+Bis wann kannst du hier sein?
+Du kannst beide benutzen.
+Du kannst beide Bücher haben.
+Du kannst beide Bücher haben.
+Was auch immer es ist, du kannst es mir sagen.
+Weißt du, wen du fragen kannst?
+Diese Idee kannst du dir gleich aus dem Kopf schlagen.
+","Geben Sie acht (or: Acht) auf seine Worte!
+Geben Sie unserer Ware eine Chance.
+Geben Sie den Auftrag zur Ausführung!
+Geben Sie uns eine Möglichkeit ...
+Geben Sie uns die niedrigste Fracht für ...
+Alle Studenten geben ihre Prüfungsunterlagen ab. infinitive: abgeben
+Wem soll ich es geben?
+bei Auftragserteilung geben Sie bitte an
+Bitte geben Sie an, welche Mengen Sie benötigen.
+Bitte geben Sie uns Ihre Preise
+mit tiefem Bedauern geben wir bekannt
+sollte er es versäumen, Anweisungen zu geben
+wird Ihnen weitere Einzelheiten geben
+Würden Sie uns Ihren frühesten Liefertermin geben?
+","Tun Sie es mit reinem Gewissen.
+Du brauchst es nicht zu tun.
+Du darfst es nicht tun.
+Er weiß nicht, was er tun soll.
+Es liegt an Ihnen, es zu tun.
+Muss er es tun?
+Was kann man noch tun?
+Wir tun nur so.
+Du musst es nicht tun.
+Es schien ihm überhaupt nicht leid zu tun.
+Ich habe noch viel zu tun.
+Ich weigerte mich mit ihm zu tun zu haben.
+Was kann ich für Sie tun?
+Ich habe viel zu tun.
+","Ihm ist nicht mehr zu helfen.
+Ich werde dir helfen!
+Kann mir jemand kurz helfen?
+Warum sollte ich dir helfen?
+Ich kann mir nicht helfen.
+Ich werde ihm schon helfen!
+Ich wollte nur helfen.
+Er weiß sich nicht mehr zu helfen.
+Er weiß sich gegen Langeweile nicht zu helfen.
+Er weiß sich nie zu helfen.
+Es wird schwierig sein, jemanden zu finden, der mir am Sonntag beim Umziehen helfen kann.
+ein Mensch, der sich immer zu helfen weiß
+wird weiterhin helfen
+Diese Tabletten halfen mir nicht.
+","ich hasse dich
+","Ich kann's nicht ändern
+Es lässt sich nicht ändern
+wird sich nicht ändern
+kann sich ändern
+Recht ein Ding zu ändern
+wenn sich etwas ändert
+Es ändert sich von Tag zu Tag
+",None,"Stecken Sie es in die Tasche.
+Ich möchte nicht in seiner Haut stecken.
+Wo sind wir stecken geblieben?
+Es steckt mehr dahinter, als du denkst.
+","Erinnern Sie sich an mich?
+soweit ich mich erinnern kann
+soweit ich mich erinnern kann
+soweit ich mich erinnern kann
+darf ich Sie an ... erinnern?
+Darf ich Sie daran erinnern, dass ...?
+Wir möchten Sie daran erinnern, dass ...
+Das erinnert mich an zuhause (or: zu Hause).
+Der Duft erinnert an Erdbeeren.
+","Was gibt es im Fernsehen?
+Das Buch wurde 1981 fürs Fernsehen adaptiert.
+Die Verkabelung für das Fernsehen ist vorhanden.
+Die Verkabelung für das Fernsehen ist vorhanden.
+","Ich bringe mich gerade so durch.
+Ich bringe Sie nach Hause (or: nachhause).
+Er wird es nie zu etwas bringen.
+wird Sie nicht in Verlegenheit bringen
+er hat sie um ihr ganzes Geld gebracht
+Der Postbote brachte schlechte Nachrichten.
+Er bringt Schwung in die Sache.
+Sie brachte mich auf die Palme.
+Es bringt doch nichts, sich gegenseitig zu beschuldigen.
+Wir brachten ihn zum Sprechen.
+Er brachte mich zum Flughafen.
+Es ist auf den neuesten (or: neusten) Stand gebracht worden
+Er brachte sie so weit, dass sie sich vor Lachen kugelten
+Nichts bringt mich mehr auf die Palme als Leute, die sich vordrängeln.
+Er wurde mit einer Gehirnerschütterung ins Krankenhaus gebracht.
+","Die Knitter verrieten, dass er in seinen Sachen geschlafen hatte.
+Wir schliefen im Freien.
+während er schläft
+Ich schlief wie ein Murmeltier.
+","Das stimmt nicht. - Doch!
+Es stimmt mit unseren Büchern überein infinitive: übereinstimmen
+Das Versmaß stimmt nicht.
+stimmt's oder hab' ich recht?
+Das mag wohl stimmen.
+alle stimmen überein, dass
+Sie stimmen alle mit ... überein.
+","ihre persönlichen Wünsche
+Wünschen Sie noch etwas?
+Ihrem Wunsch entsprechend
+lässt nichts zu wünschen übrig
+alle Informationen, die Sie wünschen
+falls die Parteien wünschen, dass
+Ich wünschte, ich könnte bleiben.
+Ihrem Wunsche folgend
+Ihrem Wunsche folgend
+um Ihren Wünschen nachzukommen
+Ihrem Wunsche nachkommend ...
+Ihrem Wunsche nachkommend ...
+Ihren Wünschen entsprechend ...
+","Kann ich etwas ausrichten?
+","Ich möchte nicht in seiner Haut stecken.
+Wo sind wir stecken geblieben?
+Es steckt mehr dahinter, als du denkst.
+","Gebe Gott, dass ...
+Ich gebe zu, dass ...
+Alle Studenten geben ihre Prüfungsunterlagen ab. infinitive: abgeben
+Wem soll ich es geben?
+bei Auftragserteilung geben Sie bitte an
+Bitte geben Sie an, welche Mengen Sie benötigen.
+Bitte geben Sie uns Ihre Preise
+mit tiefem Bedauern geben wir bekannt
+sollte er es versäumen, Anweisungen zu geben
+wird Ihnen weitere Einzelheiten geben
+Würden Sie uns Ihren frühesten Liefertermin geben?
+Bitte geben Sie an, welche Mengen Sie am Lager haben.
+Es wird immer einen geben.
+können Sie mir einen Rat geben?
+","Hast du den Unfall mitbekommen?
+","Sie brauchen sich nicht zu rechtfertigen.
+könnte etw.acc. gebrauchen
+Wir brauchen ...
+Eltern brauchen Ausdauer.
+Wie lange werden Sie brauchen, um ...?
+Wie viel Zeit werden Sie brauchen, um ...?
+wird 20 Tage brauchen
+wird etwa 20 Tage brauchen
+wird wenigstens 3 Tage brauchen
+Ich könnte ... gebrauchen
+Ich könnte hier ein bisschen Hilfe gebrauchen!
+Kannst du das gebrauchen?
+Du brauchst es nicht zu tun.
+Er braucht Hilfe.
+","Bleiben Sie sitzen!
+Du solltest gerade sitzen.
+Wir sitzen alle im selben Boot.
+Sie sitzt in der Patsche.
+Sie saß am Steuer.
+Wir saßen draußen und plauderten über dies und jenes.
+Sie saß wie ein Klammeraffe auf dem Motorrad.
+Die Mädchen saßen alle auf einem Haufen.
+Ich saß wie auf glühenden Kohlen. [fig.]
+mit Sitz in Brüssel
+mit Sitz in Frankfurt
+Wo ist Ihr ständiger Wohnsitz?
+Sitze können im Voraus reserviert werden.
+Alle Sitze sind reserviert.
+","Er braucht Hilfe.
+Sie braucht nicht zu gehen.
+so viel Geld wie man braucht
+Trink das - es ist genau das, was man braucht, wenn man sich unwohl fühlt.
+Sie brauchen sich nicht zu rechtfertigen.
+Wir brauchen ...
+Eltern brauchen Ausdauer.
+Wie lange werden Sie brauchen, um ...?
+Wie viel Zeit werden Sie brauchen, um ...?
+wird 20 Tage brauchen
+wird etwa 20 Tage brauchen
+wird wenigstens 3 Tage brauchen
+Du brauchst es nicht zu tun.
+Du brauchst unbedingt Hilfe.
 "

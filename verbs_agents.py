@@ -22,7 +22,7 @@ class VerbsAgent(Process):
         verbs_list = df.loc[(df['pos_'] == 'VERB'), 'text'].tolist()
         for verb in verbs_list:
             self.verb_conjugation_cache[verb]
-        self.verb_conjugation_cache.cache()
+            self.verb_meaning_cache[verb]
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "VERB")
@@ -194,4 +194,6 @@ class VerbsAgent(Process):
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich analysis!'
+        VERBS_MEANING_CACHE.cache()
+        VERBS_CONJUGATION_CACHE.cache()
         self.blackboard['stages']['analyzed_verbs'] = 'DONE'

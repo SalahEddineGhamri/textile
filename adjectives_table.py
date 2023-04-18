@@ -40,19 +40,12 @@ class AdjectivesCache(pd.DataFrame):
         with self.lock:
             try:
                 if super().empty:
-                    # print('The DataFrame is empty')
                     return False
-
                 if not ADJECTIVES_CACHE_FILE:
-                    # print('The file path is empty')
                     return False
-
                 super().to_csv(ADJECTIVES_CACHE_FILE, index=True)
-                # print(f'DataFrame has been written to {AJECTIVES_CACHE_FILE}')
                 return True
-
-            except Exception as e:
-                # print(f'An error occurred while writing to file: {e}')
+            except Exception:
                 return False
 
     def __getitem__(self, key):
@@ -72,7 +65,6 @@ class AdjectivesCache(pd.DataFrame):
                             if languages is not None:
                                 self.loc[(aspect, 'english'), key] = languages[0]
                                 self.loc[(aspect, 'german'), key] = languages[1]
-                        self.to_csv(ADJECTIVES_CACHE_FILE, index=True)
                         return super().loc[(slice(None), slice(None)), key]
                     else:
                         return None

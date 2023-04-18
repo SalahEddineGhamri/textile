@@ -53,18 +53,16 @@ class VerbsMeaningCache(pd.DataFrame):
                 with self.lock:
                     sleep_interval = random.uniform(0.1, 0.4)
                     time.sleep(sleep_interval)
+
                     new_verb = nouns_definition_parser('verbs_table', key)
+
                     if new_verb is not None:
-                        if new_verb['verbs'] is not None:
-                            self[key] = pd.Series(index=self.index, dtype='object')
-                            for aspect, languages in new_verb.items():
-                                if languages is not None:
-                                    self.loc[(aspect, 'english'), key] = languages[0]
-                                    self.loc[(aspect, 'german'), key] = languages[1]
-                            self.to_csv(VERBS_MEANING_CACHE_FILE, index=True)
-                            return super().loc[(slice(None), slice(None)), key]
-                        else:
-                            return None
+                        self[key] = pd.Series(index=self.index, dtype='object')
+                        for aspect, languages in new_verb.items():
+                            if languages is not None:
+                                self.loc[(aspect, 'english'), key] = languages[0]
+                                self.loc[(aspect, 'german'), key] = languages[1]
+                        return super().loc[(slice(None), slice(None)), key]
                     else:
                         return None
 
@@ -103,26 +101,19 @@ class VerbsConjugationCache(pd.DataFrame):
         with self.lock:
             try:
                 if super().empty:
-                    # print('The DataFrame is empty')
                     return False
-
                 if not VERBS_CONJUGATION_CACHE_FILE:
-                    # print('The file path is empty')
                     return False
-
                 super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
-                # print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
                 return True
-
-            except Exception as e:
-                # print(f'An error occurred while writing to file: {e}')
+            except Exception:
                 return False
 
     def __getitem__(self, key):
-        with self.lock:
-            try:
-                return super().__getitem__(key)
-            except KeyError:
+        try:
+            return super().__getitem__(key)
+        except KeyError:
+            with self.lock:
                 sleep_interval = random.uniform(0.1, 0.4)
                 time.sleep(sleep_interval)
                 # print("scrapping for verb ...")
@@ -134,7 +125,6 @@ class VerbsConjugationCache(pd.DataFrame):
                         self.loc[(voice, tense), key] = values[key]
                     else:
                         return None
-                super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
                 return super().loc[(slice(None), slice(None)), key]
 
 

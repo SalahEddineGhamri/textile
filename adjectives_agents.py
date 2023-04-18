@@ -105,4 +105,5 @@ class AdjectivesAgent(Process):
         self.blackboard['stages']['analyzed_adjectives'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_adjectives'] = 'Generated rich analysis!'
+        ADJECTIVES_CACHE.cache()
         self.blackboard['stages']['analyzed_adjectives'] = 'DONE'

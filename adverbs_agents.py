@@ -104,4 +104,5 @@ class AdverbsAgent(Process):
         self.blackboard['stages']['analyzed_adverbs'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_adverbs'] = 'Generated rich analysis!'
+        ADVERBS_CACHE.cache()
         self.blackboard['stages']['analyzed_adverbs'] = 'DONE'
