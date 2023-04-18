@@ -36,7 +36,6 @@ class NounsAgent(Process):
         nouns_without_hyphen = df.loc[~df['text'].str.contains('-'), 'text'].tolist()
         nouns_with_hyphen = [word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)]
         nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
-        print("nouns ", nouns_list)
         for noun in nouns_list:
             NOUN_CACHE[noun]
 

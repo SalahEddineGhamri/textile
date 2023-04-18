@@ -10,8 +10,10 @@ from config import BLACKLIST_CACHE_FILE
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
 import multiprocessing
 
-lock = multiprocessing.Lock()
+nouns_scrapper_lock = multiprocessing.Lock()
 
+
+# TODO: protect with lock
 class BlacklistCache(pd.DataFrame):
     def __init__(self):
         # get blacklisted words
@@ -129,10 +131,10 @@ def extract_noun_details(entry):
 
 
 def nouns_definition_parser(caller, word):
-    with lock:
+    with nouns_scrapper_lock:
         if word in BLACKLIST['word'].values:
             return None
-        print(f"[ ALERT ] parsing ... {word} for {caller}")
+        print(f"[[ ALERT ]] parsing ... {word} for {caller}")
 
         response = requests.get(url + word, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -210,4 +212,4 @@ def nouns_definition_nouns(word, details):
 
 if __name__ == "__main__":
     word = sys.argv[1]
-    print(nouns_definition_parser(word))
+    print(nouns_definition_parser('main', word))

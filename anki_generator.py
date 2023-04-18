@@ -16,8 +16,8 @@ class GeneralNote(genanki.Note):
                         templates=[
                             {
                                 'name': 'General_Card',
-                                'qfmt': '<div style="text-align: center; font-size: 18px;">{{Noun}}</div>',
-                                'afmt': '{{FrontSide}}<hr id="answer"><div style="display: flex; justify-content: center; font-size: 12px;"><div style="margin-right: 50px;"><br>{{English}}</div><div><br>{{German}}</div></div>'
+                                'qfmt': '<div style="text-align: center; font-size: 20px;">{{Noun}}</div>',
+                                'afmt': '{{FrontSide}}<hr id="answer"><div style="display: flex; justify-content: center; font-size: 14px;"><div style="margin-right: 50px;"><br>{{English}}</div><div><br>{{German}}</div></div>'
                             },
                         ],
                     )
@@ -40,8 +40,8 @@ class NounNote(genanki.Note):
                         templates=[
                             {
                                 'name': 'Noun_Card',
-                                'qfmt': '<div style="text-align: center; font-size: 18px;">{{Noun}}</div>',
-                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: left; font-size: 12px;"> <strong>meaning</strong>: {{English}} <br> <strong>noun</strong>: {{FullNoun}} <br> <strong>plural</strong>: Die {{Plural}} </div>',
+                                'qfmt': '<div style="text-align: center; font-size: 20px;">{{Noun}}</div>',
+                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: left; font-size: 14px;"> <strong>meaning</strong>: {{English}} <br> <strong>noun</strong>: {{FullNoun}} <br> <strong>plural</strong>: Die {{Plural}} </div>',
                             },
                         ],
                     )
@@ -65,8 +65,8 @@ class VerbNote(genanki.Note):
                         templates=[
                             {
                                 'name': 'Verb_Card',
-                                'qfmt': '<div style="text-align: center; font-size: 18px;">{{Verb}}',
-                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: left; font-size: 12px;"> <strong>meaning</strong>: {{English}} <br> <br> <strong>conjugation</strong>: <br> <br> {{Conjugation}}',
+                                'qfmt': '<div style="text-align: center; font-size: 20px;">{{Verb}}',
+                                'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align: left; font-size: 14px;"> <strong>meaning</strong>: {{English}} <br> <br> <strong>conjugation</strong>: <br> <br> {{Conjugation}}',
                             },
                         ],
                     )

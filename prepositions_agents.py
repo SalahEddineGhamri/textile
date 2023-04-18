@@ -1,6 +1,6 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
-from prepositions_table import PrepositionsCache
+from prepositions_table import PREPOSITIONS_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
@@ -10,7 +10,6 @@ class PrepositionsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.cache = blackboard['preposition_cache']
         self.blackboard['prepositions_rich_text'] = ""
         self.blackboard['prepositions_rich_analysis'] = ""
 
@@ -18,8 +17,7 @@ class PrepositionsAgent(Process):
         df = self.blackboard['analyzed_text']
         prepositions_list = df.loc[df['pos_'].isin(['CONJ', 'CCONJ', 'SCONJ', 'INTJ', 'ADP', 'X']), 'text'].tolist()
         for preposition in prepositions_list:
-            self.cache[preposition]
-        self.cache.cache()
+            PREPOSITIONS_CACHE[preposition]
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "PREP")
@@ -75,12 +73,14 @@ class PrepositionsAgent(Process):
         prepositions_list = list(set(prepositions_list))
 
         for element in prepositions_list:
-            df = self.cache[element]
+            df = PREPOSITIONS_CACHE[element]
+
             if df is None:
                 continue
+
             df.fillna(value="None", inplace=True)
-            english_text = self.cache[element]['examples']['english']
-            german_text = self.cache[element]['examples']['german']
+            english_text = df['examples']['english']
+            german_text = df['examples']['german']
 
             english_text = english_text.split('\n')
             german_text = german_text.split('\n')

@@ -1,26 +1,12 @@
-aspects,language,leben,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank
-basic_forms,english,None,,"das Jahr : Noun
+aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank
+basic_forms,english,,"das Jahr : Noun
 ","das Jahr : Noun
 ",,,,"das Elter : Noun
 der Elter : Noun
 ",,"nähen : Verb
 ",,,,
-basic_forms,german,None,,,,,,,,,,,,,
-verbs,english,"to live | lived, lived |
-to be alive
-to exist | existed, existed |
-to roost | roosted, roosted | [ZOOL.]
-to abide | abode, abode | obsolete
-to live on sth.
-to make a living doing sth.
-to live for so./sth.
-to stay with so.
-to be alive
-to save life
-to stay alive
-to keep alive
-to lose one's life
-","to name sth. | named, named |
+basic_forms,german,,,,,,,,,,,,,
+verbs,english,"to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
@@ -112,21 +98,7 @@ to bank with so. - bank
 to bank | banked, banked | [ENGIN.]
 to bank | banked, banked | [AGR.]
 "
-verbs,german,"leben | lebte, gelebt |
-leben | lebte, gelebt |
-leben | lebte, gelebt |
-leben | lebte, gelebt | - z. B. Tiere mit Tages- oder Nachtquartier in der Vegetation
-leben | lebte, gelebt |
-von etw.dat. leben | lebte, gelebt |
-von etw.dat. leben | lebte, gelebt |
-für jmdn./etw. leben | lebte, gelebt |
-bei jmdm. leben | lebte, gelebt |
-am Leben sein
-Leben retten
-am Leben bleiben
-am Leben bleiben
-ums Leben kommen
-","etw.acc. benennen | benannte, benannt |
+verbs,german,"etw.acc. benennen | benannte, benannt |
 etw.acc. bezeichnen | bezeichnete, bezeichnet |
 etw.acc. angeben | gab an, angegeben |
 etw.acc. bestimmen | bestimmte, bestimmt |
@@ -218,21 +190,7 @@ ein Konto bei jmdm. haben - bei einer Bank
 überhöhen | überhöhte, überhöht | [Road Construction]
 poldern | polderte, gepoldert | [Holzwirtschaft]
 "
-nouns,english,"life - pl.: lives
-living
-lifetime
-existence
-animation
-aquatic life
-singlehood
-urban life
-a life of dissiation
-strenuous life
-strenuous life
-extraterrestrial life
-farming life
-civic life
-","name
+nouns,english,"name
 name
 name
 name
@@ -386,21 +344,7 @@ bank
 bank
 bank
 "
-nouns,german,"das Leben pl.
-das Leben no plural
-das Leben pl.
-das Leben pl.
-das Leben no plural
-Leben im Wasser
-Leben als Single
-städtisches Leben
-zügelloses Leben
-anstrengendes Leben
-arbeitsreiches Leben
-außerirdisches Leben
-bäuerliches Leben
-bürgerliches Leben
-","der Name rarely: Namen pl.: die Namen
+nouns,german,"der Name rarely: Namen pl.: die Namen
 die Benennung pl.: die Benennungen
 die Bezeichnung pl.: die Bezeichnungen
 der Personenname pl.: die Personennamen
@@ -554,13 +498,7 @@ die Strosse pl.: die Strossen
 das Bankgebäude pl.: die Bankgebäude
 der Erddamm pl.: die Erddämme
 "
-noun_details,english,"article: Das
-word: Leben
-genus: NEUT
-plural: Leben
-meaning: life - pl.: lives
-living
-","article: Der
+noun_details,english,"article: Der
 word: Name
 genus: MASC
 plural: Namen
@@ -639,19 +577,8 @@ plural: Bänke
 meaning: bench
 bank [FINAN.]
 "
-noun_details,german,None,,,,,,,,,,,,,
-adjectives_or_adverbs,english,"alive adj.
-to the fore
-in life
-life-giving adj.
-bio-destructible adj. [TECH.]
-bustling adj.
-in the flesh
-all my/your/her/his/our life
-paired for life
-taken from real life
-bread-and-butter adj. - used before noun
-","by name - postpos.
+noun_details,german,,,,,,,,,,,,,
+adjectives_or_adverbs,english,"by name - postpos.
 according to name
 in all but name
 in all but name
@@ -736,18 +663,7 @@ along the south bank
 endorsed by a bank [FINAN.]
 based on banks [FINAN.]
 "
-adjectives_or_adverbs,german,"am Leben
-am Leben
-im Leben
-lebenspendend or: Leben spendend
-lebenzerstörend or: Leben zerstörend
-voller Leben
-im richtigen Leben
-zeit meines/deines/ihres/seines/unseres Lebens
-ein Leben lang verbunden
-aus dem Leben gegriffen
-des täglichen Lebens
-","namentlich
+adjectives_or_adverbs,german,"namentlich
 nach Namen
 bis auf den Namen
 praktisch
@@ -832,21 +748,7 @@ am Südufer
 bankgiriert - nachgestellt [Banking]
 bankbasiert
 "
-phrases_or_collocations,english,"to spring to life [fig.]
-once in a lifetime
-life and limb
-not on your nelly (Brit.)
-No way!
-to live in sin
-to live out of a suitcase
-not in a month of Sundays [fig.]
-Not on your nelly! (Brit.) [coll.]
-to be behind the times
-to lead the life of Riley
-Life isn't all beer and skittles.
-Life isn't all beer and skittles.
-Live and let live.
-","What's in a name?
+phrases_or_collocations,english,"What's in a name?
 a name to conjure with
 to name but a few
 I'm saying nothing.
@@ -907,21 +809,7 @@ to shelve sth. | shelved, shelved | - not continue with sth. [fig.]
 the party liable or his bank [FINAN.]
 to procrastinate sth. | procrastinated, procrastinated | rare
 "
-phrases_or_collocations,german,"zum Leben erwachen [fig.]
-einmal im Leben
-Leib und Leben
-nie im Leben
-Nie im Leben!
-in Sünde leben
-aus dem Koffer leben
-nie im Leben [fig.]
-Nie im Leben!
-hinter dem Mond leben [fig.]
-leben wie Gott in Frankreich
-Das Leben besteht nicht nur aus Vergnügen.
-Das Leben ist kein endloses Vergnügen.
-Leben und leben lassen.
-","Name ist Schall und Rauch.
+phrases_or_collocations,german,"Name ist Schall und Rauch.
 ein Name, der Wunder wirkt
 um nur einige zu nennen
 Mein Name ist Hase.
@@ -982,21 +870,7 @@ etw.acc. auf die lange Bank schieben [fig.]
 der Schuldner oder seine Bank
 etw.acc. auf die lange Bank schieben [fig.]
 "
-examples,english,"Life is fatal!
-three lives were lost
-His life is at stake.
-I can live with it.
-I can live with that.
-They swam for dear life.
-Get out of my life!
-It's a matter of life and death.
-The lines between working life and home life are often blurred.
-They live from hand to mouth.
-What does he do for a living?
-ability to earn a livelihood
-He lives beyond his means.
-He lives the life of Riley.
-","name and address are kept secret
+examples,english,"name and address are kept secret
 I didn't catch your name.
 What's your name?
 His name escapes me.
@@ -1089,21 +963,7 @@ drawn on the issuing bank
 on behalf of the bank
 the order received by the bank [FINAN.]
 "
-examples,german,"Das Leben ist tödlich!
-drei Menschen kamen ums Leben
-Es geht um sein Leben.
-Ich kann damit leben.
-Ich kann damit leben.
-Sie schwammen um ihr Leben.
-Verschwinde aus meinem Leben!
-Es geht um Leben und Tod.
-Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
-Sie leben von der Hand in den Mund.
-Womit verdient er seinen Lebensunterhalt?
-Fähigkeit, den Lebensunterhalt zu verdienen
-Er lebt über seine Verhältnisse.
-Er lebt wie Gott in Frankreich.
-","Name und Anschrift werden geheim gehalten
+examples,german,"Name und Anschrift werden geheim gehalten
 Ich habe Ihren Namen nicht verstanden.
 Wie heißt du?
 Sein Name fällt mir gerade nicht ein.

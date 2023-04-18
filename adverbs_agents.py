@@ -3,13 +3,13 @@ from multiprocessing import Process
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
+from adverbs_table import ADVERBS_CACHE
 
 
 class AdverbsAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.cache = blackboard['adverb_cache']
         self.blackboard['adverbs_rich_text'] = ""
         self.blackboard['adverbs_rich_analysis'] = ""
 
@@ -17,7 +17,7 @@ class AdverbsAgent(Process):
         df = self.blackboard['analyzed_text']
         adverbs_list = df.loc[(df['pos_'] == 'ADV'), 'text'].tolist()
         for adverb in adverbs_list:
-            self.cache[adverb]
+            ADVERBS_CACHE[adverb]
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "ADV")
@@ -73,12 +73,12 @@ class AdverbsAgent(Process):
         adverbs_list = list(set(adverbs_list))
 
         for element in adverbs_list:
-            df = self.cache[element]
+            df = ADVERBS_CACHE[element]
             if df is None:
                 continue
             df.fillna(value="None", inplace=True)
-            english_text = self.cache[element]['adjectives_or_adverbs']['english']
-            german_text = self.cache[element]['adjectives_or_adverbs']['german']
+            english_text = df['adjectives_or_adverbs']['english']
+            german_text = df['adjectives_or_adverbs']['german']
 
             english_text = english_text.split('\n')
             german_text = german_text.split('\n')

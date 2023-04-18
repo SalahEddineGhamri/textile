@@ -47,23 +47,26 @@ class VerbsMeaningCache(pd.DataFrame):
                 return False
 
     def __getitem__(self, key):
-        with self.lock:
             if key in self.columns:
                 return super().__getitem__(key)
             else:
-                sleep_interval = random.uniform(0.1, 0.4)
-                time.sleep(sleep_interval)
-                new_verb = nouns_definition_parser('verbs_table', key)
-                if new_verb is not None:
-                    if new_verb['verbs']:
-                        for aspect, languages in new_verb.items():
-                            if languages is not None:
-                                self.loc[(aspect, 'english'), key] = languages[0]
-                                self.loc[(aspect, 'german'), key] = languages[1]
-                        self.to_csv(VERBS_MEANING_CACHE_FILE, index=True)
-                        return super().__getitem__(key)
-                else:
-                    return None
+                with self.lock:
+                    sleep_interval = random.uniform(0.1, 0.4)
+                    time.sleep(sleep_interval)
+                    new_verb = nouns_definition_parser('verbs_table', key)
+                    if new_verb is not None:
+                        if new_verb['verbs'] is not None:
+                            self[key] = pd.Series(index=self.index, dtype='object')
+                            for aspect, languages in new_verb.items():
+                                if languages is not None:
+                                    self.loc[(aspect, 'english'), key] = languages[0]
+                                    self.loc[(aspect, 'german'), key] = languages[1]
+                            self.to_csv(VERBS_MEANING_CACHE_FILE, index=True)
+                            return super().loc[(slice(None), slice(None)), key]
+                        else:
+                            return None
+                    else:
+                        return None
 
 
 class VerbsConjugationCache(pd.DataFrame):
@@ -94,54 +97,46 @@ class VerbsConjugationCache(pd.DataFrame):
         else:
             super().__init__(pd.read_csv(VERBS_CONJUGATION_CACHE_FILE,
                                          index_col=['voice', 'tense']))
-
-    def get_verb(self, verb, voice, tense):
-        verb_df = self[verb]
-        if verb_df is not None:
-            return verb_df[voice][tense]
-        else:
-            return None
-
-    def add_verb(self, verb, voice, tense, value):
-        if verb in self.columns:
-            self.loc[(voice, tense), verb] = value
-        else:
-            self[verb] = pd.Series(index=self.index, dtype='object')
-            self.loc[(voice, tense), verb] = value
+        self.lock = multiprocessing.Lock()
 
     def cache(self):
-        try:
-            if super().empty:
-                # print('The DataFrame is empty')
+        with self.lock:
+            try:
+                if super().empty:
+                    # print('The DataFrame is empty')
+                    return False
+
+                if not VERBS_CONJUGATION_CACHE_FILE:
+                    # print('The file path is empty')
+                    return False
+
+                super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
+                # print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
+                return True
+
+            except Exception as e:
+                # print(f'An error occurred while writing to file: {e}')
                 return False
-
-            if not VERBS_CONJUGATION_CACHE_FILE:
-                # print('The file path is empty')
-                return False
-
-            super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
-            # print(f'DataFrame has been written to {VERBS_CACHE_FILE}')
-            return True
-
-        except Exception as e:
-            # print(f'An error occurred while writing to file: {e}')
-            return False
 
     def __getitem__(self, key):
-        try:
-            return super().__getitem__(key)
-        except KeyError:
-            sleep_interval = random.uniform(0.1, 0.4)
-            time.sleep(sleep_interval)
-            # print("scrapping for verb ...")
-            # new_verb_meaning = nouns_definition_parser(key)
-            new_verb = scrapp_for_verb(key)
-            self[key] = pd.Series(index=self.index, dtype='object')
-            for (voice, tense), values in new_verb.items():
-                if values[key] is not None:
-                    self.loc[(voice, tense), key] = values[key]
-            super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
-            return self[key]
+        with self.lock:
+            try:
+                return super().__getitem__(key)
+            except KeyError:
+                sleep_interval = random.uniform(0.1, 0.4)
+                time.sleep(sleep_interval)
+                # print("scrapping for verb ...")
+                # new_verb_meaning = nouns_definition_parser(key)
+                new_verb = scrapp_for_verb(key)
+                self[key] = pd.Series(index=self.index, dtype='object')
+                for (voice, tense), values in new_verb.items():
+                    if values[key] is not None:
+                        self.loc[(voice, tense), key] = values[key]
+                    else:
+                        return None
+                super().to_csv(VERBS_CONJUGATION_CACHE_FILE, index=True)
+                return super().loc[(slice(None), slice(None)), key]
+
 
 VERBS_CONJUGATION_CACHE = VerbsConjugationCache()
 VERBS_MEANING_CACHE = VerbsMeaningCache()

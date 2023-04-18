@@ -1,6 +1,6 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
-from adjectives_table import AdjectivesCache
+from adjectives_table import ADJECTIVES_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
@@ -10,7 +10,6 @@ class AdjectivesAgent(Process):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        self.adjective_cache = blackboard['adjective_cache']
         self.blackboard['adjectives_rich_text'] = ""
         self.blackboard['adjectives_rich_analysis'] = ""
 
@@ -18,8 +17,8 @@ class AdjectivesAgent(Process):
         df = self.blackboard['analyzed_text']
         adjectives_list = df.loc[(df['pos_'] == 'ADJ'), 'text'].tolist()
         for adjective in adjectives_list:
-            self.adjective_cache[adjective]
-        self.adjective_cache.cache()
+            ADJECTIVES_CACHE[adjective]
+        ADJECTIVES_CACHE.cache()
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard['analyzed_text'], "ADJ")
@@ -75,12 +74,12 @@ class AdjectivesAgent(Process):
         adjectives_list = list(set(adjectives_list))
 
         for element in adjectives_list:
-            df = self.adjective_cache[element]
+            df = ADJECTIVES_CACHE[element]
             if df is None:
                 continue
             df.fillna(value="None", inplace=True)
-            english_text = self.adjective_cache[element]['adjectives_or_adverbs']['english']
-            german_text = self.adjective_cache[element]['adjectives_or_adverbs']['german']
+            english_text = df['adjectives_or_adverbs']['english']
+            german_text = df['adjectives_or_adverbs']['german']
 
             english_text = english_text.split('\n')
             german_text = german_text.split('\n')

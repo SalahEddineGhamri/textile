@@ -4,9 +4,9 @@ from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
 from config import INPUT_PATH, ANKI_PATH
 from nouns_table import NOUN_CACHE
 from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
-from adjectives_table import AdjectivesCache
-from adverbs_table import AdverbsCache
-from prepositions_table import PrepositionsCache
+from adjectives_table import ADJECTIVES_CACHE
+from adverbs_table import ADVERBS_CACHE
+from prepositions_table import PREPOSITIONS_CACHE
 from nouns_agents import split_hyphenated_string
 
 
@@ -72,9 +72,9 @@ class AnkiGenerationAgent(Process):
         self.noun_cache = NOUN_CACHE
         self.verb_meaning_cache = VERBS_MEANING_CACHE
         self.verb_conjugation_cache = VERBS_CONJUGATION_CACHE
-        self.adjective_cache = blackboard['adjective_cache']
-        self.adverb_cache = blackboard['adverb_cache']
-        self.preposition_cache = blackboard['preposition_cache']
+        self.adjective_cache = ADJECTIVES_CACHE
+        self.adverb_cache = ADVERBS_CACHE
+        self.preposition_cache = PREPOSITIONS_CACHE
 
 
     def add_nouns(self):
