@@ -99,11 +99,12 @@ class AdjectivesAgent(Process):
             sleep(0.0001)
 
         self.blackboard['stages']['analyzed_adjectives'] = 'STARTED'
+        ADJECTIVES_CACHE.refresh_cache()
         self.analyze_adjectives()
+        ADJECTIVES_CACHE.cache()
         self.blackboard['stages']['analyzed_adjectives'] = 'Analyzed Adjectives!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_adjectives'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_adjectives'] = 'Generated rich analysis!'
-        ADJECTIVES_CACHE.cache()
         self.blackboard['stages']['analyzed_adjectives'] = 'DONE'

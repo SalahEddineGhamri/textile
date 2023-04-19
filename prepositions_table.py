@@ -35,6 +35,10 @@ class PrepositionsCache(pd.DataFrame):
                                          index_col=['aspects', 'language']))
         self.lock = Lock()
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(PREPOSITIONS_CACHE_FILE, index_col=['aspects', 'language']))
+
     def cache(self):
         with self.lock:
             try:

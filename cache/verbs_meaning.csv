@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -106,8 +106,35 @@ geben : Verb
 gebrauchen : Verb
 ","der Sitz : Noun
 ","brauchen : Verb
+","sich melden : Verb
+melden : Verb
+","erlauben : Verb
+sich erlauben : Verb
+",,"nutzen : Verb
+","die Sage : Noun
+","entspinnen : Verb
+","anbauen : Verb
+sich anbauen : Verb
+","kaufen : Verb
+sich kaufen : Verb
+",,"sich erklären : Verb
+erklären : Verb
+","planen : Verb
+","der Besitz : Noun
+",,"die Ernte : Noun
+","müssen : Verb
+",,,"funktionieren : Verb
+","sich geben : Verb
+sich geben : Verb
+geben : Verb
+","kontrollieren : Verb
+sich kontrollieren : Verb
+",,"sich entwickeln : Verb
+entwickeln : Verb
+","sich stören : Verb
+stören : Verb
 "
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,,,,None,None,None,,None,,,,,None,,,None,,,
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -1061,6 +1088,314 @@ to be in need of money
 to need a change
 to need a change
 to be in dire need of sth.
+","to report sth. | reported, reported |
+to message | messaged, messaged |
+to notify | notified, notified |
+to signal | signaled/signalled, signaled/signalled |
+to register | registered, registered |
+to give notice of sth.
+to announce so./sth. | announced, announced |
+to come forward
+to raise one's hand - in class
+to tell on so.
+to answer | answered, answered | - at the other end of the phone line
+to report | reported, reported |
+to notify so. of sth.
+to inform so. about sth.
+","sth. admits of sth. infinitive: admit - allow [form.]
+to allow sth. | allowed, allowed |
+to permit sth. | permitted, permitted |
+to enable | enabled, enabled |
+to allow of sth.
+to OK sth. | OKed, OKed |
+to licenseAE / licenceAE sth. to licenseBE / licenceBE sth. | licensed, licensed / licenced, licenced |
+to approve sth. | approved, approved |
+to take the liberty of sth.
+to afford sth. | afforded, afforded |
+to be allowed
+to permit so. to do sth.
+to allow so. to do sth.
+to licenseAE / licenceAE so. to do sth. to licenseBE / licenceBE so. to do sth.
+","to fume | fumed, fumed |
+to smoke | smoked, smoked |
+to smolderAE / smoulderBE | smoldered, smoldered / smouldered, smouldered |
+to whiff | whiffed, whiffed |
+to have a smoke [coll.]
+to reek | reeked, reeked | - give off smoke archaic
+to cut out smoking
+to place a ban on smoking
+to smoke grass
+to smoke hash
+to chase the dragon [coll.] [fig.]
+to smoke like a chimney [coll.]
+","to utilizeAE sth. to utiliseBE / utilizeBE sth. | utilized, utilized / utilised, utilised |
+to use sth. | used, used |
+to employ | employed, employed |
+to turn to account
+to occupy | occupied, occupied |
+to put to account
+to be of use (to so.)
+to deploy sth. | deployed, deployed |
+to avail oneself of sth.
+to capitalizeAE on sth. to capitaliseBE / capitalizeBE on sth.
+to make use of sth.
+to take advantage of sth.
+to produce | produced, produced | [TECH.]
+to benefit so./sth. | benefited, benefited / benefitted, benefitted |
+","to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
+","to relax | relaxed, relaxed |
+to declamp | declamped, declamped |
+to remove the tension
+to slacken off
+to relieve pressure
+to relax sth. | relaxed, relaxed |
+to slacken sth. | slackened, slackened |
+to expand sth. | expanded, expanded |
+to unload sth. | unloaded, unloaded |
+to unbend sth. | unbent, unbent |
+to unclench sth. | unclenched, unclenched |
+to release sth. | released, released |
+to remove the stress of sth.
+to uncock sth. | uncocked, uncocked |
+","to grow sth. | grew, grown | - vegetables etc.
+to fit | fitted/fit, fitted/fit |
+to mount | mounted, mounted |
+to cultivate sth. | cultivated, cultivated |
+to add sth. ⇔ on
+to add sth. | added, added |
+to installAE sth. to installBE / instalBE sth. | installed, installed |
+to hold | held, held | [TECH.]
+to attach sth. (to sth.) | attached, attached | [TECH.]
+to grow wine
+","to buy (so. sth. (or: sth. for so.)) | bought, bought |
+to purchase sth. | purchased, purchased |
+to buy (sth.) from so.
+to merchandise | merchandised, merchandised |
+to buy and sell
+to buy firm
+to buy second hand
+to buy sth. sight unseen
+to buy sth. unseen
+to buy forward
+to buy a ticket
+to buy local
+to purchase by issuing release orders
+to purchase on credit
+","to govern (sth.) | governed, governed |
+to rule | ruled, ruled |
+to govern sth. | governed, governed | [LING.]
+to reign | reigned, reigned |
+to misgovern | misgoverned, misgoverned |
+to misrule | misruled, misruled |
+to run a country
+","to explain sth. (to so.) | explained, explained |
+to assert (that ...) | asserted, asserted |
+to declare sth. | declared, declared |
+to state sth. | stated, stated |
+to interpret sth. | interpreted, interpreted |
+to account for sth. - explain
+to elucidate sth. | elucidated, elucidated |
+to clarify sth. | clarified, clarified |
+to expound sth. | expounded, expounded |
+to explicate sth. | explicated, explicated |
+to profess sth. | professed, professed |
+to explain about sth.
+to say sth. | said, said |
+to define sth. | defined, defined |
+","to project | projected, projected |
+to plan sth. | planned, planned |
+to design sth. | designed, designed |
+to scheme | schemed, schemed |
+to envisage | envisaged, envisaged |
+to budget | budgeted, budgeted |
+to target | targeted, targeted |
+to prearrange | prearranged, prearranged |
+to schedule sth. | scheduled, scheduled |
+to arrange sth. | arranged, arranged |
+to map sth. | mapped, mapped |
+to map sth. ⇔ out
+to compass sth. | compassed, compassed |
+to devise sth. | devised, devised |
+","to own sth. | owned, owned |
+to possess sth. | possessed, possessed |
+to have | had, had |
+to hold | held, held |
+to exhibit | exhibited, exhibited |
+to feature sth. | featured, featured |
+to offer sth. | offered, offered |
+to have staying power
+to have a monopoly
+to monopolizeAE to monopoliseBE / monopolizeBE | monopolized, monopolized / monopolised, monopolised |
+to be empowered to act as a representative [LAW]
+to hold stocks [FINAN.]
+to hold bonds
+to hold shares [FINAN.]
+","to grow sth. | grew, grown | - vegetables etc.
+to fit | fitted/fit, fitted/fit |
+to mount | mounted, mounted |
+to cultivate sth. | cultivated, cultivated |
+to add sth. ⇔ on
+to add sth. | added, added |
+to installAE sth. to installBE / instalBE sth. | installed, installed |
+to hold | held, held | [TECH.]
+to attach sth. (to sth.) | attached, attached | [TECH.]
+to grow wine
+","to harvest | harvested, harvested |
+to gather | gathered, gathered |
+to reap sth. | reaped, reaped |
+to lift sth. | lifted, lifted |
+to crop | cropped, cropped | [AGR.]
+to get the bird
+to take credit for sth.
+to raise a cheer
+to raise a laugh
+to crop | cropped, cropped | [AGR.]
+to crop | cropped, cropped | [AGR.]
+to bring the house down
+to bring down the house [fig.]
+to yield a large crop
+to yield a large crop
+","to muss sth. up (Amer.) - hair
+to muss sth. up (Amer.) - hair
+must aux.
+to have to
+to be bound to
+to get to
+to be obliged
+to have got to chiefly (Brit.)
+sth. must take a back seat infinitive: take a back seat [fig.]
+sth. must take a back seat infinitive: take a back seat [fig.]
+to have detention - in school
+to be called upon
+to be due to go
+to be moved to tears
+","to sell so. (or: sth., sth. to so.) | sold, sold |
+to sell | sold, sold |
+to sell | sold, sold |
+to market | marketed, marketed |
+to push | pushed, pushed |
+to sell so. out
+to vend | vended, vended | [COMM.]
+to sell sth. for cash
+to sell for ready money
+to dispose | disposed, disposed |
+to retail | retailed, retailed |
+to sell at a good price
+to sell loose
+to sell outright
+","to observe | observed, observed |
+to witness | witnessed, witnessed |
+to monitor | monitored, monitored |
+to watch so./sth. | watched, watched |
+to find | found, found |
+to follow | followed, followed |
+to keep tabs on so./sth.
+to look at so./sth.
+to keep track of sth.
+to sight sth. | sighted, sighted |
+to note sth. | noted, noted | - register chiefly [form.]
+to notice sth. | noticed, noticed |
+to bird | birded, birded |
+to keep an eye on
+","to work | worked, worked |
+to function | functioned, functioned |
+to operate | operated, operated |
+to perform | performed, performed |
+to be functional
+to be in working order
+to be OK
+to do the job
+to go | went, gone | - operate
+to run | ran, run |
+to act | acted, acted |
+to malfunction | malfunctioned, malfunctioned |
+to work well
+to malfunction | malfunctioned, malfunctioned |
+to break down - machine
+to act up
+","to give so. sth. (or: sth. to so.) | gave, given |
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to bestow sth. upon so.
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+there is
+there are
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+to disclose sth. | disclosed, disclosed |
+to blame so. for sth.
+to tutor (so.) | tutored, tutored |
+","to check sth. | checked, checked |
+to control so./sth. | controlled, controlled |
+to monitor | monitored, monitored |
+to supervise | supervised, supervised |
+to examine | examined, examined |
+to keep a check on
+to make a check on
+to police sth. | policed, policed | - monitor, observe
+to contain sth. | contained, contained |
+to test sth. | tested, tested |
+to audit so./sth. | audited, audited |
+to inspect sth. | inspected, inspected | [TECH.]
+to corner a stock
+to check accounts [FINAN.]
+","to take sth. | took, taken |
+to wreak | wreaked, wreaked |
+to have sth. | had, had | - eat or drink sth.
+to seize sth. | seized, seized |
+to use sth. | used, used | - employ for a given purpose
+to do sth. | did, done | [coll.]
+to help oneself to sth.
+to take so. | took, taken | archaic - have sexual intercourse with so.
+to incur | incurred, incurred |
+to shoulder sth. | shouldered, shouldered |
+to take sth. ⇔ on
+to take it upon oneself to do sth.
+to accept sth. | accepted, accepted | - e.g. responsibility
+to partake of sth.
+","to develop sth. | developed, developed |
+to evolve sth. | evolved, evolved |
+to generate sth. | generated, generated |
+to develop | developed, developed |
+to evolve (from sth.) | evolved, evolved |
+to evolve (into so./sth.) | evolved, evolved |
+to educe | educed, educed |
+to engineer | engineered, engineered |
+to devise sth. | devised, devised |
+to design sth. | designed, designed |
+to produce sth. | produced, produced |
+to empower sth. | empowered, empowered |
+to model sth. | modeled/modelled, modeled/modelled |
+to process sth. | processed, processed |
+","sth. worries so. infinitive: worry - annoy
+to disturb (so./sth.) | disturbed, disturbed |
+to bother so. | bothered, bothered |
+to trouble so. | troubled, troubled |
+to interrupt (so./sth.) | interrupted, interrupted |
+to remoldAE / remouldBE | remolded, remolded / remoulded, remoulded |
+to perturb so./sth. | perturbed, perturbed |
+to interfere with so./sth.
+to derange so./sth. | deranged, deranged |
+to incommode so. | incommoded, incommoded |
+to confound so. | confounded, confounded |
+to faze so. | fazed, fazed |
+to annoy so. | annoyed, annoyed |
+to bug so. | bugged, bugged |
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -2015,6 +2350,314 @@ Geld brauchen
 Luftwechsel brauchen
 Veränderung brauchen
 etw.acc. dringend brauchen
+","etw.acc. melden | meldete, gemeldet |
+melden | meldete, gemeldet |
+melden | meldete, gemeldet |
+melden | meldete, gemeldet |
+melden | meldete, gemeldet |
+etw.acc. melden | meldete, gemeldet |
+jmdn./etw. melden | meldete, gemeldet |
+sichacc. melden | meldete, gemeldet | - als Zeuge, freiwilliger Helfer
+sichacc. melden | meldete, gemeldet | - im Unterricht
+jmdn. melden | meldete, gemeldet |
+sichacc. melden | meldete, gemeldet |
+sichacc. melden | meldete, gemeldet |
+jmdm. etw.acc. melden | meldete, gemeldet |
+jmdm. etw.acc. melden | meldete, gemeldet |
+","etw.nom. erlaubt etw.acc. infinitive: erlauben
+etw.acc. erlauben | erlaubte, erlaubt |
+etw.acc. erlauben | erlaubte, erlaubt |
+erlauben | erlaubte, erlaubt |
+etw.acc. erlauben | erlaubte, erlaubt |
+etw.acc. erlauben | erlaubte, erlaubt |
+etw.acc. erlauben | erlaubte, erlaubt |
+etw.acc. erlauben | erlaubte, erlaubt |
+sichdat. etw.acc. erlauben | erlaubte, erlaubt |
+sichdat. etw.acc. erlauben | erlaubte, erlaubt |
+erlaubt sein
+jmdm. erlauben, etw.acc. zu tun
+jmdm. erlauben, etw.acc. zu tun
+jmdm. erlauben, etw.acc. zu tun
+","rauchen | rauchte, geraucht |
+rauchen | rauchte, geraucht |
+rauchen | rauchte, geraucht |
+rauchen | rauchte, geraucht |
+eine rauchen [coll.]
+rauchen | rauchte, geraucht |
+das Rauchen einschränken
+das Rauchen verbieten
+Gras rauchen
+Haschisch rauchen
+Heroin rauchen
+rauchen wie ein Schlot [coll.]
+","etw.acc. nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+nutzen | nutzte, genutzt |
+nutzen | nutzte, genutzt |
+nutzen | nutzte, genutzt |
+nutzen | nutzte, genutzt |
+(jmdm.) nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+etw.acc. nutzen | nutzte, genutzt |
+nutzen | nutzte, genutzt |
+jmdm./etw. nutzen | nutzte, genutzt | chiefly (Northern Germany)
+","etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
+","sichacc. entspannen | entspannte, entspannt |
+entspannen | entspannte, entspannt |
+entspannen | entspannte, entspannt |
+entspannen | entspannte, entspannt |
+entspannen | entspannte, entspannt | - Feder
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+etw.acc. entspannen | entspannte, entspannt |
+","etw.acc. anbauen | baute an, angebaut |
+anbauen | baute an, angebaut |
+anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut | - Gemüse, Pflanzen
+etw.acc. anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut |
+anbauen | baute an, angebaut | - eine Schicht, besonders beim Nachfallpacken [Mining]
+etw.acc. (an etw.dat.) anbauen | baute an, angebaut |
+Wein anbauen
+","(jmdm. etw.acc.) kaufen | kaufte, gekauft |
+etw.acc. kaufen | kaufte, gekauft |
+(etw.acc.) von jmdm. kaufen | kaufte, gekauft |
+kaufen und verkaufen
+kaufen und verkaufen
+fest kaufen
+gebraucht kaufen
+etw.acc. unbesehen kaufen
+etw.acc. unbesehen kaufen
+auf Termin kaufen
+eine Fahrkarte kaufen
+vor Ort kaufen
+auf Abruf kaufen
+auf Kredit kaufen
+","(etw.acc.) regieren | regierte, regiert |
+regieren | regierte, regiert |
+etw.acc. regieren | regierte, regiert | [Grammar]
+regieren | regierte, regiert |
+schlecht regieren
+schlecht regieren
+ein Land regieren
+","(jmdm.) etw.acc. erklären | erklärte, erklärt |
+erklären (, dass ...) | erklärte, erklärt | - mit Nachdruck
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+(sichdat.) etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+etw.acc. erklären | erklärte, erklärt |
+","planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+planen | plante, geplant |
+planen | plante, geplant |
+planen | plante, geplant |
+planen | plante, geplant |
+planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+etw.acc. planen | plante, geplant |
+","etw.acc. besitzen | besaß, besessen |
+etw.acc. besitzen | besaß, besessen |
+besitzen | besaß, besessen |
+besitzen | besaß, besessen |
+besitzen | besaß, besessen |
+etw.acc. besitzen | besaß, besessen |
+etw.acc. besitzen | besaß, besessen |
+Stehvermögen besitzen
+ein Monopol besitzen
+ein Monopol besitzen
+Vertretungsmacht besitzen
+Aktien besitzen [Stock Exchange]
+Obligationen besitzen
+Aktien besitzen [Stock Exchange]
+","etw.acc. anbauen | baute an, angebaut |
+anbauen | baute an, angebaut |
+anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut | - Gemüse, Pflanzen
+etw.acc. anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut |
+etw.acc. anbauen | baute an, angebaut |
+anbauen | baute an, angebaut | - eine Schicht, besonders beim Nachfallpacken [Mining]
+etw.acc. (an etw.dat.) anbauen | baute an, angebaut |
+Wein anbauen
+","ernten | erntete, geerntet |
+ernten | erntete, geerntet |
+etw.acc. ernten | erntete, geerntet |
+etw.acc. ernten | erntete, geerntet |
+ernten | erntete, geerntet |
+Buhrufe ernten
+die Lorbeeren für etw.acc. ernten
+Beifall ernten
+Gelächter ernten
+Ernte bringen
+Ernte tragen
+stürmischen Beifall ernten
+stürmischen Beifall ernten
+gute Ernte liefern
+eine große Ernte liefern
+","etw.acc. durcheinanderbringen | brachte durcheinander, durcheinandergebracht |
+etw.acc. zerzausen | zerzauste, zerzaust |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst |
+müssen | musste, gemusst | - im Präsens
+etw.nom. muss hintanstehen
+etw.nom. muss hintenanstehen
+nachsitzen müssen
+tragen müssen
+gehen müssen
+weinen müssen
+","jmdm. etw.acc. verkaufen | verkaufte, verkauft |
+sichacc. verkaufen | verkaufte, verkauft |
+verkaufen | verkaufte, verkauft |
+verkaufen | verkaufte, verkauft |
+verkaufen | verkaufte, verkauft |
+jmdn. verkaufen | verkaufte, verkauft | [fig.]
+verkaufen | verkaufte, verkauft |
+etw.acc. gegen bar verkaufen
+gegen bar verkaufen
+verkaufen | verkaufte, verkauft |
+direkt verkaufen
+günstig verkaufen
+lose verkaufen
+fest verkaufen
+","beobachten | beobachtete, beobachtet |
+beobachten | beobachtete, beobachtet |
+beobachten | beobachtete, beobachtet | - überwachen
+jmdn./etw. beobachten | beobachtete, beobachtet |
+beobachten | beobachtete, beobachtet |
+beobachten | beobachtete, beobachtet |
+jmdn./etw. beobachten | beobachtete, beobachtet |
+jmdn./etw. beobachten | beobachtete, beobachtet |
+etw.acc. beobachten | beobachtete, beobachtet |
+etw.acc. beobachten | beobachtete, beobachtet |
+etw.acc. beobachten | beobachtete, beobachtet |
+etw.acc. beobachten | beobachtete, beobachtet |
+Vögel beobachten
+aufmerksam beobachten
+","funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert |
+funktionieren | funktionierte, funktioniert | - Gerät, Ding
+nicht funktionieren
+gut funktionieren
+schlecht funktionieren
+nicht mehr funktionieren
+nicht richtig funktionieren
+","jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+es gibt infinitive: geben
+es gibt infinitive: geben
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+jmdm. die Schuld an etw.dat. geben
+(jmdm.) Nachhilfeunterricht geben
+","etw.acc. kontrollieren | kontrollierte, kontrolliert |
+jmdn./etw. kontrollieren | kontrollierte, kontrolliert |
+kontrollieren | kontrollierte, kontrolliert |
+kontrollieren | kontrollierte, kontrolliert |
+kontrollieren | kontrollierte, kontrolliert |
+kontrollieren | kontrollierte, kontrolliert |
+kontrollieren | kontrollierte, kontrolliert |
+etw.acc. kontrollieren | kontrollierte, kontrolliert |
+etw.acc. kontrollieren | kontrollierte, kontrolliert |
+etw.acc. kontrollieren | kontrollierte, kontrolliert |
+jmdn./etw. kontrollieren | kontrollierte, kontrolliert |
+etw.acc. kontrollieren | kontrollierte, kontrolliert |
+eine Aktie kontrollieren
+Konten kontrollieren
+","etw.acc. nehmen | nahm, genommen |
+nehmen | nahm, genommen |
+etw.acc. nehmen | nahm, genommen |
+etw.acc. nehmen | nahm, genommen |
+etw.acc. nehmen | nahm, genommen | - für einen bestimmten Zweck benutzen, verwenden
+etw.acc. nehmen | nahm, genommen |
+sichdat. etw.dat. nehmen | nahm, genommen | [coll.]
+jmdn. nehmen | nahm, genommen | - mit jmdm. Geschlechtsverkehr ausüben
+auf sichacc. nehmen | nahm, genommen |
+etw.acc. auf sichacc. nehmen | nahm, genommen |
+etw.acc. auf sichacc. nehmen | nahm, genommen |
+etw.acc. auf sichacc. nehmen | nahm, genommen |
+etw.acc. auf sichacc. nehmen | nahm, genommen | - z. B. die Verantwortung für etw.
+etw.acc. zu sichdat. nehmen | nahm, genommen |
+","etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+sichacc. entwickeln | entwickelte, entwickelt |
+sichacc. (aus etw.dat.) entwickeln | entwickelte, entwickelt |
+sichacc. (zu jmdm./etw.) entwickeln | entwickelte, entwickelt |
+entwickeln | entwickelte, entwickelt |
+entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+etw.acc. entwickeln | entwickelte, entwickelt |
+","etw.nom. stört jmdn. infinitive: stören
+(jmdn./etw.) stören | störte, gestört |
+jmdn. stören | störte, gestört |
+jmdn. stören | störte, gestört |
+(jmdn./etw.) stören | störte, gestört |
+stören | störte, gestört |
+jmdn./etw. stören | störte, gestört |
+jmdn./etw. stören | störte, gestört |
+jmdn./etw. stören | störte, gestört |
+jmdn. stören | störte, gestört |
+jmdn. stören | störte, gestört |
+jmdn. stören | störte, gestört |
+jmdn. stören | störte, gestört |
+jmdn. stören | störte, gestört |
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -2254,7 +2897,150 @@ town council seat [POL.]
 lug
 sliding seat
 misfit
-",None
+",None,"orache or: orach [BOT.]
+saltbush [BOT.]
+Babington's orache [BOT.]
+Scotland orache [ZOOL.]
+frosted orach [BOT.]
+common orache (or: orach) [BOT.]
+spear saltbush [BOT.]
+spreading orache (or: orach) [BOT.]
+oblong-leaf orache (or: orach) [BOT.]
+hastate orach [BOT.]
+spear-leaved orache (or: orach) [BOT.]
+triangle orache (or: orach) [BOT.]
+common orache (or: orach) [BOT.]
+spear saltbush [BOT.]
+","maximum allowable catch
+allowed posting period
+allowed transition
+speed-limit
+acceptable daily intake [abbr.: ADI] [MED.]
+allowed band [PHYS.]
+permitted band [ELEC.][PHYS.]
+maximum allowable catch
+maximum export
+list of authorizedAE narcotic drugs and psychotropic substanceslist of authorisedBE / authorizedBE narcotic drugs and psychotropic substances
+","smoking
+","effective time
+used portion
+exploited potential [TECH.]
+utilizedAE springutilisedBE / utilizedBE spring
+agricultural land
+agriculturally used area
+utilizedAE agricultural areautilisedBE / utilizedBE agricultural area
+industrial building
+commercial premises pl.
+forested land
+forest road
+land containing allotments
+agricultural area
+agricultural zone
+","legend - story from the past
+saga
+myth
+","stress relief
+stress relaxation
+thermal stress relief [TECH.]
+initial stress in stress relaxation [TECH.]
+","mounted rotary cultivator [TECH.]
+area under cultivation
+organic food
+shaft-end mounted exciter [TECH.]
+","securities bought today pl. [FINAN.]
+","ruling
+governance [POL.]
+","declared value
+explained sum of squares [abbr.: ESS]
+declared intention
+war, whether declared or not [INSUR.]
+","scheduled outage
+planned obsolescence
+planned aggregate expenditure
+outage period
+planned intervals
+quantity to be received
+provisional schedule line
+planned withdrawal
+planned results
+planned product cost (or: costs)
+planned cumulative delivered quantity
+planned resources
+estimated use
+plot - plan to do sth. bad
+","property
+ownership
+possession
+wealth
+tenure
+holding
+holdings
+premises plural noun
+asset
+assets pl.
+occupancy
+tenurial
+acquired property
+seizin or: seisin [LAW]
+",,"reaping
+harvesting [AGR.]
+crop [AGR.]
+harvest [AGR.]
+yield
+harvesting [AGR.]
+emblements plural noun [LAW]
+old crop
+bountiful harvest [AGR.]
+bountiful crop [AGR.]
+bountiful harvest [AGR.]
+new crop [abbr.: NC] [INSUR.]
+poor harvest
+crop loss
+crop-support loan [FINAN.]
+growing crops [AGR.]
+","muss no plural chiefly (Amer.)
+muss no plural chiefly (Amer.)
+necessity
+must
+requisite
+mandatory instruction
+compulsory entry
+shotgun wedding [coll.]
+essential course booking [FINAN.]
+","to sell sth. to so.
+selling [COMM.]
+buying and selling
+cooperativeAE sellingco-operativeBE selling
+tendency to sell
+inclination to sell
+salesmanship
+",,,,"controlled atmosphere [abbr.: CA]
+sanitary landfill
+controlled documents
+controlled burning
+randomizedAE controlled experimentrandomisedBE / randomizedBE controlled experiment
+controlled price [FINAN.]
+administered price [FINAN.]
+controlled dumping [TECH.]
+controlled tipping [TECH.]
+managed enrollmentAE [MIL.]managed enrolmentBE [MIL.]
+controlled currency [FINAN.]
+managed currency [FINAN.]
+managed float [FINAN.]
+managed float [FINAN.]
+","putting a control out of service [TECH.]
+give-and-take basis
+","developed countries pl.
+low-level technology
+sophistication
+less developed countries [abbr.: LDC]
+least developed countries
+advanced economy [ECON.]
+undeveloped storage capacities [TECH.]
+less-developed country [abbr.: LDC] [ECON.]
+naturally developed well [GEOL.]
+evolved melt [GEOL.]
+",
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -2493,7 +3279,150 @@ Sitz im Stadtrat
 angegossener Sitz
 verschiebbarer Sitz
 schlechter Sitz - Kleidungsstück
-",None
+",None,"die Melde pl. Lat.: Atriplex (Gattung)
+die Melde pl. Lat.: Atriplex (Gattung)
+Kahle Melde Lat.: Atriplex glabriuscula
+Kahle Melde Lat.: Atriplex glabriuscula
+Gelappte Melde Lat.: Atriplex laciniata
+Gewöhnliche Melde Lat.: Atriplex patula
+Gewöhnliche Melde Lat.: Atriplex patula
+Gewöhnliche Melde Lat.: Atriplex patula
+Langblättrige Melde Lat.: Atriplex oblongifolia
+Pfeilblättrige Melde Lat.: Atriplex calotheca
+Spießblättrige Melde Lat.: Atriplex prostrata
+Spießblättrige Melde Lat.: Atriplex prostrata
+Spreizende Melde Lat.: Atriplex patula
+Spreizende Melde Lat.: Atriplex patula
+","erlaubte Fanghöchstmenge - Fischfang
+erlaubte Buchungsperiode
+erlaubter Übergang
+erlaubte Höchstgeschwindigkeit
+erlaubte Tagesdosis [abbr.: ETD]
+erlaubtes Band
+erlaubtes Band
+maximal erlaubte Fangmenge - Fischfang
+maximale erlaubte Ausfuhr
+Liste der erlaubten Betäubungsmittel oder psychotropen Stoffe [Drugs]
+","das Rauchen no plural
+","genutzte Betriebszeit
+genutzter Anteil
+genutztes Potenzial (or: Potential)
+genutzte Quelle
+landwirtschaftlich genutzte Fläche
+landwirtschaftlich genutzte Fläche
+landwirtschaftlich genutzte Fläche
+gewerblich genutztes Gebäude
+gewerblich genutzte Räume pl.
+forstwirtschaftlich genutzte Fläche
+forstwirtschaftlich genutzter Weg
+kleingärtnerisch genutztes Land
+landwirtschaftlich genutzte Fläche (or: Flächen)
+landwirtschaftlich genutzte Flächen
+","die Sage pl.: die Sagen
+die Sage pl.: die Sagen
+die Sage pl.: die Sagen - Gerücht
+","das Entspannen no plural
+das Entspannen no plural
+thermisches Entspannen [Plastics]
+Spannung im Moment des Entspannens
+","angebaute Fräse [Machines]
+angebaute Fläche
+biologisch angebaute Lebensmittel
+am Wellenende angebaute Erregermaschine
+","heute gekaufte Wertpapiere pl.
+","das Regieren no plural
+das Regieren no plural
+","erklärter Wert
+erklärte Variation [Statistics]
+erklärter Wille
+Krieg, auch nicht erklärter
+","geplante Nichtverfügbarkeit
+geplante Obsoleszenz
+geplante Gesamtausgaben
+geplante Stillstandszeit
+geplante Abstände
+geplante Bezugsmenge
+geplante Einteilung
+geplante Entnahme
+geplante Ergebnisse
+geplante Herstellkosten pl., no sg.
+geplante Lieferfortschrittszahl
+geplante Mittel
+geplante Nutzung
+geplanter Anschlag
+","der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz no plural
+der Besitz no plural
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+der Besitz pl.: die Besitze
+",,"das Ernten no plural
+das Ernten no plural
+die Ernte pl.: die Ernten
+die Ernte pl.: die Ernten
+die Ernte pl.: die Ernten
+die Ernte pl.: die Ernten
+die Ernte pl.: die Ernten - im Pachtverhältnis
+alte Ernte
+reiche Ernte
+reiche Ernte
+reichliche Ernte
+neue Ernte
+magere Ernte
+Verlust der Ernte
+der Ernte-Unterstützungskredit
+Ernte auf dem Halm
+","das Durcheinander no plural
+der (or: das) Wirrwarr no plural
+das Muss no plural
+das Muss no plural
+das Muss no plural - Notwendigkeit
+die Muss-Anweisung
+die Muss-Eingabe
+die Mussehe or: Muss-Ehe pl.: die Mussehen, die Muss-Ehen
+die Muss-Buchung
+","jmdm. etw.acc. verkaufen
+das Verkaufen no plural
+Kaufen und Verkaufen
+genossenschaftliches Verkaufen
+die Neigung zu verkaufen
+die Neigung zu verkaufen
+Kunst des Verkaufens
+",,,,"kontrollierte Atmosphäre
+kontrollierte Müllablagerung
+kontrollierte Dokumente
+kontrolliertes Abbrennen
+kontrolliertes Zufallsexperiment
+kontrollierter Preis
+kontrollierter Preis
+kontrollierte Müllablagerung
+kontrollierte Müllablagerung
+kontrollierte Rekrutierung
+kontrollierte Währung
+kontrollierte Währung
+kontrollierte Wechselkursfreigabe
+kontrolliertes Floaten - IWF, EZB
+","ein Einstellgerät außer Betrieb nehmen [Machines]
+Grundsatz des Gebens und Nehmens
+","entwickelte Länder pl.
+wenig entwickelte Technik
+hochentwickelter (or: hoch entwickelter) Stand
+wenig entwickelte Länder
+am wenigsten entwickelte Länder
+hoch entwickelte Volkswirtschaft
+nicht entwickelte Speicherkapazitäten
+weniger entwickeltes Land
+natürlich entwickelter Brunnen
+entwickelte leukokrate Schmelze - Geochemie
+",
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -2662,7 +3591,7 @@ genus:
 plural: machen
 meaning: to embolden so.
 to be committed to doing sth.
-",,"article: aus
+",None,"article: aus
 word: der
 genus: 
 plural: geben
@@ -2674,25 +3603,25 @@ genus: FEMI
 plural: die Tonnen - zylindrischer Behälter meist aus Metall
 meaning: tun
 tun
-",,,"article: das
+",None,None,"article: das
 word: Nicht-Ändern-Prinzip
 genus: NEUT
 plural: Nicht-Ändern-Prinzip
 meaning: no-altering principle
 
-",,"article: Der
+",None,"article: Der
 word: Stecken
 genus: NEUT
 plural: Stecken
 meaning: plugging [ELEC.]
 stick
-",,"article: Das
+",None,"article: Das
 word: Fernsehen
 genus: NEUT
 plural: plural
 meaning: television [abbr.: TV]
 TV
-",,,,"article: Der
+",None,None,None,"article: Der
 word: Wunsch
 genus: MASC
 plural: Wünsche
@@ -2704,7 +3633,7 @@ genus: NEUT
 plural: plural
 meaning: alignment rarely: alinement [TECH.]
 sighting [TECH.]
-",,,,"article: gebrauchtes
+",None,None,None,"article: gebrauchtes
 word: Kleidungsstück
 genus: 
 plural: Kleidungsstück
@@ -2716,8 +3645,116 @@ genus: MASC
 plural: Sitze
 meaning: seat
 fit
+",None,"article: Die
+word: Melde
+genus: FEMI
+plural: Melden
+meaning: orache or: orach [BOT.]
+saltbush [BOT.]
+","article: erlaubte
+word: Fanghöchstmenge
+genus: 
+plural: Fischfang
+meaning: maximum allowable catch
+allowed posting period
+","article: Das
+word: Rauchen
+genus: NEUT
+plural: plural
+meaning: smoking
+
+","article: genutzte
+word: Betriebszeit
+genus: 
+plural: Betriebszeit
+meaning: effective time
+used portion
+","article: Das
+word: Sagen
+genus: FEMI
+plural: die Sagen
+meaning: legend - story from the past
+saga
+","article: das
+word: Entspannen
+genus: NEUT
+plural: plural
+meaning: stress relief
+stress relaxation
+","article: angebaute
+word: Fräse
+genus: 
+plural: [Machines]
+meaning: mounted rotary cultivator [TECH.]
+area under cultivation
+","article: heute
+word: gekaufte
+genus: 
+plural: 
+meaning: securities bought today pl. [FINAN.]
+
+","article: das
+word: Regieren
+genus: NEUT
+plural: plural
+meaning: ruling
+governance [POL.]
+","article: erklärter
+word: Wert
+genus: 
+plural: Wert
+meaning: declared value
+explained sum of squares [abbr.: ESS]
+","article: geplante
+word: Nichtverfügbarkeit
+genus: 
+plural: Nichtverfügbarkeit
+meaning: scheduled outage
+planned obsolescence
+","article: Der
+word: Besitz
+genus: MASC
+plural: Besitze
+meaning: property
+ownership
+",,"article: Die
+word: Ernte
+genus: NEUT
+plural: Ernten
+meaning: reaping
+harvesting [AGR.]
+","article: Das
+word: Muss
+genus: NEUT
+plural: plural
+meaning: muss no plural chiefly (Amer.)
+muss no plural chiefly (Amer.)
+","article: jmdm.
+word: etw.acc.
+genus: 
+plural: verkaufen
+meaning: to sell sth. to so.
+selling [COMM.]
+",,,,"article: kontrollierte
+word: Atmosphäre
+genus: 
+plural: Atmosphäre
+meaning: controlled atmosphere [abbr.: CA]
+sanitary landfill
+","article: ein
+word: Einstellgerät
+genus: 
+plural: [Machines]
+meaning: putting a control out of service [TECH.]
+give-and-take basis
+","article: entwickelte
+word: Länder
+genus: 
+plural: 
+meaning: developed countries pl.
+low-level technology
 ",
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -2900,7 +3937,84 @@ long-needed adj.
 ","abandoned adj.
 located in
 cane-bottomed adj.
-",None
+",None,None,"allowable adj.
+admissible adj.
+allowed adj.
+permissible adj.
+permitted adj.
+unprohibited adj.
+tolerable adj.
+not allowed
+as time permits
+",,"used adj.
+practicedAE / practisedBE adj.
+under-utilizedAE adj.under-utilisedBE / under-utilizedBE adj.
+unused adj.
+shared adj.
+fit for agricultural use [AGR.]
+disused adj.
+out of use
+underemployed adj.
+","say adv.
+",,"fitted adj.
+attached adj.
+built-on adj.
+organic adj.
+","bought adj.
+",,"professed - self-acknowledged adj.
+avowed adj.
+illustrated adj.
+manifested adj.
+undefined adj.
+oft-enunciated adj.
+convictable adj.
+dead on arrival [abbr.: DOA]
+","projected - planned adj.
+premeditated - of a crime adj.
+scheduled adj.
+intended adj.
+notional adj.
+plotting adj.
+prearranged adj.
+programmed adj.
+systematic rarely: systematical adj.
+unscheduled adj.
+nonscheduledAE / non-scheduledBE adj.
+as planned
+as scheduled
+according to schedule
+ahead of schedule
+ahead of schedule
+on schedule
+","in the possession of the banks [FINAN.]
+possessory adj.
+in the possession of the State
+in permanent possession
+in full possession
+foreign-controlled adj.
+",,,"if need be
+","for sale
+unmarketable adj.
+",,,,"controlled adj.
+checked adj.
+policed adj.
+state-controlled adj.
+government-controlled adj.
+","tough adj.
+","developed adj.
+developed from adj.
+sophisticated adj.
+highly developed
+advanced adj.
+undeveloped adj.
+undeveloped adj.
+fully-fledged (Brit.) adj.
+mature adj.
+definitive adj.
+fully developed
+newly developed
+depauperate adj. [BIOL.]
+",
 adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -3083,7 +4197,84 @@ seit langem (or: Langem) gebraucht
 ","sitzengelassen or: sitzen gelassen
 mit Sitz in
 mit Sitz aus Rohrgeflecht
-",None
+",None,None,"erlaubt
+erlaubt
+erlaubt
+erlaubt
+erlaubt
+erlaubt
+erlaubt
+nicht erlaubt
+wie es die Zeit erlaubt
+",,"genutzt
+genutzt
+nicht genutzt
+nicht genutzt
+mehrfach genutzt
+landwirtschaftlich genutzt
+nicht mehr genutzt
+nicht mehr genutzt
+nicht voll genutzt
+","sagen wir mal
+",,"angebaut
+angebaut
+angebaut
+biologisch angebaut
+","gekauft
+",,"erklärt
+erklärt
+erklärt
+erklärt
+nicht erklärt
+oft erklärt
+für schuldig erklärt
+bei Einlieferung für tot erklärt
+","geplant
+geplant
+geplant
+geplant
+geplant
+geplant
+geplant
+geplant
+geplant
+nicht geplant
+nicht geplant
+wie geplant
+wie geplant
+wie geplant
+früher als geplant
+schneller als geplant
+wie geplant
+","im Besitz der Banken [Banking]
+Besitz...
+im Besitz des Staates
+in festem Besitz
+in vollem Besitz
+in ausländischem Besitz
+",,,"wenn es sein muss
+","zu verkaufen
+nicht zu verkaufen
+",,,,"kontrolliert
+kontrolliert
+kontrolliert
+staatlich kontrolliert
+von der Regierung kontrolliert
+","hart im Nehmen
+","entwickelt
+entwickelt aus
+hochentwickelt or: hoch entwickelt
+hochentwickelt or: hoch entwickelt
+hochentwickelt or: hoch entwickelt
+nicht entwickelt
+schlecht entwickelt
+voll entwickelt
+vollentwickelt or: voll entwickelt
+vollentwickelt or: voll entwickelt
+vollentwickelt or: voll entwickelt
+neuentwickelt or: neu entwickelt
+schlecht entwickelt
+",
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -3634,6 +4825,87 @@ to be in a jam
 to be left in the lurch
 to be in the starting blocks [fig.]
 ","The laugh is always on the loser.
+",None,"anything goes
+All's fair in love and war.
+All is fair in love and war.
+beyond the pale [fig.]
+Excuse me!
+How dare you!
+","no smoking
+smoking is forbidden
+You can forget about that.
+","to let no grass grow under one's feet
+sth. is of little use (to so.)
+","to be in authority
+to be in the driver's seat
+let's say ...
+to call the shots [coll.]
+to be top dog [coll.]
+to say sth. in a roundabout way
+Let's put it this way ...
+I daresay
+if you will pardon the expression
+if you will pardon my saying so
+Watch what you say!
+that's one way of putting it
+In for a penny, in for a pound. (Brit.)
+you may thank your stars
+",,,"to buy sth. off the peg [coll.]
+to buy a pig in a poke
+to buy sth. for peanuts
+to buy sth. for a song
+","to rule with an iron hand
+Money talks
+A golden key can open any door.
+","Let's back up. (Amer.) [coll.]
+",,,,"to win laurels for sth. [fig.]
+They sow the wind and reap the whirlwind.
+You reap what you sow.
+","a must-see
+a must-see
+a must-have
+a must have
+an absolute must
+Must fly!
+Give him his due.
+a must for anyone
+so. cannot help doing sth.
+Things have come to a pretty pass.
+something has to give
+something's got to give
+Do you mind? - ironic
+Don't mind me!
+","house for sale
+",,,"There'll be trouble!
+... are a dime a dozen (Amer.)
+... are thick on the ground [coll.]
+There are no two ways about it.
+There's no two ways about it.
+What's the news?
+and what have you
+there is bound to be ...
+there's always a first time
+there is no accommodating so.
+and whatnot [coll.]
+Get out of here! [coll.]
+Get out of town! (Amer.) [coll.]
+What's the news?
+",,"Have a seat.
+to take to one's heels
+to get one's teeth into sth.
+to pull so.'s chain (Amer.) [coll.]
+to yank so.'s chain (Amer.) [coll.]
+to pull so.'s leg [fig.]
+to have so. on (Brit.) [coll.]
+to pull so.'s leg [fig.]
+to heckle so. | heckled, heckled |
+to examine sth. carefully
+to check so./sth. out (Amer.) [coll.]
+to grill so. | grilled, grilled | [fig.]
+let us assume
+let us suppose
+",,"sth. is no skin off one's nose
+Don't mind me!
 "
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
@@ -4185,6 +5457,87 @@ in der Patsche sitzen [fig.]
 in der Patsche sitzen [fig.]
 in den Startlöchern sitzen [fig.]
 ","Wer den Schaden hat, braucht für den Spott nicht zu sorgen.
+",None,"erlaubt ist, was gefällt
+In der Liebe und im Krieg ist alles erlaubt.
+In der Liebe und im Krieg ist alles erlaubt.
+jenseits der Grenzen des Erlaubten
+Erlauben Sie mal!
+Was erlauben Sie sich!
+","Rauchen verboten
+Rauchen verboten
+Das kannst du in der Pfeife rauchen.
+","die Zeit nutzen
+etw.nom. nutzt (jmdm.) wenig
+","das Sagen haben
+das Sagen haben
+sagen wir ...
+das Sagen haben
+das Sagen haben
+etw.acc. durch die Blume sagen [fig.]
+Sagen wir mal so ...
+ich wage zu sagen
+mit Verlaub zu sagen
+mit Verlaub zu sagen
+Passen Sie auf, was Sie sagen!
+so kann man es auch sagen
+Wer A sagt, muss auch B sagen.
+da kannst du von Glück sagen
+",,,"etw.acc. von der Stange kaufen [coll.]
+die Katze im Sack kaufen
+etw.acc. für einen Appel und ein Ei kaufen [fig.]
+etw.acc. für einen Appel und ein Ei kaufen [fig.]
+","mit eiserner Hand regieren
+Geld regiert die Welt
+Geld regiert die Welt.
+","Lass mich das erklären.
+",,,,"für etw.acc. Lorbeeren ernten [fig.]
+Wer Wind sät, wird Sturm ernten.
+Man erntet, was man sät.
+","ein Muss
+ein Muss - Sache, die man unbedingt gesehen haben muss
+ein Muss - Sache, die man unbedingt haben muss
+ein absolutes Muss
+ein absolutes Muss
+Muss schon wieder los!
+Das muss man ihm lassen.
+ein Muss für jeden
+jmd. muss etw.acc. unbedingt tun
+Es muss schon sehr weit gekommen sein.
+es muss endlich etwas passieren
+es muss endlich etwas passieren
+Ich muss doch sehr bitten!
+Ich muss doch sehr bitten!
+","Haus zu verkaufen
+",,,"Das gibt Stunk! [coll.]
+... gibt es wie Sand am Meer
+... gibt es wie Sand am Meer
+Daran gibt es gar keinen Zweifel.
+Daran gibt es gar keinen Zweifel.
+Was gibt es Neues?
+und was es sonst noch alles gibt
+es gibt bestimmt ...
+es gibt immer ein erstes Mal
+es gibt keinen Weg, sich mit jmdm. zu einigen
+was es sonst noch gibt
+Das gibt's ja nicht! [coll.]
+Das gibt's ja nicht! [coll.]
+Was gibt's Neues?
+",,"Bitte nehmen Sie Platz.
+Reißaus nehmen
+etw.acc. in Angriff nehmen
+jmdn. auf den Arm nehmen [coll.]
+jmdn. auf den Arm nehmen [coll.]
+jmdn. auf den Arm nehmen [fig.]
+jmdn. auf den Arm nehmen [fig.]
+jmdn. auf die Schippe nehmen [fig.]
+jmdn. in die Zange nehmen [fig.]
+etw.acc. unter die Lupe nehmen [fig.]
+jmdn./etw. unter die Lupe nehmen [fig.]
+jmdn. in die Mangel nehmen [fig.] [coll.]
+nehmen wir einmal an
+nehmen wir einmal an
+",,"etw.nom. stört jmdn. nicht infinitive: stören
+Lass dich nicht stören!
 "
 examples,english,"Do you belong here?
 Where do you live?
@@ -4774,6 +6127,110 @@ will take about 20 days
 will take at least 3 days
 You needn't do it.
 You're certain to need help.
+","She's a nobody.
+","enables data to be circulated
+not permitted in Germany
+Allow me to introduce myself.
+allow us to inform you
+May I take the liberty of ...?
+He gets away with everything.
+","Have a smoke?
+Do you mind if I smoke?
+Do you object to my smoking?
+All the men in the room were smoking.
+All of the men in the room were smoking.
+He likes the occasional cigar.
+","facilities unused so far
+May I use this opportunity to ...?
+may we use this opportunity to
+unable to make use of
+","please tell me
+He has no say.
+I felt impelled to say it.
+Can you give me a heads up?
+There's something I've got to tell you.
+There's something that I've got to tell you.
+not to mince matters
+Whatever it is, you can tell me.
+I can't tell you off-hand.
+He has a say in the matter.
+He has no say in the matter.
+I dare say (or: daresay) ...
+I could not have said this better myself.
+I dare say (or: daresay) ...
+",,,"Who did you buy these flowers for?
+Please buy for our account ...
+A fat lot of use that is to me. [coll.]
+We buy at competitive prices.
+We buy our goods wholesale.
+We will pay by installmentsAE [FINAN.]We will pay by instalmentsBE [FINAN.]
+",,"have been adjudged bankrupt
+have been adjudged insolvent
+as per statement below
+have declared themselves bankrupt
+a professed socialist
+Mr Fisher is an avowed Marxist.
+difficult to explain
+We would be glad to have your explanation.
+I can give no account of it.
+He will explain matters to you.
+","We are planning a fair.
+","I haven't a penny to my name.
+",,,"If a student fails this exam, he or she has to leave the university.
+If a student fails this exam, they have to leave the university.
+must at least
+she has to
+Need he do it?
+must correspond to the sample enclosed
+must be reassessed
+must be divisible by three
+must clearly indicate
+must be strictly adhered to
+is to be published each year
+must be readily sellable
+must be at least as high as
+You've got to hand it to him.
+","We intend to sell our goods overseas.
+We have goods on sale.
+We will dispose of the goods at a profit.
+these goods sell well
+in a hurry to sell
+We sell at the best price we can obtain.
+We sell to the trade only.
+will find a ready market
+his books sold poorly
+",,"it works
+","Is there such a thing?
+Is there such a thing?
+Are there any ...?
+Is there anything I can get you?
+Is there anything that I can get you?
+gives us an opportunity to
+Do you get much snow here in winter?
+There are numerous examples of it.
+There's no such thing.
+What is the news?
+That's no laughing matter.
+That's not funny.
+There's little evidence to go by.
+Can I talk to you for a second? - Yes, what's up?
+",,"Do sit down.
+Choose any seat you like.
+Accept this as a token of my esteem.
+I had her sit down.
+Do sit down.
+presumably you would like to
+Why should I take the blame?
+have recourse to arbitration
+please accept this token of my esteem
+We take supplies into stocks.
+We take bulk supplies.
+He took her by the hand.
+please contact
+He wouldn't give it house-room.
+","nations which are less developed
+while events were unfolding
+","will not interfere with our good relations
 "
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -5363,4 +6820,108 @@ wird etwa 20 Tage brauchen
 wird wenigstens 3 Tage brauchen
 Du brauchst es nicht zu tun.
 Du brauchst unbedingt Hilfe.
+","Sie hat nichts zu melden.
+","erlaubt die Weitergabe der Daten
+in Deutschland nicht erlaubt
+Erlauben Sie mir, mich vorzustellen.
+erlauben Sie uns Ihnen mitzuteilen
+Darf ich mir erlauben ...?
+Er kann sich alles erlauben.
+","Willst du rauchen?
+Haben Sie etwas dagegen, wenn ich rauche?
+Haben Sie etwas dagegen, wenn ich rauche?
+Alle Männer im Zimmer rauchten.
+Alle Männer im Zimmer rauchten.
+Er raucht gelegentlich ganz gern eine Zigarre.
+","bislang nicht genutzte Anlagen
+Darf ich diese Gelegenheit nutzen, um ...?
+dürfen wir diese Gelegenheit nutzen, um
+nicht imstande (or: im Stande) zu nutzen
+","sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+Können Sie mir vorher Bescheid sagen?
+Es gibt etwas, was ich dir sagen muss.
+Es gibt etwas, was ich dir sagen muss.
+es ohne Umschweife sagen
+Was auch immer es ist, du kannst es mir sagen.
+Auswendig kann ich Ihnen nichts sagen.
+Er hat etwas dabei zu sagen.
+Er hat in dieser Sache nichts zu sagen.
+Ich wage zu sagen ...
+Das hätte ich nicht besser sagen können.
+Ich darf wohl sagen ...
+",,,"Für wen hast du diese Blumen gekauft?
+Bitte kaufen Sie auf unsere Rechnung ...
+Dafür kann ich mir nichts kaufen.
+Wir kaufen zu konkurrenzfähigen Preisen.
+Wir kaufen unsere Ware im Großhandel.
+Wir werden auf Raten kaufen
+",,"sind Bankrott erklärt worden
+sind zahlungsunfähig erklärt worden
+wie unten näher erklärt
+haben sich für zahlungsunfähig erklärt
+ein erklärter Sozialist
+Herr Fisher ist ein erklärter Marxist.
+schwer zu erklären
+Bitte erklären Sie es uns.
+Ich kann es nicht erklären.
+Er wird Ihnen die Sache erklären.
+","Wir planen eine Messe.
+","Ich besitze keinen Pfennig.
+",,,"Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+muss wenigstens
+sie muss
+Muss er es tun?
+muss beiliegendem Muster entsprechen
+muss bereinigt werden
+muss durch 3 teilbar sein
+muss eindeutig anzeigen
+muss genau eingehalten werden
+muss jährlich veröffentlicht werden
+muss leicht veräußerlich sein
+muss mindestens so hoch sein wie
+Das muss man ihm lassen.
+","Wir beabsichtigen, unsere Ware in Übersee zu verkaufen.
+Wir haben Ware zu verkaufen.
+Wir werden unsere Waren mit Gewinn verkaufen.
+diese Waren lassen sich leicht verkaufen
+in Eile etw.acc. zu verkaufen
+Wir verkaufen zum besten Preis.
+Wir verkaufen nur an Wiederverkäufer.
+wird sich leicht verkaufen
+seine Bücher verkauften sich schlecht
+",,"es funktioniert
+","Gibt es so etwas?
+Gibt es so was?
+Gibt es ...?
+Gibt es etwas, was ich dir besorgen kann?
+Gibt es etwas, was ich dir besorgen kann?
+gibt uns Gelegenheit zu
+Gibt es im Winter hier viel Schnee?
+Beispiele dafür gibt es zuhauf.
+So etwas gibt es nicht.
+Was gibt es Neues?
+Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Dafür gibt es wenig Beweise.
+Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
+",,"Nehmen Sie doch Platz. infinitive: Platz nehmen
+Nehmen Sie Platz, wo Sie möchten.
+Nehmen Sie dies als Zeichen meiner Wertschätzung an.
+Ich ließ sie Platz nehmen.
+Nimm doch Platz. infinitive: Platz nehmen
+wir nehmen an, Sie hätten gerne
+Warum sollte ich die Schuld auf mich nehmen?
+das Schiedsverfahren in Anspruch nehmen
+bitte nehmen Sie das als Zeichen meiner Wertschätzung an
+Wir nehmen Ware auf Lager.
+Wir nehmen Ware in großen Mengen herein.
+Er nahm ihre Hand.
+bitte nimm Kontakt auf
+Er nähme es nicht geschenkt.
+","weniger entwickelte Länder
+während sich die Ereignisse entwickelten
+","unsere guten Beziehungen nicht stören
 "

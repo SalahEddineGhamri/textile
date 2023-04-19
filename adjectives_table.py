@@ -36,6 +36,10 @@ class AdjectivesCache(pd.DataFrame):
         self.fillna(value="None", inplace=True)
         self.lock = Lock()
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(ADJECTIVES_CACHE_FILE, index_col=['aspects', 'language']))
+
     def cache(self):
         with self.lock:
             try:
@@ -59,15 +63,12 @@ class AdjectivesCache(pd.DataFrame):
                 new_noun = nouns_definition_parser('adjectives_table', key)
 
                 if new_noun is not None:
-                    if new_noun['adjectives_or_adverbs'] is not None:
-                        self[key] = pd.Series(index=self.index, dtype='object')
-                        for aspect, languages in new_noun.items():
-                            if languages is not None:
-                                self.loc[(aspect, 'english'), key] = languages[0]
-                                self.loc[(aspect, 'german'), key] = languages[1]
-                        return super().loc[(slice(None), slice(None)), key]
-                    else:
-                        return None
+                    self[key] = pd.Series(index=self.index, dtype='object')
+                    for aspect, languages in new_noun.items():
+                        if languages is not None:
+                            self.loc[(aspect, 'english'), key] = languages[0]
+                            self.loc[(aspect, 'german'), key] = languages[1]
+                    return super().loc[(slice(None), slice(None)), key]
                 else:
                     return None
 

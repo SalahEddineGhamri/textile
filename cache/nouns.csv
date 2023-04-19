@@ -1,4 +1,4 @@
-aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Richter,Monat,Gericht,Fall,Staatsanwalt,Strafprozess,Strafe,Geschäftsunterlagen,Stadt,Verbotenes,Wahl,Land,Januar,Präsident,Gerichtstermin,Wahrheit, Bündnis,Mitgliedsländer, Quartier,Hauptquartier,Russland,Militär,Mitglied,Nato,Mitglieds,Erweiterung,General,Generalsekretär,Beitritt, Länder,Militärbündnis,Fahne, Mitglied,Haupt,Länder,Regierung,Mitglieder, Sekretär,Feier,Schriftsteller,Krieg, Musik,Millionen,Soldat,Welt, Führung, Krieg,Westen, Salon, Preisen, Bild,Filmpreisen,Waschsalon,Kamera,Jahr,Besitzerin,Szenen,Kameraführung,Menschen,Grippe,Fieber,Alternative,Kinder,Essen,Besserung,Rezept,leben,Sohn,Viren,Podcast,Husten,Erkältung,Saft,Dialog,Moderatoren,Winter,Morgen,Zeit,Mühe,Wochen
+aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Richter,Monat,Gericht,Fall,Staatsanwalt,Strafprozess,Strafe,Geschäftsunterlagen,Stadt,Verbotenes,Wahl,Land,Januar,Präsident,Gerichtstermin,Wahrheit, Bündnis,Mitgliedsländer, Quartier,Hauptquartier,Russland,Militär,Mitglied,Nato,Mitglieds,Erweiterung,General,Generalsekretär,Beitritt, Länder,Militärbündnis,Fahne, Mitglied,Haupt,Länder,Regierung,Mitglieder, Sekretär,Feier,Schriftsteller,Krieg, Musik,Millionen,Soldat,Welt, Führung, Krieg,Westen, Salon, Preisen, Bild,Filmpreisen,Waschsalon,Kamera,Jahr,Besitzerin,Szenen,Kameraführung,Menschen,Grippe,Fieber,Alternative,Kinder,Essen,Besserung,Rezept,leben,Sohn,Viren,Podcast,Husten,Erkältung,Saft,Dialog,Moderatoren,Winter,Morgen,Zeit,Mühe,Wochen,Wartezimmer,Text,Danke,Radio,Tage,Katze,Dialoges,Schnupfen,Arbeit,Spaziergang,Glück,Gefühl,Getränke,Attest,Kopfweh,Wunder,Kontakt,Kind,Kinderarzt,Bleib,Schmerzmittel,Schule,Medikamente,Tag,Schmerzen,Arzt,Nachrichten,Geschichte,Pflanzen, Mittel,Chemie, Vertrag,Bundesregierung,Verkauf,Parteien,Gehirn,Sand,Drogenhändler,Leute,Zucker, Händler,Blätter,Beispiel,Streit,Bedingungen,Rausch,Cannabis,Erlaubnis,Koalitionsvertrag, Minister,Drogenhändlern,Fachleute,Droge,Geschäfte,Teile,Gewürze,Ärzte,Vereine, Regierung,Gesundheits,Gegenden,Pflanze,Moment,Angst,Drogen,Gesundheitsminister,Erwachsene,Qualität,Hause
 basic_forms,english,None,"das Jahr : Noun
 ","das Jahr : Noun
 ",None,None,None,"das Elter : Noun
@@ -25,8 +25,47 @@ wesen : Verb
 ",None,None,None,"sich mühen : Verb
 mühen : Verb
 ","die Woche : Noun
+",None,None,"danken : Verb
+",None,"der Tag : Noun
+tagen : Verb
+tagen : Verb
+",None,"der Dialog : Noun
+",None,None,None,None,None,"das Getränk : Noun
+",None,None,"wund : Adjective
+wund : Adjective
+",None,"das Kindchen : Noun
+",None,None,None,"sich schulen : Verb
+schulen : Verb
+","das Medikament : Noun
+",None,"der Schmerz : Noun
+",None,"die Nachricht : Noun
+",None,"die Pflanze : Noun
+",None,None,None,None,None,"die Partei : Noun
+",None,None,None,None,None,None,"das Blatt : Noun
+",None,None,"die Bedingung : Noun
+",None,None,None,None,None,"der Drogenhändler : Noun
+","der Fachmann : Noun
+",None,"das Geschäft : Noun
+","das Teil : Noun
+der Teil : Noun
+sich teilen : Verb
+sich teilen : Verb
+sich teilen : Verb
+teilen : Verb
+","das Gewürz : Noun
+","der Arzt : Noun
+","der Verein : Noun
+vereinen : Verb
+sich vereinen : Verb
+sich vereinen : Verb
+",None,None,"die Gegend : Noun
+","sich pflanzen : Verb
+pflanzen : Verb
+",None,None,"die Droge : Noun
+",None,"erwachsen : Adjective
+",None,"hausen : Verb
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,,None,None,None,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,"to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
@@ -477,6 +516,508 @@ to have a hard time doing sth.
 to ask for a week's leave
 to have a week-long party
 to have one day a week off
+",None,"to text so. | texted, texted |
+to text so. | texted, texted | [coll.]
+to text so. | texted, texted | [coll.]
+to text | texted, texted | [coll.] [TELECOM.]
+to text | texted, texted | [coll.] [TELECOM.]
+to scroll | scrolled, scrolled |
+to abbreviate a text
+to abridge a text
+to skim over a text
+to reshape a text
+to modify a text
+to feed so. his lines [THEA.]
+to text message (or: text-message) so. [TELECOM.]
+to send so. a text message
+","to thank so. (for sth.) | thanked, thanked |
+","to radio | radioed, radioed | [TECH.]
+to listen in
+to tune in (Amer.)
+to announce over the radio
+to hear sth. on the radio
+","to hold a meeting
+to meet | met, met |
+to sit | sat, sat |
+to come to light
+to emerge | emerged, emerged |
+to become evident
+to surface | surfaced, surfaced |
+to appear | appeared, appeared |
+to work underground
+to unearth sth. | unearthed, unearthed |
+to surface | surfaced, surfaced |
+to run into the ground
+to quarry sth. | quarried, quarried | [fig.]
+to outcrop | outcropped, outcropped | [TECH.]
+","to lead a cat-and-dog life
+",None,"to take snuff
+to snuff | snuffed, snuffed |
+to snort sth. | snorted, snorted |
+to sniff | sniffed, sniffed |
+to catch a cold
+to catch a cold
+","to look for a job
+to look for work
+to seek employment
+to seek work
+to carry out work
+to execute work
+to perform work
+to do work
+to assign work
+to accept a job
+to resume work
+to go to work
+to go to work - by car
+to lay down a tool
+","to go for a walk
+to go for a stroll
+","to be lucky
+to be fortunate
+to be in luck
+to strike it lucky
+to strike lucky
+to bring (so.) good luck
+to bring (so.) luck
+to trust to luck
+to be aglow with happiness
+to try one's luck
+to be out of luck
+to browse | browsed, browsed |
+to trust to luck
+to have a flutter (Brit.) [coll.]
+to be in luck
+","to have a hunch
+to have the feeling that ...
+to offend sensibilities
+to play around with so.'s feelings
+to deal with so.'s emotions
+to feel queasy
+to have the dim feeling that ...
+to have a hunch (that ...) - have a premonition
+to shut down emotionally
+to act out one's feelings
+to be calm and collected
+to be cool
+to have mixed feelings about sth.
+to repress one's feelings
+","to serve drinks
+to cater (for so./sth.) | catered, catered |
+","to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested |
+to attest sth. | attested, attested | - certify the validity of sth.
+to attest to sth. - bear witness
+to attest to sth.
+to attest to sth.
+to attest to sth.
+to attest to sth.
+","to have a headache
+","to work wonders
+sth. astonishes so. infinitive: astonish
+to gall | galled, galled |
+to chafe | chafed, chafed |
+to get bedsores
+to develop bedsores on the back
+to get bedsores on the back
+to excoriate | excoriated, excoriated | [MED.]
+to excoriate | excoriated, excoriated | [MED.]
+to apply a tourniquet above a wound
+to apply a tourniquet below a wound
+to dress a wound [MED.]
+to swab a wound [MED.]
+to scar so. | scarred, scarred |
+","to stay in touch (with so.)
+to break tie
+to make contact
+to approach so. | approached, approached |
+to keep in touch (with so.)
+to get in touch with so.
+to make contact with so.
+to contact so. | contacted, contacted |
+to get in touch with so.
+to make contact with so.
+to expose so. to sth.
+to establish contact
+to hobnob | hobnobbed, hobnobbed |
+to forge links
+to socializeAE with so. to socialiseBE / socializeBE with so.
+to mingle with people
+","to conceive a child
+to change a baby's diaper (or: diapers) (Amer.)
+to change a baby's nappy (or: nappies) (Brit.)
+to change a baby
+to have a baby
+to be expecting - a baby
+to bathe a child
+to deliver a baby
+to bear a child
+to hold a child over the ground to let it eliminate
+to carry a child to term
+to adopt a child
+to bring up a child
+to rear a child
+",None,None,None,"to instruct | instructed, instructed |
+to train so. | trained, trained |
+to educate so. | educated, educated |
+to school so. (in sth.) | schooled, schooled | - train, discipline (Amer.)
+to play truant
+to play hooky
+to be truant
+to attend a school
+to do the school run for so. (Brit.)
+to form a precedent
+to bunk off school (Brit.) [coll.]
+to cut (school) | cut, cut | [coll.] (Amer.)
+to drop out of school [coll.]
+to skip school
+","to be drugged up to the eyeballs - with medicine
+","to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag sth. | tagged, tagged |
+to tag along
+to tag along (with so.)
+to tag sth. to sth.
+to have a day off
+to sleep away the day
+to appoint a day
+to appoint a day (for sth.)
+","to hurt | hurt, hurt |
+to ache | ached, ached |
+to smart | smarted, smarted |
+to be painful
+to pain | pained, pained |
+to ail | ailed, ailed |
+to rankle | rankled, rankled |
+to smart from sth.
+sth. grieves so. infinitive: grieve
+to suffer pain
+to be in pain
+to ail | ailed, ailed |
+to cause pain
+to bear up against pain
+","to seek a doctor's advice
+to seek medical advice
+to see a doctor
+to see a doctor
+to practiseAE / practiceAE medicine to practiseBE medicine
+to send for the doctor
+to seek a doctor's advice
+to seek a doctor's advice
+to seek medical advice [MED.]
+to take medical advice [MED.]
+","to realign sth. | realigned, realigned |
+to unbend sth. | unbent, unbent |
+to reshape | reshaped, reshaped | [TECH.]
+to leave a message
+to get a message
+to message | messaged, messaged |
+to send a message
+to pick up a message
+to deliver a message
+to transmit a message
+to text so. | texted, texted |
+to break the news to so.
+to have word from so.
+to furnish information
+to text | texted, texted | [coll.] [TELECOM.]
+to text message (or: text-message) so. [TELECOM.]
+","to make history
+to make history
+to corroborate a story
+to make up a story
+to cook up a story [fig.]
+to go down in history
+to consign sth. to history
+to appeal to history
+to fudge a story
+to put the wheel of history into reverse
+","to plant sth. | planted, planted |
+to dibble | dibbled, dibbled |
+to classify plants [BOT.]
+to plant oneself somewhere
+to plonk oneself somewhere (Brit.)[coll.]
+to accelerate the growth of a plant
+","to provide means
+to apply for funds
+to transfer funds
+to withdraw funds
+to consolidate funds
+to pool funds
+to raise funds [FINAN.]
+to raise funds [FINAN.]
+to make funds available [FINAN.]
+to appropriate funds [FINAN.][POL.]
+to release funds [FINAN.]
+to generate cash [FINAN.]
+to obtain funds [FINAN.]
+to appropriate funds [FINAN.]
+",None,"to perform a contract
+to conclude a contract
+to contract | contracted, contracted |
+to conclude an agreement
+to form a contract
+to dispose | disposed, disposed |
+to enter a contract
+to indent | indented, indented |
+to accept a contract
+to affirm a contract
+to approve an agreement
+to fulfillAE a contract to fulfilBE a contract
+to contract out of an agreement
+to cancel a contract
+",None,"to put up for sale
+to close a sale
+to effect a sale
+to make a sale
+to push the sale
+to be up for sale
+to display for sale
+to display for sale
+to come up for sale
+to be up for sale
+to declare sth. for sale
+to keep sth. for sale
+to keep sth. for sale
+to conclude a sale [FINAN.]
+","to arbitrate between parties
+to deal between parties [POL.]
+to take sides (with so.)
+to join a party
+to take so.'s part
+to support a party
+to align oneself with a party
+to take against so.
+to side with so.
+to align oneself with a party
+to quit a party [POL.]
+to charge expenses to the parties [LAW]
+to hear the parties of the dispute
+to pair with [fig.] [POL.]
+","to tax one's brain
+","to sand | sanded, sanded |
+to sand | sanded, sanded |
+to sand | sanded, sanded |
+to sand | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand sth. | sanded, sanded |
+to sand up
+to sand sth. down
+to sand sth. ⇔ down
+to sand sth. ⇔ down
+",None,"to ruffle feathers [fig.]
+to hobnob | hobnobbed, hobnobbed |
+to mingle | mingled, mingled |
+to socializeAE to socialiseBE / socializeBE | socialized, socialized / socialised, socialised |
+to bandy sth. about
+to set people against each other
+to offend sensibilities
+to look to one's own
+to leverage the talents of people
+to do little socializingAE to do little socialisingBE / socializingBE
+to live with other people
+to mingle with people
+to try to suit everybody
+to wash one's dirty laundry in public
+to wash one's dirty linen in public
+","to mull sth. | mulled, mulled | - a beverage, e.g. wine [COOK.]
+",None,"to foliate | foliated, foliated |
+to sing (sth.) at sight
+to sight-read | sight-read, sight-read | [MUS.]
+to sight-read | sight-read, sight-read | [MUS.]
+to feather | feathered, feathered | [SPORT.]
+to roll up [SPORT.]
+to rollup | rolluped, rolluped | [SPORT.]
+to sight-read | sight-read, sight-read | [MUS.]
+to sing sth. at sight [MUS.]
+to play sth. at sight [MUS.]
+to go limp
+to insert a sheet of paper
+to fly up [SPORT.]
+to sky | skied, skied | [SPORT.]
+","to follow suit
+to quote an example
+to follow the lead
+to give an example
+to set an example
+to cite an example
+to instance so./sth. | instanced, instanced |
+to take sth. as an example
+to learn a lesson from so.
+to cite sth. as an example
+to exemplify sth. | exemplified, exemplified |
+to be indicative of sth.
+to exemplify | exemplified, exemplified |
+to set a good example
+","to spoil for a fight
+to start a quarrel (with so.)
+to raise a quarrel
+to settle a dispute
+to settle a difference
+to arrange a quarrel
+to settle a dispute
+to pick a fight with so.
+to pick a quarrel with so.
+to be asking for trouble [coll.]
+to feud with so.
+to be in conflict with so.
+to settle an argument for keeps
+to pick a quarrel
+to arbitrate in a dispute
+","to arrange terms
+to arrange terms
+to meet conditions
+to refuse terms
+to dispose | disposed, disposed |
+to yield to so.'s terms
+to accept the terms
+to agree to the terms
+to close with terms
+to arrange the terms of
+to negotiate the terms
+to affect the conditions
+to be subject to conditions
+to agree to the terms
+","to be drunk
+to be intoxicated
+",None,"to grant | granted, granted |
+to grant leave [LAW]
+to ask so. for permission
+to ask leave of so.
+to ask so.'s permission
+to ask so.'s permission to do sth.
+to grant a permit
+to be allowed to do sth.
+",None,"to minister (to so.) | ministered, ministered |
+to minister | ministered, ministered |
+to minister to so.
+to minister | ministered, ministered | [REL.]
+",None,None,"to cane in
+to do drugs
+to take drugs
+to use drugs
+to peddle drugs
+to be on drugs
+to be stoned [fig.]
+to be drugged up to the eyeballs - with illegal substances
+","to transact business
+to transact business
+to wind up affairs
+to bargain | bargained, bargained |
+to conduct transactions
+to continue proceedings
+to do business (with so.) [COMM.]
+to conduct business [COMM.]
+to do business [COMM.]
+to transact business
+to carry out a transaction
+to establish a business
+to open a business
+to launch a business
+","to share sth. (with so.) | shared, shared |
+to divide sth. | divided, divided |
+to split sth. | split, split |
+to cleave | cleft/cleaved/clove, cleft/cleaved/cloven |
+to intersect | intersected, intersected |
+to bisect | bisected, bisected |
+to graduate | graduated, graduated |
+to divide | divided, divided |
+to split up
+to split | split, split |
+to bisect | bisected, bisected |
+to furcate | furcated, furcated |
+to part sth. | parted, parted | - divide into parts
+to sever sth. | severed, severed |
+","to mull sth. | mulled, mulled | - a beverage, e.g. wine [COOK.]
+","to seek a doctor's advice
+to seek medical advice
+to see a doctor
+to see a doctor
+to practiseAE / practiceAE medicine to practiseBE medicine
+to send for the doctor
+to seek a doctor's advice
+to seek a doctor's advice
+to seek medical advice [MED.]
+to take medical advice [MED.]
+","to meld | melded, melded |
+to synergizeAE sth. | synergized, synergized / synergised, synergised | - e.g. efforts to synergiseBE / synergizeBE sth. - e.g. efforts
+to unite so./sth. | united, united |
+to combine sth. (with sth.) | combined, combined |
+to join sth. | joined, joined |
+to unify sth. | unified, unified |
+to resign from a club
+to register a club
+to join a club
+","to bring down a government
+to suspend a government
+to overturn a government [POL.]
+to overthrow a government [fig.] [POL.]
+",None,"to fire all over the place
+","to plant sth. | planted, planted |
+to dibble | dibbled, dibbled |
+to classify plants [BOT.]
+to plant oneself somewhere
+to plonk oneself somewhere (Brit.)[coll.]
+to accelerate the growth of a plant
+","to hold one's fire [fig.]
+to live for the moment
+to pause for a moment
+to have a senior moment
+to wait until the last moment
+to act on the spur of the moment
+to drop the ball (Amer.) [fig.]
+to act in the heat of the moment [LAW]
+","to be afraid (of so./sth.)
+to frighten so. | frightened, frightened |
+to be frightened (of so./sth.)
+to be scared (of sth.)
+to take fright (at sth.)
+to become scared
+to get so. scared
+to scare so. | scared, scared |
+to scare so. | scared, scared |
+to hector so. | hectored, hectored |
+to allay so.'s fears
+to allay so.'s fear
+to shake in one's boots
+to shake in one's shoes
+","to cane in
+to do drugs
+to take drugs
+to use drugs
+to peddle drugs
+to be on drugs
+to be stoned [fig.]
+to be drugged up to the eyeballs - with illegal substances
+",None,None,"to identify quality
+","to dwell | dwelled/dwelt, dwelled/dwelt |
+to live | lived, lived |
+to reside | resided, resided |
+to stay in
+to come home
+to get home
+to be in
+to go home
+to walk so. home
+to eat in
+to stay in
+to see so. home
+to arrive home
+to arrive at home
 "
 verbs,german,"etw.acc. benennen | benannte, benannt |
 etw.acc. bezeichnen | bezeichnete, bezeichnet |
@@ -928,6 +1469,508 @@ Mühe haben, etw.acc. zu tun
 sichacc. eine Woche beurlauben lassen
 eine ganze Woche durchfeiern
 einen Tag in der Woche freihaben (or: frei haben)
+",None,"jmdm. eine Nachricht schreiben
+jmdm. eine SMS schicken
+jmdm. eine SMS schreiben
+simsen | simste, gesimst | [coll.] - Ableitung von SMS [Mobile Communications]
+eine SMS-Nachricht senden [Mobile Communications]
+Text rollen
+einen Text kürzen
+einen Text kürzen
+einen Text überfliegen
+einen Text umschreiben
+einen Text ändern
+jmdm. (den Text) soufflieren | soufflierte, souffliert |
+jmdm. eine SMS-Nachricht senden [Mobile Communications]
+jmdm. eine SMS schicken
+","jmdm. (für etw.acc.) danken | dankte, gedankt |
+","funken | funkte, gefunkt |
+Radio hören
+Radio hören
+im Radio durchgeben
+etw.acc. im Radio hören
+","tagen | tagte, getagt |
+tagen | tagte, getagt |
+tagen | tagte, getagt |
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+zutage (or: zu Tage) treten
+untertage (or: unter Tage) arbeiten
+etw.acc. zutage (or: zu Tage) fördern
+über Tage steigen
+unter Tage verbringen
+etw.acc. zutage (or: zu Tage) fördern [fig.]
+zutage (or: zu Tage) treten
+","wie Hund und Katze leben
+",None,"schnupfen | schnupfte, geschnupft |
+schnupfen | schnupfte, geschnupft |
+etw.acc. schnupfen | schnupfte, geschnupft |
+schnupfen | schnupfte, geschnupft |
+einen Schnupfen bekommen
+sichdat. einen Schnupfen holen [coll.]
+","Arbeit suchen
+Arbeit suchen
+Arbeit suchen
+Arbeit suchen
+Arbeit ausführen
+Arbeit ausführen
+Arbeit ausführen
+Arbeit verrichten
+Arbeit zuweisen
+eine Arbeit annehmen
+die Arbeit wiederaufnehmen (or: wieder aufnehmen)
+zur Arbeit gehen
+zur Arbeit fahren
+die Arbeit niederlegen
+","einen Spaziergang machen
+einen Spaziergang machen
+","Glück haben
+Glück haben
+Glück haben
+Glück haben
+Glück haben
+(jmdm.) Glück bringen
+(jmdm.) Glück bringen
+dem Glück vertrauen
+vor Glück strahlen
+sein Glück versuchen
+kein Glück haben
+auf gut Glück überprüfen
+auf sein Glück vertrauen
+sein Glück beim Wetten versuchen
+auf der Seite des Glücks stehen
+","ein Gefühl haben
+das Gefühl haben, dass ...
+Gefühle verletzen
+mit jmds. Gefühlen spielen
+mit jmds. Gefühlen umgehen
+ein flaues Gefühl im Magen haben
+das dumpfe Gefühl haben, dass ...
+so ein Gefühl haben (, dass ...) [coll.]
+keine Gefühle zulassen
+seine Gefühle ausleben
+seine Gefühle unter Kontrolle haben
+seine Gefühle unter Kontrolle haben
+etw.acc. mit gemischten Gefühlen betrachten
+seine Gefühle unterdrücken
+","Getränke ausschenken
+(für jmdn./etw.) (die) Speisen und Getränke liefern
+","etw.acc. bezeugen | bezeugte, bezeugt |
+etw.acc. attestieren | attestierte, attestiert |
+etw.acc. bestätigen | bestätigte, bestätigt |
+etw.acc. beweisen | bewies, bewiesen |
+etw.acc. belegen | belegte, belegt |
+etw.acc. bescheinigen | bescheinigte, bescheinigt |
+etw.acc. nachweisen | wies nach, nachgewiesen |
+etw.acc. versichern | versicherte, versichert |
+etw.acc. beglaubigen | beglaubigte, beglaubigt |
+etw.acc. bezeugen | bezeugte, bezeugt |
+etw.acc. bestätigen | bestätigte, bestätigt |
+etw.acc. beweisen | bewies, bewiesen |
+von etw.dat. zeugen | zeugte, gezeugt |
+von etw.dat. Zeugnis ablegen
+","Kopfweh haben
+","Wunder vollbringen
+etw.nom. nimmt jmdn. wunder infinitive: wundernehmen
+wund reiben
+wund werden
+sichacc. wundliegen or: wund liegen | lag wund, wundgelegen |
+sichdat. den Rücken wundliegen or: wund liegen
+sichdat. den Rücken wundliegen or: wund liegen
+wundreiben or: wund reiben | rieb wund, wundgerieben |
+wundscheuern or: wund scheuern | scheuerte wund, wundgescheuert |
+eine Wunde abbinden
+eine Wunde abbinden
+eine Wunde verbinden
+eine Wunde betupfen
+bei jmdm. Wunden hinterlassen
+","(mit jmdm.) Kontakt halten
+den Kontakt abbrechen
+einen Kontakt herstellen
+Kontakt mit jmdm. aufnehmen
+(mit jmdm.) in Kontakt bleiben
+mit jmdm. in Kontakt treten
+mit jmdm. in Kontakt treten
+mit jmdm. Kontakt aufnehmen
+mit jmdm. Kontakt aufnehmen
+mit jmdm. Kontakt aufnehmen
+jmdn. mit etw.dat. in Kontakt bringen
+Kontakt aufnehmen
+Kontakte knüpfen
+Kontakte erschließen
+mit jmdm. Kontakte knüpfen
+mit Leuten in Kontakt kommen
+","ein Kind empfangen - schwanger werden
+ein Kind wickeln
+ein Kind wickeln
+ein Kind wickeln
+ein Kind bekommen
+ein Kind erwarten
+ein Kind baden
+ein Kind gebären
+ein Kind gebären
+ein Kind abhalten
+ein Kind austragen
+ein Kind adoptieren
+ein Kind großziehen
+ein Kind großziehen
+",None,None,None,"schulen | schulte, geschult |
+jmdn. schulen | schulte, geschult |
+jmdn. schulen | schulte, geschult |
+jmdn. in etw.dat. schulen | schulte, geschult |
+Schule schwänzen
+die Schule schwänzen
+die Schule schwänzen
+eine Schule besuchen
+jmdn. zur (or: in die) Schule bringen - mit dem Auto
+Schule machen [fig.]
+Schule schwänzen
+(die Schule) schwänzen | schwänzte, geschwänzt |
+die Schule abbrechen
+die Schule schwänzen [coll.]
+","mit Medikamenten vollgepumpt sein
+","etw.acc. markieren | markierte, markiert |
+etw.acc. etikettieren | etikettierte, etikettiert |
+etw.acc. bezeichnen | bezeichnete, bezeichnet |
+etw.acc. auszeichnen | zeichnete aus, ausgezeichnet |
+etw.acc. beschildern | beschilderte, beschildert |
+etw.acc. mit einem Anhänger versehen
+etw.acc. mit einem Anhängeschildchen versehen
+mitkommen | kam mit, mitgekommen |
+(mit jmdm.) mitziehen | zog mit, mitgezogen |
+etw.acc. an etw.dat. anbringen | brachte an, angebracht |
+einen Tag freihaben (or: frei haben)
+den Tag verschlafen
+einen Tag anberaumen
+einen Tag (für etw.acc.) bestimmen
+","schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+schmerzen | schmerzte, geschmerzt |
+von etw.dat. schmerzen | schmerzte, geschmerzt |
+etw.nom. schmerzt jmdn. infinitive: schmerzen
+Schmerzen haben
+Schmerzen haben
+Schmerzen haben
+Schmerzen verursachen
+Schmerzen aushalten
+","einen Arzt konsultieren
+einen Arzt konsultieren
+zum Arzt gehen
+einen Arzt aufsuchen
+als Arzt praktizieren
+den Arzt rufen
+sichacc. an einen Arzt wenden
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+","etw.acc. nachrichten | richtete nach, nachgerichtet |
+etw.acc. nachrichten | richtete nach, nachgerichtet |
+nachrichten | richtete nach, nachgerichtet | - z. B. Bögen
+eine Nachricht hinterlassen
+eine Nachricht erhalten
+eine Nachricht senden
+eine Nachricht senden
+eine Nachricht empfangen
+eine Nachricht übermitteln
+eine Nachricht übermitteln
+jmdm. eine Nachricht schreiben
+jmdm. die Nachricht beibringen
+Nachricht von jmdm. bekommen
+Nachricht geben
+eine SMS-Nachricht senden [Mobile Communications]
+jmdm. eine SMS-Nachricht senden [Mobile Communications]
+","Geschichte machen
+Geschichte schreiben
+eine Geschichte bestätigen
+eine Geschichte erfinden
+eine Geschichte erfinden
+in die Geschichte eingehen
+etw.acc. Geschichte werden lassen
+die Geschichte als Zeugen anrufen
+sichdat. eine Geschichte aus den Fingern saugen
+das Rad der Geschichte zurückdrehen
+","etw.acc. pflanzen | pflanzte, gepflanzt |
+pflanzen | pflanzte, gepflanzt |
+Pflanzen bestimmen
+sichacc. irgendwohin pflanzen [coll.]
+sichacc. irgendwohin pflanzen [coll.][fig.]
+das Wachstum einer Pflanze beschleunigen
+","Mittel bereitstellen
+Mittel beantragen
+Mittel umlegen
+die Mittel zurückziehen
+die Mittel zusammenlegen
+die Mittel zusammenlegen
+Mittel aufbringen
+Mittel auftreiben
+Mittel bereitstellen
+Mittel bereitstellen - Haushaltsplan
+Mittel freigeben
+Mittel freisetzen
+Mittel erhalten
+Mittel zuordnen
+",None,"Vertrag erfüllen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag schließen
+einen Vertrag annehmen
+einen Vertrag bestätigen
+einen Vertrag bestätigen
+einen Vertrag erfüllen
+einen Vertrag kündigen
+einen Vertrag stornieren
+",None,"zum Verkauf anbieten
+einen Verkauf abschließen
+einen Verkauf abschließen
+einen Verkauf abschließen
+den Verkauf vorantreiben
+zum Verkauf anstehen
+zum Verkauf auslegen
+zum Verkauf ausstellen
+zum Verkauf kommen
+zum Verkauf stehen
+etw.acc. zum Verkauf anbieten
+etw.acc. zum Verkauf bereithalten
+etw.acc. zum Verkauf bieten
+einen Verkauf abschließen
+","zwischen Parteien vermitteln
+zwischen Parteien verhandeln
+(jmds.) Partei ergreifen
+einer Partei beitreten
+jmds. Partei ergreifen
+eine Partei unterstützen
+sichacc. einer Partei anschließen
+gegen jmdn. Partei ergreifen
+für jmdn. Partei ergreifen
+sichacc. nach einer Partei ausrichten
+aus einer Partei austreten
+den Parteien die anfallenden Auslagen auferlegen
+die streitenden Parteien anhören
+mit einem Mitglied einer anderen Partei ein Abkommen treffen
+","sichdat. das Gehirn zermartern
+","schleifen | schliff, geschliffen |
+mit Sand bestreuen
+polieren | polierte, poliert |
+mit Sand bedecken
+etw.acc. schmirgeln | schmirgelte, geschmirgelt |
+etw.acc. absanden | sandete ab, abgesandet |
+etw.acc. abschmirgeln | schmirgelte ab, abgeschmirgelt |
+etw.acc. abschleifen | schliff ab, abgeschliffen | - mit Schleifpapier
+etw.acc. glätten | glättete, geglättet |
+etw.acc. sanden | sandete, gesandet |
+versanden | versandete, versandet |
+etw.acc. anschmirgeln | schmirgelte an, angeschmirgelt |
+etw.acc. abschmirgeln | schmirgelte ab, abgeschmirgelt |
+etw.acc. mit Sand scheuern
+",None,"Leute verärgern
+unter Leute kommen
+sichacc. unter die Leute mischen
+unter die Leute kommen
+etw.acc. unter die Leute bringen - z. B. Gerüchte
+Leute gegen einander aufbringen
+Leute vor den Kopf stoßen
+sichacc. um seine eigenen Leute kümmern
+das Talent der Leute wirksam einsetzen
+wenig unter die Leute gehen
+mit anderen Leuten zusammenwohnen
+mit Leuten in Kontakt kommen
+es allen Leuten recht machen wollen
+seine schmutzige Wäsche vor anderen Leuten waschen [fig.]
+seine schmutzige Wäsche vor anderen Leuten waschen [fig.]
+","etw.acc. mit Gewürzen und Zucker erhitzen - z. B. Wein
+",None,"Blätter treiben
+(etw.acc.) vom Blatt absingen
+vom Blatt spielen
+vom Blatt singen
+das Blatt abdrehen [Rowing]
+das Blatt aufdrehen [Rowing]
+das Blatt aufdrehen [Rowing]
+vom Blatt lesen
+etw.acc. vom Blatt singen
+etw.acc. vom Blatt spielen
+die Blätter hängen lassen
+ein Blatt Papier einspannen
+in der Auslage mit den Blättern vom Wasser weggehen [Rowing]
+in der Auslage mit den Blättern vom Wasser weggehen [Rowing]
+","einem Beispiel folgen
+ein Beispiel anführen
+dem Beispiel folgen
+ein Beispiel geben
+ein Beispiel geben
+ein Beispiel nennen
+jmdn./etw. als Beispiel anführen
+etw.acc. als Beispiel nennen
+sichdat. ein Beispiel an jmdm. nehmen
+etw.acc. als Beispiel anführen
+als Beispiel für etw.acc. dienen
+ein Beispiel für etw.acc. sein
+durch ein Beispiel erläutern
+mit gutem Beispiel vorangehen
+","Streit suchen
+(mit jmdm.) Streit anfangen
+Streit anfangen
+einen Streit austragen - ausfechten
+einen Streit beilegen
+einen Streit beilegen
+einen Streit schlichten
+einen Streit mit jmdm. anzetteln
+Streit mit jmdm. anfangen
+Streit suchen
+mit jmdm. im Streit liegen
+mit jmdm. im Streit liegen
+einen Streit ein für allemal beilegen
+einen Streit vom Zaun brechen
+als Schlichter in einem Streit fungieren
+","Bedingungen absprechen
+Bedingungen ausmachen
+Bedingungen erfüllen
+Bedingungen ablehnen
+Bedingungen eingehen
+jmds. Bedingungen akzeptieren
+die Bedingungen annehmen
+die Bedingungen annehmen
+die Bedingungen annehmen
+die Bedingungen absprechen
+die Bedingungen aushandeln
+die Bedingungen beeinflussen
+den Bedingungen unterliegen
+den Bedingungen zustimmen
+","einen Rausch haben
+in einen Rausch versetzt werden
+",None,"Erlaubnis erteilen
+Erlaubnis erteilen
+jmdn. um Erlaubnis bitten
+jmdn. um Erlaubnis bitten
+jmdn. um Erlaubnis bitten
+jmdn. um Erlaubnis bitten
+eine Erlaubnis erteilen
+die Erlaubnis haben, etw.acc. zu tun
+",None,"(jmdm.) dienen | diente, gedient |
+betreuen | betreute, betreut |
+sichacc. jmds. annehmen | nahm an, angenommen |
+Gottesdienst halten
+",None,None,"Drogen missbrauchen
+Drogen nehmen
+Drogen nehmen
+Drogen nehmen
+mit Drogen handeln
+unter Drogen stehen
+unter Drogen stehen
+mit Drogen vollgepumpt sein
+","Geschäfte tätigen
+Geschäfte abwickeln
+Geschäfte abwickeln
+Geschäfte machen
+Geschäfte ausführen
+die Geschäfte weiterführen
+(mit jmdm.) Geschäfte machen
+Geschäfte betreiben
+Geschäfte betreiben
+Geschäfte durchführen
+Geschäft abwickeln
+ein Geschäft eröffnen
+ein Geschäft eröffnen
+ein Geschäft eröffnen
+","(sichdat.) etw.acc. (mit jmdm.) teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen
+sichacc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+","etw.acc. mit Gewürzen und Zucker erhitzen - z. B. Wein
+","einen Arzt konsultieren
+einen Arzt konsultieren
+zum Arzt gehen
+einen Arzt aufsuchen
+als Arzt praktizieren
+den Arzt rufen
+sichacc. an einen Arzt wenden
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+einen Arzt zu Rate (or: zurate) ziehen
+","vereinen | vereinte, vereint |
+etw.acc. vereinen | vereinte, vereint | - z. B. Kräfte
+jmdn./etw. vereinen | vereinte, vereint |
+etw.acc. (mit etw.dat.) vereinen | vereinte, vereint |
+etw.acc. vereinen | vereinte, vereint |
+etw.acc. vereinen | vereinte, vereint |
+aus einem Verein austreten
+einen Verein eintragen lassen
+Mitglied in einem Verein werden
+","eine Regierung stürzen
+eine Regierung auflösen
+eine Regierung stürzen
+eine Regierung stürzen [fig.]
+",None,"durch die Gegend ballern
+","etw.acc. pflanzen | pflanzte, gepflanzt |
+pflanzen | pflanzte, gepflanzt |
+Pflanzen bestimmen
+sichacc. irgendwohin pflanzen [coll.]
+sichacc. irgendwohin pflanzen [coll.][fig.]
+das Wachstum einer Pflanze beschleunigen
+","sichacc. einen Moment zurückhalten
+im Hier und Jetzt leben
+für einen Moment innehalten
+eine Gedächtnislücke haben
+bis zur letzten Minute warten
+impulsiv handeln
+im entscheidenden Moment versagen
+im Affekt handeln
+","(vor jmdm./etw.) Angst haben
+jmdm. Angst einjagen
+(vor jmdm./etw.) Angst haben
+(vor etw.dat.) Angst haben
+(vor etw.dat.) Angst haben
+Angst bekommen
+jmdm. Angst einjagen
+jmdm. Angst einjagen
+jmdm. Angst machen
+jmdm. Angst einflößen
+jmds. Angst zerstreuen
+jmdm. die Angst nehmen
+vor Angst schlottern
+vor Angst schlottern
+","Drogen missbrauchen
+Drogen nehmen
+Drogen nehmen
+Drogen nehmen
+mit Drogen handeln
+unter Drogen stehen
+unter Drogen stehen
+mit Drogen vollgepumpt sein
+",None,None,"Qualität bezeichnen
+","hausen | hauste, gehaust | [coll.]
+hausen | hauste, gehaust | [coll.]
+hausen | hauste, gehaust | [coll.]
+im Hause bleiben
+nachhause (or: nach Hause) kommen
+nachhause (or: nach Hause) kommen
+zuhause (or: zu Hause) sein
+nachhause (or: nach Hause) gehen
+jmdn. nachhause (or: nach Hause) begleiten
+zu Hause (or: zuhause) essen
+zu Hause (or: zuhause) bleiben
+jmdn. nachhause (or: nach Hause) bringen
+zu Hause (or: zuhause) ankommen
+zu Hause (or: zuhause) ankommen
 "
 nouns,english,"name
 name
@@ -1908,6 +2951,819 @@ Shavuot or: Shabuoth [REL.]
 exhausting week
 midweek
 previous week
+","waiting room
+anteroom
+","text
+text
+text
+text
+copy - writing to be printed
+words pl.
+paragon - font type, 20 point
+text [coll.] - short for ""text message""
+lines pl. [CINE.][THEA.]
+lyrics [MUS.]
+copywriting
+text communication
+text editor
+text editor
+",None,"radio
+radio
+radio
+radio
+radio
+radio
+radio
+radio
+car radio
+radio set assembly
+radio [TECH.]
+radio [TELECOM.]
+wireless (Brit.) [ELEC.]
+broadcasting [TELECOM.]
+","monthlies plural noun [coll.] - menstrual period
+day
+daytime
+tag [COMP.]
+ground level [GEOL.]
+ground surface [GEOL.]
+day level
+day surface
+daylight
+grass roots [TECH.]
+land level [TECH.]
+land surface [TECH.]
+level ground [TECH.]
+surface [TECH.]
+","cat - domestic cat [ZOOL.]
+feline
+mog or: moggie (Brit.) [coll.]
+crab [TECH.]
+trolley [TECH.]
+jack [TECH.]
+heck box [TECH.]
+cat [ZOOL.]
+felids pl. [ZOOL.]
+pig in a poke
+cat-o'-nine-tails
+tabby - cat
+tabby cat
+tabby - cat
+","dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+engagement
+dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAE boarddialogueBE board
+dialogueAE / dialogAE moduledialogueBE module
+dialogueAE / dialogAE partnerdialogueBE partner
+dialogueAE / dialogAE systemdialogueBE system
+dialogueAE / dialogAE box [TECH.]dialogueBE box [TECH.]
+dialogueAE / dialogAE window [COMP.]dialogueBE window [COMP.]
+dialogueAE / dialogAE level [TECH.]dialogueBE level [TECH.]
+dialogueAE / dialogAE marketing [TECH.]dialogueBE marketing [TECH.]
+","cold in the head
+cold
+the snuffles [coll.]
+the sniffles [coll.]
+head cold [MED.]
+coryza [MED.]
+common cold [MED.]
+","job
+work also [PHYS.]
+laborAE / labourBE
+employment
+occupation
+assignment
+activity
+task
+chore
+paper [EDUC.]
+energy [ELEC.]
+works used with sg. or pl. verb
+operations pl. [TECH.]
+char - dated; now usually: chore (Brit.)
+","walk
+airing - walk, outing
+promenade
+excursion
+a doddle
+space walk
+","luck
+joy
+happiness
+fortune
+felicity - happiness
+bliss
+serendipity
+auspiciousness
+good luck
+luckiness
+lucky break
+great fortune
+sunshine friends
+eudemonicAE / eudaemonicBE
+a shot in the dark
+quest for happiness
+economics of happiness [ECON.]
+","emotion
+feeling
+sensation
+sentiment
+sense (of sth.)
+hunch - intuitive guess, feeling
+sentience
+sense of security
+sense of superiority
+sense and sensibility
+feeling of oppression
+feeling of relief
+embarrassment
+sense of delight
+","drink
+beverage
+potation
+potable
+spirits pl.
+alcoholic drinks
+soft drinks
+ardent spirits
+meals and drinks pl.
+booze [coll.]
+spirituous liquors pl. [form.]
+spirituous beverages pl. [form.]
+soft drink
+nonalcoholicAE beveragenon-alcoholicBE beverage
+","attestation
+certificate
+testimonial
+medical certificate
+medical certificate
+doctor's certificate
+bill of health
+medical report [INSUR.]
+","headache
+pain in the head [MED.]
+bad headache
+","wonder
+miracle
+marvel
+prodigy
+soft spot
+weak point
+sore spot
+blind spot [fig.]
+signs and wonders
+few-flowered garlic [BOT.]
+few-flowered leek [BOT.]
+fibrous tussock-sedge [BOT.]
+wonder violet [BOT.]
+excoriation
+","contact also [TECH.]
+engagement
+outreach
+touch point
+contact member
+contact part
+liaison
+touch
+exposure (to)
+pin [ELEC.]
+contact section [TECH.]
+engage [TECH.]
+sales activity [COMM.]
+interface [TECH.]
+","kind
+kind
+child - pl.: children
+infant
+kid [coll.] - child
+kind
+kind
+kiddy
+moppet [coll.]
+kind [PHYS.]
+kind [PHYS.]
+sprog (Brit.) [sl.]
+bairn (Scot.)
+chit (Amer.) archaic
+","pediatristAE / paediatristBE [MED.]
+pediatricianAE / paediatricianBE [MED.]
+",None,"pain reliever
+painkiller [PHARM.]
+analgesic or: analgetic [PHARM.]
+","school
+school - of fish, dolphins
+school building
+schoolhouse
+pod - small herd or school of marine animals [ZOOL.]
+alma mater [EDUC.]
+educational facilities
+school providing vocational education
+secondary school
+deterministic school of thought
+publicly-maintained school
+public school (Amer.)
+state school
+stochastic school of thought
+","drugs pl. [PHARM.]
+drug
+medicine
+medicament
+remedy
+pharmaceutical sg., usually in plural: pharmaceuticals [PHARM.]
+physic [MED.]
+prescription drug
+suppressant [PHARM.]
+prescription drug [PHARM.]
+prescription medicine [PHARM.]
+prescription only medicine (or: prescription-only) [abbr.: POM] (Brit.) [PHARM.]
+antipsychotic drug [PHARM.]
+behind-the-counter drug [PHARM.]
+","day
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+tag
+","pangs pl.
+pain
+hurt
+smart
+ache
+sorrow
+achiness
+distress
+pang
+perineal pain [MED.]
+throes plural noun
+racking pains pl.
+aches and pains
+violent pain [MED.]
+","doctor [MED.]
+physician
+medico [coll.]
+medic [coll.]
+medical scientist [MED.]
+medical practitioner [MED.]
+junior house officer (Brit.) [MED.]
+first-year resident [MED.]
+second-year resident [MED.]
+junior doctor [MED.]
+consulting physician
+doctor on duty
+doctor on service
+physician on service
+","news - TV, radio used with sg. verb
+tidings plural noun
+intelligence - mass noun - news
+communications pl.
+newscast
+news used with sg. verb
+message
+notice
+piece of news
+post
+output
+advice
+announcement
+information no plural
+","story
+history no plural - past events
+history no plural - study of past events
+tale
+history - record of past events
+narrative
+saga
+lore
+story for reflection
+living history
+human history
+rigmarole
+story for reflection
+fisherman's story
+","plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+crop
+herbaceous plants
+perennials pl.
+perennials pl.
+gymnosperms pl. [BOT.]
+gymnospermae pl. [BOT.]
+naked-seed plants pl. [BOT.]
+angiosperms pl. [BOT.]
+dicotyledonous plants [BOT.]
+dicotyledonous flowering plants [BOT.]
+edible plants [AGR.]
+stinger
+","means - pl.: means
+medium - pl.: media
+average
+instrument
+instrumentality - means, instrument
+agent
+resource - expedient
+aid
+average value
+median
+appliance
+vehicle
+centerAE / centreBE
+device
+","chemistry
+chemical industry
+physical chemistry
+organic chemistry
+hot chemistry
+applied chemistry
+chemurgy
+analytical chemistry [CHEM.]
+inorganic chemistry [TECH.]
+chemical engineering [CHEM.]
+biochemistry [CHEM.]
+biological chemistry [BIOL.][CHEM.]
+geochemistry [GEOL.]
+chemical and process industry [CHEM.]
+computational chemistry
+International Union of Pure and Applied Chemistry [abbr.: IUPAC] [CHEM.]
+","agreement [LAW]
+contract [LAW]
+treaty [POL.]
+pact
+deed
+indenture
+compact
+covenant [LAW]
+convention [LAW]
+contract to supply
+Treaty on European Union [abbr.: TEU] [POL.]
+treaty on the functioning of the European Union [abbr.: TFEU] [POL.]
+Treaty on Stability, Coordination and Governance in the Economic and Monetary Union [abbr.: TSCG] [ECON.]
+intergovernmental treaty
+","federal government
+Federal Government [POL.]
+German Advisory Council on Global Change [ENV.]
+","sale [COMM.]
+disposal
+selling [COMM.]
+sales pl. [COMM.]
+disposition [FINAN.]
+frontline or: front-line [COMM.]
+sell-off [COMM.][FINAN.]
+sales department [COMM.]
+vending [COMM.]
+sales pl. [COMM.]
+selling abroad
+sale of a business
+realizationAE of a billrealisationBE / realizationBE of a bill
+sale of a bill
+","party [LAW][POL.]
+side - opposing group
+camp [fig.]
+political party [POL.]
+parties to a contract
+parties involved
+contracting parties [LAW]
+the parties involved
+the parties to the dispute
+intention of the parties
+one-party-rule [POL.]
+interested party
+referring party
+prevailing party
+","brain
+encephalon [ANAT.]
+cerebric [ANAT.]
+cerebrospinal fluid [abbr.: CSF] [ANAT.]
+cerebrospinal fluid [abbr.: CSF] [ANAT.]
+liquor [MED.]
+blood-brain barrier [ANAT.]
+amyelencephalus [MED.]
+amyelencephalia [MED.]
+brain research
+brain mapping [MED.]
+","sand
+sand
+sand
+grit
+sands plural noun - sandbank
+sands plural noun
+sands plural noun - in place names
+sands (Amer.) [coll.] - courage, pluck
+sands (Amer.) [coll.] - courage, pluck
+sands (Amer.) [coll.] - courage, pluck
+sands (Amer.) [coll.] - courage, pluck
+sand bath
+sand bed
+sand bed
+","drug trafficker
+dealer
+drug dealer
+pusher [coll.]
+","people plural noun
+folk
+gentry
+peeps plural noun [coll.]
+folks [coll.] pl.
+countryfolkAE / country folkBE used with pl. verb
+countrypeopleAE / country peopleBE used with pl. verb
+youths pl.
+young people plural noun
+perfect strangers
+celebrated men pl.
+strangers pl.
+the swells
+the leisured classes
+","sugar
+diabetes [MED.]
+brown sugar
+soft sugar
+caramel
+reducing sugar
+natural sugar [COOK.]
+added sugar [COOK.]
+hard maple [BOT.]
+rock maple [BOT.]
+sugar maple [BOT.]
+sweet birch [BOT.]
+black birch [BOT.]
+cherry birch [BOT.]
+mahogany birch [BOT.]
+institution for statutory accident insurance and prevention in the sugar industry [ADMIN.]
+black maple [BOT.]
+","dealer [COMM.]
+merchant [COMM.]
+retailer [COMM.]
+chandler
+salesperson
+outfitter
+salesman - pl.: salesmen
+dealership
+purveyor
+bargainer
+marketeer
+monger
+tradespeople - plural noun
+agent [COMM.]
+","foliage no plural
+sheet
+leaf - pl.: leaves [BOT.]
+page
+hand - of cards
+newspaper
+gazette
+vamp - shoe [TECH.]
+sheeting [ELEC.]
+folio [PRINT.]
+reed [TEXTIL.]
+blade [TECH.]
+reed [MUS.]
+blade [TECH.]
+","example (of)
+instance (of)
+sample
+paradigm
+lead - initiative for others to follow
+exemplar
+lead [TECH.]
+cautionary tale
+deterrent example
+cautionary tale
+instructive example
+instructive example
+concrete example
+representative
+","argument - row
+dispute
+quarrel
+controversy
+conflict
+contention
+run-in - argument, dispute
+brawl
+contestation
+scuffle
+fight
+confliction
+strife
+wrangle
+","terms pl.
+conditionality
+terms and conditions pl. [INSUR.]
+condition
+constraint [MATH.]
+requirement
+term
+stipulation
+proviso - pl.: provisos
+precondition
+prerequisite
+load [TECH.]
+specification [FINAN.]
+qualification
+","inebriation
+intoxication
+inebriety
+frenzy
+blind level [GEOL.]
+deep adit [TECH.]
+deep level [TECH.]
+drainage adit [TECH.]
+drainage level [TECH.]
+mine drainage tunnel (Amer.) [TECH.]
+sough [TECH.]
+thurl [TECH.]
+water gate [TECH.]
+water gateway [TECH.]
+","cannabis [BOT.]
+cannabis [BOT.]
+cannabis [BOT.]
+hemp [BOT.]
+hemp [BOT.][TEXTIL.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+cannabis product
+Indian hemp [BOT.]
+hemp [BOT.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+","permission
+permit
+concession
+allowance
+leave
+licenseAE / licenceAElicenceBE
+accreditation
+admission - allowance of an act
+certificate
+go-ahead
+green light [fig.]
+authorizationAE [FINAN.][INSUR.]authorisationBE / authorizationBE [FINAN.][INSUR.]
+extension of a permit
+hot work permit [LAW]
+application for a permit
+illicit work
+fire work permit
+","coalition agreement
+","minister (Brit.)
+secretary (Amer.)
+minister
+minister
+minister [REL.]
+minister plenipotentiary [ADMIN.][POL.]
+prime minister
+prime minister
+environment minister
+environment minister
+foreign minister
+shadow minister
+defence minister (Brit.)
+farming minister
+","drug trafficker
+dealer
+drug dealer
+pusher [coll.]
+","specialists pl.
+experts pl.
+professionals pl.
+expert
+professional
+specialist
+authority
+dab hand
+subject matter expert [abbr.: SME]
+tradesman
+person skilled in the art [LAW]
+practitioner
+financial expert [FINAN.]
+credit expert [FINAN.]
+intramural expert
+marketing specialist
+","drug
+dependence causing substance
+substance causing addiction
+substance causing dependence
+drugs pl. [PHARM.]
+soft drug
+mind-altering drug
+hard drug
+illicit drug
+illegal drug
+legal drug
+drug helpline
+driving under the influence of drugs [LAW]
+drugs pl. [PHARM.]
+","dealings pl.
+commercial operations pl.
+business dealings pl.
+shop
+business [COMM.][FINAN.]
+deal
+store
+transaction [COMM.]
+bargain [COMM.]
+trade
+affair
+calling
+commercial transaction
+biz [coll.] - short for ""business""
+","part also [TECH.]
+particle
+piece
+share
+section
+portion
+fraction
+component
+fitting
+member
+fragment
+scrap
+unit
+proportion
+","spicery
+spice
+flavoringAE / flavouringBE
+condiment [COOK.]
+bay - tree [BOT.]
+bay tree [BOT.]
+tanner's sumac (or: sumach) [BOT.]
+Sicilian sumac (or: sumach) [BOT.]
+elm-leaved sumach (or: sumac) [BOT.]
+laurel - tree [BOT.]
+fragrant sumac (or: sumach) [BOT.]
+broad-leaved (or: broadleaved) chervil [BOT.]
+common thyme [BOT.]
+English thyme [BOT.]
+garden thyme [BOT.]
+","doctor [MED.]
+physician
+medico [coll.]
+medic [coll.]
+medical scientist [MED.]
+medical practitioner [MED.]
+medical profession
+medical fee schedule - for physicians [MED.]
+junior house officer (Brit.) [MED.]
+first-year resident [MED.]
+second-year resident [MED.]
+junior doctor [MED.]
+consulting physician
+doctor on duty
+","association
+club
+union
+society
+push
+unincorporated association
+outfit [coll.] - group of people
+Young Women's Christian Association [abbr.: YWCA]
+registered association
+incorporated society
+membership corporation (Amer.)
+registered society
+charity - organisation
+nonprofitAE associationnon-profitBE association
+","government
+administration (Amer.) [POL.]
+regime or: régime
+governance [POL.]
+regnancy rare
+cabinet
+misrule
+(10) Downing Street (Brit.) [fig.] [POL.]
+elected government [POL.]
+government effectiveness - World Bank indicator [POL.]
+government department
+provisional government [POL.]
+center-rightAE government [POL.]centre-rightBE government [POL.]
+government bonds pl.
+","nurse
+nurse
+sanitary and phytosanitary standard
+essential health and safety requirements [TECH.]
+graduate nurse [EDUC.]
+graduate nurse [EDUC.]
+","neighborhoodAE / neighbourhoodBE
+area
+region
+district
+quarter - area
+country
+spot
+neck of the woods [coll.]
+clime [poet.]
+airt (Scot.) - quarter, area
+remote locations
+far reaches
+rural landscape
+slough
+","plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+crop
+stinger
+nonwoodAE plantnon-woodBE plant
+indigene
+insect-eating plant
+carnivorous plant
+shade plant
+monoclinous plant
+common plant
+annual [BOT.]
+perennial plant [BOT.]
+biennial [BOT.]
+","moment
+moment
+moment
+instant
+moment [MATH.][ENGIN.]
+momentum [PHYS.]
+element
+factor
+mo [coll.] - short for ""moment""
+moment [TECH.]
+torque [TECH.]
+power moment [MATH.]
+couple of forces [ENGIN.]
+moment of abstraction
+","fear (of sth.)
+anxiety (for) [PSYCH.]
+angst
+angst
+trepidation
+anguish
+dread
+disquiet
+angst [PSYCH.]
+funk [coll.] (Brit.)
+blue funk [coll.] (Brit.)
+baseless fears pl.
+fear of the sack
+fear of missing out [abbr.: FOMO] [PSYCH.]
+","drugs pl. [PHARM.]
+drug
+dependence causing substance
+substance causing addiction
+substance causing dependence
+driving under the influence of drugs [LAW]
+drugs pl. [PHARM.]
+psychedelics pl.
+drug awareness campaign
+drug helpline
+anti-narcotic team
+soft drug
+mind-altering drug
+hard drug
+","Secretary of State for Health - in the UK [POL.]
+health minister [POL.]
+","adult
+grownup
+grown-up
+vulnerable adult
+vulnerable adult
+standard adult
+adult speaker
+accrued losses pl.
+adult learner [EDUC.]
+vulnerable adult
+extension studies (Amer.)
+adult-onset Still's disease [abbr.: AOSD] [MED.]
+adult-onset Still's disease [abbr.: AOSD] [MED.]
+adult Still's disease [MED.]
+adult Fanconi syndrome [MED.]
+empty nesters
+acro-osteolysis [MED.]
+","quality
+grade
+workmanship
+qualities pl.
+skills pl.
+level of facilities
+standard of facilities
+operations quality [COMM.]
+ambient air quality [ENV.]
+poor quality
+acoustical quality
+acceptable quality
+fair quality
+choice quality
+","collection from domicile [COMM.]
+indoor work
+readers at home pl.
+home office - office space at so.'s home chiefly (Amer.)
+home care [MED.]
+to homeschool so. - one's child [EDUC.]
 "
 nouns,german,"der Name rarely: Namen pl.: die Namen
 die Benennung pl.: die Benennungen
@@ -2888,6 +4744,819 @@ Fest der Wochen [Judaism]
 anstrengende Woche
 Mitte der Woche
 vorige Woche
+","das Wartezimmer pl.: die Wartezimmer
+das Wartezimmer pl.: die Wartezimmer
+","der Text pl.: die Texte
+der Wortlaut pl.: die Wortlaute
+die Bibelstelle pl.: die Bibelstellen
+der Textteil pl.: die Textteile
+der Text pl.: die Texte
+der Text pl.: die Texte
+die Text - Schriftart, 20 Punkt
+die SMS pl.: die SMS - kurz für ""SMS-Nachricht"" [coll.]
+der Text pl.: die Texte - eines Schauspielers
+der Text pl.: die Texte - Liedtext
+das Texten
+die Textkommunikation pl.: die Textkommunikationen
+der Texteditor pl.: die Texteditoren
+der Text-Editor
+",None,"das Radio pl.: die Radios
+der Rundfunk no plural
+der Radioapparat pl.: die Radioapparate
+das Rundfunkgerät pl.: die Rundfunkgeräte
+der Hörfunk no plural
+der Bordfunk no plural
+der Rundfunkempfänger pl.: die Rundfunkempfänger
+der Sprechfunk no plural
+das Radio pl.: die Radios
+das Radio pl.: die Radios
+der Funk no plural
+das Funkgerät pl.: die Funkgeräte
+das Radio pl.: die Radios
+das Radio pl.: die Radios
+","die Tage pl., no sg. [coll.] - Menstruation
+der Tag pl.: die Tage
+der Tag pl.: die Tage
+das (or: der) Tag pl.: die Tags/die Tage [EDV]
+der Tag pl.: die Tage
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+der Tag pl.: die Tage [Mining]
+","die Katze pl. - Hauskatze Lat.: Felis silvestris forma catus
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen - Kran
+die Katze pl.: die Katzen
+die Katze pl.: die Katzen - Zettelmaschine
+die Katze pl.: die Katzen - Zettelmaschine
+die Katze pl. Lat.: Felidae (Familie)
+die Katzen pl. Lat.: Felidae
+Katze im Sack
+neunschwänzige Katze
+gescheckte Katze
+gescheckte Katze
+getigerte Katze
+","der Dialog pl.: die Dialoge
+das Gespräch pl.: die Gespräche
+das Wechselgespräch pl.: die Wechselgespräche
+die Zwiesprache pl.: die Zwiesprachen
+der Dialog pl.: die Dialoge
+das Zwiegespräch pl.: die Zwiegespräche
+das Dialogforum pl.: die Dialogforen
+der Dialogbaustein pl.: die Dialogbausteine
+der Gesprächspartner | die Gesprächspartnerin pl.: die Gesprächspartner, die Gesprächspartnerinnen
+interaktives System
+das Dialogfenster pl.: die Dialogfenster
+das Dialogfenster pl.: die Dialogfenster
+die Dialogebene pl.: die Dialogebenen
+das Dialogmarketing no plural
+","der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen
+der Schnupfen pl.: die Schnupfen Lat.: Coryza
+der Schnupfen pl.: die Schnupfen Lat.: Coryza
+","die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit no plural
+die Arbeit no plural
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit no plural
+die Arbeiten pl.
+die Arbeiten pl.
+Arbeit im Haushalt
+","der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge
+der Spaziergang pl.: die Spaziergänge [fig.]
+der Spaziergang im All
+","das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+das Glück no plural
+unverhofftes Glück
+großes Glück
+Freunde im Glück
+Mittel zum Glück
+ein Versuch auf gut Glück
+Streben nach Glück
+Ökonomie des Glücks
+","das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+das Gefühl (für etw.acc.) no plural
+das Gefühl pl.: die Gefühle
+das Gefühl pl.: die Gefühle
+Gefühl der Sicherheit
+Gefühl der Überlegenheit
+Gefühl und Verstand
+Gefühl der Bedrängnis
+Gefühl der Erleichterung
+Gefühl der Verlegenheit
+Gefühl der Freude
+","das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+das Getränk pl.: die Getränke
+alkoholische Getränke
+alkoholische Getränke
+alkoholfreie Getränke
+geistige Getränke pl.
+Speisen und Getränke pl.
+alkoholische Getränke
+geistige Getränke pl. [form.]
+geistige Getränke pl. [form.]
+alkoholfreies Getränk
+alkoholfreies Getränk
+","das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+das Attest pl.: die Atteste
+ärztliches Attest
+ärztliches Attest
+ärztliches Attest
+ärztliches Attest
+","das Kopfweh no plural
+das Kopfweh no plural
+übles Kopfweh
+","das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+das Wunder pl.: die Wunder
+wunder Punkt
+wunder Punkt
+wunder Punkt
+wunder Punkt
+Zeichen und Wunder
+der Wunderlauch or: Wunder-Lauch pl. Lat.: Allium paradoxum
+der Wunderlauch or: Wunder-Lauch pl. Lat.: Allium paradoxum
+die Wundersegge or: Wunder-Segge pl. Lat.: Carex appropinquata
+das Wunderveilchen or: Wunder-Veilchen pl.: die Wunderveilchen Lat.: Viola mirabilis
+wunde Stelle
+","der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt (mit) +dat. pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+der Kontakt pl.: die Kontakte
+","die Art pl.
+die Sorte pl.: die Sorten
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+die Gattung pl.: die Gattungen
+die Natur pl.: die Naturen
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+Art einer Größe
+die Größenart pl.: die Größenarten
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+das Kind pl.: die Kinder
+","der Kinderarzt | die Kinderärztin pl.: die Kinderärzte, die Kinderärztinnen
+der Kinderarzt | die Kinderärztin pl.: die Kinderärzte, die Kinderärztinnen
+",None,"das Schmerzmittel pl.: die Schmerzmittel
+das Schmerzmittel pl.: die Schmerzmittel
+das Schmerzmittel pl.: die Schmerzmittel
+","die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen - Gebäude
+die Schule pl.: die Schulen
+die Schule pl.: die Schulen
+die Schulen pl.
+berufsbildende Schule
+höhere Schule
+deterministische Schule
+öffentliche Schule
+öffentliche Schule
+öffentliche Schule
+stochastische Schule
+","die Medikamente pl.
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+das Medikament pl.: die Medikamente
+rezeptpflichtiges Medikament
+hemmendes Medikament
+verschreibungspflichtiges Medikament
+verschreibungspflichtiges Medikament
+verschreibungspflichtiges Medikament
+antipsychotisches Medikament
+apothekenpflichtiges Medikament
+","der Tag pl.: die Tage
+der Anhänger pl.: die Anhänger
+das Etikett pl.: die Etiketten/die Etikette/die Etiketts
+das Schild pl.: die Schilder
+das Schildchen pl.: die Schildchen
+die Marke pl.: die Marken
+das Anhängeschild pl.: die Anhängeschilder
+der Kennsatz pl.: die Kennsätze
+das Kennzeichen pl.: die Kennzeichen
+das Namensschild pl.: die Namensschilder
+die Kennzeichnung pl.: die Kennzeichnungen
+die Plakette pl.: die Plaketten
+der Abgrenzer pl.: die Abgrenzer
+der Anhängezettel pl.: die Anhängezettel
+","die Schmerzen pl.
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+der Schmerz pl.: die Schmerzen
+Schmerzen im Dammbereich
+heftige Schmerzen pl.
+rasende Schmerzen pl.
+starke Schmerzen
+heftige Schmerzen pl.
+","der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+beratender Arzt
+diensthabender (or: Dienst habender) Arzt
+diensthabender (or: Dienst habender) Arzt
+diensthabender (or: Dienst habender) Arzt
+","die Nachrichten pl., no sg. - im Fernsehen, Radio
+die Nachrichten pl.
+die Nachrichten pl., no sg.
+die Nachrichten pl., no sg.
+die Nachrichten pl., no sg. - im Fernsehen, Radio
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+die Nachricht pl.: die Nachrichten
+","die Geschichte pl.: die Geschichten
+die Geschichte no plural
+die Geschichte no plural
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichten pl.
+Geschichte zum Nachdenken
+Geschichte zum Anfassen
+die Geschichte der Menschheit
+langatmige Geschichte
+nachdenkliche Geschichte
+abenteuerliche Geschichte
+","die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+krautige Pflanzen
+mehrjährige Pflanzen pl.
+perennierende Pflanzen pl.
+nacktsamige Pflanzen pl. Lat.: Gymnospermae
+nacktsamige Pflanzen Lat.: Gymnospermae
+nacktsamige Pflanzen Lat.: Gymnospermae
+bedecktsamige Pflanzen pl.
+zweikeimblättrige Pflanzen
+zweikeimblättrige Pflanzen
+essbare Pflanzen pl.
+stachlige Pflanze
+","das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel
+das Mittel pl.: die Mittel - Vorrichtung
+","die Chemie no plural
+die Chemie no plural
+physikalische Chemie
+organische Chemie
+heiße Chemie
+angewandte Chemie
+industrielle Chemie
+analytische Chemie
+anorganische Chemie
+technische Chemie
+biologische Chemie
+biologische Chemie
+Chemie der Erde
+die Chemie- und Anlagenindustrie
+die Computer-Chemie
+Internationale Union für reine und angewandte Chemie
+","der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+der Vertrag pl.: die Verträge
+Vertrag zur Lieferung
+Vertrag über die Europäische Union [abbr.: EUV]
+Vertrag über die Arbeitsweise der Europäischen Union [abbr.: AEUV]
+Vertrag über Stabilität, Koordinierung und Steuerung in der Wirtschafts- und Währungsunion [abbr.: SKSV]
+zwischenstaatlicher Vertrag
+","die Bundesregierung pl.: die Bundesregierungen
+die Bundesregierung pl.: die Bundesregierungen
+Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderung [abbr.: WBGU]
+","der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+der Verkauf pl.: die Verkäufe
+die Verkäufe pl.
+Verkauf ins Ausland
+Verkauf eines Unternehmens
+Verkauf eines Wechsels
+Verkauf eines Wechsels
+","die Partei pl.: die Parteien
+die Partei pl.: die Parteien
+die Partei pl.: die Parteien [fig.]
+die Partei pl.: die Parteien
+vertragsschließende Parteien
+beteiligte Parteien
+vertragsschließende Parteien
+die betroffenen Parteien pl.
+die streitenden Parteien pl.
+Wille der Parteien
+die Ein-Parteien-Herrschaft
+interessierte Partei
+empfehlende Partei
+obsiegende Partei
+","das Gehirn pl.: die Gehirne
+das Gehirn pl.: die Gehirne
+das Gehirn pl.: die Gehirne
+die Gehirn-Rückenmark-Flüssigkeit pl.: die Gehirn-Rückenmark-Flüssigkeiten [abbr.: GRF] Lat.: Liquor cerebrospinalis
+die Gehirn-Rückenmarksflüssigkeit [abbr.: GRF] Lat.: Liquor cerebrospinalis
+die Gehirn-Rückenmarks-Flüssigkeit pl.: die Gehirn-Rückenmarks-Flüssigkeiten
+die Blut-Gehirn-Schranke
+Fehlbildung ohne Gehirn und Rückenmark
+Fehlen von Gehirn und Rückenmark
+Erforschung des Gehirns
+topographische (or: topografische) Kartierung des Gehirns
+","der Sand pl.
+der Löschsand pl.
+der Scheuersand pl.
+der Sand pl.
+die Sandbank pl.: die Sandbänke
+das Sandufer pl.: die Sandufer
+der Strand pl.: die Strände - in Ortsnamen
+die Energie pl.: die Energien
+der Mumm no plural
+der Schneid no plural
+die Schneid no plural (Southern Germany; Austria)
+das Sandbad pl.: die Sandbäder
+das Sandbett pl.: die Sandbetten
+das Gießbett pl.: die Gießbetten
+","der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+","die Leute pl., no sg.
+die Leute pl., no sg.
+die Leute pl., no sg.
+die Leute pl., no sg.
+die Leute pl., no sg.
+Leute vom Lande
+Leute vom Lande
+junge Leute pl., no sg.
+junge Leute pl., no sg.
+wildfremde Leute pl., no sg.
+berühmte Leute pl., no sg.
+fremde Leute pl., no sg.
+die feinen Leute
+die feinen Leute
+","der Zucker pl.
+Zucker no article no plural [coll.] - Diabetes
+brauner Zucker
+brauner Zucker
+gebrannter Zucker
+reduzierender Zucker
+natürlicher Zucker
+zugesetzter Zucker
+der Zuckerahorn or: Zucker-Ahorn pl.: die Zuckerahorne Lat.: Acer saccharum
+der Zuckerahorn or: Zucker-Ahorn pl.: die Zuckerahorne Lat.: Acer saccharum
+der Zuckerahorn or: Zucker-Ahorn pl. Lat.: Acer saccharum
+die Zuckerbirke or: Zucker-Birke pl. Lat.: Betula lenta
+die Zuckerbirke or: Zucker-Birke pl. Lat.: Betula lenta
+die Zuckerbirke or: Zucker-Birke pl. Lat.: Betula lenta
+die Zuckerbirke or: Zucker-Birke pl. Lat.: Betula lenta
+die Zucker-Berufsgenossenschaft pl.: die Zucker-Berufsgenossenschaften
+Schwarzer Zuckerahorn (or: Zucker-Ahorn) Lat.: Acer saccharum subsp. nigrum, Acer nigrum
+","der Händler | die Händlerin pl.: die Händler, die Händlerinnen
+der Händler | die Händlerin pl.: die Händler, die Händlerinnen
+der Händler pl.: die Händler
+der Händler | die Händlerin pl.: die Händler, die Händlerinnen
+der Händler | die Händlerin pl.: die Händler, die Händlerinnen
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+der Händler pl.: die Händler
+die Händler pl.
+der Händler | die Händlerin pl.: die Händler, die Händlerinnen
+","die Blätter pl.
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter [Card Games]
+das Blatt pl.: die Blätter - Zeitung
+das Blatt pl.: die Blätter - Zeitschrift
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter
+das Blatt pl.: die Blätter - Säge
+das Blatt pl.: die Blätter - bei Blasinstrumenten
+das Blatt pl.: die Blätter [Machines]
+","das Beispiel (für) pl.: die Beispiele [abbr.: Bsp.]
+das Beispiel (für) pl.: die Beispiele
+das Beispiel pl.: die Beispiele
+das Beispiel pl.: die Beispiele
+das Beispiel pl.: die Beispiele
+das Beispiel pl.: die Beispiele
+das Beispiel pl.: die Beispiele
+abschreckendes Beispiel
+abschreckendes Beispiel
+warnendes Beispiel
+aufschlussreiches Beispiel
+lehrreiches Beispiel
+praktisches Beispiel
+typisches Beispiel
+","der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.: die Streite
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+der Streit pl.
+","die Bedingungen pl.
+die Bedingungen pl.
+die Bedingungen pl.
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen [Statistics]
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen
+die Bedingung pl.: die Bedingungen [Bookkeeping]
+die Bedingung pl.: die Bedingungen
+","der Rausch pl.: die Räusche
+der Rausch pl.: die Räusche
+der Rausch pl.: die Räusche
+der Rausch pl.: die Räusche
+die Räusche pl.
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+die Räusche
+","der Cannabis no plural
+der Hanf no plural
+das (or: der) Haschisch no plural
+der Cannabis no plural
+der Hanf pl. Lat.: Cannabis sativa
+der Ruderalhanf pl. Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Ruderalhanf pl. Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Wild-Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Wild-Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+das Cannabisprodukt pl.: die Cannabisprodukte
+Indischer Hanf Lat.: Cannabis indica, Cannabis sativa subsp. indica
+Indischer Hanf Lat.: Cannabis indica, Cannabis sativa subsp. indica
+Wilder Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+Wilder Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+","die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+die Erlaubnis pl.
+Verlängerung einer Erlaubnis
+Erlaubnis für feuergefährliche Arbeiten
+Antrag auf eine Erlaubnis
+Arbeit ohne Erlaubnis
+Erlaubnis für Tätigkeiten an feuergefährdeten Orten
+","der Koalitionsvertrag
+","der Minister | die Ministerin pl.: die Minister, die Ministerinnen
+der Minister | die Ministerin pl.: die Minister, die Ministerinnen
+der Gesandte | die Gesandte pl.: die Gesandten
+der Seelsorger | die Seelsorgerin pl.: die Seelsorger, die Seelsorgerinnen
+der Pfarrer | die Pfarrerin pl.: die Pfarrer, die Pfarrerinnen
+bevollmächtigter Minister
+der Ministerpräsident | die Ministerpräsidentin pl.: die Ministerpräsidenten, die Ministerpräsidentinnen
+der Premierminister | die Premierministerin pl.: die Premierminister, die Premierministerinnen
+der Umweltminister | die Umweltministerin pl.: die Umweltminister, die Umweltministerinnen
+Minister für Umweltfragen
+der Außenminister | die Außenministerin pl.: die Außenminister, die Außenministerinnen
+der Schattenminister | die Schattenministerin pl.: die Schattenminister, die Schattenministerinnen
+der Verteidigungsminister | die Verteidigungsministerin pl.: die Verteidigungsminister, die Verteidigungsministerinnen
+der Agrarminister | die Agrarministerin pl.: die Agrarminister, die Agrarministerinnen
+","der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+der Drogenhändler | die Drogenhändlerin pl.: die Drogenhändler, die Drogenhändlerinnen
+","die Fachleute pl., no sg.
+die Fachleute pl., no sg.
+die Fachleute pl., no sg.
+der Fachmann | die Fachfrau pl.: die Fachleute/die Fachmänner, die Fachfrauen
+der Fachmann | die Fachfrau pl.: die Fachleute/die Fachmänner, die Fachfrauen
+der Fachmann | die Fachfrau pl.: die Fachleute/die Fachmänner, die Fachfrauen
+der Fachmann | die Fachfrau pl.: die Fachleute/die Fachmänner, die Fachfrauen
+der Fachmann pl.: die Fachleute/die Fachmänner
+der Fachmann pl.: die Fachleute/die Fachmänner
+der Fachmann pl.: die Fachleute/die Fachmänner
+der Fachmann pl.: die Fachleute/die Fachmänner [Patent Law]
+der Fachmann pl.: die Fachleute/die Fachmänner
+Fachmann im Finanzwesen
+Fachmann in Kreditangelegenheiten [Banking]
+intern tätiger Fachmann
+Fachmann für den Vertrieb
+","die Droge pl.: die Drogen
+die Droge pl.: die Drogen
+die Droge pl.: die Drogen [Drugs]
+die Droge pl.: die Drogen [Drugs]
+die Drogen pl.
+weiche Droge
+bewusstseinsverändernde Droge
+harte Droge [Drugs]
+illegale Droge [Drugs]
+illegale Droge [Drugs]
+legale Droge [Drugs]
+die Drogen-Notrufstelle
+Drogen im Straßenverkehr
+Drogen und Arzneimittel
+","die Geschäfte pl.
+die Geschäfte pl.
+die Geschäfte pl.
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+das Geschäft pl.: die Geschäfte
+","der (or: das) Teil pl.: die Teile
+das Teil pl.: die Teile
+das Teil pl.: die Teile
+der (or: das) Teil pl.: die Teile
+der Teil pl.: die Teile
+der Teil pl.: die Teile
+der Teil pl.: die Teile
+das Teil pl.: die Teile
+das Teil pl.: die Teile
+das Teil pl.: die Teile
+das Teil pl.: die Teile
+das Teil pl.: die Teile
+der (or: das) Teil pl.: die Teile
+der Teil pl.: die Teile
+","die Gewürze pl.
+das Gewürz pl.: die Gewürze
+das Gewürz pl.: die Gewürze
+das Gewürz pl.: die Gewürze
+der Gewürzlorbeer or: Gewürz-Lorbeer pl. Lat.: Laurus nobilis - Baum
+der Gewürzlorbeer or: Gewürz-Lorbeer pl.: die Gewürzlorbeeren Lat.: Laurus nobilis - Baum
+der Gewürzsumach or: Gewürz-Sumach pl.: die Gewürzsumache Lat.: Rhus coriaria
+der Gewürzsumach or: Gewürz-Sumach pl.: die Gewürzsumache Lat.: Rhus coriaria
+der Gewürzsumach or: Gewürz-Sumach pl. Lat.: Rhus coriaria
+der Gewürzlorbeer or: Gewürz-Lorbeer pl.: die Gewürzlorbeeren Lat.: Laurus nobilis
+der Gewürzsumach or: Gewürz-Sumach pl. Lat.: Rhus aromatica
+der Gewürz-Kälberkropf Lat.: Chaerophyllum aromaticum
+der Gewürz-Thymian Lat.: Thymus vulgaris
+der Gewürz-Thymian Lat.: Thymus vulgaris
+der Gewürz-Thymian Lat.: Thymus vulgaris
+","der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+der Arzt | die Ärztin pl.: die Ärzte, die Ärztinnen
+Berufsstand der Ärzte
+Gebührenordnung für Ärzte [abbr.: GOÄ]
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+der Arzt | die Ärztin im Praktikum [abbr.: AIP] obsolete
+beratender Arzt
+diensthabender (or: Dienst habender) Arzt
+","der Verein pl.: die Vereine
+der Verein pl.: die Vereine
+der Verein pl.: die Vereine
+der Verein pl.: die Vereine
+der Verein pl.: die Vereine
+der Verein pl.: die Vereine
+der Verein pl.: die Vereine [fig.] [coll.]
+Christlicher Verein junger Frauen [abbr.: CVJF]
+eingetragener Verein [abbr.: e. V.]
+eingetragener Verein [abbr.: e. V.]
+eingetragener Verein [abbr.: e. V.]
+eingetragener Verein [abbr.: e. V.]
+gemeinnütziger Verein
+gemeinnütziger Verein
+","die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+die Regierung pl.: die Regierungen
+schlechte Regierung
+britische Regierung
+gewählte Regierung
+Leistungsfähigkeit der Regierung - BMZ
+Dienststelle der Regierung
+provisorische Regierung
+die Mitte-Rechts-Regierung pl.: die Mitte-Rechts-Regierungen
+von der Regierung ausgegebene Anleihen pl.
+","der Gesundheits- und Krankenpfleger | die Gesundheits- und Krankenschwester - in Österr.
+der Gesundheits- und Krankenpfleger | die Gesundheits- und Krankenpflegerin - in Deutschland
+die Gesundheits- und Pflanzenschutznorm
+grundlegende Gesundheits- und Sicherheitsanforderungen [Standardization]
+Diplomierte Gesundheits- und Krankenschwester - offizielle Berufsbezeichnung (Austria)
+Diplomierter Gesundheits- und Krankenpfleger - offizielle Berufsbezeichnung (Austria)
+","die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+die Gegend pl.: die Gegenden
+abgelegene Gegenden
+entlegene Gegenden
+ländliche Gegend
+sumpfige Gegend
+","die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+stachlige Pflanze
+nichtholzartige Pflanze
+einheimische Pflanze
+fleischfressende (or: Fleisch fressende) Pflanze
+fleischfressende (or: Fleisch fressende) Pflanze
+schattenliebende Pflanze
+einhäusige Pflanze
+verbreitete Pflanze
+einjährige Pflanze
+perennierende Pflanze
+bienne Pflanze
+","der Augenblick pl.: die Augenblicke
+der Moment pl.: die Momente
+der Zeitpunkt pl.: die Zeitpunkte
+der Moment pl.: die Momente
+das Moment pl.: die Momente
+das Moment pl.: die Momente
+das Moment pl.: die Momente - Umstand, Gesichtspunkt
+das Moment pl.: die Momente - Umstand, Gesichtspunkt
+der Moment pl.: die Momente
+das Kräftepaar pl.: die Kräftepaare
+das Moment pl.: die Momente
+das Moment pl.: die Momente [Statistics]
+das Moment pl.: die Momente - Kräftepaar
+Moment der Unaufmerksamkeit
+","die Angst (vor etw.dat.) pl.: die Ängste
+die Angst (um) pl.: die Ängste
+die Lebensangst pl.: die Lebensängste
+neurotische Angst
+die Angst pl.: die Ängste
+die Angst pl.: die Ängste
+die Angst pl.: die Ängste
+die Angst pl.: die Ängste
+die Existenzangst pl.: die Existenzängste
+riesige Angst
+riesige Angst
+unbegründete Ängste pl.
+Angst vor Entlassung
+Angst, etwas zu verpassen
+","die Drogen pl.
+die Droge pl.: die Drogen
+die Droge pl.: die Drogen
+die Droge pl.: die Drogen [Drugs]
+die Droge pl.: die Drogen [Drugs]
+Drogen im Straßenverkehr
+Drogen und Arzneimittel
+psychedelische Drogen pl.
+Sensibilisierungskampagne Drogen (Switzerland) [Drugs]
+die Drogen-Notrufstelle
+der Anti-Drogen-Stab
+weiche Droge
+bewusstseinsverändernde Droge
+harte Droge [Drugs]
+","der Gesundheitsminister | die Gesundheitsministerin pl.: die Gesundheitsminister, die Gesundheitsministerinnen
+der Gesundheitsminister | die Gesundheitsministerin pl.: die Gesundheitsminister, die Gesundheitsministerinnen
+","der Erwachsene | die Erwachsene pl.: die Erwachsenen
+der Erwachsene | die Erwachsene pl.: die Erwachsenen
+der Erwachsene | die Erwachsene pl.: die Erwachsenen
+hilfsbedürftiger Erwachsener
+hilfsloser Erwachsener
+normaler Erwachsener
+erwachsener Sprecher
+erwachsener Verlust
+erwachsener Lernender
+betreuungsbedürftiger Erwachsener
+Weiterbildung für Erwachsene
+Morbus Still des Erwachsenen
+Still-Syndrom des Erwachsenen
+Still-Syndrom des Erwachsenen
+Fanconisches Syndrom des Erwachsenen
+Eltern mit erwachsenen Kindern
+die Akroosteolyse - familiäre oder sporadische, schubweise verlaufende Knochenerkrankung im Kindes- oder frühen Erwachsenenalter
+","die Qualität pl.: die Qualitäten
+die Qualität pl.: die Qualitäten
+die Qualität pl.: die Qualitäten
+die Qualitäten pl.
+die Qualitäten pl.
+Qualität der Einrichtungen
+Qualität der Einrichtungen
+Qualität der Betriebsprozesse - Kaplan
+Qualität der Außenluft
+schlechte Qualität
+akustische Qualität
+annehmbare Qualität
+durchschnittliche Qualität
+erste Qualität
+","Abholung vom Hause
+Arbeit im Hause
+die Zu-Hause-Leser pl.
+Büro zu Hause (or: zuhause)
+Betreuung zu Hause (or: zuhause)
+jmdn. zuhause or: zu Hause unterrichten - sein Kind
 "
 noun_details,english,"article: Der
 word: Name
@@ -3441,8 +6110,410 @@ genus: FEMI
 plural: Wochen
 meaning: week
 sennight or: se'nnight archaic
+","article: Das
+word: Wartezimmer
+genus: NEUT
+plural: Wartezimmer
+meaning: waiting room
+anteroom
+","article: Der
+word: Text
+genus: MASC
+plural: Texte
+meaning: text
+text
+",None,"article: das
+word: Radio
+genus: NEUT
+plural: Radios
+meaning: radio
+radio
+","article: Der
+word: Tag
+genus: FEMI
+plural: Tage
+meaning: monthlies plural noun [coll.] - menstrual period
+day
+","article: Die
+word: Katze
+genus: FEMI
+plural: Katzen
+meaning: cat - domestic cat [ZOOL.]
+feline
+","article: Der
+word: Dialog
+genus: MASC
+plural: Dialoge
+meaning: dialogueAE / dialogAEdialogueBE
+dialogueAE / dialogAEdialogueBE
+","article: Der
+word: Schnupfen
+genus: MASC
+plural: Schnupfen
+meaning: cold in the head
+cold
+","article: Die
+word: Arbeit
+genus: FEMI
+plural: Arbeiten
+meaning: job
+work also [PHYS.]
+","article: Der
+word: Spaziergang
+genus: MASC
+plural: Spaziergänge
+meaning: walk
+airing - walk, outing
+","article: Das
+word: Glück
+genus: NEUT
+plural: plural
+meaning: luck
+joy
+","article: Das
+word: Gefühl
+genus: NEUT
+plural: Gefühle
+meaning: emotion
+feeling
+","article: Das
+word: Getränk
+genus: NEUT
+plural: Getränke
+meaning: drink
+beverage
+","article: Das
+word: Attest
+genus: NEUT
+plural: Atteste
+meaning: attestation
+certificate
+","article: Das
+word: Kopfweh
+genus: NEUT
+plural: plural
+meaning: headache
+pain in the head [MED.]
+","article: Das
+word: Wunder
+genus: NEUT
+plural: Wunder
+meaning: wonder
+miracle
+","article: Der
+word: Kontakt
+genus: MASC
+plural: Kontakte
+meaning: contact also [TECH.]
+engagement
+","article: Das
+word: Kind
+genus: FEMI
+plural: Kinder
+meaning: kind
+kind
+","article: Der
+word: Kinderarzt
+genus: MASC
+plural: Kinderärzte
+meaning: pediatristAE / paediatristBE [MED.]
+pediatricianAE / paediatricianBE [MED.]
+",None,"article: Das
+word: Schmerzmittel
+genus: NEUT
+plural: Schmerzmittel
+meaning: pain reliever
+painkiller [PHARM.]
+","article: Die
+word: Schule
+genus: FEMI
+plural: Schulen
+meaning: school
+school - of fish, dolphins
+","article: Das
+word: Medikament
+genus: FEMI
+plural: Medikamente
+meaning: drugs pl. [PHARM.]
+drug
+","article: Der
+word: Tag
+genus: MASC
+plural: Tage
+meaning: day
+tag
+","article: Der
+word: Schmerz
+genus: FEMI
+plural: Schmerzen
+meaning: pangs pl.
+pain
+","article: Der
+word: Arzt
+genus: MASC
+plural: Ärzte
+meaning: doctor [MED.]
+physician
+","article: Die
+word: Nachricht
+genus: FEMI
+plural: Nachrichten
+meaning: news - TV, radio used with sg. verb
+tidings plural noun
+","article: Die
+word: Geschichte
+genus: FEMI
+plural: Geschichten
+meaning: story
+history no plural - past events
+","article: Die
+word: Pflanze
+genus: FEMI
+plural: Pflanzen
+meaning: plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+","article: das
+word: Mittel
+genus: NEUT
+plural: die Mittel
+meaning: means - pl.: means
+medium - pl.: media
+","article: Die
+word: Chemie
+genus: FEMI
+plural: Chemien
+meaning: chemistry
+chemical industry
+","article: der
+word: Vertrag
+genus: MASC
+plural: die Verträge
+meaning: agreement [LAW]
+contract [LAW]
+","article: Die
+word: Bundesregierung
+genus: FEMI
+plural: Bundesregierungen
+meaning: federal government
+Federal Government [POL.]
+","article: Der
+word: Verkauf
+genus: MASC
+plural: Verkäufe
+meaning: sale [COMM.]
+disposal
+","article: Die
+word: Partei
+genus: FEMI
+plural: Parteien
+meaning: party [LAW][POL.]
+side - opposing group
+","article: Das
+word: Gehirn
+genus: NEUT
+plural: Gehirne
+meaning: brain
+encephalon [ANAT.]
+","article: Der
+word: Sand
+genus: MASC
+plural: Sande / Sände
+meaning: sand
+sand
+","article: Der
+word: Drogenhändler
+genus: MASC
+plural: Drogenhändler
+meaning: drug trafficker
+dealer
+","article: die
+word: Leute
+genus: FEMI
+plural: Leute
+meaning: people plural noun
+folk
+","article: Der
+word: Zucker
+genus: MASC
+plural: Zucker
+meaning: sugar
+diabetes [MED.]
+","article: der
+word: Händler
+genus: MASC
+plural: die Händler, die Händlerinnen
+meaning: dealer [COMM.]
+merchant [COMM.]
+","article: Das
+word: Blatt
+genus: FEMI
+plural: Blätter
+meaning: foliage no plural
+sheet
+","article: Das
+word: Beispiel
+genus: NEUT
+plural: Beispiele
+meaning: example (of)
+instance (of)
+","article: Der
+word: Streit
+genus: MASC
+plural: Streite
+meaning: argument - row
+dispute
+","article: Die
+word: Bedingung
+genus: FEMI
+plural: Bedingungen
+meaning: terms pl.
+conditionality
+","article: Der
+word: Rausch
+genus: MASC
+plural: Räusche
+meaning: inebriation
+intoxication
+","article: der
+word: Cannabis
+genus: MASC
+plural: plural
+meaning: cannabis [BOT.]
+cannabis [BOT.]
+","article: Die
+word: Erlaubnis
+genus: FEMI
+plural: Erlaubnisse
+meaning: permission
+permit
+","article: Der
+word: Koalitionsvertrag
+genus: MASC
+plural: Koalitionsverträge
+meaning: coalition agreement
+
+","article: der
+word: Minister
+genus: MASC
+plural: die Minister, die Ministerinnen
+meaning: minister (Brit.)
+secretary (Amer.)
+","article: Der
+word: Drogenhändler
+genus: MASC
+plural: Drogenhändler
+meaning: drug trafficker
+dealer
+","article: die
+word: Fachleute
+genus: FEMI
+plural: Fachleute
+meaning: specialists pl.
+experts pl.
+","article: Die
+word: Droge
+genus: FEMI
+plural: Drogen
+meaning: drug
+dependence causing substance
+","article: Das
+word: Geschäft
+genus: FEMI
+plural: Geschäfte
+meaning: dealings pl.
+commercial operations pl.
+","article: Das
+word: Teil
+genus: MASC
+plural: Teile
+meaning: part also [TECH.]
+particle
+","article: Das
+word: Gewürz
+genus: FEMI
+plural: Gewürze
+meaning: spicery
+spice
+","article: Der
+word: Arzt
+genus: MASC
+plural: Ärzte
+meaning: doctor [MED.]
+physician
+","article: Der
+word: Verein
+genus: MASC
+plural: Vereine
+meaning: association
+club
+","article: die
+word: Regierung
+genus: FEMI
+plural: die Regierungen
+meaning: government
+administration (Amer.) [POL.]
+","article: der
+word: Gesundheits-
+genus: MASC
+plural: Österr.
+meaning: nurse
+nurse
+","article: Die
+word: Gegend
+genus: FEMI
+plural: Gegenden
+meaning: neighborhoodAE / neighbourhoodBE
+area
+","article: Die
+word: Pflanze
+genus: FEMI
+plural: Pflanzen
+meaning: plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+","article: Der
+word: Moment
+genus: MASC
+plural: Momente
+meaning: moment
+moment
+","article: Die
+word: Angst
+genus: FEMI
+plural: Ängste
+meaning: fear (of sth.)
+anxiety (for) [PSYCH.]
+","article: Die
+word: Droge
+genus: FEMI
+plural: Drogen
+meaning: drugs pl. [PHARM.]
+drug
+","article: Der
+word: Gesundheitsminister
+genus: MASC
+plural: Gesundheitsminister
+meaning: Secretary of State for Health - in the UK [POL.]
+health minister [POL.]
+","article: Die
+word: Erwachsene
+genus: MASC
+plural: die Erwachsenen
+meaning: adult
+grownup
+","article: Die
+word: Qualität
+genus: FEMI
+plural: Qualitäten
+meaning: quality
+grade
+","article: Das
+word: Haus
+genus: 
+plural: Häuser
+meaning: collection from domicile [COMM.]
+indoor work
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"by name - postpos.
 according to name
 in all but name
@@ -3873,6 +6944,282 @@ biweekly or: bi-weekly adj. adv.
 in a fortnight
 within a week or two
 every other week
+",None,"textual adj.
+without any text [ART.]
+",None,"on the radio
+over the radio
+radio-controlled adj.
+radio-controlled adj. [TECH.]
+radio-controlled adj. [TECH.]
+radio-opaque adj. [PHYS.]
+radio-opaque adj. [PHYS.]
+radio-opaque adj. [PHYS.]
+radio-based adj. [TECH.]
+radio-interference-suppressed adj. [TECH.]
+two-way-radio adj. [TECH.]
+suitable for radio transmission [TECH.]
+","in the daytime
+some day (or: someday) adv.
+one day
+one of these days
+above ground
+at the surface
+in the daytime
+in daytime
+on the day of judgmentAE on the day of judgementBE
+on the surface [TECH.]
+underground adj. [TECH.]
+aboveground (Amer.) adj. [TECH.]
+belowgroundAE / below-groundBE adj. adv.
+at the pithead
+","cat-like adj.
+feline adj.
+","online or: on-line adj.
+conversational adj.
+in dialogueAE / dialogAE form in dialogueBE form
+","rheumy adj.
+","seeking work
+disinclined to work
+work-related adj.
+work-related adj. [TECH.]
+in the works
+under progress
+out of a job
+at work
+at work
+on the job
+at work
+out of work
+young in one's job
+secretarial adj.
+unearned adj.
+",None,"fortunately adv.
+thankfully adv.
+mercifully adv.
+lucky adj.
+talismanic adj.
+auspicious adj.
+propitious adj.
+fortunate adj.
+eudemonicAE / eudaemonicBE adj.
+blessed adj.
+luckless adj.
+luckily for so.
+lucky adj.
+fluky or: flukey adj.
+","emotive adj.
+emotive adj.
+overwhelmed with emotion
+",None,None,None,"sore adj.
+raw - red and painful adj.
+magical adj.
+miraculously adv.
+as if by a miracle
+as by a wonder
+","touch-sensitive adj.
+in close contact
+","kind adj.
+kind adj.
+kind adj.
+kind adj.
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kind adj. [GEOL.]
+kindly adj. - e.g. climate
+",None,None,None,"in school
+of the old school
+","unmedicated adj.
+","some day (or: someday) adv.
+one day
+one of these days
+in the daytime
+around-the-clock or: round-the-clock adj.
+per diem
+on a daily basis
+per day
+every day
+in broad daylight
+all day
+all day long
+in broad daylight
+the next day
+","ailing adj.
+pained adj.
+anguished adj.
+distract with pain
+distracted with pain
+",None,"newsless adj.
+","storied adj.
+storied adj.
+","herbivorous adj.
+phytophagous adj. [BIOL.]
+vegetable adj.
+botanical adj.
+herb-rich adj. [BOT.][ENV.]
+","medium adj. also [TECH.]
+mid adj.
+middle adj.
+average adj.
+mean adj. - average
+medium adj.
+central adj.
+intermediate adj.
+median adj. also [MATH.][MED.]
+medial adj. [MATH.]
+beyond one's means
+moderately combustible
+stranded adj.
+out of money
+",None,"under contract
+required by the contract
+covenanted adj.
+noncontractualAE / non-contractualBE adj.
+expressed in the contract
+involved in the contract
+in foreign contracts
+under the terms of the contract
+",None,"for sale
+on sale
+up for sale
+for sale or trade
+for selling
+vending adj.
+for sale
+","bipartisan adj.
+bipartisan adj.
+ex parte [LAW]
+bipartisan adj.
+bipartisan adj.
+partisan adj.
+","cerebral adj.
+encephalic adj. [ANAT.]
+cerebral adj. - used before noun
+encephalic adj. [ANAT.]
+","sand blasted
+sand yellow
+sand-blind adj.
+white-sanded adj.
+",None,"short-handed adj.
+","sugary adj.
+sugarless adj.
+frosted adj. (Amer.) - fruit [COOK.]
+",None,None,"for example [abbr.: e.g.] - e.g.: abbr. of Latin ""exempli gratia""
+for instance
+such as
+for one
+by way of example
+such as
+instancing adj.
+without precedent
+","wanting to quarrel
+","no strings attached [coll.]
+on one condition
+on condition that
+on equal terms
+on what terms
+under certain conditions
+unconditional adj.
+under similar conditions
+in any circumstance
+under certain conditions
+under specific conditions
+on these terms
+on friendly terms
+on good terms
+",None,None,"without permission
+absent without leave [abbr.: AWOL]
+",None,None,None,"peer-reviewed adj.
+",None,"commercial adj.
+fiscal adj. [COMM.]
+on business
+acting adj. [COMM.]
+","partly adv.
+to some extent
+in part
+constituent adj.
+a great deal
+for the most part
+paid in part
+part-paid adj.
+partial adj.
+in whole or in part
+part adj.
+partial adj.
+in half
+partly paid
+","spiced adj.
+spicy adj.
+",None,None,"intergovernmental adj.
+autonomous adj.
+governmental adj.
+government-controlled adj.
+government-controlled adj.
+intergovernmental adj.
+","sanitary adj.
+","hereabout or: hereabouts adv.
+in the vicinity of
+",None,"at the moment
+right now
+this minute - a short while ago (Brit.)
+at the moment
+at the moment
+at the moment
+at the moment
+momentarily adv.
+in a moment
+in a moment
+in a moment
+for a moment
+at the same moment
+for the nonce dated
+","scaryAE adj.scaryBE / scareyBE adj.
+anxiolytic adj. [MED.]
+in anxiety
+in fear
+angst-inducing adj.
+angst-ridden adj.
+ridden by fears
+",None,None,"adult adj.
+grown-up adj.
+grown adj.
+teenage or: teenaged adj. - used before noun
+","high-grade adj.
+according to quality
+low grade
+off-grade adj.
+of highest quality
+top-quality adj.
+high class
+high-quality adj.
+high-grade adj.
+choice adj.
+of best quality
+of first-class quality
+of good quality
+of inferior quality
+shoddy adj.
+top-drawer adj. [fig.]
+stinkeroo adj. (Amer.) [coll.]
+","indoors adv.
+in the house
+residential adj.
+inside adj.
+on the premises
+at home
+home adv.
+home adv.
+homeward adj. adv.
+at so.'s home
+at so.'s house
+by birth
+originally adv.
+homelike adj.
 "
 adjectives_or_adverbs,german,"namentlich
 nach Namen
@@ -4304,6 +7651,282 @@ alle zwei Wochen
 in zwei Wochen
 in ein bis zwei Wochen
 jede zweite Woche
+",None,"Text...
+ohne Schrift - Druckgrafik: Beschriftung
+",None,"im Radio
+im Radio
+ferngelenkt
+funkgesteuert
+mit Funksteuerung
+röntgendicht
+röntgenstrahlenundurchlässig
+röntgenfähig
+funkbasiert
+entstört
+Funk...
+funkfähig
+","am Tage
+eines Tages
+eines Tages
+eines Tages
+übertage or: über Tage
+übertage or: über Tage
+bei Tage
+bei Tage
+am jüngsten Tage
+übertage or: über Tage [Mining]
+untertage or: unter Tage [Mining]
+über Tage
+untertage (or: unter Tage) [Mining]
+über Tage [Mining]
+","wie eine Katze
+Katzen...
+","im Dialog
+Dialog...
+in Gesprächsform
+","Schnupfen hervorrufend
+","arbeitsuchend or: Arbeit suchend, arbeitssuchend
+der Arbeit abgeneigt
+die Arbeit betreffend
+Arbeit betreffend
+in Arbeit
+in Arbeit
+ohne Arbeit
+auf der Arbeit
+bei der Arbeit
+bei der Arbeit
+in der Arbeit
+ohne Arbeit
+unerfahren in seiner Arbeit
+die Arbeit des Sekretariats betreffend
+nicht durch eigene Arbeit erworben
+",None,"zum Glück
+zum Glück
+zum Glück
+glückbringend or: Glück bringend
+glückbringend or: Glück bringend
+glückverheißend or: Glück verheißend
+glückverheißend or: Glück verheißend
+glückverheißend or: Glück verheißend
+Glück bringend
+vom Glück verwöhnt
+ohne Glück
+zu jmds. Glück
+Glücks...
+Glücks...
+","das Gefühl ansprechend
+die Gefühle ansprechend
+von Gefühlen überwältigt
+",None,None,None,"wund
+wund
+Wunder...
+wie durch ein Wunder
+wie durch ein Wunder
+wie durch ein Wunder
+","Kontakt...
+in engem Kontakt
+","freundlich
+nett
+liebenswürdig
+gütig
+aussichtsvoll [Mining]
+höffig [Mining]
+hoffnungsvoll [Mining]
+gestaltig [Mining]
+höfflich [Mining]
+hoffnungserregend [Mining]
+nicht genau bekannt [Mining]
+nicht nachgewiesen [Mining]
+nicht sicher [Mining]
+angenehm
+",None,None,None,"in der Schule
+von der alten Schule
+","ohne Medikamente
+","eines Tages
+eines Tages
+eines Tages
+am Tage
+Tag und Nacht
+pro Tag
+pro Tag
+pro Tag
+jeden Tag
+mitten am Tag
+den ganzen Tag
+den ganzen Tag
+am helllichten Tag (or: Tage)
+am nächsten Tag
+","Schmerzen habend
+von Schmerzen gequält
+von Schmerz geplagt
+wahnsinnig vor Schmerz
+wahnsinnig vor Schmerz
+",None,"ohne Nachrichten
+","in die Geschichte eingegangen
+mit Geschichten geschmückt
+","pflanzenfressend or: Pflanzen fressend
+pflanzenfressend or: Pflanzen fressend
+Pflanzen...
+Pflanzen...
+reich an krautigen Pflanzen
+","mittel
+mittel
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+mittlerer | mittlere | mittleres
+die Mittel übersteigend
+mittelbrennbar or: mittel brennbar [Fire Safety/Fire Protection]
+ohne Mittel
+ohne Mittel
+",None,"unter Vertrag
+im Vertrag vorgesehen
+durch Vertrag verpflichtet
+nicht dem Vertrag entsprechend
+im Vertrag ausdrücklich angeführt
+durch den Vertrag bedingt
+in Verträgen mit dem Ausland
+unter den Bedingungen des Vertrags
+",None,"zum Verkauf
+zum Verkauf
+zum Verkauf
+zum Verkauf oder zum Handel
+für den Verkauf
+Verkaufs...
+zum Zweck des Verkaufs
+","beider Parteien
+zweier Parteien
+seitens einer Partei
+von beiden Parteien getragen
+zwei Parteien vertretend
+einer Partei blind folgend
+","das Gehirn betreffend
+das Gehirn betreffend
+Gehirn...
+Gehirn...
+","sandgestrahlt
+sandgelb
+schwachsichtig obsolete
+mit weißem Sand - nachgestellt
+",None,"mit zu wenigen Leuten
+","aus Zucker
+ohne Zucker
+mit Zucker bestreut
+",None,None,"zum Beispiel [abbr.: z. B.]
+zum Beispiel [abbr.: z. B.]
+zum Beispiel [abbr.: z. B.]
+zum Beispiel
+als Beispiel
+wie zum Beispiel
+als Beispiel anführend
+ohne Beispiel
+","auf Streit aus
+","ohne Bedingungen
+unter einer Bedingung
+unter der Bedingung, dass
+zu gleichen Bedingungen
+zu welchen Bedingungen
+unter gewissen Bedingungen
+nicht gebunden an Bedingungen
+unter ähnlichen Bedingungen
+unter allen Bedingungen
+unter bestimmten Bedingungen
+unter bestimmten Bedingungen
+zu diesen Bedingungen
+zu günstigen Bedingungen
+zu guten Bedingungen
+",None,None,"ohne Erlaubnis
+ohne Erlaubnis abwesend
+",None,None,None,"durch Fachleute überprüft
+",None,"Geschäfts...
+Geschäfts...
+in Geschäften
+mit der Wahrnehmung der Geschäfts beauftragt
+","zum Teil [abbr.: z. T.]
+zum Teil [abbr.: z. T.]
+zum Teil [abbr.: z. T.]
+einen Teil bildend
+ein großer Teil
+zum größten Teil
+zum Teil bezahlt
+zum Teil bezahlt
+nur zum Teil
+im Ganzen oder zum Teil
+Teil...
+Teil...
+in zwei Teile
+nur zum Teil bezahlt
+","Gewürz...
+Gewürz...
+",None,None,"zwischen den Regierungen
+mit eigener Regierung
+von der Regierung ausgehend
+von der Regierung gelenkt
+von der Regierung kontrolliert
+zwischen zwei Regierungen
+","Gesundheits...
+","in dieser Gegend
+in der Gegend von
+",None,"im Moment
+im Moment
+im Moment - soeben
+im Augenblick
+momentan - augenblicklich
+zurzeit [abbr.: zz., zzt.] adv.
+augenblicklich
+für einen Moment
+gleich adv.
+sofort adv.
+augenblicklich adv.
+momentan - vorübergehend
+im gleichen Moment
+für den Moment
+","angsteinflößend or: Angst einflößend
+Angst lösend
+in Angst
+in Angst
+angsteinflößend
+von Ängsten erfüllt
+von Ängsten geplagt
+",None,None,"erwachsen
+erwachsen
+erwachsen
+nicht erwachsen
+","hoher Qualität
+nach Qualität
+von niedriger Qualität
+von geringer Qualität
+von höchster Qualität
+von höchster Qualität
+von hoher Qualität
+von hoher Qualität
+von hoher Qualität
+von auserlesener Qualität
+von bester Qualität
+von bester Qualität
+von guter Qualität
+von minderer Qualität
+von schlechter Qualität
+von höchster Qualität
+von schlechter Qualität
+","im Haus (or: Hause)
+im Haus (or: Hause)
+im Haus (or: Hause)
+im Haus (or: Hause)
+im Hause
+zu Hause or: zuhause
+nachhause or: nach Hause
+zu Hause or: zuhause
+nach Hause
+bei jmdm. zuhause or: zu Hause
+bei jmdm. zuhause or: zu Hause
+von Hause aus
+von Hause aus
+wie zu Hause (or: zuhause)
 "
 phrases_or_collocations,english,"What's in a name?
 a name to conjure with
@@ -4577,6 +8200,237 @@ this time last week
 a week from today
 in week commencing ... [abbr.: w/c] - +date
 twenty-four-seven or: 24/7, 24-7 adv. [coll.]
+",None,"stet [PRINT.]
+","Thank you.
+Thanks!
+Thx (Brit.) - abbreviation for 'thanks' used in emails or text messages
+Cheers! [coll.] (Brit.)
+ta (Brit.) [coll.]
+Ta! (Brit.) [sl.]
+Thank you.
+I'm fine, thanks.
+No, thanks.
+No, thank you.
+Thank you very much.
+Thanks.
+Thank you, the same to you!
+And you! (Brit.) - response to something said in parting such as 'Have a nice weekend.'
+",None,"G'day! or: Gidday! [coll.] (Aust.; N.Z.)
+It's not over till the fat lady sings.
+It's not over till the fat lady sings. (Amer.)
+The evening crowns the day.
+a whole five days
+it's that time of the month for her
+donkey's years
+Christmas comes but once a year. [fig.]
+for ever and a day
+to have a face as long as a fiddle [coll.] [fig.]
+Good afternoon!
+How do you do? [form.] (Brit.)
+Have a nice day!
+Carpe diem. Latin
+","to buy a pig in a poke
+When the cat's away, the mice will play.
+When the cat is away the mice will play.
+A leopard doesn't change its spots.
+When the cat's away, the mice do play
+to let the cat out of the bag [fig.]
+to beat about the bush [coll.] [fig.]
+All cats are grayAE by night.All cats are greyBE by night.
+All cats are grayAE in the dark.All cats are greyBE in the dark.
+",None,None,"work in progress
+all work and no play makes Jack a dull boy
+Business is the salt of life.
+a job that pays well
+back to the salt mines
+a good piece of craftsmanship
+a piece of solid workmanship
+Business before pleasure.
+Many hands make light work.
+equal pay for equal work![POL.]
+","a waltz [fig.]
+","Godspeed!
+Good luck!
+All the best!
+best of luck
+the key to happiness
+Fortune favorsAE the brave.Fortune favoursBE the brave.
+Fortune is fickle.
+Fortune favorsAE the bold.Fortune favoursBE the bold.
+Good riddance!
+luck is on so.'s side
+luck is on so.'s side
+Happiness is as brittle as glass.
+Good riddance!
+Glasses and lasses are brittle ware! (Scot.)
+","to feel sth. in one's bones
+to my mind
+It's just a hunch.
+to have a bad vibe about this
+with mixed feelings
+with mingled feelings
+the gamut of emotions
+",None,None,None,"a sore point
+a tender spot
+mirabile dictu Latin
+to get the shock of one's life
+Pigs might fly.
+a name to conjure with
+to get a nasty surprise
+to add insult to injury
+to rub salt into so.'s wounds [fig.]
+to turn the knife in a wound [fig.]
+","contact us
+","as a child
+a kind (of) ...
+kind of
+kind of
+kind regards
+kind regards
+bag and baggage
+Kind regards, ...
+to call a spade a spade
+to call a spade a spade
+to throw out the baby with the bath water
+what kind of
+with kind regards
+with kind regards
+",None,"Stay healthy!
+Keep away from me!
+Cobbler, stick to your (or: thy) last.
+A cobbler should stick to his last.
+",None,"a school of dolphins [ZOOL.]
+a pod of dolphins [ZOOL.]
+to spill the beans [fig.]
+to tell tales out of school - tell secrets [fig.]
+to reveal confidential information
+That set a precedent.
+We learn not for school, but for life.
+",None,"G'day! or: Gidday! [coll.] (Aust.; N.Z.)
+Good afternoon!
+How do you do? [form.] (Brit.)
+Have a nice day!
+Carpe diem. Latin
+Seize the day.
+a fine day for ducks
+a good day for ducks
+a red-letter day
+a black day
+Good day! [form.]
+day after day
+the whole blessed day
+Rome was not built in a day
+",None,"a doctor friend of mine
+","No news is good news.
+","a fake story
+a made-up story
+this is history in the making
+this is history in the making
+That's a pretty mess!
+The two stories agree.
+","a good cropper
+","a means of
+ways and means
+a means to an end
+The end justifies the means.
+to leave no stone unturned [fig.]
+",None,"This agreement witnesseth ... [LAW]
+",None,"a rapid sale
+sale as seen
+","all parties concerned
+one of the parties is deprived of a step in the hierarchy of the courts [LAW]
+",None,"to build sth. on sand [fig.]
+to pull the wool over so.'s eyes
+to throw a spanner in the works [fig.]
+ten a penny (Brit.)
+... are a dime a dozen (Amer.)
+to be built on sand - unstable [fig.]
+to bust one's head in the sand [fig.]
+... are thick on the ground [coll.]
+to be built on sand [fig.]
+to be built on sand [fig.]
+to peter out
+to come to nothing
+to fizzle out chiefly (Amer.) [coll.]
+to come to naught
+to end in talk
+The sands are running out.
+The sands of life are running out.
+",None,"one's people [coll.] dated
+the likes of ...
+most people
+Hi peeps! [coll.]
+people of position
+Fine feathers make fine birds.
+all sorts of people
+You're not the only pebble on the beach
+Clothes make the man
+30 people or so
+to hammer sth. ⇔ home [fig.]
+",None,None,"Blades down. [SPORT.]
+Drop. [SPORT.]
+Pull in your blades. [SPORT.]
+Raise your blades. [SPORT.]
+to turn the tide
+a sheet of paper
+a dark horse [fig.]
+the tide has turned
+The tide has turned.
+The boot is on the other foot. (Brit.)
+He doesn't mince matters.
+not to mince one's words
+to be outspoken
+not to mince matters
+","a case in point
+Like what?
+","to be at loggerheads with so.
+","other things being equal
+other things constant
+Please allow us your very best terms.
+subject to certain conditions
+subject to some condition
+",None,None,None,None,None,None,None,None,"How's business?
+business that pays
+a good stroke of business
+a profitable business
+a profitable deal
+a big deal
+","divide and conquer [COMP.]
+for my share
+most of the day
+",None,"a doctor friend of mine
+",None,None,None,None,"a good cropper
+","Wait a minute! - used when so. has just had a sudden idea or noticed something
+Wait a moment! - used when so. has just had a sudden idea or noticed something
+Wait a second! - used when so. has just had a sudden idea or noticed something
+Hang on!
+Just a moment, please!
+Just a second, please!
+Hold it! [coll.]
+Wait a sec! - used when so. has just had a sudden idea or noticed something [coll.]
+just a moment
+at the eleventh hour
+Hold on!
+at the eleventh (or: 11th) hour [fig.]
+at the last moment [fig.]
+at the last moment [fig.]
+at the last moment [fig.]
+to have a senior moment [fig.] [hum.]
+in the heat of the moment [LAW]
+","to put the wind up so. [coll.] [fig.]
+Never fear!
+to shit a brick [vulg.] [sl.]
+to be scared shitless [vulg.]
+to scare the shit out of so. [vulg.]
+",None,None,"as an adult
+as an adult
+assembly by adult only
+Get a life!
+",None,"Charity begins at home.
+Make yourself at home.
+Make yourself at home.
+first thing when I get home
+to be master in one's own house [fig.]
 "
 phrases_or_collocations,german,"Name ist Schall und Rauch.
 ein Name, der Wunder wirkt
@@ -4850,6 +8704,237 @@ letzte Woche um diese Zeit
 heute in einer Woche
 in der Woche vom ... bis ...
 24 Stunden am Tag, sieben Tage die Woche
+",None,"Text bleibt
+","Danke.
+Danke!
+Danke!
+Danke!
+danke
+Danke!
+Danke schön.
+Danke, gut.
+Nein, danke.
+Nein, danke.
+Danke schön.
+Danke schön.
+Danke, gleichfalls!
+Danke, gleichfalls!
+",None,"Tag!
+Es ist noch nicht aller Tage Abend.
+Es ist noch nicht aller Tage Abend.
+Es ist noch nicht aller Tage Abend.
+ganze fünf Tage
+sie hat ihre Tage
+ewig und drei Tage
+Es ist nicht alle Tage Sonntag. [fig.]
+ewig und drei Tage [coll.]
+ein Gesicht wie drei Tage Regenwetter machen [coll.] [fig.]
+Guten Tag!
+Guten Tag!
+Einen schönen Tag noch!
+Nutze den Tag.
+","die Katze im Sack kaufen
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse.
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch.
+Die Katze lässt das Mausen nicht.
+Wenn die Katze aus dem Haus ist, tanzen die Mäuse
+die Katze aus dem Sack lassen [fig.]
+wie die Katze um den heißen Brei schleichen rare
+Bei Nacht sind alle Katzen grau.
+Nachts sind alle Katzen grau.
+",None,None,"in Arbeit
+Arbeit allein macht nicht glücklich
+Arbeit macht das Leben süß.
+eine Arbeit, die sich bezahlt macht
+zurück an die Arbeit
+ein gutes Stück Arbeit
+ein solides Stück Arbeit
+Erst die Arbeit, dann das Vergnügen.
+Viele Hände machen der Arbeit bald ein Ende.
+gleicher Lohn für gleiche Arbeit!
+","ein Spaziergang [fig.]
+","Viel Glück!
+Viel Glück!
+Viel Glück!
+viel Glück
+der Schlüssel zum Glück
+Glück hat nur der Tüchtige
+Das Glück ist launisch.
+Das Glück ist mit dem Tüchtigen.
+Ein Glück, dass wir ihn/sie los sind!
+das Glück ist auf jmds. Seite
+das Glück ist jmdm. hold
+Glück und Glas, wie leicht bricht das.
+Ein Glück, dass ich den los bin!
+Glück und Glas, wie leicht bricht das!
+","etw.acc. im Gefühl haben [coll.] [fig.]
+für mein Gefühl
+Es ist nur so ein Gefühl.
+ein schlechtes Gefühl bei der Sache haben
+mit gemischten Gefühlen
+mit gemischten Gefühlen
+die ganze Bandbreite an Gefühlen
+",None,None,None,"ein wunder Punkt
+ein wunder Punkt
+oh Wunder
+sein blaues Wunder erleben
+Da müsste schon ein Wunder geschehen.
+ein Name, der Wunder wirkt
+sein blaues Wunder erleben [fig.] [coll.]
+Salz in die Wunden streuen
+Salz in jmds. Wunde streuen
+Salz in jmds. Wunde streuen
+","Kontakt - z.B. Website
+","als Kind
+eine Art von ...
+irgendwie adv.
+ziemlich adv.
+herzliche Grüße
+freundliche Grüße
+Kind und Kegel
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+das Kind beim Namen nennen
+das Kind beim rechten Namen nennen
+das Kind mit dem Bade ausschütten [fig.]
+was für
+mit freundlichen Empfehlungen
+mit herzlichen Grüßen
+",None,"Bleib gesund!
+Bleib mir vom Leib!
+Schuster, bleib bei deinen (or: deinem) Leisten
+Schuster, bleib bei deinen (or: deinem) Leisten.
+",None,"eine Schule Delphine (or: Delfine)
+eine Schule Delphine (or: Delfine)
+aus der Schule plaudern [fig.]
+aus der Schule plaudern [fig.]
+aus der Schule plaudern [fig.]
+Das hat Schule gemacht.
+Nicht für die Schule, sondern für das Leben lernen wir. - umgekehrtes Zitat des römischen Autors Seneca
+",None,"Tag!
+Guten Tag!
+Guten Tag!
+Einen schönen Tag noch!
+Nutze den Tag.
+Nutze den Tag.
+ein regnerischer Tag
+ein regnerischer Tag
+ein denkwürdiger Tag
+ein schwarzer Tag
+Guten Tag!
+Tag für Tag
+den lieben langen Tag
+Rom wurde auch nicht an einem Tag erbaut
+",None,"ein befreundeter Arzt
+","Keine Nachrichten sind gute Nachrichten.
+","eine erfundene Geschichte
+eine erfundene Geschichte
+hier wird Geschichte gemacht
+hier wird Geschichte geschrieben
+Das ist ja eine schöne Geschichte! - ironisch
+Beide Geschichten stimmen überein.
+","eine gut tragende Pflanze
+","ein Mittel zur
+Mittel und Wege
+ein Mittel zum Zweck
+Der Zweck heiligt die Mittel.
+kein Mittel unversucht lassen
+",None,"Dieser Vertrag bezeugt wie folgt: ...
+",None,"ein schneller Verkauf
+Verkauf wie gesehen
+","alle beteiligten Parteien
+eine Partei geht eines Rechtszugs verlustig
+",None,"etw.acc. auf Sand bauen
+jmdm. Sand in die Augen streuen
+Sand ins Getriebe streuen [fig.]
+wie Sand am Meer
+... gibt es wie Sand am Meer
+auf Sand gebaut sein [fig.]
+den Kopf in den Sand stecken [fig.]
+... gibt es wie Sand am Meer
+auf schwachen Füßen stehen
+auf tönernen Füßen stehen
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+Die Zeit geht zu Ende.
+Die Zeit geht zu Ende.
+",None,"jmds. Leute - Familienangehörige
+Leute wie ...
+die meisten Leute
+Hallo, Leute!
+Leute von Rang
+Kleider machen Leute.
+alle möglichen Leute
+Hinterm Berge wohnen auch Leute
+Kleider machen Leute
+rund 30 Leute
+etw.acc. in die Köpfe der Leute bekommen
+",None,None,"Blätter ab. - Ruderkommando
+Blätter ab. - Ruderkommando
+Blätter einziehen. - Ruderkommando
+Blätter hoch. - Ruderkommando
+das Blatt wenden
+ein Blatt Papier
+ein unbeschriebenes Blatt [fig.]
+das Blatt hat sich gewendet
+Das Blatt hat sich gewendet.
+Das Blatt hat sich gewendet.
+Er nimmt kein Blatt vor den Mund.
+kein Blatt vor den Mund nehmen
+kein Blatt vor den Mund nehmen
+kein Blatt vor den Mund nehmen
+","ein typisches Beispiel
+Was zum Beispiel?
+","mit jmdm. im Streit liegen
+","unter sonst gleichen Bedingungen
+unter sonst gleichen Bedingungen
+Bitte geben Sie uns Ihre besten Bedingungen.
+unter gewissen Bedingungen
+unter einer Bedingung
+",None,None,None,None,None,None,None,None,"Wie gehen die Geschäfte?
+gewinnbringendes (or: Gewinn bringendes) Geschäft
+ein gutes Geschäft
+ein einträgliches Geschäft
+ein einträgliches Geschäft
+ein großes Geschäft
+","teile und herrsche
+für meinen Teil
+der größte Teil des Tages
+",None,"ein befreundeter Arzt
+",None,None,None,None,"eine gut tragende Pflanze
+","Moment mal!
+Moment mal!
+Moment mal!
+Moment mal!
+Einen Moment bitte!
+Einen Moment bitte!
+Moment mal! [coll.]
+Moment mal! [coll.]
+einen Augenblick
+im letzten Moment
+Warte einen Moment!
+im letzten Moment [fig.]
+im letzten Moment [fig.]
+auf den letzten Drücker [fig.]
+im letzten Augenblick [fig.]
+Alzheimer haben [coll.] [hum.]
+im Affekt
+","jmdm. Angst einjagen
+Keine Angst!
+sichdat. vor Angst in die Hosen (or: Hose) scheißen [vulg.]
+sichdat. vor Angst in die Hosen scheißen [vulg.]
+jmdn. dazu bringen, sichdat. vor Angst fast in die Hose zu machen
+",None,None,"als Erwachsene
+als Erwachsener
+Montage nur durch Erwachsene
+Werd endlich erwachsen! [coll.]
+",None,"Nächstenliebe beginnt zu Hause (or: zuhause). - englisches Sprichwort
+Fühl dich wie zu Hause (or: zuhause).
+Fühlen Sie sich wie zu Hause (or: zuhause).
+gleich wenn ich zu Hause (or: zuhause) bin
+Herr im eigenen Hause sein [fig.]
 "
 examples,english,"name and address are kept secret
 I didn't catch your name.
@@ -5237,6 +9322,277 @@ a week or so
 She goes every week.
 She comes every week.
 It should require a week
+",None,"Frequent errors detract from clarity within the text.
+problems caused by the text
+","Thank you for your understanding.
+It was a pleasure to work with you.
+Thank you for being such a good colleague.
+Thank you for your contribution to our good work.
+","I heard it this morning on the radio.
+Turn off the radio, it's doing my head in.
+Turn off the radio!
+£50,000 was raised in response to the radio appeal.
+","a couple of days
+It will take about three days
+His days are numbered.
+in my dotage
+He went on a two-day visit to Munich.
+It should require two days
+for at least 30 days
+will take 20 days
+will take about 20 days
+will take at least 3 days
+He's gone for a few days.
+free 10-day trial
+30 days prior to entry
+It will take only a couple of days
+","I will pay a reward to the person who finds my cat - whosoever that may be!
+The cats that I breed are all special to me.
+The cats who I breed are all special to me.
+I love cats who let you pet them.
+",None,None,"a good deal of work
+a great deal of work
+a spot of work
+He found plenty of work to do.
+He has a lot of work.
+We stand by our work.
+He kept me from work.
+I'm tired from work.
+this study entails
+Bad workmanship was responsible for the failure.
+commuting to and from work
+most pertinent to my study was ...
+He had a few beers on the way home from work.
+He settled down to work.
+commutation to and from work (Amer.) rare
+weary with working
+are famous for our workmanship
+",None,"I was lucky things didn't turn out worse.
+You'll be lucky to find a parking space.
+Wheel of Fortune
+","She has no respect for other people's feelings.
+She shows no respect for other people's feelings.
+","Drinks are on the house.
+",None,None,"no wonder that
+a prodigy of learning
+He worked wonders.
+Nothing short of a miracle can save us now.
+That is a sore point with him.
+He won't know what's hit him.
+He has touched a sore spot.
+","please contact
+keep in touch with the market
+in close contact with the issuer [FINAN.]
+","The child whose balloon had burst was screaming his lungs out.
+I kind of thought.
+What kind of work do you do?
+What kind of work do you do?
+Has your child been vaccinated against smallpox?
+a more undutiful child
+Give him my kind regards.
+she's but a child
+a kind of advertising
+Settle down, children!
+kindly remit the balance
+children under 12
+Children travel at half price.
+mother of two
+",None,"Just hang in there! [sl.]
+",None,"School is out.
+I'm cheesed off with school!
+I'm cheesed off with school!
+Why aren't you at school?
+Are the kids back from school yet?
+",None,"On what day?
+on the date of purchase
+a certain day
+are due any day now
+Tom spent most of the day with his daughter.
+He spent the day among friends.
+What a day!
+2/9/14 hours a day
+I've been freezing all day.
+I had a busy day yesterday
+delivery on a specific date
+It was his off day.
+He slept away the day.
+The day turned out to be a fine one.
+","My pain has gone.
+It pains me
+","Which doctor attended you?
+He has been to see the doctor.
+please send for the doctor
+He's not suited for a doctor.
+He's not suited for a doctor.
+","We've got some good news.
+The postman brought bad news.
+all advice or information
+some news of importance
+The news is important.
+the news confirmed my resolution
+The news is good.
+The news made me jump.
+Can I take a message?
+the good news is ...
+He was very restrained when he heard the news.
+prior to receipt of notice
+prior notice to the beneficiary
+","Boston is steeped in history.
+a cracking good story
+history goes back 2000 years
+in the history of Europe
+","the plant is shooting up [BOT.]
+","resources needed to achieve ...
+all available funds
+It is beyond our means
+funds available for my purpose [FINAN.]
+with inadequate means
+He parts his hair down the middle.
+Remedies have been exhausted. [LAW]
+","Chemistry is a popular major.
+I am a chemistry major.
+","the contract goes out to tender
+agreement signed by both parties
+in connection with the present contract
+as may be stipulated in the contract
+as stipulated in the contract
+as stipulated in the contract
+We want to terminate our agreement.
+the price as provided in the contract
+the contract is canceledAEthe contract is cancelledBE
+provided in the contract
+the purpose of this contract is
+in conformity with the contract
+as provided in the contract
+with whom he has contracted
+","issued by the German Government
+","proceeds from the subsequent sale
+Not in a salableAE condition.Not in a saleableBE condition.
+willing to undertake the selling of
+by selling securities [FINAN.]
+gains on sales and disposition of significant business interest [FINAN.]
+amount of sale
+","advantageous for both parties
+enable the parties to ...
+if the parties wish that
+the parties might be well advised
+after having heard the parties
+agreement between the parties
+the party making a request for conciliation
+the other party
+","he's all brawn and no brains
+","Books are ten a penny.
+Ideas are a dime a dozen.
+",None,"The people whose house this is don't know we're here.
+They're respectable people.
+How many people turned up on time?
+quite a number of people
+They are very respectable people.
+We don't care what other people think of it.
+Most of the people there were having fun.
+Most people like warm weather.
+My biggest pet peeve is people who jump the queue.
+There aren't many people who can say they've done that.
+Fewer people than expected turned up for the match.
+all sorts of different people
+experience with people
+","some flour and a similar amount of sugar
+","a trade discount of
+a trading discount of
+for the overseas dealer's account
+at the foreign dealer's risk
+","I'm not going to mince matters.
+That's another story.
+That's another story.
+","I for one.
+An example is ...
+There are numerous examples of it.
+one of the finest examples of
+","He settles the quarrel.
+He settled the quarrel.
+","conditions may not be ideal
+all other stipulations of the credit
+adjustment of the terms
+the conditions to be complied with
+conditions acceptable to us
+more favorableAE terms thanmore favourableBE terms than
+our terms are
+under predetermined conditions
+On what terms are you ready to supply?
+on the following terms
+Should you approve of our terms, ...
+if your terms suit our market
+if your terms are acceptable
+if you agree to these terms
+",None,None,None,None,"The Prime Minister who introduced the idea lost the ensuing election.
+The Prime Minister, who has been ill recently, will be unable to chair the meeting.
+",None,None,None,"business on cash terms only
+firms doing business in this line
+against fraudulent transactions
+We would like to do business with you.
+Hotel markets have traded strongly.
+will make future business unattractive
+if no sale takes place
+Our transactions would amount to ...
+credits are separate transactions
+business that is profitable
+Business has been dull.
+Business is very slack.
+business that doesn't pay
+trade is very dull [ECON.]
+","northern parts of Wales
+let me know whether you
+please let us know
+part of the sum is amortizationAEpart of the sum is amortisationBE / amortizationBE
+please let us know the cause of the delay
+Everyone needs to do their part.
+when ordering please instruct us
+a good deal of the time
+this is to inform you
+the best cut of the meat
+Please instruct us ...
+Please inform us whether you could supply ...
+for the best part of the year
+only partially executed
+Be good enough to let us know ... dated
+as an installmentAE againstas an instalmentBE against
+",None,"Which doctor attended you?
+He has been to see the doctor.
+please send for the doctor
+He's not suited for a doctor.
+He's not suited for a doctor.
+","The society was established in 1920.
+","our government pays bounties to exporters
+",None,"because of the windiness of the area
+in every region
+","the plant is shooting up [BOT.]
+","Just a moment, ...
+He'll be here at any moment.
+Wait a moment, ...
+","Fear of the meaning might have waned ...
+for fear of ridicule
+I'm worried to death.
+",None,None,None,"by no means of the best quality
+only prime quality
+only first quality will serve our purpose
+only superior quality
+Send goods of first-class quality only.
+are famous for their quality
+of extremely bad quality
+of very inferior quality
+High-quality goods are our specialty.AEHigh-quality goods are our speciality.BE / specialty.BE
+Do you still have the same quality?
+at the expense of quality
+a good quality at that price
+an article of identical type and quality
+in the desired quality
+","Then you'll just have to stay at home.
+I left my car keys at home.
+I'll see you home.
+I called at your house.
+She's back home.
+This reminds me of home.
+The lines between working life and home life are often blurred.
 "
 examples,german,"Name und Anschrift werden geheim gehalten
 Ich habe Ihren Namen nicht verstanden.
@@ -5624,4 +9980,275 @@ etwa eine Woche
 Sie geht jede Woche.
 Sie kommt jede Woche.
 Es dürfte eine Woche dauern
+",None,"Häufige Fehler machen den Text undeutlich.
+vom Text verursachte Probleme
+","Danke für Ihr Verständnis.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+Danke für die gute Zusammenarbeit.
+","Ich habe es heute Morgen im Radio gehört.
+Mach das Radio aus, es macht mich ganz verrückt.
+Stell das Radio ab! infinitive: abstellen
+Auf den Aufruf im Rundfunk hin gingen Spenden in der Höhe von 50.000 Pfund ein.
+","einige Tage
+Es wird etwa drei Tage dauern
+Seine Tage sind gezählt.
+auf meine alten Tage
+Er fuhr für zwei Tage nach München.
+Es dürfte zwei Tage dauern
+für mindestens 30 Tage
+wird 20 Tage brauchen
+wird etwa 20 Tage brauchen
+wird wenigstens 3 Tage brauchen
+Er ist ein paar Tage verreist.
+10 Tage kostenlos zur Ansicht
+30 Tage vor der Einfuhr
+Es wird nur ein paar Tage dauern
+","Wer auch immer meine Katze findet, bekommt von mir eine Belohnung!
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+Ich mag Katzen, die sich streicheln lassen.
+",None,None,"viel Arbeit
+viel Arbeit
+ein bisschen Arbeit
+Er fand viel Arbeit vor. - vorfinden
+Er hat viel Arbeit.
+Wir stehen zu unserer Arbeit.
+Er hielt mich von der Arbeit ab. infinitive: abhalten
+Ich bin von der Arbeit müde.
+diese Arbeit schließt ein
+Schlecht ausgeführte Arbeit war für das Versagen verantwortlich.
+die Fahrt zur und von der Arbeit
+meine Arbeit am nachhaltigsten beeinflusst hat ...
+Nach der Arbeit ging er noch auf ein paar Bierchen.
+Er setzte sich an die Arbeit.
+die Fahrt zur und von der Arbeit
+müde von der Arbeit
+sind berühmt für unsere Wertarbeit
+",None,"Ich hatte Glück im Unglück.
+Da wirst du Glück haben müssen, wenn du einen Parkplatz finden willst.
+das Glücksrad
+","Sie nimmt keine Rücksicht auf die Gefühle anderer.
+Sie nimmt keine Rücksicht auf die Gefühle anderer.
+","Getränke gehen aufs Haus.
+",None,None,"kein Wunder, dass ...
+ein Wunder an Gelehrsamkeit
+Er vollbrachte Wunder.
+Nur ein Wunder kann uns jetzt noch retten.
+Das ist ein wunder Punkt bei ihm.
+Er wird sein blaues Wunder erleben, [fig.] [coll.]
+Er hat einen wunden Punkt berührt.
+","bitte nimm Kontakt auf
+bleiben Sie mit dem Markt in Kontakt
+in engem Kontakt mit dem Emittenten
+","Das Kind, dessen Luftballon zerplatzt war, schrie sich die Lunge aus dem Hals.
+Ich dachte so ungefähr.
+Was machen Sie beruflich?
+Was machst du beruflich?
+Ist Ihr Kind gegen Pocken geimpft?
+ein ungehorsameres Kind
+Grüßen Sie ihn schön von mir.
+sie ist doch noch ein Kind
+eine Art von Werbung
+Ruhig, Kinder!
+bitte überweisen Sie den Saldo
+Kinder unter 12 Jahren
+Kinder reisen zum halben Preis.
+Mutter von zwei Kindern
+",None,"Bleib am Ball!
+",None,"Die Schule ist aus.
+die Schule ödet mich an! [coll.]
+die Schule stinkt mir! [coll.]
+Warum bist du nicht in der Schule?
+Sind die Kinder schon aus der Schule zurück?
+",None,"An welchem Tag?
+am Tag des Kaufs
+ein bestimmter Tag
+sind jeden Tag fällig
+Tom verbrachte fast den ganzen Tag mit seiner Tochter.
+Er verbrachte den Tag mit Freunden.
+Was für ein Tag!
+2/9/14 Stunden am Tag
+Ich friere schon den ganzen Tag.
+ich hatte gestern einen anstrengenden Tag
+Anlieferung an einem bestimmten Tag
+Er hatte einen schlechten Tag.
+Er verschlief den Tag.
+Es wurde ein strahlender Tag.
+","Meine Schmerzen sind weg.
+Das schmerzt mich
+","Welcher Arzt hat Sie behandelt?
+Er war beim Arzt.
+bitte lass den Arzt kommen
+Er eignet sich nicht zum Arzt.
+Er eignet sich nicht als Arzt.
+","Wir haben gute Nachrichten.
+Der Postbote brachte schlechte Nachrichten.
+sämtliche Meldungen oder Nachrichten
+eine wichtige Nachricht
+die Nachricht ist wichtig.
+die Nachricht bekräftigte meinen Entschluss
+Die Nachricht ist gut.
+Die Nachricht jagte mir einen Schrecken ein.
+Möchten Sie eine Nachricht hinterlassen?
+die gute Nachricht ist ...
+Er war sehr beherrscht, als er die Nachricht hörte.
+vor Eingang der Nachricht
+vorherige Nachricht an den Begünstigten
+","Boston ist von Geschichte durchdrungen.
+eine großartige Geschichte
+hat eine 2000-jährige Geschichte
+in der europäischen Geschichte
+","die Pflanze ist im Schuss
+","die Mittel zur Erreichung ...
+alle verfügbaren Mittel
+Es übersteigt unsere Mittel
+für meinen Zweck verfügbare Mittel
+ohne die nötigen Mittel
+Er hat einen Mittelscheitel.
+Die Rechtsmittel sind erschöpft.
+","Chemie ist ein beliebtes Hauptfach.
+Mein Hauptfach ist Chemie.
+","der Vertrag wird ausgeschrieben
+von beiden Seiten gezeichneter Vertrag
+aus dem gegenwärtigen Vertrag
+wie im Vertrag festgelegt
+wie im Vertrag festgelegt
+wie vom Vertrag gefordert
+Wir möchten den Vertrag kündigen.
+der Preis wie im Vertrag vorgesehen
+der Vertrag ist gestrichen
+im Vertrag vorgesehen
+dieser Vertrag verfolgt den Zweck
+in Übereinstimmung mit dem Vertrag
+wie im Vertrag vorgesehen
+mit dem er den Vertrag geschlossen hat
+","von der Bundesregierung herausgegeben
+","Erlös aus dem nachfolgenden Verkauf
+Nicht zum Verkauf geeignet.
+bereit den Verkauf von ... zu übernehmen
+durch Verkauf von Wertpapieren
+Gewinne aus dem Verkauf und der Übertragung wesentlicher Geschäftseinheiten im operativen Geschäft
+der Wert des Verkaufs
+","vorteilhaft für beide Parteien
+den Parteien zu ermöglichen, zu ...
+falls die Parteien wünschen, dass
+kann es im Interesse der Parteien sein
+nach Anhörung der Parteien
+Übereinstimmung der Parteien
+die Partei, die einen Schlichtungsantrag stellt
+die andere Partei
+","er hat Muskeln, aber kein Gehirn
+","Bücher gibt es wie Sand am Meer.
+Ideen gibt es wie Sand am Meer.
+",None,"Die Leute, denen das Haus gehört, wissen nicht, dass wir hier sind.
+Sie sind anständige Leute.
+Wie viele Leute waren rechtzeitig da?
+eine ganze Menge Leute
+Sie sind sehr ehrbare Leute.
+Was andere Leute davon halten ist uns egal.
+Die meisten Leute dort hatten Spaß.
+Die meisten Leute mögen warmes Wetter.
+Nichts bringt mich mehr auf die Palme als Leute, die sich vordrängeln.
+Es gibt nur wenige Leute, die von sich behaupten können, dass sie das geschafft haben.
+Weniger Leute als erwartet kamen zum Spiel.
+alle Arten von unterschiedlichen Leuten
+Erfahrung mit Leuten
+","etwas Mehl und ungefähr die gleiche Menge Zucker
+","ein Händlerrabatt von
+ein Händlerrabatt von
+für Rechnung des Überseehändlers
+auf Gefahr des ausländischen Händlers
+","Ich nehme kein Blatt mehr vor den Mund.
+Das steht auf einem anderen Blatt.
+Das steht auf einem anderen Blatt geschrieben.
+","Ich zum Beispiel.
+Ein Beispiel hierfür ist ...
+Beispiele dafür gibt es zuhauf.
+eines der besten Beispiele für
+","Er legt den Streit bei. infinitive: beilegen
+Er legte den Streit bei. infinitive: beilegen
+","die Bedingungen sind vielleicht nicht ideal
+alle anderen Bedingungen des Kredits
+die Anpassung der Bedingungen
+die einzuhaltenden Bedingungen
+für uns akzeptable Bedingungen
+günstigere Bedingungen als
+unsere Bedingungen sind
+unter vorher festgelegten Bedingungen
+Unter welchen Bedingungen liefern Sie?
+zu folgenden Bedingungen
+Sollten Ihnen unsere Bedingungen zusagen, ...
+wenn Ihre Bedingungen für unseren Markt passen
+wenn Ihre Bedingungen uns zusagen
+wenn Sie diesen Bedingungen zustimmen
+",None,None,None,None,"Der Premierminister, der die Idee einbrachte, hat die darauffolgenden Wahlen verloren.
+Der Premierminister, der in letzter Zeit krank war, wird den Vorsitz bei der Sitzung nicht übernehmen können.
+",None,None,None,"Geschäfte nur gegen bar
+die Geschäfte dieser Branche
+gegen betrügerische Geschäfte
+Wir möchten mit Ihnen gerne Geschäfte machen.
+Die Hotels machten gute Geschäfte.
+macht die Geschäfte uninteressant
+wenn keine Geschäfte getätigt werden
+Unsere Geschäfte würden sich belaufen auf ...
+die Akkreditive sind getrennte Geschäfte
+profitables Geschäft
+Das Geschäft ist nicht gut gegangen.
+Das Geschäft ist sehr flau.
+ein Geschäft, das sich nicht auszahlt
+das Geschäft ist sehr flau
+","nördliche Teile von Wales
+teilen Sie mir mit, ob Sie
+teilen Sie uns bitte mit
+ein Teil der Summe dient zur Tilgung
+teilen Sie uns bitte die Ursache der Verzögerung mit
+Alle müssen ihren Teil beitragen.
+bei Auftragserteilung teilen Sie uns bitte mit
+ein großer Teil der Zeit
+hiermit teilen wir Ihnen mit
+der beste Teil des Fleisches
+Bitte teilen Sie uns mit ... infinitive: mitteilen
+Bitte teilen Sie uns mit, ob Sie ... liefern können.
+für den größten Teil des Jahres
+nur zum Teil ausgeführt
+Bitte teilen Sie uns mit ... infinitive: mitteilen
+als Teilzahlung für
+",None,"Welcher Arzt hat Sie behandelt?
+Er war beim Arzt.
+bitte lass den Arzt kommen
+Er eignet sich nicht zum Arzt.
+Er eignet sich nicht als Arzt.
+","Der Verein wurde 1920 gegründet.
+","die Regierung zahlt Prämien an Exporteure
+",None,"wegen des starken Windes in dieser Gegend
+in jeder Gegend
+","die Pflanze ist im Schuss
+","Warte kurz, ... [coll.]
+Er wird jeden Augenblick hier sein.
+Warte kurz, ... [coll.]
+","Die Angst vor der Bedeutung könnte abgenommen haben ...
+aus Angst, sich lächerlich zu machen
+Mir ist Angst und Bange.
+",None,None,None,"keineswegs von bester Qualität
+nur erste Qualität
+nur erste Qualität ist gefragt
+nur überlegene Qualität
+Senden Sie nur Ware erster Qualität.
+sind berühmt für ihre Qualität
+von äußerst schlechter Qualität
+von sehr minderwertiger Qualität
+Waren von Qualität sind unsere Spezialität.
+Führen Sie noch die gleiche Qualität?
+auf Kosten der Qualität
+eine gute Qualität zu diesem Preis
+identisch in Ausführung und Qualität
+in der gewünschten Qualität
+","Dann bleibst du halt zu Hause (or: zuhause).
+Ich habe meine Autoschlüssel zuhause (or: zu Hause) vergessen.
+Ich bringe Sie nach Hause (or: nachhause).
+Ich suchte Sie zuhause (or: zu Hause) auf.
+Sie ist wieder zuhause (or: zu Hause).
+Das erinnert mich an zuhause (or: zu Hause).
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
 "

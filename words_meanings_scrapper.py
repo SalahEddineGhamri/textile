@@ -132,7 +132,7 @@ def extract_noun_details(entry):
 
 def nouns_definition_parser(caller, word):
     with nouns_scrapper_lock:
-        if word in BLACKLIST['word'].values:
+        if word+f"<{caller}>" in BLACKLIST['word'].values:
             return None
         print(f"[[ ALERT ]] parsing ... {word} for {caller}")
 
@@ -163,7 +163,7 @@ def nouns_definition_parser(caller, word):
 
         if all(ele is None for ele in result.values()):
             # blacklist this key
-            BLACKLIST.loc[len(BLACKLIST)] = [word]
+            BLACKLIST.loc[len(BLACKLIST)] = [word+f"<{caller}>"]
             BLACKLIST.to_csv(BLACKLIST_CACHE_FILE, index=False, header=False)
             return None
 

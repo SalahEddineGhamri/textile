@@ -1,4 +1,4 @@
-voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen
+voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört
 indicative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -314,7 +314,107 @@ indicative_active,Present," ich klag(e) an
  er hasst
  wir hassen
  ihr hasst
- sie hassen"
+ sie hassen"," ich meld(e)
+ du meldest
+ er meldet
+ wir melden
+ ihr meldet
+ sie melden"," ich erlaub(e)
+ du erlaubst
+ er erlaubt
+ wir erlauben
+ ihr erlaubt
+ sie erlauben"," ich rauch(e)
+ du rauchst
+ er raucht
+ wir rauchen
+ ihr raucht
+ sie rauchen"," ich nutz(e)
+ du nutzt
+ er nutzt
+ wir nutzen
+ ihr nutzt
+ sie nutzen"," ich entspann(e)
+ du entspannst
+ er entspannt
+ wir entspannen
+ ihr entspannt
+ sie entspannen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich kauf(e)
+ du kaufst
+ er kauft
+ wir kaufen
+ ihr kauft
+ sie kaufen"," ich regier(e)
+ du regierst
+ er regiert
+ wir regieren
+ ihr regiert
+ sie regieren",," ich plan(e)
+ du planst
+ er plant
+ wir planen
+ ihr plant
+ sie planen"," ich besitz(e)
+ du besitzt
+ er besitzt
+ wir besitzen
+ ihr besitzt
+ sie besitzen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich ernt(e)
+ du erntest
+ er erntet
+ wir ernten
+ ihr erntet
+ sie ernten",," ich verkauf(e)
+ du verkaufst
+ er verkauft
+ wir verkaufen
+ ihr verkauft
+ sie verkaufen"," ich beobacht(e)
+ du beobachtest
+ er beobachtet
+ wir beobachten
+ ihr beobachtet
+ sie beobachten"," ich funktionier(e)
+ du funktionierst
+ er funktioniert
+ wir funktionieren
+ ihr funktioniert
+ sie funktionieren"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich kontrollier(e)
+ du kontrollierst
+ er kontrolliert
+ wir kontrollieren
+ ihr kontrolliert
+ sie kontrollieren"," ich nehm(e)
+ du nimmst
+ er nimmt
+ wir nehmen
+ ihr nehmt
+ sie nehmen"," ich entwick(e)l(e)
+ du entwickelst
+ er entwickelt
+ wir entwickeln
+ ihr entwickelt
+ sie entwickeln"," ich stör(e)
+ du störst
+ er stört
+ wir stören
+ ihr stört
+ sie stören"
 indicative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -630,7 +730,107 @@ indicative_active,Imperfect," ich klagte an
  er hasste
  wir hassten
  ihr hasstet
- sie hassten"
+ sie hassten"," ich meldete
+ du meldetest
+ er meldete
+ wir meldeten
+ ihr meldetet
+ sie meldeten"," ich erlaubte
+ du erlaubtest
+ er erlaubte
+ wir erlaubten
+ ihr erlaubtet
+ sie erlaubten"," ich rauchte
+ du rauchtest
+ er rauchte
+ wir rauchten
+ ihr rauchtet
+ sie rauchten"," ich nutzte
+ du nutztest
+ er nutzte
+ wir nutzten
+ ihr nutztet
+ sie nutzten"," ich entspannte
+ du entspanntest
+ er entspannte
+ wir entspannten
+ ihr entspanntet
+ sie entspannten"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich kaufte
+ du kauftest
+ er kaufte
+ wir kauften
+ ihr kauftet
+ sie kauften"," ich regierte
+ du regiertest
+ er regierte
+ wir regierten
+ ihr regiertet
+ sie regierten",," ich plante
+ du plantest
+ er plante
+ wir planten
+ ihr plantet
+ sie planten"," ich besaß
+ du besaß(es)t
+ er besaß
+ wir besaßen
+ ihr besaß(e)t
+ sie besaßen"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich erntete
+ du erntetest
+ er erntete
+ wir ernteten
+ ihr erntetet
+ sie ernteten",," ich verkaufte
+ du verkauftest
+ er verkaufte
+ wir verkauften
+ ihr verkauftet
+ sie verkauften"," ich beobachtete
+ du beobachtetest
+ er beobachtete
+ wir beobachteten
+ ihr beobachtetet
+ sie beobachteten"," ich funktionierte
+ du funktioniertest
+ er funktionierte
+ wir funktionierten
+ ihr funktioniertet
+ sie funktionierten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich kontrollierte
+ du kontrolliertest
+ er kontrollierte
+ wir kontrollierten
+ ihr kontrolliertet
+ sie kontrollierten"," ich nahm
+ du nahmst
+ er nahm
+ wir nahmen
+ ihr nahmt
+ sie nahmen"," ich entwickelte
+ du entwickeltest
+ er entwickelte
+ wir entwickelten
+ ihr entwickeltet
+ sie entwickelten"," ich störte
+ du störtest
+ er störte
+ wir störten
+ ihr störtet
+ sie störten"
 indicative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -946,7 +1146,107 @@ indicative_active,Perfect," ich habe angeklagt
  er hat gehasst
  wir haben gehasst
  ihr habt gehasst
- sie haben gehasst"
+ sie haben gehasst"," ich habe gemeldet
+ du hast gemeldet
+ er hat gemeldet
+ wir haben gemeldet
+ ihr habt gemeldet
+ sie haben gemeldet"," ich habe erlaubt
+ du hast erlaubt
+ er hat erlaubt
+ wir haben erlaubt
+ ihr habt erlaubt
+ sie haben erlaubt"," ich habe geraucht
+ du hast geraucht
+ er hat geraucht
+ wir haben geraucht
+ ihr habt geraucht
+ sie haben geraucht"," ich habe genutzt
+ du hast genutzt
+ er hat genutzt
+ wir haben genutzt
+ ihr habt genutzt
+ sie haben genutzt"," ich habe entspannt
+ du hast entspannt
+ er hat entspannt
+ wir haben entspannt
+ ihr habt entspannt
+ sie haben entspannt"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe gekauft
+ du hast gekauft
+ er hat gekauft
+ wir haben gekauft
+ ihr habt gekauft
+ sie haben gekauft"," ich habe regiert
+ du hast regiert
+ er hat regiert
+ wir haben regiert
+ ihr habt regiert
+ sie haben regiert",," ich habe geplant
+ du hast geplant
+ er hat geplant
+ wir haben geplant
+ ihr habt geplant
+ sie haben geplant"," ich habe besessen
+ du hast besessen
+ er hat besessen
+ wir haben besessen
+ ihr habt besessen
+ sie haben besessen"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe geerntet
+ du hast geerntet
+ er hat geerntet
+ wir haben geerntet
+ ihr habt geerntet
+ sie haben geerntet",," ich habe verkauft
+ du hast verkauft
+ er hat verkauft
+ wir haben verkauft
+ ihr habt verkauft
+ sie haben verkauft"," ich habe beobachtet
+ du hast beobachtet
+ er hat beobachtet
+ wir haben beobachtet
+ ihr habt beobachtet
+ sie haben beobachtet"," ich habe funktioniert
+ du hast funktioniert
+ er hat funktioniert
+ wir haben funktioniert
+ ihr habt funktioniert
+ sie haben funktioniert"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich habe kontrolliert
+ du hast kontrolliert
+ er hat kontrolliert
+ wir haben kontrolliert
+ ihr habt kontrolliert
+ sie haben kontrolliert"," ich habe genommen
+ du hast genommen
+ er hat genommen
+ wir haben genommen
+ ihr habt genommen
+ sie haben genommen"," ich habe entwickelt
+ du hast entwickelt
+ er hat entwickelt
+ wir haben entwickelt
+ ihr habt entwickelt
+ sie haben entwickelt"," ich habe gestört
+ du hast gestört
+ er hat gestört
+ wir haben gestört
+ ihr habt gestört
+ sie haben gestört"
 indicative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -1262,7 +1562,107 @@ indicative_active,Pluperfect," ich hatte angeklagt
  er hatte gehasst
  wir hatten gehasst
  ihr hattet gehasst
- sie hatten gehasst"
+ sie hatten gehasst"," ich hatte gemeldet
+ du hattest gemeldet
+ er hatte gemeldet
+ wir hatten gemeldet
+ ihr hattet gemeldet
+ sie hatten gemeldet"," ich hatte erlaubt
+ du hattest erlaubt
+ er hatte erlaubt
+ wir hatten erlaubt
+ ihr hattet erlaubt
+ sie hatten erlaubt"," ich hatte geraucht
+ du hattest geraucht
+ er hatte geraucht
+ wir hatten geraucht
+ ihr hattet geraucht
+ sie hatten geraucht"," ich hatte genutzt
+ du hattest genutzt
+ er hatte genutzt
+ wir hatten genutzt
+ ihr hattet genutzt
+ sie hatten genutzt"," ich hatte entspannt
+ du hattest entspannt
+ er hatte entspannt
+ wir hatten entspannt
+ ihr hattet entspannt
+ sie hatten entspannt"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte gekauft
+ du hattest gekauft
+ er hatte gekauft
+ wir hatten gekauft
+ ihr hattet gekauft
+ sie hatten gekauft"," ich hatte regiert
+ du hattest regiert
+ er hatte regiert
+ wir hatten regiert
+ ihr hattet regiert
+ sie hatten regiert",," ich hatte geplant
+ du hattest geplant
+ er hatte geplant
+ wir hatten geplant
+ ihr hattet geplant
+ sie hatten geplant"," ich hatte besessen
+ du hattest besessen
+ er hatte besessen
+ wir hatten besessen
+ ihr hattet besessen
+ sie hatten besessen"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte geerntet
+ du hattest geerntet
+ er hatte geerntet
+ wir hatten geerntet
+ ihr hattet geerntet
+ sie hatten geerntet",," ich hatte verkauft
+ du hattest verkauft
+ er hatte verkauft
+ wir hatten verkauft
+ ihr hattet verkauft
+ sie hatten verkauft"," ich hatte beobachtet
+ du hattest beobachtet
+ er hatte beobachtet
+ wir hatten beobachtet
+ ihr hattet beobachtet
+ sie hatten beobachtet"," ich hatte funktioniert
+ du hattest funktioniert
+ er hatte funktioniert
+ wir hatten funktioniert
+ ihr hattet funktioniert
+ sie hatten funktioniert"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich hatte kontrolliert
+ du hattest kontrolliert
+ er hatte kontrolliert
+ wir hatten kontrolliert
+ ihr hattet kontrolliert
+ sie hatten kontrolliert"," ich hatte genommen
+ du hattest genommen
+ er hatte genommen
+ wir hatten genommen
+ ihr hattet genommen
+ sie hatten genommen"," ich hatte entwickelt
+ du hattest entwickelt
+ er hatte entwickelt
+ wir hatten entwickelt
+ ihr hattet entwickelt
+ sie hatten entwickelt"," ich hatte gestört
+ du hattest gestört
+ er hatte gestört
+ wir hatten gestört
+ ihr hattet gestört
+ sie hatten gestört"
 indicative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -1578,7 +1978,107 @@ indicative_active,Future," ich werde anklagen
  er wird hassen
  wir werden hassen
  ihr werdet hassen
- sie werden hassen"
+ sie werden hassen"," ich werde melden
+ du wirst melden
+ er wird melden
+ wir werden melden
+ ihr werdet melden
+ sie werden melden"," ich werde erlauben
+ du wirst erlauben
+ er wird erlauben
+ wir werden erlauben
+ ihr werdet erlauben
+ sie werden erlauben"," ich werde rauchen
+ du wirst rauchen
+ er wird rauchen
+ wir werden rauchen
+ ihr werdet rauchen
+ sie werden rauchen"," ich werde nutzen
+ du wirst nutzen
+ er wird nutzen
+ wir werden nutzen
+ ihr werdet nutzen
+ sie werden nutzen"," ich werde entspannen
+ du wirst entspannen
+ er wird entspannen
+ wir werden entspannen
+ ihr werdet entspannen
+ sie werden entspannen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde kaufen
+ du wirst kaufen
+ er wird kaufen
+ wir werden kaufen
+ ihr werdet kaufen
+ sie werden kaufen"," ich werde regieren
+ du wirst regieren
+ er wird regieren
+ wir werden regieren
+ ihr werdet regieren
+ sie werden regieren",," ich werde planen
+ du wirst planen
+ er wird planen
+ wir werden planen
+ ihr werdet planen
+ sie werden planen"," ich werde besitzen
+ du wirst besitzen
+ er wird besitzen
+ wir werden besitzen
+ ihr werdet besitzen
+ sie werden besitzen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde ernten
+ du wirst ernten
+ er wird ernten
+ wir werden ernten
+ ihr werdet ernten
+ sie werden ernten",," ich werde verkaufen
+ du wirst verkaufen
+ er wird verkaufen
+ wir werden verkaufen
+ ihr werdet verkaufen
+ sie werden verkaufen"," ich werde beobachten
+ du wirst beobachten
+ er wird beobachten
+ wir werden beobachten
+ ihr werdet beobachten
+ sie werden beobachten"," ich werde funktionieren
+ du wirst funktionieren
+ er wird funktionieren
+ wir werden funktionieren
+ ihr werdet funktionieren
+ sie werden funktionieren"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde kontrollieren
+ du wirst kontrollieren
+ er wird kontrollieren
+ wir werden kontrollieren
+ ihr werdet kontrollieren
+ sie werden kontrollieren"," ich werde nehmen
+ du wirst nehmen
+ er wird nehmen
+ wir werden nehmen
+ ihr werdet nehmen
+ sie werden nehmen"," ich werde entwickeln
+ du wirst entwickeln
+ er wird entwickeln
+ wir werden entwickeln
+ ihr werdet entwickeln
+ sie werden entwickeln"," ich werde stören
+ du wirst stören
+ er wird stören
+ wir werden stören
+ ihr werdet stören
+ sie werden stören"
 indicative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -1894,7 +2394,107 @@ indicative_active,FuturePerfect," ich werde angeklagt haben
  er wird gehasst haben
  wir werden gehasst haben
  ihr werdet gehasst haben
- sie werden gehasst haben"
+ sie werden gehasst haben"," ich werde gemeldet haben
+ du wirst gemeldet haben
+ er wird gemeldet haben
+ wir werden gemeldet haben
+ ihr werdet gemeldet haben
+ sie werden gemeldet haben"," ich werde erlaubt haben
+ du wirst erlaubt haben
+ er wird erlaubt haben
+ wir werden erlaubt haben
+ ihr werdet erlaubt haben
+ sie werden erlaubt haben"," ich werde geraucht haben
+ du wirst geraucht haben
+ er wird geraucht haben
+ wir werden geraucht haben
+ ihr werdet geraucht haben
+ sie werden geraucht haben"," ich werde genutzt haben
+ du wirst genutzt haben
+ er wird genutzt haben
+ wir werden genutzt haben
+ ihr werdet genutzt haben
+ sie werden genutzt haben"," ich werde entspannt haben
+ du wirst entspannt haben
+ er wird entspannt haben
+ wir werden entspannt haben
+ ihr werdet entspannt haben
+ sie werden entspannt haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde gekauft haben
+ du wirst gekauft haben
+ er wird gekauft haben
+ wir werden gekauft haben
+ ihr werdet gekauft haben
+ sie werden gekauft haben"," ich werde regiert haben
+ du wirst regiert haben
+ er wird regiert haben
+ wir werden regiert haben
+ ihr werdet regiert haben
+ sie werden regiert haben",," ich werde geplant haben
+ du wirst geplant haben
+ er wird geplant haben
+ wir werden geplant haben
+ ihr werdet geplant haben
+ sie werden geplant haben"," ich werde besessen haben
+ du wirst besessen haben
+ er wird besessen haben
+ wir werden besessen haben
+ ihr werdet besessen haben
+ sie werden besessen haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde geerntet haben
+ du wirst geerntet haben
+ er wird geerntet haben
+ wir werden geerntet haben
+ ihr werdet geerntet haben
+ sie werden geerntet haben",," ich werde verkauft haben
+ du wirst verkauft haben
+ er wird verkauft haben
+ wir werden verkauft haben
+ ihr werdet verkauft haben
+ sie werden verkauft haben"," ich werde beobachtet haben
+ du wirst beobachtet haben
+ er wird beobachtet haben
+ wir werden beobachtet haben
+ ihr werdet beobachtet haben
+ sie werden beobachtet haben"," ich werde funktioniert haben
+ du wirst funktioniert haben
+ er wird funktioniert haben
+ wir werden funktioniert haben
+ ihr werdet funktioniert haben
+ sie werden funktioniert haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde kontrolliert haben
+ du wirst kontrolliert haben
+ er wird kontrolliert haben
+ wir werden kontrolliert haben
+ ihr werdet kontrolliert haben
+ sie werden kontrolliert haben"," ich werde genommen haben
+ du wirst genommen haben
+ er wird genommen haben
+ wir werden genommen haben
+ ihr werdet genommen haben
+ sie werden genommen haben"," ich werde entwickelt haben
+ du wirst entwickelt haben
+ er wird entwickelt haben
+ wir werden entwickelt haben
+ ihr werdet entwickelt haben
+ sie werden entwickelt haben"," ich werde gestört haben
+ du wirst gestört haben
+ er wird gestört haben
+ wir werden gestört haben
+ ihr werdet gestört haben
+ sie werden gestört haben"
 indicative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -1958,7 +2558,27 @@ indicative_active,InfinitiveI," anklagen
  zu sitzen"," brauchen
  zu brauchen",," wissen
  zu wissen"," hassen
- zu hassen"
+ zu hassen"," melden
+ zu melden"," erlauben
+ zu erlauben"," rauchen
+ zu rauchen"," nutzen
+ zu nutzen"," entspannen
+ zu entspannen"," anbau(e)n
+ anzubau(e)n"," kaufen
+ zu kaufen"," regieren
+ zu regieren",," planen
+ zu planen"," besitzen
+ zu besitzen"," anbau(e)n
+ anzubau(e)n"," ernten
+ zu ernten",," verkaufen
+ zu verkaufen"," beobachten
+ zu beobachten"," funktionieren
+ zu funktionieren"," geben
+ zu geben"," kontrollieren
+ zu kontrollieren"," nehmen
+ zu nehmen"," entwickeln
+ zu entwickeln"," stören
+ zu stören"
 indicative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -2022,9 +2642,29 @@ indicative_active,InfinitiveII," angeklagt haben
  gesessen zu haben"," gebraucht haben
  gebraucht zu haben",," gewusst haben
  gewusst zu haben"," gehasst haben
- gehasst zu haben"
-indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend
-indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst
+ gehasst zu haben"," gemeldet haben
+ gemeldet zu haben"," erlaubt haben
+ erlaubt zu haben"," geraucht haben
+ geraucht zu haben"," genutzt haben
+ genutzt zu haben"," entspannt haben
+ entspannt zu haben"," angebaut haben
+ angebaut zu haben"," gekauft haben
+ gekauft zu haben"," regiert haben
+ regiert zu haben",," geplant haben
+ geplant zu haben"," besessen haben
+ besessen zu haben"," angebaut haben
+ angebaut zu haben"," geerntet haben
+ geerntet zu haben",," verkauft haben
+ verkauft zu haben"," beobachtet haben
+ beobachtet zu haben"," funktioniert haben
+ funktioniert zu haben"," gegeben haben
+ gegeben zu haben"," kontrolliert haben
+ kontrolliert zu haben"," genommen haben
+ genommen zu haben"," entwickelt haben
+ entwickelt zu haben"," gestört haben
+ gestört zu haben"
+indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
+indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
 subjunctive_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -2340,7 +2980,107 @@ subjunctive_active,Present," ich klag(e) an
  er hasst
  wir hassen
  ihr hasst
- sie hassen"
+ sie hassen"," ich meld(e)
+ du meldest
+ er meldet
+ wir melden
+ ihr meldet
+ sie melden"," ich erlaub(e)
+ du erlaubst
+ er erlaubt
+ wir erlauben
+ ihr erlaubt
+ sie erlauben"," ich rauch(e)
+ du rauchst
+ er raucht
+ wir rauchen
+ ihr raucht
+ sie rauchen"," ich nutz(e)
+ du nutzt
+ er nutzt
+ wir nutzen
+ ihr nutzt
+ sie nutzen"," ich entspann(e)
+ du entspannst
+ er entspannt
+ wir entspannen
+ ihr entspannt
+ sie entspannen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich kauf(e)
+ du kaufst
+ er kauft
+ wir kaufen
+ ihr kauft
+ sie kaufen"," ich regier(e)
+ du regierst
+ er regiert
+ wir regieren
+ ihr regiert
+ sie regieren",," ich plan(e)
+ du planst
+ er plant
+ wir planen
+ ihr plant
+ sie planen"," ich besitz(e)
+ du besitzt
+ er besitzt
+ wir besitzen
+ ihr besitzt
+ sie besitzen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich ernt(e)
+ du erntest
+ er erntet
+ wir ernten
+ ihr erntet
+ sie ernten",," ich verkauf(e)
+ du verkaufst
+ er verkauft
+ wir verkaufen
+ ihr verkauft
+ sie verkaufen"," ich beobacht(e)
+ du beobachtest
+ er beobachtet
+ wir beobachten
+ ihr beobachtet
+ sie beobachten"," ich funktionier(e)
+ du funktionierst
+ er funktioniert
+ wir funktionieren
+ ihr funktioniert
+ sie funktionieren"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich kontrollier(e)
+ du kontrollierst
+ er kontrolliert
+ wir kontrollieren
+ ihr kontrolliert
+ sie kontrollieren"," ich nehm(e)
+ du nimmst
+ er nimmt
+ wir nehmen
+ ihr nehmt
+ sie nehmen"," ich entwick(e)l(e)
+ du entwickelst
+ er entwickelt
+ wir entwickeln
+ ihr entwickelt
+ sie entwickeln"," ich stör(e)
+ du störst
+ er stört
+ wir stören
+ ihr stört
+ sie stören"
 subjunctive_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -2656,7 +3396,107 @@ subjunctive_active,Imperfect," ich klagte an
  er hasste
  wir hassten
  ihr hasstet
- sie hassten"
+ sie hassten"," ich meldete
+ du meldetest
+ er meldete
+ wir meldeten
+ ihr meldetet
+ sie meldeten"," ich erlaubte
+ du erlaubtest
+ er erlaubte
+ wir erlaubten
+ ihr erlaubtet
+ sie erlaubten"," ich rauchte
+ du rauchtest
+ er rauchte
+ wir rauchten
+ ihr rauchtet
+ sie rauchten"," ich nutzte
+ du nutztest
+ er nutzte
+ wir nutzten
+ ihr nutztet
+ sie nutzten"," ich entspannte
+ du entspanntest
+ er entspannte
+ wir entspannten
+ ihr entspanntet
+ sie entspannten"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich kaufte
+ du kauftest
+ er kaufte
+ wir kauften
+ ihr kauftet
+ sie kauften"," ich regierte
+ du regiertest
+ er regierte
+ wir regierten
+ ihr regiertet
+ sie regierten",," ich plante
+ du plantest
+ er plante
+ wir planten
+ ihr plantet
+ sie planten"," ich besaß
+ du besaß(es)t
+ er besaß
+ wir besaßen
+ ihr besaß(e)t
+ sie besaßen"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich erntete
+ du erntetest
+ er erntete
+ wir ernteten
+ ihr erntetet
+ sie ernteten",," ich verkaufte
+ du verkauftest
+ er verkaufte
+ wir verkauften
+ ihr verkauftet
+ sie verkauften"," ich beobachtete
+ du beobachtetest
+ er beobachtete
+ wir beobachteten
+ ihr beobachtetet
+ sie beobachteten"," ich funktionierte
+ du funktioniertest
+ er funktionierte
+ wir funktionierten
+ ihr funktioniertet
+ sie funktionierten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich kontrollierte
+ du kontrolliertest
+ er kontrollierte
+ wir kontrollierten
+ ihr kontrolliertet
+ sie kontrollierten"," ich nahm
+ du nahmst
+ er nahm
+ wir nahmen
+ ihr nahmt
+ sie nahmen"," ich entwickelte
+ du entwickeltest
+ er entwickelte
+ wir entwickelten
+ ihr entwickeltet
+ sie entwickelten"," ich störte
+ du störtest
+ er störte
+ wir störten
+ ihr störtet
+ sie störten"
 subjunctive_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -2972,7 +3812,107 @@ subjunctive_active,Perfect," ich habe angeklagt
  er hat gehasst
  wir haben gehasst
  ihr habt gehasst
- sie haben gehasst"
+ sie haben gehasst"," ich habe gemeldet
+ du hast gemeldet
+ er hat gemeldet
+ wir haben gemeldet
+ ihr habt gemeldet
+ sie haben gemeldet"," ich habe erlaubt
+ du hast erlaubt
+ er hat erlaubt
+ wir haben erlaubt
+ ihr habt erlaubt
+ sie haben erlaubt"," ich habe geraucht
+ du hast geraucht
+ er hat geraucht
+ wir haben geraucht
+ ihr habt geraucht
+ sie haben geraucht"," ich habe genutzt
+ du hast genutzt
+ er hat genutzt
+ wir haben genutzt
+ ihr habt genutzt
+ sie haben genutzt"," ich habe entspannt
+ du hast entspannt
+ er hat entspannt
+ wir haben entspannt
+ ihr habt entspannt
+ sie haben entspannt"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe gekauft
+ du hast gekauft
+ er hat gekauft
+ wir haben gekauft
+ ihr habt gekauft
+ sie haben gekauft"," ich habe regiert
+ du hast regiert
+ er hat regiert
+ wir haben regiert
+ ihr habt regiert
+ sie haben regiert",," ich habe geplant
+ du hast geplant
+ er hat geplant
+ wir haben geplant
+ ihr habt geplant
+ sie haben geplant"," ich habe besessen
+ du hast besessen
+ er hat besessen
+ wir haben besessen
+ ihr habt besessen
+ sie haben besessen"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe geerntet
+ du hast geerntet
+ er hat geerntet
+ wir haben geerntet
+ ihr habt geerntet
+ sie haben geerntet",," ich habe verkauft
+ du hast verkauft
+ er hat verkauft
+ wir haben verkauft
+ ihr habt verkauft
+ sie haben verkauft"," ich habe beobachtet
+ du hast beobachtet
+ er hat beobachtet
+ wir haben beobachtet
+ ihr habt beobachtet
+ sie haben beobachtet"," ich habe funktioniert
+ du hast funktioniert
+ er hat funktioniert
+ wir haben funktioniert
+ ihr habt funktioniert
+ sie haben funktioniert"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich habe kontrolliert
+ du hast kontrolliert
+ er hat kontrolliert
+ wir haben kontrolliert
+ ihr habt kontrolliert
+ sie haben kontrolliert"," ich habe genommen
+ du hast genommen
+ er hat genommen
+ wir haben genommen
+ ihr habt genommen
+ sie haben genommen"," ich habe entwickelt
+ du hast entwickelt
+ er hat entwickelt
+ wir haben entwickelt
+ ihr habt entwickelt
+ sie haben entwickelt"," ich habe gestört
+ du hast gestört
+ er hat gestört
+ wir haben gestört
+ ihr habt gestört
+ sie haben gestört"
 subjunctive_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -3288,7 +4228,107 @@ subjunctive_active,Pluperfect," ich hatte angeklagt
  er hatte gehasst
  wir hatten gehasst
  ihr hattet gehasst
- sie hatten gehasst"
+ sie hatten gehasst"," ich hatte gemeldet
+ du hattest gemeldet
+ er hatte gemeldet
+ wir hatten gemeldet
+ ihr hattet gemeldet
+ sie hatten gemeldet"," ich hatte erlaubt
+ du hattest erlaubt
+ er hatte erlaubt
+ wir hatten erlaubt
+ ihr hattet erlaubt
+ sie hatten erlaubt"," ich hatte geraucht
+ du hattest geraucht
+ er hatte geraucht
+ wir hatten geraucht
+ ihr hattet geraucht
+ sie hatten geraucht"," ich hatte genutzt
+ du hattest genutzt
+ er hatte genutzt
+ wir hatten genutzt
+ ihr hattet genutzt
+ sie hatten genutzt"," ich hatte entspannt
+ du hattest entspannt
+ er hatte entspannt
+ wir hatten entspannt
+ ihr hattet entspannt
+ sie hatten entspannt"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte gekauft
+ du hattest gekauft
+ er hatte gekauft
+ wir hatten gekauft
+ ihr hattet gekauft
+ sie hatten gekauft"," ich hatte regiert
+ du hattest regiert
+ er hatte regiert
+ wir hatten regiert
+ ihr hattet regiert
+ sie hatten regiert",," ich hatte geplant
+ du hattest geplant
+ er hatte geplant
+ wir hatten geplant
+ ihr hattet geplant
+ sie hatten geplant"," ich hatte besessen
+ du hattest besessen
+ er hatte besessen
+ wir hatten besessen
+ ihr hattet besessen
+ sie hatten besessen"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte geerntet
+ du hattest geerntet
+ er hatte geerntet
+ wir hatten geerntet
+ ihr hattet geerntet
+ sie hatten geerntet",," ich hatte verkauft
+ du hattest verkauft
+ er hatte verkauft
+ wir hatten verkauft
+ ihr hattet verkauft
+ sie hatten verkauft"," ich hatte beobachtet
+ du hattest beobachtet
+ er hatte beobachtet
+ wir hatten beobachtet
+ ihr hattet beobachtet
+ sie hatten beobachtet"," ich hatte funktioniert
+ du hattest funktioniert
+ er hatte funktioniert
+ wir hatten funktioniert
+ ihr hattet funktioniert
+ sie hatten funktioniert"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich hatte kontrolliert
+ du hattest kontrolliert
+ er hatte kontrolliert
+ wir hatten kontrolliert
+ ihr hattet kontrolliert
+ sie hatten kontrolliert"," ich hatte genommen
+ du hattest genommen
+ er hatte genommen
+ wir hatten genommen
+ ihr hattet genommen
+ sie hatten genommen"," ich hatte entwickelt
+ du hattest entwickelt
+ er hatte entwickelt
+ wir hatten entwickelt
+ ihr hattet entwickelt
+ sie hatten entwickelt"," ich hatte gestört
+ du hattest gestört
+ er hatte gestört
+ wir hatten gestört
+ ihr hattet gestört
+ sie hatten gestört"
 subjunctive_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -3604,7 +4644,107 @@ subjunctive_active,Future," ich werde anklagen
  er wird hassen
  wir werden hassen
  ihr werdet hassen
- sie werden hassen"
+ sie werden hassen"," ich werde melden
+ du wirst melden
+ er wird melden
+ wir werden melden
+ ihr werdet melden
+ sie werden melden"," ich werde erlauben
+ du wirst erlauben
+ er wird erlauben
+ wir werden erlauben
+ ihr werdet erlauben
+ sie werden erlauben"," ich werde rauchen
+ du wirst rauchen
+ er wird rauchen
+ wir werden rauchen
+ ihr werdet rauchen
+ sie werden rauchen"," ich werde nutzen
+ du wirst nutzen
+ er wird nutzen
+ wir werden nutzen
+ ihr werdet nutzen
+ sie werden nutzen"," ich werde entspannen
+ du wirst entspannen
+ er wird entspannen
+ wir werden entspannen
+ ihr werdet entspannen
+ sie werden entspannen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde kaufen
+ du wirst kaufen
+ er wird kaufen
+ wir werden kaufen
+ ihr werdet kaufen
+ sie werden kaufen"," ich werde regieren
+ du wirst regieren
+ er wird regieren
+ wir werden regieren
+ ihr werdet regieren
+ sie werden regieren",," ich werde planen
+ du wirst planen
+ er wird planen
+ wir werden planen
+ ihr werdet planen
+ sie werden planen"," ich werde besitzen
+ du wirst besitzen
+ er wird besitzen
+ wir werden besitzen
+ ihr werdet besitzen
+ sie werden besitzen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde ernten
+ du wirst ernten
+ er wird ernten
+ wir werden ernten
+ ihr werdet ernten
+ sie werden ernten",," ich werde verkaufen
+ du wirst verkaufen
+ er wird verkaufen
+ wir werden verkaufen
+ ihr werdet verkaufen
+ sie werden verkaufen"," ich werde beobachten
+ du wirst beobachten
+ er wird beobachten
+ wir werden beobachten
+ ihr werdet beobachten
+ sie werden beobachten"," ich werde funktionieren
+ du wirst funktionieren
+ er wird funktionieren
+ wir werden funktionieren
+ ihr werdet funktionieren
+ sie werden funktionieren"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde kontrollieren
+ du wirst kontrollieren
+ er wird kontrollieren
+ wir werden kontrollieren
+ ihr werdet kontrollieren
+ sie werden kontrollieren"," ich werde nehmen
+ du wirst nehmen
+ er wird nehmen
+ wir werden nehmen
+ ihr werdet nehmen
+ sie werden nehmen"," ich werde entwickeln
+ du wirst entwickeln
+ er wird entwickeln
+ wir werden entwickeln
+ ihr werdet entwickeln
+ sie werden entwickeln"," ich werde stören
+ du wirst stören
+ er wird stören
+ wir werden stören
+ ihr werdet stören
+ sie werden stören"
 subjunctive_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -3920,7 +5060,107 @@ subjunctive_active,FuturePerfect," ich werde angeklagt haben
  er wird gehasst haben
  wir werden gehasst haben
  ihr werdet gehasst haben
- sie werden gehasst haben"
+ sie werden gehasst haben"," ich werde gemeldet haben
+ du wirst gemeldet haben
+ er wird gemeldet haben
+ wir werden gemeldet haben
+ ihr werdet gemeldet haben
+ sie werden gemeldet haben"," ich werde erlaubt haben
+ du wirst erlaubt haben
+ er wird erlaubt haben
+ wir werden erlaubt haben
+ ihr werdet erlaubt haben
+ sie werden erlaubt haben"," ich werde geraucht haben
+ du wirst geraucht haben
+ er wird geraucht haben
+ wir werden geraucht haben
+ ihr werdet geraucht haben
+ sie werden geraucht haben"," ich werde genutzt haben
+ du wirst genutzt haben
+ er wird genutzt haben
+ wir werden genutzt haben
+ ihr werdet genutzt haben
+ sie werden genutzt haben"," ich werde entspannt haben
+ du wirst entspannt haben
+ er wird entspannt haben
+ wir werden entspannt haben
+ ihr werdet entspannt haben
+ sie werden entspannt haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde gekauft haben
+ du wirst gekauft haben
+ er wird gekauft haben
+ wir werden gekauft haben
+ ihr werdet gekauft haben
+ sie werden gekauft haben"," ich werde regiert haben
+ du wirst regiert haben
+ er wird regiert haben
+ wir werden regiert haben
+ ihr werdet regiert haben
+ sie werden regiert haben",," ich werde geplant haben
+ du wirst geplant haben
+ er wird geplant haben
+ wir werden geplant haben
+ ihr werdet geplant haben
+ sie werden geplant haben"," ich werde besessen haben
+ du wirst besessen haben
+ er wird besessen haben
+ wir werden besessen haben
+ ihr werdet besessen haben
+ sie werden besessen haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde geerntet haben
+ du wirst geerntet haben
+ er wird geerntet haben
+ wir werden geerntet haben
+ ihr werdet geerntet haben
+ sie werden geerntet haben",," ich werde verkauft haben
+ du wirst verkauft haben
+ er wird verkauft haben
+ wir werden verkauft haben
+ ihr werdet verkauft haben
+ sie werden verkauft haben"," ich werde beobachtet haben
+ du wirst beobachtet haben
+ er wird beobachtet haben
+ wir werden beobachtet haben
+ ihr werdet beobachtet haben
+ sie werden beobachtet haben"," ich werde funktioniert haben
+ du wirst funktioniert haben
+ er wird funktioniert haben
+ wir werden funktioniert haben
+ ihr werdet funktioniert haben
+ sie werden funktioniert haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde kontrolliert haben
+ du wirst kontrolliert haben
+ er wird kontrolliert haben
+ wir werden kontrolliert haben
+ ihr werdet kontrolliert haben
+ sie werden kontrolliert haben"," ich werde genommen haben
+ du wirst genommen haben
+ er wird genommen haben
+ wir werden genommen haben
+ ihr werdet genommen haben
+ sie werden genommen haben"," ich werde entwickelt haben
+ du wirst entwickelt haben
+ er wird entwickelt haben
+ wir werden entwickelt haben
+ ihr werdet entwickelt haben
+ sie werden entwickelt haben"," ich werde gestört haben
+ du wirst gestört haben
+ er wird gestört haben
+ wir werden gestört haben
+ ihr werdet gestört haben
+ sie werden gestört haben"
 subjunctive_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -3984,7 +5224,27 @@ subjunctive_active,InfinitiveI," anklagen
  zu sitzen"," brauchen
  zu brauchen",," wissen
  zu wissen"," hassen
- zu hassen"
+ zu hassen"," melden
+ zu melden"," erlauben
+ zu erlauben"," rauchen
+ zu rauchen"," nutzen
+ zu nutzen"," entspannen
+ zu entspannen"," anbau(e)n
+ anzubau(e)n"," kaufen
+ zu kaufen"," regieren
+ zu regieren",," planen
+ zu planen"," besitzen
+ zu besitzen"," anbau(e)n
+ anzubau(e)n"," ernten
+ zu ernten",," verkaufen
+ zu verkaufen"," beobachten
+ zu beobachten"," funktionieren
+ zu funktionieren"," geben
+ zu geben"," kontrollieren
+ zu kontrollieren"," nehmen
+ zu nehmen"," entwickeln
+ zu entwickeln"," stören
+ zu stören"
 subjunctive_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -4048,9 +5308,29 @@ subjunctive_active,InfinitiveII," angeklagt haben
  gesessen zu haben"," gebraucht haben
  gebraucht zu haben",," gewusst haben
  gewusst zu haben"," gehasst haben
- gehasst zu haben"
-subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend
-subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst
+ gehasst zu haben"," gemeldet haben
+ gemeldet zu haben"," erlaubt haben
+ erlaubt zu haben"," geraucht haben
+ geraucht zu haben"," genutzt haben
+ genutzt zu haben"," entspannt haben
+ entspannt zu haben"," angebaut haben
+ angebaut zu haben"," gekauft haben
+ gekauft zu haben"," regiert haben
+ regiert zu haben",," geplant haben
+ geplant zu haben"," besessen haben
+ besessen zu haben"," angebaut haben
+ angebaut zu haben"," geerntet haben
+ geerntet zu haben",," verkauft haben
+ verkauft zu haben"," beobachtet haben
+ beobachtet zu haben"," funktioniert haben
+ funktioniert zu haben"," gegeben haben
+ gegeben zu haben"," kontrolliert haben
+ kontrolliert zu haben"," genommen haben
+ genommen zu haben"," entwickelt haben
+ entwickelt zu haben"," gestört haben
+ gestört zu haben"
+subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
+subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
 conditional_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -4366,7 +5646,107 @@ conditional_active,Present," ich klag(e) an
  er hasst
  wir hassen
  ihr hasst
- sie hassen"
+ sie hassen"," ich meld(e)
+ du meldest
+ er meldet
+ wir melden
+ ihr meldet
+ sie melden"," ich erlaub(e)
+ du erlaubst
+ er erlaubt
+ wir erlauben
+ ihr erlaubt
+ sie erlauben"," ich rauch(e)
+ du rauchst
+ er raucht
+ wir rauchen
+ ihr raucht
+ sie rauchen"," ich nutz(e)
+ du nutzt
+ er nutzt
+ wir nutzen
+ ihr nutzt
+ sie nutzen"," ich entspann(e)
+ du entspannst
+ er entspannt
+ wir entspannen
+ ihr entspannt
+ sie entspannen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich kauf(e)
+ du kaufst
+ er kauft
+ wir kaufen
+ ihr kauft
+ sie kaufen"," ich regier(e)
+ du regierst
+ er regiert
+ wir regieren
+ ihr regiert
+ sie regieren",," ich plan(e)
+ du planst
+ er plant
+ wir planen
+ ihr plant
+ sie planen"," ich besitz(e)
+ du besitzt
+ er besitzt
+ wir besitzen
+ ihr besitzt
+ sie besitzen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich ernt(e)
+ du erntest
+ er erntet
+ wir ernten
+ ihr erntet
+ sie ernten",," ich verkauf(e)
+ du verkaufst
+ er verkauft
+ wir verkaufen
+ ihr verkauft
+ sie verkaufen"," ich beobacht(e)
+ du beobachtest
+ er beobachtet
+ wir beobachten
+ ihr beobachtet
+ sie beobachten"," ich funktionier(e)
+ du funktionierst
+ er funktioniert
+ wir funktionieren
+ ihr funktioniert
+ sie funktionieren"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich kontrollier(e)
+ du kontrollierst
+ er kontrolliert
+ wir kontrollieren
+ ihr kontrolliert
+ sie kontrollieren"," ich nehm(e)
+ du nimmst
+ er nimmt
+ wir nehmen
+ ihr nehmt
+ sie nehmen"," ich entwick(e)l(e)
+ du entwickelst
+ er entwickelt
+ wir entwickeln
+ ihr entwickelt
+ sie entwickeln"," ich stör(e)
+ du störst
+ er stört
+ wir stören
+ ihr stört
+ sie stören"
 conditional_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -4682,7 +6062,107 @@ conditional_active,Imperfect," ich klagte an
  er hasste
  wir hassten
  ihr hasstet
- sie hassten"
+ sie hassten"," ich meldete
+ du meldetest
+ er meldete
+ wir meldeten
+ ihr meldetet
+ sie meldeten"," ich erlaubte
+ du erlaubtest
+ er erlaubte
+ wir erlaubten
+ ihr erlaubtet
+ sie erlaubten"," ich rauchte
+ du rauchtest
+ er rauchte
+ wir rauchten
+ ihr rauchtet
+ sie rauchten"," ich nutzte
+ du nutztest
+ er nutzte
+ wir nutzten
+ ihr nutztet
+ sie nutzten"," ich entspannte
+ du entspanntest
+ er entspannte
+ wir entspannten
+ ihr entspanntet
+ sie entspannten"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich kaufte
+ du kauftest
+ er kaufte
+ wir kauften
+ ihr kauftet
+ sie kauften"," ich regierte
+ du regiertest
+ er regierte
+ wir regierten
+ ihr regiertet
+ sie regierten",," ich plante
+ du plantest
+ er plante
+ wir planten
+ ihr plantet
+ sie planten"," ich besaß
+ du besaß(es)t
+ er besaß
+ wir besaßen
+ ihr besaß(e)t
+ sie besaßen"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich erntete
+ du erntetest
+ er erntete
+ wir ernteten
+ ihr erntetet
+ sie ernteten",," ich verkaufte
+ du verkauftest
+ er verkaufte
+ wir verkauften
+ ihr verkauftet
+ sie verkauften"," ich beobachtete
+ du beobachtetest
+ er beobachtete
+ wir beobachteten
+ ihr beobachtetet
+ sie beobachteten"," ich funktionierte
+ du funktioniertest
+ er funktionierte
+ wir funktionierten
+ ihr funktioniertet
+ sie funktionierten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich kontrollierte
+ du kontrolliertest
+ er kontrollierte
+ wir kontrollierten
+ ihr kontrolliertet
+ sie kontrollierten"," ich nahm
+ du nahmst
+ er nahm
+ wir nahmen
+ ihr nahmt
+ sie nahmen"," ich entwickelte
+ du entwickeltest
+ er entwickelte
+ wir entwickelten
+ ihr entwickeltet
+ sie entwickelten"," ich störte
+ du störtest
+ er störte
+ wir störten
+ ihr störtet
+ sie störten"
 conditional_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -4998,7 +6478,107 @@ conditional_active,Perfect," ich habe angeklagt
  er hat gehasst
  wir haben gehasst
  ihr habt gehasst
- sie haben gehasst"
+ sie haben gehasst"," ich habe gemeldet
+ du hast gemeldet
+ er hat gemeldet
+ wir haben gemeldet
+ ihr habt gemeldet
+ sie haben gemeldet"," ich habe erlaubt
+ du hast erlaubt
+ er hat erlaubt
+ wir haben erlaubt
+ ihr habt erlaubt
+ sie haben erlaubt"," ich habe geraucht
+ du hast geraucht
+ er hat geraucht
+ wir haben geraucht
+ ihr habt geraucht
+ sie haben geraucht"," ich habe genutzt
+ du hast genutzt
+ er hat genutzt
+ wir haben genutzt
+ ihr habt genutzt
+ sie haben genutzt"," ich habe entspannt
+ du hast entspannt
+ er hat entspannt
+ wir haben entspannt
+ ihr habt entspannt
+ sie haben entspannt"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe gekauft
+ du hast gekauft
+ er hat gekauft
+ wir haben gekauft
+ ihr habt gekauft
+ sie haben gekauft"," ich habe regiert
+ du hast regiert
+ er hat regiert
+ wir haben regiert
+ ihr habt regiert
+ sie haben regiert",," ich habe geplant
+ du hast geplant
+ er hat geplant
+ wir haben geplant
+ ihr habt geplant
+ sie haben geplant"," ich habe besessen
+ du hast besessen
+ er hat besessen
+ wir haben besessen
+ ihr habt besessen
+ sie haben besessen"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe geerntet
+ du hast geerntet
+ er hat geerntet
+ wir haben geerntet
+ ihr habt geerntet
+ sie haben geerntet",," ich habe verkauft
+ du hast verkauft
+ er hat verkauft
+ wir haben verkauft
+ ihr habt verkauft
+ sie haben verkauft"," ich habe beobachtet
+ du hast beobachtet
+ er hat beobachtet
+ wir haben beobachtet
+ ihr habt beobachtet
+ sie haben beobachtet"," ich habe funktioniert
+ du hast funktioniert
+ er hat funktioniert
+ wir haben funktioniert
+ ihr habt funktioniert
+ sie haben funktioniert"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich habe kontrolliert
+ du hast kontrolliert
+ er hat kontrolliert
+ wir haben kontrolliert
+ ihr habt kontrolliert
+ sie haben kontrolliert"," ich habe genommen
+ du hast genommen
+ er hat genommen
+ wir haben genommen
+ ihr habt genommen
+ sie haben genommen"," ich habe entwickelt
+ du hast entwickelt
+ er hat entwickelt
+ wir haben entwickelt
+ ihr habt entwickelt
+ sie haben entwickelt"," ich habe gestört
+ du hast gestört
+ er hat gestört
+ wir haben gestört
+ ihr habt gestört
+ sie haben gestört"
 conditional_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -5314,7 +6894,107 @@ conditional_active,Pluperfect," ich hatte angeklagt
  er hatte gehasst
  wir hatten gehasst
  ihr hattet gehasst
- sie hatten gehasst"
+ sie hatten gehasst"," ich hatte gemeldet
+ du hattest gemeldet
+ er hatte gemeldet
+ wir hatten gemeldet
+ ihr hattet gemeldet
+ sie hatten gemeldet"," ich hatte erlaubt
+ du hattest erlaubt
+ er hatte erlaubt
+ wir hatten erlaubt
+ ihr hattet erlaubt
+ sie hatten erlaubt"," ich hatte geraucht
+ du hattest geraucht
+ er hatte geraucht
+ wir hatten geraucht
+ ihr hattet geraucht
+ sie hatten geraucht"," ich hatte genutzt
+ du hattest genutzt
+ er hatte genutzt
+ wir hatten genutzt
+ ihr hattet genutzt
+ sie hatten genutzt"," ich hatte entspannt
+ du hattest entspannt
+ er hatte entspannt
+ wir hatten entspannt
+ ihr hattet entspannt
+ sie hatten entspannt"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte gekauft
+ du hattest gekauft
+ er hatte gekauft
+ wir hatten gekauft
+ ihr hattet gekauft
+ sie hatten gekauft"," ich hatte regiert
+ du hattest regiert
+ er hatte regiert
+ wir hatten regiert
+ ihr hattet regiert
+ sie hatten regiert",," ich hatte geplant
+ du hattest geplant
+ er hatte geplant
+ wir hatten geplant
+ ihr hattet geplant
+ sie hatten geplant"," ich hatte besessen
+ du hattest besessen
+ er hatte besessen
+ wir hatten besessen
+ ihr hattet besessen
+ sie hatten besessen"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte geerntet
+ du hattest geerntet
+ er hatte geerntet
+ wir hatten geerntet
+ ihr hattet geerntet
+ sie hatten geerntet",," ich hatte verkauft
+ du hattest verkauft
+ er hatte verkauft
+ wir hatten verkauft
+ ihr hattet verkauft
+ sie hatten verkauft"," ich hatte beobachtet
+ du hattest beobachtet
+ er hatte beobachtet
+ wir hatten beobachtet
+ ihr hattet beobachtet
+ sie hatten beobachtet"," ich hatte funktioniert
+ du hattest funktioniert
+ er hatte funktioniert
+ wir hatten funktioniert
+ ihr hattet funktioniert
+ sie hatten funktioniert"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich hatte kontrolliert
+ du hattest kontrolliert
+ er hatte kontrolliert
+ wir hatten kontrolliert
+ ihr hattet kontrolliert
+ sie hatten kontrolliert"," ich hatte genommen
+ du hattest genommen
+ er hatte genommen
+ wir hatten genommen
+ ihr hattet genommen
+ sie hatten genommen"," ich hatte entwickelt
+ du hattest entwickelt
+ er hatte entwickelt
+ wir hatten entwickelt
+ ihr hattet entwickelt
+ sie hatten entwickelt"," ich hatte gestört
+ du hattest gestört
+ er hatte gestört
+ wir hatten gestört
+ ihr hattet gestört
+ sie hatten gestört"
 conditional_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -5630,7 +7310,107 @@ conditional_active,Future," ich werde anklagen
  er wird hassen
  wir werden hassen
  ihr werdet hassen
- sie werden hassen"
+ sie werden hassen"," ich werde melden
+ du wirst melden
+ er wird melden
+ wir werden melden
+ ihr werdet melden
+ sie werden melden"," ich werde erlauben
+ du wirst erlauben
+ er wird erlauben
+ wir werden erlauben
+ ihr werdet erlauben
+ sie werden erlauben"," ich werde rauchen
+ du wirst rauchen
+ er wird rauchen
+ wir werden rauchen
+ ihr werdet rauchen
+ sie werden rauchen"," ich werde nutzen
+ du wirst nutzen
+ er wird nutzen
+ wir werden nutzen
+ ihr werdet nutzen
+ sie werden nutzen"," ich werde entspannen
+ du wirst entspannen
+ er wird entspannen
+ wir werden entspannen
+ ihr werdet entspannen
+ sie werden entspannen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde kaufen
+ du wirst kaufen
+ er wird kaufen
+ wir werden kaufen
+ ihr werdet kaufen
+ sie werden kaufen"," ich werde regieren
+ du wirst regieren
+ er wird regieren
+ wir werden regieren
+ ihr werdet regieren
+ sie werden regieren",," ich werde planen
+ du wirst planen
+ er wird planen
+ wir werden planen
+ ihr werdet planen
+ sie werden planen"," ich werde besitzen
+ du wirst besitzen
+ er wird besitzen
+ wir werden besitzen
+ ihr werdet besitzen
+ sie werden besitzen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde ernten
+ du wirst ernten
+ er wird ernten
+ wir werden ernten
+ ihr werdet ernten
+ sie werden ernten",," ich werde verkaufen
+ du wirst verkaufen
+ er wird verkaufen
+ wir werden verkaufen
+ ihr werdet verkaufen
+ sie werden verkaufen"," ich werde beobachten
+ du wirst beobachten
+ er wird beobachten
+ wir werden beobachten
+ ihr werdet beobachten
+ sie werden beobachten"," ich werde funktionieren
+ du wirst funktionieren
+ er wird funktionieren
+ wir werden funktionieren
+ ihr werdet funktionieren
+ sie werden funktionieren"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde kontrollieren
+ du wirst kontrollieren
+ er wird kontrollieren
+ wir werden kontrollieren
+ ihr werdet kontrollieren
+ sie werden kontrollieren"," ich werde nehmen
+ du wirst nehmen
+ er wird nehmen
+ wir werden nehmen
+ ihr werdet nehmen
+ sie werden nehmen"," ich werde entwickeln
+ du wirst entwickeln
+ er wird entwickeln
+ wir werden entwickeln
+ ihr werdet entwickeln
+ sie werden entwickeln"," ich werde stören
+ du wirst stören
+ er wird stören
+ wir werden stören
+ ihr werdet stören
+ sie werden stören"
 conditional_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -5946,7 +7726,107 @@ conditional_active,FuturePerfect," ich werde angeklagt haben
  er wird gehasst haben
  wir werden gehasst haben
  ihr werdet gehasst haben
- sie werden gehasst haben"
+ sie werden gehasst haben"," ich werde gemeldet haben
+ du wirst gemeldet haben
+ er wird gemeldet haben
+ wir werden gemeldet haben
+ ihr werdet gemeldet haben
+ sie werden gemeldet haben"," ich werde erlaubt haben
+ du wirst erlaubt haben
+ er wird erlaubt haben
+ wir werden erlaubt haben
+ ihr werdet erlaubt haben
+ sie werden erlaubt haben"," ich werde geraucht haben
+ du wirst geraucht haben
+ er wird geraucht haben
+ wir werden geraucht haben
+ ihr werdet geraucht haben
+ sie werden geraucht haben"," ich werde genutzt haben
+ du wirst genutzt haben
+ er wird genutzt haben
+ wir werden genutzt haben
+ ihr werdet genutzt haben
+ sie werden genutzt haben"," ich werde entspannt haben
+ du wirst entspannt haben
+ er wird entspannt haben
+ wir werden entspannt haben
+ ihr werdet entspannt haben
+ sie werden entspannt haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde gekauft haben
+ du wirst gekauft haben
+ er wird gekauft haben
+ wir werden gekauft haben
+ ihr werdet gekauft haben
+ sie werden gekauft haben"," ich werde regiert haben
+ du wirst regiert haben
+ er wird regiert haben
+ wir werden regiert haben
+ ihr werdet regiert haben
+ sie werden regiert haben",," ich werde geplant haben
+ du wirst geplant haben
+ er wird geplant haben
+ wir werden geplant haben
+ ihr werdet geplant haben
+ sie werden geplant haben"," ich werde besessen haben
+ du wirst besessen haben
+ er wird besessen haben
+ wir werden besessen haben
+ ihr werdet besessen haben
+ sie werden besessen haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde geerntet haben
+ du wirst geerntet haben
+ er wird geerntet haben
+ wir werden geerntet haben
+ ihr werdet geerntet haben
+ sie werden geerntet haben",," ich werde verkauft haben
+ du wirst verkauft haben
+ er wird verkauft haben
+ wir werden verkauft haben
+ ihr werdet verkauft haben
+ sie werden verkauft haben"," ich werde beobachtet haben
+ du wirst beobachtet haben
+ er wird beobachtet haben
+ wir werden beobachtet haben
+ ihr werdet beobachtet haben
+ sie werden beobachtet haben"," ich werde funktioniert haben
+ du wirst funktioniert haben
+ er wird funktioniert haben
+ wir werden funktioniert haben
+ ihr werdet funktioniert haben
+ sie werden funktioniert haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde kontrolliert haben
+ du wirst kontrolliert haben
+ er wird kontrolliert haben
+ wir werden kontrolliert haben
+ ihr werdet kontrolliert haben
+ sie werden kontrolliert haben"," ich werde genommen haben
+ du wirst genommen haben
+ er wird genommen haben
+ wir werden genommen haben
+ ihr werdet genommen haben
+ sie werden genommen haben"," ich werde entwickelt haben
+ du wirst entwickelt haben
+ er wird entwickelt haben
+ wir werden entwickelt haben
+ ihr werdet entwickelt haben
+ sie werden entwickelt haben"," ich werde gestört haben
+ du wirst gestört haben
+ er wird gestört haben
+ wir werden gestört haben
+ ihr werdet gestört haben
+ sie werden gestört haben"
 conditional_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -6010,7 +7890,27 @@ conditional_active,InfinitiveI," anklagen
  zu sitzen"," brauchen
  zu brauchen",," wissen
  zu wissen"," hassen
- zu hassen"
+ zu hassen"," melden
+ zu melden"," erlauben
+ zu erlauben"," rauchen
+ zu rauchen"," nutzen
+ zu nutzen"," entspannen
+ zu entspannen"," anbau(e)n
+ anzubau(e)n"," kaufen
+ zu kaufen"," regieren
+ zu regieren",," planen
+ zu planen"," besitzen
+ zu besitzen"," anbau(e)n
+ anzubau(e)n"," ernten
+ zu ernten",," verkaufen
+ zu verkaufen"," beobachten
+ zu beobachten"," funktionieren
+ zu funktionieren"," geben
+ zu geben"," kontrollieren
+ zu kontrollieren"," nehmen
+ zu nehmen"," entwickeln
+ zu entwickeln"," stören
+ zu stören"
 conditional_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -6074,9 +7974,29 @@ conditional_active,InfinitiveII," angeklagt haben
  gesessen zu haben"," gebraucht haben
  gebraucht zu haben",," gewusst haben
  gewusst zu haben"," gehasst haben
- gehasst zu haben"
-conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend
-conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst
+ gehasst zu haben"," gemeldet haben
+ gemeldet zu haben"," erlaubt haben
+ erlaubt zu haben"," geraucht haben
+ geraucht zu haben"," genutzt haben
+ genutzt zu haben"," entspannt haben
+ entspannt zu haben"," angebaut haben
+ angebaut zu haben"," gekauft haben
+ gekauft zu haben"," regiert haben
+ regiert zu haben",," geplant haben
+ geplant zu haben"," besessen haben
+ besessen zu haben"," angebaut haben
+ angebaut zu haben"," geerntet haben
+ geerntet zu haben",," verkauft haben
+ verkauft zu haben"," beobachtet haben
+ beobachtet zu haben"," funktioniert haben
+ funktioniert zu haben"," gegeben haben
+ gegeben zu haben"," kontrolliert haben
+ kontrolliert zu haben"," genommen haben
+ genommen zu haben"," entwickelt haben
+ entwickelt zu haben"," gestört haben
+ gestört zu haben"
+conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
+conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
 imperative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -6392,7 +8312,107 @@ imperative_active,Present," ich klag(e) an
  er hasst
  wir hassen
  ihr hasst
- sie hassen"
+ sie hassen"," ich meld(e)
+ du meldest
+ er meldet
+ wir melden
+ ihr meldet
+ sie melden"," ich erlaub(e)
+ du erlaubst
+ er erlaubt
+ wir erlauben
+ ihr erlaubt
+ sie erlauben"," ich rauch(e)
+ du rauchst
+ er raucht
+ wir rauchen
+ ihr raucht
+ sie rauchen"," ich nutz(e)
+ du nutzt
+ er nutzt
+ wir nutzen
+ ihr nutzt
+ sie nutzen"," ich entspann(e)
+ du entspannst
+ er entspannt
+ wir entspannen
+ ihr entspannt
+ sie entspannen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich kauf(e)
+ du kaufst
+ er kauft
+ wir kaufen
+ ihr kauft
+ sie kaufen"," ich regier(e)
+ du regierst
+ er regiert
+ wir regieren
+ ihr regiert
+ sie regieren",," ich plan(e)
+ du planst
+ er plant
+ wir planen
+ ihr plant
+ sie planen"," ich besitz(e)
+ du besitzt
+ er besitzt
+ wir besitzen
+ ihr besitzt
+ sie besitzen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich ernt(e)
+ du erntest
+ er erntet
+ wir ernten
+ ihr erntet
+ sie ernten",," ich verkauf(e)
+ du verkaufst
+ er verkauft
+ wir verkaufen
+ ihr verkauft
+ sie verkaufen"," ich beobacht(e)
+ du beobachtest
+ er beobachtet
+ wir beobachten
+ ihr beobachtet
+ sie beobachten"," ich funktionier(e)
+ du funktionierst
+ er funktioniert
+ wir funktionieren
+ ihr funktioniert
+ sie funktionieren"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich kontrollier(e)
+ du kontrollierst
+ er kontrolliert
+ wir kontrollieren
+ ihr kontrolliert
+ sie kontrollieren"," ich nehm(e)
+ du nimmst
+ er nimmt
+ wir nehmen
+ ihr nehmt
+ sie nehmen"," ich entwick(e)l(e)
+ du entwickelst
+ er entwickelt
+ wir entwickeln
+ ihr entwickelt
+ sie entwickeln"," ich stör(e)
+ du störst
+ er stört
+ wir stören
+ ihr stört
+ sie stören"
 imperative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -6708,7 +8728,107 @@ imperative_active,Imperfect," ich klagte an
  er hasste
  wir hassten
  ihr hasstet
- sie hassten"
+ sie hassten"," ich meldete
+ du meldetest
+ er meldete
+ wir meldeten
+ ihr meldetet
+ sie meldeten"," ich erlaubte
+ du erlaubtest
+ er erlaubte
+ wir erlaubten
+ ihr erlaubtet
+ sie erlaubten"," ich rauchte
+ du rauchtest
+ er rauchte
+ wir rauchten
+ ihr rauchtet
+ sie rauchten"," ich nutzte
+ du nutztest
+ er nutzte
+ wir nutzten
+ ihr nutztet
+ sie nutzten"," ich entspannte
+ du entspanntest
+ er entspannte
+ wir entspannten
+ ihr entspanntet
+ sie entspannten"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich kaufte
+ du kauftest
+ er kaufte
+ wir kauften
+ ihr kauftet
+ sie kauften"," ich regierte
+ du regiertest
+ er regierte
+ wir regierten
+ ihr regiertet
+ sie regierten",," ich plante
+ du plantest
+ er plante
+ wir planten
+ ihr plantet
+ sie planten"," ich besaß
+ du besaß(es)t
+ er besaß
+ wir besaßen
+ ihr besaß(e)t
+ sie besaßen"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich erntete
+ du erntetest
+ er erntete
+ wir ernteten
+ ihr erntetet
+ sie ernteten",," ich verkaufte
+ du verkauftest
+ er verkaufte
+ wir verkauften
+ ihr verkauftet
+ sie verkauften"," ich beobachtete
+ du beobachtetest
+ er beobachtete
+ wir beobachteten
+ ihr beobachtetet
+ sie beobachteten"," ich funktionierte
+ du funktioniertest
+ er funktionierte
+ wir funktionierten
+ ihr funktioniertet
+ sie funktionierten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich kontrollierte
+ du kontrolliertest
+ er kontrollierte
+ wir kontrollierten
+ ihr kontrolliertet
+ sie kontrollierten"," ich nahm
+ du nahmst
+ er nahm
+ wir nahmen
+ ihr nahmt
+ sie nahmen"," ich entwickelte
+ du entwickeltest
+ er entwickelte
+ wir entwickelten
+ ihr entwickeltet
+ sie entwickelten"," ich störte
+ du störtest
+ er störte
+ wir störten
+ ihr störtet
+ sie störten"
 imperative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -7024,7 +9144,107 @@ imperative_active,Perfect," ich habe angeklagt
  er hat gehasst
  wir haben gehasst
  ihr habt gehasst
- sie haben gehasst"
+ sie haben gehasst"," ich habe gemeldet
+ du hast gemeldet
+ er hat gemeldet
+ wir haben gemeldet
+ ihr habt gemeldet
+ sie haben gemeldet"," ich habe erlaubt
+ du hast erlaubt
+ er hat erlaubt
+ wir haben erlaubt
+ ihr habt erlaubt
+ sie haben erlaubt"," ich habe geraucht
+ du hast geraucht
+ er hat geraucht
+ wir haben geraucht
+ ihr habt geraucht
+ sie haben geraucht"," ich habe genutzt
+ du hast genutzt
+ er hat genutzt
+ wir haben genutzt
+ ihr habt genutzt
+ sie haben genutzt"," ich habe entspannt
+ du hast entspannt
+ er hat entspannt
+ wir haben entspannt
+ ihr habt entspannt
+ sie haben entspannt"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe gekauft
+ du hast gekauft
+ er hat gekauft
+ wir haben gekauft
+ ihr habt gekauft
+ sie haben gekauft"," ich habe regiert
+ du hast regiert
+ er hat regiert
+ wir haben regiert
+ ihr habt regiert
+ sie haben regiert",," ich habe geplant
+ du hast geplant
+ er hat geplant
+ wir haben geplant
+ ihr habt geplant
+ sie haben geplant"," ich habe besessen
+ du hast besessen
+ er hat besessen
+ wir haben besessen
+ ihr habt besessen
+ sie haben besessen"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe geerntet
+ du hast geerntet
+ er hat geerntet
+ wir haben geerntet
+ ihr habt geerntet
+ sie haben geerntet",," ich habe verkauft
+ du hast verkauft
+ er hat verkauft
+ wir haben verkauft
+ ihr habt verkauft
+ sie haben verkauft"," ich habe beobachtet
+ du hast beobachtet
+ er hat beobachtet
+ wir haben beobachtet
+ ihr habt beobachtet
+ sie haben beobachtet"," ich habe funktioniert
+ du hast funktioniert
+ er hat funktioniert
+ wir haben funktioniert
+ ihr habt funktioniert
+ sie haben funktioniert"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich habe kontrolliert
+ du hast kontrolliert
+ er hat kontrolliert
+ wir haben kontrolliert
+ ihr habt kontrolliert
+ sie haben kontrolliert"," ich habe genommen
+ du hast genommen
+ er hat genommen
+ wir haben genommen
+ ihr habt genommen
+ sie haben genommen"," ich habe entwickelt
+ du hast entwickelt
+ er hat entwickelt
+ wir haben entwickelt
+ ihr habt entwickelt
+ sie haben entwickelt"," ich habe gestört
+ du hast gestört
+ er hat gestört
+ wir haben gestört
+ ihr habt gestört
+ sie haben gestört"
 imperative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -7340,7 +9560,107 @@ imperative_active,Pluperfect," ich hatte angeklagt
  er hatte gehasst
  wir hatten gehasst
  ihr hattet gehasst
- sie hatten gehasst"
+ sie hatten gehasst"," ich hatte gemeldet
+ du hattest gemeldet
+ er hatte gemeldet
+ wir hatten gemeldet
+ ihr hattet gemeldet
+ sie hatten gemeldet"," ich hatte erlaubt
+ du hattest erlaubt
+ er hatte erlaubt
+ wir hatten erlaubt
+ ihr hattet erlaubt
+ sie hatten erlaubt"," ich hatte geraucht
+ du hattest geraucht
+ er hatte geraucht
+ wir hatten geraucht
+ ihr hattet geraucht
+ sie hatten geraucht"," ich hatte genutzt
+ du hattest genutzt
+ er hatte genutzt
+ wir hatten genutzt
+ ihr hattet genutzt
+ sie hatten genutzt"," ich hatte entspannt
+ du hattest entspannt
+ er hatte entspannt
+ wir hatten entspannt
+ ihr hattet entspannt
+ sie hatten entspannt"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte gekauft
+ du hattest gekauft
+ er hatte gekauft
+ wir hatten gekauft
+ ihr hattet gekauft
+ sie hatten gekauft"," ich hatte regiert
+ du hattest regiert
+ er hatte regiert
+ wir hatten regiert
+ ihr hattet regiert
+ sie hatten regiert",," ich hatte geplant
+ du hattest geplant
+ er hatte geplant
+ wir hatten geplant
+ ihr hattet geplant
+ sie hatten geplant"," ich hatte besessen
+ du hattest besessen
+ er hatte besessen
+ wir hatten besessen
+ ihr hattet besessen
+ sie hatten besessen"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte geerntet
+ du hattest geerntet
+ er hatte geerntet
+ wir hatten geerntet
+ ihr hattet geerntet
+ sie hatten geerntet",," ich hatte verkauft
+ du hattest verkauft
+ er hatte verkauft
+ wir hatten verkauft
+ ihr hattet verkauft
+ sie hatten verkauft"," ich hatte beobachtet
+ du hattest beobachtet
+ er hatte beobachtet
+ wir hatten beobachtet
+ ihr hattet beobachtet
+ sie hatten beobachtet"," ich hatte funktioniert
+ du hattest funktioniert
+ er hatte funktioniert
+ wir hatten funktioniert
+ ihr hattet funktioniert
+ sie hatten funktioniert"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich hatte kontrolliert
+ du hattest kontrolliert
+ er hatte kontrolliert
+ wir hatten kontrolliert
+ ihr hattet kontrolliert
+ sie hatten kontrolliert"," ich hatte genommen
+ du hattest genommen
+ er hatte genommen
+ wir hatten genommen
+ ihr hattet genommen
+ sie hatten genommen"," ich hatte entwickelt
+ du hattest entwickelt
+ er hatte entwickelt
+ wir hatten entwickelt
+ ihr hattet entwickelt
+ sie hatten entwickelt"," ich hatte gestört
+ du hattest gestört
+ er hatte gestört
+ wir hatten gestört
+ ihr hattet gestört
+ sie hatten gestört"
 imperative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -7656,7 +9976,107 @@ imperative_active,Future," ich werde anklagen
  er wird hassen
  wir werden hassen
  ihr werdet hassen
- sie werden hassen"
+ sie werden hassen"," ich werde melden
+ du wirst melden
+ er wird melden
+ wir werden melden
+ ihr werdet melden
+ sie werden melden"," ich werde erlauben
+ du wirst erlauben
+ er wird erlauben
+ wir werden erlauben
+ ihr werdet erlauben
+ sie werden erlauben"," ich werde rauchen
+ du wirst rauchen
+ er wird rauchen
+ wir werden rauchen
+ ihr werdet rauchen
+ sie werden rauchen"," ich werde nutzen
+ du wirst nutzen
+ er wird nutzen
+ wir werden nutzen
+ ihr werdet nutzen
+ sie werden nutzen"," ich werde entspannen
+ du wirst entspannen
+ er wird entspannen
+ wir werden entspannen
+ ihr werdet entspannen
+ sie werden entspannen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde kaufen
+ du wirst kaufen
+ er wird kaufen
+ wir werden kaufen
+ ihr werdet kaufen
+ sie werden kaufen"," ich werde regieren
+ du wirst regieren
+ er wird regieren
+ wir werden regieren
+ ihr werdet regieren
+ sie werden regieren",," ich werde planen
+ du wirst planen
+ er wird planen
+ wir werden planen
+ ihr werdet planen
+ sie werden planen"," ich werde besitzen
+ du wirst besitzen
+ er wird besitzen
+ wir werden besitzen
+ ihr werdet besitzen
+ sie werden besitzen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde ernten
+ du wirst ernten
+ er wird ernten
+ wir werden ernten
+ ihr werdet ernten
+ sie werden ernten",," ich werde verkaufen
+ du wirst verkaufen
+ er wird verkaufen
+ wir werden verkaufen
+ ihr werdet verkaufen
+ sie werden verkaufen"," ich werde beobachten
+ du wirst beobachten
+ er wird beobachten
+ wir werden beobachten
+ ihr werdet beobachten
+ sie werden beobachten"," ich werde funktionieren
+ du wirst funktionieren
+ er wird funktionieren
+ wir werden funktionieren
+ ihr werdet funktionieren
+ sie werden funktionieren"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde kontrollieren
+ du wirst kontrollieren
+ er wird kontrollieren
+ wir werden kontrollieren
+ ihr werdet kontrollieren
+ sie werden kontrollieren"," ich werde nehmen
+ du wirst nehmen
+ er wird nehmen
+ wir werden nehmen
+ ihr werdet nehmen
+ sie werden nehmen"," ich werde entwickeln
+ du wirst entwickeln
+ er wird entwickeln
+ wir werden entwickeln
+ ihr werdet entwickeln
+ sie werden entwickeln"," ich werde stören
+ du wirst stören
+ er wird stören
+ wir werden stören
+ ihr werdet stören
+ sie werden stören"
 imperative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -7972,7 +10392,107 @@ imperative_active,FuturePerfect," ich werde angeklagt haben
  er wird gehasst haben
  wir werden gehasst haben
  ihr werdet gehasst haben
- sie werden gehasst haben"
+ sie werden gehasst haben"," ich werde gemeldet haben
+ du wirst gemeldet haben
+ er wird gemeldet haben
+ wir werden gemeldet haben
+ ihr werdet gemeldet haben
+ sie werden gemeldet haben"," ich werde erlaubt haben
+ du wirst erlaubt haben
+ er wird erlaubt haben
+ wir werden erlaubt haben
+ ihr werdet erlaubt haben
+ sie werden erlaubt haben"," ich werde geraucht haben
+ du wirst geraucht haben
+ er wird geraucht haben
+ wir werden geraucht haben
+ ihr werdet geraucht haben
+ sie werden geraucht haben"," ich werde genutzt haben
+ du wirst genutzt haben
+ er wird genutzt haben
+ wir werden genutzt haben
+ ihr werdet genutzt haben
+ sie werden genutzt haben"," ich werde entspannt haben
+ du wirst entspannt haben
+ er wird entspannt haben
+ wir werden entspannt haben
+ ihr werdet entspannt haben
+ sie werden entspannt haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde gekauft haben
+ du wirst gekauft haben
+ er wird gekauft haben
+ wir werden gekauft haben
+ ihr werdet gekauft haben
+ sie werden gekauft haben"," ich werde regiert haben
+ du wirst regiert haben
+ er wird regiert haben
+ wir werden regiert haben
+ ihr werdet regiert haben
+ sie werden regiert haben",," ich werde geplant haben
+ du wirst geplant haben
+ er wird geplant haben
+ wir werden geplant haben
+ ihr werdet geplant haben
+ sie werden geplant haben"," ich werde besessen haben
+ du wirst besessen haben
+ er wird besessen haben
+ wir werden besessen haben
+ ihr werdet besessen haben
+ sie werden besessen haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde geerntet haben
+ du wirst geerntet haben
+ er wird geerntet haben
+ wir werden geerntet haben
+ ihr werdet geerntet haben
+ sie werden geerntet haben",," ich werde verkauft haben
+ du wirst verkauft haben
+ er wird verkauft haben
+ wir werden verkauft haben
+ ihr werdet verkauft haben
+ sie werden verkauft haben"," ich werde beobachtet haben
+ du wirst beobachtet haben
+ er wird beobachtet haben
+ wir werden beobachtet haben
+ ihr werdet beobachtet haben
+ sie werden beobachtet haben"," ich werde funktioniert haben
+ du wirst funktioniert haben
+ er wird funktioniert haben
+ wir werden funktioniert haben
+ ihr werdet funktioniert haben
+ sie werden funktioniert haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde kontrolliert haben
+ du wirst kontrolliert haben
+ er wird kontrolliert haben
+ wir werden kontrolliert haben
+ ihr werdet kontrolliert haben
+ sie werden kontrolliert haben"," ich werde genommen haben
+ du wirst genommen haben
+ er wird genommen haben
+ wir werden genommen haben
+ ihr werdet genommen haben
+ sie werden genommen haben"," ich werde entwickelt haben
+ du wirst entwickelt haben
+ er wird entwickelt haben
+ wir werden entwickelt haben
+ ihr werdet entwickelt haben
+ sie werden entwickelt haben"," ich werde gestört haben
+ du wirst gestört haben
+ er wird gestört haben
+ wir werden gestört haben
+ ihr werdet gestört haben
+ sie werden gestört haben"
 imperative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -8036,7 +10556,27 @@ imperative_active,InfinitiveI," anklagen
  zu sitzen"," brauchen
  zu brauchen",," wissen
  zu wissen"," hassen
- zu hassen"
+ zu hassen"," melden
+ zu melden"," erlauben
+ zu erlauben"," rauchen
+ zu rauchen"," nutzen
+ zu nutzen"," entspannen
+ zu entspannen"," anbau(e)n
+ anzubau(e)n"," kaufen
+ zu kaufen"," regieren
+ zu regieren",," planen
+ zu planen"," besitzen
+ zu besitzen"," anbau(e)n
+ anzubau(e)n"," ernten
+ zu ernten",," verkaufen
+ zu verkaufen"," beobachten
+ zu beobachten"," funktionieren
+ zu funktionieren"," geben
+ zu geben"," kontrollieren
+ zu kontrollieren"," nehmen
+ zu nehmen"," entwickeln
+ zu entwickeln"," stören
+ zu stören"
 imperative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -8100,9 +10640,29 @@ imperative_active,InfinitiveII," angeklagt haben
  gesessen zu haben"," gebraucht haben
  gebraucht zu haben",," gewusst haben
  gewusst zu haben"," gehasst haben
- gehasst zu haben"
-imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend
-imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst
+ gehasst zu haben"," gemeldet haben
+ gemeldet zu haben"," erlaubt haben
+ erlaubt zu haben"," geraucht haben
+ geraucht zu haben"," genutzt haben
+ genutzt zu haben"," entspannt haben
+ entspannt zu haben"," angebaut haben
+ angebaut zu haben"," gekauft haben
+ gekauft zu haben"," regiert haben
+ regiert zu haben",," geplant haben
+ geplant zu haben"," besessen haben
+ besessen zu haben"," angebaut haben
+ angebaut zu haben"," geerntet haben
+ geerntet zu haben",," verkauft haben
+ verkauft zu haben"," beobachtet haben
+ beobachtet zu haben"," funktioniert haben
+ funktioniert zu haben"," gegeben haben
+ gegeben zu haben"," kontrolliert haben
+ kontrolliert zu haben"," genommen haben
+ genommen zu haben"," entwickelt haben
+ entwickelt zu haben"," gestört haben
+ gestört zu haben"
+imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
+imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
 infinitive_participle_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -8418,7 +10978,107 @@ infinitive_participle_active,Present," ich klag(e) an
  er hasst
  wir hassen
  ihr hasst
- sie hassen"
+ sie hassen"," ich meld(e)
+ du meldest
+ er meldet
+ wir melden
+ ihr meldet
+ sie melden"," ich erlaub(e)
+ du erlaubst
+ er erlaubt
+ wir erlauben
+ ihr erlaubt
+ sie erlauben"," ich rauch(e)
+ du rauchst
+ er raucht
+ wir rauchen
+ ihr raucht
+ sie rauchen"," ich nutz(e)
+ du nutzt
+ er nutzt
+ wir nutzen
+ ihr nutzt
+ sie nutzen"," ich entspann(e)
+ du entspannst
+ er entspannt
+ wir entspannen
+ ihr entspannt
+ sie entspannen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich kauf(e)
+ du kaufst
+ er kauft
+ wir kaufen
+ ihr kauft
+ sie kaufen"," ich regier(e)
+ du regierst
+ er regiert
+ wir regieren
+ ihr regiert
+ sie regieren",," ich plan(e)
+ du planst
+ er plant
+ wir planen
+ ihr plant
+ sie planen"," ich besitz(e)
+ du besitzt
+ er besitzt
+ wir besitzen
+ ihr besitzt
+ sie besitzen"," ich bau(e) an
+ du baust an
+ er baut an
+ wir bau(e)n an
+ ihr baut an
+ sie bau(e)n an"," ich ernt(e)
+ du erntest
+ er erntet
+ wir ernten
+ ihr erntet
+ sie ernten",," ich verkauf(e)
+ du verkaufst
+ er verkauft
+ wir verkaufen
+ ihr verkauft
+ sie verkaufen"," ich beobacht(e)
+ du beobachtest
+ er beobachtet
+ wir beobachten
+ ihr beobachtet
+ sie beobachten"," ich funktionier(e)
+ du funktionierst
+ er funktioniert
+ wir funktionieren
+ ihr funktioniert
+ sie funktionieren"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben"," ich kontrollier(e)
+ du kontrollierst
+ er kontrolliert
+ wir kontrollieren
+ ihr kontrolliert
+ sie kontrollieren"," ich nehm(e)
+ du nimmst
+ er nimmt
+ wir nehmen
+ ihr nehmt
+ sie nehmen"," ich entwick(e)l(e)
+ du entwickelst
+ er entwickelt
+ wir entwickeln
+ ihr entwickelt
+ sie entwickeln"," ich stör(e)
+ du störst
+ er stört
+ wir stören
+ ihr stört
+ sie stören"
 infinitive_participle_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -8734,7 +11394,107 @@ infinitive_participle_active,Imperfect," ich klagte an
  er hasste
  wir hassten
  ihr hasstet
- sie hassten"
+ sie hassten"," ich meldete
+ du meldetest
+ er meldete
+ wir meldeten
+ ihr meldetet
+ sie meldeten"," ich erlaubte
+ du erlaubtest
+ er erlaubte
+ wir erlaubten
+ ihr erlaubtet
+ sie erlaubten"," ich rauchte
+ du rauchtest
+ er rauchte
+ wir rauchten
+ ihr rauchtet
+ sie rauchten"," ich nutzte
+ du nutztest
+ er nutzte
+ wir nutzten
+ ihr nutztet
+ sie nutzten"," ich entspannte
+ du entspanntest
+ er entspannte
+ wir entspannten
+ ihr entspanntet
+ sie entspannten"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich kaufte
+ du kauftest
+ er kaufte
+ wir kauften
+ ihr kauftet
+ sie kauften"," ich regierte
+ du regiertest
+ er regierte
+ wir regierten
+ ihr regiertet
+ sie regierten",," ich plante
+ du plantest
+ er plante
+ wir planten
+ ihr plantet
+ sie planten"," ich besaß
+ du besaß(es)t
+ er besaß
+ wir besaßen
+ ihr besaß(e)t
+ sie besaßen"," ich baute an
+ du bautest an
+ er baute an
+ wir bauten an
+ ihr bautet an
+ sie bauten an"," ich erntete
+ du erntetest
+ er erntete
+ wir ernteten
+ ihr erntetet
+ sie ernteten",," ich verkaufte
+ du verkauftest
+ er verkaufte
+ wir verkauften
+ ihr verkauftet
+ sie verkauften"," ich beobachtete
+ du beobachtetest
+ er beobachtete
+ wir beobachteten
+ ihr beobachtetet
+ sie beobachteten"," ich funktionierte
+ du funktioniertest
+ er funktionierte
+ wir funktionierten
+ ihr funktioniertet
+ sie funktionierten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben"," ich kontrollierte
+ du kontrolliertest
+ er kontrollierte
+ wir kontrollierten
+ ihr kontrolliertet
+ sie kontrollierten"," ich nahm
+ du nahmst
+ er nahm
+ wir nahmen
+ ihr nahmt
+ sie nahmen"," ich entwickelte
+ du entwickeltest
+ er entwickelte
+ wir entwickelten
+ ihr entwickeltet
+ sie entwickelten"," ich störte
+ du störtest
+ er störte
+ wir störten
+ ihr störtet
+ sie störten"
 infinitive_participle_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -9050,7 +11810,107 @@ infinitive_participle_active,Perfect," ich habe angeklagt
  er hat gehasst
  wir haben gehasst
  ihr habt gehasst
- sie haben gehasst"
+ sie haben gehasst"," ich habe gemeldet
+ du hast gemeldet
+ er hat gemeldet
+ wir haben gemeldet
+ ihr habt gemeldet
+ sie haben gemeldet"," ich habe erlaubt
+ du hast erlaubt
+ er hat erlaubt
+ wir haben erlaubt
+ ihr habt erlaubt
+ sie haben erlaubt"," ich habe geraucht
+ du hast geraucht
+ er hat geraucht
+ wir haben geraucht
+ ihr habt geraucht
+ sie haben geraucht"," ich habe genutzt
+ du hast genutzt
+ er hat genutzt
+ wir haben genutzt
+ ihr habt genutzt
+ sie haben genutzt"," ich habe entspannt
+ du hast entspannt
+ er hat entspannt
+ wir haben entspannt
+ ihr habt entspannt
+ sie haben entspannt"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe gekauft
+ du hast gekauft
+ er hat gekauft
+ wir haben gekauft
+ ihr habt gekauft
+ sie haben gekauft"," ich habe regiert
+ du hast regiert
+ er hat regiert
+ wir haben regiert
+ ihr habt regiert
+ sie haben regiert",," ich habe geplant
+ du hast geplant
+ er hat geplant
+ wir haben geplant
+ ihr habt geplant
+ sie haben geplant"," ich habe besessen
+ du hast besessen
+ er hat besessen
+ wir haben besessen
+ ihr habt besessen
+ sie haben besessen"," ich habe angebaut
+ du hast angebaut
+ er hat angebaut
+ wir haben angebaut
+ ihr habt angebaut
+ sie haben angebaut"," ich habe geerntet
+ du hast geerntet
+ er hat geerntet
+ wir haben geerntet
+ ihr habt geerntet
+ sie haben geerntet",," ich habe verkauft
+ du hast verkauft
+ er hat verkauft
+ wir haben verkauft
+ ihr habt verkauft
+ sie haben verkauft"," ich habe beobachtet
+ du hast beobachtet
+ er hat beobachtet
+ wir haben beobachtet
+ ihr habt beobachtet
+ sie haben beobachtet"," ich habe funktioniert
+ du hast funktioniert
+ er hat funktioniert
+ wir haben funktioniert
+ ihr habt funktioniert
+ sie haben funktioniert"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben"," ich habe kontrolliert
+ du hast kontrolliert
+ er hat kontrolliert
+ wir haben kontrolliert
+ ihr habt kontrolliert
+ sie haben kontrolliert"," ich habe genommen
+ du hast genommen
+ er hat genommen
+ wir haben genommen
+ ihr habt genommen
+ sie haben genommen"," ich habe entwickelt
+ du hast entwickelt
+ er hat entwickelt
+ wir haben entwickelt
+ ihr habt entwickelt
+ sie haben entwickelt"," ich habe gestört
+ du hast gestört
+ er hat gestört
+ wir haben gestört
+ ihr habt gestört
+ sie haben gestört"
 infinitive_participle_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -9366,7 +12226,107 @@ infinitive_participle_active,Pluperfect," ich hatte angeklagt
  er hatte gehasst
  wir hatten gehasst
  ihr hattet gehasst
- sie hatten gehasst"
+ sie hatten gehasst"," ich hatte gemeldet
+ du hattest gemeldet
+ er hatte gemeldet
+ wir hatten gemeldet
+ ihr hattet gemeldet
+ sie hatten gemeldet"," ich hatte erlaubt
+ du hattest erlaubt
+ er hatte erlaubt
+ wir hatten erlaubt
+ ihr hattet erlaubt
+ sie hatten erlaubt"," ich hatte geraucht
+ du hattest geraucht
+ er hatte geraucht
+ wir hatten geraucht
+ ihr hattet geraucht
+ sie hatten geraucht"," ich hatte genutzt
+ du hattest genutzt
+ er hatte genutzt
+ wir hatten genutzt
+ ihr hattet genutzt
+ sie hatten genutzt"," ich hatte entspannt
+ du hattest entspannt
+ er hatte entspannt
+ wir hatten entspannt
+ ihr hattet entspannt
+ sie hatten entspannt"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte gekauft
+ du hattest gekauft
+ er hatte gekauft
+ wir hatten gekauft
+ ihr hattet gekauft
+ sie hatten gekauft"," ich hatte regiert
+ du hattest regiert
+ er hatte regiert
+ wir hatten regiert
+ ihr hattet regiert
+ sie hatten regiert",," ich hatte geplant
+ du hattest geplant
+ er hatte geplant
+ wir hatten geplant
+ ihr hattet geplant
+ sie hatten geplant"," ich hatte besessen
+ du hattest besessen
+ er hatte besessen
+ wir hatten besessen
+ ihr hattet besessen
+ sie hatten besessen"," ich hatte angebaut
+ du hattest angebaut
+ er hatte angebaut
+ wir hatten angebaut
+ ihr hattet angebaut
+ sie hatten angebaut"," ich hatte geerntet
+ du hattest geerntet
+ er hatte geerntet
+ wir hatten geerntet
+ ihr hattet geerntet
+ sie hatten geerntet",," ich hatte verkauft
+ du hattest verkauft
+ er hatte verkauft
+ wir hatten verkauft
+ ihr hattet verkauft
+ sie hatten verkauft"," ich hatte beobachtet
+ du hattest beobachtet
+ er hatte beobachtet
+ wir hatten beobachtet
+ ihr hattet beobachtet
+ sie hatten beobachtet"," ich hatte funktioniert
+ du hattest funktioniert
+ er hatte funktioniert
+ wir hatten funktioniert
+ ihr hattet funktioniert
+ sie hatten funktioniert"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben"," ich hatte kontrolliert
+ du hattest kontrolliert
+ er hatte kontrolliert
+ wir hatten kontrolliert
+ ihr hattet kontrolliert
+ sie hatten kontrolliert"," ich hatte genommen
+ du hattest genommen
+ er hatte genommen
+ wir hatten genommen
+ ihr hattet genommen
+ sie hatten genommen"," ich hatte entwickelt
+ du hattest entwickelt
+ er hatte entwickelt
+ wir hatten entwickelt
+ ihr hattet entwickelt
+ sie hatten entwickelt"," ich hatte gestört
+ du hattest gestört
+ er hatte gestört
+ wir hatten gestört
+ ihr hattet gestört
+ sie hatten gestört"
 infinitive_participle_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -9682,7 +12642,107 @@ infinitive_participle_active,Future," ich werde anklagen
  er wird hassen
  wir werden hassen
  ihr werdet hassen
- sie werden hassen"
+ sie werden hassen"," ich werde melden
+ du wirst melden
+ er wird melden
+ wir werden melden
+ ihr werdet melden
+ sie werden melden"," ich werde erlauben
+ du wirst erlauben
+ er wird erlauben
+ wir werden erlauben
+ ihr werdet erlauben
+ sie werden erlauben"," ich werde rauchen
+ du wirst rauchen
+ er wird rauchen
+ wir werden rauchen
+ ihr werdet rauchen
+ sie werden rauchen"," ich werde nutzen
+ du wirst nutzen
+ er wird nutzen
+ wir werden nutzen
+ ihr werdet nutzen
+ sie werden nutzen"," ich werde entspannen
+ du wirst entspannen
+ er wird entspannen
+ wir werden entspannen
+ ihr werdet entspannen
+ sie werden entspannen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde kaufen
+ du wirst kaufen
+ er wird kaufen
+ wir werden kaufen
+ ihr werdet kaufen
+ sie werden kaufen"," ich werde regieren
+ du wirst regieren
+ er wird regieren
+ wir werden regieren
+ ihr werdet regieren
+ sie werden regieren",," ich werde planen
+ du wirst planen
+ er wird planen
+ wir werden planen
+ ihr werdet planen
+ sie werden planen"," ich werde besitzen
+ du wirst besitzen
+ er wird besitzen
+ wir werden besitzen
+ ihr werdet besitzen
+ sie werden besitzen"," ich werde anbau(e)n
+ du wirst anbau(e)n
+ er wird anbau(e)n
+ wir werden anbau(e)n
+ ihr werdet anbau(e)n
+ sie werden anbau(e)n"," ich werde ernten
+ du wirst ernten
+ er wird ernten
+ wir werden ernten
+ ihr werdet ernten
+ sie werden ernten",," ich werde verkaufen
+ du wirst verkaufen
+ er wird verkaufen
+ wir werden verkaufen
+ ihr werdet verkaufen
+ sie werden verkaufen"," ich werde beobachten
+ du wirst beobachten
+ er wird beobachten
+ wir werden beobachten
+ ihr werdet beobachten
+ sie werden beobachten"," ich werde funktionieren
+ du wirst funktionieren
+ er wird funktionieren
+ wir werden funktionieren
+ ihr werdet funktionieren
+ sie werden funktionieren"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben"," ich werde kontrollieren
+ du wirst kontrollieren
+ er wird kontrollieren
+ wir werden kontrollieren
+ ihr werdet kontrollieren
+ sie werden kontrollieren"," ich werde nehmen
+ du wirst nehmen
+ er wird nehmen
+ wir werden nehmen
+ ihr werdet nehmen
+ sie werden nehmen"," ich werde entwickeln
+ du wirst entwickeln
+ er wird entwickeln
+ wir werden entwickeln
+ ihr werdet entwickeln
+ sie werden entwickeln"," ich werde stören
+ du wirst stören
+ er wird stören
+ wir werden stören
+ ihr werdet stören
+ sie werden stören"
 infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -9998,7 +13058,107 @@ infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  er wird gehasst haben
  wir werden gehasst haben
  ihr werdet gehasst haben
- sie werden gehasst haben"
+ sie werden gehasst haben"," ich werde gemeldet haben
+ du wirst gemeldet haben
+ er wird gemeldet haben
+ wir werden gemeldet haben
+ ihr werdet gemeldet haben
+ sie werden gemeldet haben"," ich werde erlaubt haben
+ du wirst erlaubt haben
+ er wird erlaubt haben
+ wir werden erlaubt haben
+ ihr werdet erlaubt haben
+ sie werden erlaubt haben"," ich werde geraucht haben
+ du wirst geraucht haben
+ er wird geraucht haben
+ wir werden geraucht haben
+ ihr werdet geraucht haben
+ sie werden geraucht haben"," ich werde genutzt haben
+ du wirst genutzt haben
+ er wird genutzt haben
+ wir werden genutzt haben
+ ihr werdet genutzt haben
+ sie werden genutzt haben"," ich werde entspannt haben
+ du wirst entspannt haben
+ er wird entspannt haben
+ wir werden entspannt haben
+ ihr werdet entspannt haben
+ sie werden entspannt haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde gekauft haben
+ du wirst gekauft haben
+ er wird gekauft haben
+ wir werden gekauft haben
+ ihr werdet gekauft haben
+ sie werden gekauft haben"," ich werde regiert haben
+ du wirst regiert haben
+ er wird regiert haben
+ wir werden regiert haben
+ ihr werdet regiert haben
+ sie werden regiert haben",," ich werde geplant haben
+ du wirst geplant haben
+ er wird geplant haben
+ wir werden geplant haben
+ ihr werdet geplant haben
+ sie werden geplant haben"," ich werde besessen haben
+ du wirst besessen haben
+ er wird besessen haben
+ wir werden besessen haben
+ ihr werdet besessen haben
+ sie werden besessen haben"," ich werde angebaut haben
+ du wirst angebaut haben
+ er wird angebaut haben
+ wir werden angebaut haben
+ ihr werdet angebaut haben
+ sie werden angebaut haben"," ich werde geerntet haben
+ du wirst geerntet haben
+ er wird geerntet haben
+ wir werden geerntet haben
+ ihr werdet geerntet haben
+ sie werden geerntet haben",," ich werde verkauft haben
+ du wirst verkauft haben
+ er wird verkauft haben
+ wir werden verkauft haben
+ ihr werdet verkauft haben
+ sie werden verkauft haben"," ich werde beobachtet haben
+ du wirst beobachtet haben
+ er wird beobachtet haben
+ wir werden beobachtet haben
+ ihr werdet beobachtet haben
+ sie werden beobachtet haben"," ich werde funktioniert haben
+ du wirst funktioniert haben
+ er wird funktioniert haben
+ wir werden funktioniert haben
+ ihr werdet funktioniert haben
+ sie werden funktioniert haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben"," ich werde kontrolliert haben
+ du wirst kontrolliert haben
+ er wird kontrolliert haben
+ wir werden kontrolliert haben
+ ihr werdet kontrolliert haben
+ sie werden kontrolliert haben"," ich werde genommen haben
+ du wirst genommen haben
+ er wird genommen haben
+ wir werden genommen haben
+ ihr werdet genommen haben
+ sie werden genommen haben"," ich werde entwickelt haben
+ du wirst entwickelt haben
+ er wird entwickelt haben
+ wir werden entwickelt haben
+ ihr werdet entwickelt haben
+ sie werden entwickelt haben"," ich werde gestört haben
+ du wirst gestört haben
+ er wird gestört haben
+ wir werden gestört haben
+ ihr werdet gestört haben
+ sie werden gestört haben"
 infinitive_participle_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -10062,7 +13222,27 @@ infinitive_participle_active,InfinitiveI," anklagen
  zu sitzen"," brauchen
  zu brauchen",," wissen
  zu wissen"," hassen
- zu hassen"
+ zu hassen"," melden
+ zu melden"," erlauben
+ zu erlauben"," rauchen
+ zu rauchen"," nutzen
+ zu nutzen"," entspannen
+ zu entspannen"," anbau(e)n
+ anzubau(e)n"," kaufen
+ zu kaufen"," regieren
+ zu regieren",," planen
+ zu planen"," besitzen
+ zu besitzen"," anbau(e)n
+ anzubau(e)n"," ernten
+ zu ernten",," verkaufen
+ zu verkaufen"," beobachten
+ zu beobachten"," funktionieren
+ zu funktionieren"," geben
+ zu geben"," kontrollieren
+ zu kontrollieren"," nehmen
+ zu nehmen"," entwickeln
+ zu entwickeln"," stören
+ zu stören"
 infinitive_participle_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -10126,6 +13306,26 @@ infinitive_participle_active,InfinitiveII," angeklagt haben
  gesessen zu haben"," gebraucht haben
  gebraucht zu haben",," gewusst haben
  gewusst zu haben"," gehasst haben
- gehasst zu haben"
-infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend
-infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst
+ gehasst zu haben"," gemeldet haben
+ gemeldet zu haben"," erlaubt haben
+ erlaubt zu haben"," geraucht haben
+ geraucht zu haben"," genutzt haben
+ genutzt zu haben"," entspannt haben
+ entspannt zu haben"," angebaut haben
+ angebaut zu haben"," gekauft haben
+ gekauft zu haben"," regiert haben
+ regiert zu haben",," geplant haben
+ geplant zu haben"," besessen haben
+ besessen zu haben"," angebaut haben
+ angebaut zu haben"," geerntet haben
+ geerntet zu haben",," verkauft haben
+ verkauft zu haben"," beobachtet haben
+ beobachtet zu haben"," funktioniert haben
+ funktioniert zu haben"," gegeben haben
+ gegeben zu haben"," kontrolliert haben
+ kontrolliert zu haben"," genommen haben
+ genommen zu haben"," entwickelt haben
+ entwickelt zu haben"," gestört haben
+ gestört zu haben"
+infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
+infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört

@@ -129,11 +129,12 @@ class NounsAgent(Process):
             sleep(0.0001)
 
         self.blackboard['stages']['analyzed_nouns'] = 'STARTED'
+        NOUN_CACHE.refresh_cache()
         self.analyze_nouns()
+        NOUN_CACHE.cache()
         self.blackboard['stages']['analyzed_nouns'] = 'Analyzed nouns!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_nouns'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_nouns'] = 'Generated rich analysis!'
-        NOUN_CACHE.cache()
         self.blackboard['stages']['analyzed_nouns'] = 'DONE'

@@ -189,11 +189,12 @@ class VerbsAgent(Process):
 
         self.blackboard['stages']['analyzed_verbs'] = 'STARTED'
         self.analyze_verbs()
+        VERBS_MEANING_CACHE.cache()
+        VERBS_CONJUGATION_CACHE.cache()
+
         self.blackboard['stages']['analyzed_verbs'] = 'Analyzed verbs!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_verbs'] = 'Generated rich analysis!'
-        VERBS_MEANING_CACHE.cache()
-        VERBS_CONJUGATION_CACHE.cache()
         self.blackboard['stages']['analyzed_verbs'] = 'DONE'

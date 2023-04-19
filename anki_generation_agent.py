@@ -82,6 +82,14 @@ class AnkiGenerationAgent(Process):
         deck_name = INPUT_PATH.split('/')[-1].split(".")[0]
         self.anki_generator = AnkiGenerator(deck_name)
 
+    def refresh_cache(self):
+        NOUN_CACHE.refresh_cache()
+        VERBS_MEANING_CACHE.refresh_cache()
+        VERBS_CONJUGATION_CACHE.refresh_cache()
+        ADVERBS_CACHE.refresh_cache()
+        ADJECTIVES_CACHE.refresh_cache()
+        PREPOSITIONS_CACHE.refresh_cache()
+
     def add_nouns(self):
         df = self.blackboard['analyzed_text'].loc[(self.blackboard['analyzed_text']['pos_'] == 'NOUN')]
 
@@ -185,6 +193,8 @@ class AnkiGenerationAgent(Process):
             sleep(0.001)
 
         self.blackboard['stages']['anki_generation'] = 'STARTED'
+        self.refresh_cache()
+        self.blackboard['stages']['anki_generation'] = 'refreshed caches'
         self.add_nouns()
         self.blackboard['stages']['anki_generation'] = 'Nouns added!'
         self.add_verbs()

@@ -34,6 +34,10 @@ class AdverbsCache(pd.DataFrame):
                                          index_col=['aspects', 'language']))
         self.lock = Lock()
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(ADVERBS_CACHE_FILE, index_col=['aspects', 'language']))
+
     def cache(self):
         try:
             if super().empty:
@@ -57,15 +61,12 @@ class AdverbsCache(pd.DataFrame):
                 new_noun = nouns_definition_parser('adverbs_table', key)
 
                 if new_noun is not None:
-                    if new_noun['adjectives_or_adverbs'] is not None:
-                        self[key] = pd.Series(index=self.index, dtype='object')
-                        for aspect, languages in new_noun.items():
-                            if languages is not None:
-                                self.loc[(aspect, 'english'), key] = languages[0]
-                                self.loc[(aspect, 'german'), key] = languages[1]
-                        return super().loc[(slice(None), slice(None)), key]
-                    else:
-                        return None
+                    self[key] = pd.Series(index=self.index, dtype='object')
+                    for aspect, languages in new_noun.items():
+                        if languages is not None:
+                            self.loc[(aspect, 'english'), key] = languages[0]
+                            self.loc[(aspect, 'german'), key] = languages[1]
+                    return super().loc[(slice(None), slice(None)), key]
                 else:
                     return None
 
@@ -74,6 +75,6 @@ ADVERBS_CACHE = AdverbsCache()
 
 if __name__ == "__main__":
     adverb_cache = AdverbsCache()
-    df = adverb_cache['schön']
+    df = adverb_cache['selber']
     print(df)
     adverb_cache.cache()

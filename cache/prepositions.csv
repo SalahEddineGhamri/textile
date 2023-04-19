@@ -1,156 +1,69 @@
-aspects,language,aus,und,Seit,seit,in,mit,von,zu,ob,In,zur,an,wenn,als,dass,gegen,damit,Bis,für,auf,Im,vom,bis,im,Aber,at,Auf,über,bei,zum,am,sondern,Und,nach,oder,Wenn,um,Na,vor,Doch,Zum,aber,Vor
-basic_forms,english,None,None,,,None,None,None,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"be : Verb
-",None,None,None,None,None,None,None,None,,,,
-basic_forms,german,None,None,,,None,None,None,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None,None,,,,
-verbs,english,"to power cycle sth. [coll.] [ELEC.]
-","to criss-cross or: crisscross | criss-crossed, criss-crossed / crisscrossed, crisscrossed |
-to be common practice
-to outtalk so. | outtalked, outtalked |
-",,,"to have sth. down pat
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn
+basic_forms,english,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,
+verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
 to have sth. down cold [coll.] chiefly (Amer.)
-",None,None,None,,"to have sth. down pat
-to have sth. off pat
-to know sth. inside out
-to have sth. down cold [coll.] chiefly (Amer.)
-",,"to drive so./an animal (on)
-to skin so./an animal
-to skin so./an animal
-to pen so./an animal ⇔ up
-to pen so./an animal ⇔ up
-to pen so./an animal ⇔ in
-",None,"to act as if
+",,,"to act as if
 to act as if
 to go through the motions
 to play-act | play-acted, play-acted |
 to pretend to be sth.
-","so. notices that ... infinitive: notice
-",None,"to expect (that ...) | expected, expected |
-to reckon | reckoned, reckoned |
-to lump it
-to vaunt that ...
-to busy oneself doing sth.
-to settle for doing sth.
-to be content to do sth.
-to figure on doing sth.
-to resign oneself to doing sth.
-to be busy doing sth.
-to amuse oneself by doing sth.
-to join the dots
-",None,None,None,None,None,None,None,None,None,None,None,None,None,"to be aux. | was, been |
-to be sth. | was, been |
-to be | was, been |
-to be + expression of place | was, been | - be situated or located
-to be out and about
-to be after so./sth.
-to be beyond so.
-to be beyond so.
-to be beyond so.
-to be around
-to be around
-to be around
-to be around
-to be into so./sth.
-","to assort sth. | assorted, assorted |
-to vote separately
-","to criss-cross or: crisscross | criss-crossed, criss-crossed / crisscrossed, crisscrossed |
+",,"to criss-cross or: crisscross | criss-crossed, criss-crossed / crisscrossed, crisscrossed |
 to be common practice
 to outtalk so. | outtalked, outtalked |
-",None,None,None,"to bend to ... ° [ENGIN.]
-",None,None,"to not do sth. after all
-",,,
-verbs,german,"etw.acc. aus- und wieder einschalten | schaltete aus, ausgeschaltet |
-","kreuz und quer verlaufen
-gang und gäbe sein
-jmdn. in Grund und Boden reden
-",,,"etw.acc. in- und auswendig können
+",,,,,"to criss-cross or: crisscross | criss-crossed, criss-crossed / crisscrossed, crisscrossed |
+to be common practice
+to outtalk so. | outtalked, outtalked |
+","to look like so./sth.
+to feel like so./sth.
+to go ahead as scheduled
+to fit snugly
+to fit snugly
+to be rooted to the spot
+to stand rooted to the ground
+to fit like a glove
+to proceed as normal
+to talk nineteen to the dozen
+to be on tenterhooks
+to stilt | stilted, stilted |
+to be on tenterhooks
+to guard sth. jealously
+","so. notices that ... infinitive: notice
+",,,,,,
+verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
 etw.acc. in- und auswendig können
-",None,None,None,,"etw.acc. in- und auswendig können
-etw.acc. in- und auswendig können
-etw.acc. in- und auswendig kennen
-etw.acc. in- und auswendig können
-",,"jmdn. (or: ein Tier) antreiben | trieb an, angetrieben |
-jmdn. (or: ein Tier) häuten | häutete, gehäutet |
-jmdm. (or: einem Tier) die Haut abziehen
-jmdn. (or: ein Tier) einpferchen | pferchte ein, eingepfercht |
-jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
-jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
-",None,"sichacc. aufführen, als ob
+",,,"sichacc. aufführen, als ob
 sichacc. anstellen, als ob
 so tun, als ob
 so tun, als ob
 so tun, als ob man etw.nom. sei
-","jmdm. fällt auf, dass ... infinitive: auffallen
-",None,"damit rechnen (, dass ...)
-damit rechnen
-sichacc. damit abfinden
-sichacc. damit brüsten, dass ...
-sichacc. damit beschäftigen, etw.acc. zu tun
-sichacc. damit zufriedengeben, etw.acc. zu tun
-sichacc. damit zufriedengeben, etw.acc. zu tun
-damit rechnen, etw.acc. zu tun
-sichacc. damit abfinden, etw.acc. zu tun
-damit beschäftigt sein, etw.acc. zu tun
-sichacc. damit belustigen, etw.acc. zu tun
-Punkte verbinden, damit ein Bild entsteht
-",None,None,None,None,None,None,None,None,None,None,None,None,None,"sein | war, gewesen |
-etw.nom. sein | war, gewesen |
-betragen | betrug, betragen |
-sichacc. + expression of place befinden | befand, befunden | - an einem Ort
-unterwegs sein
-hinter jmdm./etw. her sein
-jmds. Fähigkeiten übersteigen
-jmdm. ein Rätsel sein
-jmdm. zu hoch sein | war, gewesen |
-da sein
-in der Nähe sein
-dabei sein - anwesend sein
-hier sein
-sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
-","etw.acc. sondern | sonderte, gesondert |
-gesondert abstimmen
-","kreuz und quer verlaufen
+",,"kreuz und quer verlaufen
 gang und gäbe sein
 jmdn. in Grund und Boden reden
-",None,None,None,"um ... ° biegen [Mechanical Engineering]
-",None,None,"etwas doch nicht tun
-",,,
-nouns,english,"off
-cross (between) [BIOL.]
-oak-log
-off kilter
-bio-dimethyl ether [abbr.: BioDME] [TECH.]
-bio dimethyl ether [CHEM.]
-loss resulting from ...
-residue-derived fuel [abbr.: RDF] [ENV.]
-waste-derived fuel [abbr.: WDF] [ENV.]
-chemical vaporAE deposition [abbr.: CVD] [ENV.]chemical vapourBE deposition [abbr.: CVD] [ENV.]
-chemical vaporAE deposition [abbr.: CVD] [ENV.]chemical vapourBE deposition [abbr.: CVD] [ENV.]
-off state
-idle position
-off-position
-","ampersand [COMM.]
-aphthous fever [MED.]
-foot-and-mouth disease [MED.]
-ampersand
-conjunction [TECH.]
-AND-function [TECH.]
-AND element [COMP.][ELEC.]
-AND gate [COMP.][ELEC.]
-AND element [COMP.][ELEC.]
-AND gate [COMP.][ELEC.]
-AND element [COMP.][ELEC.]
-AND gate [COMP.][ELEC.]
-logical AND circuit [COMP.]
-AND dependency [COMP.][ELEC.]
-","year-to-date [abbr.: YTD]
-long-time resident
-","year-to-date [abbr.: YTD]
-long-time resident
-","the ins pl. (Amer.) [POL.]
+",,,,,"kreuz und quer verlaufen
+gang und gäbe sein
+jmdn. in Grund und Boden reden
+","wie jmd./etw. aussehen
+sichacc. wie jmd./etw. fühlen
+wie geplant stattfinden
+wie angegossen passen - Kleider
+wie angegossen sitzen - Kleider
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angegossen passen
+wie gewohnt verfahren
+wie ein Wasserfall reden
+wie auf glühenden Kohlen sitzen
+wie auf Stelzen gehen
+wie auf heißen Kohlen sitzen
+etw.acc. wie seinen Augapfel hüten
+","jmdm. fällt auf, dass ... infinitive: auffallen
+",,,,,,
+nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
 share (in sth.)
@@ -164,20 +77,20 @@ in tatters
 in tatters
 in connection
 on the side - position of a body
-","to make so. happy (with sth.)
-in one fell swoop
-stayer
-to give so. the pleasure of sth.
-accord (with)
-similarity (to)
-exposure (to)
-compliance (with)
-exposure (to sth.)
-border with Hungary/Germany/Austria
-the matter with sth.
-preoccupation with sth.
-limited liability company [COMM.]
-limited company (Brit.) [COMM.]
+","overseas
+intracranial locatedness [TECH.]
+picture-in-picture function [TECH.]
+sound on vision [TELECOM.]
+prepopulated field
+cookout (Amer.)
+foreign borrowing
+checksAE payable abroad [FINAN.]chequesBE payable abroad [FINAN.]
+actual authority
+pre-election
+sheltered installation
+travelingAE abroadtravellingBE abroad
+master's level classes
+devil-in-the-bush [BOT.]
 ","view (from)
 end (of sth.)
 sum (of)
@@ -192,220 +105,9 @@ exclusion (from)
 absence (of)
 dearth (of)
 lack (of)
-","congratulations pl. (on sth.)
-congratulations pl. (on sth.)
-alternative (to sth.)
-invitation (to)
-approach (to sth.)
-to call for sth.
-counterpart (of)
-commentary - pl.: commentaries (on sth.)
-bias (towardAE sth.)bias (towardsBE sth.)
-inclination (for (or: to, towardAE)) - preferenceinclination (for (or: to, towardsBE)) - preference
-disposedness
-inclination (for (or: to, towardAE)) - preferenceinclination (for (or: to, towardsBE)) - preference
-throwback (to sth.) - reversion
-entry (to sth.) - point of entry, door, gate ...
-","OB vehicle [TECH.]
-as-if basis [INSUR.]
-purely hypothetical approach [INSUR.]
-frenemies
-","the ins pl. (Amer.) [POL.]
-belief (in so./sth.)
-faith (in sth.)
-share (in sth.)
-faith (in so./sth.)
-faith (in so./sth.)
-single-handedly
-in tray (or: in-tray)
-in tray (or: in-tray)
-in tray (or: in-tray)
-in tatters
-in tatters
-in connection
-on the side - position of a body
-","mineral depletion
-","share (in sth.)
-faith (in sth.)
-belief (in so./sth.)
-lack (of)
-absence (of)
-despair (of sth.)
-reminder (of)
-point-of-sale [abbr.: POS] [COMM.]
-dearth (of)
-attribution (to so.)
-want (of sth.)
-reminiscence (of)
-participation
-excess (of)
-","the ifs and buts
 ","as-if basis [INSUR.]
 purely hypothetical approach [INSUR.]
 frenemies
-",None,"opposition (to)
-resistance (to)
-Law Against Unfair Competition [LAW]
-cash on delivery [abbr.: COD]
-upstream [TECH.]
-susceptibility (to sth.)
-violation (of sth.)
-remedy (for)
-dig (at so.) - mocking remark
-aversion (to)
-objection (to sth.)
-case (against so.)
-distaste (for)
-antipathy (to)
-","the risk involved
-","bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
-to-date [FINAN.]
-in over your head
-BIS equity ratio [FINAN.]
-remaining cost (or: costs) to completion [FINAN.]
-time to creep rupture
-term of maturity
-term of payment
-time to chopping [ELEC.]
-service stop [TECH.]
-time to crest - of a switching impulse [ELEC.]
-fatigue life [TECH.]
-total life to failure [TECH.]
-rupture life [TECH.]
-","pro
-example (of)
-indication (of)
-instance (of)
-replacement (for sth.)
-ability (for)
-basis (for)
-sense (of sth.)
-insult (to so.)
-sense (of sth.)
-World Intellectual Property Organization [abbr.: WIPO]
-self-catering
-pros and cons pl.
-health and safety officer
-","view (of sth.)
-tax - pl.: taxes (on sth.) [FINAN.]
-application (to)
-prospect (of sth.)
-influence (on)
-right (to)
-access (to) also [COMP.]
-reference (to)
-right (to)
-faith (in so./sth.)
-rise and fall
-swayings
-on-wall [TECH.]
-allusion (to sth.)
-","overseas
-intracranial locatedness [TECH.]
-picture-in-picture function [TECH.]
-sound on vision [TELECOM.]
-prepopulated field
-cookout (Amer.)
-foreign borrowing
-checksAE payable abroad [FINAN.]chequesBE payable abroad [FINAN.]
-actual authority
-pre-election
-sheltered installation
-travelingAE abroadtravellingBE abroad
-master's level classes
-devil-in-the-bush [BOT.]
-","sight-reading or: sightreading, sight reading
-sight-reading or: sightreading, sight reading
-sight-singing [MUS.]
-","bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
-to-date [FINAN.]
-in over your head
-BIS equity ratio [FINAN.]
-remaining cost (or: costs) to completion [FINAN.]
-time to creep rupture
-term of maturity
-term of payment
-time to chopping [ELEC.]
-service stop [TECH.]
-time to crest - of a switching impulse [ELEC.]
-fatigue life [TECH.]
-total life to failure [TECH.]
-rupture life [TECH.]
-","overseas
-intracranial locatedness [TECH.]
-picture-in-picture function [TECH.]
-sound on vision [TELECOM.]
-prepopulated field
-cookout (Amer.)
-foreign borrowing
-checksAE payable abroad [FINAN.]chequesBE payable abroad [FINAN.]
-actual authority
-pre-election
-sheltered installation
-travelingAE abroadtravellingBE abroad
-master's level classes
-devil-in-the-bush [BOT.]
-","but
-the ifs and buts
-right but not the obligation
-necessary but not sufficient condition
-hours paid but not worked [COMM.]
-","anger (at sth.)
-anger (at sth.)
-anger (at sth.)
-at sign [COMP.]
-at sign [COMP.]
-at symbol [COMP.]
-at symbol [COMP.]
-AT motor [TECH.]
-at-home or: at home dated
-dig (at so.) - mocking remark
-revulsion (at)
-excellence at
-Research Center in Spatial Economics at the University of Fribourg [abbr.: CRESUF]
-International Convention for the safety of life at sea [abbr.: SOLAS]
-","view (of sth.)
-tax - pl.: taxes (on sth.) [FINAN.]
-application (to)
-prospect (of sth.)
-influence (on)
-right (to)
-access (to) also [COMP.]
-reference (to)
-right (to)
-faith (in so./sth.)
-rise and fall
-swayings
-on-wall [TECH.]
-allusion (to sth.)
-","information (as to) no plural
-joy (about (or: over) sth.)
-information (about) - short form: info
-information (about) no plural
-survey (of)
-anger (at sth.)
-anger (at sth.)
-anger (at sth.)
-over night [abbr.: o/n]
-to think sth. of so./sth.
-over head [TECH.]
-debate (about (or: on) sth.)
-discussion (about (or: on) sth.)
-concern - worry (over sth.)
-","audience (with) - hearing
-approach (to sth.)
-final index in case of reprogramming [COMP.][TECH.]
-blank-when-zero clause [COMP.]
-auction price
-candlelight dinner
-candlelit dinner
-money-back guarantee
-air bearing
-man-machine chart
-advertisement rating
-making felt
-crush resistance
-salary pay point
 ","being-toward-death [PHILOS.]
 time to creep rupture
 time to chopping [ELEC.]
@@ -420,21 +122,7 @@ close cribbing [TECH.]
 close timbering [TECH.]
 close set timber [TECH.]
 close joint timbering [TECH.]
-","at the money forward [FINAN.]
-amplitude modulated signal generator [METR.]
-double-sideband amplitude modulation system [abbr.: DSB-AM] [TELECOM.]
-Frankfurt am Main [GEOG.]
-pro-am tournament
-to be committed to doing sth.
-to be a dunce at sth. - e.g. at a certain subject
-to be a dunce at sth. - e.g. at a certain subject
-to be in the family way
-to be infatuated with so./sth.
-to be paralysedAE / paralyzedAE with shock [coll.]to be paralysedBE with shock [coll.]
-to be always on the go
-to be buoyed by sth. [fig.]
-material to be conveyed
-",None,"ampersand [COMM.]
+","ampersand [COMM.]
 aphthous fever [MED.]
 foot-and-mouth disease [MED.]
 ampersand
@@ -448,20 +136,6 @@ AND element [COMP.][ELEC.]
 AND gate [COMP.][ELEC.]
 logical AND circuit [COMP.]
 AND dependency [COMP.][ELEC.]
-","desire (for)
-desire (for)
-approval (according to) [TECH.]
-after provision for risk
-after a chill [MED.]
-craving (for)
-yearning (for sth.)
-pursuit (of sth.)
-craving (for sth.)
-anxiety (for)
-desire (for)
-longing (for)
-inclusion (in)
-annuity pursuant (to ...)
 ","Oder [GEOG.]
 amphibious bistort [BOT.]
 water knotweed [BOT.]
@@ -476,26 +150,114 @@ OR element [COMP.][ELEC.]
 OR gate [COMP.][ELEC.]
 OR element [COMP.][ELEC.]
 disjunction [COMP.]
+","audience (with) - hearing
+approach (to sth.)
+final index in case of reprogramming [COMP.][TECH.]
+blank-when-zero clause [COMP.]
+auction price
+candlelight dinner
+candlelit dinner
+money-back guarantee
+air bearing
+man-machine chart
+advertisement rating
+making felt
+crush resistance
+salary pay point
+","pressurizationAEpressurisationBE / pressurizationBE
+below-zero indicator
+Early Devonian [GEOL.]
+dithionic acid [CHEM.]
+hyposulfuricAE acid [CHEM.]hyposulphuricBE acid [CHEM.]
+on-load operation [TECH.]
+Lower Devonian [GEOL.]
+Early Cambrian [GEOL.]
+Georgian - North America [GEOL.]
+Lower Cambrian [GEOL.]
+subdeposit [TECH.]
+Early Silurian - also called ""Ordovician"" in older literature [GEOL.]
+Lower Silurian [GEOL.]
+bottom
+","congratulations pl. (on sth.)
+congratulations pl. (on sth.)
+alternative (to sth.)
+invitation (to)
+approach (to sth.)
+to call for sth.
+counterpart (of)
+commentary - pl.: commentaries (on sth.)
+bias (towardAE sth.)bias (towardsBE sth.)
+inclination (for (or: to, towardAE)) - preferenceinclination (for (or: to, towardsBE)) - preference
+disposedness
+inclination (for (or: to, towardAE)) - preferenceinclination (for (or: to, towardsBE)) - preference
+throwback (to sth.) - reversion
+entry (to sth.) - point of entry, door, gate ...
+","ampersand [COMM.]
+aphthous fever [MED.]
+foot-and-mouth disease [MED.]
+ampersand
+conjunction [TECH.]
+AND-function [TECH.]
+AND element [COMP.][ELEC.]
+AND gate [COMP.][ELEC.]
+AND element [COMP.][ELEC.]
+AND gate [COMP.][ELEC.]
+AND element [COMP.][ELEC.]
+AND gate [COMP.][ELEC.]
+logical AND circuit [COMP.]
+AND dependency [COMP.][ELEC.]
+","how
+how to
+whys and wherefores (of sth.) pl.
+arm's length deal
+nerves of steel
+antsiness
+a storybook ending
+arm's length deal
+diligentia quam in suis rebus Latin [LAW]
+",,"Oder [GEOG.]
+amphibious bistort [BOT.]
+water knotweed [BOT.]
+water smartweed [BOT.]
+wired-OR
+exclusive OR [MATH.][COMP.]
+XOR [MATH.]
+antivalence [COMP.]
+oder-question [LING.]
+OR gate [COMP.][ELEC.]
+OR element [COMP.][ELEC.]
+OR gate [COMP.][ELEC.]
+OR element [COMP.][ELEC.]
+disjunction [COMP.]
+","information (as to) no plural
+joy (about (or: over) sth.)
+information (about) - short form: info
+information (about) no plural
+survey (of)
+anger (at sth.)
+anger (at sth.)
+anger (at sth.)
+over night [abbr.: o/n]
+to think sth. of so./sth.
+over head [TECH.]
+debate (about (or: on) sth.)
+discussion (about (or: on) sth.)
+concern - worry (over sth.)
+","pro
+example (of)
+indication (of)
+instance (of)
+replacement (for sth.)
+ability (for)
+basis (for)
+sense (of sth.)
+insult (to so.)
+sense (of sth.)
+World Intellectual Property Organization [abbr.: WIPO]
+self-catering
+pros and cons pl.
+health and safety officer
 ","the ifs and buts
-","anxiety (for) [PSYCH.]
-rotated barcode
-bid for sth.
-bid for sth.
-squabbling (over (or: about) sth.)
-bickering (over (or: about) sth.) [coll.]
-disagreement (about (or: on, over) sth.)
-wrangling (over (or: about) sth.) (Brit.) [coll.]
-argy-bargy (over (or: about sth.)) (Brit.) [coll.]
-scrap (for sth.) [coll.] - fight
-no-see-um [ZOOL.]
-performance upon counter-performance [LAW]
-to adjust for inflation [FINAN.]
-request for confirmation
-","Na-form [CHEM.]
-Na-form [CHEM.]
-Na-X powder [CHEM.]
-soda granite [GEOL.]
-soda series [CHEM.]
 ","protection (against (or: from) sth.)
 fear (of sth.)
 fear (of sth.)
@@ -510,73 +272,8 @@ respect (for sth.)
 revulsion (at)
 on-site operation
 on-site installation
-",,"being-toward-death [PHILOS.]
-time to creep rupture
-time to chopping [ELEC.]
-service stop [TECH.]
-time to crest - of a switching impulse [ELEC.]
-fatigue life [TECH.]
-total life to failure [TECH.]
-rupture life [TECH.]
-time to failure [TECH.]
-boxing
-close cribbing [TECH.]
-close timbering [TECH.]
-close set timber [TECH.]
-close joint timbering [TECH.]
-","but
-the ifs and buts
-right but not the obligation
-necessary but not sufficient condition
-hours paid but not worked [COMM.]
-","protection (against (or: from) sth.)
-fear (of sth.)
-fear (of sth.)
-respect (for sth.)
-respect (for sth.)
-security (against)
-before meals [MED.] [PHARM.]
-first responder
-reverence (for so./sth.)
-veneration (for so./sth.) - reverence
-respect (for sth.)
-revulsion (at)
-on-site operation
-on-site installation
-"
-nouns,german,"das Aus pl.: die Aus
-die Mischung (aus) pl.: die Mischungen
-aus Eichenstämmen
-aus dem Gleichgewicht
-aus Biomasse dargestellter Dimethylether [abbr.: DME]
-aus Biomasse dargestellter Dimethylether [abbr.: DME]
-der Verlust aus ... pl.: die Verluste
-Brennstoff aus Müll [abbr.: BRAM]
-Brennstoff aus Müll [abbr.: BRAM]
-chemische Abscheidung aus der Dampfphase [abbr.: CVD]
-chemische Abscheidung aus der Gasphase [abbr.: CVD]
-der Aus-Zustand pl.: die Aus-Zustände
-die Aus-Stellung pl.: die Aus-Stellungen
-die Aus-Stellung pl.: die Aus-Stellungen
-","kaufmännisches Und
-die Maul- und Klauenseuche [abbr.: MKS] Lat.: Febris aphthosa [Veterinary Medicine]
-die Maul- und Klauenseuche [abbr.: MKS] Lat.: Aphthae epizooticae [Veterinary Medicine]
-das Und-Zeichen pl.: die Und-Zeichen
-die UND-Funktion pl.: die UND-Funktionen
-die UND-Funktion pl.: die UND-Funktionen
-das UND-Gatter pl.: die UND-Gatter
-das UND-Gatter pl.: die UND-Gatter
-das UND-Glied
-das UND-Glied
-die UND-Schaltung
-die UND-Schaltung
-die UND-Schaltung
-die UND-Abhängigkeit
-","seit Jahresbeginn
-seit längerem (or: Längerem) Ansässiger
-","seit Jahresbeginn
-seit längerem (or: Längerem) Ansässiger
-","die Regierungspartei pl.: die Regierungsparteien
+",
+nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
 der Anteil (an etw.dat.) pl.: die Anteile
@@ -590,20 +287,20 @@ am Ende
 zunichte
 im Zusammenhang
 in Seitenlage
-","jmdn. (mit etw.dat.) beglücken
-mit einem Schlag
-jmd. mit Ausdauer
-jmdn. mit etw.dat. beglücken
-die Übereinstimmung (mit) pl.: die Übereinstimmungen
-die Ähnlichkeit (mit) pl.: die Ähnlichkeiten
-der Kontakt (mit) +dat. pl.: die Kontakte
-das Einverständnis (mit) pl.: die Einverständnisse
-der Umgang (mit etw.dat.) no plural
-Grenze zu (or: mit) Ungarn/Deutschland/Österreich
-das Problem mit etw.dat. pl.: die Probleme
-die Beschäftigung mit etw.dat. no plural
-Gesellschaft mit beschränkter Haftung [abbr.: GmbH]
-Gesellschaft mit beschränkter Haftung [abbr.: GmbH]
+","im Ausland
+die Im-Kopf-Lokalisiertheit pl. [abbr.: IKL] [Acoustics]
+die Bild-im-Bild-Funktion
+das Ton-im-Bild
+im Voraus ausgefülltes Feld
+im Freien zubereitetes Essen
+im Ausland aufgenommenes Geld
+im Ausland zahlbare Wechsel [Banking]
+Vertretungsmacht im Einzelfall
+Auswahl im Voraus
+geschützte Anlage im Freien
+Reisen im Ausland
+Unterricht im Rahmen eines Magisterstudiengangs
+Jungfer im Grünen Lat.: Nigella damascena
 ","der Blick (von) pl.: die Blicke
 das Ende (von etw.dat. (or: einer Sachegen.)) pl.
 die Summe (von) pl.: die Summen
@@ -618,220 +315,9 @@ der Ausschluss (von) pl.: die Ausschlüsse
 das Fehlen (von) no plural
 das Fehlen (von) no plural
 das Fehlen (von) no plural
-","der Glückwunsch (zu etw.dat.) pl.: die Glückwünsche
-die Glückwünsche (zu etw.dat.) pl.
-die Alternative (zu etw.dat.) pl.: die Alternativen
-die Einladung (zu) pl.: die Einladungen
-die Einstellung (zu etw.dat.) pl.: die Einstellungen
-zu etw.dat. auffordern
-das Gegenstück (zu) pl.: die Gegenstücke
-der Kommentar (zu etw.dat.) pl.: die Kommentare
-der Hang (zu einer Sache) pl.: die Hänge
-der Hang (zu etw.dat.) no plural
-der Hang (zu etw.dat.) pl.: die Hänge
-die Neigung (für etw.acc. (or: zu etw.dat.)) pl.: die Neigungen
-die Rückkehr (zu etw.dat.) no plural
-der Zugang (zu etw.dat.) pl.: die Zugänge
-","der Ü-Wagen
-die Als-ob-Basis
-die Als-ob-Betrachtung
-als ob sie sich mögen
-","die Regierungspartei pl.: die Regierungsparteien
-der Glaube rarely: Glauben (an jmdn./etw.) no plural
-der Glaube rarely: Glauben (an etw.acc.) no plural
-der Anteil (an etw.dat.) pl.: die Anteile
-das Vertrauen (auf jmdn./etw.) no plural
-das Vertrauen (in jmdn./etw.) no plural
-in Eigenregie
-der Posteingang pl.: die Posteingänge
-Ablagekorb für eingehende Post
-der Eingangskorb pl.: die Eingangskörbe
-am Ende
-zunichte
-im Zusammenhang
-in Seitenlage
-","Zur-Neige-Gehen von Mineralien
-","der Anteil (an etw.dat.) pl.: die Anteile
-der Glaube rarely: Glauben (an etw.acc.) no plural
-der Glaube rarely: Glauben (an jmdn./etw.) no plural
-der Mangel (an)
-der Mangel (an)
-die Verzweiflung (an etw.dat.) pl.
-die Erinnerung (an) pl.: die Erinnerungen
-an der Verkaufsstelle
-der Mangel (an)
-die Zuschreibung (an jmdn.) pl.: die Zuschreibungen
-der Mangel (an etw.dat.)
-die Erinnerung (an) pl.: die Erinnerungen
-die Teilhabe (an etw.dat.) pl.: die Teilhaben - Partizipation
-das Übermaß (an) pl.: die Übermaße
-","das Wenn und Aber
 ","die Als-ob-Basis
 die Als-ob-Betrachtung
 als ob sie sich mögen
-",None,"der Widerspruch (gegen) pl.: die Widersprüche
-der Widerstand (gegen) pl.: die Widerstände
-Gesetz gegen den unlauteren Wettbewerb [abbr.: UWG]
-gegen Nachnahme
-gegen Bandlaufrichtung
-die Empfindlichkeit (gegen etw.acc.) pl.
-der Verstoß (gegen etw.acc.) pl.: die Verstöße
-das Heilmittel (gegen) pl.: die Heilmittel
-die Spitze (gegen jmdn.) pl.: die Spitzen
-die Aversion (gegen) pl.: die Aversionen
-die Bedenken (gegen etw.acc.) pl.
-die Vorwürfe (gegen jmdn.) pl.
-der Widerwille rarely: Widerwillen (gegen) no plural
-der Widerwille rarely: Widerwillen (gegen) no plural
-","die damit verbundenen Risiken pl.
-","das Bis-Hydroxyäthylsulfon
-das Bis-Datum pl.: die Bis-Daten [Bookkeeping]
-bis über den Kopf
-die BIZ-Eigenkapitalquote pl.: die BIZ-Eigenkapitalquoten
-bis zur Fertigstellung anfallende Kosten pl., no sg.
-Zeit bis zum Zeitstandbruch
-Dauer bis zur Fälligkeit
-Frist bis zur Fälligkeit der Zahlung
-Dauer bis zum Abschneiden
-Betriebsbremsung bis zum Stillstand
-Dauer bis zum Scheitel - einer Schaltstoßspannung
-Ermüdungslebensdauer bis zum Dauerbruch
-Gesamtlebensdauer bis zum Bruch
-Lebensdauer bis zum Bruch
-","das Für
-das Beispiel (für) pl.: die Beispiele [abbr.: Bsp.]
-das Anzeichen (für) pl.: die Anzeichen
-das Beispiel (für) pl.: die Beispiele
-der Ersatz (für etw.acc.) no plural
-die Fähigkeit (für) pl.
-die Grundlage (für) pl.: die Grundlagen
-der Sinn (für etw.acc.) no plural
-die Beleidigung (für jmdn.) pl.: die Beleidigungen
-das Gefühl (für etw.acc.) no plural
-Weltorganisation für geistiges Eigentum [abbr.: WIPO]
-für Selbstversorger
-das Für und Wider
-Fachkraft für Arbeitssicherheit [abbr.: FASi]
-","die Aussicht (auf etw.acc.) pl.
-die Steuer (auf etw.acc.) pl.: die Steuern
-die Anwendung (auf) pl.: die Anwendungen
-die Aussicht (auf etw.acc.) pl.
-der Einfluss (auf) pl.: die Einflüsse
-das Recht (auf) pl.
-der Zugriff (auf) pl.: die Zugriffe
-der Bezug (auf +acc.) pl.: die Bezüge
-der Anspruch (auf) pl.: die Ansprüche
-das Vertrauen (auf jmdn./etw.) no plural
-Auf und Ab
-das Auf und Ab
-auf Putz
-die Anspielung (auf etw.acc.) pl.: die Anspielungen
-","im Ausland
-die Im-Kopf-Lokalisiertheit pl. [abbr.: IKL] [Acoustics]
-die Bild-im-Bild-Funktion
-das Ton-im-Bild
-im Voraus ausgefülltes Feld
-im Freien zubereitetes Essen
-im Ausland aufgenommenes Geld
-im Ausland zahlbare Wechsel [Banking]
-Vertretungsmacht im Einzelfall
-Auswahl im Voraus
-geschützte Anlage im Freien
-Reisen im Ausland
-Unterricht im Rahmen eines Magisterstudiengangs
-Jungfer im Grünen Lat.: Nigella damascena
-","das Vomblattsingen or: Vom-Blatt-Singen no plural
-das Vomblattspielen or: Vom-Blatt-Spielen no plural
-das Vom-Blatt-Singen no plural
-","das Bis-Hydroxyäthylsulfon
-das Bis-Datum pl.: die Bis-Daten [Bookkeeping]
-bis über den Kopf
-die BIZ-Eigenkapitalquote pl.: die BIZ-Eigenkapitalquoten
-bis zur Fertigstellung anfallende Kosten pl., no sg.
-Zeit bis zum Zeitstandbruch
-Dauer bis zur Fälligkeit
-Frist bis zur Fälligkeit der Zahlung
-Dauer bis zum Abschneiden
-Betriebsbremsung bis zum Stillstand
-Dauer bis zum Scheitel - einer Schaltstoßspannung
-Ermüdungslebensdauer bis zum Dauerbruch
-Gesamtlebensdauer bis zum Bruch
-Lebensdauer bis zum Bruch
-","im Ausland
-die Im-Kopf-Lokalisiertheit pl. [abbr.: IKL] [Acoustics]
-die Bild-im-Bild-Funktion
-das Ton-im-Bild
-im Voraus ausgefülltes Feld
-im Freien zubereitetes Essen
-im Ausland aufgenommenes Geld
-im Ausland zahlbare Wechsel [Banking]
-Vertretungsmacht im Einzelfall
-Auswahl im Voraus
-geschützte Anlage im Freien
-Reisen im Ausland
-Unterricht im Rahmen eines Magisterstudiengangs
-Jungfer im Grünen Lat.: Nigella damascena
-","das Aber pl.: die Aber/die Abere
-das Wenn und Aber
-Recht aber keine Verpflichtung
-notwendige, aber nicht hinreichende Bedingung
-bezahlte, aber nicht geleistete Stunden
-","die Wut (über etw.acc.) no plural
-der Zorn (über etw.acc.) no plural
-der Ärger (über etw.acc.) no plural
-der Klammeraffe pl.: die Klammeraffen [coll.] symbol: @
-das At-Zeichen pl.: die At-Zeichen [coll.] symbol: @
-das At-Zeichen pl.: die At-Zeichen [coll.] symbol: @
-der Klammeraffe pl.: die Klammeraffen [coll.] symbol: @
-der AT-Motor pl.: die AT-Motoren
-der Jour fixe
-die Spitze (gegen jmdn.) pl.: die Spitzen
-der Ekel (vor) no plural
-hervorragende Leistung bei
-Forschungsstelle für Raumwirtschaft der Universität Freiburg [abbr.: FRUF]
-Internationales Übereinkommen zum Schutz menschlichen Lebens auf See
-","die Aussicht (auf etw.acc.) pl.
-die Steuer (auf etw.acc.) pl.: die Steuern
-die Anwendung (auf) pl.: die Anwendungen
-die Aussicht (auf etw.acc.) pl.
-der Einfluss (auf) pl.: die Einflüsse
-das Recht (auf) pl.
-der Zugriff (auf) pl.: die Zugriffe
-der Bezug (auf +acc.) pl.: die Bezüge
-der Anspruch (auf) pl.: die Ansprüche
-das Vertrauen (auf jmdn./etw.) no plural
-Auf und Ab
-das Auf und Ab
-auf Putz
-die Anspielung (auf etw.acc.) pl.: die Anspielungen
-","die Auskunft (über) pl.: die Auskünfte
-die Freude (über etw.acc.) no plural
-die Information (über) pl.: die Informationen [abbr.: Info]
-die Informationen (über) pl.
-der Überblick (über) pl.: die Überblicke
-die Wut (über etw.acc.) no plural
-der Zorn (über etw.acc.) no plural
-der Ärger (über etw.acc.) no plural
-über Nacht
-etw.acc. über jmdn./etw. denken
-über Kopfhöhe
-die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
-die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
-die Besorgnis (über etw.acc.) pl.: die Besorgnisse
-","die Audienz (bei) pl.: die Audienzen
-die Vorgehensweise (bei etw.dat.) pl.: die Vorgehensweisen
-Endstand bei Umkodierung in technical contexts: Umcodierung
-die Leer-bei-null-Klausel
-bei einer Versteigerung erzielter Preis
-Abendessen bei Kerzenlicht
-Abendessen bei Kerzenlicht
-Geldrückgabe bei Nichtgefallen
-Luftpolster bei Plattenspeicher
-Unterweisungskarte bei Maschinenarbeit
-Wirksamkeitskontrolle bei Anzeigen
-Abnahmefilz bei Kartonmaschinen
-Druckfestigkeit bei Hohlkörpern
-Gehaltsstufe bei Eintritt
 ","das Sein-zum-Tode - Heidegger
 Zeit bis zum Zeitstandbruch
 Dauer bis zum Abschneiden
@@ -846,21 +332,7 @@ Zimmerung bis zum Stoß
 Zimmerung bis zum Stoß
 Zimmerung bis zum Stoß
 Zimmerung bis zum Stoß
-","der Am-Geld-Termin
-der AM-Signalgenerator pl.: die AM-Signalgeneratoren
-das Zweiseitenband-AM-System
-Frankfurt am Main
-Turnier der Profis und Amateure
-sichdat. zur Aufgabe machen, etw.acc. zu tun
-eine Niete in etw. sein - z. B. in einem Schulfach
-schlecht in etw. sein - z. B. in einem Schulfach
-schwanger sein
-in jmdn./etw. vernarrt sein
-in Schockstarre sein [coll.]
-umtriebig sein [coll.]
-von etw.dat. beflügelt sein [fig.]
-das Fördergut pl.: die Fördergüter
-",None,"kaufmännisches Und
+","kaufmännisches Und
 die Maul- und Klauenseuche [abbr.: MKS] Lat.: Febris aphthosa [Veterinary Medicine]
 die Maul- und Klauenseuche [abbr.: MKS] Lat.: Aphthae epizooticae [Veterinary Medicine]
 das Und-Zeichen pl.: die Und-Zeichen
@@ -874,20 +346,6 @@ die UND-Schaltung
 die UND-Schaltung
 die UND-Schaltung
 die UND-Abhängigkeit
-","der Wunsch (nach) pl.: die Wünsche
-die Sehnsucht (nach) pl.: die Sehnsüchte
-die Zulassung (nach) pl.: die Zulassungen
-nach Risikovorsorge
-nach einer Erkältung
-die Sehnsucht (nach +dat.) pl.: die Sehnsüchte
-die Sehnsucht (nach etw.dat.) pl.: die Sehnsüchte
-das Streben (nach etw.dat.) no plural
-das Verlangen (nach +dat.) no plural
-das Verlangen (nach) no plural
-das Verlangen (nach) no plural
-das Verlangen (nach) no plural
-die Versetzung (nach) pl.: die Versetzungen
-die Verrentung (nach ...) pl.: die Verrentungen
 ","die Oder no plural - Fluss
 der Wasser-Knöterich Lat.: Persicaria amphibia, oder Polygonum amphibium
 der Wasser-Knöterich Lat.: Persicaria amphibia, oder Polygonum amphibium
@@ -902,26 +360,114 @@ das ODER-Gatter pl.: die ODER-Gatter
 das ODER-Glied pl.: die ODER-Glieder
 das ODER-Glied pl.: die ODER-Glieder
 die ODER-Verknüpfung pl.: die ODER-Verknüpfungen
+","die Audienz (bei) pl.: die Audienzen
+die Vorgehensweise (bei etw.dat.) pl.: die Vorgehensweisen
+Endstand bei Umkodierung in technical contexts: Umcodierung
+die Leer-bei-null-Klausel
+bei einer Versteigerung erzielter Preis
+Abendessen bei Kerzenlicht
+Abendessen bei Kerzenlicht
+Geldrückgabe bei Nichtgefallen
+Luftpolster bei Plattenspeicher
+Unterweisungskarte bei Maschinenarbeit
+Wirksamkeitskontrolle bei Anzeigen
+Abnahmefilz bei Kartonmaschinen
+Druckfestigkeit bei Hohlkörpern
+Gehaltsstufe bei Eintritt
+","die Unter-Druck-Setzung
+das Unter-Null-Kennzeichen - SAP
+das Unterdevon rarely: Unter-Devon no plural
+die Unter-Dischwefelsäure
+die Unter-Dischwefelsäure
+der Unter-Last-Betrieb
+das Unter-Devon
+das Unter-Kambrium
+das Unter-Kambrium
+das Unter-Kambrium
+die Unter-Lagerstätte - unter einer anderen befindliche Lagerstätte
+das Unter-Silur - Unterabteilung der Formation
+das Unter-Silur - Unterabteilung der Formation
+unteres Ende
+","der Glückwunsch (zu etw.dat.) pl.: die Glückwünsche
+die Glückwünsche (zu etw.dat.) pl.
+die Alternative (zu etw.dat.) pl.: die Alternativen
+die Einladung (zu) pl.: die Einladungen
+die Einstellung (zu etw.dat.) pl.: die Einstellungen
+zu etw.dat. auffordern
+das Gegenstück (zu) pl.: die Gegenstücke
+der Kommentar (zu etw.dat.) pl.: die Kommentare
+der Hang (zu einer Sache) pl.: die Hänge
+der Hang (zu etw.dat.) no plural
+der Hang (zu etw.dat.) pl.: die Hänge
+die Neigung (für etw.acc. (or: zu etw.dat.)) pl.: die Neigungen
+die Rückkehr (zu etw.dat.) no plural
+der Zugang (zu etw.dat.) pl.: die Zugänge
+","kaufmännisches Und
+die Maul- und Klauenseuche [abbr.: MKS] Lat.: Febris aphthosa [Veterinary Medicine]
+die Maul- und Klauenseuche [abbr.: MKS] Lat.: Aphthae epizooticae [Veterinary Medicine]
+das Und-Zeichen pl.: die Und-Zeichen
+die UND-Funktion pl.: die UND-Funktionen
+die UND-Funktion pl.: die UND-Funktionen
+das UND-Gatter pl.: die UND-Gatter
+das UND-Gatter pl.: die UND-Gatter
+das UND-Glied
+das UND-Glied
+die UND-Schaltung
+die UND-Schaltung
+die UND-Schaltung
+die UND-Abhängigkeit
+","das Wie
+wie man
+das Wie und Warum (einer Sachegen.)
+Geschäft wie mit Außenstehenden
+Nerven wie Drahtseile
+Betriebsamkeit wie in einem Ameisenhaufen
+ein Ende wie in einem Roman
+Geschäft wie mit unabhängigen Dritten
+Sorgfalt wie in eigenen Angelegenheiten
+",,"die Oder no plural - Fluss
+der Wasser-Knöterich Lat.: Persicaria amphibia, oder Polygonum amphibium
+der Wasser-Knöterich Lat.: Persicaria amphibia, oder Polygonum amphibium
+der Wasser-Knöterich Lat.: Persicaria amphibia, oder Polygonum amphibium
+verdrahtetes ODER
+exklusives ODER
+exklusives ODER
+exklusives Oder
+die oder-Frage [Grammar]
+das ODER-Gatter pl.: die ODER-Gatter
+das ODER-Gatter pl.: die ODER-Gatter
+das ODER-Glied pl.: die ODER-Glieder
+das ODER-Glied pl.: die ODER-Glieder
+die ODER-Verknüpfung pl.: die ODER-Verknüpfungen
+","die Auskunft (über) pl.: die Auskünfte
+die Freude (über etw.acc.) no plural
+die Information (über) pl.: die Informationen [abbr.: Info]
+die Informationen (über) pl.
+der Überblick (über) pl.: die Überblicke
+die Wut (über etw.acc.) no plural
+der Zorn (über etw.acc.) no plural
+der Ärger (über etw.acc.) no plural
+über Nacht
+etw.acc. über jmdn./etw. denken
+über Kopfhöhe
+die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
+die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
+die Besorgnis (über etw.acc.) pl.: die Besorgnisse
+","das Für
+das Beispiel (für) pl.: die Beispiele [abbr.: Bsp.]
+das Anzeichen (für) pl.: die Anzeichen
+das Beispiel (für) pl.: die Beispiele
+der Ersatz (für etw.acc.) no plural
+die Fähigkeit (für) pl.
+die Grundlage (für) pl.: die Grundlagen
+der Sinn (für etw.acc.) no plural
+die Beleidigung (für jmdn.) pl.: die Beleidigungen
+das Gefühl (für etw.acc.) no plural
+Weltorganisation für geistiges Eigentum [abbr.: WIPO]
+für Selbstversorger
+das Für und Wider
+Fachkraft für Arbeitssicherheit [abbr.: FASi]
 ","das Wenn und Aber
-","die Angst (um) pl.: die Ängste
-um 90° gedrehter Barcode
-die Bemühung um etw.acc. pl.: die Bemühungen
-die Bewerbung um etw.acc. pl.: die Bewerbungen
-der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
-der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
-der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
-der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
-der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
-das Gerangel (um etw.acc.) no plural
-die Gnitze Lat.: Ceratopogonidae
-die Zug-um-Zug-Abwicklung
-um die Inflation bereinigen
-Bitte um Bestätigung
-","die Na-Form
-die Natriumform pl.: die Natriumformen
-das Na-X-Pulver
-der Na-Granit
-die Na-Reihe
 ","der Schutz (vor etw.dat.) pl.
 die Angst (vor etw.dat.) pl.: die Ängste
 die Furcht (vor etw.dat.) no plural
@@ -936,339 +482,112 @@ die Hochachtung (vor etw.dat.) no plural
 der Ekel (vor) no plural
 der Vor-Ort-Einsatz
 die Vor-Ort-Installation pl.: die Vor-Ort-Installationen
-",,"das Sein-zum-Tode - Heidegger
-Zeit bis zum Zeitstandbruch
-Dauer bis zum Abschneiden
-Betriebsbremsung bis zum Stillstand
-Dauer bis zum Scheitel - einer Schaltstoßspannung
-Ermüdungslebensdauer bis zum Dauerbruch
-Gesamtlebensdauer bis zum Bruch
-Lebensdauer bis zum Bruch
-Zeitspanne bis zum Ausfall
-Zimmerung bis zum Stoß
-Zimmerung bis zum Stoß
-Zimmerung bis zum Stoß
-Zimmerung bis zum Stoß
-Zimmerung bis zum Stoß
-","das Aber pl.: die Aber/die Abere
-das Wenn und Aber
-Recht aber keine Verpflichtung
-notwendige, aber nicht hinreichende Bedingung
-bezahlte, aber nicht geleistete Stunden
-","der Schutz (vor etw.dat.) pl.
-die Angst (vor etw.dat.) pl.: die Ängste
-die Furcht (vor etw.dat.) no plural
-der Respekt (vor etw.dat.) no plural
-die Achtung (vor etw.dat.) no plural
-der Schutz (vor) no plural
-vor den Mahlzeiten
-Helfer vor Ort [abbr.: HvO]
-die Ehrfurcht (vor jmdm./etw.) no plural
-die Ehrfurcht (vor jmdm./etw.) no plural
-die Hochachtung (vor etw.dat.) no plural
-der Ekel (vor) no plural
-der Vor-Ort-Einsatz
-die Vor-Ort-Installation pl.: die Vor-Ort-Installationen
-"
-noun_details,english,"article: Das
-word: Aus
-genus: NEUT
-plural: die Aus
-meaning: off
-cross (between) [BIOL.]
-","article: kaufmännisches
-word: Und
-genus: 
-plural: Und
-meaning: ampersand [COMM.]
-aphthous fever [MED.]
-","article: seit
-word: Jahresbeginn
-genus: 
-plural: Jahresbeginn
-meaning: year-to-date [abbr.: YTD]
-long-time resident
-","article: seit
-word: Jahresbeginn
-genus: 
-plural: Jahresbeginn
-meaning: year-to-date [abbr.: YTD]
-long-time resident
-","article: die
+",
+noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
 plural: die Regierungsparteien
 meaning: the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
-","article: jmdn.
-word: (mit
+","article: Der
+word: IM
 genus: 
-plural: beglücken
-meaning: to make so. happy (with sth.)
-in one fell swoop
+plural: IMs
+meaning: overseas
+intracranial locatedness [TECH.]
 ","article: der
 word: Blick
 genus: MASC
 plural: Vons
 meaning: view (from)
 end (of sth.)
-","article: der
-word: Glückwunsch
-genus: MASC
-plural: die Glückwünsche
-meaning: congratulations pl. (on sth.)
-congratulations pl. (on sth.)
-","article: Der
-word: Ob
-genus: MASC
-plural: Ü-Wagen
-meaning: OB vehicle [TECH.]
-as-if basis [INSUR.]
-","article: die
-word: Regierungspartei
-genus: FEMI
-plural: die Regierungsparteien
-meaning: the ins pl. (Amer.) [POL.]
-belief (in so./sth.)
-","article: Zur-Neige-Gehen
-word: von
-genus: 
-plural: Mineralien
-meaning: mineral depletion
-
-","article: der
-word: Anteil
-genus: MASC
-plural: die Anteile
-meaning: share (in sth.)
-faith (in sth.)
-","article: Das
-word: Wenn
-genus: NEUT
-plural: Wenn / Wenns
-meaning: the ifs and buts
-
 ","article: Die
 word: Als
 genus: FEMI
 plural: Als-ob-Basis
 meaning: as-if basis [INSUR.]
 purely hypothetical approach [INSUR.]
-",None,"article: Der
-word: Gege
-genus: MASC
-plural: Gegen
-meaning: opposition (to)
-resistance (to)
-","article: die
-word: damit
-genus: FEMI
-plural: 
-meaning: the risk involved
-
-","article: das
-word: Bis-Hydroxyäthylsulfon
-genus: NEUT
-plural: Bis-Hydroxyäthylsulfon
-meaning: bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
-to-date [FINAN.]
-","article: Das
-word: Für
-genus: NEUT
-plural: Für
-meaning: pro
-example (of)
-","article: die
-word: Aussicht
-genus: FEMI
-plural: 
-meaning: view (of sth.)
-tax - pl.: taxes (on sth.) [FINAN.]
-","article: Der
-word: IM
-genus: 
-plural: IMs
-meaning: overseas
-intracranial locatedness [TECH.]
-","article: das
-word: Vomblattsingen
-genus: NEUT
-plural: plural
-meaning: sight-reading or: sightreading, sight reading
-sight-reading or: sightreading, sight reading
-","article: das
-word: Bis-Hydroxyäthylsulfon
-genus: NEUT
-plural: Bis-Hydroxyäthylsulfon
-meaning: bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
-to-date [FINAN.]
-","article: Der
-word: IM
-genus: 
-plural: IMs
-meaning: overseas
-intracranial locatedness [TECH.]
-","article: Das
-word: Aber
-genus: NEUT
-plural: Aber / Abers
-meaning: but
-the ifs and buts
-","article: die
-word: Wut
-genus: FEMI
-plural: plural
-meaning: anger (at sth.)
-anger (at sth.)
-","article: die
-word: Aussicht
-genus: FEMI
-plural: 
-meaning: view (of sth.)
-tax - pl.: taxes (on sth.) [FINAN.]
-","article: die
-word: Auskunft
-genus: FEMI
-plural: die Auskünfte
-meaning: information (as to) no plural
-joy (about (or: over) sth.)
-","article: Der
-word: Bei
-genus: FEMI
-plural: Beie / Beis
-meaning: audience (with) - hearing
-approach (to sth.)
 ","article: das
 word: Sein-zum-Tode
 genus: NEUT
 plural: Heidegger
 meaning: being-toward-death [PHILOS.]
 time to creep rupture
-","article: der
-word: Am-Geld-Termin
-genus: MASC
-plural: Am-Geld-Termin
-meaning: at the money forward [FINAN.]
-amplitude modulated signal generator [METR.]
-",,"article: kaufmännisches
+","article: kaufmännisches
 word: Und
 genus: 
 plural: Und
 meaning: ampersand [COMM.]
 aphthous fever [MED.]
-","article: der
-word: Wunsch
-genus: MASC
-plural: die Wünsche
-meaning: desire (for)
-desire (for)
 ","article: Das
 word: Oder
 genus: FEMI
 plural: Oders
 meaning: Oder [GEOG.]
 amphibious bistort [BOT.]
+","article: Der
+word: Bei
+genus: FEMI
+plural: Beie / Beis
+meaning: audience (with) - hearing
+approach (to sth.)
+","article: Der
+word: Unter
+genus: FEMI
+plural: Unter
+meaning: pressurizationAEpressurisationBE / pressurizationBE
+below-zero indicator
+","article: der
+word: Glückwunsch
+genus: MASC
+plural: die Glückwünsche
+meaning: congratulations pl. (on sth.)
+congratulations pl. (on sth.)
+","article: kaufmännisches
+word: Und
+genus: 
+plural: Und
+meaning: ampersand [COMM.]
+aphthous fever [MED.]
+","article: Das
+word: Wie
+genus: NEUT
+plural: Wie
+meaning: how
+how to
+",,"article: Das
+word: Oder
+genus: FEMI
+plural: Oders
+meaning: Oder [GEOG.]
+amphibious bistort [BOT.]
+","article: die
+word: Auskunft
+genus: FEMI
+plural: die Auskünfte
+meaning: information (as to) no plural
+joy (about (or: over) sth.)
+","article: Das
+word: Für
+genus: NEUT
+plural: Für
+meaning: pro
+example (of)
 ","article: Das
 word: Wenn
 genus: NEUT
 plural: Wenn / Wenns
 meaning: the ifs and buts
 
-","article: die
-word: Angst
-genus: FEMI
-plural: die Ängste
-meaning: anxiety (for) [PSYCH.]
-rotated barcode
-","article: die
-word: Na-Form
-genus: FEMI
-plural: Na-Form
-meaning: Na-form [CHEM.]
-Na-form [CHEM.]
 ","article: der
 word: Schutz
 genus: MASC
 plural: 
 meaning: protection (against (or: from) sth.)
 fear (of sth.)
-",,"article: das
-word: Sein-zum-Tode
-genus: NEUT
-plural: Heidegger
-meaning: being-toward-death [PHILOS.]
-time to creep rupture
-","article: Das
-word: Aber
-genus: NEUT
-plural: Aber / Abers
-meaning: but
-the ifs and buts
-","article: der
-word: Schutz
-genus: MASC
-plural: 
-meaning: protection (against (or: from) sth.)
-fear (of sth.)
-"
-noun_details,german,None,None,,,None,None,None,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,
-adjectives_or_adverbs,english,"off adj. adv. [TECH.]
-out adj. - finished
-over adv. - finished
-all over
-out of bounds
-out of curiosity
-by accident
-accidentally adv.
-inadvertently adv.
-by mistake
-by an oversight
-through an oversight
-Cornish adj.
-ebony adj.
-","and so forth
-and so forth
-and so on
-et cetera (or: etcetera) adv. [abbr.: etc.]
-on the whole
-in the main
-by and large
-generally speaking
-overall adj. adv.
-thoroughly adv.
-to the full
-out-and-out adj.
-quintessentially adv.
-to the core
-","from time immemorial
-since the beginning of time
-since time immemorial
-for a short time
-as of late
-for a long time
-all along
-always adv.
-since time immemorial
-as of late
-for hundreds of years
-from time immemorial
-for ages [coll.]
-for yonks (Brit.) [coll.]
-","from time immemorial
-since the beginning of time
-since time immemorial
-for a short time
-as of late
-for a long time
-all along
-always adv.
-since time immemorial
-as of late
-for hundreds of years
-from time immemorial
-for ages [coll.]
-for yonks (Brit.) [coll.]
-","in adv.
+",
+noun_details,german,,,,,,,,,,,,,,,,,,,
+adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
 rolled into one
@@ -1282,20 +601,20 @@ inner adj. [fig.]
 in time (for)
 in vain
 in vain
-","too adv.
-also adv.
-one of the - + superlative
-by bike/bus/train/tube
-certainly adv.
-together (with) adv.
-married (to so.) adj.
-on purpose
-comparable (to (or: with)) adj.
-interchangeable (with sth.) adj.
-by design
-designedly adv.
-deliberately adv.
-with intent
+","in case of doubt
+abroad - in a foreign country adv.
+generally adv.
+normally adv.
+usually adv.
+outdoors adv.
+essentially adv.
+basically adv.
+commonly adv.
+at large
+in general
+generally speaking
+at the moment
+right now
 ","free (from) adj.
 due to sth.
 anew adv.
@@ -1310,203 +629,39 @@ by hand
 manual adj.
 always adv.
 from time immemorial
-","too adv.
-closed adj.
-shut adj.
-off adv.
-over adv. - finished
-at home
-late adv.
-early adv.
-in time (for)
-back (to) adv.
-home adv.
-excessive adj.
-required (to (or: for)) adj.
-all over
-","as though nothing had happened
-as though nothing had happened
-","in adv.
-in adv.
-hot adj. [coll.]
-rolled into one
-in adj. [AVIAT.]
-inner adj.
-inner adj.
-inner adj.
-inner adj. [fig.]
-inner adj. [fig.]
-inner adj. [fig.]
-in time (for)
-in vain
-in vain
-","for a change
-","on adv.
-arrives + expression of time - on a timetable
-per se adv.
-as such adv.
-by itself
-intrinsically adv.
-in principle
-at such and such a place/day
-rich (in) adj.
-on board
-close (to) adj.
-aboard ship
-on board ship
-ashore adv.
-",None,"insomuch as adv.
-as though nothing had happened
-as though nothing had happened
 ","insomuch as adv.
-","about adv.
-towardAE the end towardsBE the end
-gainful adj.
-on a cash basis
-against cash
-for spot cash
-for money
-about noon
-about midnight
-in return for payment
-towardAE evening towardsBE evening
-against fraud
-for a salary
-in return for payment of rent
-","thereby adv.
-therewith adv. archaic also [form.]
-for this reason
-with it
-","till adv. conj.
-to date
-till this day
-to this day
-so far
-to date
-as yet
-till now
-until now
-up to the present
-till then
-until then
-by then
-by the end of the year
-","foreverAE adv.foreverBE / for everBE adv.
-usually adv.
-what adj.
-required (to (or: for)) adj.
-suitable (for) adj.
-typical (of) adj.
-responsible (for so./sth.) adj.
-satisfactory (to (or: for)) adj.
-favorableAE / favourableBE (to) adj.
-material (to) adj.
-characteristic (of) adj.
-for good
-for keeps
-perennially adv.
-","up adv.
-open adj.
-suddenly adv.
-at once
-on spec
-permanently adv.
-in perpetuity
-in one shot adv.
-all at once
-at a single blow
-all of a sudden
-on request
-on inquiryAE on enquiryBE
-arboreal adj.
-","in case of doubt
-abroad - in a foreign country adv.
-generally adv.
-normally adv.
-usually adv.
-outdoors adv.
-essentially adv.
-basically adv.
-commonly adv.
-at large
-in general
+as though nothing had happened
+as though nothing had happened
+","on the one hand
+brimmed adj.
+down to the present day
+up to date
+by specified date
+ad nauseam
+full to overflowing
+until the date specified
+as far as it will go
+up to the date of maturity
+up to the due date
+by the time stipulated
+from start to finish
+by the end of this century
+","and so forth
+and so forth
+and so on
+et cetera (or: etcetera) adv. [abbr.: etc.]
+on the whole
+in the main
+by and large
 generally speaking
-at the moment
-right now
-",None,"till adv. conj.
-to date
-till this day
-to this day
-so far
-to date
-as yet
-till now
-until now
-up to the present
-till then
-until then
-by then
-by the end of the year
-","in case of doubt
-abroad - in a foreign country adv.
-generally adv.
-normally adv.
-usually adv.
-outdoors adv.
-essentially adv.
-basically adv.
-commonly adv.
-at large
-in general
-generally speaking
-at the moment
-right now
-","however adv.
-though adv.
-bluff adj.
-reconditioned adj. [TECH.]
-","at least
-at least
-at least
-at once
-at once
-at once
-at all
-at home
-at last
-at home
-at first
-at the bottom
-at the top
-at least
-","up adv.
-open adj.
-suddenly adv.
-at once
-on spec
-permanently adv.
-in perpetuity
-in one shot adv.
-all at once
-at a single blow
-all of a sudden
-on request
-on inquiryAE on enquiryBE
-arboreal adj.
-","across adv.
-upwards of
-left over
-atop [poet.] adv.
-unduly adv.
-excessively adv.
-overboard adv.
-criss-cross or: crisscross adj.
-diagonally adv.
-overnight adv.
-above ground
-at the surface
-above average
-above zero
+overall adj. adv.
+thoroughly adv.
+to the full
+out-and-out adj.
+quintessentially adv.
+to the core
+","amirite [coll.] adv. - used at the end of a sentence to invite agreement
+exclusive of VAT and/or taxes
 ","popular (with so.) adj.
 close (to) adj.
 upon acceptance
@@ -1521,35 +676,35 @@ ambient adj.
 at sight
 in the event of a tie
 at sight
-","on the one hand
-brimmed adj.
-down to the present day
-up to date
-by specified date
-ad nauseam
-full to overflowing
-until the date specified
-as far as it will go
-up to the date of maturity
-up to the due date
-by the time stipulated
-from start to finish
-by the end of this century
-","to be
-ibidem Latin [abbr.: ibid.] adv.
-in the place cited [abbr.: l.c.] - from Latin: loco citato
-marginally adv.
-marginal adj.
-to be defined [abbr.: TBD]
-to be determined [abbr.: TBD]
-to be distraught (over sth.) adj.
-to be paid
-to be added
-designed to be sth.
-on the brink
-at the brink of death
-on the brink of death
-",None,"and so forth
+","under adv.
+lower adj.
+nether adj.
+undermost adj.
+lowermost adj.
+deepest adj.
+among other things
+amongst others
+amongst other things
+on oath
+under oath
+upon oath
+below ground level
+under torture
+","too adv.
+closed adj.
+shut adj.
+off adv.
+over adv. - finished
+at home
+late adv.
+early adv.
+in time (for)
+back (to) adv.
+home adv.
+excessive adj.
+required (to (or: for)) adj.
+all over
+","and so forth
 and so forth
 and so on
 et cetera (or: etcetera) adv. [abbr.: etc.]
@@ -1563,37 +718,52 @@ to the full
 out-and-out adj.
 quintessentially adv.
 to the core
-","up adv.
-home adv.
-upstairs adv.
-forward or: forwards adv.
-outside adv.
-down adv.
-downstairs adv.
-inside adv.
-northwest or: north-west adv.
-to the fore
-onward or: onwards adv.
-outwardespAE / outwardsespBE adv.
-outwards adv.
-out adv.
+","as adv. conj.
+how adv. conj.
+like conj. adv.
+such as
+similar (to) adj. also [MATH.]
+like adj.
+as ever
+as usual
+as is the rule
+obsessively adv.
+as follows
+as ever
+picture-perfect adj.
+as before
+","insomuch as adv.
 ","amirite [coll.] adv. - used at the end of a sentence to invite agreement
 exclusive of VAT and/or taxes
-",None,"around adv.
-about adv.
-for their sake
-considerably adv.
-to a considerable degree
-by a nose
-about noon
-fiftyish adj.
-thereabouts adv.
-thereabouts adv.
-around (or: round) the corner [coll.]
-by a short head (Brit.) [SPORT.]
-displaced (by) adj.
-encircling adj.
-",None,"forward or: forwards adv.
+","across adv.
+upwards of
+left over
+atop [poet.] adv.
+unduly adv.
+excessively adv.
+overboard adv.
+criss-cross or: crisscross adj.
+diagonally adv.
+overnight adv.
+above ground
+at the surface
+above average
+above zero
+","foreverAE adv.foreverBE / for everBE adv.
+usually adv.
+what adj.
+required (to (or: for)) adj.
+suitable (for) adj.
+typical (of) adj.
+responsible (for so./sth.) adj.
+satisfactory (to (or: for)) adj.
+favorableAE / favourableBE (to) adj.
+material (to) adj.
+characteristic (of) adj.
+for good
+for keeps
+perennially adv.
+",,"forward or: forwards adv.
 ahead adv.
 especially adv.
 primarily adv.
@@ -1607,99 +777,11 @@ chiefly adv.
 in the first instance
 a short while ago
 a short time ago
-","still adv.
-after all
-after all
-","on the one hand
-brimmed adj.
-down to the present day
-up to date
-by specified date
-ad nauseam
-full to overflowing
-until the date specified
-as far as it will go
-up to the date of maturity
-up to the due date
-by the time stipulated
-from start to finish
-by the end of this century
-","however adv.
-though adv.
-bluff adj.
-reconditioned adj. [TECH.]
-","forward or: forwards adv.
-ahead adv.
-especially adv.
-primarily adv.
-particularly adv.
-mainly adv.
-recently adv.
-local adj.
-most notably
-first of all
-chiefly adv.
-in the first instance
-a short while ago
-a short time ago
+","for though
+more than ever
+less than ever
 "
-adjectives_or_adverbs,german,"aus adv.
-aus adv.
-aus
-aus adv.
-im Aus
-aus Neugier (or: Neugierde)
-aus Versehen
-aus Versehen
-aus Versehen
-aus Versehen
-aus Versehen
-aus Versehen
-aus Cornwall
-aus Ebenholz
-","und so fort [abbr.: usf.]
-und so weiter [abbr.: usw.]
-und so weiter [abbr.: usw.]
-und so weiter [abbr.: usw.]
-im Großen und Ganzen
-im Großen und Ganzen
-im Großen und Ganzen
-im Großen und Ganzen
-im Großen und Ganzen
-durch und durch
-durch und durch
-durch und durch
-durch und durch
-durch und durch
-","seit Menschengedenken
-seit Menschengedenken
-seit Menschengedenken
-seit Kurzem (or: kurzem)
-seit Kurzem (or: kurzem)
-seit langem (or: Langem)
-seit jeher
-seit jeher
-seit jeher
-seit Neuestem (or: neuestem)
-seit Jahrhunderten
-seit Urzeiten
-seit Ewigkeiten
-seit Ewigkeiten
-","seit Menschengedenken
-seit Menschengedenken
-seit Menschengedenken
-seit Kurzem (or: kurzem)
-seit Kurzem (or: kurzem)
-seit langem (or: Langem)
-seit jeher
-seit jeher
-seit jeher
-seit Neuestem (or: neuestem)
-seit Jahrhunderten
-seit Urzeiten
-seit Ewigkeiten
-seit Ewigkeiten
-","hinein
+adjectives_or_adverbs,german,"hinein
 herein
 in [sl.]
 in einem
@@ -1713,20 +795,20 @@ geheim
 rechtzeitig (zu)
 umsonst adv.
 vergeblich
-","mit - ebenfalls, auch
-mit - ebenfalls, auch
-mit - + Superlativ
-mit dem Fahrrad/dem Bus/dem Zug/der U-Bahn
-mit Sicherheit
-zusammen (mit)
-verheiratet (mit jmdm.)
-mit Absicht
-vergleichbar (mit +dat.)
-(mit etw.dat.) austauschbar
-mit Absicht
-mit Absicht
-mit Absicht
-mit Absicht
+","im Zweifelsfall (or: Zweifelsfalle)
+im Ausland
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Freien
+im Grunde
+im Grunde
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Augenblick
+im Augenblick
 ","frei (von)
 aufgrund (or: auf Grund) von etw.dat. - gefolgt von Substantiv ohne Artikel und Attribut
 von neuem (or: Neuem)
@@ -1741,203 +823,39 @@ von Hand
 von Hand
 von jeher
 von jeher - seit unvordenklichen Zeiten
-","zu
-zu
-zu
-zu
-zu Ende
-zu Hause or: zuhause
-zu spät
-zu früh
-rechtzeitig (zu)
-zurück (zu)
-zu Hause or: zuhause
-zu viel
-erforderlich (zu (or: für))
-zu Ende
-","als ob nichts geschehen wäre
-als ob nichts passiert wäre
-","hinein
-herein
-in [sl.]
-in einem
-eingeschaltet
-inner
-Innen...
-inwendig
-innerlich
-verborgen
-geheim
-rechtzeitig (zu)
-umsonst adv.
-vergeblich
-","zur Abwechslung
-","an
-an + expression of time - auf einem Fahrplan
-an sich
-an sich
-an sich
-an sich
-an sich
-an dem und dem Ort/Tag
-reich (an)
-an Bord
-nah or: nahe (an)
-an Bord
-an Bord
-an Land
-",None,"insofern, als dass
+","insofern, als dass
 als ob nichts geschehen wäre
 als ob nichts passiert wäre
-","insofern, als dass
-","gegen
-gegen Ende
-gegen Vergütung
-gegen bar
-gegen bar
-gegen bar
-gegen Entgelt
-gegen Mittag
-gegen Mitternacht
-gegen Zahlung
-gegen Abend
-gegen Betrug
-gegen Gehalt
-gegen Miete
-","damit
-damit
-damit
-damit adv.
-","bis
-bis heute
-bis heute
-bis heute
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis dahin
-bis dahin
-bis dahin
-bis Jahresende
-","für immer
-für gewöhnlich
-was für
-erforderlich (zu (or: für))
-passend (für)
-typisch (für)
-verantwortlich (für jmdn./etw.)
-zufriedenstellend (für)
-günstig (für)
-maßgeblich (für)
-typisch (für) +acc.
-für immer
-für immer
-für immer
-","auf
-auf [coll.]
-auf einmal
-auf einmal
-auf Verdacht
-auf Dauer - für unbegrenzte Zeit
-auf Dauer - für unbegrenzte Zeit
-auf einmal
-auf einmal
-auf einmal
-auf einmal
-auf Anfrage
-auf Anfrage
-auf Bäumen
-","im Zweifelsfall (or: Zweifelsfalle)
-im Ausland
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Freien
-im Grunde
-im Grunde
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Augenblick
-im Augenblick
-",None,"bis
-bis heute
-bis heute
-bis heute
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis jetzt
-bis dahin
-bis dahin
-bis dahin
-bis Jahresende
-","im Zweifelsfall (or: Zweifelsfalle)
-im Ausland
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Freien
-im Grunde
-im Grunde
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Allgemeinen [abbr.: i. Allg.]
-im Augenblick
-im Augenblick
-","aber
-aber
-rau aber herzlich
-gebraucht, aber neuwertig
-","wenigstens adv.
-mindestens adv.
-zumindest adv.
-sofort adv.
-auf einmal
-gleichzeitig
-überhaupt
-zu Hause or: zuhause
-endlich
-daheim (Southern Germany; Austria)
-zuerst
-unten
-oben
-immerhin - wenigstens adv.
-","auf
-auf [coll.]
-auf einmal
-auf einmal
-auf Verdacht
-auf Dauer - für unbegrenzte Zeit
-auf Dauer - für unbegrenzte Zeit
-auf einmal
-auf einmal
-auf einmal
-auf einmal
-auf Anfrage
-auf Anfrage
-auf Bäumen
-","über
-über
-über [coll.]
-über
-über Gebühr
-über Gebühr
-über Bord
-über Kreuz
-über Kreuz
-über Nacht
-übertage or: über Tage
-übertage or: über Tage
-über Durchschnitt
-über null
+","zum einen
+voll bis zum Rand
+bis zum heutigen Tag
+bis zum heutigen Tag
+bis zum angegebenen Datum
+bis zum Überdruss
+voll bis zum Rand (or: Rande)
+bis zum angegebenen Tag
+bis zum Anschlag
+bis zum Fälligkeitstag
+bis zum Fälligkeitstermin
+bis zum festgelegten Termin
+vom Anfang bis zum Ende
+bis zum Ende des Jahrhunderts
+","und so fort [abbr.: usf.]
+und so weiter [abbr.: usw.]
+und so weiter [abbr.: usw.]
+und so weiter [abbr.: usw.]
+im Großen und Ganzen
+im Großen und Ganzen
+im Großen und Ganzen
+im Großen und Ganzen
+im Großen und Ganzen
+durch und durch
+durch und durch
+durch und durch
+durch und durch
+durch und durch
+","oder - nachgestellt, drückt aus, dass Zustimmung erwartet wird
+ausschließlich Mehrwertsteuer und/oder Steuern
 ","beliebt (bei jmdm.)
 dicht (bei)
 bei Annahme
@@ -1952,35 +870,35 @@ bei Raumtemperatur
 bei Sicht
 bei Stimmengleichheit
 bei Vorlage
-","zum einen
-voll bis zum Rand
-bis zum heutigen Tag
-bis zum heutigen Tag
-bis zum angegebenen Datum
-bis zum Überdruss
-voll bis zum Rand (or: Rande)
-bis zum angegebenen Tag
-bis zum Anschlag
-bis zum Fälligkeitstag
-bis zum Fälligkeitstermin
-bis zum festgelegten Termin
-vom Anfang bis zum Ende
-bis zum Ende des Jahrhunderts
-","in spe
-am angegebenen Ort [abbr.: a.a.O.]
-am angegebenen Ort [abbr.: a. a. O.]
-am Rande
-am Rand (or: Rande)
-noch nicht definiert
-noch nicht festgelegt
-(über etw.acc.) außer sichdat. sein
-zahlungsrelevant
-wird noch hinzugefügt
-für etw.acc. vorgesehen
-am Rande des Abgrunds
-am Rande des Todes
-am Rande des Todes
-",None,"und so fort [abbr.: usf.]
+","unter
+unterer | untere | unteres
+unterer | untere | unteres
+unterster | unterste | unterstes
+unterster | unterste | unterstes
+unterster | unterste | unterstes
+unter anderem [abbr.: u. a.]
+unter anderem [abbr.: u. a.]
+unter anderem [abbr.: u. a.]
+unter Eid
+unter Eid
+unter Eid
+unter Flur
+unter Folterqualen
+","zu
+zu
+zu
+zu
+zu Ende
+zu Hause or: zuhause
+zu spät
+zu früh
+rechtzeitig (zu)
+zurück (zu)
+zu Hause or: zuhause
+zu viel
+erforderlich (zu (or: für))
+zu Ende
+","und so fort [abbr.: usf.]
 und so weiter [abbr.: usw.]
 und so weiter [abbr.: usw.]
 und so weiter [abbr.: usw.]
@@ -1994,37 +912,52 @@ durch und durch
 durch und durch
 durch und durch
 durch und durch
-","nach oben
-nachhause or: nach Hause
-nach oben
-nach vorn
-nach draußen
-nach unten
-nach unten
-nach innen
-nach Nordwesten
-nach vorn
-nach vorn
-nach außen
-nach außen
-nach draußen
+","wie
+wie
+wie
+wie zum Beispiel
+ähnlich (wie)
+ähnlich wie
+wie gewöhnlich
+wie gewöhnlich
+wie gewöhnlich
+wie besessen
+wie folgt
+wie gehabt
+wie gemalt
+wie bisher
+","insofern, als dass
 ","oder - nachgestellt, drückt aus, dass Zustimmung erwartet wird
 ausschließlich Mehrwertsteuer und/oder Steuern
-",None,"um
-um
-um derentwillen (or: deretwillen)
-um einiges
-um einiges
-um eine Nasenlänge
-um die Mittagszeit
-um die fünfzig
-um den Dreh [coll.]
-um die Drehe [coll.]
-um die Ecke
-um eine Nasenlänge
-versetzt (um)
-rings um
-",None,"vor
+","über
+über
+über [coll.]
+über
+über Gebühr
+über Gebühr
+über Bord
+über Kreuz
+über Kreuz
+über Nacht
+übertage or: über Tage
+übertage or: über Tage
+über Durchschnitt
+über null
+","für immer
+für gewöhnlich
+was für
+erforderlich (zu (or: für))
+passend (für)
+typisch (für)
+verantwortlich (für jmdn./etw.)
+zufriedenstellend (für)
+günstig (für)
+maßgeblich (für)
+typisch (für) +acc.
+für immer
+für immer
+für immer
+",,"vor
 vor
 vor allem
 vor allem
@@ -2038,97 +971,11 @@ vor allem
 vor allem
 vor Kurzem (or: kurzem)
 vor Kurzem (or: kurzem)
-","doch
-doch
-also doch
-","zum einen
-voll bis zum Rand
-bis zum heutigen Tag
-bis zum heutigen Tag
-bis zum angegebenen Datum
-bis zum Überdruss
-voll bis zum Rand (or: Rande)
-bis zum angegebenen Tag
-bis zum Anschlag
-bis zum Fälligkeitstag
-bis zum Fälligkeitstermin
-bis zum festgelegten Termin
-vom Anfang bis zum Ende
-bis zum Ende des Jahrhunderts
-","aber
-aber
-rau aber herzlich
-gebraucht, aber neuwertig
-","vor
-vor
-vor allem
-vor allem
-vor allem
-vor allem
-vor Kurzem (or: kurzem)
-vor Ort
-vor allem
-vor allem
-vor allem
-vor allem
-vor Kurzem (or: kurzem)
-vor Kurzem (or: kurzem)
+","denn obwohl
+mehr denn je
+weniger denn je
 "
-phrases_or_collocations,english,"with might and main
-ad libitum
-Well, that was that!
-out of whack (Amer.) [coll.]
-as a gesture of goodwill [COMM.]
-out of the money [FINAN.]
-a cross between ...
-Spit it out! [fig.] [coll.]
-to run out of road [fig.]
-out of the blue
-out of a clear blue sky (Amer.)
-out of the sky
-straight from the horse's mouth
-from the bottom of one's heart
-","So?
-and stuff [coll.]
-every Tom, Dick and Harry
-rag, tag and bobtail
-with all the trimmings
-with all the bells and whistles
-with the works
-with the whole works
-with bag and baggage
-a pack of lies
-limpingly adv.
-justifiably so
-rightly so
-Every Tom, Dick, and Harry
-","in (or: within) living memory
-as long as anyone can remember
-since when
-for quite some time
-in donkey's years [coll.] (Brit.)
-for some time
-since the dawn of time
-for yonks
-in yonks
-for donkey's years [coll.](Brit.)
-for donkey's years [coll.](Brit.)
-in donkey's years [coll.] (Brit.)
-not in a dog's age [coll.]
-","in (or: within) living memory
-as long as anyone can remember
-since when
-for quite some time
-in donkey's years [coll.] (Brit.)
-for some time
-since the dawn of time
-for yonks
-in yonks
-for donkey's years [coll.](Brit.)
-for donkey's years [coll.](Brit.)
-in donkey's years [coll.] (Brit.)
-not in a dog's age [coll.]
-","In. [SPORT.]
+phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
 All right!
 Come in!
@@ -2142,20 +989,20 @@ in yonks
 in abeyance
 in abeyance
 in drifts
-","Yours sincerely
-Sincerely yours (Amer.)
-Yours faithfully
-Kind regards, ...
-Yours truly
-with gusto
-hell for leather
-by your leave
-if you will excuse me
-with respect
-not to put too fine a point on it
-by a considerable margin
-with gusto
-faster than sound
+","in a blink
+No kidding!
+by delegation to [abbr.: p.p., per pro.]
+per procurationem [abbr.: p.p., per pro.]
+through the agency of [abbr.: p.p., per pro.]
+for the purposes of
+in the heat of the moment [LAW]
+In wine there is truth.
+in the face of death
+in the far north
+with the passage of time
+with the passage of time
+not out of the question
+to the extent permitted by law [LAW]
 ","of consequence - importance
 from a private person (i.e. not an agent)
 As if!
@@ -2170,6 +1017,63 @@ piles of sth.
 a multiple of
 hundreds of ...
 a multiple of
+","It is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God.
+","To your health!
+Sod it! (Brit.) [sl.]
+Slainte! (Scot.; Ire.) - drinking toast; ""slainte"" = ""health"" in Gaelic
+Hang it all! [coll.]
+To waist, to shoulder, overhead. [SPORT.]
+ad nauseam
+ad nauseam
+to beat the band chiefly (Amer.)
+unless proven otherwise
+down to the wire
+until the age of 12/18 ...
+from here to hell's half acre and back
+until the cows come home [coll.]
+It's enough to drive you up the wall. [coll.] [fig.]
+","So?
+and stuff [coll.]
+every Tom, Dick and Harry
+rag, tag and bobtail
+with all the trimmings
+with all the bells and whistles
+with the works
+with the whole works
+with bag and baggage
+a pack of lies
+limpingly adv.
+justifiably so
+rightly so
+Every Tom, Dick, and Harry
+",,"Heel!
+Egad! or: Egads! - euphemistic alter. of ""Oh God!"" archaic also [hum.]
+from time to time
+what with
+in the event of nonpaymentAE [FINAN.]in the event of non-paymentBE [FINAN.]
+begad - euphemism for ""by God"" archaic
+Welcome (to ...)
+You must be off your head!
+You must be off your rocker! (Brit.)
+come rain or shine
+rain or shine
+All cats are grayAE by night.All cats are greyBE by night.
+remove for assembly
+not good enough by half
+","including but not limited to
+below the belt
+under the new regime
+on (or: under) the pretext that ...
+at measurement conditions [METR.]
+subject to [abbr.: s.t.] [MATH.]
+by hook or by crook
+off the record
+between you and me
+on a level playing field
+having regard to
+other things being equal
+other things constant
+against high-pressure deadlines
 ","to be filed
 and deservedly so
 and justifiably so
@@ -2184,93 +1088,50 @@ Help yourself!
 Welcome (to ...)
 right parenthesis
 in the ratio of ... to ...
-","You bet!
+","So?
+and stuff [coll.]
+every Tom, Dick and Harry
+rag, tag and bobtail
+with all the trimmings
+with all the bells and whistles
+with the works
+with the whole works
+with bag and baggage
+a pack of lies
+limpingly adv.
+justifiably so
+rightly so
+Every Tom, Dick, and Harry
+","Eh?
 Rather! (Brit.) [coll.]
-Don't I know it!
-it's a moot point whether ... (Brit.)
-it's a moot question whether ... (Brit.)
-it was a toss-up whether ...
-it is still written in the stars whether ...
-it is still written in the stars whether ...
-time will tell if ...
-time will tell if ...
-Put that in your pipe and smoke it.
-","In. [SPORT.]
-O.k.!
-All right!
-Come in!
-It's raining cats and dogs.
-all right
-in my humble opinion [abbr.: imho]
-in my humble opinion [abbr.: imho]
-in writing
-work in progress
-in yonks
-in abeyance
-in abeyance
-in drifts
-","Please note:
-Heck!
-","to Messrs ... (Brit.)
-(By) The Beautiful Blue Danube (or: ""Blue Danube"") [MUS.]
-Splice the main brace (or: mainbrace).
-pantograph up
-oodles of sth.
-a welter of ... - jumble, muddle
-oodles of sth.
-Lo and behold! chiefly [hum.]
-Don't let me stop you!
-in the first flight
-An idle brain is the devil's workshop.
-there is sth. fishy about sth.
-To whom it may concern - opening statement in certain types of communication with public bodies etc.
-An eye for an eye, a tooth for a tooth.
-","no ifs, ands, or buts (Amer.)
-no ifs and buts (Brit.)
-like a dying duck in a thunderstorm
-","It is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God.
+Sorry?
+Pardon?
+as ... as
+How are you?
+How are you?
+How are you?
+Come again?
+I beg your pardon?
+How else?
+like one possessed
+business as usual
+How are you doing?
 ","lest we forget
 It is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God.
-","around midnight
-in the teeth of the wind
-against the current
-not a patch on sth. [fig.] [coll.]
-the judgmentAE is not appealablethe judgementBE is not appealable
-hand to hand
-it was a case of dog eat dog
-It goes against the grain for me.
-cash sales only [FINAN.]
-cash only
-ready money down
-ready money only
-","..., period. [coll.]
-and that's that. [coll.]
-Bring it on!
-Get rid of it!
-Put it away!
-There's an end of it!
-Out with it! [coll.]
-Hence with it! archaic
-lest we forget
-Nothing doing!
-for your information - indignantly
-That cuts no ice with me.
-That cuts no ice with me.
-It's nothing to write home about.
-","See you soon!
-Bye for now!
-See you later!
-So long!
-Cheers!
-See you tomorrow!
-See you later!
-See you, then!
-See you on Monday!
-by ...
-Hooroo! or: Hooray [coll.] (Aust.)
-term expires [FINAN.]
-ad nauseam
-ad nauseam
+",,"Shoulder arms! [MIL.]
+at a rough estimate
+by rule of thumb
+over hill and dale
+over rough and smooth
+The firm is on the brink of disaster.
+beyond one's own nose [fig.]
+across the pond chiefly [fig.] [hum.]
+head over heels
+in a mad rush
+pell-mell or: pellmell adv.
+head over heels in love
+Over my dead body!
+The proof of the pudding is in the eating.
 ","for peanuts
 for a song
 for the birds
@@ -2285,221 +1146,9 @@ a peg on which to hang sth.
 just in case
 to my mind
 just for me
-","Bye! or: By!
-Goodbye! - on the phone
-Bye! or: By! - on the phone
-goodbye or: good-bye
-Bye-bye! [coll.]
-never to be seen again
-See you!
-Ta ra! (Brit.)
-Ta ta! (Brit.)
-Good night!
-See you again!
-So long!
-just ticking over (Brit.)
-so long
-","in a blink
-No kidding!
-by delegation to [abbr.: p.p., per pro.]
-per procurationem [abbr.: p.p., per pro.]
-through the agency of [abbr.: p.p., per pro.]
-for the purposes of
-in the heat of the moment [LAW]
-In wine there is truth.
-in the face of death
-in the far north
-with the passage of time
-with the passage of time
-not out of the question
-to the extent permitted by law [LAW]
-","tarred with the same brush
-of the same kidney (Brit.)
-","See you soon!
-Bye for now!
-See you later!
-So long!
-Cheers!
-See you tomorrow!
-See you later!
-See you, then!
-See you on Monday!
-by ...
-Hooroo! or: Hooray [coll.] (Aust.)
-term expires [FINAN.]
-ad nauseam
-ad nauseam
-","in a blink
-No kidding!
-by delegation to [abbr.: p.p., per pro.]
-per procurationem [abbr.: p.p., per pro.]
-through the agency of [abbr.: p.p., per pro.]
-for the purposes of
-in the heat of the moment [LAW]
-In wine there is truth.
-in the face of death
-in the far north
-with the passage of time
-with the passage of time
-not out of the question
-to the extent permitted by law [LAW]
-","Yes, indeed!
-Why certainly!
-Now, now!
-Tut-tut!
-why, yes
-why, no
-Look sharp! [coll.] - be quick
-Look smart! [coll.] - be quick
-pdq [abbr.: PDQ, P.D.Q] - short for pretty damn quick adv.
-Why, yes!
-come, come
-for what it's worth
-Sharp's the word!
-That's the last straw!
-","Not at all.
-Not at all.
-at dinnertime
-at dinnertime
-at what?
-at the outset
-at a stretch
-at the coalface
-at the coalface
-at a price
-At ease! [MIL.]
-At ease! [MIL.]
-at pressure (Amer.) [SPORT.]
-at the money [FINAN.]
-","Bye! or: By!
-Goodbye! - on the phone
-Bye! or: By! - on the phone
-goodbye or: good-bye
-Bye-bye! [coll.]
-never to be seen again
-See you!
-Ta ra! (Brit.)
-Ta ta! (Brit.)
-Good night!
-See you again!
-So long!
-just ticking over (Brit.)
-so long
-","Shoulder arms! [MIL.]
-at a rough estimate
-by rule of thumb
-over hill and dale
-over rough and smooth
-The firm is on the brink of disaster.
-beyond one's own nose [fig.]
-across the pond chiefly [fig.] [hum.]
-head over heels
-in a mad rush
-pell-mell or: pellmell adv.
-head over heels in love
-Over my dead body!
-The proof of the pudding is in the eating.
-","Heel!
-Egad! or: Egads! - euphemistic alter. of ""Oh God!"" archaic also [hum.]
-from time to time
-what with
-in the event of nonpaymentAE [FINAN.]in the event of non-paymentBE [FINAN.]
-begad - euphemism for ""by God"" archaic
-Welcome (to ...)
-You must be off your head!
-You must be off your rocker! (Brit.)
-come rain or shine
-rain or shine
-All cats are grayAE by night.All cats are greyBE by night.
-remove for assembly
-not good enough by half
-","To your health!
-Sod it! (Brit.) [sl.]
-Slainte! (Scot.; Ire.) - drinking toast; ""slainte"" = ""health"" in Gaelic
-Hang it all! [coll.]
-To waist, to shoulder, overhead. [SPORT.]
-ad nauseam
-ad nauseam
-to beat the band chiefly (Amer.)
-unless proven otherwise
-down to the wire
-until the age of 12/18 ...
-from here to hell's half acre and back
-until the cows come home [coll.]
-It's enough to drive you up the wall. [coll.] [fig.]
-","to be out and about again - after a period of illnes
-to be in - in fashion
-to be out - out of fashion
-to be out and about - going to many different places
-to be down and out
-to be up and about again - after a period of illnes
-to be down on so./sth. [coll.] (Brit.)
-to be down on so./sth. [coll.] (Brit.)
-to be down on so./sth. [coll.] (Brit.)
-to be on the up and up (Brit.) [coll.]
-to be on the up and up (Brit.) [coll.]
-to be on the up and up (Brit.) [coll.]
-Nor am I.
-on the sidelines of negotiations
-",None,"So?
-and stuff [coll.]
-every Tom, Dick and Harry
-rag, tag and bobtail
-with all the trimmings
-with all the bells and whistles
-with the works
-with the whole works
-with bag and baggage
-a pack of lies
-limpingly adv.
-justifiably so
-rightly so
-Every Tom, Dick, and Harry
-","with might and main
-ad libitum
-to one's heart's content
-ad libitum
-as prompted
-as the need arises
-anno Domini [abbr.: AD]
-according to the principle
-after extra time [abbr.: a.e.t., AET] [SPORT.]
-to so.'s mind
-titled according to ...
-legend has it that ...
-The sky's the limit.
-according to Cocker
-",None,"no ifs, ands, or buts (Amer.)
+","no ifs, ands, or buts (Amer.)
 no ifs and buts (Brit.)
 like a dying duck in a thunderstorm
-","For heaven's sake!
-to be on the safe side
-to make sure
-RSVP - from French: répondez s'il vous plaît
-by a hair
-by a hairbreadth
-by the skin of one's teeth
-by a whisker
-by a hair's breadth
-by a hair's breadth
-very nearly
-by a fraction of an inch
-by a hair
-within an ace
-","well
-why - exclamation
-So what?
-So?
-Who cares?
-well
-There!
-Sure!
-Oh well!
-I told you so! - indignantly
-Very well then.
-Fair enough.
-Well then!
-Fair enough.
 ","Play up! [coll.] [SPORT.]
 but most importantly
 before Christ [abbr.: B.C.]
@@ -2514,118 +1163,16 @@ a day/a week shy of sth. - an event [coll.] chiefly (Amer.)
 shake well before using
 shake well before use
 The law is no respecter of persons.
-","Yes, of course!
-Do come!
-Sure!
-Don't bother!
-Bring it on!
-Bring it on!
-Roll on the holidays! (Brit.)
-Don't keep asking me.
-Why, yes!
-Do come in!
-Spare his blushes!
-Come off it! - used to tell so. to stop doing or saying sth.
-that's just the point
-Do you mind? - ironic
-","To your health!
-Sod it! (Brit.) [sl.]
-Slainte! (Scot.; Ire.) - drinking toast; ""slainte"" = ""health"" in Gaelic
-Hang it all! [coll.]
-To waist, to shoulder, overhead. [SPORT.]
-ad nauseam
-ad nauseam
-to beat the band chiefly (Amer.)
-unless proven otherwise
-down to the wire
-until the age of 12/18 ...
-from here to hell's half acre and back
-until the cows come home [coll.]
-It's enough to drive you up the wall. [coll.] [fig.]
-","Yes, indeed!
-Why certainly!
-Now, now!
-Tut-tut!
-why, yes
-why, no
-Look sharp! [coll.] - be quick
-Look smart! [coll.] - be quick
-pdq [abbr.: PDQ, P.D.Q] - short for pretty damn quick adv.
-Why, yes!
+","let alone ...
+Whereabouts? [coll.]
+What next?
 come, come
-for what it's worth
-Sharp's the word!
-That's the last straw!
-","Play up! [coll.] [SPORT.]
-but most importantly
-before Christ [abbr.: B.C.]
-before the Common Era [abbr.: BCE]
-at the coalface
-before the Common Era [abbr.: B.C.E., BCE]
-before setting off on a journey
-on the doorstep
-before exceptional items [COMM.]
-Lead on!
-a day/a week shy of sth. - an event [coll.] chiefly (Amer.)
-shake well before using
-shake well before use
-The law is no respecter of persons.
+Whoever else?
+What a sight you are!
+for all I know
+What are the odds! [coll.]
 "
-phrases_or_collocations,german,"aus (or: nach) Leibeskräften
-aus dem Stegreif
-Aus der Traum!
-aus dem Gleichgewicht
-aus Kulanz
-aus dem Geld
-ein Mischung aus ...
-Spuck's aus! [fig.] [coll.]
-vor dem Aus stehen [fig.]
-aus heiterem Himmel
-aus heiterem Himmel
-aus heiterem Himmel
-aus erster Hand
-aus tiefstem Herzen
-","Und?
-und so [coll.]
-Hinz und Kunz
-Hinz und Kunz
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-Lug und Trug
-mit Müh und Not
-mit Fug und Recht
-mit Fug und Recht
-Krethi und Plethi
-","seit Menschengedenken
-seit Menschengedenken
-seit wann
-seit Längerem
-seit einer Ewigkeit
-seit längerer Zeit
-seit Anbeginn der Zeit
-seit ewig und drei Tagen
-seit ewig und drei Tagen
-seit einer halben Ewigkeit
-seit ewig und drei Tagen
-seit ewig und drei Tagen
-seit einer Ewigkeit nicht
-","seit Menschengedenken
-seit Menschengedenken
-seit wann
-seit Längerem
-seit einer Ewigkeit
-seit längerer Zeit
-seit Anbeginn der Zeit
-seit ewig und drei Tagen
-seit ewig und drei Tagen
-seit einer halben Ewigkeit
-seit ewig und drei Tagen
-seit ewig und drei Tagen
-seit einer Ewigkeit nicht
-","Steigt ein. - Ruderkommando
+phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
 In Ordnung!
 Herein!
@@ -2639,20 +1186,20 @@ seit ewig und drei Tagen
 eingestellt
 zeitweilig außer Kraft gesetzt
 in einzelnen Gruppen
-","Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
-Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
-Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
-Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
-Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
-mit Gusto
-mit Karacho
-mit Verlaub
-mit Verlaub
-mit Verlaub
-mit Verlaub
-mit Abstand
-mit Enthusiasmus
-mit Überschallgeschwindigkeit
+","im Nu
+Im Ernst!
+im Auftrag [abbr.: i.A.]
+im Auftrag [abbr.: i.A.]
+im Auftrag [abbr.: i.A.]
+im Rahmen
+im Affekt
+Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
+im Angesicht des Todes
+im hohen Norden
+im Lauf der Zeit
+im Verlauf der Zeit
+im Rahmen der Möglichkeiten
+im Rahmen des rechtlich Möglichen und Zulässigen
 ","von Bedeutung
 von privat - in einer Immobilienanzeige
 Von wegen!
@@ -2667,6 +1214,63 @@ Berge von etw.dat.
 ein Vielfaches von
 Hunderte or: hunderte (von) ...
 ein Mehrfaches von
+","Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in den Himmel kommt.
+","Zum Wohl!
+Zum Teufel!
+Zum Wohl!
+Zum Henker damit!
+Zum Bauch, auf die Schulter, über Kopf - Ruderkommando
+bis zum Erbrechen
+bis zum Gehtnichtmehr
+bis zum Gehtnichtmehr
+bis zum Beweis des Gegenteils
+bis zum letzten Augenblick
+bis zum vollendeten 12./18. ... Lebensjahr
+bis zum Mond und zurück
+bis zum Gehtnichtmehr
+Es ist zum Mäusemelken. [coll.] [fig.]
+","Und?
+und so [coll.]
+Hinz und Kunz
+Hinz und Kunz
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+Lug und Trug
+mit Müh und Not
+mit Fug und Recht
+mit Fug und Recht
+Krethi und Plethi
+",,"Bei Fuß! - Hundebefehl
+Bei Gott!
+bei Veranlassung
+bei all den
+bei Nichtzahlung
+bei Gott
+Willkommen (in +dat., zu +dat., auf +dat., bei +dat. ...)
+Bei dir piepts (or: piept's) wohl!
+Bei dir piepts (or: piept's) wohl!
+bei jedem Wetter
+bei jedem Wetter
+Bei Nacht sind alle Katzen grau.
+bei Montage entfernen
+bei weitem (or: Weitem) nicht gut genug
+","unter anderem [abbr.: u.a.]
+unter der Gürtellinie
+unter der Neuregelung
+unter dem Vorwand, dass ...
+unter Messbedingungen
+unter der Nebenbedingung
+unter allen Umständen
+unter uns gesagt
+unter uns gesagt
+unter gleichen Voraussetzungen
+unter Hinweis auf
+unter sonst gleichen Bedingungen
+unter sonst gleichen Bedingungen
+unter hohem Termindruck
 ","zu den Akten [abbr.: z. d. A.]
 und das zu Recht
 und das zu Recht
@@ -2681,93 +1285,50 @@ Greif zu!
 Willkommen (in +dat., zu +dat., auf +dat., bei +dat. ...)
 Klammer zu
 im Verhältnis ... zu ...
-","Und ob!
-Und ob!
-Und ob ich es weiß!
-es ist noch fraglich, ob ...
-es ist noch fraglich, ob ...
-es war völlig offen, ob ...
-es steht noch in den Sternen geschrieben, ob ...
-es steht noch in den Sternen, ob ...
-es wird sich herausstellen, ob ...
-die Zukunft wird zeigen, ob ...
-So ist es, ob's dir passt oder nicht!
-","Steigt ein. - Ruderkommando
-In Ordnung!
-In Ordnung!
-Herein!
-Es regnet in Strömen.
-in Ordnung
-meiner bescheidenen Meinung nach
-meiner unbedeutenden Meinung nach
-schwarz auf weiß
-in Arbeit
-seit ewig und drei Tagen
-eingestellt
-zeitweilig außer Kraft gesetzt
-in einzelnen Gruppen
-","Zur Beachtung:
-Zur Hölle!
-","an die Herren ...
-An der schönen blauen Donau or: ""Donauwalzer"" - Walzer von Johann Strauss
-Besanschot an!
-Bügel an
-Unmengen von (or: an) etw.dat.
-ein Wirrwarr an ...
-eine Unmenge von (or: an) etw.dat.
-Sieh an! chiefly [hum.]
-An mir soll es nicht liegen!
-an vorderster Front
-Müßiggang ist aller Laster Anfang.
-an einer Sache ist etwas faul
-An die zuständige Abteilung/Behörde/Stelle...
-Auge um Auge, Zahn um Zahn.
-","ohne Wenn und Aber
-ohne Wenn und Aber
-wie die Gans, wenn's donnert
-","Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in den Himmel kommt.
+","Und?
+und so [coll.]
+Hinz und Kunz
+Hinz und Kunz
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+mit allem Drum und Dran
+Lug und Trug
+mit Müh und Not
+mit Fug und Recht
+mit Fug und Recht
+Krethi und Plethi
+","Wie?
+Und wie!
+Wie bitte?
+Wie bitte?
+so ... wie
+Wie geht es dir?
+Wie geht es Ihnen?
+Wie geht es euch?
+Wie bitte?
+Wie bitte?
+Wie sonst?
+wie besessen
+wie gehabt
+Wie geht's?
 ","auf dass wir niemals vergessen mögen
 Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in den Himmel kommt.
-","gegen Mitternacht
-gegen den Wind
-gegen den Strom
-nichts gegen etw.acc.
-gegen das Urteil kann keine Berufung eingelegt werden
-Mann gegen Mann
-es war ein Kampf jeder gegen jeden
-Das geht mir gegen den Strich.
-nur gegen bar
-nur gegen bar
-nur gegen bar
-nur gegen bar
-","..., und damit Punktum!
-..., und damit Punktum!
-Her damit!
-Weg damit!
-Weg damit!
-Schluss damit!
-Heraus damit! [coll.]
-Hinweg damit! dated
-damit wir nicht vergessen
-Damit ist's Essig!
-damit Sie es wissen
-Damit kann man bei mir nicht landen.
-Damit können Sie bei mir nicht landen.
-Damit lockt man keinen Hund hinter dem Ofen hervor.
-","Bis bald!
-Bis bald!
-Bis dann!
-Bis dann!
-Bis dann!
-Bis morgen!
-Bis später!
-Bis später!
-Bis Montag!
-bis spätestens ...
-Bis dann!
-bestellt bis
-bis zum Erbrechen
-bis zum Gehtnichtmehr
+",,"Das Gewehr über!
+über den Daumen gepeilt
+über den Daumen gepeilt
+über Stock und Stein
+über Stock und Stein
+Über der Firma schwebt der Pleitegeier.
+über den eigenen Tellerrand [fig.]
+über den großen Teich [fig.] [hum.]
+Hals über Kopf
+Hals über Kopf
+Hals über Kopf
+bis über beide Ohren verliebt
+Nur über meine Leiche!
+Probieren geht über Studieren.
 ","für ein Butterbrot
 für ein Butterbrot
 für die Katz
@@ -2782,221 +1343,9 @@ ein Aufhänger für etw.acc. [fig.]
 für alle Fälle
 für mein Gefühl
 für mich allein
-","Auf Wiedersehen!
-Auf Wiederhören! - am Telefon
-Auf Wiederhören! - am Telefon
-auf Wiedersehen
-Auf Wiedersehen!
-auf Nimmerwiedersehen
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-auf Sparflamme
-auf Wiedersehen
-","im Nu
-Im Ernst!
-im Auftrag [abbr.: i.A.]
-im Auftrag [abbr.: i.A.]
-im Auftrag [abbr.: i.A.]
-im Rahmen
-im Affekt
-Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
-im Angesicht des Todes
-im hohen Norden
-im Lauf der Zeit
-im Verlauf der Zeit
-im Rahmen der Möglichkeiten
-im Rahmen des rechtlich Möglichen und Zulässigen
-","vom gleichen Schlag
-vom gleichen Schlag
-","Bis bald!
-Bis bald!
-Bis dann!
-Bis dann!
-Bis dann!
-Bis morgen!
-Bis später!
-Bis später!
-Bis Montag!
-bis spätestens ...
-Bis dann!
-bestellt bis
-bis zum Erbrechen
-bis zum Gehtnichtmehr
-","im Nu
-Im Ernst!
-im Auftrag [abbr.: i.A.]
-im Auftrag [abbr.: i.A.]
-im Auftrag [abbr.: i.A.]
-im Rahmen
-im Affekt
-Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
-im Angesicht des Todes
-im hohen Norden
-im Lauf der Zeit
-im Verlauf der Zeit
-im Rahmen der Möglichkeiten
-im Rahmen des rechtlich Möglichen und Zulässigen
-","Aber ja!
-Aber selbstverständlich!
-Aber, aber!
-Aber, aber!
-aber ja
-aber nein
-Aber zackig! [coll.] - Beeil dich
-Aber zackig! [coll.] - Beeil dich
-aber dalli [coll.]
-Aber klar doch!
-aber was denn
-aber das nur nebenbei
-Jetzt aber dalli!
-Jetzt reicht es mir aber!
-","Keine Ursache.
-Bitte!
-zur Essenszeit
-zur Tischzeit
-wobei?
-vorweg
-wenn es sein muss
-auf der Arbeitsebene
-vor Ort
-wenn man das nötige Kleingeld hat
-Rührt euch!
-Stehen Sie bequem!
-mit Druck [Rowing]
-am Geld
-","Auf Wiedersehen!
-Auf Wiederhören! - am Telefon
-Auf Wiederhören! - am Telefon
-auf Wiedersehen
-Auf Wiedersehen!
-auf Nimmerwiedersehen
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-Auf Wiedersehen!
-auf Sparflamme
-auf Wiedersehen
-","Das Gewehr über!
-über den Daumen gepeilt
-über den Daumen gepeilt
-über Stock und Stein
-über Stock und Stein
-Über der Firma schwebt der Pleitegeier.
-über den eigenen Tellerrand [fig.]
-über den großen Teich [fig.] [hum.]
-Hals über Kopf
-Hals über Kopf
-Hals über Kopf
-bis über beide Ohren verliebt
-Nur über meine Leiche!
-Probieren geht über Studieren.
-","Bei Fuß! - Hundebefehl
-Bei Gott!
-bei Veranlassung
-bei all den
-bei Nichtzahlung
-bei Gott
-Willkommen (in +dat., zu +dat., auf +dat., bei +dat. ...)
-Bei dir piepts (or: piept's) wohl!
-Bei dir piepts (or: piept's) wohl!
-bei jedem Wetter
-bei jedem Wetter
-Bei Nacht sind alle Katzen grau.
-bei Montage entfernen
-bei weitem (or: Weitem) nicht gut genug
-","Zum Wohl!
-Zum Teufel!
-Zum Wohl!
-Zum Henker damit!
-Zum Bauch, auf die Schulter, über Kopf - Ruderkommando
-bis zum Erbrechen
-bis zum Gehtnichtmehr
-bis zum Gehtnichtmehr
-bis zum Beweis des Gegenteils
-bis zum letzten Augenblick
-bis zum vollendeten 12./18. ... Lebensjahr
-bis zum Mond und zurück
-bis zum Gehtnichtmehr
-Es ist zum Mäusemelken. [coll.] [fig.]
-","wieder auf den Beinen sein - wieder gesund sein
-in sein - in Mode
-out sein - außer Mode
-viel auf den Beinen sein - unterwegs sein
-ganz unten sein
-wieder auf den Beinen sein
-etwas gegen jmdn./etw. haben
-gegen jmdn./etw. einen Groll hegen
-jmdm./etw. gegenüber feindselig eingestellt sein
-auf dem Wege (or: Weg) der Besserung sein
-auf dem aufsteigenden Ast sein
-sichacc. verbessern | verbesserte, verbessert |
-Ich auch nicht.
-am Rande der Verhandlungen
-",None,"Und?
-und so [coll.]
-Hinz und Kunz
-Hinz und Kunz
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-mit allem Drum und Dran
-Lug und Trug
-mit Müh und Not
-mit Fug und Recht
-mit Fug und Recht
-Krethi und Plethi
-","aus (or: nach) Leibeskräften
-nach Belieben
-nach Herzenslust
-nach Herzenslust
-nach Aufforderung
-nach Bedarf
-nach Christus [abbr.: n. Chr.]
-nach dem Motto
-nach Verlängerung
-jmds. Meinung nach
-beschriftet nach ...
-der Legende nach ...
-Nach oben sind keine Grenzen gesetzt.
-nach Adam Riese
-",None,"ohne Wenn und Aber
+","ohne Wenn und Aber
 ohne Wenn und Aber
 wie die Gans, wenn's donnert
-","Um Gottes willen!
-um sicherzugehen
-um sicherzugehen
-um Antwort wird gebeten [abbr.: u. A. w. g.]
-um Haaresbreite
-um Haaresbreite
-um Haaresbreite
-um Haaresbreite
-um Haaresbreite
-um ein Haar - beinahe, fast
-um ein Haar - beinahe, fast
-um ein Haar - beinahe, fast
-um ein Haar - beinahe, fast
-um ein Haar - beinahe, fast
-","na
-na
-Na und?
-Na und?
-Na und?
-na ja
-Na also!
-Na klar!
-Na ja!
-Na bitte!
-Na gut!
-Na gut.
-Na dann!
-Na schön!
 ","Vor!
 vor allem
 vor Christus [abbr.: v. Chr.]
@@ -3011,118 +1360,16 @@ einen Tag/eine Woche vor etw.dat. - einem Ereignis
 vor Gebrauch gut schütteln
 vor Gebrauch gut schütteln
 Vor dem Gesetz sind alle gleich.
-","Ja, doch!
-Komm doch!
-Klar doch!
-Lass doch!
-Mach doch!
-Versuch's doch!
-Wenn doch nur schon Ferien wären!
-Frag doch nicht andauernd.
-Aber klar doch!
-Kommen Sie doch herein!
-Bringen Sie ihn doch nicht in Verlegenheit!
-Jetzt hör doch mal auf!
-darum geht's doch gerade
-Ich muss doch sehr bitten!
-","Zum Wohl!
-Zum Teufel!
-Zum Wohl!
-Zum Henker damit!
-Zum Bauch, auf die Schulter, über Kopf - Ruderkommando
-bis zum Erbrechen
-bis zum Gehtnichtmehr
-bis zum Gehtnichtmehr
-bis zum Beweis des Gegenteils
-bis zum letzten Augenblick
-bis zum vollendeten 12./18. ... Lebensjahr
-bis zum Mond und zurück
-bis zum Gehtnichtmehr
-Es ist zum Mäusemelken. [coll.] [fig.]
-","Aber ja!
-Aber selbstverständlich!
-Aber, aber!
-Aber, aber!
-aber ja
-aber nein
-Aber zackig! [coll.] - Beeil dich
-Aber zackig! [coll.] - Beeil dich
-aber dalli [coll.]
-Aber klar doch!
+","geschweige denn ...
+Wo denn?
+Was denn noch?
 aber was denn
-aber das nur nebenbei
-Jetzt aber dalli!
-Jetzt reicht es mir aber!
-","Vor!
-vor allem
-vor Christus [abbr.: v. Chr.]
-vor Christus [abbr.: v. Chr.]
-vor Ort
-vor unserer Zeitrechnung [abbr.: v. u. Z.]
-vor Fahrtbeginn
-vor der Haustür
-vor Sonderposten
-Geh vor!
-einen Tag/eine Woche vor etw.dat. - einem Ereignis
-vor Gebrauch gut schütteln
-vor Gebrauch gut schütteln
-Vor dem Gesetz sind alle gleich.
+Wer denn sonst?
+Wie siehst du denn aus!
+oder was weiß denn ich [coll.]
+Wie unwahrscheinlich ist das denn!
 "
-examples,english,"from the company's own resources
-for checking purposes
-for competitive reasons
-from the earnings
-to mark the Diamond Jubilee
-for understandable reasons
-of his own free will
-from continuous business activity
-for want of encouragement
-for want of information
-for want of funds
-in contempt of him
-for reasons of his own
-on economic-political grounds
-","What about me?
-Where do we go from here? [fig.]
-and all the rest of them
-one and the same currency
-Where do we go from here? [fig.]
-It's clear as daylight.
-rotten to the core
-One pizza with the whole works, please.
-again and yet again
-less interest and collection charges
-Charly was an out-and-out student.
-a thoroughgoing idealist
-He knows his business thoroughly.
-should clearly and fully indicate
-","He has only been with our firm for a short time.
-We asked both neighbours, neither of whom had seen her in days.
-He is long since dead.
-She hadn't tasted food for two days.
-The company has been in business since 1950.
-We've known each other forever.
-He has served our firm since ...
-He has been serving our firm since ...
-his wife of 25 years
-Four weeks have elapsed since ...
-The dog which they had for five years has run away.
-since 1980
-since their introduction in
-","He has only been with our firm for a short time.
-We asked both neighbours, neither of whom had seen her in days.
-He is long since dead.
-She hadn't tasted food for two days.
-The company has been in business since 1950.
-We've known each other forever.
-He has served our firm since ...
-He has been serving our firm since ...
-his wife of 25 years
-Four weeks have elapsed since ...
-The dog which they had for five years has run away.
-since 1980
-since their introduction in
-","in English
+examples,english,"in English
 in 1999
 in England
 in January
@@ -3136,20 +1383,20 @@ in a local court district [LAW]
 With tender and loving care she follows him.
 In what connection?
 In what connection?
-","at 17
-one of the best/cheapest hotels
-with the addition that
-using computerizedAE support [COMP.]using computerisedBE / computerizedBE support [COMP.]
-with a credit balance [FINAN.]
-is provided with
-It's best not to tangle with him.
-I've finished with you.
-with monthly settlement
-with a proven record of success
-Who is your date?
-with taut sails
-By virtue of this deed I grant X general power of attorney.
-Which car was he driving?
+","in his sleep
+during the course of the day
+in the office
+in an ivory tower
+in January
+in option dealing [FINAN.]
+within a radius of 5 km
+It was a busy day at the office today.
+on behalf of the client
+in the German-speaking parts of the world
+in the Frankfurt area
+during the course of the day
+in the course of the day
+over the course of the day
 ","a man of some account
 of the refinancing costs
 one in four
@@ -3164,93 +1411,6 @@ lined with trees
 from 1700 to 1806
 from 30 to 20 percentAEfrom 30 to 20 per centBE
 of similar colorAEof similar colourBE
-","You needn't justify yourself.
-He used to come.
-too economical
-are counted among
-are counted among
-There isn't much to do here at this time of the year.
-at your disposal
-aspects in his favorAE areaspects in his favourBE are
-aspects in his disfavour are
-at 4% interest
-at exceptionally high prices
-at the beginning of term
-at considerably reduced prices pl.
-at that price
-","Whether they'll win will depend on how they are feeling that day.
-I wonder if he still knows me
-whether you would be prepared
-whether you can keep this limit
-whether you can exceed this limit
-whether you would be inclined to
-Whether ... is another matter.
-Whether ... is another question.
-Whether ... is a different matter.
-Whether ... remains to be seen.
-She looks as if butter wouldn't melt in her mouth.
-as though it were my fault
-I seem to hear voices.
-let me know whether you
-","in English
-in 1999
-in England
-in January
-in Switzerland
-near here
-in a cardboard box
-in the newspaper
-in the office
-in the 7th/12th/20th ... century
-in a local court district [LAW]
-With tender and loving care she follows him.
-In what connection?
-In what connection?
-","for contract evaluation
-for checking purposes
-in order to raise capital [FINAN.]
-We never have any fun these days.
-disposed to mirth
-issued in order to raise capital
-for delivery in July
-for prompt and careful execution
-offered for subscription
-for an impartial opinion
-delivery ready for shipping
-for the manufacture of the goods
-amount available for withdrawal [FINAN.]
-belongs to extent of delivery
-","to the collecting bank
-to a creditor [FINAN.]
-from date of invoice
-an exceptional offer
-an off-duty policeman
-On what day?
-Who did you write to?
-To whom did you write?
-by my side
-in his place
-an accidental occurrence
-paid to shareholders
-on the US stock exchanges
-an amicable arrangement
-","while you're at it
-If I only had known!
-while we're at it
-albeit under military administrations
-once this period has expired
-If I were you, I would ...
-if that's any good to you
-if the credit provides for acceptance
-if the credit provides for negotiation
-Unless I'm very much mistaken ...
-if changes occur
-if the goods serve our purpose
-considering the difficulties
-when the goods pass the ship's rail
-There's no harm if ...
-We would be obliged if ...
-if he fails to take delivery
 ","more interesting than
 more beautiful than
 more comprehensive than
@@ -3265,6 +1425,111 @@ as a token of friendship
 The sight of the cake made my mouth water.
 I've enough and to spare.
 She looks as if butter wouldn't melt in her mouth.
+","at the time of shipment
+at the price we fixed
+at the highest possible price
+at the lowest possible price
+at the lowest rate of premium
+at the lowest price
+at the lowest price possible
+for checking purposes
+at or better [FINAN.]
+at the current price [FINAN.]
+I'm in no laughing mood.
+I should prefer to wait until evening.
+How far is it to the train station?
+accumulating up to the due date
+","What about me?
+Where do we go from here? [fig.]
+and all the rest of them
+one and the same currency
+Where do we go from here? [fig.]
+It's clear as daylight.
+rotten to the core
+One pizza with the whole works, please.
+again and yet again
+less interest and collection charges
+Charly was an out-and-out student.
+a thoroughgoing idealist
+He knows his business thoroughly.
+should clearly and fully indicate
+","Pay to me or my order.
+Pay to us or our order.
+incident involving vaporizationAE or volatilizationAEincident involving vaporisationBE / vaporizationBE or volatilisationBE / volatilizationBE
+at or better [FINAN.]
+on or before the expiry date
+all advice or information
+delay or loss in transit
+","If a student fails this exam, he or she has to leave the university.
+If a student fails this exam, they have to leave the university.
+If a student fails this exam, they have to leave the university.
+at your site
+while we're at it
+while you're at it
+while maintaining ...
+in a railway accident
+at 20 degrees below zero
+at 20 degrees below zero
+at 30 degrees above zero
+at 30 degrees above zero
+on closing our accounts
+for all his wealth
+","in the box office top ten
+among old documents
+stating the name of the air carrier
+among the most popular souvenirs
+under the designation
+under Habsburg rule
+with simultaneous consideration
+under my own name
+under new management
+by sharing the risk
+under predetermined conditions
+On what terms are you ready to supply?
+in consideration of the circumstances
+below a certain minimum level
+","You needn't justify yourself.
+He used to come.
+too economical
+are counted among
+are counted among
+There isn't much to do here at this time of the year.
+at your disposal
+aspects in his favorAE areaspects in his favourBE are
+aspects in his disfavour are
+at 4% interest
+at exceptionally high prices
+at the beginning of term
+at considerably reduced prices pl.
+at that price
+","What about me?
+Where do we go from here? [fig.]
+and all the rest of them
+one and the same currency
+Where do we go from here? [fig.]
+It's clear as daylight.
+rotten to the core
+One pizza with the whole works, please.
+again and yet again
+less interest and collection charges
+Charly was an out-and-out student.
+a thoroughgoing idealist
+He knows his business thoroughly.
+should clearly and fully indicate
+","What made him do that?
+like I said
+as requested
+as per your quotation
+as per sample
+as per description
+as requested
+such as a company anniversary
+How old are you?
+How do I get there?
+What is the procedure for that?
+What's your name?
+What makes you think that?
+How do you like this book?
 ","I'll bet you anything that ...
 It is reported
 without the need for
@@ -3280,174 +1545,13 @@ an investigation revealed that
 The order says that ...
 Look to it that ...
 ... require the seller to ...
-","against bank acceptance
-against three months' acceptance
-against pledged items
-against payment of a premium
-against three months' acceptance [FINAN.]
-for an appropriate fee
-aspects in his disfavour are
-against fraudulent transactions
-contrary to the terms of a treaty
-against first class bank guarantee
-against production of
-in return for acceptance of bills [FINAN.]
-against losses in consumer credit transactions [FINAN.]
-I don't hold with that.
-","Give it to me!
-I can't stand that.
-the case is as follows
-I'll have you know
-associated mechanisms pl.
-That settles the matter.
-That's the end of it.
-That was the end of the matter.
-Use it sparingly!
-I can't do anything with it.
-What's to be done with it?
-I can live with it.
-I can live with that.
-What's your point in doing that?
-","till ... o'clock
-until their arrival
-When can you be here by?
-up to and including this Friday
-by the end of June
-up to five years out of date
-culminating in economic crises
-until they have been placed
-by the 10th of April at the latest
-until the freight has been paid
-until the charges are paid
-until shortly before ...
-Christmas is a week off.
-There aren't many games to play before the end of the season.
-","If a student loses their ID card, they have to pay for a new one.
-for the upper classes
-as an installmentAE againstas an instalmentBE against
-for myself
-for an indefinite time
-For whom does he work?
-Who does he work for?
-aspects in his favorAE areaspects in his favourBE are
-for aficionados like yourself
-Who did you buy these flowers for?
-elected for a period of 3 years
-for the beginning of June
-for the beginning of next week
-an early reply will oblige
-","in English
-on pre-printed forms
-on the dealing floor
-on the capital market
-on the bill of exchange
-based on full costing [COMM.]
-in the money market [FINAN.]
-sth. forces itself upon so.
-at my cost
-Westward ho!
-in my dotage
-in a similar manner
-following Mr. Jones' suggestion
-on the enclosed order form
-","in his sleep
-during the course of the day
-in the office
-in an ivory tower
-in January
-in option dealing [FINAN.]
-within a radius of 5 km
-It was a busy day at the office today.
-on behalf of the client
-in the German-speaking parts of the world
-in the Frankfurt area
-during the course of the day
-in the course of the day
-over the course of the day
-","of the repayment amount
-inebriated by success
-reeds swayed by the wind
-issued by the Federal Government
-as may be designated by the buyer
-advance received from a customer
-the bank nominated by the principal
-the point so chosen by the seller
-from January 1st to March 29th
-dependent on tourism
-offered again by the debtor
-as requested in your letter of
-They are all tarred with the same brush. [fig.]
-separate from credit risks [FINAN.]
-","till ... o'clock
-until their arrival
-When can you be here by?
-up to and including this Friday
-by the end of June
-up to five years out of date
-culminating in economic crises
-until they have been placed
-by the 10th of April at the latest
-until the freight has been paid
-until the charges are paid
-until shortly before ...
-Christmas is a week off.
-There aren't many games to play before the end of the season.
-","in his sleep
-during the course of the day
-in the office
-in an ivory tower
-in January
-in option dealing [FINAN.]
-within a radius of 5 km
-It was a busy day at the office today.
-on behalf of the client
-in the German-speaking parts of the world
-in the Frankfurt area
-during the course of the day
-in the course of the day
-over the course of the day
-","but it was only after ...
-but not for much longer
-but it was only after ...
-..., but that's an argument for another day
-I can't do Tuesday, but I can do Wednesday
-he's all brawn and no brains
-Enough is enough!
-We asked both neighbours, neither of whom had seen her in days.
-We made several attempts to reach him but were unsuccessful.
-Though he's rich, he's an honest man.
-I hate to tell you, but ...
-quite true but ...
-I'll have a coke, but hold the ice, please.
-He loved her but she married another.
-","at 17
-at the bookseller's
-at the earliest
-at the pawnbroker's
-at my cost
-at your leisure
-at 27 Main Street
-at your convenience
-at your site
-at $200.00 each
-at your disposal
-at 20 degrees below zero
-at 20 degrees below zero
-at 30 degrees above zero
-","in English
-on pre-printed forms
-on the dealing floor
-on the capital market
-on the bill of exchange
-based on full costing [COMM.]
-in the money market [FINAN.]
-sth. forces itself upon so.
-at my cost
-Westward ho!
-in my dotage
-in a similar manner
-following Mr. Jones' suggestion
-on the enclosed order form
+","Pay to me or my order.
+Pay to us or our order.
+incident involving vaporizationAE or volatilizationAEincident involving vaporisationBE / vaporizationBE or volatilisationBE / volatilizationBE
+at or better [FINAN.]
+on or before the expiry date
+all advice or information
+delay or loss in transit
 ","via Harwich
 via the Internet
 via bonds [FINAN.]
@@ -3462,83 +1566,20 @@ about the firm in question
 who already has experience
 over the entire term
 There's no accounting for taste.
-","If a student fails this exam, he or she has to leave the university.
-If a student fails this exam, they have to leave the university.
-If a student fails this exam, they have to leave the university.
-at your site
-while we're at it
-while you're at it
-while maintaining ...
-in a railway accident
-at 20 degrees below zero
-at 20 degrees below zero
-at 30 degrees above zero
-at 30 degrees above zero
-on closing our accounts
-for all his wealth
-","at the time of shipment
-at the price we fixed
-at the highest possible price
-at the lowest possible price
-at the lowest rate of premium
-at the lowest price
-at the lowest price possible
-for checking purposes
-at or better [FINAN.]
-at the current price [FINAN.]
-I'm in no laughing mood.
-I should prefer to wait until evening.
-How far is it to the train station?
-accumulating up to the due date
-","on Wednesday afternoon
-the most beautiful
-on the date of issue
-on the date of maturity
-I am (or: I'm)
-1 am
-1 am
-11 am
-am I disturbing you?
-am I right?
-am I right?
-am I right in assuming that ...?
-at the end of the trading year
-throughout the market
-",None,"What about me?
-Where do we go from here? [fig.]
-and all the rest of them
-one and the same currency
-Where do we go from here? [fig.]
-It's clear as daylight.
-rotten to the core
-One pizza with the whole works, please.
-again and yet again
-less interest and collection charges
-Charly was an out-and-out student.
-a thoroughgoing idealist
-He knows his business thoroughly.
-should clearly and fully indicate
-","according to the rules
-after the stock market has opened [FINAN.]
-after breakfast
-after my fancy
-after this time has elapsed
-after this date
-after the period has lapsed without success
-after consultation with
-at the discretion of the manufacturer
-after the expiration of the contract
-upon acceptance of our draft
-according to all accounts
-taking everything into account
-after consultation with
-","Pay to me or my order.
-Pay to us or our order.
-incident involving vaporizationAE or volatilizationAEincident involving vaporisationBE / vaporizationBE or volatilisationBE / volatilizationBE
-at or better [FINAN.]
-on or before the expiry date
-all advice or information
-delay or loss in transit
+","If a student loses their ID card, they have to pay for a new one.
+for the upper classes
+as an installmentAE againstas an instalmentBE against
+for myself
+for an indefinite time
+For whom does he work?
+Who does he work for?
+aspects in his favorAE areaspects in his favourBE are
+for aficionados like yourself
+Who did you buy these flowers for?
+elected for a period of 3 years
+for the beginning of June
+for the beginning of next week
+an early reply will oblige
 ","while you're at it
 If I only had known!
 while we're at it
@@ -3556,76 +1597,6 @@ when the goods pass the ship's rail
 There's no harm if ...
 We would be obliged if ...
 if he fails to take delivery
-","in order to cover
-some time around Easter
-It's too bad about ...
-to give myself a boost
-to enable him
-in order to deliver commercial documents
-in order to meet you
-in order to save you expenses
-in order to show you
-in order to meet your wishes
-in order to guard against misunderstandings
-some time around Easter
-in order to acquaint you with our products
-in order to encourage you
-",None,"in front of the Parliament
-before the end of this week
-before the end of June
-before June 10
-before the expiration of the term
-against the background of
-The suspense is killing me.
-I'm terrified of him.
-His eyes were shining with joy.
-His eyes were sparkling with joy.
-He stops at nothing.
-Yield to the right.
-He found plenty of work to do.
-He has little regard for human life.
-","If only I had known!
-face it, ...
-Do sit down.
-Have some cake, it's lovely.
-Do sit down.
-just join in and sing along!
-Give us a visit sometime.
-We eventually managed to reach her.
-Just go and try it!
-Come on, this is ridiculous!
-Come on, this is ridiculous!
-That's not right. - Yes it is.
-There's little point in blaming each other.
-it was a blessing in disguise
-","at the time of shipment
-at the price we fixed
-at the highest possible price
-at the lowest possible price
-at the lowest rate of premium
-at the lowest price
-at the lowest price possible
-for checking purposes
-at or better [FINAN.]
-at the current price [FINAN.]
-I'm in no laughing mood.
-I should prefer to wait until evening.
-How far is it to the train station?
-accumulating up to the due date
-","but it was only after ...
-but not for much longer
-but it was only after ...
-..., but that's an argument for another day
-I can't do Tuesday, but I can do Wednesday
-he's all brawn and no brains
-Enough is enough!
-We asked both neighbours, neither of whom had seen her in days.
-We made several attempts to reach him but were unsuccessful.
-Though he's rich, he's an honest man.
-I hate to tell you, but ...
-quite true but ...
-I'll have a coke, but hold the ice, please.
-He loved her but she married another.
 ","in front of the Parliament
 before the end of this week
 before the end of June
@@ -3640,62 +1611,11 @@ He stops at nothing.
 Yield to the right.
 He found plenty of work to do.
 He has little regard for human life.
+","What's the matter?
+Can I talk to you for a second? - Yes, what's up?
+what had I best do
 "
-examples,german,"aus Gesellschaftsmitteln
-aus Kontrollgründen
-aus Wettbewerbsgründen
-aus dem Ertrag
-aus Anlass des sechzigsten Thronjubiläums
-aus verständlichen Gründen
-aus freien Stücken
-aus laufender Geschäftstätigkeit
-aus Mangel an Ermunterung
-aus Mangel an Information
-aus Mangel an Kapital
-aus Nichtachtung gegen ihn
-aus nur ihm selbst bekannten Gründen
-aus wirtschaftspolitischen Gründen
-","Und ich?
-Und jetzt?
-und alle anderen
-ein und dieselbe Währung
-Und was jetzt?
-Es ist klipp und klar.
-durch und durch schlecht
-Bitte einmal Pizza mit allem Drum und Dran.
-immer und immer wieder
-abzüglich Zins und Inkassogebühren
-Charly war durch und durch Student.
-ein Idealist durch und durch
-Er versteht sein Geschäft durch und durch.
-sollte klar und vollständig angeben
-","Er ist erst seit kurzem in unserer Firma.
-Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
-Er ist seit langem (or: Langem) tot.
-Sie hatte seit zwei Tagen keinen Bissen gegessen.
-Die Firma besteht seit 1950.
-Wir kennen uns seit eh und je.
-Er ist bei uns beschäftigt seit ...
-Er steht in Diensten unserer Firma seit ...
-seine Ehefrau, mit der er seit 25 Jahren verheiratet ist
-Vier Wochen sind verstrichen seit ...
-Der Hund, den sie schon seit fünf Jahren hatten, ist weggelaufen.
-seit 1980
-seit deren Einführung im Jahre
-","Er ist erst seit kurzem in unserer Firma.
-Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
-Er ist seit langem (or: Langem) tot.
-Sie hatte seit zwei Tagen keinen Bissen gegessen.
-Die Firma besteht seit 1950.
-Wir kennen uns seit eh und je.
-Er ist bei uns beschäftigt seit ...
-Er steht in Diensten unserer Firma seit ...
-seine Ehefrau, mit der er seit 25 Jahren verheiratet ist
-Vier Wochen sind verstrichen seit ...
-Der Hund, den sie schon seit fünf Jahren hatten, ist weggelaufen.
-seit 1980
-seit deren Einführung im Jahre
-","auf Englisch
+examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
 in England
 im Januar
@@ -3709,20 +1629,20 @@ in einem Amtsgerichtsbezirk
 In liebevoller Sorge begleitet sie ihn.
 In welchem Zusammenhang?
 In welcher Verbindung?
-","mit 17
-mit das beste/billigste Hotel
-mit dem Zusatz, dass
-mit EDV-Unterstützung
-mit einem Guthaben
-ausgestattet mit
-Mit ihm ist nicht gut Kirschen essen.
-Mit Ihnen bin ich fertig.
-mit monatlicher Abrechnung
-mit nachweisbaren Erfolgen
-Mit wem sind Sie verabredet?
-mit prallen Segeln
-Mit dieser Urkunde erteile ich X Generalvollmacht.
-Mit welchem Auto ist er gefahren?
+","im Schlafe
+im Tagesverlauf
+im Büro
+im Elfenbeinturm
+im Januar
+im Optionshandel
+im Umkreis von 5 km
+Im Büro ging es heute richtig rund.
+im Auftrag des Kunden
+im deutschen Sprachraum
+im Raum Frankfurt
+im Verlauf des Tages
+im Verlauf des Tages
+im Verlauf des Tages
 ","ein Mann von Ansehen
 von den Refinanzierungskosten
 einer von vieren
@@ -3737,93 +1657,6 @@ von Bäumen gesäumt
 von 1700 bis 1806
 von 30 auf 20 Prozent
 von ähnlicher Farbe
-","Sie brauchen sich nicht zu rechtfertigen.
-Er pflegte zu kommen.
-zu sparsam
-gehören zu
-zählen zu
-Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
-zu Ihrer Verfügung
-zu seinen Gunsten spricht
-zu seinen Ungunsten spricht
-zu 4% Zinsen
-zu außergewöhnlich hohen Preisen
-zu Beginn des Trimesters
-zu beträchtlich reduzierten Preisen
-zu diesem Preis
-","Ob sie gewinnen hängt von ihrer Tagesform ab.
-ob er mich wohl noch kennt?
-ob Sie bereit wären
-ob Sie diese Grenze halten können
-ob Sie diese Grenze überschreiten können
-ob Sie geneigt wären
-Ob ... sei dahingestellt.
-Ob ... sei dahingestellt.
-Ob ... sei dahingestellt.
-Ob ... sei dahingestellt.
-Sie sieht aus, als ob sie kein Wässerchen trüben könnte.
-als ob es meine Schuld wäre
-Mir ist, als ob ich Stimmen hörte.
-teilen Sie mir mit, ob Sie
-","auf Englisch
-im Jahr (or: Jahre) 1999
-in England
-im Januar
-in der Schweiz
-in der Nähe
-in einem Karton
-in der Zeitung
-im Büro
-im 7./12./20. ... Jahrhundert
-in einem Amtsgerichtsbezirk
-In liebevoller Sorge begleitet sie ihn.
-In welchem Zusammenhang?
-In welcher Verbindung?
-","zur Kontraktbewertung
-zur Kontrolle
-zur Kapitalbeschaffung
-Zur Zeit haben wir überhaupt keinen Spaß mehr!
-zur Fröhlichkeit aufgelegt
-zur Kapitalbeschaffung ausgegeben
-zur Lieferung im Juli
-zur prompten und sorgfältigen Erledigung
-zur Subskription angeboten
-zur unparteiischen Begutachtung
-zur Verschiffung bereite Lieferung
-zur Herstellung der Ware
-zur Entnahme verfügbarer Betrag
-gehört zur Lieferung
-","an die Inkassobank
-an einen Gläubiger
-vom Rechnungsdatum an
-ein außergewöhnliches Angebot
-ein Polizist, der nicht im Dienst ist
-An welchem Tag?
-An wen hast du geschrieben?
-An wen hast du geschrieben?
-an meiner Seite
-an seiner Stelle
-ein zufälliges Ereignis
-an Aktionäre ausbezahlt
-an amerikanischen Börsen
-eine gütliche Einigung
-","wenn du schon dabei bist
-Wenn ich es nur gewusst hätte!
-wenn wir schon dabei sind
-wenn auch unter militärischer Verwaltung
-wenn diese Frist abgelaufen ist
-Wenn ich du wäre, würde ich ...
-wenn dir das zusagt
-wenn das Akkreditiv Akzeptierung vorsieht
-wenn das Akkreditiv Verhandlung vorsieht
-Wenn ich mich nicht sehr irre ...
-wenn sich etwas ändert
-wenn die Ware unseren Zweck erfüllt
-wenn wir an die Schwierigkeiten denken
-wenn die Ware die Schiffsreling überschreitet
-Es macht nichts wenn ...
-Wir wären Ihnen dankbar wenn ...
-wenn er die Ware nicht abnimmt
 ","interessanter als
 schöner als
 umfassender als
@@ -3838,6 +1671,111 @@ als Zeichen der Freundschaft
 Als ich den Kuchen sah, lief mir das Wasser im Mund zusammen.
 Ich habe mehr als genug.
 Sie sieht aus, als ob sie kein Wässerchen trüben könnte.
+","zum Verschiffungsdatum
+zum festgelegten Preis
+zum höchstmöglichen Preis
+zum kleinstmöglichen Preis
+zum niedrigsten Prämiensatz
+zum niedrigsten Preis
+zum niedrigstmöglichen Preis
+zum Zweck der Kontrolle
+zum Kurs oder besser
+zum laufenden Preis
+Es ist mir nicht zum Lachen.
+Ich warte lieber bis zum Abend.
+Wie weit ist es bis zum Bahnhof?
+anfallend bis zum Fälligkeitstag
+","Und ich?
+Und jetzt?
+und alle anderen
+ein und dieselbe Währung
+Und was jetzt?
+Es ist klipp und klar.
+durch und durch schlecht
+Bitte einmal Pizza mit allem Drum und Dran.
+immer und immer wieder
+abzüglich Zins und Inkassogebühren
+Charly war durch und durch Student.
+ein Idealist durch und durch
+Er versteht sein Geschäft durch und durch.
+sollte klar und vollständig angeben
+","Zahlen Sie an mich oder meine Order.
+Zahlen Sie an uns oder unsere Order.
+der Verdampfungs- oder Verdunstungsvorgang
+zum Kurs oder besser
+am oder vor dem Verfalldatum
+sämtliche Meldungen oder Nachrichten
+Verzögerung oder Verlust unterwegs
+","Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn Studierende bei dieser Prüfung durchfallen, müssen sie die Universität verlassen.
+bei Ihnen
+bei der Gelegenheit
+bei der Gelegenheit
+bei Aufrechterhaltung ...
+bei einem Eisenbahnunglück
+bei 20 Grad Kälte
+bei 20 Grad unter null
+bei 30 Grad über null
+bei 30 Grad Wärme
+bei Abschluss unserer Bücher
+bei allem Reichtum
+","unter den zehn finanziell erfolgreichsten Filmen
+unter alten Dokumenten
+unter Angabe des Luftfrachtführers
+unter den beliebtesten Andenken
+unter der Bezeichnung
+unter der Herrschaft der Habsburger
+unter gleichzeitiger Berücksichtigung
+unter meinem eigenen Namen
+unter neuer Leitung
+unter Verteilung des Risikos
+unter vorher festgelegten Bedingungen
+Unter welchen Bedingungen liefern Sie?
+unter Berücksichtigung der Umstände
+unter einem bestimmten Minimum
+","Sie brauchen sich nicht zu rechtfertigen.
+Er pflegte zu kommen.
+zu sparsam
+gehören zu
+zählen zu
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+zu Ihrer Verfügung
+zu seinen Gunsten spricht
+zu seinen Ungunsten spricht
+zu 4% Zinsen
+zu außergewöhnlich hohen Preisen
+zu Beginn des Trimesters
+zu beträchtlich reduzierten Preisen
+zu diesem Preis
+","Und ich?
+Und jetzt?
+und alle anderen
+ein und dieselbe Währung
+Und was jetzt?
+Es ist klipp und klar.
+durch und durch schlecht
+Bitte einmal Pizza mit allem Drum und Dran.
+immer und immer wieder
+abzüglich Zins und Inkassogebühren
+Charly war durch und durch Student.
+ein Idealist durch und durch
+Er versteht sein Geschäft durch und durch.
+sollte klar und vollständig angeben
+","Wie kam er nur dazu?
+wie gesagt
+wie gewünscht
+wie angeboten
+wie bemustert
+wie beschrieben
+wie erbeten
+wie ein Firmenjubiläum
+Wie alt bist du?
+Wie komme ich dahin?
+Wie geht so etwas vonstatten?
+Wie heißt du?
+Wie kommst du darauf?
+Wie gefällt Ihnen dieses Buch?
 ","wetten, dass ...
 Es verlautet, dass
 ohne dass es erforderlich ist
@@ -3853,174 +1791,13 @@ eine Untersuchung deckte auf, dass
 Der Befehl lautet dahingehend, dass ...
 Achte darauf, dass ...
 ... verlangen, dass der Verkäufer ...
-","gegen Bankakzept
-gegen Dreimonatsakzept
-gegen Pfand
-gegen Prämienzahlung
-gegen Dreimonatswechsel
-gegen angemessenes Honorar
-gegen ihn spricht
-gegen betrügerische Geschäfte
-gegen die Vertragsbedingungen
-gegen erstklassige Bankgarantie
-gegen Vorlage von
-gegen Akzeptierung von Wechseln
-gegen Verluste in Kreditgeschäften von Verbrauchern
-Ich bin gegen so was.
-","Her damit! [coll.]
-Damit kannst du mich jagen.
-damit hat es folgende Bewandtnis
-damit du's weißt
-damit verbundene Mechanismen
-Damit ist die Sache erledigt.
-Damit ist die Sache erledigt.
-Damit war die Sache erledigt.
-Gehen Sie sparsam damit um!
-Ich kann nichts damit anfangen.
-Was soll damit geschehen?
-Ich kann damit leben.
-Ich kann damit leben.
-Was bezweckst du damit?
-","bis ... Uhr
-bis zu deren Ankunft
-Bis wann kannst du hier sein?
-bis einschließlich diesen Freitag
-bis Ende Juni
-bis fünf Jahre abgelaufen
-bis hin zu Wirtschaftskrisen
-bis sie platziert sind
-bis spätestens 10. April
-bis die Fracht bezahlt ist
-bis die Gebühren bezahlt sind
-bis kurz vor ...
-Bis Weihnachten ist es noch eine Woche.
-Bis zum Saisonende finden nicht mehr viele Spiele statt.
-","Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
-für die Oberschicht
-als Teilzahlung für
-für mich selbst
-für unbestimmte Zeit
-Für wen arbeitet er?
-Für wen arbeitet er?
-für ihn spricht
-für Liebhaber, wie Sie selbst
-Für wen hast du diese Blumen gekauft?
-für 3 Jahre gewählt
-für Anfang Juni
-für Anfang nächster Woche
-für baldige Antwort sind wir dankbar
-","auf Englisch
-auf Vordrucken
-auf dem Börsenparkett
-auf dem Kapitalmarkt
-auf dem Wechsel
-auf Vollkostenbasis
-auf dem Geldmarkt
-etw.nom. zwingt sich jmdm. auf
-auf meine Kosten
-Auf nach Westen!
-auf meine alten Tage
-auf ähnliche Weise
-auf Anraten von Herrn Jones
-auf beiliegendem Bestellschein
-","im Schlafe
-im Tagesverlauf
-im Büro
-im Elfenbeinturm
-im Januar
-im Optionshandel
-im Umkreis von 5 km
-Im Büro ging es heute richtig rund.
-im Auftrag des Kunden
-im deutschen Sprachraum
-im Raum Frankfurt
-im Verlauf des Tages
-im Verlauf des Tages
-im Verlauf des Tages
-","vom Tilgungsbetrag
-vom Erfolg berauscht
-vom Wind bewegtes Schilf
-vom Bund ausgegeben
-vom Käufer bezeichnet
-vom Kunden erhaltene Anzahlung
-die vom Auftraggeber benannte Bank
-der vom Verkäufer gewählte Ort
-vom 1. Januar bis 29. März
-abhängig vom Tourismus
-erneut vom Schuldner angeboten
-wie in Ihrem Schreiben vom ... gewünscht
-Sie sind alle vom gleichen Schlag.
-getrennt vom Kreditrisiko
-","bis ... Uhr
-bis zu deren Ankunft
-Bis wann kannst du hier sein?
-bis einschließlich diesen Freitag
-bis Ende Juni
-bis fünf Jahre abgelaufen
-bis hin zu Wirtschaftskrisen
-bis sie platziert sind
-bis spätestens 10. April
-bis die Fracht bezahlt ist
-bis die Gebühren bezahlt sind
-bis kurz vor ...
-Bis Weihnachten ist es noch eine Woche.
-Bis zum Saisonende finden nicht mehr viele Spiele statt.
-","im Schlafe
-im Tagesverlauf
-im Büro
-im Elfenbeinturm
-im Januar
-im Optionshandel
-im Umkreis von 5 km
-Im Büro ging es heute richtig rund.
-im Auftrag des Kunden
-im deutschen Sprachraum
-im Raum Frankfurt
-im Verlauf des Tages
-im Verlauf des Tages
-im Verlauf des Tages
-","aber erst nachdem ...
-aber nicht mehr lange
-aber erst nach ...
-aber das soll jetzt hier nicht weiter vertieft werden
-Dienstag kann ich nicht, aber Mittwoch
-er hat Muskeln, aber kein Gehirn
-Jetzt reicht's aber!
-Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
-Wir haben mehrfach versucht, ihn zu erreichen, aber vergebens.
-Er ist zwar reich, aber ehrlich.
-Ich sag's dir ja nur ungern, aber ...
-wohl wahr, aber ...
-Eine Cola, aber bitte ohne Eis.
-Er hat sie geliebt, aber sie hat einen anderen geheiratet.
-","mit 17
-beim Buchhändler
-frühestmöglicher Zeitpunkt
-beim Pfandleiher
-auf meine Kosten
-wenn es Ihnen gerade passt
-in der Hauptstraße 27
-frei nach Ihren Vorstellungen
-bei Ihnen
-à $200,-
-zu Ihrer Verfügung
-bei 20 Grad Kälte
-bei 20 Grad unter null
-bei 30 Grad über null
-","auf Englisch
-auf Vordrucken
-auf dem Börsenparkett
-auf dem Kapitalmarkt
-auf dem Wechsel
-auf Vollkostenbasis
-auf dem Geldmarkt
-etw.nom. zwingt sich jmdm. auf
-auf meine Kosten
-Auf nach Westen!
-auf meine alten Tage
-auf ähnliche Weise
-auf Anraten von Herrn Jones
-auf beiliegendem Bestellschein
+","Zahlen Sie an mich oder meine Order.
+Zahlen Sie an uns oder unsere Order.
+der Verdampfungs- oder Verdunstungsvorgang
+zum Kurs oder besser
+am oder vor dem Verfalldatum
+sämtliche Meldungen oder Nachrichten
+Verzögerung oder Verlust unterwegs
 ","über Harwich
 über das Internet
 über Anlagen
@@ -4035,83 +1812,20 @@ sich über mehrere Wochen erstreckend
 der über Erfahrung verfügt
 über die gesamte Laufzeit
 Über Geschmack lässt sich nicht streiten.
-","Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
-Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
-Wenn Studierende bei dieser Prüfung durchfallen, müssen sie die Universität verlassen.
-bei Ihnen
-bei der Gelegenheit
-bei der Gelegenheit
-bei Aufrechterhaltung ...
-bei einem Eisenbahnunglück
-bei 20 Grad Kälte
-bei 20 Grad unter null
-bei 30 Grad über null
-bei 30 Grad Wärme
-bei Abschluss unserer Bücher
-bei allem Reichtum
-","zum Verschiffungsdatum
-zum festgelegten Preis
-zum höchstmöglichen Preis
-zum kleinstmöglichen Preis
-zum niedrigsten Prämiensatz
-zum niedrigsten Preis
-zum niedrigstmöglichen Preis
-zum Zweck der Kontrolle
-zum Kurs oder besser
-zum laufenden Preis
-Es ist mir nicht zum Lachen.
-Ich warte lieber bis zum Abend.
-Wie weit ist es bis zum Bahnhof?
-anfallend bis zum Fälligkeitstag
-","am Mittwochnachmittag
-am schönsten
-am Ausgabetag
-am Fälligkeitstag
-ich bin
-1 Uhr morgens
-1 Uhr nachts
-11 Uhr vormittags
-störe ich?
-habe ich recht?
-liege ich richtig?
-gehe ich recht in der Annahme, dass ...
-am Ende des Geschäftsjahres
-am ganzen Markt
-",None,"Und ich?
-Und jetzt?
-und alle anderen
-ein und dieselbe Währung
-Und was jetzt?
-Es ist klipp und klar.
-durch und durch schlecht
-Bitte einmal Pizza mit allem Drum und Dran.
-immer und immer wieder
-abzüglich Zins und Inkassogebühren
-Charly war durch und durch Student.
-ein Idealist durch und durch
-Er versteht sein Geschäft durch und durch.
-sollte klar und vollständig angeben
-","nach den Richtlinien
-nach Börseneröffnung
-nach dem Frühstück
-nach meinem Geschmack
-nach Ablauf dieser Zeit
-nach diesem Datum
-nach ergebnislosem Fristablauf
-nach Rücksprache mit
-nach Wahl des Herstellers
-nach Ablauf des Vertrags
-nach Akzeptierung unseres Wechsels
-nach allen Berichten
-nach allen Überlegungen
-nach Beratung mit
-","Zahlen Sie an mich oder meine Order.
-Zahlen Sie an uns oder unsere Order.
-der Verdampfungs- oder Verdunstungsvorgang
-zum Kurs oder besser
-am oder vor dem Verfalldatum
-sämtliche Meldungen oder Nachrichten
-Verzögerung oder Verlust unterwegs
+","Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+für die Oberschicht
+als Teilzahlung für
+für mich selbst
+für unbestimmte Zeit
+Für wen arbeitet er?
+Für wen arbeitet er?
+für ihn spricht
+für Liebhaber, wie Sie selbst
+Für wen hast du diese Blumen gekauft?
+für 3 Jahre gewählt
+für Anfang Juni
+für Anfang nächster Woche
+für baldige Antwort sind wir dankbar
 ","wenn du schon dabei bist
 Wenn ich es nur gewusst hätte!
 wenn wir schon dabei sind
@@ -4129,76 +1843,6 @@ wenn die Ware die Schiffsreling überschreitet
 Es macht nichts wenn ...
 Wir wären Ihnen dankbar wenn ...
 wenn er die Ware nicht abnimmt
-","um abzudecken
-um Ostern
-Schade um ...
-um meine Stimmung aufzuhellen
-um es ihm zu ermöglichen
-um Handelspapiere auszuhändigen
-um Ihnen entgegen zu kommen
-um Ihnen Kosten zu sparen
-um Ihnen zu zeigen
-um Ihren Wünschen nachzukommen
-um Missverständnissen vorzubeugen
-um Ostern herum
-um Sie mit unserer Ware vertraut zu machen
-um Sie zu ermutigen
-",None,"vor dem Parlamentsgebäude
-vor Ende dieser Woche
-vor Ende Juni
-vor dem 10. Juni
-vor Ablauf der Zeit
-vor dem Hintergrund von
-Ich halte es vor Spannung kaum noch aus.
-Mir graut vor ihm.
-Seine Augen leuchteten vor Freude.
-Seine Augen leuchteten vor Freude.
-Er schreckt vor nichts zurück.
-Es gilt rechts vor links.
-Er fand viel Arbeit vor. - vorfinden
-Er hat wenig Achtung vor Menschenleben.
-","Hätte ich es doch nur gewusst!
-begreif's doch endlich
-Nehmen Sie doch Platz. infinitive: Platz nehmen
-Nimm doch etwas Kuchen - er schmeckt köstlich!
-Nimm doch Platz. infinitive: Platz nehmen
-sing doch einfach mit!
-Besuchen Sie uns doch mal.
-Letztendlich haben wir sie doch noch erreichen können.
-Versuch's doch mal!
-Ich bitte dich, das ist doch lächerlich!
-Ich bitte Sie, das ist doch lächerlich!
-Das stimmt nicht. - Doch!
-Es bringt doch nichts, sich gegenseitig zu beschuldigen.
-es war schließlich doch ein Segen
-","zum Verschiffungsdatum
-zum festgelegten Preis
-zum höchstmöglichen Preis
-zum kleinstmöglichen Preis
-zum niedrigsten Prämiensatz
-zum niedrigsten Preis
-zum niedrigstmöglichen Preis
-zum Zweck der Kontrolle
-zum Kurs oder besser
-zum laufenden Preis
-Es ist mir nicht zum Lachen.
-Ich warte lieber bis zum Abend.
-Wie weit ist es bis zum Bahnhof?
-anfallend bis zum Fälligkeitstag
-","aber erst nachdem ...
-aber nicht mehr lange
-aber erst nach ...
-aber das soll jetzt hier nicht weiter vertieft werden
-Dienstag kann ich nicht, aber Mittwoch
-er hat Muskeln, aber kein Gehirn
-Jetzt reicht's aber!
-Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
-Wir haben mehrfach versucht, ihn zu erreichen, aber vergebens.
-Er ist zwar reich, aber ehrlich.
-Ich sag's dir ja nur ungern, aber ...
-wohl wahr, aber ...
-Eine Cola, aber bitte ohne Eis.
-Er hat sie geliebt, aber sie hat einen anderen geheiratet.
 ","vor dem Parlamentsgebäude
 vor Ende dieser Woche
 vor Ende Juni
@@ -4213,4 +1857,7 @@ Er schreckt vor nichts zurück.
 Es gilt rechts vor links.
 Er fand viel Arbeit vor. - vorfinden
 Er hat wenig Achtung vor Menschenleben.
+","Was ist denn?
+Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
+was tue ich denn nun am besten
 "

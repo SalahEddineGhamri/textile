@@ -100,11 +100,12 @@ class PrepositionsAgent(Process):
             sleep(0.0001)
 
         self.blackboard['stages']['analyzed_prepositions'] = 'STARTED'
+        PREPOSITIONS_CACHE.refresh_cache()
         self.analyze()
+        PREPOSITIONS_CACHE.cache()
         self.blackboard['stages']['analyzed_prepositions'] = 'Analyzed Prepositions!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_prepositions'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_prepositions'] = 'Generated rich analysis!'
-        PREPOSITIONS_CACHE.cache()
         self.blackboard['stages']['analyzed_prepositions'] = 'DONE'

@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig
 basic_forms,english,,None,,"müssen : Verb
 ",,None,,None,None,None,None,"früh : Adjective
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
@@ -7,8 +7,11 @@ basic_forms,english,,None,,"müssen : Verb
 ",None,"lieb : Adjective
 liebe : Adjective
 der Liebe : Noun
-",None,None,None,None,None,None,None
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,None,None,None,None,None,None,None
+",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,"spät : Adjective
+",,,"wenig : Adjective
+","stark : Adjective
+",,,
+basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -344,6 +347,269 @@ to be wide awake
 to be engrossed
 to be worn out
 to ask in all innocence
+","to not do sth. after all
+","to have sth. down to a fine art
+to have sth. down pat
+to have sth. down cold [coll.] chiefly (Amer.)
+to be from central casting
+to clinch a deal
+","to keep well and fit
+to get better
+to get well
+to recover | recovered, recovered |
+to be in the pink
+to be right as rain
+",None,"to finish first/second
+to rank first/third/... | ranked, ranked |
+to stand in the forefront
+to cut one's teeth
+to get one's feet wet
+to debut
+to cast the first stone
+to come in first
+to make the first move
+to place first (Amer.)
+to break ground
+to go on the air
+to apply first layer
+to be first off the mark
+","to become a reality
+","not to see the fun of sth.
+to dread to think
+to do squat [sl.]
+to brim over with enthusiasm for sth.
+so. is not a happy camper [coll.] [fig.]
+","to be present
+to be around
+to be in town
+to be there
+to be in
+to be on hand
+to reach out to so.
+to be back
+to be out
+to intersperse | interspersed, interspersed |
+to be out of pocket (Amer.) [coll.]
+to be back to square one
+","to fit - clothes, shoes
+to fit so./sth. (with sth.) | fitted/fit, fitted/fit |
+to fit | fitted/fit, fitted/fit |
+to fit | fitted/fit, fitted/fit |
+to fit | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+to fit sth. | fitted/fit, fitted/fit |
+","to act out of character
+","to be glad
+to be well shot of so./sth. [coll.] (Brit.)
+","to toll | tolled, tolled |
+to be a looker
+to look great
+to look like a million bucks [fig.] (Amer.)
+to look like a million dollars [fig.] (Amer.)
+to look a million dollars [fig.] (Brit.)
+to take its (or: a) toll
+sth. is a gas
+to take a toll on so./sth.
+to charge toll [FINAN.]
+to act like a madman
+to have a ball [fig.]
+",None,"to plane | planed, planed |
+to plane-polarizeAE | plane-polarized, plane-polarized / plane-polarised, plane-polarised | [PHYS.] to plane-polariseBE / plane-polarizeBE [PHYS.]
+to bring more in line with
+to downscale | downscaled, downscaled |
+to cascade sth. | cascaded, cascaded |
+","to reword | reworded, reworded |
+to alter | altered, altered |
+to look differently
+to arrange differently
+to be different (from sth.)
+to reconfigure sth. | reconfigured, reconfigured |
+to think better of it
+to change one's mind
+to restate sth. | restated, restated |
+to change one's mind
+to approach sth. differently
+to think better of it
+to set so. apart
+to act out of character
+to change one's mind
+to have second thoughts
+","to be an also-ran
+",None,"to retry | retried, retried |
+to reconfirm | reconfirmed, reconfirmed |
+to review | reviewed, reviewed |
+to review | reviewed, reviewed |
+to double-check | double-checked, double-checked |
+to start all over
+to go over sth.
+to revisit sth. | revisited, revisited | - reconsider
+to refire sth. | refired, refired |
+to double-check | double-checked, double-checked |
+to go over sth.
+to dodge a bullet
+",None,"to enjoy doing sth.
+to be into doing sth.
+to be happy to do sth.
+to love doing sth.
+to like so./sth. | liked, liked |
+to be pleased to do sth.
+to have a sweet tooth [fig.]
+to like doing sth.
+to like to do sth.
+to relish sth. | relished, relished |
+to fancy so./sth. | fancied, fancied |
+so. would like to ...
+to be welcome to do sth.
+to be happy to agree to sth.
+","to work sth. out for oneself
+to bring sth. onto oneself
+to make sth. from scratch
+",,"to expect (that ...) | expected, expected |
+to reckon | reckoned, reckoned |
+to lump it
+to vaunt that ...
+to busy oneself doing sth.
+to settle for doing sth.
+to be content to do sth.
+to figure on doing sth.
+to resign oneself to doing sth.
+to be busy doing sth.
+to amuse oneself by doing sth.
+to join the dots
+",,"to be bad medicine
+to flirt with sth. - danger, death
+","to depend on so./sth.
+to be hooked on sth.
+to be a function of [MATH.]
+to be reliant on so./sth.
+to be dependent on so./sth.
+to hinge on sth.
+to condition sth. on sth.
+to become hooked on sth.
+to be addicted to sth. [MED.]
+to be subject to strict regulations
+","to operate in the shadows
+to abscond | absconded, absconded |
+to slip away
+to slip away unnoticed
+to dispose of so. quietly
+to sneak off to a place
+to collude | colluded, colluded | [LAW]
+","to do one's own cooking
+to blow one's own trumpet chiefly (Brit.)
+to blow one's own horn chiefly (Amer.)
+to sing one's own praises
+to toot one's own horn chiefly (Amer.)
+to self-isolate | self-isolated, self-isolated | also [MED.]
+to excel oneself
+to do one's own thing
+to self-destruct | self-destructed, self-destructed |
+to lower oneself
+to keep sth. for oneself
+to see for oneself
+to self-manage | self-managed, self-managed |
+to pay for itself
+","to assume | assumed, assumed |
+to assume that ...
+to satisfy so. that ... - convince
+to persuade so. that ...
+to refrain from doing sth.
+to put so. off (from) doing sth.
+to argue so. out of doing sth.
+to dissuade so. from doing sth.
+to stop so. from doing sth.
+to preclude so. from doing sth.
+to block so. from doing sth.
+to prevent so. from doing sth.
+to prevent one's doing sth.
+to put so. off doing sth.
+","to put a pin in sth.
+to hold off on sth.
+to put sth. ⇔ off
+to be late
+to be tardy
+to arrive late
+to take a rain check (or: raincheck) on sth. chiefly (Amer.) [fig.] [coll.]
+to run late
+to burn the midnight oil [fig.]
+to ask the time
+","to ration so. to one apple/one cigarette a day
+to ration so. to one apple/one cigarette a day
+to stand on the sidelines
+to arrange group tours only
+to be of little value
+to do no more than what is absolutely necessary
+to be hard pushed to do something
+to be cautious about doing sth.
+to have a short attention span
+to aestheticizeAE / estheticizeAE sth. to aestheticiseBE / aestheticizeBE sth. | aestheticized, aestheticized / estheticized, estheticized / aestheticised, aestheticised |
+to deal with only one subject
+to be reluctant to do sth.
+to be reluctant to do
+to get a glimpse of sth.
+","to nip down there (Brit.) [coll.]
+","to decrease | decreased, decreased |
+to downshift | downshifted, downshifted | [fig.]
+to manage with less
+to seek less frequented places
+to dress down
+to underachieve | underachieved, underachieved |
+to consist of at least three people
+to quaff sth. | quaffed, quaffed |
+","to surge | surged, surged |
+to plummet | plummeted, plummeted |
+to rain hard
+to reduce severely
+to strengthen | strengthened, strengthened |
+to proliferate | proliferated, proliferated |
+to invigorate so. | invigorated, invigorated |
+to strengthen so. | strengthened, strengthened |
+to slash sth. | slashed, slashed |
+to be a strain on so.
+to be a strain on so.
+to slash sth. | slashed, slashed | - price
+to take a toll on so./sth.
+to constrict sth. | constricted, constricted |
+","to keep sth. in mind
+to leave for good
+to reinforce | reinforced, reinforced |
+to reinforce | reinforced, reinforced |
+not to take no for an answer
+to be always striking attitudes
+to spiral downward (or: downwards)
+to be full of mischief
+to dun so. | dunned, dunned |
+to keep on doing sth.
+to bandy sth. about
+to be full of mischief
+to harp on about sth.
+to go from strength to strength
+to be always striking attitudes
+to pile on the pressure [coll.]
+to be still going strong
+","to come apart at the seams
+to psych or: psyche oneself up
+","to manage sth. | managed, managed |
+to shape | shaped, shaped |
+to dress | dressed, dressed |
+to finalizeAE to finaliseBE / finalizeBE | finalized, finalized / finalised, finalised |
+to blow full
+to form near net shape
+to be on the ropes
+to finalizeAE to finaliseBE / finalizeBE | finalized, finalized / finalised, finalised |
+to complete sth. | completed, completed |
+to finish sth. | finished, finished |
+to make sth. ⇔ up
+to get ready
+to finish sth. | finished, finished |
+to get through (with) sth.
 "
 verbs,german,"alt werden
 alt werden
@@ -680,6 +946,269 @@ ganz wach sein
 ganz vertieft sein
 ganz erschöpft sein
 ganz harmlos fragen
+","etwas doch nicht tun
+","etw.acc. perfekt beherrschen
+etw.acc. perfekt beherrschen
+etw.acc. perfekt beherrschen
+perfekt geplant sein
+einen Handel perfekt machen
+","gesund bleiben
+gesund werden
+gesund werden
+wieder gesund werden
+gesund und munter sein
+völlig gesund sein
+",None,"den ersten/zweiten Platz belegen
+an erster/dritter/... Stelle stehen
+zu den Ersten gehören
+erste Erfahrungen sammeln
+erste Erfahrungen sammeln
+zum ersten Mal auftreten
+den ersten Stein werfen
+den ersten Platz belegen
+den ersten Schritt tun
+den ersten Platz erringen
+den ersten Spatenstich machen
+zum ersten Mal gesendet werden
+die erste Lage auflegen
+als Erster aus den Startlöchern kommen
+","wirklich werden
+","etw.acc. gar nicht lustig finden
+etw.acc. gar nicht wissen wollen
+gar nichts tun
+ganz und gar begeistert von etw.dat. sein
+ganz und gar nicht glücklich sein [coll.] [fig.]
+","da sein
+da sein
+da sein
+da sein
+da sein
+da sein
+für jmdn. da sein
+wieder da sein
+nicht da sein
+hier und da einfügen
+nicht da sein
+wieder da sein, wo man angefangen hat
+","passen | passte, gepasst | - Kleidung, Schuhe
+jmdn./etw. (mit etw.dat.) ausstatten | stattete aus, ausgestattet |
+zusammenpassen | passte zusammen, zusammengepasst |
+anbauen | baute an, angebaut |
+anliegen | lag an, angelegen |
+etw.acc. einbauen | baute ein, eingebaut |
+etw.acc. einpassen | passte ein, eingepasst |
+etw.acc. einhängen | hängte ein, eingehängt | - ein Fenster
+etw.acc. einsetzen | setzte ein, eingesetzt |
+etw.acc. installieren | installierte, installiert |
+etw.acc. montieren | montierte, montiert |
+etw.acc. anbringen | brachte an, angebracht |
+etw.acc. aufstecken | steckte auf, aufgesteckt |
+etw.acc. angleichen | glich an, angeglichen |
+","sichacc. anders benehmen als sonst
+","froh sein
+froh sein können, jmdn./etw. los zu sein [coll.]
+","läuten | läutete, geläutet |
+toll aussehen
+toll aussehen
+toll aussehen
+toll aussehen
+toll aussehen
+seinen (or: ihren) Tribut fordern
+etw.nom. ist toll
+jmdn./etw. stark strapazieren
+Straßenzoll verlangen
+sichacc. wie toll gebärden
+eine tolle Zeit haben
+",None,"eben machen
+eben polarisieren [Optics]
+auf eine Ebene bringen
+auf eine niedrigere Ebene verlagern
+etw.acc. an nachgeordnete Ebenen weiterleiten
+","anders formulieren
+anders werden
+anders aussehen
+anders arrangieren
+anders sein (als etw.nom.)
+etw.acc. anders ausstatten
+sichacc. anders besinnen
+sichacc. anders besinnen
+etw.acc. anders darlegen
+sichacc. anders entschließen
+etw.acc. anders anpacken
+sichdat. etw.acc. anders überlegen
+jmdn. als anders betrachten
+sichacc. anders benehmen als sonst
+es sichdat. anders überlegen
+es sichdat. anders überlegen
+","unter ""ferner liefen"" kommen
+",None,"nochmal versuchen
+nochmal bestätigen
+nochmal durchdenken
+nochmal durchsehen
+nochmal nachfragen
+nochmal anfangen
+etw.acc. nochmal durchgehen
+etw.acc. nochmal überdenken
+etw.acc. nochmal brennen
+sichacc. nochmal rückversichern
+sichdat. etw.acc. nochmal durch den Kopf gehen lassen
+gerade nochmal davonkommen
+",None,"etw.acc. gerne tun
+etw.acc. gerne tun
+etw.acc. gerne tun
+etw.acc. gerne tun
+jmdn./etw. gerne haben
+gerne etw.acc. tun
+gerne naschen
+etw.acc. gern tun
+etw.acc. gern tun
+etw.acc. gern mögen
+jmdn./etw. gern mögen
+jmd. möchte gern ...
+etw.acc. gerne tun können
+gerne mit etw.dat. einverstanden sein
+","etw.acc. selber herausfinden
+sichdat. etw.acc. selber einbrocken
+etw.acc. von Grund auf selber machen
+",,"damit rechnen (, dass ...)
+damit rechnen
+sichacc. damit abfinden
+sichacc. damit brüsten, dass ...
+sichacc. damit beschäftigen, etw.acc. zu tun
+sichacc. damit zufriedengeben, etw.acc. zu tun
+sichacc. damit zufriedengeben, etw.acc. zu tun
+damit rechnen, etw.acc. zu tun
+sichacc. damit abfinden, etw.acc. zu tun
+damit beschäftigt sein, etw.acc. zu tun
+sichacc. damit belustigen, etw.acc. zu tun
+Punkte verbinden, damit ein Bild entsteht
+",,"gefährlich sein
+etw. gefährlich nahe kommen - Gefahr, Tod
+","von jmdm./etw. abhängig sein
+abhängig sein
+abhängig sein [Statistics]
+von jmdm./etw. abhängig sein
+von jmdm./etw. abhängig sein
+von etw.dat. abhängig sein
+etw.acc. von etw.dat. abhängig machen
+von etw.dat. abhängig werden
+von etw.dat. abhängig sein
+von strengen Vorschriften abhängig sein
+","heimlich agieren
+sichacc. heimlich davonmachen
+sichacc. heimlich verdrücken [coll.]
+sichacc. heimlich verdrücken [coll.]
+jmdn. heimlich um die Ecke bringen
+heimlich an einen Ort reisen
+in heimlichem Einverständnis handeln
+","selbst kochen
+sichacc. selbst loben
+sichacc. selbst loben
+sichacc. selbst loben
+sichacc. selbst loben
+sichacc. selbst isolieren
+sichacc. selbst übertreffen
+sichacc. selbst verwirklichen
+sichacc. selbst zerstören
+sichacc. selbst herabsetzen
+etw.acc. selbst behalten
+sichacc. selbst überzeugen
+sichacc. selbst verwalten
+sichacc. selbst tragen
+","davon ausgehen, dass
+davon ausgehen, dass ...
+jmdn. davon überzeugen, dass ...
+jmdn. davon überzeugen, dass ...
+davon Abstand nehmen, etw.acc. zu tun
+jmdn. davon abbringen, etw.acc. zu tun
+jmdn. davon abbringen, etw.acc. zu tun
+jmdn. davon abbringen, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+jmdn. davon abhalten, etw.acc. zu tun
+","später auf etw.acc. zurückkommen
+etw.acc. auf später verschieben
+etw.acc. auf später verschieben
+zu spät kommen
+zu spät kommen
+zu spät kommen
+auf etw.acc. später wieder zurückkommen
+zu spät dran sein
+bis spät in die Nacht arbeiten
+fragen, wie spät es ist
+","jmdm. nur einen Apfel/eine Zigarette pro Tag zuteilen
+jmdm. nur einen Apfel/eine Zigarette pro Tag erlauben
+nur stumm zuschauen
+nur Gruppenreisen organisieren
+nur wenig wert sein
+nur das Nötigste machen
+nur schwer etw.acc. tun können
+etw.acc. nur zögernd tun
+sichacc. nur kurz konzentrieren können
+etw.acc. nur künstlerisch betrachten
+nur ein Thema behandeln
+etw.acc. nur widerstrebend tun
+etw.acc. nur widerwillig tun
+etw.acc. nur flüchtig zu sehen bekommen
+","kurz dort vorbeischauen
+","weniger werden | wurde, geworden/worden |
+weniger arbeiten | arbeitete, gearbeitet |
+mit weniger auskommen | kam aus, ausgekommen |
+weniger besuchte Orte suchen
+sichacc. weniger formell kleiden
+weniger leisten als erwartet
+aus wenigstens drei Personen bestehen
+etw.acc. mit wenigen Schlucken leeren
+","stark ansteigen
+stark fallen
+stark regnen
+stark reduzieren
+stark werden
+sichacc. stark vermehren
+jmdn. stark machen or: starkmachen
+jmdn. stark machen or: starkmachen
+etw.acc. stark kürzen
+jmdn. stark beanspruchen
+jmdn. stark belasten
+etw.acc. stark reduzieren
+jmdn./etw. stark strapazieren
+etw.acc. stark einschränken
+","immer an etw.acc. denken
+für immer weggehen
+immer wieder deutlich machen
+immer wieder klar machen
+immer seinen Willen durchsetzen
+immer geziert sein
+immer schlechter werden
+immer Unsinn im Sinn haben
+jmdn. immer wieder mahnen
+etw.acc. immer wieder tun
+etw.acc. immer wieder nennen
+immer Unfug im Kopf haben
+immer wieder von etw.dat. reden
+sichacc. immer stärker und besser entwickeln
+sichacc. immer in Pose werfen
+immer mehr Druck ausüben
+noch immer erfolgreich sein
+","psychisch zusammenbrechen
+sichacc. psychisch auf etw.acc. vorbereiten
+","etw.acc. fertigbringen or: fertig bringen | brachte fertig, fertiggebracht |
+fertig bearbeiten
+fertigmachen or: fertig machen | machte fertig, fertiggemacht |
+fertigmachen or: fertig machen | machte fertig, fertiggemacht |
+fertig blasen
+fertig pressen
+fertig sein
+fertigstellen or: fertig stellen | stellte fertig, fertiggestellt |
+etw.acc. fertigstellen or: fertig stellen | stellte fertig, fertiggestellt |
+etw.acc. fertigstellen or: fertig stellen | stellte fertig, fertiggestellt |
+etw.acc. fertigstellen or: fertig stellen | stellte fertig, fertiggestellt |
+sichacc. fertigmachen or: fertig machen | machte fertig, fertiggemacht |
+etw.acc. fertigbekommen or: fertig bekommen | bekam fertig, fertigbekommen |
+etw.acc. fertigbekommen or: fertig bekommen | bekam fertig, fertigbekommen |
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -1024,6 +1553,285 @@ rover ticket
 ring of Gaussian integers [MATH.]
 theory of aggregate production [ECON.]
 closed-die forming [TECH.]
+",None,"present perfect [LING.]
+perfect [LING.]
+perfect tense [LING.]
+past participle [LING.]
+perfect timing
+perfect timing
+perfect complements [ECON.]
+perfect efficiency [ECON.]
+perfect multicollinearity [ECON.]
+perfect foresight [ECON.]
+perfect competition
+frictionless liquid [PHYS.]
+ideal liquid [PHYS.]
+inviscid liquid [PHYS.]
+","common sense
+horse sense
+sanity and reason
+good judgement
+fair competition
+wholesome meal
+salutary products
+sanity
+sanity and reason
+horse sense (or: horse-sense) [coll.]
+savvy [coll.]
+sound money [FINAN.]
+clear coast - a coast free from cliffs and rocks [GEOL.]
+sound currency [FINAN.]
+",None,"first/second/third/... instar [ZOOL.]
+groundbreaking (Amer.)
+groundbreakingAE ceremonyground-breakingBE ceremony
+first payment
+World War I [abbr.: WWI]
+antecedent
+dress circle
+maid of honor (Amer.)
+first issue
+first harmonic
+fundamental component
+fundamental oscillation
+fundamental wave
+choice quality
+","real value
+actual traffic
+real income
+actual facts pl.
+actual position
+real cause
+real idiot
+real facts
+actual loss
+real life
+market value [COMM.]
+effective grain size [GEOL.]
+actual displacement [TECH.]
+actual output [ELEC.]
+","gar [ZOOL.]
+bubkes or: bupkes, bupkis, bupkus [coll.] Yiddish
+sparsely populated or uninhabited areas pl.
+","the top brass
+autos-da-fé pl.
+auto-da-fé [HIST.]
+auto-da-fé [HIST.]
+""Who are you"" signal [TELECOM.]
+""Who are you"" signal function [TELECOM.]
+WRU signal [TELECOM.]
+alto viol [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da braccio [MUS.][HIST.]
+bass viol [MUS.][HIST.]
+","fit
+fit
+fit
+fit
+fit
+fit [TECH.]
+fitted values
+fit bolt [TECH.]
+fit bolt [TECH.]
+fit size [TECH.]
+fit tolerance [TECH.]
+fit tolerance [TECH.]
+fit problem
+fit bearing [TECH.]
+",None,None,"toll
+toll
+toll
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [FINAN.]
+toll [TELECOM.]
+toll
+toll
+",None,"planar graph
+plane angle
+deflection / rarely: deflexionBE
+plane figure
+surface bearing
+levels and functions
+plane geometry [MATH.]
+geometry of two dimensions [MATH.]
+planimetry [MATH.]
+plat [METR.]
+plane wave [TECH.]
+planar reflector [TECH.]
+plane strain [ENGIN.]
+flat head [TECH.]
+","oil disposed of at arm's length [COMM.]
+","also-ran
+also-ran
+also-ran
+also-ran
+",None,"revised text
+",None,"stomping (or: stamping) ground
+",,,"the risk involved
+","cannabis [BOT.]
+cannabis [BOT.]
+cannabis [BOT.]
+hemp [BOT.]
+hemp [BOT.][TEXTIL.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+cannabis product
+Indian hemp [BOT.]
+hemp [BOT.]
+ditch weed [BOT.]
+wild hemp [BOT.]
+","hazardous waste
+dangerous goods pl.
+hazardous goods
+hazardous substances
+high-risk material [abbr.: HRM]
+hazardous materials
+dangerous cargo
+dangerous cargo
+hazardous occupation
+hazardous substance
+hazardous atmosphere
+hazardous occupation
+hazardous energy
+dangerous current
+","employee
+employees pl. [COMM.]
+dependent company
+dependent employment
+dependent working population
+dependent relationship
+appanage or: apanage
+contingent assets pl.
+contingent profit
+dependent variable [MATH.]
+slave operation [TECH.]
+dependent undertaking [COMM.]
+controlled enterprise [COMM.]
+dependent manual operation - of a mechanical switching device [ELEC.]
+","Heimlich maneuverAE [MED.]Heimlich manoeuvreBE [MED.]
+Heimlich maneuverAE [MED.]Heimlich manoeuvreBE [MED.]
+abdominal thrust [MED.]
+guilty pleasure
+clandestine diversion
+mistress relationship
+sneaking inclination
+clandestine dealings pl.
+undercover payment
+sneaking suspicion
+collusion [LAW]
+collusive oligopoly [COMM.]
+backdoor listing [FINAN.]
+","self
+embodied self
+self-display
+auto self-excitation valve [TECH.]
+concoction
+self-recorded CD
+home-baked bread
+self-fulfilling equilibrium
+self-reinforcing downward spiral
+recursive process
+recursive procedure [COMP.]
+self-neglect
+self-abhorrence
+self-absorption
+","certified copies thereof
+","late closing
+red bartsia [BOT.]
+hindsight
+late check-out
+late majority
+latest start
+delayed gratification
+late finish
+Indian summer [fig.] (Brit.)
+Snowdon lily [BOT.]
+alp lily [BOT.]
+alpine lily [BOT.]
+common alplily [BOT.]
+late Neolithic [HIST.]
+","frenemy
+read-only store [TELECOM.]
+night blindness [MED.]
+negative-only variation [TECH.]
+positive-only variation [TECH.]
+contemptuous damages (Brit.) [LAW]
+union shop
+timepiece
+single-parent families
+need-to-know principle
+sth. will only make matters worse
+incoming only terminal [TELECOM.]
+outgoing only terminal [TELECOM.]
+single-entry sublevelAE caving [TECH.]single-entry sub-levelBE caving [TECH.]
+",,"less traveledAE roadless travelledBE road
+air freight with less urgency
+less common version
+less-developed country [abbr.: LDC] [ECON.]
+less mobile heavy metals [ENV.]
+suborbital space flight [AVIAT.]
+least developed countries
+lignite [MIN.]
+","to decimate sth.
+to decimate sth.
+proliferation
+brogue
+strong point
+strong breeze
+high wind
+drain
+proliferation
+strongman
+deluge
+downfall - of rain
+downpour
+vortex - pl.: vortices, vortexes also [PHYS.]
+","cobble [ZOOL.]
+great northern diver [ZOOL.]
+common diver (Brit.) [ZOOL.]
+common loon (Amer.) [ZOOL.]
+on-again, off-again friend
+perpetual neutrality
+first time every time
+","mental health
+psychic trauma
+psychic effect
+psychological stress
+mental stress
+psychological strain
+mental torture
+mental-health problem
+emotional integrity [PSYCH.]
+mental integrity [PSYCH.]
+psychological integrity [PSYCH.]
+mental health
+mental disorder
+mental-health charity
+","done and dusted
+precast reinforced concrete ground beam [TECH.]
+precast reinforced concrete ground beam [TECH.]
+finished goods
+finished products [COMM.]
+deliverables pl. [COMM.]
+ready-mix [CONSTR.][TECH.] - sampling
+completed bend [TECH.]
+finished arch [CONSTR.]
+finished product [COMM.]
+finished drawing
+proprietary prepared salts [CHEM.][TECH.]
+goods in process [COMM.]
+semifinishedAE goods [COMM.]semi-finishedBE goods [COMM.]
+semifinishedAE product [COMM.]semi-finishedBE product [COMM.]
+stocks of products and production work in progress [COMM.]
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -1368,6 +2176,285 @@ Fahrkarte für den ganzen Bezirk
 Ring ganzer Gaußscher (or: Gauß'scher) Zahlen
 Theorie der Produktion als Ganzes - Keynes
 Gesenkformen mit ganz umschlossenem Werkstück
+",None,"das Perfekt pl.
+das Perfekt pl. [Grammar]
+das Perfekt pl. [Grammar]
+das Partizip Perfekt [Grammar]
+perfekte Zeiteinteilung
+perfektes Timing
+perfekte Komplemente
+perfekte Effizienz
+perfekte Multikollinearität
+perfekte Voraussicht
+perfekter Wettbewerb
+perfekte Flüssigkeit
+perfekte Flüssigkeit
+perfekte Flüssigkeit
+","gesunder Menschenverstand
+gesunder Menschenverstand
+gesunder Menschenverstand
+gesunder Menschenverstand
+gesunder Wettbewerb
+gesunde Mahlzeit
+gesunde Produkte
+gesunder Verstand
+gesunder Verstand
+gesunder Menschenverstand
+gesunder Menschenverstand
+gesundes Geld
+gesunde Küste
+gesunde Währung
+",None,"erstes/zweites/drittes/... Larvenstadium
+erster Spatenstich
+erster Spatenstich
+erste Zahlung
+Erster Weltkrieg
+erstes Glied
+erster Rang - Theater
+erste Brautjungfer
+erste Emission
+erste Harmonische
+erste Harmonische
+erste Harmonische
+erste Harmonische
+erste Qualität
+","wirklicher Wert
+wirklicher Verkehr
+wirkliches Einkommen
+wirkliche Gegebenheiten pl.
+wirkliche Lage
+wirklicher Anlass
+wirklicher Idiot
+wirklicher Sachverhalt
+wirklicher Verlust
+das wirkliche Leben pl.
+wirklicher Wert
+wirkliche Korngröße
+wirkliche Fördermenge
+wirkliche Leistung
+","die Knochenhechte pl. Lat.: Lepisosteidae
+gar nichts
+dünn oder gar nicht besiedelte Gebiete pl.
+","die da oben [coll.]
+die Ketzerverbrennungen pl. - Inquisition
+das Autodafé pl.: die Autodafés - Ketzerverbrennung
+die Ketzerverbrennung pl.: die Ketzerverbrennungen - Inquisition
+das Wer-da-Signal
+das Wer-da-Signal
+das Wer-da-Signal
+Viola da Braccio - italienisch - frühere Form der Streichinstrumente
+die Gambe pl.: die Gamben - Vorläuferin des Cellos; auch Orgelregister
+die Kniegeige pl.: die Kniegeigen - Vorläuferin des Cellos; auch Orgelregister
+die Viola da Gamba - italienisch - Vorläuferin des Cellos; auch Orgelregister
+die Viola da Braccio - italienisch - Vorläuferin der Bratsche
+die Viola da Gamba - italienisch - frühere Form der Streichinstrumente
+","der Sitz pl.: die Sitze - Kleidungsstück
+der Anfall pl.: die Anfälle
+die Passform pl.: die Passformen
+die Übereinstimmung pl.: die Übereinstimmungen
+die Anpassung pl.: die Anpassungen [Statistics]
+die Passung pl.: die Passungen
+der Fit [Statistics]
+die Passschraube pl.: die Passschrauben
+der Passbolzen pl.: die Passbolzen
+das Passmaß pl.: die Passmaße
+die Passtoleranz pl.
+die Passungstoleranz pl.
+das Passungsproblem pl.: die Passungsprobleme [Statistics]
+das Passlager pl.: die Passlager
+",None,None,"das Läuten no plural
+die Verlustziffer pl.: die Verlustziffern
+der Tribut pl.: die Tribute
+die Maut pl.: die Mauten
+die Mautgebühr pl.: die Mautgebühren
+die Straßenbenutzungsgebühr pl.: die Straßenbenutzungsgebühren
+die Abgabe pl.: die Abgaben
+die Autobahngebühr pl.: die Autobahngebühren
+der Zoll pl.: die Zölle
+die Gebühr pl.: die Gebühren
+die Zollabgabe pl.: die Zollabgaben
+die Fernsprechgebühr pl.: die Fernsprechgebühren
+das Wegegeld pl.: die Wegegelder obsolete
+der Straßenzoll pl.: die Straßenzölle
+",None,"ebener Graph (or: Graf)
+ebener Winkel
+ebene Krümmung
+ebene Figur
+ebenes Lager
+Ebenen und Funktionsbereiche
+ebene Geometrie
+ebene Geometrie
+ebene Geometrie
+ebene Karte [Metrology]
+ebene Welle
+ebener Reflektor
+ebener Verformungszustand
+ebener Boden
+","anders als im Drittvergleich veräußertes Öl
+","der Verlierer | die Verliererin pl.: die Verlierer, die Verliererinnen
+der Versager | die Versagerin pl.: die Versager, die Versagerinnen
+der Schlechtplatzierte | die Schlechtplatzierte pl.: die Schlechtplatzierten
+die Niete pl.: die Nieten
+",None,"nochmal durchgesehener und verbesserter Text
+",None,"gerne aufgesuchter Ort
+",,,"die damit verbundenen Risiken pl.
+","der Cannabis no plural
+der Hanf no plural
+das (or: der) Haschisch no plural
+der Cannabis no plural
+der Hanf pl. Lat.: Cannabis sativa
+der Ruderalhanf pl. Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Ruderalhanf pl. Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Wild-Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+der Wild-Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+das Cannabisprodukt pl.: die Cannabisprodukte
+Indischer Hanf Lat.: Cannabis indica, Cannabis sativa subsp. indica
+Indischer Hanf Lat.: Cannabis indica, Cannabis sativa subsp. indica
+Wilder Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+Wilder Hanf Lat.: Cannabis ruderalis, Cannabis sativa subsp. spontanea
+","gefährlicher Abfall
+gefährliche Güter pl.
+gefährliche Güter
+gefährliche Stoffe
+gefährliche Stoffe
+gefährliche Stoffe
+gefährliche Ladung
+gefährliche Fracht
+gefährlicher Beruf
+gefährlicher Stoff
+gefährliche Atmosphäre
+gefährliche Beschäftigung
+gefährliche Energie
+gefährliche Strömung
+","abhängig Erwerbstätiger
+abhängig Beschäftigte pl.
+abhängiges Unternehmen
+abhängige Beschäftigung
+abhängige Erwerbspersonen
+abhängige Beziehung
+abhängiges Gebiet
+abhängige Bestände pl.
+abhängiger Gewinn
+abhängige Variable
+abhängiger Betrieb
+abhängiges Unternehmen
+abhängiges Unternehmen
+abhängige Handbetätigung - eines mechanischen Schaltgerätes
+","der Heimlich-Handgriff
+der Heimlich-Griff
+der Heimlich-Griff
+heimliches Vergnügen
+heimliche Entwendung
+heimliche Liebesbeziehung
+heimliche Neigung
+heimliche Geschäfte pl.
+heimliche Zahlung
+heimlicher Verdacht
+heimliche Verständigung
+heimliches Oligopol
+heimliche Notierung
+","das Selbst no plural
+verkörpertes Selbst
+das Sich-selbst-Zurschaustellen
+der Selbst-Sättigungsgleichrichter
+selbst erfundenes Gericht
+selbst gebrannte CD
+selbstgebackenes (or: selbst gebackenes) Brot
+sich selbst erfüllendes Gleichgewicht
+sich selbst verstärkende Abwärtsspirale
+sich selbst aufrufender Arbeitsgang
+sich selbst aufrufende Prozedur
+Vernachlässigung seiner selbst
+Abscheu vor sich selbst
+Versenkung in sich selbst
+","beglaubigte Abschriften davon
+","später Ladenschluss
+Später Zahntrost Lat.: Odontites vulgaris
+späte Einsicht
+spätes Auschecken
+späte Mehrheit
+spätester Beginn
+späte Genugtuung
+spätes Ende
+späte Blüte
+Späte Faltenlilie Lat.: Lloydia serotina, Gagea serotina
+Späte Faltenlilie Lat.: Lloydia serotina, Gagea serotina
+Späte Faltenlilie Lat.: Lloydia serotina, Gagea serotina
+Späte Faltenlilie Lat.: Lloydia serotina, Gagea serotina
+späte Jungsteinzeit [Archeology]
+","jmd. der nur vorgibt
+der Nur-Lese-Speicher pl.: die Nur-Lese-Speicher
+die Nur-Tagessichtigkeit
+die Nur-Minus-Abweichung
+die Nur-Plus-Abweichung
+nur symbolischer Schadenersatz (or: Schadensersatz)
+Unternehmen nur mit Gewerkschaftsangehörigen
+Uhr nur mit Zeitanzeige
+Familien mit nur einem Elternteil
+Kenntnis nur, wenn nötig
+etw.nom. macht die Sache nur schlimmer
+Endstelle, nur ankommend
+Endstelle, nur gehend
+Abzugbau mit nur einer Abbaustrecke [Mining]
+",,"weniger befahrene Straße
+weniger dringliche Luftfracht
+weniger gebräuchliche Variante
+weniger entwickeltes Land
+weniger mobile Schwermetalle
+Raumflug von weniger als einer Erdumkreisung
+am wenigsten entwickelte Länder
+Lignit mit weniger als 8300 BTU
+","etw.acc. stark schwächen
+etw.acc. stark verringern
+starke Vermehrung
+starker Akzent - besonders irisch oder schottisch
+starke Seite
+starker Wind
+starker Wind
+starke Inanspruchnahme
+starke Zunahme
+starker Mann
+starker Regen
+starker Regen
+starker Regen
+starker Wirbel
+","der Eistaucher pl. Lat.: Gavia immer [Ornithology]
+der Eistaucher pl. Lat.: Gavia immer [Ornithology]
+der Eistaucher pl. Lat.: Gavia immer [Ornithology]
+der Eistaucher pl. Lat.: Gavia immer [Ornithology]
+der der Immer-mal-wieder-Freund | die Immer-mal-wieder-Freundin
+immerwährende (or: immer währende) Neutralität
+immer gleich beim ersten Versuch
+","psychische Gesundheit
+psychisches Trauma
+psychische Wirkung
+psychische Belastung
+psychische Belastung
+psychische Belastung
+psychische Qual
+psychische Störung
+psychische Gesundheit
+psychische Gesundheit
+psychische Gesundheit
+psychische Verfassung
+mental-psychische Störung
+gemeinnützige Organisation für psychisch Kranke
+","fertig
+der Fertig-Beton-Grundbalken
+der Fertig-Grundbalken
+fertige Erzeugnisse
+fertige Erzeugnisse
+fertige Ergebnisse pl.
+fertiges Mischgut
+fertiger Rohrbogen - nach dem Biegen
+fertiges Gewölbe [Concrete Formwork]
+fertiges Produkt
+fertige Zeichnung
+fertig gemischte Salze
+halbfertige (or: halb fertige) Erzeugnisse
+halbfertige (or: halb fertige) Erzeugnisse
+halbfertiges (or: halb fertiges) Produkt
+Vorrat an fertigen und unfertigen Erzeugnissen
 "
 noun_details,english,"article: Der
 word: Alt
@@ -1591,7 +2678,7 @@ genus: FEMI
 plural: [coll.]
 meaning: the top brass
 autos-da-fé pl.
-",,"article: Der
+",None,"article: Der
 word: Halt
 genus: MASC
 plural: Halte / Halts
@@ -1609,8 +2696,170 @@ genus:
 plural: Werktag
 meaning: clear working day
 double pointed dart [TEXTIL.]
+",None,"article: Das
+word: Perfekt
+genus: NEUT
+plural: Perfekte
+meaning: present perfect [LING.]
+perfect [LING.]
+","article: gesunder
+word: Menschenverstand
+genus: 
+plural: Menschenverstand
+meaning: common sense
+horse sense
+",None,"article: erstes/zweites/drittes/...
+word: Larvenstadium
+genus: 
+plural: Larvenstadium
+meaning: first/second/third/... instar [ZOOL.]
+groundbreaking (Amer.)
+","article: wirklicher
+word: Wert
+genus: 
+plural: Wert
+meaning: real value
+actual traffic
+","article: die
+word: Knochenhechte
+genus: FEMI
+plural: Lat.: Lepisosteidae
+meaning: gar [ZOOL.]
+bubkes or: bupkes, bupkis, bupkus [coll.] Yiddish
+","article: die
+word: da
+genus: FEMI
+plural: [coll.]
+meaning: the top brass
+autos-da-fé pl.
+","article: der
+word: Sitz
+genus: MASC
+plural: die Sitze - Kleidungsstück
+meaning: fit
+fit
+",None,None,"article: das
+word: Läuten
+genus: NEUT
+plural: plural
+meaning: toll
+toll
+",None,"article: ebener
+word: Graph
+genus: 
+plural: Graf)
+meaning: planar graph
+plane angle
+","article: anders
+word: als
+genus: 
+plural: Öl
+meaning: oil disposed of at arm's length [COMM.]
+
+","article: der
+word: Verlierer
+genus: MASC
+plural: die Verlierer, die Verliererinnen
+meaning: also-ran
+also-ran
+",None,"article: nochmal
+word: durchgesehener
+genus: 
+plural: Text
+meaning: revised text
+
+",None,"article: gerne
+word: aufgesuchter
+genus: 
+plural: Ort
+meaning: stomping (or: stamping) ground
+
+",,,"article: die
+word: damit
+genus: FEMI
+plural: 
+meaning: the risk involved
+
+","article: der
+word: Cannabis
+genus: MASC
+plural: plural
+meaning: cannabis [BOT.]
+cannabis [BOT.]
+","article: gefährlicher
+word: Abfall
+genus: 
+plural: Abfall
+meaning: hazardous waste
+dangerous goods pl.
+","article: abhängig
+word: Erwerbstätiger
+genus: 
+plural: Erwerbstätiger
+meaning: employee
+employees pl. [COMM.]
+","article: der
+word: Heimlich-Handgriff
+genus: MASC
+plural: Heimlich-Handgriff
+meaning: Heimlich maneuverAE [MED.]Heimlich manoeuvreBE [MED.]
+Heimlich maneuverAE [MED.]Heimlich manoeuvreBE [MED.]
+","article: Das
+word: Selbst
+genus: NEUT
+plural: plural
+meaning: self
+embodied self
+","article: beglaubigte
+word: Abschriften
+genus: 
+plural: davon
+meaning: certified copies thereof
+
+","article: später
+word: Ladenschluss
+genus: 
+plural: Ladenschluss
+meaning: late closing
+red bartsia [BOT.]
+","article: jmd.
+word: der
+genus: 
+plural: vorgibt
+meaning: frenemy
+read-only store [TELECOM.]
+",,"article: weniger
+word: befahrene
+genus: 
+plural: Straße
+meaning: less traveledAE roadless travelledBE road
+air freight with less urgency
+","article: etw.acc.
+word: stark
+genus: 
+plural: schwächen
+meaning: to decimate sth.
+to decimate sth.
+","article: der
+word: Eistaucher
+genus: MASC
+plural: Lat.: Gavia immer [Ornithology]
+meaning: cobble [ZOOL.]
+great northern diver [ZOOL.]
+","article: psychische
+word: Gesundheit
+genus: 
+plural: Gesundheit
+meaning: mental health
+psychic trauma
+","article: 
+word: 
+genus: 
+plural: 
+meaning: done and dusted
+precast reinforced concrete ground beam [TECH.]
 "
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,
+noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -2185,6 +3434,375 @@ complete adj.
 fairly adv.
 throughout adv.
 unmitigated adj.
+","still adv.
+after all
+after all
+","perfectly adv.
+ideal adj.
+perfect adj.
+consummate adj.
+consummately adv.
+immaculate adj.
+","well adj.
+healthy adj.
+sound adj.
+fit adj.
+wholesome adj.
+salubrious adj. - healthy
+bearing adj.
+firm - firmer, firmest adj.
+healthful adj.
+salutary adj.
+salubriously adv.
+salutarily adv.
+wholesomely adv.
+hale - of an old person adj.
+","hopefully adv.
+","first adv.
+prime adj.
+principal adj.
+only adv.
+primal adj.
+not until
+as recently as
+not before
+erst adv. archaic
+first adj.
+lead adj. - used before noun
+leadoff adj.
+first of all
+for now
+","really adv.
+actual adj.
+actually adv.
+real adj.
+substantial adj.
+truly adv.
+absolutely adv.
+virtual adj.
+effective adj.
+objective adj.
+indeed adv.
+genuine adj.
+factual adj.
+on the level
+","cooked adj.
+done adj.
+whatever adv.
+even adv.
+not a dreg
+precisely nothing
+not at all
+no reason/evidence whatever
+undercooked adj.
+underdone adj.
+underdone adj.
+altogether adv.
+throughout adv.
+outright adj.
+","there adv.
+here adv.
+given that
+over there
+down there
+out there
+up there
+ahead adv.
+thereabouts adv.
+here and there
+da capo adv. [MUS.]
+just then
+not in
+missing adj.
+","fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj.
+fit adj. (Brit.) - of a person
+","else adv.
+otherwise adv.
+or else
+or
+elsewise adv. rare
+else adv.
+otherwise without engagement
+elsewhere adv.
+alias adv.
+","glad - of, at, about adj.
+pleased adj.
+happy adj.
+blithe adj.
+bright adj.
+cheery adj.
+merry adj.
+gruntled (at sth.) [hum.] adj.
+","great adj. adv. [coll.]
+amazing adj.
+awesome adj. (Amer.) [coll.] - extremely good
+brill adj. (Brit.)
+stunning adj.
+bodacious adj.
+far-out adj.
+groovy adj.
+kick-ass adj. (Amer.)
+mad adj.
+screaming adj.
+fancy adj.
+gorgeous adj.
+yummy adj.
+","sometimes adv.
+sometime adv. archaic
+betimes adv.
+at times
+","flat adj.
+smooth adj.
+level adj.
+just adv.
+even adj.
+just now
+plane adj. [MATH.]
+planar adj.
+flush adj.
+plain - flat, smooth adj.
+flush with adj.
+two-dimensional [abbr.: 2D] adj. [MATH.]
+just now
+plane-polarizedAE adj. [PHYS.]plane-polarisedBE / plane-polarizedBE adj. [PHYS.]
+","different adj.
+else adv.
+diverse adj.
+other (than) adv.
+differently adv.
+in a different way from
+elsewise adv. rare
+otherwise adj. [form.] dated - predicative use
+in other words
+different-minded adj.
+dissenting adj.
+differently minded
+different adj.
+","also adv.
+also adv.
+so adv.
+thus adv.
+also adv.
+also adv.
+also adv.
+also adv.
+like adv. [coll.]
+also known as [abbr.: a.k.a., AKA, aka]
+also known as [abbr.: a.k.a., AKA, aka]
+after all
+also managed
+also changed
+","the day after tomorrow
+","again adv.
+over again
+","perhaps adv.
+maybe adv.
+possibly adv.
+happen adv. (Brit.) - northern English dialect
+peradventure adv. archaic also [hum.]
+by any chance
+perchance adv. [LIT.]
+mayhap adv. archaic
+belike adv. archaic
+haply adv. obsolete
+","willingly adv.
+gladly adv.
+with good grace
+lief adv. archaic
+fain adv. archaic
+",,"anyway adv.
+nonetheless adv.
+nevertheless adv.
+however adv.
+regardless adv.
+still adv.
+yet adv. - despite that
+anyhow adv.
+even so - despite that, nevertheless
+just the same
+all the same
+but for all that
+maugre adv. archaic
+","thereby adv.
+therewith adv. archaic also [form.]
+for this reason
+with it
+",,"dangerous adj.
+risky adj.
+hazardous adj.
+perilous adj.
+wicked - dangerous adj.
+perilously adv.
+pestilent adj.
+unsafe adj.
+precarious adj.
+rum adj. chiefly (Brit.) [sl.]
+obviously dangerous
+unreasonably dangerous
+unreasonably hazardous
+unreasonably dangerous
+unreasonably hazardous
+","dependent adj. also [MED.]
+tributary adj.
+addicted adj.
+contingent (on) adj.
+conditional (on (or: upon) sth.) adj.
+oblique adj. [LING.]
+conditioned adj. [MED.]
+constrained adj. [MED.]
+controlled (by) adj. [MED.]
+regulated (by) adj. [MED.]
+inclining adj.
+sloping adj. [GEOL.]
+as a function of
+addictive adj.
+","clandestine adj.
+ulterior adj.
+clandestinely adv.
+furtive adj.
+secret adj.
+stealthily adv.
+stealthy adj.
+surreptitious adj.
+auricularly adv.
+covert adj.
+lurking adj.
+thievishly adv.
+under-the-counter adj.
+underhand adj. adv.
+","even adv.
+in person
+homemade adj.
+self-proclaimed adj.
+self-styled adj.
+self-appointed adj.
+self-constituted adj.
+self-inflicted adj.
+self-imposed adj.
+self-propagating adj.
+home-brewed adj.
+self-inflicted adj.
+self-deprecating or: self-depreciating adj.
+self-contradictory adj.
+","off adv.
+thereof adv.
+therefrom adv.
+apart from that
+thereof remarks [FINAN.]
+as a consequence of this adv.
+as a result
+","later adj. adv.
+late adv.
+subsequent adj.
+after adv.
+afterwardAE / afterwardsAE adv.afterwardsBE adv.
+posterior adj.
+at a later date
+later on
+thereinafter adv.
+further along the line - at a later stage [coll.]
+further down the line - at a later stage [coll.]
+after adj. [poet.]
+late adj. adv.
+tardy adj. - late
+","only adv. conj.
+merely adv.
+simply adv.
+a mere ...
+just - only adv.
+but adv. conj.
+singly adv.
+only if
+once only
+at rare intervals
+reluctantly adv.
+of a temporary nature only
+for deposit only
+only if
+","there adv.
+thereabouts adv.
+yonder adv.
+over there
+out there
+up there
+here and there
+here and there
+thence adv. rare
+","less adj. pron.
+fewer (of) adj. pron.
+to a lesser extent
+short adj.
+under adv.
+little - less, least adj.
+scant adj.
+a bit
+a wee bit chiefly (Scot.)
+least adj.
+least adv.
+at any rate
+fewest adj.
+fewest adj.
+","strong adj.
+big adj.
+powerful adj.
+violent - blow, storm adj.
+intense adj.
+tight adj.
+heavy adj.
+awesome adj. (Amer.) [coll.] - extremely good
+stout adj.
+thick adj.
+brawny adj.
+keen adj. - intense
+potent adj.
+severe adj.
+","always adv.
+forever adv.
+ever adv.
+at all times
+invariably adv.
+perennially adv.
+still adv.
+foreverAE adv.foreverBE / for everBE adv.
+consistently adv.
+whenever adv.
+wherever adv.
+wherever adv.
+everlasting adj.
+perpetual adj.
+","mental adj.
+psychic rarely: psychical adj.
+mentally
+mentally ill
+psychogenic adj.
+mentally disordered
+mentally healthy [PSYCH.]
+","ready adj.
+finished adj.
+through adj.
+complete adj.
+ready-to-use adj.
+completed adj.
+deadbeat adj.
+completed adj.
+ready-made adj.
+finished adj.
+turnkey adj.
+ready for dispatch (or: despatch)
+fully machined [ENGIN.]
+half done
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -2760,6 +4378,375 @@ ganz
 ganz
 ganz
 ganz
+","doch
+doch
+also doch
+","perfekt
+perfekt
+perfekt
+perfekt
+perfekt
+perfekt
+","gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+gesund
+","hoffentlich
+","erst
+erst
+erst
+erst
+erst
+erst adv.
+erst adv.
+erst wenn
+weiland archaic
+als Erster | Erste | Erstes
+erster | erste | erstes
+erster | erste | erstes
+erstens
+fürs Erste
+","wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+","gar
+gar
+gar
+gar
+gar nichts
+gar nichts
+gar nicht
+gar keinen Grund/Beweis
+nicht gar
+nicht gar
+halbgar or: halb gar
+ganz und gar
+ganz und gar
+ganz und gar
+","da
+da
+da
+da drüben
+da unten
+da draußen
+da oben
+da vorne
+da herum
+da und dort
+da capo
+gerade da
+nicht da
+nicht da
+","fit
+in Form
+geeignet
+gesund
+angebracht
+angemessen
+günstig
+richtig
+tauglich
+befähigt
+einsatzfähig
+passend
+qualifiziert
+fesch [coll.] (South-eastern Germany; Austria)
+","sonst
+sonst
+sonst adv.
+sonst adv.
+sonst
+sonst noch
+sonst freibleibend
+sonst wo
+sonst genannt
+","froh - über
+froh
+froh
+froh
+froh
+froh
+froh
+froh (über etw.acc.)
+","toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+toll
+","manchmal
+manchmal
+manchmal
+manchmal
+","eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben
+eben jetzt
+eben polarisiert
+","anders adv. - prädikativer Gebrauch
+anders
+anders adv. - prädikativer Gebrauch
+anders (als)
+anders als
+anders als
+anders
+anders adv. - prädikativer Gebrauch
+anders gesagt
+andersdenkend or: anders denkend
+andersdenkend or: anders denkend
+anders denkend
+andersgeartet or: anders geartet
+","auch
+ebenfalls
+also
+also
+ebenso
+ferner
+außerdem
+mit - ebenfalls, auch
+also
+alias
+auch bekannt als
+also doch
+mitverwaltet
+mitgeändert adj.
+","übermorgen adv.
+","noch mal or: nochmal
+nochmal or: noch mal adv. [coll.]
+","vielleicht
+vielleicht
+vielleicht
+vielleicht
+vielleicht
+vielleicht - besonders in Bitten
+vielleicht
+vielleicht
+vielleicht
+vielleicht
+","gern or: gerne
+gern or: gerne
+gern or: gerne
+gerne
+gern or: gerne
+",,"trotzdem
+trotzdem
+trotzdem
+trotzdem
+trotzdem adv.
+trotzdem
+trotzdem
+trotzdem
+trotzdem adv.
+trotzdem adv.
+trotzdem adv.
+trotzdem adv.
+trotzdem
+","damit
+damit
+damit
+damit adv.
+",,"gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+gefährlich
+offenkundig gefährlich
+unangemessen gefährlich
+unangemessen gefährlich
+unverhältnismäßig gefährlich
+unverhältnismäßig gefährlich
+","abhängig
+abhängig
+abhängig
+abhängig (von)
+abhängig (von etw.dat.)
+abhängig
+abhängig
+abhängig
+abhängig (von)
+abhängig (von)
+abhängig - Gelände
+abhängig - Gelände
+abhängig von
+abhängig machend
+","heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+heimlich
+","selbst - sogar
+selbst
+selbstgemacht or: selbst gemacht
+selbsternannt or: selbst ernannt
+selbsternannt or: selbst ernannt
+selbsternannt or: selbst ernannt
+selbsternannt or: selbst ernannt
+selbstverschuldet or: selbst verschuldet
+selbst auferlegt
+selbst fortpflanzend
+selbstgebraut or: selbst gebraut
+selbstzugefügt or: selbst zugefügt
+sich selbst herabwürdigend
+sich selbst widersprechend
+","davon
+davon
+davon
+davon abgesehen
+davon Vermerke [Bookkeeping]
+als Folge davon
+als Folge davon
+","später
+später
+später
+später
+später
+später
+später
+später adv.
+später
+später adv.
+später adv.
+später
+spät
+spät
+","nur
+nur
+nur
+nur ein ...
+nur
+nur
+nur
+nur wenn
+nur einmal
+nur selten
+nur ungern
+nur vorübergehend
+nur zur Verrechnung
+nur dann, wenn
+","dort
+dort
+dort drüben
+dort drüben
+dort draußen
+dort oben
+da und dort
+hier und dort
+von dort
+","weniger
+weniger (von)
+weniger adv.
+weniger
+weniger als
+wenig - weniger, am wenigsten
+wenig
+ein wenig
+ein wenig
+wenigster | wenigste | wenigstes
+am wenigsten
+wenigstens
+am wenigsten
+die wenigsten
+","stark
+stark - umfangreich
+stark
+stark
+stark
+stark
+stark - Regen
+stark [coll.]
+stark
+stark
+stark
+stark
+stark
+stark
+","immer
+immer
+immer
+immer
+immer
+immer
+immer noch
+für immer
+immer wieder
+wann immer
+wo immer
+wohin immer
+immerwährend or: immer während
+immerwährend or: immer während
+","psychisch
+psychisch
+psychisch
+psychisch krank
+psychisch bedingt
+psychisch gestört
+psychisch gesund
+","fertig
+fertig
+fertig
+fertig
+fertig
+fertig
+fertig [fig.][coll.]
+fertiggestellt or: fertig gestellt
+fertiggestellt or: fertig gestellt
+fertig bearbeitet
+fertig möbliert
+fertig zur Auslieferung
+fertig bearbeitet
+halbfertig or: halb fertig
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -3194,6 +5181,243 @@ lock, stock and barrel
 a chip off the old block
 a chip off the old block
 Far from it!
+","Yes, of course!
+Do come!
+Sure!
+Don't bother!
+Bring it on!
+Bring it on!
+Roll on the holidays! (Brit.)
+Don't keep asking me.
+Why, yes!
+Do come in!
+Spare his blushes!
+Come off it! - used to tell so. to stop doing or saying sth.
+that's just the point
+Do you mind? - ironic
+","nobody's perfect
+nobody's perfect
+","hale and hearty
+safe and sound
+alive and kicking
+Stay healthy!
+safe and sound
+to be alive and kicking
+(as) fit as a fiddle
+(as) sound as a bell [fig.]
+Stay healthy!
+health is better than wealth
+the gift of the gab
+",None,"Business before pleasure.
+A hungry man has no conscience.
+Now less than ever!
+That remains to be seen.
+Mostly it is loss which teaches us about the worth of things.
+of the first water [fig.] also [pej.]
+at first cockcrow
+at first instance [LAW]
+to call the tune [fig.]
+with jurisdiction to hear and determine at first instance [LAW]
+straight from the horse's mouth
+there's always a first time
+sth. is a ripsnorter (or: rip-snorter) [coll.]
+top priority
+","No shit, Sherlock! [coll.]
+","not a sausage (Brit.) [coll.] [fig.] dated
+lock, stock and barrel
+Not half bad! [coll.]
+There are no two ways about it.
+There's no two ways about it.
+It's Hobson's choice.
+You couldn't organise a piss-up in a brewery! [coll.] (Brit.)
+sweet Fanny Adams (Brit.) [sl.]
+bugger all [vulg.] [sl.] chiefly (Brit.)
+","Get out of the way!
+behold - interj.
+This one!
+Lo and behold! chiefly [hum.]
+It's hard to know what to do.
+I'm stumped.
+I haven't a clue.
+I wouldn't know.
+You've got me there.
+You've got another think (or: thing) coming.
+There you are!
+That beats everything.
+You can wait until (or: till) the cows come home!
+There you are!
+","to fit like a glove
+to throw a fit [coll.]
+(as) fit as a fiddle
+(as) fit as a fiddle
+(as) fit as a fiddle
+fit as a fiddle
+fit as a fiddle
+fit as a fiddle
+to be as fit as a fiddle
+fit only for a knacker's yard
+in a fit of sth.
+to be as fit as a fiddle
+to be as fit as a fiddle
+not to be fit to hold a candle to so.
+","What else?
+Who else?
+How else?
+Anything else?
+What next?
+other things being equal
+other things constant
+Whoever else?
+immediate or cancel
+and what have you
+and whatnot [coll.]
+","Happy holidays! (Amer.)
+Happy Easter!
+Happy holidays! (Amer.)
+Season's Greetings
+Merry Christmas!
+Happy New Year!
+Happy New Year!
+Merry Christmas and a happy New Year!
+Season's greetings and best wishes for the New Year!
+","Wow!
+Choice! [coll.]
+A fine mess you've made of that!
+",None,"Exactly!
+plane and smooth
+it all comes down to the green [coll.] (Amer.)
+","unless otherwise noted
+unless otherwise specified
+except as noted otherwise
+unless otherwise expressly agreed
+so. cannot help doing sth.
+if needs must dated
+unless otherwise stipulated
+","well
+Right, ...
+Very well then! - indignantly
+OK then.
+Very well then.
+There!
+now then
+see also
+Very well then. - indignantly
+Cogito, ergo sum
+",None,"Gosh darn it! [coll.]
+That was a close shave!
+",None,"I'd love to. - in response to a question
+May I have the bill, please? (Brit.)
+I don't mind if I do!
+I'm up for it!
+That's fine by me.
+That's fine with me.
+Feel free to ... [coll.]
+Feel free to ... [coll.]
+You wish. [coll.]
+You're welcome!
+Don't mention it!
+My pleasure!
+you are welcome
+you're welcome
+","Fool me once, shame on you. Fool me twice, shame on me.
+My ass! [sl.]
+",,"..., period. [coll.]
+and that's that. [coll.]
+Bring it on!
+Get rid of it!
+Put it away!
+There's an end of it!
+Out with it! [coll.]
+Hence with it! archaic
+lest we forget
+Nothing doing!
+for your information - indignantly
+That cuts no ice with me.
+That cuts no ice with me.
+It's nothing to write home about.
+",,,,"on the q.t. (or: Q.T.) (Amer.) [coll.]
+","cool as a cucumber
+(as) cool as a cucumber [coll.] [fig.]
+to stand in one's own light
+me-time
+God helps them that help themselves.
+God helps those that help themselves.
+God helps them that help themselves.
+God helps those that help themselves.
+my better self
+to be as cool as a cucumber
+Look and see!
+it was a case of dog eat dog
+You do the math. (Amer.)
+Harm set, harm get.
+","not to be having any of it
+not to be having any of that
+It's not the end of the world.
+not a tithe of [fig.]
+","down the road
+See you later!
+See you, then!
+What time is it?
+Better late than never!
+in one's late teens
+further along the line - at a later stage [coll.]
+","Cheer up!
+Don't lose heart!
+Wait and see!
+More power to you!
+None but fools!
+execution only
+account payee only
+for account only
+a/c payee only
+mere window-dressing
+just for fun
+only for information
+Be my guest. [coll.]
+never fear
+","quod vide [abbr.: q.v.]
+there's all hell let loose
+","in a nutshell
+","What doesn't kill you makes you stronger.
+What doesn't kill you makes you stronger.
+unity is strength
+a heavy drop in prices
+to be close to the bone [fig.] [coll.]
+to be close to the knuckle [fig.] [coll.]
+to be close to the wind [fig.] [coll.]
+to throw one's weight about [coll.]
+That's a bit thick!
+That's a bit thick.
+That's coming on strong.
+That's pretty steep! [coll.]
+","Easy does it!
+always at your fingertips
+as per usual [coll.]
+Hold your horses!
+Take it easy!
+Don't get yourself in a tizzy.
+Hold your horses!
+Hold your horses!
+Just follow your nose.
+It's always the same old story.
+to get the short end of the stick
+Hold your horses!
+to be always on the go
+Come on in!
+",,"Bob's your uncle!
+ready for shore [NAUT.]
+pretty well done for [coll.]
+beat adj. [coll.]
+worn to a frazzle
+and Bob's your uncle (Brit.) [coll.]
+and Bob's your uncle (Brit.) [coll.]
+to get shellacked - get defeated (Amer.) [coll.] [fig.] [SPORT.]
+One foot in, weight in, and down. [SPORT.]
+On your markAE, get set, go!On your marksBE, get set, go!
+Ready, steady, go! (Brit.)
+that's getting me down
+That's getting me down.
+to be wiped out - exhausted (Amer.) [coll.]
 "
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
@@ -3628,6 +5852,243 @@ ganz und gar
 ganz die Mutter
 ganz der Vater
 Ganz im Gegenteil!
+","Ja, doch!
+Komm doch!
+Klar doch!
+Lass doch!
+Mach doch!
+Versuch's doch!
+Wenn doch nur schon Ferien wären!
+Frag doch nicht andauernd.
+Aber klar doch!
+Kommen Sie doch herein!
+Bringen Sie ihn doch nicht in Verlegenheit!
+Jetzt hör doch mal auf!
+darum geht's doch gerade
+Ich muss doch sehr bitten!
+","keiner ist perfekt
+niemand ist perfekt
+","gesund und munter
+gesund und munter
+gesund und munter
+Bleib gesund!
+heil und gesund
+gesund und munter sein
+(so) gesund wie ein Fisch im Wasser
+(so) gesund wie ein Fisch im Wasser [fig.]
+Bleiben Sie gesund!
+lieber gesund als reich
+ein gesundes Mundwerk
+",None,"Erst die Arbeit, dann das Vergnügen.
+Erst kommt das Fressen, dann die Moral.
+Nun erst recht nicht!
+Es muss sich erst noch zeigen.
+Meistens belehrt uns erst der Verlust über den Wert der Dinge. - Schopenhauer
+erster Güte
+beim (or: mit dem) ersten Hahnenschrei
+im ersten Rechtszuge [EU]
+die erste Geige spielen [fig.]
+im ersten Rechtszug zuständig
+aus erster Hand
+es gibt immer ein erstes Mal
+etw.nom. ist erste Sahne infinitive: erste Sahne sein [coll.] [fig.]
+an erster Stelle
+","Ach wirklich? - ironisch [coll.]
+","(rein) gar nichts
+ganz und gar
+Gar nicht so übel!
+Daran gibt es gar keinen Zweifel.
+Daran gibt es gar keinen Zweifel.
+Dies oder gar nichts.
+Du kriegst ja gar nichts gebacken!
+rein gar nichts
+rein gar nichts
+","Platz da!
+siehe da
+Dieses da!
+Siehe da! chiefly [hum.]
+Da ist guter Rat teuer.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da irrst du dich gewaltig!
+Da haben Sie es!
+Da hört alles auf!
+Da kannst du lange warten!
+Da sind Sie ja!
+","wie angegossen sitzen
+ausrasten | rastete aus, ausgerastet | [fig.]
+kerngesund adj.
+(so) gesund wie ein Fisch im Wasser
+gut in Form
+fit wie ein Turnschuh
+kerngesund adj.
+munter wie ein Fisch im Wasser
+fit wie ein Turnschuh sein
+reif zum Verschrotten
+in einem Anflug von etw.dat.
+topfit sein
+bei bester Gesundheit sein
+jmdm. nicht das Wasser reichen können
+","Was sonst?
+Wer sonst?
+Wie sonst?
+Sonst noch etwas?
+Was sonst noch?
+unter sonst gleichen Bedingungen
+unter sonst gleichen Bedingungen
+Wer denn sonst?
+sofort zu liefern, sonst kein Auftrag
+und was es sonst noch alles gibt
+was es sonst noch gibt
+","Frohe Feiertage!
+Frohe Ostern!
+Frohe Festtage!
+Frohe Festtage!
+Frohe Weihnachten!
+Frohes Neues Jahr!
+Frohes neues Jahr!
+Frohe Weihnachten und ein gutes neues Jahr!
+Frohe Weihnachten und ein gutes neues Jahr
+","Toll!
+Toll! [coll.]
+Das hast du ja toll hingekriegt!
+",None,"Eben!
+glatt und eben
+es geht eben immer ums Geld
+","sofern nicht anders angegeben
+sofern nicht anders festgelegt
+soweit nicht anders vermerkt
+sofern nicht ausdrücklich anders vereinbart
+jmd. kann nicht anders, als etw.acc. zu tun
+wenn es nicht anders geht
+sofern nicht anders vorgeschrieben
+","also
+Also, ...
+Also bitte!
+Also gut!
+Also gut!
+Na also!
+nun also
+siehe auch [abbr.: s. a.]
+Also bitte sehr!
+Ich denke, also bin ich - Descartes
+",None,"Verdammt nochmal!
+Nochmal Glück gehabt!
+",None,"Sehr gerne!
+Ich würde gerne bezahlen.
+Von mir aus gerne!
+Von mir aus gerne!
+Von mir aus gerne!
+Von mir aus gerne!
+Du kannst gerne ...
+Sie können gerne ...
+Das hättest du wohl gerne! [coll.]
+Gern geschehen!
+Gern geschehen!
+Gern geschehen!
+gern geschehen
+gern geschehen
+","Wer zweimal auf den gleichen Trick hereinfällt, ist selber schuld!
+Verarschen kann ich mich selber! [sl.]
+",,"..., und damit Punktum!
+..., und damit Punktum!
+Her damit!
+Weg damit!
+Weg damit!
+Schluss damit!
+Heraus damit! [coll.]
+Hinweg damit! dated
+damit wir nicht vergessen
+Damit ist's Essig!
+damit Sie es wissen
+Damit kann man bei mir nicht landen.
+Damit können Sie bei mir nicht landen.
+Damit lockt man keinen Hund hinter dem Ofen hervor.
+",,,,"heimlich, still und leise
+","die Ruhe selbst
+die Ruhe selbst [fig.]
+sichdat. selbst im Weg stehen [fig.]
+Zeit für sich selbst
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, dann hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+Hilf dir selbst, so hilft dir Gott.
+mein besseres Selbst
+die Ruhe selbst sein
+Überzeugen Sie sich selbst!
+jeder dachte nur an sich selbst
+Das kannst du dir selbst ausrechnen.
+Wer andern eine Grube gräbt, fällt selbst hinein.
+","davon nichts wissen wollen
+davon nichts wissen wollen
+Davon geht die Welt nicht unter.
+nicht ein bisschen davon
+","später einmal
+Bis später!
+Bis später!
+Wie spät ist es?
+Besser spät als nie!
+im späten Teenageralter
+zu einem späteren Zeitpunkt
+","Nur Mut!
+Nur Mut!
+Nur abwarten!
+Nur zu!
+Nur Narren!
+nur Orderausführung
+nur zur Verrechnung
+nur zur Verrechnung
+nur zur Verrechnung
+nur fürs Auge
+nur zum Spaß
+nur zur Information
+Nur zu.
+nur keine Bange!
+","siehe dort [abbr.: s. d.]
+dort ist der Teufel los
+","in wenigen Worten
+","Was mich nicht umbringt, macht mich stärker.
+Was uns nicht umbringt, macht uns stärker.
+Einigkeit macht stark
+ein starkes Nachlassen der Preise
+starker Tobak sein [fig.] [coll.]
+starker Tobak sein [fig.] [coll.]
+starker Tobak sein [fig.] [coll.]
+den starken Mann markieren [coll.]
+Das ist starker Tobak!
+Das ist ein starkes Stück.
+Das ist ein starkes Stück.
+Das ist ein starkes Stück!
+","Immer sachte!
+immer zur Hand
+wie immer
+Immer mit der Ruhe!
+Immer mit der Ruhe!
+Immer mit der Ruhe.
+Immer sachte mit den jungen Pferden!
+Immer sachte mit den jungen Pferden!
+Immer der Nase nach.
+Immer die alte Leier.
+immer den Kürzeren ziehen
+Immer langsam mit den jungen Pferden!
+immer auf dem Sprung sein
+Immer nur herein! [coll.]
+",,"Und fertig!
+fertig zum Landgang
+ziemlich fertig
+fix und fertig
+fix und fertig [coll.]
+und fertig ist der Lack [coll.]
+und fertig ist die Laube [coll.]
+fertig gemacht werden [coll.] [fig.]
+Fertig zum Einsteigen, steigt ein. - Ruderkommando
+Auf die Plätze, fertig, los!
+Auf die Plätze, fertig, los!
+das macht mich fertig
+Das macht mich fertig.
+fix und fertig sein [fig.] [coll.]
 "
 examples,english,"How old are you?
 I'm double your age.
@@ -4083,6 +6544,249 @@ a respectable writer
 He's all ears.
 He didn't seem to be quite all here.
 It is quite obvious that
+","If only I had known!
+face it, ...
+Do sit down.
+Have some cake, it's lovely.
+Do sit down.
+just join in and sing along!
+Give us a visit sometime.
+We eventually managed to reach her.
+Just go and try it!
+Come on, this is ridiculous!
+Come on, this is ridiculous!
+That's not right. - Yes it is.
+There's little point in blaming each other.
+it was a blessing in disguise
+","This job would be perfect if there was a little less stress.
+a perfect foil to ...
+","You'll soon get well.
+the building was structurally sound
+",None,"but it was only after ...
+only on acceptance
+He has only been with our firm for a short time.
+We have plenty of time - it's only ten past.
+before entering please knock
+but it was only after ...
+We shall not know until next year.
+It was only the second time she had missed work due to illness.
+I asked the first person I met.
+as a first approximation
+a first taste of life in a big city
+It ranked first
+my first attempt at drawing
+Send goods of first-class quality only.
+first published in 1980
+Her first book was an instant hit.
+facing first editorial page
+","Each book he writes is a masterpiece.
+It really isn't very far.
+I'm blessed if I know.
+I'm sure I don't know.
+I'm really sorry.
+Her children are really badly behaved.
+I'll give you the low down.
+You really spoil that dog!
+She's a real little gold-digger.
+It's a real drag
+an article that is really well made
+Last summer was a real scorcher. [coll.]
+You don't really mean that. [coll.]
+He's a real coward.
+","That's no laughing matter.
+That's not funny.
+He knows a thing or two.
+is quite out of the question
+I don't like his suggestion at all.
+I don't see the fun of it.
+It's no laughing matter.
+That's very unlike him.
+It is not so long since ...
+That isn't half bad. [coll.]
+That isn't half bad. [coll.]
+","That's no laughing matter.
+That's not funny.
+There you're mistaken.
+There you are mistaken.
+in my neck of the woods
+my neck of the woods
+in my neck of the woods
+There is more to it than meets the eye.
+There's more behind it.
+It will all come to nothing
+You've got me there.
+as you are familiar with
+There he was, resplendent in his new uniform.
+as we had forgotten our money
+","fit for limited employment
+He's not as fit as I am.
+He's not as fit as me.
+Neither key fits.
+He fits in very well.
+","What else haven't you told me?
+Would you like anything else?
+otherwise in good condition
+","I am glad that you are well.
+I'm sort of glad ... [coll.]
+","We had a tremendous time.
+He's a glamourAE / glamorAE boy.He's a glamourBE boy.
+",None,"He just arrived.
+That's just how it is.
+That's just the way it is.
+according to her lights
+the road is under repair
+","I've changed my mind.
+can't help but
+except when otherwise stipulated
+","The reverse is also true.
+It is also advantageous that
+They may also specify variations.
+He's an also-ran.
+He is an also-ran.
+",None,"perhaps you can reconsider your prices
+","perhaps we will be able to
+perhaps you can cut your prices
+He may come tomorrow.
+Could you by any chance be able to help?
+It may be too late
+Would you happen to have time for me on Wednesday?
+conditions may not be ideal
+That's a wine for you!
+Phew, what a scorcher! [coll.]
+","I'd like to go somewhere else for our holidays. (Brit.)
+We would like to hear your opinion.
+We would like to do business with you.
+presumably you would like to
+will be glad to give you information
+I'd love to ...
+Most of us enjoy cooking.
+I am pleased to confirm my agreement, ...
+Would you care for a cup of coffee?
+We would like to learn from you ...
+We would be only too pleased to ...
+I love to read.
+I am fond of reading.
+I should like to.
+","he was politeness itself
+","She came all the same.
+... and blow me if he still didn't forget. [coll.]
+","Give it to me!
+I can't stand that.
+the case is as follows
+I'll have you know
+associated mechanisms pl.
+That settles the matter.
+That's the end of it.
+That was the end of the matter.
+Use it sparingly!
+I can't do anything with it.
+What's to be done with it?
+I can live with it.
+I can live with that.
+What's your point in doing that?
+",,"dangerous to deal with
+dangerous to society
+dangerous for shipping [NAUT.]
+goods known to be dangerous
+a dangerous spot
+He's bad medicine.
+","dependent on tourism
+costs dependent on time in storage pl. [FINAN.]
+costs dependent on lot size pl. [FINAN.]
+",,"I myself
+It tells its own tale.
+for myself
+for aficionados like yourself
+I wasn't myself
+for reasons of his own
+if we take delivery at your warehouse
+She's a shadow of her former self.
+See for yourself!
+They helped themselves.
+This is all my own work.
+This is of my own making.
+I will attend to it myself.
+no individual marking on the goods
+","she's not having any of it
+That gives me the creeps.
+I won't hear of it.
+How do you feel about this?
+How does it strike you?
+What do you make of it?
+I am far from believing it.
+I don't believe a word of it.
+Nothing will prevent him from completing his life's dream.
+Nothing will prevent my going to Edinburgh.
+it makes me feel giddy
+He thinks nothing of it.
+He advised against it.
+I know about it.
+","after many years
+will become due at a later date
+I might possibly come a bit later.
+would be able to rejoin later on
+this week's meeting starts an hour later
+not later than the maturity date
+He works from morning to night.
+He's late as usual.
+It may be too late
+for their subsequent movement
+","What made him do that?
+Anything but that!
+Don't be in such a hurry!
+only prime quality
+only first quality will serve our purpose
+only superior quality
+merely different designations
+for business use only
+for comparison only
+only as a trial
+Nothing short of a miracle can save us now.
+Few Europeans had ever been to the island before.
+only used in the USA
+known only to the cardholder
+","That place is haunted.
+If it weren't for him we'd still be there.
+Most of the people there were having fun.
+The boy who I saw there looked very much like your boyfriend.
+","nations which are less developed
+less than 30 hours
+Fewer people than expected turned up for the match.
+I can manage with less.
+No fewer than four cars were there.
+a tolerance of 5% less will be permissible
+This job would be perfect if there was a little less stress.
+for less than a year
+On the few occasions he has ever visited us, he always seemed to enjoy himself.
+Something always goes wrong when you least expect it to.
+","It's raining hard.
+a sporting nation punching beyond its weight
+at greatly reduced prices pl.
+There wasn't much alcohol at the party as such, but what was there was very potent.
+a great deal of annoyance
+a great deal of annoyance
+a strong leaning towardAE ...a strong leaning towardsBE ...
+because of the windiness of the area
+in spite of the stream of tourists
+That's not his strong point.
+We had hoped for a bigger response from the public.
+","again and yet again
+always short of money
+Her kitchen is always spick (or: spic) and span.
+however you do it
+We don't always agree.
+If it weren't for him we'd still be there.
+Whatever it is, you can tell me.
+You name it
+I'm still very attached to you.
+any time you please
+You always found studying difficult.
+You always found studying difficult.
+The town is still being shelled.
+he is always on the go
+",,"I've finished with you.
+I cannot deal with this.
+Get ready at once!
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -4538,4 +7242,247 @@ ein ganz ordentlicher Schriftsteller
 Er ist ganz Ohr.
 Er schien nicht ganz bei Sinnen zu sein.
 Es ist ganz offensichtlich
+","Hätte ich es doch nur gewusst!
+begreif's doch endlich
+Nehmen Sie doch Platz. infinitive: Platz nehmen
+Nimm doch etwas Kuchen - er schmeckt köstlich!
+Nimm doch Platz. infinitive: Platz nehmen
+sing doch einfach mit!
+Besuchen Sie uns doch mal.
+Letztendlich haben wir sie doch noch erreichen können.
+Versuch's doch mal!
+Ich bitte dich, das ist doch lächerlich!
+Ich bitte Sie, das ist doch lächerlich!
+Das stimmt nicht. - Doch!
+Es bringt doch nichts, sich gegenseitig zu beschuldigen.
+es war schließlich doch ein Segen
+","Dieser Job wäre perfekt, wenn er ein bisschen weniger stressig wäre.
+ein perfekter Hintergrund für ...
+","Sie werden bald gesund sein.
+das Gebäude hatte eine gesunde Bausubstanz
+",None,"aber erst nachdem ...
+erst ab Abnahme
+Er ist erst seit kurzem in unserer Firma.
+Wir haben jede Menge Zeit - es ist erst zehn nach!
+bitte erst anklopfen
+aber erst nach ...
+Wir können es erst im nächsten Jahr erfahren.
+Es war erst das zweite Mal, dass sie wegen Krankheit nicht arbeiten konnte.
+Ich fragte den Erstbesten, der mir begegnete.
+in erster Näherung
+ein erstes Großstadterlebnis
+Es stand an erster Stelle
+mein erster Malversuch
+Senden Sie nur Ware erster Qualität.
+1980 zum ersten Mal veröffentlicht
+Ihr erstes Buch war ein sofortiger Hit.
+gegenüber der ersten Textseite
+","Wirklich jedes Buch, das er schreibt, ist ein Meisterwerk.
+Es ist wirklich nicht sehr weit.
+Ich weiß es wirklich nicht.
+Ich weiß es wirklich nicht.
+Es tut mir wirklich leid.
+Ihre Kinder sind wirklich ungezogen.
+Ich sage Ihnen, was wirklich dran ist.
+Du verwöhnst den Hund wirklich!
+Sie ist wirklich nur aufs Geld aus.
+Es ist wirklich das Letzte
+ein Artikel, der wirklich gut gemacht ist
+Im letzten Sommer war es wirklich heiß.
+Das meinst du doch nicht wirklich.
+Er ist wirklich ein Feigling.
+","Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Er ist gar nicht so dumm.
+kommt gar nicht infrage (or: in Frage)
+Sein Vorschlag passt mir gar nicht.
+Ich finde das gar nicht lustig.
+Das ist gar nicht komisch.
+Das sieht ihm gar nicht ähnlich.
+Es ist gar nicht lange her, dass ...
+Das ist gar nicht so übel.
+Das ist gar nicht übel.
+","Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Da irren Sie sich.
+Da irren Sie sich.
+da, wo ich herkomme
+da, wo ich herkomme
+da, wo ich wohne
+Da steckt mehr dahinter.
+Da steckt mehr dahinter.
+Da wird nichts draus
+Da hast du mich drangekriegt.
+da Sie vertraut sind mit
+Da war er, in seiner funkelnden neuen Uniform.
+da wir unser Geld vergessen hatten
+","bedingt arbeitsfähig
+Er ist nicht so fit wie ich.
+Er ist nicht so fit wie ich.
+Keiner der beiden Schlüssel passt.
+Er fügt sich sehr gut ein. infinitive: sich einfügen
+","Was hast du mir sonst noch verschwiegen?
+Darf's sonst noch was sein?
+sonst in gutem Zustand
+","Ich bin froh, dass es dir gut geht.
+Ich bin eigentlich froh ...
+","Wir haben uns toll amüsiert.
+Er ist ein toller Kerl.
+",None,"Er ist eben angekommen.
+Es ist eben so.
+So ist es eben.
+so gut sie es eben versteht
+die Straße wird eben ausgebessert
+","Ich habe mich anders entschlossen.
+nicht anders können als
+sofern nicht anders vereinbart
+","Auch das Gegenteil trifft zu.
+Es ist auch von Vorteil, dass
+Sie können auch Abweichungen angeben.
+Er kommt unter ferner liefen.
+Er kommt unter ""ferner liefen"". [fig.]
+",None,"überlegen Sie sich die Preise nochmal
+","vielleicht ist es uns möglich
+vielleicht können Sie Ihre Preise herabsetzen
+Er kommt vielleicht morgen.
+Könnten Sie mir vielleicht behilflich sein?
+Es ist vielleicht zu spät
+Hätten Sie am Mittwoch vielleicht Zeit für mich?
+die Bedingungen sind vielleicht nicht ideal
+Das ist vielleicht ein guter Wein!
+Das ist vielleicht eine Bullenhitze! [coll.]
+","Ich würde gerne woanders Urlaub machen.
+Wir möchten gerne Ihre Meinung erfahren.
+Wir möchten mit Ihnen gerne Geschäfte machen.
+wir nehmen an, Sie hätten gerne
+wird Sie gerne informieren
+Ich würde (sehr) gerne ...
+Die meisten von uns kochen gerne.
+Ich bin gerne einverstanden, ...
+Möchten Sie gerne eine Tasse Kaffee?
+Wir möchten von Ihnen gerne erfahren ...
+Wir würden nur zu gerne ...
+Ich lese gern.
+Ich lese sehr gern.
+Ich möchte gern.
+","er war die Höflichkeit selber
+","Sie kam trotzdem.
+... und er hat es doch trotzdem glatt vergessen. [coll.]
+","Her damit! [coll.]
+Damit kannst du mich jagen.
+damit hat es folgende Bewandtnis
+damit du's weißt
+damit verbundene Mechanismen
+Damit ist die Sache erledigt.
+Damit ist die Sache erledigt.
+Damit war die Sache erledigt.
+Gehen Sie sparsam damit um!
+Ich kann nichts damit anfangen.
+Was soll damit geschehen?
+Ich kann damit leben.
+Ich kann damit leben.
+Was bezweckst du damit?
+",,"gefährlich zu handhaben
+gefährlich für die Gesellschaft
+gefährlich für die Schifffahrt
+als gefährlich bekannte Ware
+eine gefährliche Stelle
+Er ist ein gefährlicher Bursche.
+","abhängig vom Tourismus
+von der Lagerzeit abhängige Kosten
+von der Losgröße abhängige Kosten
+",,"ich selbst
+Es spricht für sich selbst.
+für mich selbst
+für Liebhaber, wie Sie selbst
+ich war nicht ich selbst
+aus nur ihm selbst bekannten Gründen
+falls wir von Ihrem Lager selbst abholen
+Sie ist nur noch ein Schatten ihrer selbst.
+Überzeugen Sie sich selbst!
+Sie haben sich selbst bedient.
+Das habe ich alles selbst gemacht.
+Das habe ich selbst gemacht.
+Ich werde mich der Sache selbst annehmen.
+keine Markierung auf der Ware selbst
+","sie will nichts davon hören
+Davon bekomme ich eine Gänsehaut.
+Ich will nichts davon hören.
+Was hältst du davon?
+Was halten Sie davon?
+Was halten Sie davon?
+Ich bin weit davon entfernt, es zu glauben.
+Ich glaube kein Wort davon.
+Nichts kann ihn davon abhalten, seinen Lebenstraum zu verwirklichen.
+Nichts wird mich davon abhalten, nach Edinburgh zu fahren.
+mir wird davon schwindlig
+Er hält nichts davon.
+Er riet davon ab. infinitive: abraten
+Ich weiß davon.
+","viele Jahre später
+werden später fällig
+Ich komme eventuell ein bisschen später.
+können sich später wieder anschließen
+die dieswöchige Sitzung findet eine Stunde später statt
+nicht später als am Fälligkeitstag
+Er arbeitet von früh bis spät.
+Er kommt wie gewöhnlich zu spät.
+Es ist vielleicht zu spät
+zwecks späterer Bewegung
+","Wie kam er nur dazu?
+Nur das nicht!
+Nur keine Eile!
+nur erste Qualität
+nur erste Qualität ist gefragt
+nur überlegene Qualität
+nur unterschiedliche Bezeichnungen
+nur zu Geschäftszwecken
+nur zum Vergleich
+nur zur Probe
+Nur ein Wunder kann uns jetzt noch retten.
+Nur wenige Europäer hatten die Insel bislang betreten.
+nur in den USA in Verwendung
+nur dem Karteninhaber bekannt
+","Dort spukt es.
+Ohne ihn wären wir immer noch dort.
+Die meisten Leute dort hatten Spaß.
+Der Junge, den ich dort gesehen habe, sah deinem Freund sehr ähnlich.
+","weniger entwickelte Länder
+weniger als 30 Stunden
+Weniger Leute als erwartet kamen zum Spiel.
+Ich komme mit weniger aus.
+Nicht weniger als vier Autos waren da.
+eine Toleranz von bis zu 5% weniger ist zulässig
+Dieser Job wäre perfekt, wenn er ein bisschen weniger stressig wäre.
+für weniger als ein Jahr
+Die wenigen Male, die er uns besucht hat, hat er sich anscheinend immer wohlgefühlt.
+Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
+","Es regnet stark.
+eine Sportnation, die unerwartet stark auftritt
+zu stark reduzierten Preisen
+An sich gab es nicht so viel Alkohol auf der Party, aber was da war, war sehr stark.
+starke Beeinträchtigung
+starke Belästigung
+ein starker Hang zu ...
+wegen des starken Windes in dieser Gegend
+trotz starken Fremdenverkehrs
+Das ist nicht seine starke Seite.
+Wir hätten uns ein stärkeres Echo aus der Öffentlichkeit erhofft.
+","immer und immer wieder
+immer knapp bei Kasse
+Ihre Küche ist immer blitzsauber.
+wie Sie es auch immer machen
+Wir sind nicht immer derselben Meinung.
+Ohne ihn wären wir immer noch dort.
+Was auch immer es ist, du kannst es mir sagen.
+Was immer Sie wollen
+Ich hänge immer noch sehr an dir.
+wann immer es dir gefällt
+Du hast dich mit dem Lernen immer schwer getan.
+Du hast dir mit dem Lernen immer schwer getan.
+Die Stadt steht immer noch unter Beschuss.
+er ist immer auf dem Sprung
+",,"Mit Ihnen bin ich fertig.
+Ich werde damit nicht fertig.
+Mach dich sofort fertig!
 "

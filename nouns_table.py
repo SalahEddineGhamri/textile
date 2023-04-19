@@ -41,6 +41,10 @@ class NounsCache(pd.DataFrame):
         with self.lock:
             self.drop(noun, axis=1, inplace=True)
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(NOUNS_CACHE_FILE, index_col=['aspects', 'language']))
+
     def cache(self):
         with self.lock:
             try:

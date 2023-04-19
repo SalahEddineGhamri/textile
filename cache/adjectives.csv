@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -37,8 +37,20 @@ die Andere : Noun
 ","krank : Adjective
 der Kranke : Noun
 die Kranke : Noun
+","getrocknet : Adjective
+","bestimmt : Adjective
+bestimmen : Verb
+","deutsch : Adjective
+",None,"speziell : Adjective
+","illegal : Adjective
+","verunreinigt : Adjective
+verunreinigen : Verb
+",None,"jung : Adjective
+das Junge : Noun
+der Junge : Noun
+der Junge : Noun
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -306,6 +318,62 @@ to malinger | malingered, malingered |
 to sham illness
 to skive off work (Brit.) [coll.]
 to feel poorly chiefly (Brit.) [coll.] - feel ill/sick
+",None,"to determine sth. | determined, determined |
+to dictate sth. | dictated, dictated |
+to appoint so. | appointed, appointed |
+to ordain | ordained, ordained |
+to identify | identified, identified |
+to assign | assigned, assigned |
+to prearrange | prearranged, prearranged |
+to decree | decreed, decreed |
+to dispose | disposed, disposed | - determine
+to diagnose | diagnosed, diagnosed |
+to make a determination
+to order | ordered, ordered |
+to rule | ruled, ruled |
+to ascertain sth. | ascertained, ascertained |
+","to translate into German/English
+to acquire British/French/German/... nationality
+to obtain German citizenship
+to be capped for Germany/England/... (Brit.) [SPORT.]
+to be capped for Germany/England/... (Brit.) [SPORT.]
+","to make a special arrangement
+to glamorizeAE to glamouriseBE / glamourizeBE | glamorized, glamorized / glamourised, glamourised / glamourized, glamourized |
+","to customizeAE sth. to customiseBE / customizeBE sth. | customized, customized / customised, customised |
+to be tailored to particular needs
+","to traffic | trafficked, trafficked |
+to fly-tip | fly-tipped, fly-tipped | [ENV.]
+to hustle sth. | hustled, hustled | [coll.] - obtain in a dishonest way
+","to impurify | impurified, impurified |
+to contaminate sth. | contaminated, contaminated |
+to pollute sth. | polluted, polluted |
+to soil sth. | soiled, soiled |
+to add impurities to sth.
+to debase sth. | debased, debased |
+to vitiate sth. | vitiated, vitiated |
+","to blend sth. | blended, blended |
+to mix sth. | mixed, mixed |
+to shuffle (sth.) | shuffled, shuffled |
+to temper | tempered, tempered | also [fig.] [TECH.]
+to confect | confected, confected |
+to riffle (cards) | riffled, riffled |
+to compound sth. | compounded, compounded |
+to mingle sth. | mingled, mingled |
+to collate sth. | collated, collated |
+to jumble sth. | jumbled, jumbled |
+to agitate sth. | agitated, agitated |
+to prepare sth. | prepared, prepared |
+to meld | melded, melded |
+to blend | blended, blended |
+","to breed | bred, bred |
+to fawn | fawned, fawned |
+to cast its young
+to be so.'s junior (by ... years)
+to face | faced, faced | [TECH.]
+to bring out a young lady dated
+to feel like a spring chicken [fig.]
+to be getting a bit long in the tooth
+to be getting on a bit [coll.]
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -574,6 +642,62 @@ sichacc. krank stellen
 sichacc. krank stellen
 krank feiern
 sichacc. krank fühlen
+",None,"etw.acc. bestimmen | bestimmte, bestimmt |
+etw.acc. bestimmen | bestimmte, bestimmt |
+jmdn. bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+bestimmen | bestimmte, bestimmt |
+etw.acc. bestimmen | bestimmte, bestimmt |
+","ins Deutsche/Englische übersetzen
+die britische/französische/deutsche/... Staatsangehörigkeit erwerben
+die deutsche Staatsbürgerschaft erhalten
+für die deutsche/englische/... Nationalmannschaft aufgestellt werden
+in die deutsche/englische/... Nationalmannschaft berufen werden
+","eine besondere Absprache treffen
+einen besonderen Zauber verleihen
+","etw.acc. speziell anfertigen
+auf spezielle Bedürfnisse zugeschnitten sein
+","illegalen Handel treiben
+illegal Müll abladen
+sichacc. etw.acc. auf illegalem Weg verschaffen [coll.]
+","verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+etw.acc. verunreinigen | verunreinigte, verunreinigt |
+","etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+(etw.acc.) mischen | mischte, gemischt | - Karten
+mischen | mischte, gemischt |
+mischen | mischte, gemischt |
+(Karten) mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+etw.acc. mischen | mischte, gemischt |
+sichacc. mischen | mischte, gemischt |
+sichacc. mischen | mischte, gemischt |
+","Junge haben
+Junge bekommen
+Junge werfen
+(... Jahre) jünger sein als jmd.
+jünger anzeigen
+eine junge Dame in die Gesellschaft einführen
+sichacc. wieder jung fühlen
+nicht mehr der Jüngste sein
+nicht mehr der (or: die) Jüngste sein
 "
 nouns,english,"previous debt
 former quotations
@@ -869,6 +993,103 @@ AIDS victim [MED.]
 terminal ill
 bedside manner
 mental-health charity
+","dried fruit
+sun-dried tomatoes pl. [COOK.]
+","agreed percentage
+assigned value
+definite sum
+predetermined limit
+targeted customer segment
+definite integral [MATH.]
+definite article [LING.]
+specified procedural stage [ADMIN.]
+anyone in particular
+definite event
+restricted district
+total cost of ownership
+restricted area [TECH.]
+voltage drop or rise for a specified load condition [ELEC.]
+","German
+the German language [LING.]
+the Germans pl.
+fellow Afghans/Germans/Australians/...
+German National Library
+German Federal Railway
+German minority
+German National Library
+German Press Agency
+German version
+German language
+German version
+German economy
+Holstein-Friesian - type of cattle
+","extraordinary expenditure
+specific reasons pl.
+fringe benefits
+particular circumstances
+specific space
+affinity
+bus-only lane
+bus lane
+exclusive bus lane
+particular risks
+particular situations
+particular objectives
+special explanatory notes pl.
+special issue
+","special pressure control
+special form
+special power
+speciality materials [TECH.]
+own occupation disability [INSUR.]
+particular technical specifications [CONSTR.]
+market-build-tip method [COMM.]
+special product infeed system [TECH.]
+special relativity theory [PHYS.]
+special peripheral speed [TECH.]
+peripheral surface speed [TECH.]
+special conditions of contract [CONSTR.]
+lead strategy [FINAN.]
+specific problems pl.
+","trafficking
+back-street abortion
+blind tiger (Amer.)
+black market
+unlawful act
+illegal trade [COMM.]
+illicit drug
+illegal drug
+fly-tipping [ENV.]
+drug trafficking
+illegal drugs trade
+illegal narcotics trade
+drug trafficking
+illegal drugs trade
+","polluted atmosphere [TECH.]
+dirty superconductor [TECH.]
+impure cassiterite [MIN.]
+vitiated air safety device [TECH.]
+","merging
+interference
+shuffle - mixing up of cards
+mixing [TECH.]
+blending [TECH.]
+compounding [TECH.]
+mixing plants for cold material treatment [TECH.]
+","brood
+young used with pl. verb - offspring [ZOOL.]
+boy
+youngster - boy
+chick
+offspring
+lad [coll.] - boy
+drop [ZOOL.]
+hatchling [ZOOL.]
+cub [ZOOL.]
+man-child or: man child, manchild [poet.] - male child
+the lads (Canad.; Brit.) [coll.] pl.
+the young
+old boy
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -1164,6 +1385,103 @@ der Aids-Kranke | die Aids-Kranke pl.: die Aids-Kranken
 unheilbar Kranker
 Verhalten gegenüber einem Kranken
 gemeinnützige Organisation für psychisch Kranke
+","getrocknete Früchte
+getrocknete Tomaten pl.
+","bestimmter Vomhundertsatz
+bestimmter Wert
+bestimmter Betrag
+bestimmter Betrag
+bestimmtes Kundensegment
+bestimmtes Integral
+bestimmter Artikel - der, die, das
+bestimmter Verfahrensabschnitt
+jemand Bestimmtes
+bestimmtes Ereignis
+Gebiet mit bestimmten Baubeschränkungen
+Gesamtkosten über einen bestimmten Zeitraum pl., no sg.
+Bereich mit bestimmten Auflagen [Machine Safety]
+Spannungsänderung bei einer bestimmten Belastung
+","der Deutsche | die Deutsche pl.: die Deutschen
+das Deutsche no plural
+die Deutschen pl.
+afghanische/deutsche/australische/... Landsleute
+Deutsche Nationalbibliothek [abbr.: DNB]
+Deutsche Bundesbahn
+deutsche Minderheit
+Deutsche Bücherei
+Deutsche Presse-Agentur [abbr.: dpa]
+deutsche Fassung
+deutsche Sprache
+deutsche Version
+deutsche Wirtschaft
+Deutsche Holstein
+","besondere Aufwendung
+besondere Gründe pl.
+besondere Sozialleistungen
+besondere Umstände
+besondere Fläche
+besondere Liebe
+besondere Omnibusspur
+besondere Omnibusspur
+besondere Omnibusspur
+besondere Risiken
+besondere Situationen
+besondere Ziele
+besondere Anmerkungen pl.
+besondere Ausgabe
+","spezielle Drucksteuerung
+spezielle Form
+spezielle Vollmacht
+spezielle Werkstoffe
+spezielle Berufsunfähigkeit - Unfähigkeit, seinen eigenen speziellen Beruf auszuüben
+spezielle Leistungsbeschreibung
+spezielle Marktschätzungsmethode
+spezielle Produktzuführung
+spezielle Relativitätstheorie [abbr.: SRT]
+spezielle Umfangsgeschwindigkeit
+spezielle Umfangsgeschwindigkeit [Abrasive Engineering]
+spezielle Vertragsbedingungen
+spezielle Währungsstrategie
+spezielle Probleme pl.
+","illegaler Handel
+illegale Abtreibung
+illegaler Alkoholausschank
+illegaler Warenhandel
+illegale Handlung
+illegaler Handel
+illegale Droge [Drugs]
+illegale Droge [Drugs]
+illegales Müllabladen
+illegaler Drogenhandel [Drugs]
+illegaler Drogenhandel [Drugs]
+illegaler Drogenhandel [Drugs]
+illegaler Betäubungsmittelhandel [Drugs]
+illegaler Betäubungsmittelhandel [Drugs]
+","verunreinigte Atmosphäre
+verunreinigter Supraleiter
+verunreinigter Kassiterit
+Sicherheitseinrichtung gegen verunreinigte Luft [Machines]
+","das Mischen no plural
+das Mischen no plural
+das Mischen no plural - Karten
+das Mischen no plural
+das Mischen no plural
+das Mischen no plural
+Anlagen zum Mischen von kalt behandelten Stoffen [Machines]
+","die Jungen pl.
+die Jungen pl.
+der Junge pl.: die Jungen/die Jungs
+der Junge pl.: die Jungen/die Jungs
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+der Junge pl.: die Jungen/die Jungs
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge - Wolf, Bär, Löwe, Tiger
+der Junge pl.: die Jungen/die Jungs
+die Jungs pl. [coll.]
+die jungen Leute
+alter Junge
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -1309,8 +1627,62 @@ genus: FEMI
 plural: 
 meaning: sick people
 the sick
+","article: getrocknete
+word: Früchte
+genus: 
+plural: Früchte
+meaning: dried fruit
+sun-dried tomatoes pl. [COOK.]
+","article: bestimmter
+word: Vomhundertsatz
+genus: 
+plural: Vomhundertsatz
+meaning: agreed percentage
+assigned value
+","article: Das
+word: Deutsche
+genus: MASC
+plural: die Deutschen
+meaning: German
+the German language [LING.]
+","article: Das
+word: Aufwendung
+genus: 
+plural: Aufwendung
+meaning: extraordinary expenditure
+specific reasons pl.
+","article: spezielle
+word: Drucksteuerung
+genus: 
+plural: Drucksteuerung
+meaning: special pressure control
+special form
+","article: illegaler
+word: Handel
+genus: 
+plural: Handel
+meaning: trafficking
+back-street abortion
+","article: verunreinigte
+word: Atmosphäre
+genus: 
+plural: Atmosphäre
+meaning: polluted atmosphere [TECH.]
+dirty superconductor [TECH.]
+","article: das
+word: Mischen
+genus: NEUT
+plural: plural
+meaning: merging
+interference
+","article: Der
+word: Junge
+genus: FEMI
+plural: Jungen / Jungs
+meaning: brood
+young used with pl. verb - offspring [ZOOL.]
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -1621,6 +1993,84 @@ seriously ill
 ailing adj.
 terminally ill
 homesick adj.
+","dried adj.
+anhydrous adj.
+dehumidified adj.
+hard cured
+undried adj.
+sun-dried adj.
+","certain adj.
+particular adj.
+specific adj.
+positive adj.
+exact adj.
+precise adj.
+set adj.
+sure adj.
+assertive adj.
+definite adj. also [MATH.]
+authoritative adj.
+decided adj.
+decisive adj.
+definitive adj.
+","German adj.
+Franco-German adj.
+German-flagged adj. [NAUT.]
+","special adj.
+particular adj.
+outstanding adj.
+peculiar adj.
+specific adj.
+plain vanilla
+challenging adj.
+fit for a particular purpose
+notably adv.
+characterless adj.
+of particular importance
+of particular importance
+on special occasions
+fit for a particular purpose
+made to order
+with particular average [abbr.: WPA] [INSUR.]
+optional at extra cost
+","particular adj.
+special adj.
+specific adj.
+especial adj.
+extra adj.
+in particular
+in particular
+purpose-built adj.
+custom-built adj.
+purpose-made adj.
+custom-built adj.
+purpose-built (for sth.) adj.
+custom-built adj.
+privileged adj.
+","illegal adj.
+extralegal adj.
+illicit adj.
+unlawful adj. [LAW]
+","impure adj.
+polluted adj.
+contaminated adj.
+adulterated adj.
+defiled adj.
+uncontaminated adj.
+",None,"young adj.
+emerging adj.
+youthful adj.
+fledgling - used before noun - new adj.
+juvenescent adj.
+juvenile adj. [GEOL.]
+recent adj.
+junior adj.
+younger adj.
+afterborne adj.
+junior adj.
+uppermost adj. [GEOL.]
+youngish adj.
+ageless adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -1932,6 +2382,84 @@ ernsthaft krank
 lange krank
 unheilbar krank
 krank vor Heimweh
+","getrocknet
+getrocknet
+getrocknet
+getrocknet adj.
+nicht getrocknet
+an der Sonne getrocknet
+","bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+bestimmt
+","deutsch
+deutsch-französisch
+unter deutscher Flagge - nachgestellt
+","besonderer | besondere | besonderes
+besonderer | besondere | besonderes
+besonderer | besondere | besonderes
+besonderer | besondere | besonderes
+besonderer | besondere | besonderes
+nichts Besonderes
+besondere Herausforderungen stellend
+für eine besondere Verwendung geeignet
+in besonderem Maße
+ohne besonderes Merkmal
+von besonderer Bedeutung
+von besonderer Wichtigkeit
+zu besonderen Anlässen
+für einen besonderen Zweck geeignet
+nach besonderen Anweisungen gefertigt
+mit besonderer Havarie
+auf Wunsch gegen besondere Berechnung
+","speziell
+speziell
+speziell
+speziell
+speziell
+speziell
+im Speziellen
+speziell angefertigt
+speziell angefertigt
+speziell angefertigt
+speziell gebaut
+speziell für etw.acc. gebaut
+für den Besteller speziell gebaut
+mit spezieller Berechtigung
+","illegal
+illegal
+illegal
+illegal
+","verunreinigt
+verunreinigt
+verunreinigt
+verunreinigt
+verunreinigt
+nicht verunreinigt
+",None,"jung
+jung
+jung
+jung
+jung
+jung - Geomorphologie
+jüngster | jüngste | jüngstes
+jünger
+jünger
+jünger
+jüngerer | jüngere | jüngeres
+jünger - geologische Zeitalter
+ziemlich jung
+ewig jung
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -2138,7 +2666,42 @@ The pot calling the kettle black
 The pot calling the kettle black.
 There's honorAE among thieves.There's honourBE among thieves.
 one person's trash is another person's treasure
-",None
+",None,None,"definitely not
+He who pays the piper calls the tune.
+there is bound to be ...
+there are bound to be ...
+there is bound to be ...
+nothing doing - certainly not [coll.]
+nothing in particular
+data to be circulated
+",None,"a special concession
+nothing special
+nothing in particular
+nothing much - nothing of importance
+nothing fancy
+nothing to get excited about
+nothing to write home about [fig.]
+nothing out of the box [coll.] (Aust.; N.Z.)
+Special thanks go to ...
+It's all in the day's work.
+",None,None,"chips polluted with ... [TECH.]
+",None,"the young
+Hold your horses!
+Hold your horses!
+Hold your horses!
+It's raining cats and dogs.
+Boy, oh boy! [coll.]
+Oh boy! [coll.]
+a bad egg
+Attaboy! [coll.]
+Whom the gods love die young.
+in the salad days of his youth
+a well-mannered young man
+sth. takes years off so.
+sth. takes years off so.
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+"
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -2344,7 +2907,42 @@ Ein Esel schimpft den anderen Langohr
 Ein Esel schilt den anderen Langohr.
 Eine Krähe hackt der anderen kein Auge aus.
 was dem einen nichts ist, ist dem anderen alles
-",None
+",None,None,"bestimmt nicht
+Wer bezahlt, darf auch bestimmen.
+es wird bestimmt ... geben
+es wird bestimmt ... geben
+es gibt bestimmt ...
+ganz bestimmt nicht [coll.]
+nichts Bestimmtes
+zur Weitergabe bestimmte Daten
+",None,"eine besondere Vergünstigung
+nichts Besonderes
+nichts Besonderes
+nichts Besonderes
+nichts Besonderes
+nichts Besonderes
+nichts Besonderes
+nichts Besonderes
+Besonderer Dank gebührt ...
+Das ist nichts Besonderes.
+",None,None,"mit ... verunreinigte Späne
+",None,"die Jungen
+Immer sachte mit den jungen Pferden!
+Immer sachte mit den jungen Pferden!
+Immer langsam mit den jungen Pferden!
+Es regnet junge Hunde
+Junge, Junge! [coll.]
+Junge, Junge! [coll.]
+ein schwerer Junge
+Guter Junge!
+Wen die Götter lieben, der stirbt jung.
+als er noch jung und unschuldig war
+ein junger Mann mit guten Manieren
+etw.nom. lässt jmdn. um Jahre jünger aussehen
+etw.nom. lässt jmdn. um Jahre jünger wirken
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+"
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -2587,6 +3185,51 @@ He's said to be ill.
 He appears to be sick.
 The Prime Minister, who has been ill recently, will be unable to chair the meeting.
 I'm seasick.
+",None,"beyond a certain date
+by specific customers
+at a certain place
+delivery on a specific date
+up to a defined quantity
+below a certain minimum level
+at a certain rate
+to a specific creditor [FINAN.]
+to a specific payee [FINAN.]
+to a predetermined limit [FINAN.]
+in terms of a stated number
+bound for Hamburg
+Don't fail to come!
+He's certain to come.
+","within the German banking sector [FINAN.]
+in the German-speaking parts of the world
+decline of German dialects
+decline of German dialects
+students enrolled at German universities
+Trust your mother/the Germans/the neighbours/...!
+according to German company law [COMM.][LAW]
+","a marked preference for
+a particular point in the order
+failing specific stipulations
+What are you doing at the weekend? - Oh, nothing special.
+in view of our special situation
+a particular hotel
+served in certain taverns
+is subject to special regulations
+It's nothing to write home about.
+a matter of particular interest
+a matter of special importance
+The cats that I breed are all special to me.
+The cats who I breed are all special to me.
+the special interpretations
+the particular conditions
+","this particular case
+should give specific instructions
+",None,None,None,"in my younger days
+The boy who I saw there looked very much like your boyfriend.
+in my younger days
+He's a few years under age.
+My son is a sensitive boy.
+He's getting a bit long in the tooth.
+by issuing new shares [FINAN.]
 "
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
@@ -2830,4 +3473,49 @@ Er soll krank sein.
 Er scheint krank zu sein.
 Der Premierminister, der in letzter Zeit krank war, wird den Vorsitz bei der Sitzung nicht übernehmen können.
 Ich bin seekrank.
+",None,"nach einem bestimmten Datum
+von bestimmten Kunden
+an einem bestimmten Ort
+Anlieferung an einem bestimmten Tag
+bis zu einer bestimmten Menge
+unter einem bestimmten Minimum
+zu einem bestimmten Satz
+an einen bestimmten Gläubiger
+an einen bestimmten Zahlungsempfänger
+bis zu einem bestimmten Betrag
+in der Angabe einer bestimmten Anzahl
+bestimmt für Hamburg
+Komm ganz bestimmt!
+Er kommt bestimmt.
+","im deutschen Kreditgewerbe
+im deutschen Sprachraum
+Niedergang der deutschen Mundarten
+Rückgang der deutschen Mundarten
+Studenten, die an deutschen Universitäten eingeschrieben sind
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+nach deutschem Gesellschaftsrecht
+","eine besondere Vorliebe für
+eine besondere Stelle in der Bestellung
+wenn besondere Bestimmungen fehlen
+Was machst du am Wochenende? - Ach, nichts Besonderes.
+angesichts unserer besonderen Lage
+ein besonderes Hotel
+in besonderen Wirtschaften ausgeschenkt
+unterliegt besonderen Vorschriften
+Das ist nichts Besonderes.
+eine Sache von besonderem Interesse
+eine Sache von besonderer Bedeutung
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+Die Katzen, die ich züchte, sind alle etwas ganz Besonderes für mich.
+die besonderen Auslegungen
+die besonderen Bedingungen
+","dieser spezielle Fall
+sollte spezielle Weisungen enthalten
+",None,None,None,"in jungen Jahren
+Der Junge, den ich dort gesehen habe, sah deinem Freund sehr ähnlich.
+als ich jung war
+Er ist ein paar Jahre zu jung.
+Mein Sohn ist ein sensibler Junge.
+Er ist nicht mehr der Jüngste.
+mittels Ausgabe junger Aktien
 "

@@ -98,11 +98,12 @@ class AdverbsAgent(Process):
             sleep(0.0001)
 
         self.blackboard['stages']['analyzed_adverbs'] = 'STARTED'
+        ADVERBS_CACHE.refresh_cache()
         self.analyze()
+        ADVERBS_CACHE.cache()
         self.blackboard['stages']['analyzed_adverbs'] = 'Analyzed Adverbs!'
         self.generate_rich_text()
         self.blackboard['stages']['analyzed_adverbs'] = 'Generated rich text!'
         self.generate_rich_analysis()
         self.blackboard['stages']['analyzed_adverbs'] = 'Generated rich analysis!'
-        ADVERBS_CACHE.cache()
         self.blackboard['stages']['analyzed_adverbs'] = 'DONE'

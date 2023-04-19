@@ -34,6 +34,10 @@ class VerbsMeaningCache(pd.DataFrame):
                                          index_col=['aspects', 'language']))
         self.lock = multiprocessing.Lock()
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(VERBS_MEANING_CACHE_FILE, index_col=['aspects', 'language']))
+
     def cache(self):
         with self.lock:
             try:
@@ -54,7 +58,7 @@ class VerbsMeaningCache(pd.DataFrame):
                     sleep_interval = random.uniform(0.1, 0.4)
                     time.sleep(sleep_interval)
 
-                    new_verb = nouns_definition_parser('verbs_table', key)
+                    new_verb = nouns_definition_parser('verbs_meaning_table', key)
 
                     if new_verb is not None:
                         self[key] = pd.Series(index=self.index, dtype='object')
@@ -109,6 +113,10 @@ class VerbsConjugationCache(pd.DataFrame):
             except Exception:
                 return False
 
+    def refresh_cache(self):
+        with self.lock:
+            self.update(pd.read_csv(VERBS_CONJUGATION_CACHE_FILE, index_col=['voice', 'tense']))
+
     def __getitem__(self, key):
         try:
             return super().__getitem__(key)
@@ -116,8 +124,6 @@ class VerbsConjugationCache(pd.DataFrame):
             with self.lock:
                 sleep_interval = random.uniform(0.1, 0.4)
                 time.sleep(sleep_interval)
-                # print("scrapping for verb ...")
-                # new_verb_meaning = nouns_definition_parser(key)
                 new_verb = scrapp_for_verb(key)
                 self[key] = pd.Series(index=self.index, dtype='object')
                 for (voice, tense), values in new_verb.items():
