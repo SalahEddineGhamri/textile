@@ -5,7 +5,7 @@ from config import ADJECTIVES_CACHE_FILE
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
-from multiprocessing import Lock
+from threading import Lock
 
 # TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)

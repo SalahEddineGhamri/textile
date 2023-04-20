@@ -1,6 +1,5 @@
 from file_io import File
 from rich import print
-from multiprocessing import Manager
 from time import sleep
 from config import INPUT_PATH
 from anki_generation_agent import AnkiGenerationAgent
@@ -14,13 +13,11 @@ from text_agents import TextAgent
 
 class Blackboard:
     def __init__(self, input_path):
-        # create a multiprocessing manager
-        manager = Manager()
-        self.manager = manager.dict()
+        self.manager = dict()
         self.manager['text'] = None
         self.manager['analyzed_text'] = None
 
-        stages = manager.dict()
+        stages = dict()
         stages['input_read'] = None
         stages['analyzed_input'] = None
         stages['analyzed_nouns'] = None

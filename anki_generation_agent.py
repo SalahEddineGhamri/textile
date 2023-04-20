@@ -1,4 +1,3 @@
-from multiprocessing import Process
 from time import sleep
 from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
 from config import INPUT_PATH, ANKI_PATH
@@ -8,6 +7,7 @@ from adjectives_table import ADJECTIVES_CACHE
 from adverbs_table import ADVERBS_CACHE
 from prepositions_table import PREPOSITIONS_CACHE
 from nouns_agents import split_hyphenated_string
+from threading import Thread
 
 
 def extract_info(noun, noun_details):
@@ -75,7 +75,7 @@ def generate_html_table(column1, column2, column3):
     return html
 
 
-class AnkiGenerationAgent(Process):
+class AnkiGenerationAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard

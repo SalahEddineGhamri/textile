@@ -1,5 +1,6 @@
 from color_scheme import colorize_text, colors_definitions
 from multiprocessing import Process
+from threading import Thread
 from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from rich.table import Table
 from rich.text import Text, Style
@@ -8,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 import concurrent.futures
 
 
-class VerbsAgent(Process):
+class VerbsAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard

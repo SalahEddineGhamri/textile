@@ -8,11 +8,12 @@ while reading the text
 - analyze text for what is available "article"
 - define a color scheme
 - give all article colors
-- show the text in text widget
+- show the text nin text widget
 - make articles csv complete
 
 # dependencies
 - pip3 install pandas
+- pip3 install genanki
 - pip3 install spacy
 - python3 -m spacy download de_core_news_sm
 - pip3 install pandarallel
