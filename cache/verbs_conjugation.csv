@@ -1,4 +1,4 @@
-voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört
+voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen
 indicative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -414,7 +414,52 @@ indicative_active,Present," ich klag(e) an
  er stört
  wir stören
  ihr stört
- sie stören"
+ sie stören"," ich beginn(e)
+ du beginnst
+ er beginnt
+ wir beginnen
+ ihr beginnt
+ sie beginnen"," ich mach(e) mit
+ du machst mit
+ er macht mit
+ wir machen mit
+ ihr macht mit
+ sie machen mit"," ich nenn(e)
+ du nennst
+ er nennt
+ wir nennen
+ ihr nennt
+ sie nennen"," ich dau(e)r(e)
+ du dauerst
+ er dauert
+ wir dauern
+ ihr dauert
+ sie dauern"," ich verfilm(e)
+ du verfilmst
+ er verfilmt
+ wir verfilmen
+ ihr verfilmt
+ sie verfilmen",," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich arbeit(e) mit
+ du arbeitest mit
+ er arbeitet mit
+ wir arbeiten mit
+ ihr arbeitet mit
+ sie arbeiten mit"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"
 indicative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -830,7 +875,52 @@ indicative_active,Imperfect," ich klagte an
  er störte
  wir störten
  ihr störtet
- sie störten"
+ sie störten"," ich begann
+ du begannst
+ er begann
+ wir begannen
+ ihr begannt
+ sie begannen"," ich machte mit
+ du machtest mit
+ er machte mit
+ wir machten mit
+ ihr machtet mit
+ sie machten mit"," ich nannte
+ du nanntest
+ er nannte
+ wir nannten
+ ihr nanntet
+ sie nannten"," ich dauerte
+ du dauertest
+ er dauerte
+ wir dauerten
+ ihr dauertet
+ sie dauerten"," ich verfilmte
+ du verfilmtest
+ er verfilmte
+ wir verfilmten
+ ihr verfilmtet
+ sie verfilmten",," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich arbeitete mit
+ du arbeitetest mit
+ er arbeitete mit
+ wir arbeiteten mit
+ ihr arbeitetet mit
+ sie arbeiteten mit"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"
 indicative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -1246,7 +1336,52 @@ indicative_active,Perfect," ich habe angeklagt
  er hat gestört
  wir haben gestört
  ihr habt gestört
- sie haben gestört"
+ sie haben gestört"," ich habe begonnen
+ du hast begonnen
+ er hat begonnen
+ wir haben begonnen
+ ihr habt begonnen
+ sie haben begonnen"," ich habe mitgemacht
+ du hast mitgemacht
+ er hat mitgemacht
+ wir haben mitgemacht
+ ihr habt mitgemacht
+ sie haben mitgemacht"," ich habe genannt
+ du hast genannt
+ er hat genannt
+ wir haben genannt
+ ihr habt genannt
+ sie haben genannt"," ich habe gedauert
+ du hast gedauert
+ er hat gedauert
+ wir haben gedauert
+ ihr habt gedauert
+ sie haben gedauert"," ich habe verfilmt
+ du hast verfilmt
+ er hat verfilmt
+ wir haben verfilmt
+ ihr habt verfilmt
+ sie haben verfilmt",," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe mitgearbeitet
+ du hast mitgearbeitet
+ er hat mitgearbeitet
+ wir haben mitgearbeitet
+ ihr habt mitgearbeitet
+ sie haben mitgearbeitet"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"
 indicative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -1662,7 +1797,52 @@ indicative_active,Pluperfect," ich hatte angeklagt
  er hatte gestört
  wir hatten gestört
  ihr hattet gestört
- sie hatten gestört"
+ sie hatten gestört"," ich hatte begonnen
+ du hattest begonnen
+ er hatte begonnen
+ wir hatten begonnen
+ ihr hattet begonnen
+ sie hatten begonnen"," ich hatte mitgemacht
+ du hattest mitgemacht
+ er hatte mitgemacht
+ wir hatten mitgemacht
+ ihr hattet mitgemacht
+ sie hatten mitgemacht"," ich hatte genannt
+ du hattest genannt
+ er hatte genannt
+ wir hatten genannt
+ ihr hattet genannt
+ sie hatten genannt"," ich hatte gedauert
+ du hattest gedauert
+ er hatte gedauert
+ wir hatten gedauert
+ ihr hattet gedauert
+ sie hatten gedauert"," ich hatte verfilmt
+ du hattest verfilmt
+ er hatte verfilmt
+ wir hatten verfilmt
+ ihr hattet verfilmt
+ sie hatten verfilmt",," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte mitgearbeitet
+ du hattest mitgearbeitet
+ er hatte mitgearbeitet
+ wir hatten mitgearbeitet
+ ihr hattet mitgearbeitet
+ sie hatten mitgearbeitet"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"
 indicative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -2078,7 +2258,52 @@ indicative_active,Future," ich werde anklagen
  er wird stören
  wir werden stören
  ihr werdet stören
- sie werden stören"
+ sie werden stören"," ich werde beginnen
+ du wirst beginnen
+ er wird beginnen
+ wir werden beginnen
+ ihr werdet beginnen
+ sie werden beginnen"," ich werde mitmachen
+ du wirst mitmachen
+ er wird mitmachen
+ wir werden mitmachen
+ ihr werdet mitmachen
+ sie werden mitmachen"," ich werde nennen
+ du wirst nennen
+ er wird nennen
+ wir werden nennen
+ ihr werdet nennen
+ sie werden nennen"," ich werde dauern
+ du wirst dauern
+ er wird dauern
+ wir werden dauern
+ ihr werdet dauern
+ sie werden dauern"," ich werde verfilmen
+ du wirst verfilmen
+ er wird verfilmen
+ wir werden verfilmen
+ ihr werdet verfilmen
+ sie werden verfilmen",," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde mitarbeiten
+ du wirst mitarbeiten
+ er wird mitarbeiten
+ wir werden mitarbeiten
+ ihr werdet mitarbeiten
+ sie werden mitarbeiten"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"
 indicative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -2494,7 +2719,52 @@ indicative_active,FuturePerfect," ich werde angeklagt haben
  er wird gestört haben
  wir werden gestört haben
  ihr werdet gestört haben
- sie werden gestört haben"
+ sie werden gestört haben"," ich werde begonnen haben
+ du wirst begonnen haben
+ er wird begonnen haben
+ wir werden begonnen haben
+ ihr werdet begonnen haben
+ sie werden begonnen haben"," ich werde mitgemacht haben
+ du wirst mitgemacht haben
+ er wird mitgemacht haben
+ wir werden mitgemacht haben
+ ihr werdet mitgemacht haben
+ sie werden mitgemacht haben"," ich werde genannt haben
+ du wirst genannt haben
+ er wird genannt haben
+ wir werden genannt haben
+ ihr werdet genannt haben
+ sie werden genannt haben"," ich werde gedauert haben
+ du wirst gedauert haben
+ er wird gedauert haben
+ wir werden gedauert haben
+ ihr werdet gedauert haben
+ sie werden gedauert haben"," ich werde verfilmt haben
+ du wirst verfilmt haben
+ er wird verfilmt haben
+ wir werden verfilmt haben
+ ihr werdet verfilmt haben
+ sie werden verfilmt haben",," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde mitgearbeitet haben
+ du wirst mitgearbeitet haben
+ er wird mitgearbeitet haben
+ wir werden mitgearbeitet haben
+ ihr werdet mitgearbeitet haben
+ sie werden mitgearbeitet haben"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"
 indicative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -2578,7 +2848,16 @@ indicative_active,InfinitiveI," anklagen
  zu kontrollieren"," nehmen
  zu nehmen"," entwickeln
  zu entwickeln"," stören
- zu stören"
+ zu stören"," beginnen
+ zu beginnen"," mitmachen
+ mitzumachen"," nennen
+ zu nennen"," dauern
+ zu dauern"," verfilmen
+ zu verfilmen",," seh(e)n
+ zu seh(e)n"," mitarbeiten
+ mitzuarbeiten"," freu(e)n
+ zu freu(e)n"," erzählen
+ zu erzählen"
 indicative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -2662,9 +2941,18 @@ indicative_active,InfinitiveII," angeklagt haben
  kontrolliert zu haben"," genommen haben
  genommen zu haben"," entwickelt haben
  entwickelt zu haben"," gestört haben
- gestört zu haben"
-indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
-indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
+ gestört zu haben"," begonnen haben
+ begonnen zu haben"," mitgemacht haben
+ mitgemacht zu haben"," genannt haben
+ genannt zu haben"," gedauert haben
+ gedauert zu haben"," verfilmt haben
+ verfilmt zu haben",," geseh(e)n haben
+ geseh(e)n zu haben"," mitgearbeitet haben
+ mitgearbeitet zu haben"," gefreut haben
+ gefreut zu haben"," erzählt haben
+ erzählt zu haben"
+indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
+indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
 subjunctive_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -3080,7 +3368,52 @@ subjunctive_active,Present," ich klag(e) an
  er stört
  wir stören
  ihr stört
- sie stören"
+ sie stören"," ich beginn(e)
+ du beginnst
+ er beginnt
+ wir beginnen
+ ihr beginnt
+ sie beginnen"," ich mach(e) mit
+ du machst mit
+ er macht mit
+ wir machen mit
+ ihr macht mit
+ sie machen mit"," ich nenn(e)
+ du nennst
+ er nennt
+ wir nennen
+ ihr nennt
+ sie nennen"," ich dau(e)r(e)
+ du dauerst
+ er dauert
+ wir dauern
+ ihr dauert
+ sie dauern"," ich verfilm(e)
+ du verfilmst
+ er verfilmt
+ wir verfilmen
+ ihr verfilmt
+ sie verfilmen",," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich arbeit(e) mit
+ du arbeitest mit
+ er arbeitet mit
+ wir arbeiten mit
+ ihr arbeitet mit
+ sie arbeiten mit"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"
 subjunctive_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -3496,7 +3829,52 @@ subjunctive_active,Imperfect," ich klagte an
  er störte
  wir störten
  ihr störtet
- sie störten"
+ sie störten"," ich begann
+ du begannst
+ er begann
+ wir begannen
+ ihr begannt
+ sie begannen"," ich machte mit
+ du machtest mit
+ er machte mit
+ wir machten mit
+ ihr machtet mit
+ sie machten mit"," ich nannte
+ du nanntest
+ er nannte
+ wir nannten
+ ihr nanntet
+ sie nannten"," ich dauerte
+ du dauertest
+ er dauerte
+ wir dauerten
+ ihr dauertet
+ sie dauerten"," ich verfilmte
+ du verfilmtest
+ er verfilmte
+ wir verfilmten
+ ihr verfilmtet
+ sie verfilmten",," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich arbeitete mit
+ du arbeitetest mit
+ er arbeitete mit
+ wir arbeiteten mit
+ ihr arbeitetet mit
+ sie arbeiteten mit"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"
 subjunctive_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -3912,7 +4290,52 @@ subjunctive_active,Perfect," ich habe angeklagt
  er hat gestört
  wir haben gestört
  ihr habt gestört
- sie haben gestört"
+ sie haben gestört"," ich habe begonnen
+ du hast begonnen
+ er hat begonnen
+ wir haben begonnen
+ ihr habt begonnen
+ sie haben begonnen"," ich habe mitgemacht
+ du hast mitgemacht
+ er hat mitgemacht
+ wir haben mitgemacht
+ ihr habt mitgemacht
+ sie haben mitgemacht"," ich habe genannt
+ du hast genannt
+ er hat genannt
+ wir haben genannt
+ ihr habt genannt
+ sie haben genannt"," ich habe gedauert
+ du hast gedauert
+ er hat gedauert
+ wir haben gedauert
+ ihr habt gedauert
+ sie haben gedauert"," ich habe verfilmt
+ du hast verfilmt
+ er hat verfilmt
+ wir haben verfilmt
+ ihr habt verfilmt
+ sie haben verfilmt",," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe mitgearbeitet
+ du hast mitgearbeitet
+ er hat mitgearbeitet
+ wir haben mitgearbeitet
+ ihr habt mitgearbeitet
+ sie haben mitgearbeitet"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"
 subjunctive_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -4328,7 +4751,52 @@ subjunctive_active,Pluperfect," ich hatte angeklagt
  er hatte gestört
  wir hatten gestört
  ihr hattet gestört
- sie hatten gestört"
+ sie hatten gestört"," ich hatte begonnen
+ du hattest begonnen
+ er hatte begonnen
+ wir hatten begonnen
+ ihr hattet begonnen
+ sie hatten begonnen"," ich hatte mitgemacht
+ du hattest mitgemacht
+ er hatte mitgemacht
+ wir hatten mitgemacht
+ ihr hattet mitgemacht
+ sie hatten mitgemacht"," ich hatte genannt
+ du hattest genannt
+ er hatte genannt
+ wir hatten genannt
+ ihr hattet genannt
+ sie hatten genannt"," ich hatte gedauert
+ du hattest gedauert
+ er hatte gedauert
+ wir hatten gedauert
+ ihr hattet gedauert
+ sie hatten gedauert"," ich hatte verfilmt
+ du hattest verfilmt
+ er hatte verfilmt
+ wir hatten verfilmt
+ ihr hattet verfilmt
+ sie hatten verfilmt",," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte mitgearbeitet
+ du hattest mitgearbeitet
+ er hatte mitgearbeitet
+ wir hatten mitgearbeitet
+ ihr hattet mitgearbeitet
+ sie hatten mitgearbeitet"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"
 subjunctive_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -4744,7 +5212,52 @@ subjunctive_active,Future," ich werde anklagen
  er wird stören
  wir werden stören
  ihr werdet stören
- sie werden stören"
+ sie werden stören"," ich werde beginnen
+ du wirst beginnen
+ er wird beginnen
+ wir werden beginnen
+ ihr werdet beginnen
+ sie werden beginnen"," ich werde mitmachen
+ du wirst mitmachen
+ er wird mitmachen
+ wir werden mitmachen
+ ihr werdet mitmachen
+ sie werden mitmachen"," ich werde nennen
+ du wirst nennen
+ er wird nennen
+ wir werden nennen
+ ihr werdet nennen
+ sie werden nennen"," ich werde dauern
+ du wirst dauern
+ er wird dauern
+ wir werden dauern
+ ihr werdet dauern
+ sie werden dauern"," ich werde verfilmen
+ du wirst verfilmen
+ er wird verfilmen
+ wir werden verfilmen
+ ihr werdet verfilmen
+ sie werden verfilmen",," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde mitarbeiten
+ du wirst mitarbeiten
+ er wird mitarbeiten
+ wir werden mitarbeiten
+ ihr werdet mitarbeiten
+ sie werden mitarbeiten"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"
 subjunctive_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -5160,7 +5673,52 @@ subjunctive_active,FuturePerfect," ich werde angeklagt haben
  er wird gestört haben
  wir werden gestört haben
  ihr werdet gestört haben
- sie werden gestört haben"
+ sie werden gestört haben"," ich werde begonnen haben
+ du wirst begonnen haben
+ er wird begonnen haben
+ wir werden begonnen haben
+ ihr werdet begonnen haben
+ sie werden begonnen haben"," ich werde mitgemacht haben
+ du wirst mitgemacht haben
+ er wird mitgemacht haben
+ wir werden mitgemacht haben
+ ihr werdet mitgemacht haben
+ sie werden mitgemacht haben"," ich werde genannt haben
+ du wirst genannt haben
+ er wird genannt haben
+ wir werden genannt haben
+ ihr werdet genannt haben
+ sie werden genannt haben"," ich werde gedauert haben
+ du wirst gedauert haben
+ er wird gedauert haben
+ wir werden gedauert haben
+ ihr werdet gedauert haben
+ sie werden gedauert haben"," ich werde verfilmt haben
+ du wirst verfilmt haben
+ er wird verfilmt haben
+ wir werden verfilmt haben
+ ihr werdet verfilmt haben
+ sie werden verfilmt haben",," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde mitgearbeitet haben
+ du wirst mitgearbeitet haben
+ er wird mitgearbeitet haben
+ wir werden mitgearbeitet haben
+ ihr werdet mitgearbeitet haben
+ sie werden mitgearbeitet haben"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"
 subjunctive_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -5244,7 +5802,16 @@ subjunctive_active,InfinitiveI," anklagen
  zu kontrollieren"," nehmen
  zu nehmen"," entwickeln
  zu entwickeln"," stören
- zu stören"
+ zu stören"," beginnen
+ zu beginnen"," mitmachen
+ mitzumachen"," nennen
+ zu nennen"," dauern
+ zu dauern"," verfilmen
+ zu verfilmen",," seh(e)n
+ zu seh(e)n"," mitarbeiten
+ mitzuarbeiten"," freu(e)n
+ zu freu(e)n"," erzählen
+ zu erzählen"
 subjunctive_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -5328,9 +5895,18 @@ subjunctive_active,InfinitiveII," angeklagt haben
  kontrolliert zu haben"," genommen haben
  genommen zu haben"," entwickelt haben
  entwickelt zu haben"," gestört haben
- gestört zu haben"
-subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
-subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
+ gestört zu haben"," begonnen haben
+ begonnen zu haben"," mitgemacht haben
+ mitgemacht zu haben"," genannt haben
+ genannt zu haben"," gedauert haben
+ gedauert zu haben"," verfilmt haben
+ verfilmt zu haben",," geseh(e)n haben
+ geseh(e)n zu haben"," mitgearbeitet haben
+ mitgearbeitet zu haben"," gefreut haben
+ gefreut zu haben"," erzählt haben
+ erzählt zu haben"
+subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
+subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
 conditional_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -5746,7 +6322,52 @@ conditional_active,Present," ich klag(e) an
  er stört
  wir stören
  ihr stört
- sie stören"
+ sie stören"," ich beginn(e)
+ du beginnst
+ er beginnt
+ wir beginnen
+ ihr beginnt
+ sie beginnen"," ich mach(e) mit
+ du machst mit
+ er macht mit
+ wir machen mit
+ ihr macht mit
+ sie machen mit"," ich nenn(e)
+ du nennst
+ er nennt
+ wir nennen
+ ihr nennt
+ sie nennen"," ich dau(e)r(e)
+ du dauerst
+ er dauert
+ wir dauern
+ ihr dauert
+ sie dauern"," ich verfilm(e)
+ du verfilmst
+ er verfilmt
+ wir verfilmen
+ ihr verfilmt
+ sie verfilmen",," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich arbeit(e) mit
+ du arbeitest mit
+ er arbeitet mit
+ wir arbeiten mit
+ ihr arbeitet mit
+ sie arbeiten mit"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"
 conditional_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -6162,7 +6783,52 @@ conditional_active,Imperfect," ich klagte an
  er störte
  wir störten
  ihr störtet
- sie störten"
+ sie störten"," ich begann
+ du begannst
+ er begann
+ wir begannen
+ ihr begannt
+ sie begannen"," ich machte mit
+ du machtest mit
+ er machte mit
+ wir machten mit
+ ihr machtet mit
+ sie machten mit"," ich nannte
+ du nanntest
+ er nannte
+ wir nannten
+ ihr nanntet
+ sie nannten"," ich dauerte
+ du dauertest
+ er dauerte
+ wir dauerten
+ ihr dauertet
+ sie dauerten"," ich verfilmte
+ du verfilmtest
+ er verfilmte
+ wir verfilmten
+ ihr verfilmtet
+ sie verfilmten",," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich arbeitete mit
+ du arbeitetest mit
+ er arbeitete mit
+ wir arbeiteten mit
+ ihr arbeitetet mit
+ sie arbeiteten mit"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"
 conditional_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -6578,7 +7244,52 @@ conditional_active,Perfect," ich habe angeklagt
  er hat gestört
  wir haben gestört
  ihr habt gestört
- sie haben gestört"
+ sie haben gestört"," ich habe begonnen
+ du hast begonnen
+ er hat begonnen
+ wir haben begonnen
+ ihr habt begonnen
+ sie haben begonnen"," ich habe mitgemacht
+ du hast mitgemacht
+ er hat mitgemacht
+ wir haben mitgemacht
+ ihr habt mitgemacht
+ sie haben mitgemacht"," ich habe genannt
+ du hast genannt
+ er hat genannt
+ wir haben genannt
+ ihr habt genannt
+ sie haben genannt"," ich habe gedauert
+ du hast gedauert
+ er hat gedauert
+ wir haben gedauert
+ ihr habt gedauert
+ sie haben gedauert"," ich habe verfilmt
+ du hast verfilmt
+ er hat verfilmt
+ wir haben verfilmt
+ ihr habt verfilmt
+ sie haben verfilmt",," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe mitgearbeitet
+ du hast mitgearbeitet
+ er hat mitgearbeitet
+ wir haben mitgearbeitet
+ ihr habt mitgearbeitet
+ sie haben mitgearbeitet"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"
 conditional_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -6994,7 +7705,52 @@ conditional_active,Pluperfect," ich hatte angeklagt
  er hatte gestört
  wir hatten gestört
  ihr hattet gestört
- sie hatten gestört"
+ sie hatten gestört"," ich hatte begonnen
+ du hattest begonnen
+ er hatte begonnen
+ wir hatten begonnen
+ ihr hattet begonnen
+ sie hatten begonnen"," ich hatte mitgemacht
+ du hattest mitgemacht
+ er hatte mitgemacht
+ wir hatten mitgemacht
+ ihr hattet mitgemacht
+ sie hatten mitgemacht"," ich hatte genannt
+ du hattest genannt
+ er hatte genannt
+ wir hatten genannt
+ ihr hattet genannt
+ sie hatten genannt"," ich hatte gedauert
+ du hattest gedauert
+ er hatte gedauert
+ wir hatten gedauert
+ ihr hattet gedauert
+ sie hatten gedauert"," ich hatte verfilmt
+ du hattest verfilmt
+ er hatte verfilmt
+ wir hatten verfilmt
+ ihr hattet verfilmt
+ sie hatten verfilmt",," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte mitgearbeitet
+ du hattest mitgearbeitet
+ er hatte mitgearbeitet
+ wir hatten mitgearbeitet
+ ihr hattet mitgearbeitet
+ sie hatten mitgearbeitet"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"
 conditional_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -7410,7 +8166,52 @@ conditional_active,Future," ich werde anklagen
  er wird stören
  wir werden stören
  ihr werdet stören
- sie werden stören"
+ sie werden stören"," ich werde beginnen
+ du wirst beginnen
+ er wird beginnen
+ wir werden beginnen
+ ihr werdet beginnen
+ sie werden beginnen"," ich werde mitmachen
+ du wirst mitmachen
+ er wird mitmachen
+ wir werden mitmachen
+ ihr werdet mitmachen
+ sie werden mitmachen"," ich werde nennen
+ du wirst nennen
+ er wird nennen
+ wir werden nennen
+ ihr werdet nennen
+ sie werden nennen"," ich werde dauern
+ du wirst dauern
+ er wird dauern
+ wir werden dauern
+ ihr werdet dauern
+ sie werden dauern"," ich werde verfilmen
+ du wirst verfilmen
+ er wird verfilmen
+ wir werden verfilmen
+ ihr werdet verfilmen
+ sie werden verfilmen",," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde mitarbeiten
+ du wirst mitarbeiten
+ er wird mitarbeiten
+ wir werden mitarbeiten
+ ihr werdet mitarbeiten
+ sie werden mitarbeiten"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"
 conditional_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -7826,7 +8627,52 @@ conditional_active,FuturePerfect," ich werde angeklagt haben
  er wird gestört haben
  wir werden gestört haben
  ihr werdet gestört haben
- sie werden gestört haben"
+ sie werden gestört haben"," ich werde begonnen haben
+ du wirst begonnen haben
+ er wird begonnen haben
+ wir werden begonnen haben
+ ihr werdet begonnen haben
+ sie werden begonnen haben"," ich werde mitgemacht haben
+ du wirst mitgemacht haben
+ er wird mitgemacht haben
+ wir werden mitgemacht haben
+ ihr werdet mitgemacht haben
+ sie werden mitgemacht haben"," ich werde genannt haben
+ du wirst genannt haben
+ er wird genannt haben
+ wir werden genannt haben
+ ihr werdet genannt haben
+ sie werden genannt haben"," ich werde gedauert haben
+ du wirst gedauert haben
+ er wird gedauert haben
+ wir werden gedauert haben
+ ihr werdet gedauert haben
+ sie werden gedauert haben"," ich werde verfilmt haben
+ du wirst verfilmt haben
+ er wird verfilmt haben
+ wir werden verfilmt haben
+ ihr werdet verfilmt haben
+ sie werden verfilmt haben",," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde mitgearbeitet haben
+ du wirst mitgearbeitet haben
+ er wird mitgearbeitet haben
+ wir werden mitgearbeitet haben
+ ihr werdet mitgearbeitet haben
+ sie werden mitgearbeitet haben"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"
 conditional_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -7910,7 +8756,16 @@ conditional_active,InfinitiveI," anklagen
  zu kontrollieren"," nehmen
  zu nehmen"," entwickeln
  zu entwickeln"," stören
- zu stören"
+ zu stören"," beginnen
+ zu beginnen"," mitmachen
+ mitzumachen"," nennen
+ zu nennen"," dauern
+ zu dauern"," verfilmen
+ zu verfilmen",," seh(e)n
+ zu seh(e)n"," mitarbeiten
+ mitzuarbeiten"," freu(e)n
+ zu freu(e)n"," erzählen
+ zu erzählen"
 conditional_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -7994,9 +8849,18 @@ conditional_active,InfinitiveII," angeklagt haben
  kontrolliert zu haben"," genommen haben
  genommen zu haben"," entwickelt haben
  entwickelt zu haben"," gestört haben
- gestört zu haben"
-conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
-conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
+ gestört zu haben"," begonnen haben
+ begonnen zu haben"," mitgemacht haben
+ mitgemacht zu haben"," genannt haben
+ genannt zu haben"," gedauert haben
+ gedauert zu haben"," verfilmt haben
+ verfilmt zu haben",," geseh(e)n haben
+ geseh(e)n zu haben"," mitgearbeitet haben
+ mitgearbeitet zu haben"," gefreut haben
+ gefreut zu haben"," erzählt haben
+ erzählt zu haben"
+conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
+conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
 imperative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -8412,7 +9276,52 @@ imperative_active,Present," ich klag(e) an
  er stört
  wir stören
  ihr stört
- sie stören"
+ sie stören"," ich beginn(e)
+ du beginnst
+ er beginnt
+ wir beginnen
+ ihr beginnt
+ sie beginnen"," ich mach(e) mit
+ du machst mit
+ er macht mit
+ wir machen mit
+ ihr macht mit
+ sie machen mit"," ich nenn(e)
+ du nennst
+ er nennt
+ wir nennen
+ ihr nennt
+ sie nennen"," ich dau(e)r(e)
+ du dauerst
+ er dauert
+ wir dauern
+ ihr dauert
+ sie dauern"," ich verfilm(e)
+ du verfilmst
+ er verfilmt
+ wir verfilmen
+ ihr verfilmt
+ sie verfilmen",," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich arbeit(e) mit
+ du arbeitest mit
+ er arbeitet mit
+ wir arbeiten mit
+ ihr arbeitet mit
+ sie arbeiten mit"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"
 imperative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -8828,7 +9737,52 @@ imperative_active,Imperfect," ich klagte an
  er störte
  wir störten
  ihr störtet
- sie störten"
+ sie störten"," ich begann
+ du begannst
+ er begann
+ wir begannen
+ ihr begannt
+ sie begannen"," ich machte mit
+ du machtest mit
+ er machte mit
+ wir machten mit
+ ihr machtet mit
+ sie machten mit"," ich nannte
+ du nanntest
+ er nannte
+ wir nannten
+ ihr nanntet
+ sie nannten"," ich dauerte
+ du dauertest
+ er dauerte
+ wir dauerten
+ ihr dauertet
+ sie dauerten"," ich verfilmte
+ du verfilmtest
+ er verfilmte
+ wir verfilmten
+ ihr verfilmtet
+ sie verfilmten",," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich arbeitete mit
+ du arbeitetest mit
+ er arbeitete mit
+ wir arbeiteten mit
+ ihr arbeitetet mit
+ sie arbeiteten mit"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"
 imperative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -9244,7 +10198,52 @@ imperative_active,Perfect," ich habe angeklagt
  er hat gestört
  wir haben gestört
  ihr habt gestört
- sie haben gestört"
+ sie haben gestört"," ich habe begonnen
+ du hast begonnen
+ er hat begonnen
+ wir haben begonnen
+ ihr habt begonnen
+ sie haben begonnen"," ich habe mitgemacht
+ du hast mitgemacht
+ er hat mitgemacht
+ wir haben mitgemacht
+ ihr habt mitgemacht
+ sie haben mitgemacht"," ich habe genannt
+ du hast genannt
+ er hat genannt
+ wir haben genannt
+ ihr habt genannt
+ sie haben genannt"," ich habe gedauert
+ du hast gedauert
+ er hat gedauert
+ wir haben gedauert
+ ihr habt gedauert
+ sie haben gedauert"," ich habe verfilmt
+ du hast verfilmt
+ er hat verfilmt
+ wir haben verfilmt
+ ihr habt verfilmt
+ sie haben verfilmt",," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe mitgearbeitet
+ du hast mitgearbeitet
+ er hat mitgearbeitet
+ wir haben mitgearbeitet
+ ihr habt mitgearbeitet
+ sie haben mitgearbeitet"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"
 imperative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -9660,7 +10659,52 @@ imperative_active,Pluperfect," ich hatte angeklagt
  er hatte gestört
  wir hatten gestört
  ihr hattet gestört
- sie hatten gestört"
+ sie hatten gestört"," ich hatte begonnen
+ du hattest begonnen
+ er hatte begonnen
+ wir hatten begonnen
+ ihr hattet begonnen
+ sie hatten begonnen"," ich hatte mitgemacht
+ du hattest mitgemacht
+ er hatte mitgemacht
+ wir hatten mitgemacht
+ ihr hattet mitgemacht
+ sie hatten mitgemacht"," ich hatte genannt
+ du hattest genannt
+ er hatte genannt
+ wir hatten genannt
+ ihr hattet genannt
+ sie hatten genannt"," ich hatte gedauert
+ du hattest gedauert
+ er hatte gedauert
+ wir hatten gedauert
+ ihr hattet gedauert
+ sie hatten gedauert"," ich hatte verfilmt
+ du hattest verfilmt
+ er hatte verfilmt
+ wir hatten verfilmt
+ ihr hattet verfilmt
+ sie hatten verfilmt",," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte mitgearbeitet
+ du hattest mitgearbeitet
+ er hatte mitgearbeitet
+ wir hatten mitgearbeitet
+ ihr hattet mitgearbeitet
+ sie hatten mitgearbeitet"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"
 imperative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -10076,7 +11120,52 @@ imperative_active,Future," ich werde anklagen
  er wird stören
  wir werden stören
  ihr werdet stören
- sie werden stören"
+ sie werden stören"," ich werde beginnen
+ du wirst beginnen
+ er wird beginnen
+ wir werden beginnen
+ ihr werdet beginnen
+ sie werden beginnen"," ich werde mitmachen
+ du wirst mitmachen
+ er wird mitmachen
+ wir werden mitmachen
+ ihr werdet mitmachen
+ sie werden mitmachen"," ich werde nennen
+ du wirst nennen
+ er wird nennen
+ wir werden nennen
+ ihr werdet nennen
+ sie werden nennen"," ich werde dauern
+ du wirst dauern
+ er wird dauern
+ wir werden dauern
+ ihr werdet dauern
+ sie werden dauern"," ich werde verfilmen
+ du wirst verfilmen
+ er wird verfilmen
+ wir werden verfilmen
+ ihr werdet verfilmen
+ sie werden verfilmen",," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde mitarbeiten
+ du wirst mitarbeiten
+ er wird mitarbeiten
+ wir werden mitarbeiten
+ ihr werdet mitarbeiten
+ sie werden mitarbeiten"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"
 imperative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -10492,7 +11581,52 @@ imperative_active,FuturePerfect," ich werde angeklagt haben
  er wird gestört haben
  wir werden gestört haben
  ihr werdet gestört haben
- sie werden gestört haben"
+ sie werden gestört haben"," ich werde begonnen haben
+ du wirst begonnen haben
+ er wird begonnen haben
+ wir werden begonnen haben
+ ihr werdet begonnen haben
+ sie werden begonnen haben"," ich werde mitgemacht haben
+ du wirst mitgemacht haben
+ er wird mitgemacht haben
+ wir werden mitgemacht haben
+ ihr werdet mitgemacht haben
+ sie werden mitgemacht haben"," ich werde genannt haben
+ du wirst genannt haben
+ er wird genannt haben
+ wir werden genannt haben
+ ihr werdet genannt haben
+ sie werden genannt haben"," ich werde gedauert haben
+ du wirst gedauert haben
+ er wird gedauert haben
+ wir werden gedauert haben
+ ihr werdet gedauert haben
+ sie werden gedauert haben"," ich werde verfilmt haben
+ du wirst verfilmt haben
+ er wird verfilmt haben
+ wir werden verfilmt haben
+ ihr werdet verfilmt haben
+ sie werden verfilmt haben",," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde mitgearbeitet haben
+ du wirst mitgearbeitet haben
+ er wird mitgearbeitet haben
+ wir werden mitgearbeitet haben
+ ihr werdet mitgearbeitet haben
+ sie werden mitgearbeitet haben"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"
 imperative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -10576,7 +11710,16 @@ imperative_active,InfinitiveI," anklagen
  zu kontrollieren"," nehmen
  zu nehmen"," entwickeln
  zu entwickeln"," stören
- zu stören"
+ zu stören"," beginnen
+ zu beginnen"," mitmachen
+ mitzumachen"," nennen
+ zu nennen"," dauern
+ zu dauern"," verfilmen
+ zu verfilmen",," seh(e)n
+ zu seh(e)n"," mitarbeiten
+ mitzuarbeiten"," freu(e)n
+ zu freu(e)n"," erzählen
+ zu erzählen"
 imperative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -10660,9 +11803,18 @@ imperative_active,InfinitiveII," angeklagt haben
  kontrolliert zu haben"," genommen haben
  genommen zu haben"," entwickelt haben
  entwickelt zu haben"," gestört haben
- gestört zu haben"
-imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
-imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
+ gestört zu haben"," begonnen haben
+ begonnen zu haben"," mitgemacht haben
+ mitgemacht zu haben"," genannt haben
+ genannt zu haben"," gedauert haben
+ gedauert zu haben"," verfilmt haben
+ verfilmt zu haben",," geseh(e)n haben
+ geseh(e)n zu haben"," mitgearbeitet haben
+ mitgearbeitet zu haben"," gefreut haben
+ gefreut zu haben"," erzählt haben
+ erzählt zu haben"
+imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
+imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
 infinitive_participle_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -11078,7 +12230,52 @@ infinitive_participle_active,Present," ich klag(e) an
  er stört
  wir stören
  ihr stört
- sie stören"
+ sie stören"," ich beginn(e)
+ du beginnst
+ er beginnt
+ wir beginnen
+ ihr beginnt
+ sie beginnen"," ich mach(e) mit
+ du machst mit
+ er macht mit
+ wir machen mit
+ ihr macht mit
+ sie machen mit"," ich nenn(e)
+ du nennst
+ er nennt
+ wir nennen
+ ihr nennt
+ sie nennen"," ich dau(e)r(e)
+ du dauerst
+ er dauert
+ wir dauern
+ ihr dauert
+ sie dauern"," ich verfilm(e)
+ du verfilmst
+ er verfilmt
+ wir verfilmen
+ ihr verfilmt
+ sie verfilmen",," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich arbeit(e) mit
+ du arbeitest mit
+ er arbeitet mit
+ wir arbeiten mit
+ ihr arbeitet mit
+ sie arbeiten mit"," ich freu(e)
+ du freust
+ er freut
+ wir freu(e)n
+ ihr freut
+ sie freu(e)n"," ich erzähl(e)
+ du erzählst
+ er erzählt
+ wir erzählen
+ ihr erzählt
+ sie erzählen"
 infinitive_participle_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -11494,7 +12691,52 @@ infinitive_participle_active,Imperfect," ich klagte an
  er störte
  wir störten
  ihr störtet
- sie störten"
+ sie störten"," ich begann
+ du begannst
+ er begann
+ wir begannen
+ ihr begannt
+ sie begannen"," ich machte mit
+ du machtest mit
+ er machte mit
+ wir machten mit
+ ihr machtet mit
+ sie machten mit"," ich nannte
+ du nanntest
+ er nannte
+ wir nannten
+ ihr nanntet
+ sie nannten"," ich dauerte
+ du dauertest
+ er dauerte
+ wir dauerten
+ ihr dauertet
+ sie dauerten"," ich verfilmte
+ du verfilmtest
+ er verfilmte
+ wir verfilmten
+ ihr verfilmtet
+ sie verfilmten",," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich arbeitete mit
+ du arbeitetest mit
+ er arbeitete mit
+ wir arbeiteten mit
+ ihr arbeitetet mit
+ sie arbeiteten mit"," ich freute
+ du freutest
+ er freute
+ wir freuten
+ ihr freutet
+ sie freuten"," ich erzählte
+ du erzähltest
+ er erzählte
+ wir erzählten
+ ihr erzähltet
+ sie erzählten"
 infinitive_participle_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -11910,7 +13152,52 @@ infinitive_participle_active,Perfect," ich habe angeklagt
  er hat gestört
  wir haben gestört
  ihr habt gestört
- sie haben gestört"
+ sie haben gestört"," ich habe begonnen
+ du hast begonnen
+ er hat begonnen
+ wir haben begonnen
+ ihr habt begonnen
+ sie haben begonnen"," ich habe mitgemacht
+ du hast mitgemacht
+ er hat mitgemacht
+ wir haben mitgemacht
+ ihr habt mitgemacht
+ sie haben mitgemacht"," ich habe genannt
+ du hast genannt
+ er hat genannt
+ wir haben genannt
+ ihr habt genannt
+ sie haben genannt"," ich habe gedauert
+ du hast gedauert
+ er hat gedauert
+ wir haben gedauert
+ ihr habt gedauert
+ sie haben gedauert"," ich habe verfilmt
+ du hast verfilmt
+ er hat verfilmt
+ wir haben verfilmt
+ ihr habt verfilmt
+ sie haben verfilmt",," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe mitgearbeitet
+ du hast mitgearbeitet
+ er hat mitgearbeitet
+ wir haben mitgearbeitet
+ ihr habt mitgearbeitet
+ sie haben mitgearbeitet"," ich habe gefreut
+ du hast gefreut
+ er hat gefreut
+ wir haben gefreut
+ ihr habt gefreut
+ sie haben gefreut"," ich habe erzählt
+ du hast erzählt
+ er hat erzählt
+ wir haben erzählt
+ ihr habt erzählt
+ sie haben erzählt"
 infinitive_participle_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -12326,7 +13613,52 @@ infinitive_participle_active,Pluperfect," ich hatte angeklagt
  er hatte gestört
  wir hatten gestört
  ihr hattet gestört
- sie hatten gestört"
+ sie hatten gestört"," ich hatte begonnen
+ du hattest begonnen
+ er hatte begonnen
+ wir hatten begonnen
+ ihr hattet begonnen
+ sie hatten begonnen"," ich hatte mitgemacht
+ du hattest mitgemacht
+ er hatte mitgemacht
+ wir hatten mitgemacht
+ ihr hattet mitgemacht
+ sie hatten mitgemacht"," ich hatte genannt
+ du hattest genannt
+ er hatte genannt
+ wir hatten genannt
+ ihr hattet genannt
+ sie hatten genannt"," ich hatte gedauert
+ du hattest gedauert
+ er hatte gedauert
+ wir hatten gedauert
+ ihr hattet gedauert
+ sie hatten gedauert"," ich hatte verfilmt
+ du hattest verfilmt
+ er hatte verfilmt
+ wir hatten verfilmt
+ ihr hattet verfilmt
+ sie hatten verfilmt",," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte mitgearbeitet
+ du hattest mitgearbeitet
+ er hatte mitgearbeitet
+ wir hatten mitgearbeitet
+ ihr hattet mitgearbeitet
+ sie hatten mitgearbeitet"," ich hatte gefreut
+ du hattest gefreut
+ er hatte gefreut
+ wir hatten gefreut
+ ihr hattet gefreut
+ sie hatten gefreut"," ich hatte erzählt
+ du hattest erzählt
+ er hatte erzählt
+ wir hatten erzählt
+ ihr hattet erzählt
+ sie hatten erzählt"
 infinitive_participle_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -12742,7 +14074,52 @@ infinitive_participle_active,Future," ich werde anklagen
  er wird stören
  wir werden stören
  ihr werdet stören
- sie werden stören"
+ sie werden stören"," ich werde beginnen
+ du wirst beginnen
+ er wird beginnen
+ wir werden beginnen
+ ihr werdet beginnen
+ sie werden beginnen"," ich werde mitmachen
+ du wirst mitmachen
+ er wird mitmachen
+ wir werden mitmachen
+ ihr werdet mitmachen
+ sie werden mitmachen"," ich werde nennen
+ du wirst nennen
+ er wird nennen
+ wir werden nennen
+ ihr werdet nennen
+ sie werden nennen"," ich werde dauern
+ du wirst dauern
+ er wird dauern
+ wir werden dauern
+ ihr werdet dauern
+ sie werden dauern"," ich werde verfilmen
+ du wirst verfilmen
+ er wird verfilmen
+ wir werden verfilmen
+ ihr werdet verfilmen
+ sie werden verfilmen",," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde mitarbeiten
+ du wirst mitarbeiten
+ er wird mitarbeiten
+ wir werden mitarbeiten
+ ihr werdet mitarbeiten
+ sie werden mitarbeiten"," ich werde freu(e)n
+ du wirst freu(e)n
+ er wird freu(e)n
+ wir werden freu(e)n
+ ihr werdet freu(e)n
+ sie werden freu(e)n"," ich werde erzählen
+ du wirst erzählen
+ er wird erzählen
+ wir werden erzählen
+ ihr werdet erzählen
+ sie werden erzählen"
 infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -13158,7 +14535,52 @@ infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  er wird gestört haben
  wir werden gestört haben
  ihr werdet gestört haben
- sie werden gestört haben"
+ sie werden gestört haben"," ich werde begonnen haben
+ du wirst begonnen haben
+ er wird begonnen haben
+ wir werden begonnen haben
+ ihr werdet begonnen haben
+ sie werden begonnen haben"," ich werde mitgemacht haben
+ du wirst mitgemacht haben
+ er wird mitgemacht haben
+ wir werden mitgemacht haben
+ ihr werdet mitgemacht haben
+ sie werden mitgemacht haben"," ich werde genannt haben
+ du wirst genannt haben
+ er wird genannt haben
+ wir werden genannt haben
+ ihr werdet genannt haben
+ sie werden genannt haben"," ich werde gedauert haben
+ du wirst gedauert haben
+ er wird gedauert haben
+ wir werden gedauert haben
+ ihr werdet gedauert haben
+ sie werden gedauert haben"," ich werde verfilmt haben
+ du wirst verfilmt haben
+ er wird verfilmt haben
+ wir werden verfilmt haben
+ ihr werdet verfilmt haben
+ sie werden verfilmt haben",," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde mitgearbeitet haben
+ du wirst mitgearbeitet haben
+ er wird mitgearbeitet haben
+ wir werden mitgearbeitet haben
+ ihr werdet mitgearbeitet haben
+ sie werden mitgearbeitet haben"," ich werde gefreut haben
+ du wirst gefreut haben
+ er wird gefreut haben
+ wir werden gefreut haben
+ ihr werdet gefreut haben
+ sie werden gefreut haben"," ich werde erzählt haben
+ du wirst erzählt haben
+ er wird erzählt haben
+ wir werden erzählt haben
+ ihr werdet erzählt haben
+ sie werden erzählt haben"
 infinitive_participle_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -13242,7 +14664,16 @@ infinitive_participle_active,InfinitiveI," anklagen
  zu kontrollieren"," nehmen
  zu nehmen"," entwickeln
  zu entwickeln"," stören
- zu stören"
+ zu stören"," beginnen
+ zu beginnen"," mitmachen
+ mitzumachen"," nennen
+ zu nennen"," dauern
+ zu dauern"," verfilmen
+ zu verfilmen",," seh(e)n
+ zu seh(e)n"," mitarbeiten
+ mitzuarbeiten"," freu(e)n
+ zu freu(e)n"," erzählen
+ zu erzählen"
 infinitive_participle_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -13326,6 +14757,15 @@ infinitive_participle_active,InfinitiveII," angeklagt haben
  kontrolliert zu haben"," genommen haben
  genommen zu haben"," entwickelt haben
  entwickelt zu haben"," gestört haben
- gestört zu haben"
-infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend
-infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört
+ gestört zu haben"," begonnen haben
+ begonnen zu haben"," mitgemacht haben
+ mitgemacht zu haben"," genannt haben
+ genannt zu haben"," gedauert haben
+ gedauert zu haben"," verfilmt haben
+ verfilmt zu haben",," geseh(e)n haben
+ geseh(e)n zu haben"," mitgearbeitet haben
+ mitgearbeitet zu haben"," gefreut haben
+ gefreut zu haben"," erzählt haben
+ erzählt zu haben"
+infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
+infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt

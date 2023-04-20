@@ -9,12 +9,10 @@ from text import Blackboard, TextAnalyzer
 
 # PROGRESS ------------------------------------------
 # TODO: manager arguments in the TUI script >> input is selected
-# TODO: pass the status to the tui.
-# TODO: an analyzed text should never trigger scrapping
-# TODO: finish anki generation for the rest of:
-# - adjectives
-# - adverbs
-# - prepositions
+# TODO: pass the status to the TUI in the
+# TODO: use button to exit all close all files gracefully
+# TODO: add button to clear text of all schemes
+# TODO: make text and analyze update realtime when a new info is ready
 # ---------------------------------------------------
 """
 # TODO: use it to redraw text

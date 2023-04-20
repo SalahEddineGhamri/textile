@@ -1,6 +1,7 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn
-basic_forms,english,,,,,,,,,,,,,,,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an
+basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
+",,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -31,7 +32,32 @@ to stilt | stilted, stilted |
 to be on tenterhooks
 to guard sth. jealously
 ","so. notices that ... infinitive: notice
-",,,,,,
+",,,,,,,"to be aux. | was, been |
+to be sth. | was, been |
+to be | was, been |
+to be + expression of place | was, been | - be situated or located
+to be out and about
+to be after so./sth.
+to be beyond so.
+to be beyond so.
+to be beyond so.
+to be around
+to be around
+to be around
+to be around
+to be into so./sth.
+",,"to power cycle sth. [coll.] [ELEC.]
+",,,,,"to have sth. down pat
+to have sth. off pat
+to know sth. inside out
+to have sth. down cold [coll.] chiefly (Amer.)
+","to drive so./an animal (on)
+to skin so./an animal
+to skin so./an animal
+to pen so./an animal ⇔ up
+to pen so./an animal ⇔ up
+to pen so./an animal ⇔ in
+"
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -62,7 +88,32 @@ wie auf Stelzen gehen
 wie auf heißen Kohlen sitzen
 etw.acc. wie seinen Augapfel hüten
 ","jmdm. fällt auf, dass ... infinitive: auffallen
-",,,,,,
+",,,,,,,"sein | war, gewesen |
+etw.nom. sein | war, gewesen |
+betragen | betrug, betragen |
+sichacc. + expression of place befinden | befand, befunden | - an einem Ort
+unterwegs sein
+hinter jmdm./etw. her sein
+jmds. Fähigkeiten übersteigen
+jmdm. ein Rätsel sein
+jmdm. zu hoch sein | war, gewesen |
+da sein
+in der Nähe sein
+dabei sein - anwesend sein
+hier sein
+sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
+",,"etw.acc. aus- und wieder einschalten | schaltete aus, ausgeschaltet |
+",,,,,"etw.acc. in- und auswendig können
+etw.acc. in- und auswendig können
+etw.acc. in- und auswendig kennen
+etw.acc. in- und auswendig können
+","jmdn. (or: ein Tier) antreiben | trieb an, angetrieben |
+jmdn. (or: ein Tier) häuten | häutete, gehäutet |
+jmdm. (or: einem Tier) die Haut abziehen
+jmdn. (or: ein Tier) einpferchen | pferchte ein, eingepfercht |
+jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
+jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
+"
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -272,7 +323,120 @@ respect (for sth.)
 revulsion (at)
 on-site operation
 on-site installation
-",
+",,"at the money forward [FINAN.]
+amplitude modulated signal generator [METR.]
+double-sideband amplitude modulation system [abbr.: DSB-AM] [TELECOM.]
+Frankfurt am Main [GEOG.]
+pro-am tournament
+to be committed to doing sth.
+to be a dunce at sth. - e.g. at a certain subject
+to be a dunce at sth. - e.g. at a certain subject
+to be in the family way
+to be infatuated with so./sth.
+to be paralysedAE / paralyzedAE with shock [coll.]to be paralysedBE with shock [coll.]
+to be always on the go
+to be buoyed by sth. [fig.]
+material to be conveyed
+","opposition (to)
+resistance (to)
+Law Against Unfair Competition [LAW]
+cash on delivery [abbr.: COD]
+upstream [TECH.]
+susceptibility (to sth.)
+violation (of sth.)
+remedy (for)
+dig (at so.) - mocking remark
+aversion (to)
+objection (to sth.)
+case (against so.)
+distaste (for)
+antipathy (to)
+","off
+cross (between) [BIOL.]
+oak-log
+off kilter
+bio-dimethyl ether [abbr.: BioDME] [TECH.]
+bio dimethyl ether [CHEM.]
+loss resulting from ...
+residue-derived fuel [abbr.: RDF] [ENV.]
+waste-derived fuel [abbr.: WDF] [ENV.]
+chemical vaporAE deposition [abbr.: CVD] [ENV.]chemical vapourBE deposition [abbr.: CVD] [ENV.]
+chemical vaporAE deposition [abbr.: CVD] [ENV.]chemical vapourBE deposition [abbr.: CVD] [ENV.]
+off state
+idle position
+off-position
+","to make so. happy (with sth.)
+in one fell swoop
+stayer
+to give so. the pleasure of sth.
+accord (with)
+similarity (to)
+exposure (to)
+compliance (with)
+exposure (to sth.)
+border with Hungary/Germany/Austria
+the matter with sth.
+preoccupation with sth.
+limited liability company [COMM.]
+limited company (Brit.) [COMM.]
+","bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
+to-date [FINAN.]
+in over your head
+BIS equity ratio [FINAN.]
+remaining cost (or: costs) to completion [FINAN.]
+time to creep rupture
+term of maturity
+term of payment
+time to chopping [ELEC.]
+service stop [TECH.]
+time to crest - of a switching impulse [ELEC.]
+fatigue life [TECH.]
+total life to failure [TECH.]
+rupture life [TECH.]
+","view (of sth.)
+tax - pl.: taxes (on sth.) [FINAN.]
+application (to)
+prospect (of sth.)
+influence (on)
+right (to)
+access (to) also [COMP.]
+reference (to)
+right (to)
+faith (in so./sth.)
+rise and fall
+swayings
+on-wall [TECH.]
+allusion (to sth.)
+","when
+","the ins pl. (Amer.) [POL.]
+belief (in so./sth.)
+faith (in sth.)
+share (in sth.)
+faith (in so./sth.)
+faith (in so./sth.)
+single-handedly
+in tray (or: in-tray)
+in tray (or: in-tray)
+in tray (or: in-tray)
+in tatters
+in tatters
+in connection
+on the side - position of a body
+","share (in sth.)
+faith (in sth.)
+belief (in so./sth.)
+lack (of)
+absence (of)
+despair (of sth.)
+reminder (of)
+point-of-sale [abbr.: POS] [COMM.]
+dearth (of)
+attribution (to so.)
+want (of sth.)
+reminiscence (of)
+participation
+excess (of)
+"
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
@@ -482,7 +646,120 @@ die Hochachtung (vor etw.dat.) no plural
 der Ekel (vor) no plural
 der Vor-Ort-Einsatz
 die Vor-Ort-Installation pl.: die Vor-Ort-Installationen
-",
+",,"der Am-Geld-Termin
+der AM-Signalgenerator pl.: die AM-Signalgeneratoren
+das Zweiseitenband-AM-System
+Frankfurt am Main
+Turnier der Profis und Amateure
+sichdat. zur Aufgabe machen, etw.acc. zu tun
+eine Niete in etw. sein - z. B. in einem Schulfach
+schlecht in etw. sein - z. B. in einem Schulfach
+schwanger sein
+in jmdn./etw. vernarrt sein
+in Schockstarre sein [coll.]
+umtriebig sein [coll.]
+von etw.dat. beflügelt sein [fig.]
+das Fördergut pl.: die Fördergüter
+","der Widerspruch (gegen) pl.: die Widersprüche
+der Widerstand (gegen) pl.: die Widerstände
+Gesetz gegen den unlauteren Wettbewerb [abbr.: UWG]
+gegen Nachnahme
+gegen Bandlaufrichtung
+die Empfindlichkeit (gegen etw.acc.) pl.
+der Verstoß (gegen etw.acc.) pl.: die Verstöße
+das Heilmittel (gegen) pl.: die Heilmittel
+die Spitze (gegen jmdn.) pl.: die Spitzen
+die Aversion (gegen) pl.: die Aversionen
+die Bedenken (gegen etw.acc.) pl.
+die Vorwürfe (gegen jmdn.) pl.
+der Widerwille rarely: Widerwillen (gegen) no plural
+der Widerwille rarely: Widerwillen (gegen) no plural
+","das Aus pl.: die Aus
+die Mischung (aus) pl.: die Mischungen
+aus Eichenstämmen
+aus dem Gleichgewicht
+aus Biomasse dargestellter Dimethylether [abbr.: DME]
+aus Biomasse dargestellter Dimethylether [abbr.: DME]
+der Verlust aus ... pl.: die Verluste
+Brennstoff aus Müll [abbr.: BRAM]
+Brennstoff aus Müll [abbr.: BRAM]
+chemische Abscheidung aus der Dampfphase [abbr.: CVD]
+chemische Abscheidung aus der Gasphase [abbr.: CVD]
+der Aus-Zustand pl.: die Aus-Zustände
+die Aus-Stellung pl.: die Aus-Stellungen
+die Aus-Stellung pl.: die Aus-Stellungen
+","jmdn. (mit etw.dat.) beglücken
+mit einem Schlag
+jmd. mit Ausdauer
+jmdn. mit etw.dat. beglücken
+die Übereinstimmung (mit) pl.: die Übereinstimmungen
+die Ähnlichkeit (mit) pl.: die Ähnlichkeiten
+der Kontakt (mit) +dat. pl.: die Kontakte
+das Einverständnis (mit) pl.: die Einverständnisse
+der Umgang (mit etw.dat.) no plural
+Grenze zu (or: mit) Ungarn/Deutschland/Österreich
+das Problem mit etw.dat. pl.: die Probleme
+die Beschäftigung mit etw.dat. no plural
+Gesellschaft mit beschränkter Haftung [abbr.: GmbH]
+Gesellschaft mit beschränkter Haftung [abbr.: GmbH]
+","das Bis-Hydroxyäthylsulfon
+das Bis-Datum pl.: die Bis-Daten [Bookkeeping]
+bis über den Kopf
+die BIZ-Eigenkapitalquote pl.: die BIZ-Eigenkapitalquoten
+bis zur Fertigstellung anfallende Kosten pl., no sg.
+Zeit bis zum Zeitstandbruch
+Dauer bis zur Fälligkeit
+Frist bis zur Fälligkeit der Zahlung
+Dauer bis zum Abschneiden
+Betriebsbremsung bis zum Stillstand
+Dauer bis zum Scheitel - einer Schaltstoßspannung
+Ermüdungslebensdauer bis zum Dauerbruch
+Gesamtlebensdauer bis zum Bruch
+Lebensdauer bis zum Bruch
+","die Aussicht (auf etw.acc.) pl.
+die Steuer (auf etw.acc.) pl.: die Steuern
+die Anwendung (auf) pl.: die Anwendungen
+die Aussicht (auf etw.acc.) pl.
+der Einfluss (auf) pl.: die Einflüsse
+das Recht (auf) pl.
+der Zugriff (auf) pl.: die Zugriffe
+der Bezug (auf +acc.) pl.: die Bezüge
+der Anspruch (auf) pl.: die Ansprüche
+das Vertrauen (auf jmdn./etw.) no plural
+Auf und Ab
+das Auf und Ab
+auf Putz
+die Anspielung (auf etw.acc.) pl.: die Anspielungen
+","das Wann
+","die Regierungspartei pl.: die Regierungsparteien
+der Glaube rarely: Glauben (an jmdn./etw.) no plural
+der Glaube rarely: Glauben (an etw.acc.) no plural
+der Anteil (an etw.dat.) pl.: die Anteile
+das Vertrauen (auf jmdn./etw.) no plural
+das Vertrauen (in jmdn./etw.) no plural
+in Eigenregie
+der Posteingang pl.: die Posteingänge
+Ablagekorb für eingehende Post
+der Eingangskorb pl.: die Eingangskörbe
+am Ende
+zunichte
+im Zusammenhang
+in Seitenlage
+","der Anteil (an etw.dat.) pl.: die Anteile
+der Glaube rarely: Glauben (an etw.acc.) no plural
+der Glaube rarely: Glauben (an jmdn./etw.) no plural
+der Mangel (an)
+der Mangel (an)
+die Verzweiflung (an etw.dat.) pl.
+die Erinnerung (an) pl.: die Erinnerungen
+an der Verkaufsstelle
+der Mangel (an)
+die Zuschreibung (an jmdn.) pl.: die Zuschreibungen
+der Mangel (an etw.dat.)
+die Erinnerung (an) pl.: die Erinnerungen
+die Teilhabe (an etw.dat.) pl.: die Teilhaben - Partizipation
+das Übermaß (an) pl.: die Übermaße
+"
 noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
@@ -585,8 +862,62 @@ genus: MASC
 plural: 
 meaning: protection (against (or: from) sth.)
 fear (of sth.)
-",
-noun_details,german,,,,,,,,,,,,,,,,,,,
+",,"article: der
+word: Am-Geld-Termin
+genus: MASC
+plural: Am-Geld-Termin
+meaning: at the money forward [FINAN.]
+amplitude modulated signal generator [METR.]
+","article: Der
+word: Gege
+genus: MASC
+plural: Gegen
+meaning: opposition (to)
+resistance (to)
+","article: Das
+word: Aus
+genus: NEUT
+plural: die Aus
+meaning: off
+cross (between) [BIOL.]
+","article: jmdn.
+word: (mit
+genus: 
+plural: beglücken
+meaning: to make so. happy (with sth.)
+in one fell swoop
+","article: das
+word: Bis-Hydroxyäthylsulfon
+genus: NEUT
+plural: Bis-Hydroxyäthylsulfon
+meaning: bis-hydroxyethyl-sulfoneAE [CHEM.]bis-hydroxyethyl-sulphoneBE [CHEM.]
+to-date [FINAN.]
+","article: die
+word: Aussicht
+genus: FEMI
+plural: 
+meaning: view (of sth.)
+tax - pl.: taxes (on sth.) [FINAN.]
+","article: das
+word: Wann
+genus: NEUT
+plural: Wann
+meaning: when
+
+","article: die
+word: Regierungspartei
+genus: FEMI
+plural: die Regierungsparteien
+meaning: the ins pl. (Amer.) [POL.]
+belief (in so./sth.)
+","article: der
+word: Anteil
+genus: MASC
+plural: die Anteile
+meaning: share (in sth.)
+faith (in sth.)
+"
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -780,6 +1111,128 @@ a short time ago
 ","for though
 more than ever
 less than ever
+","to be
+ibidem Latin [abbr.: ibid.] adv.
+in the place cited [abbr.: l.c.] - from Latin: loco citato
+marginally adv.
+marginal adj.
+to be defined [abbr.: TBD]
+to be determined [abbr.: TBD]
+to be distraught (over sth.) adj.
+to be paid
+to be added
+designed to be sth.
+on the brink
+at the brink of death
+on the brink of death
+","about adv.
+towardAE the end towardsBE the end
+gainful adj.
+on a cash basis
+against cash
+for spot cash
+for money
+about noon
+about midnight
+in return for payment
+towardAE evening towardsBE evening
+against fraud
+for a salary
+in return for payment of rent
+","off adj. adv. [TECH.]
+out adj. - finished
+over adv. - finished
+all over
+out of bounds
+out of curiosity
+by accident
+accidentally adv.
+inadvertently adv.
+by mistake
+by an oversight
+through an oversight
+Cornish adj.
+ebony adj.
+","too adv.
+also adv.
+one of the - + superlative
+by bike/bus/train/tube
+certainly adv.
+together (with) adv.
+married (to so.) adj.
+on purpose
+comparable (to (or: with)) adj.
+interchangeable (with sth.) adj.
+by design
+designedly adv.
+deliberately adv.
+with intent
+","till adv. conj.
+to date
+till this day
+to this day
+so far
+to date
+as yet
+till now
+until now
+up to the present
+till then
+until then
+by then
+by the end of the year
+","up adv.
+open adj.
+suddenly adv.
+at once
+on spec
+permanently adv.
+in perpetuity
+in one shot adv.
+all at once
+at a single blow
+all of a sudden
+on request
+on inquiryAE on enquiryBE
+arboreal adj.
+","when adv.
+whenever adv.
+in fits and starts
+now and then
+on occasion
+every now and then
+from time to time
+on and off
+whenever adv.
+whensoever adv. [form.]
+","in adv.
+in adv.
+hot adj. [coll.]
+rolled into one
+in adj. [AVIAT.]
+inner adj.
+inner adj.
+inner adj.
+inner adj. [fig.]
+inner adj. [fig.]
+inner adj. [fig.]
+in time (for)
+in vain
+in vain
+","on adv.
+arrives + expression of time - on a timetable
+per se adv.
+as such adv.
+by itself
+intrinsically adv.
+in principle
+at such and such a place/day
+rich (in) adj.
+on board
+close (to) adj.
+aboard ship
+on board ship
+ashore adv.
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -974,6 +1427,128 @@ vor Kurzem (or: kurzem)
 ","denn obwohl
 mehr denn je
 weniger denn je
+","in spe
+am angegebenen Ort [abbr.: a.a.O.]
+am angegebenen Ort [abbr.: a. a. O.]
+am Rande
+am Rand (or: Rande)
+noch nicht definiert
+noch nicht festgelegt
+(über etw.acc.) außer sichdat. sein
+zahlungsrelevant
+wird noch hinzugefügt
+für etw.acc. vorgesehen
+am Rande des Abgrunds
+am Rande des Todes
+am Rande des Todes
+","gegen
+gegen Ende
+gegen Vergütung
+gegen bar
+gegen bar
+gegen bar
+gegen Entgelt
+gegen Mittag
+gegen Mitternacht
+gegen Zahlung
+gegen Abend
+gegen Betrug
+gegen Gehalt
+gegen Miete
+","aus adv.
+aus adv.
+aus
+aus adv.
+im Aus
+aus Neugier (or: Neugierde)
+aus Versehen
+aus Versehen
+aus Versehen
+aus Versehen
+aus Versehen
+aus Versehen
+aus Cornwall
+aus Ebenholz
+","mit - ebenfalls, auch
+mit - ebenfalls, auch
+mit - + Superlativ
+mit dem Fahrrad/dem Bus/dem Zug/der U-Bahn
+mit Sicherheit
+zusammen (mit)
+verheiratet (mit jmdm.)
+mit Absicht
+vergleichbar (mit +dat.)
+(mit etw.dat.) austauschbar
+mit Absicht
+mit Absicht
+mit Absicht
+mit Absicht
+","bis
+bis heute
+bis heute
+bis heute
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis dahin
+bis dahin
+bis dahin
+bis Jahresende
+","auf
+auf [coll.]
+auf einmal
+auf einmal
+auf Verdacht
+auf Dauer - für unbegrenzte Zeit
+auf Dauer - für unbegrenzte Zeit
+auf einmal
+auf einmal
+auf einmal
+auf einmal
+auf Anfrage
+auf Anfrage
+auf Bäumen
+","wann
+wann immer
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+dann und wann
+wann auch immer
+wann auch immer
+","hinein
+herein
+in [sl.]
+in einem
+eingeschaltet
+inner
+Innen...
+inwendig
+innerlich
+verborgen
+geheim
+rechtzeitig (zu)
+umsonst adv.
+vergeblich
+","an
+an + expression of time - auf einem Fahrplan
+an sich
+an sich
+an sich
+an sich
+an sich
+an dem und dem Ort/Tag
+reich (an)
+an Bord
+nah or: nahe (an)
+an Bord
+an Bord
+an Land
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -1171,6 +1746,120 @@ Whoever else?
 What a sight you are!
 for all I know
 What are the odds! [coll.]
+","to be out and about again - after a period of illnes
+to be in - in fashion
+to be out - out of fashion
+to be out and about - going to many different places
+to be down and out
+to be up and about again - after a period of illnes
+to be down on so./sth. [coll.] (Brit.)
+to be down on so./sth. [coll.] (Brit.)
+to be down on so./sth. [coll.] (Brit.)
+to be on the up and up (Brit.) [coll.]
+to be on the up and up (Brit.) [coll.]
+to be on the up and up (Brit.) [coll.]
+Nor am I.
+on the sidelines of negotiations
+","around midnight
+in the teeth of the wind
+against the current
+not a patch on sth. [fig.] [coll.]
+the judgmentAE is not appealablethe judgementBE is not appealable
+hand to hand
+it was a case of dog eat dog
+It goes against the grain for me.
+cash sales only [FINAN.]
+cash only
+ready money down
+ready money only
+","with might and main
+ad libitum
+Well, that was that!
+out of whack (Amer.) [coll.]
+as a gesture of goodwill [COMM.]
+out of the money [FINAN.]
+a cross between ...
+Spit it out! [fig.] [coll.]
+to run out of road [fig.]
+out of the blue
+out of a clear blue sky (Amer.)
+out of the sky
+straight from the horse's mouth
+from the bottom of one's heart
+","Yours sincerely
+Sincerely yours (Amer.)
+Yours faithfully
+Kind regards, ...
+Yours truly
+with gusto
+hell for leather
+by your leave
+if you will excuse me
+with respect
+not to put too fine a point on it
+by a considerable margin
+with gusto
+faster than sound
+","See you soon!
+Bye for now!
+See you later!
+So long!
+Cheers!
+See you tomorrow!
+See you later!
+See you, then!
+See you on Monday!
+by ...
+Hooroo! or: Hooray [coll.] (Aust.)
+term expires [FINAN.]
+ad nauseam
+ad nauseam
+","Bye! or: By!
+Goodbye! - on the phone
+Bye! or: By! - on the phone
+goodbye or: good-bye
+Bye-bye! [coll.]
+never to be seen again
+See you!
+Ta ra! (Brit.)
+Ta ta! (Brit.)
+Good night!
+See you again!
+So long!
+just ticking over (Brit.)
+so long
+","since when
+When's it due? - it = the baby
+What time is the last train?
+When's it due?
+","In. [SPORT.]
+O.k.!
+All right!
+Come in!
+It's raining cats and dogs.
+all right
+in my humble opinion [abbr.: imho]
+in my humble opinion [abbr.: imho]
+in writing
+work in progress
+in yonks
+in abeyance
+in abeyance
+in drifts
+","to Messrs ... (Brit.)
+(By) The Beautiful Blue Danube (or: ""Blue Danube"") [MUS.]
+Splice the main brace (or: mainbrace).
+pantograph up
+oodles of sth.
+a welter of ... - jumble, muddle
+oodles of sth.
+Lo and behold! chiefly [hum.]
+Don't let me stop you!
+in the first flight
+An idle brain is the devil's workshop.
+there is sth. fishy about sth.
+To whom it may concern - opening statement in certain types of communication with public bodies etc.
+An eye for an eye, a tooth for a tooth.
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -1368,6 +2057,120 @@ Wer denn sonst?
 Wie siehst du denn aus!
 oder was weiß denn ich [coll.]
 Wie unwahrscheinlich ist das denn!
+","wieder auf den Beinen sein - wieder gesund sein
+in sein - in Mode
+out sein - außer Mode
+viel auf den Beinen sein - unterwegs sein
+ganz unten sein
+wieder auf den Beinen sein
+etwas gegen jmdn./etw. haben
+gegen jmdn./etw. einen Groll hegen
+jmdm./etw. gegenüber feindselig eingestellt sein
+auf dem Wege (or: Weg) der Besserung sein
+auf dem aufsteigenden Ast sein
+sichacc. verbessern | verbesserte, verbessert |
+Ich auch nicht.
+am Rande der Verhandlungen
+","gegen Mitternacht
+gegen den Wind
+gegen den Strom
+nichts gegen etw.acc.
+gegen das Urteil kann keine Berufung eingelegt werden
+Mann gegen Mann
+es war ein Kampf jeder gegen jeden
+Das geht mir gegen den Strich.
+nur gegen bar
+nur gegen bar
+nur gegen bar
+nur gegen bar
+","aus (or: nach) Leibeskräften
+aus dem Stegreif
+Aus der Traum!
+aus dem Gleichgewicht
+aus Kulanz
+aus dem Geld
+ein Mischung aus ...
+Spuck's aus! [fig.] [coll.]
+vor dem Aus stehen [fig.]
+aus heiterem Himmel
+aus heiterem Himmel
+aus heiterem Himmel
+aus erster Hand
+aus tiefstem Herzen
+","Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+mit Gusto
+mit Karacho
+mit Verlaub
+mit Verlaub
+mit Verlaub
+mit Verlaub
+mit Abstand
+mit Enthusiasmus
+mit Überschallgeschwindigkeit
+","Bis bald!
+Bis bald!
+Bis dann!
+Bis dann!
+Bis dann!
+Bis morgen!
+Bis später!
+Bis später!
+Bis Montag!
+bis spätestens ...
+Bis dann!
+bestellt bis
+bis zum Erbrechen
+bis zum Gehtnichtmehr
+","Auf Wiedersehen!
+Auf Wiederhören! - am Telefon
+Auf Wiederhören! - am Telefon
+auf Wiedersehen
+Auf Wiedersehen!
+auf Nimmerwiedersehen
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+auf Sparflamme
+auf Wiedersehen
+","seit wann
+Wann ist es so weit? - mit der Geburt
+Wann fährt der letzte Zug?
+Wann hast du Termin? - Geburtstermin [coll.]
+","Steigt ein. - Ruderkommando
+In Ordnung!
+In Ordnung!
+Herein!
+Es regnet in Strömen.
+in Ordnung
+meiner bescheidenen Meinung nach
+meiner unbedeutenden Meinung nach
+schwarz auf weiß
+in Arbeit
+seit ewig und drei Tagen
+eingestellt
+zeitweilig außer Kraft gesetzt
+in einzelnen Gruppen
+","an die Herren ...
+An der schönen blauen Donau or: ""Donauwalzer"" - Walzer von Johann Strauss
+Besanschot an!
+Bügel an
+Unmengen von (or: an) etw.dat.
+ein Wirrwarr an ...
+eine Unmenge von (or: an) etw.dat.
+Sieh an! chiefly [hum.]
+An mir soll es nicht liegen!
+an vorderster Front
+Müßiggang ist aller Laster Anfang.
+an einer Sache ist etwas faul
+An die zuständige Abteilung/Behörde/Stelle...
+Auge um Auge, Zahn um Zahn.
 "
 examples,english,"in English
 in 1999
@@ -1614,6 +2417,129 @@ He has little regard for human life.
 ","What's the matter?
 Can I talk to you for a second? - Yes, what's up?
 what had I best do
+","on Wednesday afternoon
+the most beautiful
+on the date of issue
+on the date of maturity
+I am (or: I'm)
+1 am
+1 am
+11 am
+am I disturbing you?
+am I right?
+am I right?
+am I right in assuming that ...?
+at the end of the trading year
+throughout the market
+","against bank acceptance
+against three months' acceptance
+against pledged items
+against payment of a premium
+against three months' acceptance [FINAN.]
+for an appropriate fee
+aspects in his disfavour are
+against fraudulent transactions
+contrary to the terms of a treaty
+against first class bank guarantee
+against production of
+in return for acceptance of bills [FINAN.]
+against losses in consumer credit transactions [FINAN.]
+I don't hold with that.
+","from the company's own resources
+for checking purposes
+for competitive reasons
+from the earnings
+to mark the Diamond Jubilee
+for understandable reasons
+of his own free will
+from continuous business activity
+for want of encouragement
+for want of information
+for want of funds
+in contempt of him
+for reasons of his own
+on economic-political grounds
+","at 17
+one of the best/cheapest hotels
+with the addition that
+using computerizedAE support [COMP.]using computerisedBE / computerizedBE support [COMP.]
+with a credit balance [FINAN.]
+is provided with
+It's best not to tangle with him.
+I've finished with you.
+with monthly settlement
+with a proven record of success
+Who is your date?
+with taut sails
+By virtue of this deed I grant X general power of attorney.
+Which car was he driving?
+","till ... o'clock
+until their arrival
+When can you be here by?
+up to and including this Friday
+by the end of June
+up to five years out of date
+culminating in economic crises
+until they have been placed
+by the 10th of April at the latest
+until the freight has been paid
+until the charges are paid
+until shortly before ...
+Christmas is a week off.
+There aren't many games to play before the end of the season.
+","in English
+on pre-printed forms
+on the dealing floor
+on the capital market
+on the bill of exchange
+based on full costing [COMM.]
+in the money market [FINAN.]
+sth. forces itself upon so.
+at my cost
+Westward ho!
+in my dotage
+in a similar manner
+following Mr. Jones' suggestion
+on the enclosed order form
+","When do you break up? (Brit.)
+When do you break up for Christmas? (Brit.)
+When do you finish work?
+When's it due?
+When did you get here?
+any time you please
+When does the train reach London?
+When do you break up for summer/Christmas? - school, pupils (Brit.)
+When do you get out for summer/Christmas? (Amer.)
+When does your school let out for summer/Christmas? (Amer.)
+When can you be here by?
+","in English
+in 1999
+in England
+in January
+in Switzerland
+near here
+in a cardboard box
+in the newspaper
+in the office
+in the 7th/12th/20th ... century
+in a local court district [LAW]
+With tender and loving care she follows him.
+In what connection?
+In what connection?
+","to the collecting bank
+to a creditor [FINAN.]
+from date of invoice
+an exceptional offer
+an off-duty policeman
+On what day?
+Who did you write to?
+To whom did you write?
+by my side
+in his place
+an accidental occurrence
+paid to shareholders
+on the US stock exchanges
+an amicable arrangement
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -1860,4 +2786,127 @@ Er hat wenig Achtung vor Menschenleben.
 ","Was ist denn?
 Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
 was tue ich denn nun am besten
+","am Mittwochnachmittag
+am schönsten
+am Ausgabetag
+am Fälligkeitstag
+ich bin
+1 Uhr morgens
+1 Uhr nachts
+11 Uhr vormittags
+störe ich?
+habe ich recht?
+liege ich richtig?
+gehe ich recht in der Annahme, dass ...
+am Ende des Geschäftsjahres
+am ganzen Markt
+","gegen Bankakzept
+gegen Dreimonatsakzept
+gegen Pfand
+gegen Prämienzahlung
+gegen Dreimonatswechsel
+gegen angemessenes Honorar
+gegen ihn spricht
+gegen betrügerische Geschäfte
+gegen die Vertragsbedingungen
+gegen erstklassige Bankgarantie
+gegen Vorlage von
+gegen Akzeptierung von Wechseln
+gegen Verluste in Kreditgeschäften von Verbrauchern
+Ich bin gegen so was.
+","aus Gesellschaftsmitteln
+aus Kontrollgründen
+aus Wettbewerbsgründen
+aus dem Ertrag
+aus Anlass des sechzigsten Thronjubiläums
+aus verständlichen Gründen
+aus freien Stücken
+aus laufender Geschäftstätigkeit
+aus Mangel an Ermunterung
+aus Mangel an Information
+aus Mangel an Kapital
+aus Nichtachtung gegen ihn
+aus nur ihm selbst bekannten Gründen
+aus wirtschaftspolitischen Gründen
+","mit 17
+mit das beste/billigste Hotel
+mit dem Zusatz, dass
+mit EDV-Unterstützung
+mit einem Guthaben
+ausgestattet mit
+Mit ihm ist nicht gut Kirschen essen.
+Mit Ihnen bin ich fertig.
+mit monatlicher Abrechnung
+mit nachweisbaren Erfolgen
+Mit wem sind Sie verabredet?
+mit prallen Segeln
+Mit dieser Urkunde erteile ich X Generalvollmacht.
+Mit welchem Auto ist er gefahren?
+","bis ... Uhr
+bis zu deren Ankunft
+Bis wann kannst du hier sein?
+bis einschließlich diesen Freitag
+bis Ende Juni
+bis fünf Jahre abgelaufen
+bis hin zu Wirtschaftskrisen
+bis sie platziert sind
+bis spätestens 10. April
+bis die Fracht bezahlt ist
+bis die Gebühren bezahlt sind
+bis kurz vor ...
+Bis Weihnachten ist es noch eine Woche.
+Bis zum Saisonende finden nicht mehr viele Spiele statt.
+","auf Englisch
+auf Vordrucken
+auf dem Börsenparkett
+auf dem Kapitalmarkt
+auf dem Wechsel
+auf Vollkostenbasis
+auf dem Geldmarkt
+etw.nom. zwingt sich jmdm. auf
+auf meine Kosten
+Auf nach Westen!
+auf meine alten Tage
+auf ähnliche Weise
+auf Anraten von Herrn Jones
+auf beiliegendem Bestellschein
+","Wann fangen eure Ferien an?
+Wann habt ihr Weihnachtsferien?
+Wann hast du Feierabend?
+Wann ist es fällig?
+Wann bist du angekommen?
+wann immer es dir gefällt
+Wann kommt der Zug in London an?
+Wann beginnen bei euch die Sommerferien/Weihnachtsferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+Bis wann kannst du hier sein?
+","auf Englisch
+im Jahr (or: Jahre) 1999
+in England
+im Januar
+in der Schweiz
+in der Nähe
+in einem Karton
+in der Zeitung
+im Büro
+im 7./12./20. ... Jahrhundert
+in einem Amtsgerichtsbezirk
+In liebevoller Sorge begleitet sie ihn.
+In welchem Zusammenhang?
+In welcher Verbindung?
+","an die Inkassobank
+an einen Gläubiger
+vom Rechnungsdatum an
+ein außergewöhnliches Angebot
+ein Polizist, der nicht im Dienst ist
+An welchem Tag?
+An wen hast du geschrieben?
+An wen hast du geschrieben?
+an meiner Seite
+an seiner Stelle
+ein zufälliges Ereignis
+an Aktionäre ausbezahlt
+an amerikanischen Börsen
+eine gütliche Einigung
 "

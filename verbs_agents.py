@@ -1,5 +1,4 @@
 from color_scheme import colorize_text, colors_definitions
-from multiprocessing import Process
 from threading import Thread
 from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from rich.table import Table

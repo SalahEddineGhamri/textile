@@ -1,6 +1,7 @@
 from time import sleep
 from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
 from config import INPUT_PATH, ANKI_PATH
+# TODO turn caches into singeltons
 from nouns_table import NOUN_CACHE
 from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from adjectives_table import ADJECTIVES_CACHE
@@ -193,6 +194,7 @@ class AnkiGenerationAgent(Thread):
             sleep(0.001)
 
         self.blackboard['stages']['anki_generation'] = 'STARTED'
+        # TODO: if it is same cache why refreshing ?
         self.refresh_cache()
         self.blackboard['stages']['anki_generation'] = 'refreshed caches'
         self.add_nouns()

@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -49,8 +49,15 @@ verunreinigen : Verb
 das Junge : Noun
 der Junge : Noun
 der Junge : Noun
-"
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+","deutsch : Adjective
+",None,"deutsch : Adjective
+das Deutsche : Noun
+die Deutsche : Noun
+der Deutsche : Noun
+",None,"groß : Adjective
+das Gros : Noun
+",None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -374,6 +381,44 @@ to bring out a young lady dated
 to feel like a spring chicken [fig.]
 to be getting a bit long in the tooth
 to be getting on a bit [coll.]
+","to translate into German/English
+to acquire British/French/German/... nationality
+to obtain German citizenship
+to be capped for Germany/England/... (Brit.) [SPORT.]
+to be capped for Germany/England/... (Brit.) [SPORT.]
+",None,"to translate into German/English
+to acquire British/French/German/... nationality
+to obtain German citizenship
+to be capped for Germany/England/... (Brit.) [SPORT.]
+to be capped for Germany/England/... (Brit.) [SPORT.]
+",None,"to act big
+to showcase so. | showcased, showcased |
+to talk big [coll.]
+to do number two - baby talk [coll.]
+to do a poo - baby talk [coll.]
+to make it big [coll.]
+to hit it big [coll.]
+to make it big [coll.]
+to increase | increased, increased |
+to deepen | deepened, deepened |
+to set the world on fire - usually with negative (Amer.)
+to enlarge | enlarged, enlarged |
+to exceed | exceeded, exceeded |
+to shoot for the moon (Amer.)
+","to run down other people
+to come across as
+to change channels/stations
+to pretend to be so. else
+to arrive in advance of the others
+to change tune
+to identify other data elements
+to rule out other possibilities
+to have other fish to fry
+to raise a laugh
+to compel another arrangement
+to angle off
+to play opposite so.
+to absorb another company [COMM.]
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -698,6 +743,44 @@ eine junge Dame in die Gesellschaft einführen
 sichacc. wieder jung fühlen
 nicht mehr der Jüngste sein
 nicht mehr der (or: die) Jüngste sein
+","ins Deutsche/Englische übersetzen
+die britische/französische/deutsche/... Staatsangehörigkeit erwerben
+die deutsche Staatsbürgerschaft erhalten
+für die deutsche/englische/... Nationalmannschaft aufgestellt werden
+in die deutsche/englische/... Nationalmannschaft berufen werden
+",None,"ins Deutsche/Englische übersetzen
+die britische/französische/deutsche/... Staatsangehörigkeit erwerben
+die deutsche Staatsbürgerschaft erhalten
+für die deutsche/englische/... Nationalmannschaft aufgestellt werden
+in die deutsche/englische/... Nationalmannschaft berufen werden
+",None,"groß auftreten
+jmdn. groß herausstellen
+groß daherreden
+groß machen [coll.] - Kindersprache für ""defäkieren""
+groß machen [coll.] - Kindersprache für ""defäkieren""
+groß herauskommen
+groß herauskommen
+groß rauskommen [coll.]
+größer werden
+größer werden
+Großes leisten
+größer machen
+größer sein als
+sichdat. Großes vornehmen
+","andere schlechtmachen
+auf andere wirken
+auf einen anderen Kanal/Sender umschalten
+sichacc. für einen anderen ausgeben
+vor den anderen ankommen
+andere Saiten aufziehen
+andere Datenelemente bezeichnen
+andere Möglichkeiten ausschließen
+andere Dinge zu tun haben
+andere zum Lachen bringen
+eine andere Anordnung erzwingen
+eine andere Richtung nehmen
+die andere Hauptrolle neben jmdm. haben
+eine andere Firma übernehmen
 "
 nouns,english,"previous debt
 former quotations
@@ -1090,6 +1173,68 @@ man-child or: man child, manchild [poet.] - male child
 the lads (Canad.; Brit.) [coll.] pl.
 the young
 old boy
+","German
+the German language [LING.]
+the Germans pl.
+fellow Afghans/Germans/Australians/...
+German National Library
+German Federal Railway
+German minority
+German National Library
+German Press Agency
+German version
+German language
+German version
+German economy
+Holstein-Friesian - type of cattle
+","30 days' notice
+interest rebate of 30 % [FINAN.]
+standard socket and spigot elbow 30° [TECH.]
+standard socket and spigot elbow 30° [TECH.]
+","the Germans pl.
+German
+the German language [LING.]
+fellow Afghans/Germans/Australians/...
+Federation of German Industries
+Federation of German Industry
+Confederation of German Employers
+German Insurance Federation [INSUR.]
+Institute for the German Economy [FINAN.]
+German Association of Capital Market Groups at Universities [FINAN.]
+German Aerospace Industries Association [AVIAT.]
+German National Library
+German Federal Railway
+German National Library
+","17-hydroxydeoxycorticosterone [MED.]
+young person (Brit.)
+","gross - pl.: grosses
+bulk
+gross - pl.: gross [COMM.]
+bigwig
+big gun
+swivet (Amer.)
+score
+array
+muchness
+numerousness
+scores pl.
+penury
+bulk
+cornucopia
+","the others
+alternative
+step-change
+different view
+the far end
+the far side
+assimilated premiums [FINAN.]
+brazing and soldering [TECH.]
+soldering [TECH.]
+other additives [TECH.]
+generalizedAE other [SOCIOL.]generalisedBE / generalizedBE other [SOCIOL.]
+Swiss Institute for the Prevention of Alcohol and Drug Problems [abbr.: SIPA]
+reverse side
+other workers - at an establishment using ionizing radiation
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -1482,6 +1627,68 @@ der Junge pl.: die Jungen/die Jungs
 die Jungs pl. [coll.]
 die jungen Leute
 alter Junge
+","der Deutsche | die Deutsche pl.: die Deutschen
+das Deutsche no plural
+die Deutschen pl.
+afghanische/deutsche/australische/... Landsleute
+Deutsche Nationalbibliothek [abbr.: DNB]
+Deutsche Bundesbahn
+deutsche Minderheit
+Deutsche Bücherei
+Deutsche Presse-Agentur [abbr.: dpa]
+deutsche Fassung
+deutsche Sprache
+deutsche Version
+deutsche Wirtschaft
+Deutsche Holstein
+","monatliche Kündigungsfrist
+Zinsabschlag von 30
+das J-Stück
+das Muffenkniestück
+","die Deutschen pl.
+der Deutsche | die Deutsche pl.: die Deutschen
+das Deutsche no plural
+afghanische/deutsche/australische/... Landsleute
+Bundesverband der Deutschen Industrie e. V. [abbr.: BDI]
+Bundesverband der Deutschen Industrie e. V. [abbr.: BDI]
+Bundesvereinigung der Deutschen Arbeitgeberverbände [abbr.: BDA]
+Gesamtverband der Deutschen Versicherungswirtschaft e. V. [abbr.: GDV]
+Institut der deutschen Wirtschaft [abbr.: IW]
+Bundesverband der Börsenvereine an deutschen Hochschulen [abbr.: BVH]
+Bundesverband der deutschen Luft- und Raumfahrtindustrie [abbr.: BDLI]
+Deutsche Nationalbibliothek [abbr.: DNB]
+Deutsche Bundesbahn
+Deutsche Bücherei
+","das 17-Hydroxydesoxycorticosteron
+Jugendlicher zwischen 14 und 17 Jahren
+","das Gros
+das Gros pl.: die Grosse
+das Gros pl.: die Grosse - zwölf Dutzend
+große Nummer
+große Nummer
+große Aufregung
+große Anzahl
+große Anzahl
+große Anzahl
+große Anzahl
+große Anzahl
+große Armut
+große Menge
+große Menge
+","die anderen (or: Anderen)
+andere Wahl
+andere Gangart
+andere Ansicht
+das andere Ende pl.: die Enden
+die andere Seite pl.: die Seiten
+andere Kapitalreserven
+andere Lötverfahren
+andere Lötverfahren
+andere Zusätze [Hoisting Technology]
+der (or: das) verallgemeinerte Andere pl.: die Anderen
+Schweizerische Fachstelle für Alkohol- und andere Drogenprobleme [abbr.: SFA] (Switzerland)
+andere Seite
+andere beruflich Tätige
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -1681,8 +1888,44 @@ genus: FEMI
 plural: Jungen / Jungs
 meaning: brood
 young used with pl. verb - offspring [ZOOL.]
+","article: Das
+word: Deutsche
+genus: MASC
+plural: die Deutschen
+meaning: German
+the German language [LING.]
+","article: monatliche
+word: Kündigungsfrist
+genus: 
+plural: Kündigungsfrist
+meaning: 30 days' notice
+interest rebate of 30 % [FINAN.]
+","article: Das
+word: Deutsche
+genus: FEMI
+plural: 
+meaning: the Germans pl.
+German
+","article: das
+word: 17-Hydroxydesoxycorticosteron
+genus: NEUT
+plural: 17-Hydroxydesoxycorticosteron
+meaning: 17-hydroxydeoxycorticosterone [MED.]
+young person (Brit.)
+","article: Die
+word: Gros
+genus: NEUT
+plural: Gros
+meaning: gross - pl.: grosses
+bulk
+","article: die
+word: anderen
+genus: FEMI
+plural: Anderen)
+meaning: the others
+alternative
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -2071,6 +2314,41 @@ junior adj.
 uppermost adj. [GEOL.]
 youngish adj.
 ageless adj.
+","German adj.
+Franco-German adj.
+German-flagged adj. [NAUT.]
+",None,"German adj.
+Franco-German adj.
+German-flagged adj. [NAUT.]
+","R-rated adj. (Amer.)
+","big adj.
+great adj.
+large adj.
+tall adj.
+grand adj.
+heavy adj.
+huge adj.
+high adj.
+major adj.
+major adj. - interval [MUS.]
+ample adj.
+keen adj. - intense
+man-sized or: man-size adj.
+capacious adj.
+","and others [abbr.: et al.]
+in other words
+one at a time
+one by one
+in turn
+in single file
+inspirational adj.
+less-than-fashionable adj.
+by some means or other
+crosstown adj.
+crosstown adj.
+in other cases
+over the road
+for some other reason
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -2460,6 +2738,41 @@ jüngerer | jüngere | jüngeres
 jünger - geologische Zeitalter
 ziemlich jung
 ewig jung
+","deutsch
+deutsch-französisch
+unter deutscher Flagge - nachgestellt
+",None,"deutsch
+deutsch-französisch
+unter deutscher Flagge - nachgestellt
+","frei ab 17
+","groß
+groß
+groß
+groß
+groß
+groß
+groß
+groß
+groß
+groß - Intervall
+groß
+groß
+groß
+groß
+","und andere [abbr.: et al.]
+mit anderen Worten [abbr.: m. a. W.]
+einer nach dem anderen
+einer nach dem anderen
+einer nach dem anderen
+einer hinter dem anderen
+fähig, andere zu begeistern
+alles andere als ""in""
+auf die eine oder andere Weise
+am anderen Ende der Stadt
+vom anderen Ende der Stadt
+in anderen Fällen
+auf der anderen Straßenseite
+aus einem anderen Grund
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -2701,6 +3014,34 @@ sth. takes years off so.
 sth. takes years off so.
 to see a man about a dog [coll.] [fig.]
 to see a man about a horse (Amer.) [coll.] [fig.]
+",None,None,None,None,"writ large
+a major honorAEa major honourBE
+a large number of voters
+a good deal of
+the big money
+a big fuck-up [vulg.]
+all hat and no cattle
+to hit the jackpot
+to draw a large crowd
+the big, wide world
+a wide range of
+to be on to a winner
+huge amount of
+a great demand for
+","another type
+betwixt and between
+When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+it was a case of Hobson's choice
+it was Hobson's choice
+It's a case of Hobson's choice.
+a world of difference
+One hand washes the other.
+You scratch my back and I'll scratch yours.
+That's a different kettle of fish.
+That's a whole different problem.
+to blow away the cobwebs [fig.]
 "
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
@@ -2942,6 +3283,34 @@ etw.nom. lässt jmdn. um Jahre jünger aussehen
 etw.nom. lässt jmdn. um Jahre jünger wirken
 mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
 mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+",None,None,None,None,"im Großen
+eine große Ehre
+eine große Wählerzahl
+eine große Menge
+das Große Geld [coll.]
+eine große Scheiße [vulg.]
+große Klappe und nichts dahinter
+das große Los ziehen
+eine große Menschenmenge anziehen
+die große, weite Welt
+eine große Auswahl von
+das große Los gezogen haben
+eine große Menge von
+eine große Nachfrage für
+","eine andere Art
+weder das eine noch das andere
+andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+ich hatte keine andere Wahl
+ich hatte keine andere Wahl
+Da habe ich wohl keine andere Wahl.
+eine ganz andere Welt
+Eine Hand wäscht die andere.
+Eine Hand wäscht die andere.
+Das ist eine andere Baustelle. - ein anderes Problem
+Das ist eine andere Baustelle. - ein anderes Problem
+auf andere Gedanken kommen
 "
 examples,english,None,"some news of importance
 It matters.
@@ -3230,6 +3599,64 @@ He's a few years under age.
 My son is a sensitive boy.
 He's getting a bit long in the tooth.
 by issuing new shares [FINAN.]
+","within the German banking sector [FINAN.]
+in the German-speaking parts of the world
+decline of German dialects
+decline of German dialects
+students enrolled at German universities
+Trust your mother/the Germans/the neighbours/...!
+according to German company law [COMM.][LAW]
+","30 people or so
+30 days prior to entry
+30 days credit [COMM.]
+The holiday entitlement is 30 days/year.
+at 30 degrees above zero
+at 30 degrees above zero
+at best he will get 30 votes
+for at least 30 days
+less than 30 hours
+net cash 30 days
+payment within 30 days from date of invoice
+from 30 to 20 percentAEfrom 30 to 20 per centBE
+with a term of 10 to 30 years
+","within the German banking sector [FINAN.]
+in the German-speaking parts of the world
+decline of German dialects
+decline of German dialects
+students enrolled at German universities
+Trust your mother/the Germans/the neighbours/...!
+according to German company law [COMM.][LAW]
+","at 17
+The house that we lived in for 17 years has been pulled down.
+The house which we lived in for 17 years has been pulled down.
+","a large number of shareholders
+He thinks the world of you.
+This meeting is of utmost importance.
+a big price rise
+He thinks the world of you.
+It's no big deal.
+evenly divided
+its enormous popularity
+She looked surprised.
+He did all the talking.
+She tried hard.
+He went out into the big, wide world.
+It would be of great help to us
+It would assist us greatly
+","and yet others
+another form of cashless payment
+We don't care what other people think of it.
+You leave me with little choice.
+everything else of note
+respectfulness of others
+other UN bodies
+other than the remitting bank
+other similar instruments [ADMIN.]
+the other party
+the other party
+denotes the other extreme
+all other stipulations of the credit
+superior to any other make
 "
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
@@ -3518,4 +3945,62 @@ Er ist ein paar Jahre zu jung.
 Mein Sohn ist ein sensibler Junge.
 Er ist nicht mehr der Jüngste.
 mittels Ausgabe junger Aktien
+","im deutschen Kreditgewerbe
+im deutschen Sprachraum
+Niedergang der deutschen Mundarten
+Rückgang der deutschen Mundarten
+Studenten, die an deutschen Universitäten eingeschrieben sind
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+nach deutschem Gesellschaftsrecht
+","rund 30 Leute
+30 Tage vor der Einfuhr
+30 Tage auf Ziel
+Der Urlaub beträgt 30 Arbeitstage/Jahr.
+bei 30 Grad über null
+bei 30 Grad Wärme
+im besten Fall erhält er 30 Stimmen
+für mindestens 30 Tage
+weniger als 30 Stunden
+netto Kasse in 30 Tagen
+Zahlung innerhalb von 30 Tagen nach Rechnung
+von 30 auf 20 Prozent
+mit einer Laufzeit von 10 bis 30 Jahren
+","im deutschen Kreditgewerbe
+im deutschen Sprachraum
+Niedergang der deutschen Mundarten
+Rückgang der deutschen Mundarten
+Studenten, die an deutschen Universitäten eingeschrieben sind
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+nach deutschem Gesellschaftsrecht
+","mit 17
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
+","große Zahl von Aktionären
+Er hält große Stücke auf Sie.
+Diesem Treffen kommt große Bedeutung zu.
+eine große Preiserhöhung
+Er hält große Stücke auf dich.
+Es ist keine große Sache.
+in gleich große Lager gespalten
+seine große Beliebtheit
+Sie machte große Augen.
+Er führte das große Wort.
+Sie gab sich große Mühe.
+Er ging in die große, weite Welt hinaus.
+Es wäre uns eine große Hilfe
+Es wäre uns eine große Hilfe
+","und andere wiederum
+eine andere Methode der bargeldlosen Zahlung
+Was andere Leute davon halten ist uns egal.
+Ihr lasst mir kaum eine andere Wahl.
+alles andere, das von Interesse ist
+die Rücksicht auf andere
+andere UN-Gremien
+eine andere als die Einreicherbank
+andere ähnliche Dokumente [EU]
+die andere Partei
+die andere Vertragspartei
+bedeutet das andere Extrem
+alle anderen Bedingungen des Kredits
+allem anderen überlegen
 "

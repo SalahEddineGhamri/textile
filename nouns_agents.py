@@ -1,5 +1,4 @@
 from color_scheme import colorize_text, colors_definitions
-from multiprocessing import Process
 from threading import Thread
 from rich.table import Table
 from rich.text import Text, Style
