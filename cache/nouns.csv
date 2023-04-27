@@ -1,4 +1,4 @@
-aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Richter,Monat,Gericht,Fall,Staatsanwalt,Strafprozess,Strafe,Geschäftsunterlagen,Stadt,Verbotenes,Wahl,Land,Januar,Präsident,Gerichtstermin,Wahrheit, Bündnis,Mitgliedsländer, Quartier,Hauptquartier,Russland,Militär,Mitglied,Nato,Mitglieds,Erweiterung,General,Generalsekretär,Beitritt, Länder,Militärbündnis,Fahne, Mitglied,Haupt,Länder,Regierung,Mitglieder, Sekretär,Feier,Schriftsteller,Krieg, Musik,Millionen,Soldat,Welt, Führung, Krieg,Westen, Salon, Preisen, Bild,Filmpreisen,Waschsalon,Kamera,Jahr,Besitzerin,Szenen,Kameraführung,Menschen,Grippe,Fieber,Alternative,Kinder,Essen,Besserung,Rezept,leben,Sohn,Viren,Podcast,Husten,Erkältung,Saft,Dialog,Moderatoren,Winter,Morgen,Zeit,Mühe,Wochen,Wartezimmer,Text,Danke,Radio,Tage,Katze,Dialoges,Schnupfen,Arbeit,Spaziergang,Glück,Gefühl,Getränke,Attest,Kopfweh,Wunder,Kontakt,Kind,Kinderarzt,Bleib,Schmerzmittel,Schule,Medikamente,Tag,Schmerzen,Arzt,Nachrichten,Geschichte,Pflanzen, Mittel,Chemie, Vertrag,Bundesregierung,Verkauf,Parteien,Gehirn,Sand,Drogenhändler,Leute,Zucker, Händler,Blätter,Beispiel,Streit,Bedingungen,Rausch,Cannabis,Erlaubnis,Koalitionsvertrag, Minister,Drogenhändlern,Fachleute,Droge,Geschäfte,Teile,Gewürze,Ärzte,Vereine, Regierung,Gesundheits,Gegenden,Pflanze,Moment,Angst,Drogen,Gesundheitsminister,Erwachsene,Qualität,Hause
+aspects,language,Name,Jahren,Jahre,Geschwister,Schwester,Bruder,Eltern,Haus,Nähe,Mutter,Köchin,Vater,Bank,Richter,Monat,Gericht,Fall,Staatsanwalt,Strafprozess,Strafe,Geschäftsunterlagen,Stadt,Verbotenes,Wahl,Land,Januar,Präsident,Gerichtstermin,Wahrheit, Bündnis,Mitgliedsländer, Quartier,Hauptquartier,Russland,Militär,Mitglied,Nato,Mitglieds,Erweiterung,General,Generalsekretär,Beitritt, Länder,Militärbündnis,Fahne, Mitglied,Haupt,Länder,Regierung,Mitglieder, Sekretär,Feier,Schriftsteller,Krieg, Musik,Millionen,Soldat,Welt, Führung, Krieg,Westen, Salon, Preisen, Bild,Filmpreisen,Waschsalon,Kamera,Jahr,Besitzerin,Szenen,Kameraführung,Menschen,Grippe,Fieber,Alternative,Kinder,Essen,Besserung,Rezept,leben,Sohn,Viren,Podcast,Husten,Erkältung,Saft,Dialog,Moderatoren,Winter,Morgen,Zeit,Mühe,Wochen,Wartezimmer,Text,Danke,Radio,Tage,Katze,Dialoges,Schnupfen,Arbeit,Spaziergang,Glück,Gefühl,Getränke,Attest,Kopfweh,Wunder,Kontakt,Kind,Kinderarzt,Bleib,Schmerzmittel,Schule,Medikamente,Tag,Schmerzen,Arzt,Nachrichten,Geschichte,Pflanzen, Mittel,Chemie, Vertrag,Bundesregierung,Verkauf,Parteien,Gehirn,Sand,Drogenhändler,Leute,Zucker, Händler,Blätter,Beispiel,Streit,Bedingungen,Rausch,Cannabis,Erlaubnis,Koalitionsvertrag, Minister,Drogenhändlern,Fachleute,Droge,Geschäfte,Teile,Gewürze,Ärzte,Vereine, Regierung,Gesundheits,Gegenden,Pflanze,Moment,Angst,Drogen,Gesundheitsminister,Erwachsene,Qualität,Hause,Dezember, Team,Hinspiel,WM,Qualifikation,Frauen,Hin, Meisterschaft,Grund,Rück,Ländern,Toren,Handballerinnen,Weltmeisterschaft,November,Rückspiel, Spiel,Potter,Kinofilmen,Geschichten,Serie,Firma,Autorin,Schauspielerinnen,Platz,Kino, Spieler,Schau,Einzelheiten,Kinofilm,Potter“büchern,Potter“,Bücher, Filmen, Film,Streaming, Dienst,Kinofilme,Fernseh, Büchern,Zauberer,Fernsehserie, Serie,Schauspieler
 basic_forms,english,None,"das Jahr : Noun
 ","das Jahr : Noun
 ",None,None,None,"das Elter : Noun
@@ -64,8 +64,20 @@ pflanzen : Verb
 ",None,None,"die Droge : Noun
 ",None,"erwachsen : Adjective
 ",None,"hausen : Verb
-"
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+",None,None,None,None,None,"die Frau : Noun
+",None,None,None,None,"das Land : Noun
+","das Tor : Noun
+der Tor : Noun
+","die Handballerin : Noun
+",None,None,None,None,None,"der Kinofilm : Noun
+","die Geschichte : Noun
+",None,None,None,"die Schauspielerin : Noun
+",None,None,None,None,"die Einzelheit : Noun
+",None,None,None,"das Buch : Noun
+",None,None,"stream : Verb
+",None,"der Kinofilm : Noun
+",None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,"to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
@@ -1018,6 +1030,248 @@ to stay in
 to see so. home
 to arrive home
 to arrive at home
+",None,"to team up (with so.)
+to team two or more people
+to team up with so.
+to team sth. with sth. - one item of clothing with another
+to team up (with so.)
+to team horses
+to pull a team together
+to be on a team
+to select a team
+to field a team [SPORT.]
+to lose to a team [SPORT.]
+to organizeAE into teams to organiseBE / organizeBE into teams
+to be a team player
+to work well in a team
+",None,None,None,"to philander | philandered, philandered |
+to abandon one's wife
+to keep a wife and family
+to philander | philandered, philandered |
+","to say sth. under one's breath
+to mutter sth. to oneself
+to croon sth. to oneself
+to daydream | daydreamed/daydreamt, daydreamed/daydreamt |
+to be lost in reverie
+to brood | brooded, brooded |
+to bubble along
+sth. is all right
+to shuttle | shuttled, shuttled |
+to oscillate | oscillated, oscillated |
+to toggle | toggled, toggled |
+to clap sth. | clapped, clapped |
+to agitate sth. | agitated, agitated |
+to wave | waved, waved |
+",None,"to wash away
+to assign a reason for sth.
+to state a reason
+to give sth. as a reason (for sth.)
+to have a reason for sth.
+to run aground
+to strand | stranded, stranded |
+to fathom sth. (out) | fathomed, fathomed |
+to get to the bottom of sth.
+to understand sth. | understood, understood |
+to get to the bottom of sth.
+to look into sth.
+to undergo a radical change
+to arise by reason of sth.
+",None,"to reclaim land
+to purchase land
+to break up a piece of land
+to work land
+to subdue | subdued, subdued |
+to assign land
+to dash around the country
+to go rural
+to remove to the country
+to rusticate | rusticated, rusticated |
+to run a country
+to expel so. (from a country) | expelled, expelled |
+to disembark | disembarked, disembarked |
+to debark | debarked, debarked |
+","to score | scored, scored |
+to keep goal
+to score a goal
+to score | scored, scored |
+to keep goal
+to play in goal
+to keep goal
+to concede a goal [SPORT.]
+to ship a goal [SPORT.]
+to net a goal [SPORT.]
+to net a goal [SPORT.]
+to score a goal [SPORT.]
+to net a goal [SPORT.]
+to take a shot at the goal [SPORT.]
+",None,None,None,None,"to spiel | spieled, spieled |
+to spiel | spieled, spieled |
+to come into play
+to replay | replayed, replayed |
+to put sth. at risk
+to have play [TECH.]
+to take up play [TECH.]
+to be at stake
+to be at risk
+so./sth. comes in infinitive: come in
+to kill all joy
+to doublecross | doublecrossed, doublecrossed |
+to check for excessive play
+to take a hand in sth.
+to palter with so.
+to host the Olympic Games
+","to potter | pottered, pottered | chiefly (Brit.)
+to potter about chiefly (Brit.)
+to potter about
+to potter about in the kitchen chiefly (Brit.)
+to potter round the house chiefly (Brit.)
+",None,"to make history
+to make history
+to corroborate a story
+to make up a story
+to cook up a story [fig.]
+to go down in history
+to consign sth. to history
+to appeal to history
+to fudge a story
+to put the wheel of history into reverse
+","to mass-produce | mass-produced, mass-produced |
+to connect in series [ELEC.]
+to connect in series
+to connect in series [TECH.]
+","to buy out
+to delete from the company register
+to wind up a company [COMM.]
+to buy into a company
+to enter a company
+to sign on behalf of the company
+to deal with a firm
+to take over a company
+to join a company
+to keep the company going
+to incorporate one firm into another [INSUR.]
+to average out company profits over + expression of time
+to absorb another company [COMM.]
+to serve in a business
+",None,None,"to have room
+to take a seat
+to make room
+to make way
+to create space
+to clear a space
+to take up room
+to be at one's desk
+to give way to so.
+to slip a notch
+to stand in
+to assign a place
+to allocate sth. | allocated, allocated |
+to make way for sth.
+","to go to the cinema
+to go to the pictures (Brit.)
+to go to the movies (Amer.)
+",None,"to exhibit | exhibited, exhibited |
+to flaunt sth. | flaunted, flaunted |
+to display sth. | displayed, displayed |
+to unveil sth. | unveiled, unveiled |
+to showcase sth. | showcased, showcased |
+to sport sth. | sported, sported |
+to wear sth. | wore, worn |
+to steal so.'s thunder
+to upstage so. | upstaged, upstaged |
+to steal the show from so.
+to flaunt sth. | flaunted, flaunted |
+to flaunt sth. | flaunted, flaunted |
+","to get granular
+to go into detail (or: details)
+to get bogged down in details
+to get lost in details
+to plan sth. ⇔ out
+to deal with a piece of business
+to ask for full particulars
+",None,"to potter | pottered, pottered | chiefly (Brit.)
+to potter about chiefly (Brit.)
+to potter about
+to potter about in the kitchen chiefly (Brit.)
+to keep a record (of sth.)
+to riffle through a book
+to thumb through a book
+to bind a book
+to flip a book open
+to review a book
+to gallop through a book
+to devour a book [fig.]
+to keep an account of sth.
+to consult a book
+","to potter | pottered, pottered | chiefly (Brit.)
+to potter about chiefly (Brit.)
+to potter about
+to potter about in the kitchen chiefly (Brit.)
+to potter round the house chiefly (Brit.)
+","to audit | audited, audited |
+to binge-read | binge-read, binge-read |
+to manipulate accounts
+to keep the books
+to keep the accounts
+to close the books
+to cook the accounts [fig.]
+to cook the accounts [fig.]
+to cook the accounts [fig.]
+to agree the books [FINAN.]
+to balance the books [FINAN.]
+to agree the books [FINAN.]
+to balance the books [FINAN.]
+to keep a record (of sth.)
+","to film (sth.) | filmed, filmed | - a movie
+to shoot | shot, shot | - a film
+to film (sth.) | filmed, filmed | - a movie
+","to film (sth.) | filmed, filmed | - a movie
+to film (sth.) | filmed, filmed | - a movie
+to film sth. | filmed, filmed | - a movie
+to film over
+to film | filmed, filmed |
+to shoot a film (Brit.)
+to shoot a movie (Amer.)
+to make a film (Brit.)
+to make a movie (Amer.)
+to finish a roll of film [PHOT.]
+to use up a roll of film [PHOT.]
+to finish a roll of film [PHOT.]
+to use up a roll of film [PHOT.]
+to capture so. on film
+","to stream | streamed, streamed |
+to stream | streamed, streamed |
+to stream | streamed, streamed |
+to stream in
+to stream in
+to stream out
+to stream through (sth.)
+to stream sth. | streamed, streamed | - music, movies etc. from the Internet [COMP.]
+to stream against sth. [TECH.]
+to stream | streamed, streamed | [TECH.]
+to bring sth. on stream
+to come on stream
+to go on stream
+to swim against the stream
+to put on stream
+to leave a traffic stream
+","to be on duty
+to provide a service
+to be on duty
+to render a service
+to quit the service
+to do so. a service
+to render a service to so.
+to quit | quit/quitted, quit/quitted |
+to decommission | decommissioned, decommissioned |
+to bring into service
+to place into service
+to put into service
+to leave office
+to resign | resigned, resigned |
+",None,None,None,None,None,"to mass-produce | mass-produced, mass-produced |
+to connect in series [ELEC.]
+","to be on the stage
 "
 verbs,german,"etw.acc. benennen | benannte, benannt |
 etw.acc. bezeichnen | bezeichnete, bezeichnet |
@@ -1971,6 +2225,248 @@ zu Hause (or: zuhause) bleiben
 jmdn. nachhause (or: nach Hause) bringen
 zu Hause (or: zuhause) ankommen
 zu Hause (or: zuhause) ankommen
+",None,"sichacc. (mit jmdm.) zusammentun | tat zusammen, zusammengetan |
+zwei oder mehr Personen zusammenbringen
+mit jmdm. zusammenarbeiten | arbeitete zusammen, zusammengearbeitet |
+etw.acc. mit etw.dat. kombinieren | kombinierte, kombiniert |
+(mit jmdm.) zusammenspannen | spannte zusammen, zusammengespannt | (Switzerland)
+Pferde zusammenspannen
+ein Team zusammenhalten [fig.]
+in einer Mannschaft sein
+eine Mannschaft aufstellen
+eine Mannschaft aufstellen
+einer Mannschaft unterliegen
+in Mannschaften einteilen
+teamfähig sein
+teamfähig sein
+",None,None,None,"Frauen nachstellen
+seine Frau verlassen
+für Frau und Kinder sorgen
+Frauen ohne ernste Absichten den Hof machen
+","etw.acc. vor sichacc. hin murmeln
+etw.acc. vor sichacc. hin murmeln
+etw.acc. vor sichacc. hin summen
+vor sichacc. hin träumen
+vor sichacc. hin träumen
+vor sichacc. hin brüten
+vor sichacc. hin sprudeln
+etw.nom. haut hin infinitive: hinhauen [coll.]
+hin- und herfahren
+hin- und hergehen | ging hin, hingegangen |
+hin- und herschalten | schaltete hin, hingeschaltet |
+etw.acc. hin- und herbewegen | bewegte hin, hinbewegt |
+etw.acc. hin- und herbewegen | bewegte hin, hinbewegt |
+sichacc. hin- und herbewegen | bewegte hin, hinbewegt |
+",None,"den Grund wegspülen
+einen Grund angeben
+einen Grund angeben
+etw.acc. als Grund (für etw.acc.) angeben
+einen Grund für etw.acc. haben
+auf Grund laufen
+auf Grund laufen
+etw.dat. auf den Grund kommen
+etw.dat. auf den Grund kommen
+etw.dat. auf den Grund kommen
+etw.dat. auf den Grund gehen
+etw.dat. auf den Grund gehen
+sichacc. von Grund auf ändern
+aufgrund (or: auf Grund) von etw.dat. entstehen | entstand, entstanden |
+",None,"Land abgewinnen
+Land ankaufen
+Land aufteilen
+Land bearbeiten
+Land erschließen
+Land zuweisen
+im Land herumziehen
+aufs Land gehen
+aufs Land ziehen
+aufs Land ziehen
+ein Land regieren
+jmdn. (aus einem Land) ausweisen | wies aus, ausgewiesen |
+an Land gehen
+an Land gehen
+","ein Tor schießen
+das Tor hüten
+ein Tor schießen
+ein Tor erzielen
+im Tor spielen
+im Tor spielen
+im Tor stehen
+ein Tor kassieren
+ein Tor kassieren
+ein Tor schießen
+ein Tor erzielen
+ein Tor erzielen
+ein Tor machen
+aufs Tor schießen
+",None,None,None,None,"labern | laberte, gelabert |
+schwafeln | schwafelte, geschwafelt |
+ins Spiel kommen
+ein Spiel wiederholen
+etw.acc. aufs Spiel setzen
+Spiel haben [Machines]
+Spiel beseitigen
+auf dem Spiel stehen
+auf dem Spiel stehen
+jmd./etw. kommt ins Spiel
+das Spiel verderben
+ein falsches Spiel treiben
+auf übermäßiges Spiel prüfen
+bei etw.dat. seine Hand (or: Hände) im Spiel haben
+sein Spiel mit jmdm. treiben
+die Olympischen Spiele ausrichten
+","herumschlendern | schlenderte herum, herumgeschlendert |
+werkeln | werkelte, gewerkelt |
+herumhantieren | hantierte herum, herumhantiert |
+in der Küche herumhantieren
+im Haus herumwerkeln
+",None,"Geschichte machen
+Geschichte schreiben
+eine Geschichte bestätigen
+eine Geschichte erfinden
+eine Geschichte erfinden
+in die Geschichte eingehen
+etw.acc. Geschichte werden lassen
+die Geschichte als Zeugen anrufen
+sichdat. eine Geschichte aus den Fingern saugen
+das Rad der Geschichte zurückdrehen
+","in Serie fertigen
+in Serie schalten
+hintereinanderschalten | schaltete hintereinander, hintereinandergeschaltet |
+in Reihe schalten
+","Firma aufkaufen
+die Firma löschen
+eine Firma abwickeln
+sichacc. in eine Firma einkaufen
+in eine Firma eintreten
+für die Firma zeichnen
+mit einer Firma handeln
+eine Firma übernehmen
+in eine Firma eintreten
+die Firma in Schwung halten
+eine Firma in eine andere einbringen
+den Durchschnittsgewinn der Firma in + expression of time ermitteln
+eine andere Firma übernehmen
+in einer Firma angestellt sein
+",None,None,"Platz haben
+Platz nehmen
+Platz machen
+Platz machen
+Platz schaffen
+Platz schaffen
+Platz verbrauchen
+am Platz sein - im Büro
+jmdm. Platz machen
+einen Platz abrutschen
+den Platz übernehmen
+einen Platz zuweisen
+etw.acc. einen Platz zuweisen
+Platz für etw.acc. schaffen
+","ins Kino gehen
+ins Kino gehen
+ins Kino gehen
+",None,"zur Schau stellen
+etw.acc. zur Schau stellen
+etw.acc. zur Schau stellen
+etw.acc. zur Schau stellen
+etw.acc. zur Schau stellen
+etw.acc. zur Schau stellen
+etw.acc. zur Schau tragen
+jmdm. die Schau stehlen [coll.]
+jmdm. die Schau stehlen [coll.]
+jmdm. die Schau stehlen [coll.]
+etw.acc. stolz zur Schau stellen
+etw.acc. stolz zur Schau tragen
+","in Einzelheiten gehen
+auf Einzelheiten eingehen
+sichacc. in Einzelheiten verlieren
+sichacc. in Einzelheiten verlieren
+etw.acc. in Einzelheiten planen
+mit einer Einzelheit umgehen
+um weitere Einzelheiten bitten
+",None,"herumschlendern | schlenderte herum, herumgeschlendert |
+werkeln | werkelte, gewerkelt |
+herumhantieren | hantierte herum, herumhantiert |
+in der Küche herumhantieren
+Buch (über etw.acc.) führen
+ein Buch durchblättern
+ein Buch durchblättern
+ein Buch binden
+ein Buch aufschlagen
+ein Buch besprechen
+ein Buch überfliegen
+ein Buch verschlingen [fig.]
+über etw.acc. Buch führen
+in einem Buch nachsehen
+","herumschlendern | schlenderte herum, herumgeschlendert |
+werkeln | werkelte, gewerkelt |
+herumhantieren | hantierte herum, herumhantiert |
+in der Küche herumhantieren
+im Haus herumwerkeln
+","Bücher prüfen
+Bücher verschlingen
+Bücher frisieren
+die Bücher führen
+die Bücher führen
+die Bücher abschließen
+die Bücher frisieren
+die Bücher fälschen
+die Bücher verschleiern
+die Bücher abschließen
+die Bücher abstimmen
+die Bücher ausgleichen
+die Bücher schließen
+Buch (über etw.acc.) führen
+","(etw.acc.) filmen | filmte, gefilmt |
+filmen | filmte, gefilmt |
+(etw.acc.) drehen | drehte, gedreht | - filmen
+","(etw.acc.) drehen | drehte, gedreht | - filmen
+(etw.acc.) filmen | filmte, gefilmt |
+verfilmen | verfilmte, verfilmt |
+anlaufen | lief an, angelaufen | - Glas, Spiegel etc.
+kurbeln | kurbelte, gekurbelt | - Film [coll.]
+einen Film drehen
+einen Film drehen
+einen Film machen
+einen Film machen
+einen Film verknipsen [coll.]
+einen Film verknipsen [coll.]
+einen Film verschießen [coll.]
+einen Film verschießen [coll.]
+jmdn. im Bild festhalten
+","strömen | strömte, geströmt |
+flattern | flatterte, geflattert |
+wehen | wehte, geweht |
+anströmen | strömte an, angeströmt | - heranfließen, herbeikommen
+einströmen | strömte ein, eingeströmt |
+ausströmen | strömte aus, ausgeströmt |
+(durch etw.acc.) durchströmen | strömte durch, durchgeströmt |
+etw.acc. streamen | streamte, gestreamt |
+etw.acc. anströmen | strömte an, angeströmt |
+seifnen | seifnete, geseifnet | - Gewinnen nutzbarer Mineralien aus Seifen mit Hilfe von Wasser
+etw.acc. in Betrieb nehmen
+in Betrieb gehen
+in Betrieb gehen
+gegen den Strom schwimmen
+in Betrieb nehmen
+ausfädeln | fädelte aus, ausgefädelt |
+","Dienst haben
+Dienst leisten
+im Dienst sein
+einen Dienst erweisen
+den Dienst quittieren
+jmdm. einen Dienst erweisen
+jmdm. einen Dienst erweisen
+den Dienst quittieren dated
+außer Dienst stellen
+in Dienst stellen
+in Dienst stellen
+in Dienst stellen
+aus dem Dienst ausscheiden
+aus dem Dienst ausscheiden
+",None,None,None,None,None,"in Serie fertigen
+in Serie schalten
+","Schauspieler sein
 "
 nouns,english,"name
 name
@@ -3764,6 +4260,403 @@ readers at home pl.
 home office - office space at so.'s home chiefly (Amer.)
 home care [MED.]
 to homeschool so. - one's child [EDUC.]
+","December [abbr.: Dec.]
+","team
+team
+team
+team
+team
+team - of horses, oxen, etc.
+team [SPORT.]
+team [SPORT.]
+side [SPORT.]
+team
+team spirit
+team spirit
+team spirit
+team spirit
+","first leg [SPORT.]
+","World Cup [SPORT.]
+World Cup match [SPORT.]
+","qualification
+eligibility
+ability
+competence or: competency
+credentials pl.
+skill level
+skills pl.
+skill
+occupational qualification
+professional qualification
+wrong skills
+necessary qualification
+lack of skill
+professional qualification [COMM.]
+","womenfolk or: womenfolks plural noun
+womankind
+Mrs (Brit.) - title of respect prefixed to the name of a married woman
+Mrs. - pl.: Mmes. (Amer.) - title of respect prefixed to the name of a married woman
+wife - pl.: wives
+woman - pl.: women
+Ms. (Amer.) - pl.: Mss., Mses. - title of respect prefixed to a woman's name; does not indicate marital status (Amer.)
+Ms no plural - title of respect prefixed to a woman's name; does not indicate marital status (Brit.)
+female
+Dame - title for Benedictine nuns [REL.]
+femme French [sl.]
+wifie - woman (Scot.)
+goodwife obsolete
+Young Women's Christian Association [abbr.: YWCA]
+","melee or: mêlée
+stop-go (Brit.)
+seesaw or: see-saw [fig.]
+return trip - two-way journey
+round trip (Amer.)
+return flight
+round-trip ticket
+reciprocating motion
+return journey
+round trip (Amer.)
+bending fatigue test [TECH.]
+reverse bend test [TECH.]
+go-and-return line [TECH.]
+up-and-down line [TECH.]
+","championship
+tournament
+mastership
+mastery
+masterhood
+athletics championships [SPORT.]
+","reason
+cause
+ground
+occasion
+bottom
+matter - cause
+base
+basement
+foundation
+factor
+motive for doing sth.
+ground or: grounds [fig.]
+priming [TECH.]
+first coat [TECH.]
+","front-to-back ratio [TECH.]
+front-to-rear ratio [TECH.]
+gross-re-net calculation [FINAN.]
+","country
+ground
+land
+nation
+countryside
+soil
+state
+terra
+terrain
+Federal Land
+terrene
+territory
+plot - of land
+country of acceptance
+","gate also [TECH.]
+pass
+goal [SPORT.]
+door
+fool
+gateway [fig.]
+port [ELEC.][TELECOM.]
+hoop [SPORT.]
+folding gate
+distance to goal
+Iron Gate [GEOG.]
+goal-kick [SPORT.]
+scaramouch archaic - cowardly fool
+wide door
+","handball player [SPORT.]
+","World Cup [SPORT.]
+world championship [SPORT.]
+soccer world championship (Amer.)
+football World Cup [SPORT.]
+World Cup [SPORT.]
+","November [abbr.: Nov.]
+","return game [SPORT.]
+return match [SPORT.]
+second leg [SPORT.]
+rematch [SPORT.]
+return [SPORT.]
+","game
+match - pl.: matches [SPORT.]
+play
+tournament
+act
+spiel
+spiel
+spiel
+spiel
+tolerance
+spiel
+clearance [TECH.]
+backlash [TECH.]
+duty cycle [TECH.]
+","potter
+potter
+potter
+Potter horn [TELECOM.]
+moving grid [MED.]
+potter's clay
+potter's wheel
+potter's wheel
+potter's earth
+potter's loam
+potter's field (Amer.)
+potter's ore [GEOL.]
+Potter-Bucky grid [MED.]
+Potter-Bucky grid [MED.]
+","cine film
+film
+first-run film
+","lore
+story
+history no plural - past events
+history no plural - study of past events
+tale
+history - record of past events
+narrative
+saga
+doubtful accounts
+story for reflection
+living history
+human history
+rigmarole
+story for reflection
+","series - pl.: series
+run
+serial
+succession
+TV series
+production run [TECH.]
+gang [COMM.]
+series - pl.: series
+series - pl.: series [MATH.][TECH.]
+series - pl.: series
+series - pl.: series
+series - pl.: series
+series - pl.: series
+series - pl.: series
+","firm [COMM.]
+company [abbr.: Co.] [COMM.]
+employer
+name - of a company, stock corporation ...
+business [COMM.]
+enterprise [COMM.]
+business enterprise [COMM.]
+business organizationAE [COMM.]business organisationBE / organizationBE [COMM.]
+commercial firm name [COMM.]
+concern [COMM.]
+trade name [COMM.]
+Japanese fir [BOT.]
+Momi fir [BOT.]
+business concern
+","writer
+author - of a book, poem, etc.
+authoress archaic also [pej.]
+woman writer - pl.: women writers - of a book, poem, etc.
+scribe [coll.] [hum.]
+big hitter
+thriller author [LIT.]
+","performer
+actor | actress [THEA.]
+thespian [form.] also [hum.]
+","place
+room
+square
+seat
+space
+spot
+site
+location
+clearance
+accommodation
+position
+public open space
+venue
+amount of space
+","cinema
+theater - cinema (Amer.)
+the movies plural noun - cinema
+movie theater (Amer.)
+motion-picture theater (Amer.)
+pictures pl.
+the flicks [coll.]
+great show
+open air (or: open-air) cinema chiefly (Brit.)
+outdoor movie theater chiefly (Amer.)
+outdoor cinema chiefly (Brit.)
+drive-in theaterAEdrive-in theatreBE
+","player
+gambler
+gamester
+contender
+gamer
+mover
+topnotch
+piker chiefly (Amer.)
+seeded player [SPORT.]
+seeded player [SPORT.]
+first mover [ECON.]
+second mover
+DVD player
+MP3 player (or: MP3-player)
+","show
+exhibition
+window dressing [fig.]
+magnificent spectacle
+weft [NAUT.]
+","particulars pl. - detailed information about sth.
+elaboration
+the ins and outs
+minutiae pl.
+data used with sg. or pl. verb
+full particulars pl.
+detail
+particular
+item
+point
+circumstantiality
+minutiae pl.
+sordid details
+specifications pl.
+","cine film
+film
+first-run film
+","potter
+potter
+potter
+book
+volume - book
+casebook
+quire - of paper
+ledger [FINAN.]
+page [fig.] - pages collectively rare
+accounts pl. [FINAN.]
+Potter horn [TELECOM.]
+moving grid [MED.]
+large book
+Book of Malachi - book of the Bible [abbr.: Mal., Mal] [REL.]
+","potter
+potter
+potter
+Potter horn [TELECOM.]
+moving grid [MED.]
+potter's clay
+potter's wheel
+potter's wheel
+potter's earth
+potter's loam
+potter's field (Amer.)
+potter's ore [GEOL.]
+Potter-Bucky grid [MED.]
+Potter-Bucky grid [MED.]
+","accounts pl. [FINAN.]
+book
+volume - book
+casebook
+quire - of paper
+ledger [FINAN.]
+page [fig.] - pages collectively rare
+antiquarian books
+used books
+used books
+public registers pl.
+accounting books pl.
+cooking of accounts
+canon [LIT.]
+","shooting
+","film
+movie (Amer.)
+film
+film
+film
+film
+film
+film
+film
+film
+coat
+picture - film
+motion picture
+the movies plural noun (Amer.)
+","streaming
+streaming [COMP.]
+streaming [GEOL.]
+streaming [PHYS.]
+streaming
+streaming [GEOL.]
+streaming [TECH.]
+streaming water
+streaming potential [BIOL.][ELEC.]
+streaming factor [TECH.]
+streaming potential [TECH.]
+streaming transfer - gas-shielded metal-arc welding [TECH.]
+acoustic streaming [PHYS.]
+streaming lineation - according to Conybeare and Crook, 1968 [GEOL.]
+streaming potential [GEOL.]
+Gulf Stream spotted dolphin [ZOOL.]
+Gulf Stream spotted dolphin [ZOOL.]
+","service
+services
+shift
+employment
+office
+ministration [REL.]
+services pl.
+ministry of reconciliation [REL.]
+disservice
+rota chiefly (Brit.)
+service rendered
+community service
+occupational integration service
+occupational services pl.
+","cine film
+film
+first-run film
+","broadcasting commission
+live TV coverage
+","adhesive binding
+reconciliation with local statutory accounts [FINAN.]
+","conjurerAE / conjurorAEconjurorBE / conjurerBE
+enchanter
+magician
+illusionist
+captivator
+legerdemainist
+magus
+sorcerer
+warlock
+wizard
+","television series
+TV series
+back-to-back episodes pl.
+","series - pl.: series
+run
+serial
+succession
+TV series
+production run [TECH.]
+gang [COMM.]
+a flurry of sth.
+second issue
+batch size [COMM.]
+series coupling [TECH.]
+series inductance [TECH.]
+series injection [TECH.]
+series capacitor [TECH.]
+","performer
+actor | actress [THEA.]
+thespian [form.] also [hum.]
+masquerader
+actor-manager
+actor-director
+up-and-comer
 "
 nouns,german,"der Name rarely: Namen pl.: die Namen
 die Benennung pl.: die Benennungen
@@ -5557,6 +6450,403 @@ die Zu-Hause-Leser pl.
 Büro zu Hause (or: zuhause)
 Betreuung zu Hause (or: zuhause)
 jmdn. zuhause or: zu Hause unterrichten - sein Kind
+","der Dezember pl. [abbr.: Dez.]
+","die Mannschaft pl.: die Mannschaften
+das Team pl.: die Teams
+die Arbeitsgruppe pl.: die Arbeitsgruppen
+die Arbeitsgemeinschaft pl.: die Arbeitsgemeinschaften
+das Arbeitsteam pl.: die Arbeitsteams
+das Gespann pl.: die Gespanne
+die Equipe
+der Rennstall pl.: die Rennställe [Cycling]
+das Team pl.: die Teams
+das Arbeitskollektiv pl.: die Arbeitskollektive obsolete - in der ehemaligen DDR
+der Teamgeist no plural
+der Mannschaftsgeist
+der Zusammenhalt pl.: die Zusammenhalte
+der Gemeinschaftsgeist pl.
+","das Hinspiel pl.: die Hinspiele
+","die WM [coll.] - kurz für: Fußballweltmeisterschaft [Football]
+das WM-Spiel pl.: die WM-Spiele
+","die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+die Qualifikation pl.: die Qualifikationen
+berufliche Qualifikation
+berufliche Qualifikation
+falsche Qualifikation
+erforderliche Qualifikation
+mangelnde Qualifikation
+fachliche Qualifikation
+","die Frauen pl.
+die Frauen pl.
+Frau [abbr.: Fr.] - verheiratet
+Frau [abbr.: Fr.] - verheiratet
+die Frau pl.: die Frauen
+die Frau pl.: die Frauen
+Frau - verheiratet oder unverheiratet
+Frau - verheiratet oder unverheiratet
+die Frau pl.: die Frauen
+Frau - Titel bei Benediktinerinnen
+die Frau pl.: die Frauen
+die Frau pl.: die Frauen
+die Frau pl.: die Frauen
+Christlicher Verein junger Frauen [abbr.: CVJF]
+","das Hin und Her
+das Hin und Her
+das Hin und Her
+die Hin- und Rückreise
+die Hin- und Rückreise
+der Hin- und Rückflug
+das Hin- und Rückflugticket
+die Hin- und Herbewegung
+die Hin- und Rückfahrt
+die Hin- und Rückfahrt
+der Hin- und Herbiegeversuch
+der Hin- und Herbiegeversuch [Hoisting Technology]
+die Hin- und Rückleitung
+die Hin- und Rückleitung
+","die Meisterschaft pl.: die Meisterschaften
+die Meisterschaft pl.: die Meisterschaften
+die Meisterschaft pl.: die Meisterschaften
+die Meisterschaft pl.: die Meisterschaften
+die Meisterschaft pl.: die Meisterschaften - Können
+die Leichtathletik-Meisterschaften pl.
+","der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+der Grund pl.: die Gründe
+","das Vor-Rück-Verhältnis pl.: die Vor-Rück-Verhältnisse
+das Vor-Rück-Verhältnis pl.: die Vor-Rück-Verhältnisse
+die Brutto-rück-netto-Rechnung [Bookkeeping]
+","das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land no plural
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.
+das Land pl.: die Länder
+das Land pl.
+das Land pl.
+Stück Land
+Land der Akzeptierung
+","das Tor pl.: die Tore
+das Tor pl.: die Tore
+das Tor pl.: die Tore
+das Tor pl.: die Tore
+der Tor pl.: die Toren
+das Tor pl.: die Tore
+das Tor pl.: die Tore
+das Tor pl.: die Tore [Krocket]
+zweiteiliges Tor
+Entfernung zum Tor
+Eisernes Tor
+Abstoß vom Tor
+feiger Tor
+breites Tor
+","der Handballer | die Handballerin pl.: die Handballer, die Handballerinnen
+","die Weltmeisterschaft pl.: die Weltmeisterschaften [abbr.: WM] chiefly [Football]
+die Weltmeisterschaft pl.: die Weltmeisterschaften [abbr.: WM]
+die Fußballweltmeisterschaft or: Fußball-Weltmeisterschaft pl.: die Fußballweltmeisterschaften, die Fußball-Weltmeisterschaften
+die Fußballweltmeisterschaft or: Fußball-Weltmeisterschaft pl.: die Fußballweltmeisterschaften, die Fußball-Weltmeisterschaften
+die Fußballweltmeisterschaft or: Fußball-Weltmeisterschaft pl.: die Fußballweltmeisterschaften, die Fußball-Weltmeisterschaften
+","der November pl. [abbr.: Nov.]
+","das Rückspiel pl.: die Rückspiele
+das Rückspiel pl.: die Rückspiele
+das Rückspiel pl.: die Rückspiele
+das Rückspiel pl.: die Rückspiele
+das Rückspiel pl.: die Rückspiele
+","das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Gelaber no plural
+das Geschwafel no plural
+lange, wortreiche Rede
+langes Gerede
+das Spiel pl.: die Spiele
+die Schwafelei [coll.]
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+","der Töpfer pl.: die Töpfer
+der Keramiker | die Keramikerin pl.: die Keramiker, die Keramikerinnen
+der Hafner pl.: die Hafner
+das Potter-Horn
+die Potter-Bucky-Blende [Radiology]
+der Töpferton pl.: die Töpfertone
+die Töpferscheibe pl.: die Töpferscheiben
+die Drehscheibe pl.: die Drehscheiben
+der Töpferton pl.: die Töpfertone
+der Töpferton pl.: die Töpfertone
+Friedhof für Arme und anonym Verstorbene
+das Glasurerz pl.: die Glasurerze
+bewegliches Raster [Radiology]
+das Laufraster pl.: die Laufraster [Radiology]
+","der Kinofilm pl.: die Kinofilme
+der Kinofilm pl.: die Kinofilme
+aktueller Kinofilm
+","die Geschichten pl.
+die Geschichte pl.: die Geschichten
+die Geschichte no plural
+die Geschichte no plural
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+die Geschichte pl.: die Geschichten
+dubiose Geschichten
+Geschichte zum Nachdenken
+Geschichte zum Anfassen
+die Geschichte der Menschheit
+langatmige Geschichte
+nachdenkliche Geschichte
+","die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Folge pl.: die Folgen
+die Reihe pl.: die Reihen
+die Zahlenfolge pl.: die Zahlenfolgen
+der Ablauf pl.: die Abläufe
+die Aufeinanderfolge pl.: die Aufeinanderfolgen
+die Fahrzeugbaureihe pl.: die Fahrzeugbaureihen
+die Fertigungsreihe pl.: die Fertigungsreihen
+","die Firma pl.: die Firmen
+die Firma pl.: die Firmen [abbr.: Fa.]
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen - eingetragener Name eines Unternehmens, Geschäfts, ...
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen
+die Firma pl.: die Firmen - Name eines Unternehmens
+die Momi-Tanne Lat.: Abies firma
+die Momi-Tanne Lat.: Abies firma
+die Firma pl.: die Firmen
+","der Autor | die Autorin pl.: die Autoren, die Autorinnen
+der Autor | die Autorin pl.: die Autoren, die Autorinnen
+die Autorin pl.: die Autorinnen
+die Autorin pl.: die Autorinnen
+der Autor | die Autorin pl.: die Autoren, die Autorinnen
+der Bestseller-Autor | die Bestseller-Autorin pl.: die Bestseller-Autoren, die Bestseller-Autorinnen
+der Thriller-Autor | die Thriller-Autorin or: der Thrillerautor | die Thrillerautorin pl.
+","der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+","der Platz pl.
+der Platz no plural
+der Platz pl.
+der Platz pl. - Sitzplatz
+der Platz no plural
+der Platz pl.
+der Platz pl.
+der Platz pl.
+der Platz no plural
+der Platz pl.
+der Platz pl.
+der Platz pl.
+der Platz pl.
+der Platz no plural
+","das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+das Kino pl.: die Kinos
+großes Kino [coll.]
+das Open-Air-Kino pl.: die Open-Air-Kinos
+das Open-Air-Kino pl.: die Open-Air-Kinos
+das Open-Air-Kino pl.: die Open-Air-Kinos
+das Drive-in-Kino pl.: die Drive-in-Kinos
+","der Spieler | die Spielerin pl.: die Spieler, die Spielerinnen
+der Spieler | die Spielerin pl.: die Spieler, die Spielerinnen
+der Spieler | die Spielerin pl.: die Spieler, die Spielerinnen
+der Spieler | die Spielerin pl.: die Spieler, die Spielerinnen
+der Spieler | die Spielerin pl.: die Spieler, die Spielerinnen
+Spieler [Spieltheorie]
+erstklassiger Spieler
+vorsichtiger Spieler
+gesetzter Spieler [Tennis]
+platzierter Spieler [Tennis]
+erster Spieler [Spieltheorie]
+zweiter Spieler [Spieltheorie]
+der DVD-Spieler pl.: die DVD-Spieler
+der MP3-Spieler pl.: die MP3-Spieler
+","die Schau pl.: die Schauen
+die Schau pl.: die Schauen
+die Schau pl.: die Schauen [fig.]
+großartige Schau
+Flagge in Schau
+","die Einzelheiten pl.
+die Einzelheiten pl.
+die Einzelheiten pl.
+die Einzelheiten pl.
+die Einzelheiten pl.
+die Einzelheiten pl.
+die Einzelheit pl.: die Einzelheiten
+die Einzelheit pl.: die Einzelheiten
+die Einzelheit pl.: die Einzelheiten
+die Einzelheit pl.: die Einzelheiten
+die Einzelheit pl.: die Einzelheiten
+genaue Einzelheiten pl.
+schmutzige Einzelheiten
+technische Einzelheiten pl.
+","der Kinofilm pl.: die Kinofilme
+der Kinofilm pl.: die Kinofilme
+aktueller Kinofilm
+","der Töpfer pl.: die Töpfer
+der Keramiker | die Keramikerin pl.: die Keramiker, die Keramikerinnen
+der Hafner pl.: die Hafner
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher - 25 bzw. 24 Bogen Papier
+das Buch pl.: die Bücher - der Buchhaltung
+das Buch pl.: die Bücher
+die Bücher pl.
+das Potter-Horn
+die Potter-Bucky-Blende [Radiology]
+Buch im Großformat
+Buch Maleachi [abbr.: Mal] - Buch im Alten Testament [Bible]
+","der Töpfer pl.: die Töpfer
+der Keramiker | die Keramikerin pl.: die Keramiker, die Keramikerinnen
+der Hafner pl.: die Hafner
+das Potter-Horn
+die Potter-Bucky-Blende [Radiology]
+der Töpferton pl.: die Töpfertone
+die Töpferscheibe pl.: die Töpferscheiben
+die Drehscheibe pl.: die Drehscheiben
+der Töpferton pl.: die Töpfertone
+der Töpferton pl.: die Töpfertone
+Friedhof für Arme und anonym Verstorbene
+das Glasurerz pl.: die Glasurerze
+bewegliches Raster [Radiology]
+das Laufraster pl.: die Laufraster [Radiology]
+","die Bücher pl.
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher
+das Buch pl.: die Bücher - 25 bzw. 24 Bogen Papier
+das Buch pl.: die Bücher - der Buchhaltung
+das Buch pl.: die Bücher
+antiquarische Bücher
+antiquarische Bücher
+gebrauchte Bücher
+öffentliche Bücher pl.
+kaufmännische Bücher pl.
+Fälschen der Bücher
+kanonische Bücher
+","das Filmen no plural
+","der Film pl.: die Filme
+der Film pl.: die Filme
+die Folie pl.: die Folien
+die Schicht pl.: die Schichten
+der Anflug pl.: die Anflüge
+das Häutchen pl.: die Häutchen
+der Belag pl.: die Beläge
+der Überzug pl.: die Überzüge
+der Niederschlag pl.: die Niederschläge
+der Nebelschleier pl.: die Nebelschleier
+der Film pl.: die Filme
+der Film pl.: die Filme
+der Film pl.: die Filme
+der Film pl.: die Filme - Genre
+","die Strömung pl.: die Strömungen
+das Streaming no plural
+der Seifenabbau pl.
+das Strahlungsleck pl.: die Strahlungslecks
+Einrichtung von Leistungsklassen
+das Seifnen no plural
+das Seifenwerk pl.: die Seifenwerke
+das Fließgewässer pl.: die Fließgewässer
+das Strömungspotenzial or: Strömungspotential pl.: die Strömungspotenziale, die Strömungspotentiale [Elektrobiologie]
+der Kanalverlustfaktor
+das Strömungspotenzial or: Strömungspotential pl.: die Strömungspotenziale, die Strömungspotentiale
+fließender Werkstoffübergang - beim Metallschutzgasschweißen
+akustische Gleichströmung [Acoustics]
+die Strömungsstreifung pl.: die Strömungsstreifungen
+die Strömungsspannung - Elektrokinese
+der Zügeldelphin or: Zügeldelfin pl. Lat.: Stenella frontalis
+Atlantischer Fleckendelphin (or: Fleckendelfin) Lat.: Stenella frontalis
+","der Dienst pl.: die Dienste
+der Dienst pl.: die Dienste
+der Dienst pl.: die Dienste
+der Dienst pl.: die Dienste
+der Dienst pl.: die Dienste
+der Dienst pl.: die Dienste
+die Dienste pl.
+Dienst der Versöhnung
+schlechter Dienst
+abwechselnder Dienst
+geleisteter Dienst
+sozialer Dienst
+berufsbegleitender Dienst
+betriebstechnischer Dienst
+","der Kinofilm pl.: die Kinofilme
+der Kinofilm pl.: die Kinofilme
+aktueller Kinofilm
+","der Fernseh- und Rundfunkrat
+die Live-Fernseh-Übertragung
+","Klebebindung von Büchern
+Abstimmung mit den lokalen gesetzlich vorgeschriebenen Büchern - Jahresabschluss
+","der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer | die Zauberin pl.: die Zauberer, die Zauberinnen
+der Zauberer pl.: die Zauberer
+der Zauberer pl.: die Zauberer
+der Zauberer pl.: die Zauberer
+der Zauberer pl.: die Zauberer
+","die Fernsehserie pl.: die Fernsehserien
+die Fernsehserie pl.: die Fernsehserien
+aufeinanderfolgende Teile einer Fernsehserie
+","die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+die Serie pl.: die Serien
+eine Serie von etw.dat.
+zweite Serie
+Größe der Serie
+die Serie-Ankopplung
+die Serie-Drossel
+die Serie-Einspeisung
+der Serie-Kondensator
+","der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+der Schauspieler | die Schauspielerin pl.: die Schauspieler, die Schauspielerinnen
+der Schauspieler pl.: die Schauspieler [fig.]
+Schauspieler und Intendant
+regieführender Schauspieler
+aufstrebender Schauspieler
 "
 noun_details,english,"article: Der
 word: Name
@@ -6512,8 +7802,272 @@ genus:
 plural: Häuser
 meaning: collection from domicile [COMM.]
 indoor work
+","article: Der
+word: Dezember
+genus: MASC
+plural: Dezember
+meaning: December [abbr.: Dec.]
+
+","article: die
+word: Mannschaft
+genus: FEMI
+plural: die Mannschaften
+meaning: team
+team
+","article: Das
+word: Hinspiel
+genus: NEUT
+plural: Hinspiele
+meaning: first leg [SPORT.]
+
+","article: Die
+word: WM
+genus: FEMI
+plural: WM / WMs
+meaning: World Cup [SPORT.]
+World Cup match [SPORT.]
+","article: Die
+word: Qualifikation
+genus: FEMI
+plural: Qualifikationen
+meaning: qualification
+eligibility
+","article: Die
+word: Frau
+genus: FEMI
+plural: Frauen
+meaning: womenfolk or: womenfolks plural noun
+womankind
+","article: das
+word: Hin
+genus: NEUT
+plural: Her
+meaning: melee or: mêlée
+stop-go (Brit.)
+","article: die
+word: Meisterschaft
+genus: FEMI
+plural: die Meisterschaften
+meaning: championship
+tournament
+","article: Der
+word: Grund
+genus: MASC
+plural: Gründe
+meaning: reason
+cause
+","article: das
+word: Vor-Rück-Verhältnis
+genus: NEUT
+plural: die Vor-Rück-Verhältnisse
+meaning: front-to-back ratio [TECH.]
+front-to-rear ratio [TECH.]
+","article: Das
+word: Land
+genus: NEUT
+plural: Länder / Lande
+meaning: country
+ground
+","article: Das
+word: Tor
+genus: NEUT
+plural: Tore
+meaning: gate also [TECH.]
+pass
+","article: Die
+word: Handballerin
+genus: MASC
+plural: Handballerinnen
+meaning: handball player [SPORT.]
+
+","article: Die
+word: Weltmeisterschaft
+genus: FEMI
+plural: Weltmeisterschaften
+meaning: World Cup [SPORT.]
+world championship [SPORT.]
+","article: Der
+word: November
+genus: MASC
+plural: November
+meaning: November [abbr.: Nov.]
+
+","article: Das
+word: Rückspiel
+genus: NEUT
+plural: Rückspiele
+meaning: return game [SPORT.]
+return match [SPORT.]
+","article: das
+word: Spiel
+genus: NEUT
+plural: die Spiele
+meaning: game
+match - pl.: matches [SPORT.]
+","article: der
+word: Töpfer
+genus: MASC
+plural: die Töpfer
+meaning: potter
+potter
+","article: Der
+word: Kinofilm
+genus: MASC
+plural: Kinofilme
+meaning: cine film
+film
+","article: Die
+word: Geschichte
+genus: FEMI
+plural: Geschichten
+meaning: lore
+story
+","article: Die
+word: Serie
+genus: FEMI
+plural: Serien
+meaning: series - pl.: series
+run
+","article: Die
+word: Firma
+genus: FEMI
+plural: Firmen
+meaning: firm [COMM.]
+company [abbr.: Co.] [COMM.]
+","article: Die
+word: Autorin
+genus: MASC
+plural: Autorinnen
+meaning: writer
+author - of a book, poem, etc.
+","article: Die
+word: Schauspielerin
+genus: MASC
+plural: Schauspielerinnen
+meaning: performer
+actor | actress [THEA.]
+","article: Der
+word: Platz
+genus: MASC
+plural: Plätze
+meaning: place
+room
+","article: Das
+word: Kino
+genus: NEUT
+plural: Kinos
+meaning: cinema
+theater - cinema (Amer.)
+","article: der
+word: Spieler
+genus: MASC
+plural: die Spieler, die Spielerinnen
+meaning: player
+gambler
+","article: Die
+word: Schau
+genus: FEMI
+plural: Schauen
+meaning: show
+exhibition
+","article: Die
+word: Einzelheit
+genus: FEMI
+plural: Einzelheiten
+meaning: particulars pl. - detailed information about sth.
+elaboration
+","article: Der
+word: Kinofilm
+genus: MASC
+plural: Kinofilme
+meaning: cine film
+film
+","article: der
+word: Töpfer
+genus: MASC
+plural: die Töpfer
+meaning: potter
+potter
+","article: der
+word: Töpfer
+genus: MASC
+plural: die Töpfer
+meaning: potter
+potter
+","article: Das
+word: Buch
+genus: FEMI
+plural: Bücher
+meaning: accounts pl. [FINAN.]
+book
+","article: das
+word: Filmen
+genus: NEUT
+plural: plural
+meaning: shooting
+
+","article: der
+word: Film
+genus: MASC
+plural: die Filme
+meaning: film
+movie (Amer.)
+","article: Das
+word: Streaming
+genus: FEMI
+plural: Streamings
+meaning: streaming
+streaming [COMP.]
+","article: der
+word: Dienst
+genus: MASC
+plural: die Dienste
+meaning: service
+services
+","article: Der
+word: Kinofilm
+genus: MASC
+plural: Kinofilme
+meaning: cine film
+film
+","article: der
+word: Fernseh-
+genus: MASC
+plural: Rundfunkrat
+meaning: broadcasting commission
+live TV coverage
+","article: Klebebindung
+word: von
+genus: 
+plural: Büchern
+meaning: adhesive binding
+reconciliation with local statutory accounts [FINAN.]
+","article: Der
+word: Zauberer
+genus: MASC
+plural: Zauberer
+meaning: conjurerAE / conjurorAEconjurorBE / conjurerBE
+enchanter
+","article: Die
+word: Fernsehserie
+genus: FEMI
+plural: Fernsehserien
+meaning: television series
+TV series
+","article: die
+word: Serie
+genus: FEMI
+plural: die Serien
+meaning: series - pl.: series
+run
+","article: Der
+word: Schauspieler
+genus: MASC
+plural: Schauspieler
+meaning: performer
+actor | actress [THEA.]
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"by name - postpos.
 according to name
 in all but name
@@ -7220,7 +8774,121 @@ at so.'s house
 by birth
 originally adv.
 homelike adj.
-"
+",None,"team-minded adj.
+able to work in a team
+",None,None,None,"women's adj.
+wifeless adj.
+all-female adj.
+","there adv.
+lost adj.
+bust adj.
+to and fro
+back and forth
+bidirectional adj.
+in and out
+every now and then
+at times
+once in a while
+every once a while
+on and off
+on-again-off-again adj.
+return adj.
+",None,"without cause
+aground adv. [NAUT.]
+over ground [NAUT.]
+basic adj. - used before noun
+staple adj.
+base adj.
+root adj. - used before noun
+fundamental adj.
+master adj. - used before noun
+due to sth.
+for any reason
+for any purpose
+from scratch
+rootedly adv.
+","back adj.
+return adj. - used before noun
+back-dated adj.
+returned adj.
+rear adj.
+revertive adj.
+","land-based adj.
+ashore adv.
+onshore adv.
+in the country
+in the countryside
+nationwide adv.
+in the whole country
+throughout the country
+on home soil
+overland adv.
+rural adj.
+praedial or: predial adj.
+native adj.
+in this country
+","downfield adj. chiefly (Amer.) [SPORT.]
+upfield adj. adv. [SPORT.]
+",None,None,None,None,"jeopardizedAE adj.jeopardisedBE / jeopardizedBE adj.
+at stake
+pre-game adj.
+pretended - not genuine, used before noun adj.
+alcohol-related adj.
+",None,None,"storied adj.
+storied adj.
+","production-model adj. [AUTOM.]
+series-production adj. [AUTOM.]
+series connected [TECH.]
+in series
+in series
+in series
+in series
+in series
+suitable for series production
+arranged in series
+capable of series production [AUTOM.]
+ready for series production [AUTOM.]
+effectively ready for series production [AUTOM.]
+","corporate adj. [COMM.]
+at company's risk
+at company expense
+",None,None,"space-saving adj.
+space saving
+packed adj.
+","at the flicks [coll.]
+",None,"on view
+ostentatious adj.
+","in detail
+at full length
+detailed adj.
+short of detail
+in the minutest details
+in all its particulars
+",None,None,None,None,None,"film-forming adj.
+film-forming adj.
+cinematic adj.
+thin-film-forming adj. [TECH.]
+","streaming adj. - eyes
+without stream [GEOL.]
+lacking a stream [GEOL.]
+without a stream [GEOL.]
+","on duty
+in service
+in waiting
+in ordinary - in regular service, esp. to the royal household
+on duty
+on duty
+attendant adj.
+in attendance
+in waiting
+off duty
+inactive adj.
+retired adj.
+off duty
+off-duty adj.
+",None,None,None,None,None,"production-model adj. [AUTOM.]
+series-production adj. [AUTOM.]
+",None
 adjectives_or_adverbs,german,"namentlich
 nach Namen
 bis auf den Namen
@@ -7927,7 +9595,121 @@ bei jmdm. zuhause or: zu Hause
 von Hause aus
 von Hause aus
 wie zu Hause (or: zuhause)
-"
+",None,"teamfähig
+teamfähig
+",None,None,None,"Frauen...
+ohne Frau
+ausschließlich aus Frauen bestehend
+","hin
+hin [coll.]
+hin [coll.]
+hin und her
+hin und her
+hin und her
+hin und her
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und zurück
+",None,"ohne Grund
+auf Grund
+über Grund
+Grund...
+Grund...
+Grund...
+Grund...
+Grund...
+Grund...
+aufgrund (or: auf Grund) von etw.dat. - gefolgt von Substantiv ohne Artikel und Attribut
+aus irgendeinem Grund
+aus irgendeinem Grund
+von Grund auf
+von Grund auf
+","Rück...
+Rück...
+Rück...
+Rück...
+Rück...
+Rück...
+","vom Land aus
+an Land
+an Land
+auf dem Land (or: Lande)
+auf dem Land (or: Lande)
+im ganzen Land
+im ganzen Land
+im ganzen Land
+im eigenen Land
+über Land
+Land...
+Land...
+Landes...
+hierzulande or: hier zu Lande
+","in Richtung eigenes Tor
+in Richtung gegnerisches Tor
+",None,None,None,None,"aufs Spiel gesetzt
+auf dem Spiel
+vor dem Spiel
+Spiel...
+mit Alkohol im Spiel
+",None,None,"mit Geschichten geschmückt
+in die Geschichte eingegangen
+","Serien...
+Serien...
+hintereinander geschaltet
+hintereinander adv.
+in Reihe
+reihenweise
+serienmäßig
+in Folge
+serientauglich
+hintereinandergeschaltet
+serientauglich
+serientauglich adj.
+serientauglich
+","Firmen...
+auf Gefahr der Firma
+zu Kosten der Firma
+",None,None,"platzsparend or: Platz sparend
+platzsparend or: Platz sparend
+bis auf den letzten Platz besetzt
+","im Kino
+",None,"zur Schau
+zur Schau gestellt
+","in allen Einzelheiten
+in allen Einzelheiten
+in allen Einzelheiten
+ohne ausreichende Einzelheiten - nachgestellt
+in den kleinsten Einzelheiten
+in allen Einzelheiten
+",None,None,None,None,None,"filmbildend
+schichtbildend
+Film...
+dünnschichtbildend
+","tränend
+flusslos
+flusslos
+flusslos
+","im Dienst
+im Dienst
+im Dienst
+im Dienste +gen.
+diensthabend or: Dienst habend
+diensttuend or: Dienst tuend
+diensttuend or: Dienst tuend
+diensttuend or: Dienst tuend
+diensttuend or: Dienst tuend
+außer Dienst
+außer Dienst
+außer Dienst [abbr.: a. D.]
+nicht im Dienst
+nicht im Dienst
+",None,None,None,None,None,"Serien...
+Serien...
+",None
 phrases_or_collocations,english,"What's in a name?
 a name to conjure with
 to name but a few
@@ -8431,7 +10213,93 @@ Make yourself at home.
 Make yourself at home.
 first thing when I get home
 to be master in one's own house [fig.]
-"
+",None,"Individuals play games but teams win.
+",None,None,None,"in drag - usually of a man [coll.]
+ma'am
+a married woman
+a daughter of Eve [fig.]
+a woman's heart is a deep ocean of secrets
+Our Lady [REL.]
+","There's no use crying over spilt milk.
+it's no use crying over spilt milk
+the evidence is
+there is evidence
+there is evidence to suggest
+to be bowled over by so./sth.
+to be mad about so.
+to be smitten by so.
+",None,"For what reason?
+for any reason
+anchor is aweigh [NAUT.]
+to go to the dogs [coll.] [fig.]
+",None,"the land of milk and honey
+to be in over one's head
+Mirror, mirror on the wall, who's the fairest of them all? - quote from the fairy tale Snow White
+A prophet has no honorAE in his own country.A prophet has no honourBE in his own country.
+When in Rome do as the Romans do
+When in Rome ...
+Different strokes for different folks. (Amer.)
+","You poor sap!
+",None,None,None,None,"a pack of cards
+to hazard sth. | hazarded, hazarded |
+to jeopardizeAE sth. to jeopardiseBE / jeopardizeBE sth. | jeopardized, jeopardized / jeopardised, jeopardised |
+to compromise sth. | compromised, compromised |
+to put sth. on the line
+to gamble with sth.
+to put sth. at stake
+to adventure sth. | adventured, adventured | rare
+The game is up.
+The jig is up.
+game, set, match [SPORT.]
+game, set and match [SPORT.]
+It's a game of two halves.
+to have a walk-over
+",None,None,"The two stories agree.
+a fake story
+a made-up story
+this is history in the making
+this is history in the making
+That's a pretty mess!
+","a spate of
+","a firm of standing
+a company of good standing
+The firm is on the brink of disaster.
+",None,None,"Down!
+Have a seat.
+Get out of the way!
+a place in the sun
+out of memory [COMP.]
+Have a seat, please.
+This seat is taken.
+the right man in the right place
+On your markAE, get set, go!On your marksBE, get set, go!
+Ready, steady, go! (Brit.)
+Please take your seats!
+",None,None,"Lo! [poet.] archaic
+Look!
+Look ahead!
+Don't look like that!
+Don't look like that!
+Look ahead!
+","all further particulars
+",None,"to be a riddle wrapped up in an enigma
+to be a closed book
+to be a mystery
+a textbook example
+a well-worn volume
+It's a closed book.
+",None,"to be a riddle wrapped up in an enigma
+to be a closed book
+to be a mystery
+a textbook example
+a well-worn volume
+It's a closed book.
+",None,None,None,"happy to oblige
+always at your service
+for services rendered
+in return for your services
+",None,None,None,None,None,"a spate of
+",None
 phrases_or_collocations,german,"Name ist Schall und Rauch.
 ein Name, der Wunder wirkt
 um nur einige zu nennen
@@ -8935,7 +10803,93 @@ Fühl dich wie zu Hause (or: zuhause).
 Fühlen Sie sich wie zu Hause (or: zuhause).
 gleich wenn ich zu Hause (or: zuhause) bin
 Herr im eigenen Hause sein [fig.]
-"
+",None,"Nicht der Einzelne, sondern das Team gewinnt.
+",None,None,None,"als Frau verkleidet - Mann
+gnädige Frau
+eine verheiratete Frau
+eine typische Frau
+das Herz einer Frau ist ein tiefer Ozean voller Geheimnisse
+Unsere Liebe Frau - Jungfrau Maria
+","Hin ist hin.
+hin ist hin
+alles deutet darauf hin
+vieles deutet darauf hin
+vieles weist darauf hin
+von jmdm./etw. hin und weg sein [fig.]
+von jmdm. hin und weg sein [fig.]
+von jmdm. hin und weg sein [fig.]
+",None,"Aus welchem Grund?
+aus welchem Grund auch immer
+Anker ist aus dem Grund
+zugrunde (or: zu Grunde) gehen
+",None,"das Land, in dem Milch und Honig fließen
+kein Land mehr sehen können
+Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land? - Zitat aus dem Märchen Schneewittchen
+Ein Prophet gilt nichts im eigenen Land.
+andere Länder, andere Sitten
+andere Länder, andere Sitten
+Andere Länder, andere Sitten.
+","Du armer Tor!
+",None,None,None,None,"ein Spiel Karten
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+Das Spiel ist aus.
+Das Spiel ist aus.
+Spiel, Satz, Sieg [Tennis]
+Spiel, Satz und Sieg [Tennis]
+Ein Spiel dauert 90 Minuten. [Football]
+leichtes Spiel haben
+",None,None,"Beide Geschichten stimmen überein.
+eine erfundene Geschichte
+eine erfundene Geschichte
+hier wird Geschichte gemacht
+hier wird Geschichte geschrieben
+Das ist ja eine schöne Geschichte! - ironisch
+","eine Serie von
+","eine fundierte Firma
+eine Firma mit gutem Ansehen
+Über der Firma schwebt der Pleitegeier.
+",None,None,"Platz! - Hundekommando
+Bitte nehmen Sie Platz.
+Platz da!
+ein Platz in der Sonne
+Platz im Hauptspeicher reicht nicht aus
+Bitte, nehmen Sie Platz.
+Dieser Platz ist besetzt.
+der rechte Mann am rechten Platz
+Auf die Plätze, fertig, los!
+Auf die Plätze, fertig, los!
+Bitte nehmen Sie Ihre Plätze ein!
+",None,None,"Schau!
+Schau mal!
+Schau voraus!
+Schau mich nicht so an!
+Schau nicht so dumm!
+Schau nach vorne!
+","alle weiteren Einzelheiten
+",None,"ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein [fig.]
+wie es im Buch steht
+ein ganz zerlesenes Buch
+Das ist ein Buch mit sieben Siegeln.
+",None,"ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein
+ein Buch mit sieben Siegeln sein [fig.]
+wie es im Buch steht
+ein ganz zerlesenes Buch
+Das ist ein Buch mit sieben Siegeln.
+",None,None,None,"gern zu Diensten
+stets zu Diensten
+für geleistete Dienste
+als Belohnung für Ihre Dienste
+",None,None,None,None,None,"eine Serie von
+",None
 examples,english,"name and address are kept secret
 I didn't catch your name.
 What's your name?
@@ -9593,7 +11547,178 @@ I called at your house.
 She's back home.
 This reminds me of home.
 The lines between working life and home life are often blurred.
-"
+",None,"Neither of the teams was happy with the result.
+",None,None,None,"fidelity in married women
+We're an equal opportunity employer.
+an abandoned woman
+a woman of vision
+He is a doting husband.
+I'm filling in while Mrs Schumm is on holiday. (Brit.)
+a well-adjusted woman
+He was caught in bed with someone else's wife.
+she's nobody's fool
+his wife of a few hours' standing
+his wife of 25 years
+","I did it at his suggestion.
+Does everyone know where he or she is going?
+culminating in economic crises
+There is evidence that ...
+She gave herself up to him.
+all the signs are that ...
+He placed the trophy in front of himself.
+agree not to create an outward impression that
+£50,000 was raised in response to the radio appeal.
+","The championships get under way.
+","on the basis of the facts
+in respect of such discrepancy
+on the basis of his participation
+on the basis of his experience
+on the basis of his profession
+owing to unfortunate circumstances
+should endeavorAE to ascertain the reasonsshould endeavourBE to ascertain the reasons
+He came by the same token.
+There's little reason to believe that.
+on one's own property
+There must be some reason he acted that way.
+on the basis of the documents alone
+prescribed by the regulations
+in discharge of his duties
+",None,"in some countries
+in 120-odd countries
+in their respective countries
+in different countries
+the wide open spaces
+another country
+flows through the land
+for each country
+any foreign country
+valid for the whole country
+Turkey battles to repatriate antiquities.
+the best panorama of the area
+His speech will resound throughout the country. [fig.]
+most popular tourist region
+","The gateway through which you have just walked is 800 years old.
+His goal was quite a scorcher.
+",None,None,"early November
+",None,"The game was rained off. (Brit.)
+The score is even.
+the game ended in a draw
+the game was a draw
+The match could go either way.
+the game ended in a tie
+He has a finger in the pie.
+What's the score?
+What is the score?
+He puts a good face on the matter.
+Fewer people than expected turned up for the match.
+There is little scope left.
+He's a dog in the manger.
+There aren't many games to play before the end of the season.
+",None,None,"Boston is steeped in history.
+a cracking good story
+history goes back 2000 years
+in the history of Europe
+","our line of samples
+a series of acts
+","The company has been in business since 1950.
+the management takes no responsibility for objects left here
+The company moves towardAE an uncertain future.The company moves towardsBE an uncertain future.
+The company can ill afford a flop.
+debts due to the firm pl. [FINAN.]
+a young company
+He has only been with our firm for a short time.
+of the said company
+a respected company
+a reliable firm
+He ceases to represent our company.
+He will travel for our company.
+recommended your firm to us
+information about this company
+",None,None,"a lot of room
+a place in the sun
+I had her sit down.
+Is this seat reserved?
+Do sit down.
+Choose any seat you like.
+Do sit down.
+Is this seat taken?
+Mr Frutiger is currently not at his desk.
+There isn't any room for her in the car.
+The room accommodates four people.
+The tent sleeps four.
+All seats are taken.
+We have tickets in the nosebleed section. [SPORT.]
+No comments from the peanut gallery! [sl.]
+Quiet in the cheap seats! [sl.]
+","I'm going to the pictures now.
+She works half-day at the cinema.
+I often go to the cinema.
+","One of the players had forgotten his passport.
+","Look at that poor dog - it's limping.
+we'll wait and see what happens
+in the top left-hand corner of the diagram
+","all particulars of
+Would you send us detailed information?
+He is familiar with all the details.
+for further particulars we refer you to
+about the details
+We would welcome your detailed information.
+will give you further details
+a more detailed account
+full details to follow
+alike in every particular
+",None,"It corresponds with our books
+in conformity with the books
+if you refer to your books
+The book is published by Knaur.
+the book sells well
+The book is published by Knaur.
+The book was adapted for the screen in 1981.
+The book continued in installmentsAE over the next several months.The book continued in instalmentsBE over the next several months.
+The book is temporarily out of stock.
+the book sells well
+How do you like this book?
+I've never read this book in its entirety.
+I've read every book he has written.
+This book makes good reading.
+",None,"books arranged according to size
+Books are ten a penny.
+Accounts are not in order.
+You can have both books.
+You can have both of the books.
+all the rest of the books
+on closing our accounts
+on looking through our books
+our books have been balanced
+You can have either of the books.
+You can have neither of the books.
+his books sold poorly
+on closing our books we discovered
+The book is published by Knaur.
+","in the box office top ten
+","elaborate dance scenes in the film
+You simply must see that film.
+and not too bad a film either
+Visually, the film is good entertainment.
+a peach of a film [coll.]
+","The warm waters of the Gulf Stream are perfect for bathing in.
+in spite of the stream of tourists
+Her hair streamed out behind her.
+","He's on duty.
+included in the services offered
+an off-duty policeman
+in the higher grade of the civil service
+We provide a service.
+closed for religious worship
+satisfied with his services
+additional services are provided
+He has been serving our firm since ...
+We place our services at your disposal.
+",None,None,"It corresponds with our books
+in conformity with the books
+if you refer to your books
+",None,None,"our line of samples
+",None
 examples,german,"Name und Anschrift werden geheim gehalten
 Ich habe Ihren Namen nicht verstanden.
 Wie heißt du?
@@ -10251,4 +12376,175 @@ Ich suchte Sie zuhause (or: zu Hause) auf.
 Sie ist wieder zuhause (or: zu Hause).
 Das erinnert mich an zuhause (or: zu Hause).
 Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
-"
+",None,"Keine der beiden Mannschaften war mit dem Ergebnis zufrieden.
+",None,None,None,"Treue bei verheirateten Frauen
+Als Arbeitgeber verfolgen wir bei Einstellungen den Grundsatz der Chancengleichheit für Frauen und Männer.
+eine verlassene Frau
+eine Frau mit Weitblick
+Er liebt seine Frau abgöttisch.
+Ich mache Urlaubsvertretung für Frau Schumm.
+eine ausgeglichene Frau
+Er wurde mit der Frau eines anderen im Bett erwischt.
+sie ist eine Frau, die sich nichts vormachen lässt
+seine frischgebackene Ehefrau
+seine Ehefrau, mit der er seit 25 Jahren verheiratet ist
+","Ich tat es auf seine Anregung hin.
+Wissen alle, wo sie hin müssen?
+bis hin zu Wirtschaftskrisen
+Vieles weist darauf hin, dass ...
+Sie gab sich ihm hin.
+alles deutet darauf hin, dass ...
+Er stellte die Trophäe vor sich hin.
+sich verpflichten, nach außen hin nicht den Eindruck zu erwecken, dass
+Auf den Aufruf im Rundfunk hin gingen Spenden in der Höhe von 50.000 Pfund ein.
+","Die Meisterschaften fangen an.
+","aufgrund (or: auf Grund) der Fakten
+aufgrund (or: auf Grund) einer solchen Unstimmigkeit
+aufgrund (or: auf Grund) seiner Beteiligung
+aufgrund (or: auf Grund) seiner Erfahrung
+aufgrund (or: auf Grund) seines Berufes
+aufgrund (or: auf Grund) unglücklicher Umstände
+soll versuchen den Grund festzustellen
+Er kam aus dem gleichen Grund.
+Es besteht wenig Grund, das zu glauben.
+auf eigenem Grund und Boden
+Es muss doch irgendeinen Grund dafür geben, dass er sich so verhalten hat.
+allein aufgrund (or: auf Grund) der Dokumente
+vorgeschrieben aufgrund (or: auf Grund) der Bestimmungen
+aufgrund (or: auf Grund) der Erfüllung seiner Verpflichtungen
+",None,"in einigen Ländern
+in etwas über 120 Ländern
+in ihren jeweiligen Ländern
+in verschiedenen Ländern
+das weite flache Land
+ein anderes Land
+fließt durch das Land
+für jedes Land
+irgendein anderes Land
+gültig im ganzen Land
+Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+der beste Blick über das Land
+Seine Rede wird im ganzen Land widerhallen.
+meist besuchtes Ferienland
+","Das Tor, durch das Sie gerade gegangen sind, ist 800 Jahre alt.
+Das war ein scharfes Tor.
+",None,None,"Anfang November
+",None,"Das Spiel fiel im wahrsten Sinne des Wortes ins Wasser.
+Das Spiel steht unentschieden.
+das Spiel ging unentschieden aus
+das Spiel ging unentschieden aus
+Das Spiel könnte so oder so ausgehen.
+das Spiel endete unentschieden
+Er hat seine Hand im Spiel.
+Wie steht das Spiel?
+Wie steht das Spiel?
+Er macht gute Miene zum bösen Spiel.
+Weniger Leute als erwartet kamen zum Spiel.
+Es verbleibt nur wenig Spielraum.
+Er ist ein Spielverderber.
+Bis zum Saisonende finden nicht mehr viele Spiele statt.
+",None,None,"Boston ist von Geschichte durchdrungen.
+eine großartige Geschichte
+hat eine 2000-jährige Geschichte
+in der europäischen Geschichte
+","unsere Musterserie
+eine Reihe von Handlungen
+","Die Firma besteht seit 1950.
+die Firma haftet nicht für liegengelassene Gegenstände
+Die Firma bewegt sich auf eine ungewisse Zukunft zu.
+Die Firma kann sich einen Misserfolg kaum leisten.
+der Firma geschuldete Beträge
+eine neue Firma
+Er ist erst seit kurzem in unserer Firma.
+der besagten Firma
+eine angesehene Firma
+eine zuverlässige Firma
+Er hört auf, unsere Firma zu vertreten.
+Er wird für unsere Firma reisen.
+hat uns Ihre Firma empfohlen
+Informationen über diese Firma
+",None,None,"viel Platz
+ein Platz an der Sonne
+Ich ließ sie Platz nehmen.
+Ist dieser Platz reserviert?
+Nehmen Sie doch Platz. infinitive: Platz nehmen
+Nehmen Sie Platz, wo Sie möchten.
+Nimm doch Platz. infinitive: Platz nehmen
+Ist dieser Platz belegt?
+Herr Frutiger ist gerade nicht am Platz.
+Es ist kein Platz mehr für sie im Auto.
+Das Zimmer bietet Platz für vier Personen.
+Das Zelt hat Platz für vier zum Schlafen.
+Alle Plätze sind besetzt.
+Wir haben Karten für die billigsten Plätze ganz oben.
+Ruhe auf den billigen Plätzen!
+Ruhe auf den billigen Plätzen!
+","Ich gehe jetzt ins Kino.
+Sie arbeitet halbtags im Kino.
+Ich gehe oft ins Kino.
+","Einer der Spieler hatte seinen Reisepass vergessen.
+","Schau mal, der arme Hund - er humpelt.
+schau'n wir mal
+oben links auf der Schautafel
+","alle Einzelheiten von
+Bitte senden Sie Einzelheiten.
+Er ist mit allen Einzelheiten vertraut.
+für weitere Einzelheiten verweisen wir
+wegen der Einzelheiten
+Wir bitten um Einzelheiten.
+wird Ihnen weitere Einzelheiten geben
+ein Bericht mit mehr Einzelheiten
+vollständige Einzelheiten folgen
+gleich in jeder Einzelheit
+",None,"Es stimmt mit unseren Büchern überein infinitive: übereinstimmen
+übereinstimmend mit den Büchern
+wenn Sie in Ihren Büchern nachlesen
+Das Buch ist bei Knaur erschienen.
+das Buch geht gut
+Das Buch ist im Knaur-Verlag erschienen.
+Das Buch wurde 1981 fürs Fernsehen adaptiert.
+Das Buch erschien die nächsten Monate in Fortsetzungsfolgen.
+Das Buch ist gegenwärtig nicht am Lager.
+das Buch verkauft sich gut
+Wie gefällt Ihnen dieses Buch?
+Ich habe dieses Buch nie ganz gelesen.
+Ich habe jedes Buch von ihm gelesen.
+Dieses Buch liest sich gut.
+",None,"Bücher nach Größe angeordnet
+Bücher gibt es wie Sand am Meer.
+Die Bücher sind nicht in Ordnung.
+Du kannst beide Bücher haben.
+Du kannst beide Bücher haben.
+alle übrigen Bücher
+bei Abschluss unserer Bücher
+bei Durchsicht unserer Bücher
+unsere Bücher sind abgeschlossen
+Du kannst eins der beiden Bücher haben.
+Du kannst keins der beiden Bücher haben.
+seine Bücher verkauften sich schlecht
+beim Abschluss unserer Bücher entdeckten wir
+Das Buch ist bei Knaur erschienen.
+","unter den zehn finanziell erfolgreichsten Filmen
+","raffinierte Tanzszenen im Film
+Du musst den Film einfach sehen.
+und auch kein allzu schlechter Film
+Von der Aufmachung her ist der Film sehr unterhaltend.
+ein klasse Film [coll.]
+","Das warme Wasser des Golfstroms ist ideal zum Baden.
+trotz starken Fremdenverkehrs
+Ihre Haare wehten nach hinten.
+","Er hat Dienst.
+im Dienst enthalten
+ein Polizist, der nicht im Dienst ist
+im höheren Dienst
+Wir bieten einen Dienst.
+wegen Gottesdienst geschlossen
+zufrieden mit seinen Diensten
+zusätzliche Dienste werden geboten
+Er steht in Diensten unserer Firma seit ...
+Wir stellen Ihnen unsere Dienste zur Verfügung.
+",None,None,"Es stimmt mit unseren Büchern überein infinitive: übereinstimmen
+übereinstimmend mit den Büchern
+wenn Sie in Ihren Büchern nachlesen
+",None,None,"unsere Musterserie
+",None

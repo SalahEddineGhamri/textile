@@ -1,12 +1,12 @@
 from color_scheme import colorize_text, colors_definitions
-from multiprocessing import Process
+from threading import Thread
 from adjectives_table import ADJECTIVES_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
 
 
-class AdjectivesAgent(Process):
+class AdjectivesAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard

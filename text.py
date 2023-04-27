@@ -1,6 +1,5 @@
 from file_io import File
 from rich import print
-from multiprocessing import Manager
 from time import sleep
 from config import INPUT_PATH
 from anki_generation_agent import AnkiGenerationAgent
@@ -12,15 +11,16 @@ from prepositions_agents import PrepositionsAgent
 from text_agents import TextAgent
 
 
+# TODO: add protection with locks
+# TODO: change this into a mutable object
+# TODO: add methods to store solutions status and read problem
 class Blackboard:
     def __init__(self, input_path):
-        # create a multiprocessing manager
-        manager = Manager()
-        self.manager = manager.dict()
+        self.manager = dict()
+        stages = dict()
         self.manager['text'] = None
         self.manager['analyzed_text'] = None
 
-        stages = manager.dict()
         stages['input_read'] = None
         stages['analyzed_input'] = None
         stages['analyzed_nouns'] = None

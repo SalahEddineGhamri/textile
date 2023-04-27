@@ -1,5 +1,5 @@
 from color_scheme import colorize_text, colors_definitions
-from multiprocessing import Process
+from threading import Thread
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
@@ -20,7 +20,7 @@ def split_hyphenated_string(s):
     return result
 
 
-class NounsAgent(Process):
+class NounsAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard

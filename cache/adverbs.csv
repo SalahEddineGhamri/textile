@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb
 basic_forms,english,,None,,"müssen : Verb
 ",,None,,None,None,None,None,"früh : Adjective
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
@@ -10,8 +10,8 @@ der Liebe : Noun
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,"spät : Adjective
 ",,,"wenig : Adjective
 ","stark : Adjective
-",,,
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,
+",,,,,,,,,
+basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -610,7 +610,43 @@ to make sth. ⇔ up
 to get ready
 to finish sth. | finished, finished |
 to get through (with) sth.
-"
+","to be there
+to be around
+to be present
+to pack sth. | packed, packed | (Amer.)
+to sit in on sth. - e.g. a meeting
+to catch oneself doing sth.
+to have a say in the matter
+to think nothing of it
+to think nothing of doing sth.
+to be dedicated
+to be swift to do sth.
+too catch so. in the act of doing sth.
+so. couldn't let the matter rest
+","to gain fame
+to rise to fame
+to be renowned as sth.
+to be renowned for sth.
+to be famous for sth.
+to be celebrated for sth.
+to bear a famous name
+","to be beyond sth.
+to have been there before [coll.]
+",,"to hit on it
+to be adamant
+to make sure that
+to maintain (that) | maintained, maintained |
+to be insistent that ...
+to point out that ...
+to insist on doing sth.
+to forbear from doing sth. [form.] also [poet.]
+to be out to do sth.
+to be itching to do sth.
+to have an itch to do sth.
+to be bursting to do sth.
+to ache to do sth.
+to be bent on doing sth.
+",
 verbs,german,"alt werden
 alt werden
 sichacc. jmdm./etw. anschließen | schloss an, angeschlossen |
@@ -1209,7 +1245,43 @@ etw.acc. fertigstellen or: fertig stellen | stellte fertig, fertiggestellt |
 sichacc. fertigmachen or: fertig machen | machte fertig, fertiggemacht |
 etw.acc. fertigbekommen or: fertig bekommen | bekam fertig, fertigbekommen |
 etw.acc. fertigbekommen or: fertig bekommen | bekam fertig, fertigbekommen |
-"
+","dabei sein - anwesend sein
+dabei sein - anwesend sein
+dabei sein - anwesend sein
+etw.acc. dabei haben
+bei etw.dat. dabei sein
+sichacc. (selbst) dabei ertappen, wie
+etw.acc. dabei zu sagen haben
+nichts dabei finden
+nichts dabei finden, etw.acc. zu tun
+mit Leib und Seele dabei sein
+schnell dabei sein, etw.acc. zu tun
+jmdn. dabei ertappen, wie er (or: sie) etw.acc. tut
+jmd. konnte es nicht dabei bewenden lassen
+","berühmt werden
+berühmt werden
+als etw.acc. berühmt sein
+für etw.acc. berühmt sein
+für etw.acc. berühmt sein
+für etw.acc. berühmt sein
+einen berühmten Namen tragen
+","schon weiter sein
+etw.acc. schon mal erlebt haben
+",,"darauf kommen or: daraufkommen | kam darauf, daraufgekommen |
+darauf bestehen
+darauf achten, dass
+darauf bestehen, dass ...
+darauf bestehen, dass ...
+darauf hinweisen, dass ...
+darauf bestehen, etw.acc. zu tun
+darauf verzichten, etw.acc. zu tun
+darauf aus sein, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf erpicht sein, etw.acc. zu tun
+",
 nouns,english,"alto [MUS.]
 contralto [MUS.]
 the elderly
@@ -1832,7 +1904,22 @@ goods in process [COMM.]
 semifinishedAE goods [COMM.]semi-finishedBE goods [COMM.]
 semifinishedAE product [COMM.]semi-finishedBE product [COMM.]
 stocks of products and production work in progress [COMM.]
-"
+","let's leave it at that
+","celebrity
+celebrated public character
+high-profile cast
+cause célèbre
+man of note
+celebrated men pl.
+celebrity
+celebrated scientist
+celebrity guest
+celebrated musician
+",,"loose thinking
+confused positioning [COMM.]
+unclear instructions
+overs and shorts
+",,
 nouns,german,"der Alt pl.
 der Alt pl.
 die Alten pl.
@@ -2455,7 +2542,22 @@ halbfertige (or: halb fertige) Erzeugnisse
 halbfertige (or: halb fertige) Erzeugnisse
 halbfertiges (or: halb fertiges) Produkt
 Vorrat an fertigen und unfertigen Erzeugnissen
-"
+","wir wollen es dabei belassen
+","berühmte Persönlichkeit
+berühmte Persönlichkeit
+berühmte Darsteller
+berühmte Sache
+berühmter Mann
+berühmte Leute pl., no sg.
+berühmte Person
+berühmter Forscher
+berühmter Gast
+berühmter Musiker
+",,"unklares Denken
+unklare Positionierung
+unklare Weisungen
+Konto für unklare Posten
+",,
 noun_details,english,"article: Der
 word: Alt
 genus: MASC
@@ -2858,8 +2960,26 @@ genus:
 plural: 
 meaning: done and dusted
 precast reinforced concrete ground beam [TECH.]
-"
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,
+","article: wir
+word: wollen
+genus: 
+plural: belassen
+meaning: let's leave it at that
+
+","article: berühmte
+word: Persönlichkeit
+genus: 
+plural: Persönlichkeit
+meaning: celebrity
+celebrated public character
+",,"article: unklares
+word: Denken
+genus: 
+plural: Denken
+meaning: loose thinking
+confused positioning [COMM.]
+",,
+noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -3803,6 +3923,72 @@ turnkey adj.
 ready for dispatch (or: despatch)
 fully machined [ENGIN.]
 half done
+","although conj.
+though - although conj.
+present adv.
+in doing so
+in the process
+near by
+at the same time
+thereby adv.
+withal adv. archaic
+for that matter
+","famous adj.
+illustrious adj.
+renowned adj.
+famed adj.
+storied adj.
+noted adj.
+celebrated adj.
+distinguished adj.
+splendid adj.
+infamous adj.
+notorious adj.
+","already adv.
+yet adv. - already
+before adv.
+always adv.
+all right
+long ago
+before long
+at this stage
+inherently adv.
+by now
+before adv.
+a long time ago
+long ago
+least of all
+","ambiguous adj.
+obtuse adj. - difficult to understand
+vague adj.
+unclear adj.
+blurry adj.
+indistinct adj.
+inexplicit adj.
+nebulous adj.
+nondistinctiveAE / non-distinctiveBE adj.
+obscure adj.
+vaguely adv.
+inchoate adj.
+indeterminate adj.
+murky adj.
+","hereon adv. - hereupon
+after that
+thereon adv.
+thereupon adv.
+afterwardAE / afterwardsAE adv.afterwardsBE adv.
+on it
+ensuing adj.
+proximate adj.
+anxious adj.
+shortly after
+","therefore adv.
+hence adv.
+thus adv.
+so adv.
+on these grounds
+that is why
+thence adv. rare
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -4747,6 +4933,72 @@ fertig möbliert
 fertig zur Auslieferung
 fertig bearbeitet
 halbfertig or: halb fertig
+","dabei - obwohl adv.
+dabei adv.
+dabei
+dabei adv.
+dabei adv.
+dabei adv.
+dabei
+dabei
+dabei
+wenn wir schon dabei sind
+","berühmt
+berühmt
+berühmt
+berühmt
+berühmt
+berühmt
+berühmt
+berühmt
+berühmt
+berühmt-berüchtigt
+berühmt-berüchtigt
+","schon
+schon
+schon einmal
+schon immer
+schon gut
+schon lange
+schon bald
+schon heute
+schon an sich
+jetzt schon
+früher schon einmal
+schon lange her
+schon lange her
+schon gar nicht
+","unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+unklar
+","darauf
+darauf
+darauf
+darauf
+darauf
+darauf adv.
+darauffolgend or: darauf folgend - zeitlich
+darauffolgend or: darauf folgend
+darauf bedacht
+kurz darauf
+","deshalb
+deshalb
+deshalb
+deshalb
+deshalb
+deshalb adv.
+deshalb
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -5418,7 +5670,40 @@ Ready, steady, go! (Brit.)
 that's getting me down
 That's getting me down.
 to be wiped out - exhausted (Amer.) [coll.]
-"
+","I'm game!
+Let's leave it at that.
+Let the matter rest!
+Honi soit qui mal y pense. - motto of the Order of the Garter French
+to put one's heart and soul in it
+","to shoot to fame
+","Never mind.
+for quite some time
+All right!
+done again
+the very idea
+Come on! [abbr.: c'mon!]
+even a small amount [MED.]
+I get the picture.
+Things have come to a pretty pass.
+to be something of a rarity
+I'm on my way!
+Must fly!
+Are you being attended to?
+Pigs might fly.
+",,"You can bet your life on it.
+You can bet your life on that.
+You can bet your bottom dollar.
+Don't hold your breath!
+That's a feather in his cap.
+it's a hanging matter
+You betcha! (Amer.) [coll.]
+to be dying to do sth. [fig.]
+the evidence is
+there is evidence
+there is evidence to suggest
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+",
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -6089,7 +6374,40 @@ Auf die Plätze, fertig, los!
 das macht mich fertig
 Das macht mich fertig.
 fix und fertig sein [fig.] [coll.]
-"
+","Ich bin dabei!
+Belassen wir es dabei.
+Lass es dabei!
+Ein Schelm, wer Böses dabei denkt.
+mit Leib und Seele dabei sein
+","über Nacht berühmt werden
+","Schon gut.
+schon länger
+Schon gut!
+schon wieder
+schon der Gedanke
+Mach schon!
+schon eine kleine Menge
+Ich verstehe schon.
+Es muss schon sehr weit gekommen sein.
+fast schon Seltenheitswert haben
+Ich bin schon unterwegs!
+Muss schon wieder los!
+Werden Sie schon bedient?
+Da müsste schon ein Wunder geschehen.
+",,"Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst Du lange warten!
+Darauf kann er stolz sein.
+darauf steht der Galgen
+Darauf kannst du wetten!
+darauf brennen, etw.acc. zu tun [fig.]
+alles deutet darauf hin
+vieles deutet darauf hin
+vieles weist darauf hin
+Ich freue mich darauf, Dich wiederzusehen.
+Ich freue mich darauf, Sie wiederzusehen.
+",
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -6787,6 +7105,54 @@ he is always on the go
 ",,"I've finished with you.
 I cannot deal with this.
 Get ready at once!
+","It cramps my style
+It gives me the heebie-jeebies. [coll.]
+I stick to it.
+while you're at it
+while we're at it
+while you're at it
+while we're at it
+Are you up for it?
+Are you up for it?
+She didn't have her credit card on her.
+He has a say in the matter.
+He came off a loser.
+There's nothing to it.
+I meant no harm by it.
+","are famous for our innovations
+are famous for their quality
+are famous for our novelties
+are famous for our workmanship
+","as early as next month
+the sheer enormity
+Even a small amount will make a difference.
+Have you eaten yet?
+I'm already feeling heaps better.
+I get it.
+I've known it to happen.
+while you're at it
+while we're at it
+while you're at it
+while we're at it
+She has been wanting to go to Hamburg/the Oktoberfest/the Victoria and Albert Museum/... for ages.
+I think so.
+I think so.
+",,"Actually, I don't fancy that.
+It depends.
+What makes you think that?
+How did you hit on that?
+his main thrust is to show
+I wouldn't bet on it
+I wouldn't bet on it
+He'll take a chance.
+He took his chances.
+That depends.
+I'm curious about it.
+I am looking forward to seeing him.
+It is imperative to take control.
+The smart money is on him winning.
+","We would therefore recommend that ...
+He only says money's not important because he's got plenty.
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -7485,4 +7851,52 @@ er ist immer auf dem Sprung
 ",,"Mit Ihnen bin ich fertig.
 Ich werde damit nicht fertig.
 Mach dich sofort fertig!
+","Dabei kann ich mich nicht recht entfalten
+Dabei bekomme ich eine Gänsehaut.
+Ich bleibe dabei.
+wenn du schon dabei bist
+wenn wir schon dabei sind
+wo du schon dabei bist
+wo wir schon dabei sind
+Bist du dabei?
+Seid ihr dabei?
+Sie hatte ihre Kreditkarte nicht dabei.
+Er hat etwas dabei zu sagen.
+Er verlor dabei.
+Es ist nichts dabei.
+Ich dachte mir nichts dabei.
+","sind berühmt für unsere Innovationen
+sind berühmt für ihre Qualität
+sind berühmt für unsere Neuheiten
+sind berühmt für unsere Wertarbeit
+","schon nächsten Monat
+schon allein das ungeheure Ausmaß
+Schon eine kleine Menge macht einen Unterschied.
+Hast du schon gegessen?
+Ich fühle mich schon viel besser.
+Ich verstehe schon.
+Ich habe es schon erlebt.
+wenn du schon dabei bist
+wenn wir schon dabei sind
+wo du schon dabei bist
+wo wir schon dabei sind
+Sie wollte schon lange einmal nach Hamburg/zum Oktoberfest/ins Victoria and Albert Museum ...
+Ich denke schon.
+Ich glaube schon.
+",,"Darauf habe ich eigentlich keine Lust.
+Es kommt darauf an.
+Wie kommst du darauf?
+Wie sind Sie darauf gekommen?
+es kommt ihm hauptsächlich darauf an zu zeigen
+ich würde keine Wette darauf eingehen
+ich würde nicht darauf wetten
+Er lässt es darauf ankommen.
+Er ließ es darauf ankommen.
+Es kommt darauf an. infinitive: ankommen
+Ich bin darauf gespannt.
+Ich freue mich darauf, ihn zu sehen.
+Es kommt darauf an, die Kontrolle zu übernehmen.
+Insider setzen darauf, dass er gewinnt.
+","Wir würden Ihnen deshalb empfehlen ...
+Er sagt nur deshalb, dass Geld unwichtig sei, weil er jede Menge davon hat.
 "

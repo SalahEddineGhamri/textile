@@ -8,9 +8,9 @@ import pandas as pd
 from config import BLACKLIST_CACHE_FILE
 # TODO: should use other sources for scrapping like
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
-import multiprocessing
+from threading import Lock
 
-nouns_scrapper_lock = multiprocessing.Lock()
+nouns_scrapper_lock = Lock()
 
 
 # TODO: protect with lock

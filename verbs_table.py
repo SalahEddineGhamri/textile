@@ -6,7 +6,7 @@ from verb_conjugation_scapper import scrapp_for_verb
 from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
-import multiprocessing
+from threading import Lock
 
 # TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
@@ -32,7 +32,7 @@ class VerbsMeaningCache(pd.DataFrame):
         else:
             super().__init__(pd.read_csv(VERBS_MEANING_CACHE_FILE,
                                          index_col=['aspects', 'language']))
-        self.lock = multiprocessing.Lock()
+        self.lock = Lock()
 
     def refresh_cache(self):
         with self.lock:
@@ -99,7 +99,7 @@ class VerbsConjugationCache(pd.DataFrame):
         else:
             super().__init__(pd.read_csv(VERBS_CONJUGATION_CACHE_FILE,
                                          index_col=['voice', 'tense']))
-        self.lock = multiprocessing.Lock()
+        self.lock = Lock()
 
     def cache(self):
         with self.lock:

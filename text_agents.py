@@ -1,10 +1,10 @@
 import spacy
 import pandas as pd
 from color_scheme import colors_definitions
-from multiprocessing import Process
+from threading import Thread
 
 
-class TextAgent(Process):
+class TextAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard

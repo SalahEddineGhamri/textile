@@ -6,7 +6,7 @@ from words_meanings_scrapper import nouns_definition_parser
 import time
 import random
 import sys
-from multiprocessing import Lock
+from threading import Lock
 
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 

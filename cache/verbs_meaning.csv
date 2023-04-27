@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -133,8 +133,18 @@ sich kontrollieren : Verb
 entwickeln : Verb
 ","sich stören : Verb
 stören : Verb
-"
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+","beginnen : Verb
+",,"nennen : Verb
+sich nennen : Verb
+","dauern : Verb
+",,"machen : Verb
+sich machen : Verb
+sich machen : Verb
+machen : Verb
+",,,"freuen : Verb
+sich freuen : Verb
+",
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -1396,6 +1406,116 @@ to confound so. | confounded, confounded |
 to faze so. | fazed, fazed |
 to annoy so. | annoyed, annoyed |
 to bug so. | bugged, bugged |
+","to begin (sth.) | began, begun |
+to start | started, started |
+to initiate sth. | initiated, initiated |
+to commence (sth.) | commenced, commenced |
+to set in
+to usher sth. ⇔ in
+to mark the beginning of sth.
+to mark the start of sth.
+to start to do sth.
+to start doing sth.
+to take sth. ⇔ up
+to start out as so./sth.
+to set out to do sth.
+to attack sth. | attacked, attacked |
+","to participate | participated, participated |
+to join in
+to experience | experienced, experienced |
+to take part in sth.
+to opt out
+to see military action
+to go on a guided tour
+not to be a party to sth.
+to see sth. out
+to drop out
+","to call so. sth. | called, called |
+to cite | cited, cited |
+to state | stated, stated |
+to mention | mentioned, mentioned |
+to refer | referred, referred |
+to give sth. | gave, given | - e.g. an example, a price
+to term so./sth. | termed, termed |
+to designate so./sth. | designated, designated |
+to call oneself
+to name sth. | named, named |
+to miscall sth. | miscalled, miscalled |
+to cite an example
+to specify sth. | specified, specified |
+to restate sth. | restated, restated |
+","sth. takes + expression of time infinitive: take
+to last | lasted, lasted |
+to take long
+to take ages
+to take a long time
+sth. overruns its time infinitive: overrun
+","to film sth. | filmed, filmed | - a movie
+to microfilm | microfilmed, microfilmed |
+to picturizeAE to picturiseBE / picturizeBE | picturized, picturized / picturised, picturised |
+","to do sth. | did, done |
+to make sth. | made, made |
+to render sth. | rendered, rendered |
+to create sth. | created, created |
+to make so. sth. (or: sth. for so.) | made, made |
+to fix so. sth. (or: sth. for so.) | fixed, fixed | (Amer.) [coll.]
+to make so. sth. | made, made |
+to set about sth.
+to go about sth.
+to set out to do sth.
+to go for sth.
+to turn so./sth. into so./sth.
+sth. bothers so. infinitive: bother
+to be made of sth.
+","to see | saw, seen |
+to watch sth. | watched, watched | - on TV
+to view sth. | viewed, viewed |
+to look | looked, looked |
+to behold so./sth. | beheld, beheld |
+to clock so./sth. | clocked, clocked | - see [coll.] (Brit.)
+to resemble so./sth. | resembled, resembled |
+to look similar
+to look in on so. - visit so., esp. when they are ill
+to check on so./sth.
+to look after so./sth.
+to look about one
+to look on sth.
+to exhibit | exhibited, exhibited |
+","to collaborate | collaborated, collaborated |
+to cooperate or: co-operate | cooperated, cooperated / co-operated, co-operated |
+to contribute one's services
+","to be pleased (about (or: with) sth.)
+to be glad
+to rejoice | rejoiced, rejoiced | [poet.]
+to look forward to sth.
+to be happy for so.
+to be excited about sth.
+to get excited about sth.
+to be happy about sth.
+to share so.'s happiness
+to be stoked to do sth.
+to be pleased to do sth.
+to gloat | gloated, gloated |
+to be thrilled
+to be able to look forward to sth.
+to be chuffed about sth. (Brit.) [coll.]
+","to tell so. sth. (or: sth. to so.) | told, told |
+to narrate | narrated, narrated |
+to recount | recounted, recounted |
+to report | reported, reported |
+to relate sth. (to so.) | related, related | [form.]
+to tell (so.) of sth.
+to tell so. about sth.
+to retell | retold, retold |
+to prose | prosed, prosed |
+to retell | retold, retold |
+to tell so. lies
+to lie about so./sth.
+to tell a long rigmarole
+to misnarrate | misnarrated, misnarrated | rare
+to outtell sth. | outtold, outtold | - tell to the end rare
+to fable | fabled, fabled | archaic
+to give so. the lowdown on so./sth. [coll.]
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -2658,6 +2778,116 @@ jmdn. stören | störte, gestört |
 jmdn. stören | störte, gestört |
 jmdn. stören | störte, gestört |
 jmdn. stören | störte, gestört |
+","(etw.acc. (or: mit etw.dat.)) beginnen | begann, begonnen |
+beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+(mit etw.dat.) beginnen | begann, begonnen |
+beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen | - als Hobby oder Beruf
+als jmd./etw. beginnen
+mit etw.dat. beginnen | begann, begonnen |
+mit etw.dat. beginnen | begann, begonnen |
+","mitmachen | machte mit, mitgemacht |
+mitmachen | machte mit, mitgemacht |
+mitmachen | machte mit, mitgemacht |
+bei etw.dat. mitmachen | machte mit, mitgemacht |
+nicht mitmachen
+Kämpfe mitmachen
+eine Führung mitmachen
+etw.acc. nicht mitmachen
+etw.acc. bis zum Ende mitmachen
+nicht mehr mitmachen
+","jmdn. etw.acc. nennen | nannte, genannt |
+nennen | nannte, genannt |
+nennen | nannte, genannt |
+nennen | nannte, genannt |
+nennen | nannte, genannt |
+etw.acc. nennen | nannte, genannt | - anführen
+jmdn./etw. nennen | nannte, genannt |
+jmdn./etw. nennen | nannte, genannt |
+sichacc. nennen | nannte, genannt |
+etw.acc. nennen | nannte, genannt |
+etw.acc. falsch nennen
+ein Beispiel nennen
+etw.acc. einzeln nennen
+etw.acc. erneut nennen
+","etw.nom. dauert + expression of time infinitive: dauern
+dauern | dauerte, gedauert |
+lange dauern
+ewig dauern
+eine Weile dauern
+etw.nom. dauert länger als geplant infinitive: dauern
+","verfilmen | verfilmte, verfilmt |
+verfilmen | verfilmte, verfilmt |
+verfilmen | verfilmte, verfilmt |
+","etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+etw.acc. machen | machte, gemacht |
+jmdm. etw.acc. machen | machte, gemacht |
+jmdm. etw.acc. machen | machte, gemacht | - Essen, Getränk
+jmdn. zu etw.dat. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+sichacc. an etw.acc. machen | machte, gemacht |
+jmdn./etw. zu jmdm./etw. machen | machte, gemacht |
+etw.nom. macht jmdm. etw.acc. aus infinitive: ausmachen
+aus etw.dat. (gemacht) sein | war, gewesen |
+","sehen | sah, gesehen |
+etw.acc. sehen | sah, gesehen | - im Fernsehen
+etw.acc. sehen | sah, gesehen |
+sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdm./etw. ähnlich sehen
+sichdat. ähnlich sehen
+nach jmdm. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+um sichacc. sehen
+auf etw.acc. sehen | sah, gesehen |
+sehen lassen
+","mitarbeiten | arbeitete mit, mitgearbeitet |
+mitarbeiten | arbeitete mit, mitgearbeitet |
+mitarbeiten | arbeitete mit, mitgearbeitet |
+","sichacc. (über etw.acc.) freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. freuen | freute, gefreut |
+sichacc. auf etw.acc. freuen | freute, gefreut |
+sichacc. für jmdn. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. über etw.acc. freuen | freute, gefreut |
+sichacc. mit jmdm. freuen | freute, gefreut |
+sichacc. freuen, etw.acc. zu tun
+sichacc. freuen, etw.acc. zu tun
+sichacc. hämisch freuen
+sichacc. riesig freuen
+sichacc. auf etw.acc. freuen können
+sichacc. riesig über etw.acc. freuen
+","jmdm. etw.acc. erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+erzählen | erzählte, erzählt |
+(jmdm.) etw.acc. erzählen | erzählte, erzählt |
+(jmdm.) von etw.dat. erzählen | erzählte, erzählt |
+jmdm. von etw.dat. erzählen | erzählte, erzählt |
+wieder erzählen
+langweilig erzählen
+nochmals erzählen
+jmdm. Lügen erzählen
+Lügen über jmdn./etw. erzählen
+lang und breit erzählen
+falsch erzählen
+etw.acc. zu Ende erzählen
+Märchen erzählen [fig.]
+jmdm. erzählen, was man über jmdn./etw. weiß
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -3040,7 +3270,25 @@ undeveloped storage capacities [TECH.]
 less-developed country [abbr.: LDC] [ECON.]
 naturally developed well [GEOL.]
 evolved melt [GEOL.]
-",
+",,,,,,,"preserved milk
+reclaimed area
+","sight
+vision
+seeing
+scotopic vision
+binocular vision
+peripheral vision
+monocular vision
+stereoscopic vision
+stereoscopic vision
+photopic vision [PHYS.]
+eccentric vision [MED.]
+extrafoveal vision [MED.]
+machine vision [TECH.]
+mesopic vision [MED.]
+",,,"relation
+telling
+"
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -3422,7 +3670,25 @@ nicht entwickelte Speicherkapazitäten
 weniger entwickeltes Land
 natürlich entwickelter Brunnen
 entwickelte leukokrate Schmelze - Geochemie
-",
+",,,,,,,"haltbar gemachte Milch
+wiederurbar gemachtes Gebiet
+","das Sehen no plural
+das Sehen no plural
+das Sehen no plural
+skotopisches Sehen
+binokulares Sehen
+peripheres Sehen
+einäugiges Sehen
+räumliches Sehen
+stereoskopisches Sehen
+photopisches Sehen [Optics]
+exzentrisches Sehen [Ophthalmology]
+exzentrisches Sehen [Ophthalmology]
+maschinelles Sehen
+mesopisches Sehen [Ophthalmology]
+",,,"das Erzählen no plural
+das Erzählen no plural
+"
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -3753,8 +4019,26 @@ genus:
 plural: 
 meaning: developed countries pl.
 low-level technology
-",
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,"article: haltbar
+word: gemachte
+genus: 
+plural: Milch
+meaning: preserved milk
+reclaimed area
+","article: Das
+word: Sehen
+genus: NEUT
+plural: plural
+meaning: sight
+vision
+",,,"article: Das
+word: Erzählen
+genus: NEUT
+plural: plural
+meaning: relation
+telling
+"
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -4014,7 +4298,27 @@ definitive adj.
 fully developed
 newly developed
 depauperate adj. [BIOL.]
-",
+",,,,,,,"homemade adj.
+tightened adj.
+hamstrung adj.
+identified adj.
+necessitated adj.
+canceledespAE / cancelledespBE adj.
+home made
+incapacitated adj.
+self-made adj. - usually before noun
+handmade adj.
+hand-crafted adj.
+slagged adj.
+twee adj. [pej.] chiefly (Brit.)
+otherwise identified
+unclaimed adj.
+otherwise identified
+otherwise identified
+","by sight
+apparitional adj.
+pleasing to the eye
+",,,
 adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -4274,7 +4578,27 @@ vollentwickelt or: voll entwickelt
 vollentwickelt or: voll entwickelt
 neuentwickelt or: neu entwickelt
 schlecht entwickelt
-",
+",,,,,,,"selbstgemacht or: selbst gemacht
+enger gemacht
+handlungsunfähig gemacht
+kenntlich gemacht
+notwendig gemacht
+ungültig gemacht
+selbstgemacht or: selbst gemacht
+unfähig gemacht
+selbstgemacht or: selbst gemacht
+von Hand gemacht
+von Hand gemacht
+zu Schlacke gemacht
+auf putzig gemacht
+anderweitig kenntlich gemacht
+nicht geltend gemacht
+auf andere Weise kenntlich gemacht
+auf irgendeine andere Art kenntlich gemacht
+","vom Sehen
+zu sehen
+angenehm zu sehen
+",,,
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -4906,6 +5230,54 @@ let us assume
 let us suppose
 ",,"sth. is no skin off one's nose
 Don't mind me!
+","Charity begins at home.
+","I'm game!
+","to name but a few
+to call a spade a spade
+to call a spade a spade
+to call a spade a spade
+","It's a game of two halves.
+",,"to do sth. blindfold
+Well done!
+Good for you!
+Attaboy
+Agreed!
+Way to go! [coll.]
+Good on you! chiefly (Aust.; N.Z.)
+Good on yer, mate! (Aust.)
+this is history in the making
+That set a precedent.
+to get shellacked - get defeated (Amer.) [coll.] [fig.] [SPORT.]
+to line one's pockets
+to make money hand over fist
+to live sth. ⇔ down
+","to see stars
+to see behind the curtain [fig.]
+to be in over one's head
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+not to see the wood for the trees chiefly (Brit.)
+not to see the forest for the trees chiefly (Amer.)
+Let's face the facts.
+Let us face the facts.
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+to see pink elephants [fig.]
+to see snakes [coll.] [fig.]
+to look on the black side [fig.]
+See you!
+That's just like him.
+",,"I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm glad to meet you.
+I'm pleased to meet you.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+to be as pleased as Punch
+to be as merry as a lark
+Pleased to meet you.
+","Tell that to the Marines!
+You're telling me!
+Tell us another!
 "
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
@@ -5538,6 +5910,54 @@ nehmen wir einmal an
 nehmen wir einmal an
 ",,"etw.nom. stört jmdn. nicht infinitive: stören
 Lass dich nicht stören!
+","Nächstenliebe beginnt zu Hause (or: zuhause). - englisches Sprichwort
+","Ich mache mit!
+","um nur einige zu nennen
+die Dinge beim Namen nennen
+das Kind beim Namen nennen
+das Kind beim rechten Namen nennen
+","Ein Spiel dauert 90 Minuten. [Football]
+",,"etw.acc. mit links machen [fig.]
+Gut gemacht!
+Gut gemacht!
+Gut gemacht!
+Wird gemacht!
+Gut gemacht!
+Gut gemacht!
+Gut gemacht!
+hier wird Geschichte gemacht
+Das hat Schule gemacht.
+fertig gemacht werden [coll.] [fig.]
+Kohle machen
+einen Reibach machen
+etw.acc. ungeschehen machen
+","Sterne sehen [coll.] [fig.]
+hinter den Vorhang sehen [fig.]
+kein Land mehr sehen können
+die Dinge durch die rosarote Brille sehen
+den Wald vor lauter Bäumen nicht sehen
+den Wald vor lauter Bäumen nicht sehen
+Wir wollen den Tatsachen ins Auge sehen.
+Wir wollen den Tatsachen ins Auge sehen.
+durch eine rosa Brille sehen
+weiße Mäuse sehen [coll.] [fig.] [hum.]
+weiße Mäuse sehen [fig.]
+alles grau in grau sehen
+Man sieht sich!
+Das sieht ihm ganz ähnlich.
+",,"Ich freue mich darauf, Dich wiederzusehen.
+Ich freue mich darauf, Sie wiederzusehen.
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich, Sie kennenzulernen (or: kennen zu lernen).
+Ich freue mich auf ein Wiedersehen.
+Ich freue mich auf ein Wiedersehen mit Dir.
+Ich freue mich auf ein Wiedersehen mit Ihnen.
+sichacc. wie ein Schneekönig freuen
+sichacc. wie ein Schneekönig freuen
+Es freut mich, Sie kennenzulernen (or: kennen zu lernen).
+","Das kannst du deiner Großmutter erzählen!
+Wem erzählen Sie das!
+Das können Sie uns nicht erzählen!
 "
 examples,english,"Do you belong here?
 Where do you live?
@@ -6231,6 +6651,67 @@ He wouldn't give it house-room.
 ","nations which are less developed
 while events were unfolding
 ","will not interfere with our good relations
+","insurance attaches
+In autumn they start to bring the cattle down from the mountain pastures. [AGR.]
+When do you break up for summer/Christmas? - school, pupils (Brit.)
+When do you get out for summer/Christmas? (Amer.)
+When does your school let out for summer/Christmas? (Amer.)
+Its rise began in
+","I won't be a party to that.
+The pupils weren't very responsive.
+","It must state the discrepancies.
+That's what I call smart.
+This is what I call a holiday!
+","That takes just as long.
+It will take about three days
+It should require a week
+It should require a month
+It should require two days
+It should require a fortnight
+It will take three months
+How long will it take to ...?
+It will take about a month
+It will take about a week
+It will take only a couple of days
+",,"I only said it in jest.
+What were you up to?
+can no longer be invoked
+She's dressed to the nines.
+She's dressed up to the nines. chiefly (Brit.)
+This is all my own work.
+This is of my own making.
+That was slick of you!
+We are such stuff as dreams are made on.
+an article that is really well made
+He has made himself familiar with ...
+this should be made clear
+should be made clear
+Make three copies!
+","You look well.
+I can't wait to see her.
+as you see
+I am pleased to see you.
+I am looking forward to seeing him.
+as far as we can see
+We are unable to cope with this rush.
+Please check the oil.
+You simply must see that film.
+I know him by sight.
+The two brothers look very similar.
+face it, ...
+That's just like you.
+That's very unlike him.
+",,"I'm looking forward to seeing you.
+I am looking forward to seeing him.
+It would give us great pleasure
+We would be pleased to receive ...
+I am pleased to see you.
+He's as pleased as Punch.
+I am very pleased to hear that ...
+","let us know something more about ...
+He didn't have the guts to tell his mother. [coll.]
+When I told her my problems, she was very sympathetic.
+When I told her my problems, she was very sympathetic.
 "
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -6924,4 +7405,65 @@ Er nähme es nicht geschenkt.
 ","weniger entwickelte Länder
 während sich die Ereignisse entwickelten
 ","unsere guten Beziehungen nicht stören
+","der Versicherungsschutz beginnt
+Im Herbst beginnt der Abtrieb des Viehs von den Bergweiden.
+Wann beginnen bei euch die Sommerferien/Weihnachtsferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+Sein Aufstieg begann im Jahre
+","Das mache ich nicht mit.
+Die Schüler machten nicht richtig mit.
+","Es muss die Unstimmigkeiten nennen.
+Das nenne ich schlau.
+Das nenne ich einen Urlaub!
+","Das dauert genauso lange.
+Es wird etwa drei Tage dauern
+Es dürfte eine Woche dauern
+Es dürfte einen Monat dauern
+Es dürfte zwei Tage dauern
+Es dürfte zwei Wochen dauern
+Es wird drei Monate dauern
+Wie lange wird es dauern, um ...?
+Es wird etwa einen Monat dauern
+Es wird etwa eine Woche dauern
+Es wird nur ein paar Tage dauern
+",,"Ich habe nur Spaß gemacht.
+Was hast du so gemacht?
+kann nicht mehr geltend gemacht werden
+Sie hat sich fein gemacht.
+Sie hat sich fein gemacht.
+Das habe ich alles selbst gemacht.
+Das habe ich selbst gemacht.
+Das hast du aber geschickt gemacht!
+Wir sind der Stoff, aus dem Träume gemacht werden.
+ein Artikel, der wirklich gut gemacht ist
+Er hat sich vertraut gemacht mit ...
+dies sollte deutlich gemacht werden
+sollte deutlich gemacht werden
+Machen Sie drei Durchschläge!
+","Sie sehen gut aus.
+Ich kann es kaum erwarten sie zu sehen
+wie Sie sehen
+Es freut mich, dich zu sehen.
+Ich freue mich darauf, ihn zu sehen.
+soviel wir sehen
+Wir sehen uns außerstande (or: außer Stande) diesen Ansturm zu bewältigen.
+Bitte sehen Sie das Öl nach.
+Du musst den Film einfach sehen.
+Ich kenne ihn vom Sehen.
+Die beiden Brüder sehen sich sehr ähnlich.
+sieh's ein
+Das sieht dir ähnlich.
+Das sieht ihm gar nicht ähnlich.
+",,"Ich freue mich auf dich.
+Ich freue mich darauf, ihn zu sehen.
+Es würde uns sehr freuen
+Wir würden uns freuen ... zu erhalten.
+Es freut mich, dich zu sehen.
+Er freut sich wie ein Schneekönig.
+Es freut mich sehr zu hören, dass ...
+","erzählen Sie uns etwas mehr über ...
+Er traute sich nicht, es seiner Mutter zu erzählen.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr mitfühlend.
+Als ich ihr von meinen Sorgen erzählte, war sie sehr verständnisvoll.
 "
