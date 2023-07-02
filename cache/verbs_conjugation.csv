@@ -1,4 +1,4 @@
-voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen
+voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert
 indicative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -459,7 +459,112 @@ indicative_active,Present," ich klag(e) an
  er erzählt
  wir erzählen
  ihr erzählt
- sie erzählen"
+ sie erzählen"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich flieh(e)
+ du fliehst
+ er flieht
+ wir flieh(e)n
+ ihr flieht
+ sie flieh(e)n",," ich lieg(e)
+ du liegst
+ er liegt
+ wir liegen
+ ihr liegt
+ sie liegen"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich töt(e)
+ du tötest
+ er tötet
+ wir töten
+ ihr tötet
+ sie töten"," ich erschieß(e)
+ du erschießt
+ er erschießt
+ wir erschießen
+ ihr erschießt
+ sie erschießen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich richt(e)
+ du richtest
+ er richtet
+ wir richten
+ ihr richtet
+ sie richten"," ich schieß(e)
+ du schießt
+ er schießt
+ wir schießen
+ ihr schießt
+ sie schießen",," ich hör(e)
+ du hörst
+ er hört
+ wir hören
+ ihr hört
+ sie hören"," ich krieg(e)
+ du kriegst
+ er kriegt
+ wir kriegen
+ ihr kriegt
+ sie kriegen"," ich ermitt(e)l(e)
+ du ermittelst
+ er ermittelt
+ wir ermitteln
+ ihr ermittelt
+ sie ermitteln"," ich passier(e)
+ du passierst
+ er passiert
+ wir passieren
+ ihr passiert
+ sie passieren"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich zünd(e) an
+ du zündest an
+ er zündet an
+ wir zünden an
+ ihr zündet an
+ sie zünden an"," ich erricht(e)
+ du errichtest
+ er errichtet
+ wir errichten
+ ihr errichtet
+ sie errichten"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben",," ich verurteil(e)
+ du verurteilst
+ er verurteilt
+ wir verurteilen
+ ihr verurteilt
+ sie verurteilen"," ich hör(e) auf
+ du hörst auf
+ er hört auf
+ wir hören auf
+ ihr hört auf
+ sie hören auf"," ich mobilisier(e)
+ du mobilisierst
+ er mobilisiert
+ wir mobilisieren
+ ihr mobilisiert
+ sie mobilisieren"
 indicative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -920,7 +1025,112 @@ indicative_active,Imperfect," ich klagte an
  er erzählte
  wir erzählten
  ihr erzähltet
- sie erzählten"
+ sie erzählten"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich floh
+ du flohst
+ er floh
+ wir floh(e)n
+ ihr floht
+ sie floh(e)n",," ich lag
+ du lagst
+ er lag
+ wir lagen
+ ihr lagt
+ sie lagen"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich tötete
+ du tötetest
+ er tötete
+ wir töteten
+ ihr tötetet
+ sie töteten"," ich erschoss
+ du erschoss(es)t
+ er erschoss
+ wir erschossen
+ ihr erschoss(e)t
+ sie erschossen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich richtete
+ du richtetest
+ er richtete
+ wir richteten
+ ihr richtetet
+ sie richteten"," ich schoss
+ du schoss(es)t
+ er schoss
+ wir schossen
+ ihr schoss(e)t
+ sie schossen",," ich hörte
+ du hörtest
+ er hörte
+ wir hörten
+ ihr hörtet
+ sie hörten"," ich kriegte
+ du kriegtest
+ er kriegte
+ wir kriegten
+ ihr kriegtet
+ sie kriegten"," ich ermittelte
+ du ermitteltest
+ er ermittelte
+ wir ermittelten
+ ihr ermitteltet
+ sie ermittelten"," ich passierte
+ du passiertest
+ er passierte
+ wir passierten
+ ihr passiertet
+ sie passierten"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich zündete an
+ du zündetest an
+ er zündete an
+ wir zündeten an
+ ihr zündetet an
+ sie zündeten an"," ich errichtete
+ du errichtetest
+ er errichtete
+ wir errichteten
+ ihr errichtetet
+ sie errichteten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben",," ich verurteilte
+ du verurteiltest
+ er verurteilte
+ wir verurteilten
+ ihr verurteiltet
+ sie verurteilten"," ich hörte auf
+ du hörtest auf
+ er hörte auf
+ wir hörten auf
+ ihr hörtet auf
+ sie hörten auf"," ich mobilisierte
+ du mobilisiertest
+ er mobilisierte
+ wir mobilisierten
+ ihr mobilisiertet
+ sie mobilisierten"
 indicative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -1381,7 +1591,112 @@ indicative_active,Perfect," ich habe angeklagt
  er hat erzählt
  wir haben erzählt
  ihr habt erzählt
- sie haben erzählt"
+ sie haben erzählt"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich bin gefloh(e)n
+ du bist gefloh(e)n
+ er ist gefloh(e)n
+ wir sind gefloh(e)n
+ ihr seid gefloh(e)n
+ sie sind gefloh(e)n",," ich habe gelegen
+ du hast gelegen
+ er hat gelegen
+ wir haben gelegen
+ ihr habt gelegen
+ sie haben gelegen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe getötet
+ du hast getötet
+ er hat getötet
+ wir haben getötet
+ ihr habt getötet
+ sie haben getötet"," ich habe erschossen
+ du hast erschossen
+ er hat erschossen
+ wir haben erschossen
+ ihr habt erschossen
+ sie haben erschossen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gerichtet
+ du hast gerichtet
+ er hat gerichtet
+ wir haben gerichtet
+ ihr habt gerichtet
+ sie haben gerichtet"," ich habe geschossen
+ du hast geschossen
+ er hat geschossen
+ wir haben geschossen
+ ihr habt geschossen
+ sie haben geschossen",," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe gekriegt
+ du hast gekriegt
+ er hat gekriegt
+ wir haben gekriegt
+ ihr habt gekriegt
+ sie haben gekriegt"," ich habe ermittelt
+ du hast ermittelt
+ er hat ermittelt
+ wir haben ermittelt
+ ihr habt ermittelt
+ sie haben ermittelt"," ich bin passiert
+ du bist passiert
+ er ist passiert
+ wir sind passiert
+ ihr seid passiert
+ sie sind passiert"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich habe angezündet
+ du hast angezündet
+ er hat angezündet
+ wir haben angezündet
+ ihr habt angezündet
+ sie haben angezündet"," ich habe errichtet
+ du hast errichtet
+ er hat errichtet
+ wir haben errichtet
+ ihr habt errichtet
+ sie haben errichtet"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben",," ich habe verurteilt
+ du hast verurteilt
+ er hat verurteilt
+ wir haben verurteilt
+ ihr habt verurteilt
+ sie haben verurteilt"," ich habe aufgehört
+ du hast aufgehört
+ er hat aufgehört
+ wir haben aufgehört
+ ihr habt aufgehört
+ sie haben aufgehört"," ich habe mobilisiert
+ du hast mobilisiert
+ er hat mobilisiert
+ wir haben mobilisiert
+ ihr habt mobilisiert
+ sie haben mobilisiert"
 indicative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -1842,7 +2157,112 @@ indicative_active,Pluperfect," ich hatte angeklagt
  er hatte erzählt
  wir hatten erzählt
  ihr hattet erzählt
- sie hatten erzählt"
+ sie hatten erzählt"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich war gefloh(e)n
+ du warst gefloh(e)n
+ er war gefloh(e)n
+ wir waren gefloh(e)n
+ ihr wart gefloh(e)n
+ sie waren gefloh(e)n",," ich hatte gelegen
+ du hattest gelegen
+ er hatte gelegen
+ wir hatten gelegen
+ ihr hattet gelegen
+ sie hatten gelegen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte getötet
+ du hattest getötet
+ er hatte getötet
+ wir hatten getötet
+ ihr hattet getötet
+ sie hatten getötet"," ich hatte erschossen
+ du hattest erschossen
+ er hatte erschossen
+ wir hatten erschossen
+ ihr hattet erschossen
+ sie hatten erschossen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gerichtet
+ du hattest gerichtet
+ er hatte gerichtet
+ wir hatten gerichtet
+ ihr hattet gerichtet
+ sie hatten gerichtet"," ich hatte geschossen
+ du hattest geschossen
+ er hatte geschossen
+ wir hatten geschossen
+ ihr hattet geschossen
+ sie hatten geschossen",," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte gekriegt
+ du hattest gekriegt
+ er hatte gekriegt
+ wir hatten gekriegt
+ ihr hattet gekriegt
+ sie hatten gekriegt"," ich hatte ermittelt
+ du hattest ermittelt
+ er hatte ermittelt
+ wir hatten ermittelt
+ ihr hattet ermittelt
+ sie hatten ermittelt"," ich war passiert
+ du warst passiert
+ er war passiert
+ wir waren passiert
+ ihr wart passiert
+ sie waren passiert"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich hatte angezündet
+ du hattest angezündet
+ er hatte angezündet
+ wir hatten angezündet
+ ihr hattet angezündet
+ sie hatten angezündet"," ich hatte errichtet
+ du hattest errichtet
+ er hatte errichtet
+ wir hatten errichtet
+ ihr hattet errichtet
+ sie hatten errichtet"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben",," ich hatte verurteilt
+ du hattest verurteilt
+ er hatte verurteilt
+ wir hatten verurteilt
+ ihr hattet verurteilt
+ sie hatten verurteilt"," ich hatte aufgehört
+ du hattest aufgehört
+ er hatte aufgehört
+ wir hatten aufgehört
+ ihr hattet aufgehört
+ sie hatten aufgehört"," ich hatte mobilisiert
+ du hattest mobilisiert
+ er hatte mobilisiert
+ wir hatten mobilisiert
+ ihr hattet mobilisiert
+ sie hatten mobilisiert"
 indicative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -2303,7 +2723,112 @@ indicative_active,Future," ich werde anklagen
  er wird erzählen
  wir werden erzählen
  ihr werdet erzählen
- sie werden erzählen"
+ sie werden erzählen"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde flieh(e)n
+ du wirst flieh(e)n
+ er wird flieh(e)n
+ wir werden flieh(e)n
+ ihr werdet flieh(e)n
+ sie werden flieh(e)n",," ich werde liegen
+ du wirst liegen
+ er wird liegen
+ wir werden liegen
+ ihr werdet liegen
+ sie werden liegen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde töten
+ du wirst töten
+ er wird töten
+ wir werden töten
+ ihr werdet töten
+ sie werden töten"," ich werde erschießen
+ du wirst erschießen
+ er wird erschießen
+ wir werden erschießen
+ ihr werdet erschießen
+ sie werden erschießen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde richten
+ du wirst richten
+ er wird richten
+ wir werden richten
+ ihr werdet richten
+ sie werden richten"," ich werde schießen
+ du wirst schießen
+ er wird schießen
+ wir werden schießen
+ ihr werdet schießen
+ sie werden schießen",," ich werde hören
+ du wirst hören
+ er wird hören
+ wir werden hören
+ ihr werdet hören
+ sie werden hören"," ich werde kriegen
+ du wirst kriegen
+ er wird kriegen
+ wir werden kriegen
+ ihr werdet kriegen
+ sie werden kriegen"," ich werde ermitteln
+ du wirst ermitteln
+ er wird ermitteln
+ wir werden ermitteln
+ ihr werdet ermitteln
+ sie werden ermitteln"," ich werde passieren
+ du wirst passieren
+ er wird passieren
+ wir werden passieren
+ ihr werdet passieren
+ sie werden passieren"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde anzünden
+ du wirst anzünden
+ er wird anzünden
+ wir werden anzünden
+ ihr werdet anzünden
+ sie werden anzünden"," ich werde errichten
+ du wirst errichten
+ er wird errichten
+ wir werden errichten
+ ihr werdet errichten
+ sie werden errichten"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben",," ich werde verurteilen
+ du wirst verurteilen
+ er wird verurteilen
+ wir werden verurteilen
+ ihr werdet verurteilen
+ sie werden verurteilen"," ich werde aufhören
+ du wirst aufhören
+ er wird aufhören
+ wir werden aufhören
+ ihr werdet aufhören
+ sie werden aufhören"," ich werde mobilisieren
+ du wirst mobilisieren
+ er wird mobilisieren
+ wir werden mobilisieren
+ ihr werdet mobilisieren
+ sie werden mobilisieren"
 indicative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -2764,7 +3289,112 @@ indicative_active,FuturePerfect," ich werde angeklagt haben
  er wird erzählt haben
  wir werden erzählt haben
  ihr werdet erzählt haben
- sie werden erzählt haben"
+ sie werden erzählt haben"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde gefloh(e)n sein
+ du wirst gefloh(e)n sein
+ er wird gefloh(e)n sein
+ wir werden gefloh(e)n sein
+ ihr werdet gefloh(e)n sein
+ sie werden gefloh(e)n sein",," ich werde gelegen haben
+ du wirst gelegen haben
+ er wird gelegen haben
+ wir werden gelegen haben
+ ihr werdet gelegen haben
+ sie werden gelegen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde getötet haben
+ du wirst getötet haben
+ er wird getötet haben
+ wir werden getötet haben
+ ihr werdet getötet haben
+ sie werden getötet haben"," ich werde erschossen haben
+ du wirst erschossen haben
+ er wird erschossen haben
+ wir werden erschossen haben
+ ihr werdet erschossen haben
+ sie werden erschossen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gerichtet haben
+ du wirst gerichtet haben
+ er wird gerichtet haben
+ wir werden gerichtet haben
+ ihr werdet gerichtet haben
+ sie werden gerichtet haben"," ich werde geschossen haben
+ du wirst geschossen haben
+ er wird geschossen haben
+ wir werden geschossen haben
+ ihr werdet geschossen haben
+ sie werden geschossen haben",," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde gekriegt haben
+ du wirst gekriegt haben
+ er wird gekriegt haben
+ wir werden gekriegt haben
+ ihr werdet gekriegt haben
+ sie werden gekriegt haben"," ich werde ermittelt haben
+ du wirst ermittelt haben
+ er wird ermittelt haben
+ wir werden ermittelt haben
+ ihr werdet ermittelt haben
+ sie werden ermittelt haben"," ich werde passiert sein
+ du wirst passiert sein
+ er wird passiert sein
+ wir werden passiert sein
+ ihr werdet passiert sein
+ sie werden passiert sein"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde angezündet haben
+ du wirst angezündet haben
+ er wird angezündet haben
+ wir werden angezündet haben
+ ihr werdet angezündet haben
+ sie werden angezündet haben"," ich werde errichtet haben
+ du wirst errichtet haben
+ er wird errichtet haben
+ wir werden errichtet haben
+ ihr werdet errichtet haben
+ sie werden errichtet haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben",," ich werde verurteilt haben
+ du wirst verurteilt haben
+ er wird verurteilt haben
+ wir werden verurteilt haben
+ ihr werdet verurteilt haben
+ sie werden verurteilt haben"," ich werde aufgehört haben
+ du wirst aufgehört haben
+ er wird aufgehört haben
+ wir werden aufgehört haben
+ ihr werdet aufgehört haben
+ sie werden aufgehört haben"," ich werde mobilisiert haben
+ du wirst mobilisiert haben
+ er wird mobilisiert haben
+ wir werden mobilisiert haben
+ ihr werdet mobilisiert haben
+ sie werden mobilisiert haben"
 indicative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -2857,7 +3487,28 @@ indicative_active,InfinitiveI," anklagen
  zu seh(e)n"," mitarbeiten
  mitzuarbeiten"," freu(e)n
  zu freu(e)n"," erzählen
- zu erzählen"
+ zu erzählen"," kämpfen
+ zu kämpfen"," beschießen
+ zu beschießen"," flieh(e)n
+ zu flieh(e)n",," liegen
+ zu liegen"," versuchen
+ zu versuchen"," töten
+ zu töten"," erschießen
+ zu erschießen"," seh(e)n
+ zu seh(e)n"," richten
+ zu richten"," schießen
+ zu schießen",," hören
+ zu hören"," kriegen
+ zu kriegen"," ermitteln
+ zu ermitteln"," passieren
+ zu passieren"," beschießen
+ zu beschießen"," anzünden
+ anzuzünden"," errichten
+ zu errichten"," geben
+ zu geben",," verurteilen
+ zu verurteilen"," aufhören
+ aufzuhören"," mobilisieren
+ zu mobilisieren"
 indicative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -2950,9 +3601,30 @@ indicative_active,InfinitiveII," angeklagt haben
  geseh(e)n zu haben"," mitgearbeitet haben
  mitgearbeitet zu haben"," gefreut haben
  gefreut zu haben"," erzählt haben
- erzählt zu haben"
-indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
-indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
+ erzählt zu haben"," gekämpft haben
+ gekämpft zu haben"," beschossen haben
+ beschossen zu haben"," gefloh(e)n sein
+ gefloh(e)n zu sein",," gelegen haben
+ gelegen zu haben"," versucht haben
+ versucht zu haben"," getötet haben
+ getötet zu haben"," erschossen haben
+ erschossen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gerichtet haben
+ gerichtet zu haben"," geschossen haben
+ geschossen zu haben",," gehört haben
+ gehört zu haben"," gekriegt haben
+ gekriegt zu haben"," ermittelt haben
+ ermittelt zu haben"," passiert sein
+ passiert zu sein"," beschossen haben
+ beschossen zu haben"," angezündet haben
+ angezündet zu haben"," errichtet haben
+ errichtet zu haben"," gegeben haben
+ gegeben zu haben",," verurteilt haben
+ verurteilt zu haben"," aufgehört haben
+ aufgehört zu haben"," mobilisiert haben
+ mobilisiert zu haben"
+indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
+indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
 subjunctive_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -3413,7 +4085,112 @@ subjunctive_active,Present," ich klag(e) an
  er erzählt
  wir erzählen
  ihr erzählt
- sie erzählen"
+ sie erzählen"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich flieh(e)
+ du fliehst
+ er flieht
+ wir flieh(e)n
+ ihr flieht
+ sie flieh(e)n",," ich lieg(e)
+ du liegst
+ er liegt
+ wir liegen
+ ihr liegt
+ sie liegen"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich töt(e)
+ du tötest
+ er tötet
+ wir töten
+ ihr tötet
+ sie töten"," ich erschieß(e)
+ du erschießt
+ er erschießt
+ wir erschießen
+ ihr erschießt
+ sie erschießen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich richt(e)
+ du richtest
+ er richtet
+ wir richten
+ ihr richtet
+ sie richten"," ich schieß(e)
+ du schießt
+ er schießt
+ wir schießen
+ ihr schießt
+ sie schießen",," ich hör(e)
+ du hörst
+ er hört
+ wir hören
+ ihr hört
+ sie hören"," ich krieg(e)
+ du kriegst
+ er kriegt
+ wir kriegen
+ ihr kriegt
+ sie kriegen"," ich ermitt(e)l(e)
+ du ermittelst
+ er ermittelt
+ wir ermitteln
+ ihr ermittelt
+ sie ermitteln"," ich passier(e)
+ du passierst
+ er passiert
+ wir passieren
+ ihr passiert
+ sie passieren"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich zünd(e) an
+ du zündest an
+ er zündet an
+ wir zünden an
+ ihr zündet an
+ sie zünden an"," ich erricht(e)
+ du errichtest
+ er errichtet
+ wir errichten
+ ihr errichtet
+ sie errichten"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben",," ich verurteil(e)
+ du verurteilst
+ er verurteilt
+ wir verurteilen
+ ihr verurteilt
+ sie verurteilen"," ich hör(e) auf
+ du hörst auf
+ er hört auf
+ wir hören auf
+ ihr hört auf
+ sie hören auf"," ich mobilisier(e)
+ du mobilisierst
+ er mobilisiert
+ wir mobilisieren
+ ihr mobilisiert
+ sie mobilisieren"
 subjunctive_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -3874,7 +4651,112 @@ subjunctive_active,Imperfect," ich klagte an
  er erzählte
  wir erzählten
  ihr erzähltet
- sie erzählten"
+ sie erzählten"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich floh
+ du flohst
+ er floh
+ wir floh(e)n
+ ihr floht
+ sie floh(e)n",," ich lag
+ du lagst
+ er lag
+ wir lagen
+ ihr lagt
+ sie lagen"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich tötete
+ du tötetest
+ er tötete
+ wir töteten
+ ihr tötetet
+ sie töteten"," ich erschoss
+ du erschoss(es)t
+ er erschoss
+ wir erschossen
+ ihr erschoss(e)t
+ sie erschossen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich richtete
+ du richtetest
+ er richtete
+ wir richteten
+ ihr richtetet
+ sie richteten"," ich schoss
+ du schoss(es)t
+ er schoss
+ wir schossen
+ ihr schoss(e)t
+ sie schossen",," ich hörte
+ du hörtest
+ er hörte
+ wir hörten
+ ihr hörtet
+ sie hörten"," ich kriegte
+ du kriegtest
+ er kriegte
+ wir kriegten
+ ihr kriegtet
+ sie kriegten"," ich ermittelte
+ du ermitteltest
+ er ermittelte
+ wir ermittelten
+ ihr ermitteltet
+ sie ermittelten"," ich passierte
+ du passiertest
+ er passierte
+ wir passierten
+ ihr passiertet
+ sie passierten"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich zündete an
+ du zündetest an
+ er zündete an
+ wir zündeten an
+ ihr zündetet an
+ sie zündeten an"," ich errichtete
+ du errichtetest
+ er errichtete
+ wir errichteten
+ ihr errichtetet
+ sie errichteten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben",," ich verurteilte
+ du verurteiltest
+ er verurteilte
+ wir verurteilten
+ ihr verurteiltet
+ sie verurteilten"," ich hörte auf
+ du hörtest auf
+ er hörte auf
+ wir hörten auf
+ ihr hörtet auf
+ sie hörten auf"," ich mobilisierte
+ du mobilisiertest
+ er mobilisierte
+ wir mobilisierten
+ ihr mobilisiertet
+ sie mobilisierten"
 subjunctive_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -4335,7 +5217,112 @@ subjunctive_active,Perfect," ich habe angeklagt
  er hat erzählt
  wir haben erzählt
  ihr habt erzählt
- sie haben erzählt"
+ sie haben erzählt"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich bin gefloh(e)n
+ du bist gefloh(e)n
+ er ist gefloh(e)n
+ wir sind gefloh(e)n
+ ihr seid gefloh(e)n
+ sie sind gefloh(e)n",," ich habe gelegen
+ du hast gelegen
+ er hat gelegen
+ wir haben gelegen
+ ihr habt gelegen
+ sie haben gelegen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe getötet
+ du hast getötet
+ er hat getötet
+ wir haben getötet
+ ihr habt getötet
+ sie haben getötet"," ich habe erschossen
+ du hast erschossen
+ er hat erschossen
+ wir haben erschossen
+ ihr habt erschossen
+ sie haben erschossen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gerichtet
+ du hast gerichtet
+ er hat gerichtet
+ wir haben gerichtet
+ ihr habt gerichtet
+ sie haben gerichtet"," ich habe geschossen
+ du hast geschossen
+ er hat geschossen
+ wir haben geschossen
+ ihr habt geschossen
+ sie haben geschossen",," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe gekriegt
+ du hast gekriegt
+ er hat gekriegt
+ wir haben gekriegt
+ ihr habt gekriegt
+ sie haben gekriegt"," ich habe ermittelt
+ du hast ermittelt
+ er hat ermittelt
+ wir haben ermittelt
+ ihr habt ermittelt
+ sie haben ermittelt"," ich bin passiert
+ du bist passiert
+ er ist passiert
+ wir sind passiert
+ ihr seid passiert
+ sie sind passiert"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich habe angezündet
+ du hast angezündet
+ er hat angezündet
+ wir haben angezündet
+ ihr habt angezündet
+ sie haben angezündet"," ich habe errichtet
+ du hast errichtet
+ er hat errichtet
+ wir haben errichtet
+ ihr habt errichtet
+ sie haben errichtet"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben",," ich habe verurteilt
+ du hast verurteilt
+ er hat verurteilt
+ wir haben verurteilt
+ ihr habt verurteilt
+ sie haben verurteilt"," ich habe aufgehört
+ du hast aufgehört
+ er hat aufgehört
+ wir haben aufgehört
+ ihr habt aufgehört
+ sie haben aufgehört"," ich habe mobilisiert
+ du hast mobilisiert
+ er hat mobilisiert
+ wir haben mobilisiert
+ ihr habt mobilisiert
+ sie haben mobilisiert"
 subjunctive_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -4796,7 +5783,112 @@ subjunctive_active,Pluperfect," ich hatte angeklagt
  er hatte erzählt
  wir hatten erzählt
  ihr hattet erzählt
- sie hatten erzählt"
+ sie hatten erzählt"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich war gefloh(e)n
+ du warst gefloh(e)n
+ er war gefloh(e)n
+ wir waren gefloh(e)n
+ ihr wart gefloh(e)n
+ sie waren gefloh(e)n",," ich hatte gelegen
+ du hattest gelegen
+ er hatte gelegen
+ wir hatten gelegen
+ ihr hattet gelegen
+ sie hatten gelegen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte getötet
+ du hattest getötet
+ er hatte getötet
+ wir hatten getötet
+ ihr hattet getötet
+ sie hatten getötet"," ich hatte erschossen
+ du hattest erschossen
+ er hatte erschossen
+ wir hatten erschossen
+ ihr hattet erschossen
+ sie hatten erschossen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gerichtet
+ du hattest gerichtet
+ er hatte gerichtet
+ wir hatten gerichtet
+ ihr hattet gerichtet
+ sie hatten gerichtet"," ich hatte geschossen
+ du hattest geschossen
+ er hatte geschossen
+ wir hatten geschossen
+ ihr hattet geschossen
+ sie hatten geschossen",," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte gekriegt
+ du hattest gekriegt
+ er hatte gekriegt
+ wir hatten gekriegt
+ ihr hattet gekriegt
+ sie hatten gekriegt"," ich hatte ermittelt
+ du hattest ermittelt
+ er hatte ermittelt
+ wir hatten ermittelt
+ ihr hattet ermittelt
+ sie hatten ermittelt"," ich war passiert
+ du warst passiert
+ er war passiert
+ wir waren passiert
+ ihr wart passiert
+ sie waren passiert"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich hatte angezündet
+ du hattest angezündet
+ er hatte angezündet
+ wir hatten angezündet
+ ihr hattet angezündet
+ sie hatten angezündet"," ich hatte errichtet
+ du hattest errichtet
+ er hatte errichtet
+ wir hatten errichtet
+ ihr hattet errichtet
+ sie hatten errichtet"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben",," ich hatte verurteilt
+ du hattest verurteilt
+ er hatte verurteilt
+ wir hatten verurteilt
+ ihr hattet verurteilt
+ sie hatten verurteilt"," ich hatte aufgehört
+ du hattest aufgehört
+ er hatte aufgehört
+ wir hatten aufgehört
+ ihr hattet aufgehört
+ sie hatten aufgehört"," ich hatte mobilisiert
+ du hattest mobilisiert
+ er hatte mobilisiert
+ wir hatten mobilisiert
+ ihr hattet mobilisiert
+ sie hatten mobilisiert"
 subjunctive_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -5257,7 +6349,112 @@ subjunctive_active,Future," ich werde anklagen
  er wird erzählen
  wir werden erzählen
  ihr werdet erzählen
- sie werden erzählen"
+ sie werden erzählen"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde flieh(e)n
+ du wirst flieh(e)n
+ er wird flieh(e)n
+ wir werden flieh(e)n
+ ihr werdet flieh(e)n
+ sie werden flieh(e)n",," ich werde liegen
+ du wirst liegen
+ er wird liegen
+ wir werden liegen
+ ihr werdet liegen
+ sie werden liegen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde töten
+ du wirst töten
+ er wird töten
+ wir werden töten
+ ihr werdet töten
+ sie werden töten"," ich werde erschießen
+ du wirst erschießen
+ er wird erschießen
+ wir werden erschießen
+ ihr werdet erschießen
+ sie werden erschießen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde richten
+ du wirst richten
+ er wird richten
+ wir werden richten
+ ihr werdet richten
+ sie werden richten"," ich werde schießen
+ du wirst schießen
+ er wird schießen
+ wir werden schießen
+ ihr werdet schießen
+ sie werden schießen",," ich werde hören
+ du wirst hören
+ er wird hören
+ wir werden hören
+ ihr werdet hören
+ sie werden hören"," ich werde kriegen
+ du wirst kriegen
+ er wird kriegen
+ wir werden kriegen
+ ihr werdet kriegen
+ sie werden kriegen"," ich werde ermitteln
+ du wirst ermitteln
+ er wird ermitteln
+ wir werden ermitteln
+ ihr werdet ermitteln
+ sie werden ermitteln"," ich werde passieren
+ du wirst passieren
+ er wird passieren
+ wir werden passieren
+ ihr werdet passieren
+ sie werden passieren"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde anzünden
+ du wirst anzünden
+ er wird anzünden
+ wir werden anzünden
+ ihr werdet anzünden
+ sie werden anzünden"," ich werde errichten
+ du wirst errichten
+ er wird errichten
+ wir werden errichten
+ ihr werdet errichten
+ sie werden errichten"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben",," ich werde verurteilen
+ du wirst verurteilen
+ er wird verurteilen
+ wir werden verurteilen
+ ihr werdet verurteilen
+ sie werden verurteilen"," ich werde aufhören
+ du wirst aufhören
+ er wird aufhören
+ wir werden aufhören
+ ihr werdet aufhören
+ sie werden aufhören"," ich werde mobilisieren
+ du wirst mobilisieren
+ er wird mobilisieren
+ wir werden mobilisieren
+ ihr werdet mobilisieren
+ sie werden mobilisieren"
 subjunctive_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -5718,7 +6915,112 @@ subjunctive_active,FuturePerfect," ich werde angeklagt haben
  er wird erzählt haben
  wir werden erzählt haben
  ihr werdet erzählt haben
- sie werden erzählt haben"
+ sie werden erzählt haben"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde gefloh(e)n sein
+ du wirst gefloh(e)n sein
+ er wird gefloh(e)n sein
+ wir werden gefloh(e)n sein
+ ihr werdet gefloh(e)n sein
+ sie werden gefloh(e)n sein",," ich werde gelegen haben
+ du wirst gelegen haben
+ er wird gelegen haben
+ wir werden gelegen haben
+ ihr werdet gelegen haben
+ sie werden gelegen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde getötet haben
+ du wirst getötet haben
+ er wird getötet haben
+ wir werden getötet haben
+ ihr werdet getötet haben
+ sie werden getötet haben"," ich werde erschossen haben
+ du wirst erschossen haben
+ er wird erschossen haben
+ wir werden erschossen haben
+ ihr werdet erschossen haben
+ sie werden erschossen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gerichtet haben
+ du wirst gerichtet haben
+ er wird gerichtet haben
+ wir werden gerichtet haben
+ ihr werdet gerichtet haben
+ sie werden gerichtet haben"," ich werde geschossen haben
+ du wirst geschossen haben
+ er wird geschossen haben
+ wir werden geschossen haben
+ ihr werdet geschossen haben
+ sie werden geschossen haben",," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde gekriegt haben
+ du wirst gekriegt haben
+ er wird gekriegt haben
+ wir werden gekriegt haben
+ ihr werdet gekriegt haben
+ sie werden gekriegt haben"," ich werde ermittelt haben
+ du wirst ermittelt haben
+ er wird ermittelt haben
+ wir werden ermittelt haben
+ ihr werdet ermittelt haben
+ sie werden ermittelt haben"," ich werde passiert sein
+ du wirst passiert sein
+ er wird passiert sein
+ wir werden passiert sein
+ ihr werdet passiert sein
+ sie werden passiert sein"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde angezündet haben
+ du wirst angezündet haben
+ er wird angezündet haben
+ wir werden angezündet haben
+ ihr werdet angezündet haben
+ sie werden angezündet haben"," ich werde errichtet haben
+ du wirst errichtet haben
+ er wird errichtet haben
+ wir werden errichtet haben
+ ihr werdet errichtet haben
+ sie werden errichtet haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben",," ich werde verurteilt haben
+ du wirst verurteilt haben
+ er wird verurteilt haben
+ wir werden verurteilt haben
+ ihr werdet verurteilt haben
+ sie werden verurteilt haben"," ich werde aufgehört haben
+ du wirst aufgehört haben
+ er wird aufgehört haben
+ wir werden aufgehört haben
+ ihr werdet aufgehört haben
+ sie werden aufgehört haben"," ich werde mobilisiert haben
+ du wirst mobilisiert haben
+ er wird mobilisiert haben
+ wir werden mobilisiert haben
+ ihr werdet mobilisiert haben
+ sie werden mobilisiert haben"
 subjunctive_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -5811,7 +7113,28 @@ subjunctive_active,InfinitiveI," anklagen
  zu seh(e)n"," mitarbeiten
  mitzuarbeiten"," freu(e)n
  zu freu(e)n"," erzählen
- zu erzählen"
+ zu erzählen"," kämpfen
+ zu kämpfen"," beschießen
+ zu beschießen"," flieh(e)n
+ zu flieh(e)n",," liegen
+ zu liegen"," versuchen
+ zu versuchen"," töten
+ zu töten"," erschießen
+ zu erschießen"," seh(e)n
+ zu seh(e)n"," richten
+ zu richten"," schießen
+ zu schießen",," hören
+ zu hören"," kriegen
+ zu kriegen"," ermitteln
+ zu ermitteln"," passieren
+ zu passieren"," beschießen
+ zu beschießen"," anzünden
+ anzuzünden"," errichten
+ zu errichten"," geben
+ zu geben",," verurteilen
+ zu verurteilen"," aufhören
+ aufzuhören"," mobilisieren
+ zu mobilisieren"
 subjunctive_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -5904,9 +7227,30 @@ subjunctive_active,InfinitiveII," angeklagt haben
  geseh(e)n zu haben"," mitgearbeitet haben
  mitgearbeitet zu haben"," gefreut haben
  gefreut zu haben"," erzählt haben
- erzählt zu haben"
-subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
-subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
+ erzählt zu haben"," gekämpft haben
+ gekämpft zu haben"," beschossen haben
+ beschossen zu haben"," gefloh(e)n sein
+ gefloh(e)n zu sein",," gelegen haben
+ gelegen zu haben"," versucht haben
+ versucht zu haben"," getötet haben
+ getötet zu haben"," erschossen haben
+ erschossen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gerichtet haben
+ gerichtet zu haben"," geschossen haben
+ geschossen zu haben",," gehört haben
+ gehört zu haben"," gekriegt haben
+ gekriegt zu haben"," ermittelt haben
+ ermittelt zu haben"," passiert sein
+ passiert zu sein"," beschossen haben
+ beschossen zu haben"," angezündet haben
+ angezündet zu haben"," errichtet haben
+ errichtet zu haben"," gegeben haben
+ gegeben zu haben",," verurteilt haben
+ verurteilt zu haben"," aufgehört haben
+ aufgehört zu haben"," mobilisiert haben
+ mobilisiert zu haben"
+subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
+subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
 conditional_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -6367,7 +7711,112 @@ conditional_active,Present," ich klag(e) an
  er erzählt
  wir erzählen
  ihr erzählt
- sie erzählen"
+ sie erzählen"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich flieh(e)
+ du fliehst
+ er flieht
+ wir flieh(e)n
+ ihr flieht
+ sie flieh(e)n",," ich lieg(e)
+ du liegst
+ er liegt
+ wir liegen
+ ihr liegt
+ sie liegen"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich töt(e)
+ du tötest
+ er tötet
+ wir töten
+ ihr tötet
+ sie töten"," ich erschieß(e)
+ du erschießt
+ er erschießt
+ wir erschießen
+ ihr erschießt
+ sie erschießen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich richt(e)
+ du richtest
+ er richtet
+ wir richten
+ ihr richtet
+ sie richten"," ich schieß(e)
+ du schießt
+ er schießt
+ wir schießen
+ ihr schießt
+ sie schießen",," ich hör(e)
+ du hörst
+ er hört
+ wir hören
+ ihr hört
+ sie hören"," ich krieg(e)
+ du kriegst
+ er kriegt
+ wir kriegen
+ ihr kriegt
+ sie kriegen"," ich ermitt(e)l(e)
+ du ermittelst
+ er ermittelt
+ wir ermitteln
+ ihr ermittelt
+ sie ermitteln"," ich passier(e)
+ du passierst
+ er passiert
+ wir passieren
+ ihr passiert
+ sie passieren"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich zünd(e) an
+ du zündest an
+ er zündet an
+ wir zünden an
+ ihr zündet an
+ sie zünden an"," ich erricht(e)
+ du errichtest
+ er errichtet
+ wir errichten
+ ihr errichtet
+ sie errichten"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben",," ich verurteil(e)
+ du verurteilst
+ er verurteilt
+ wir verurteilen
+ ihr verurteilt
+ sie verurteilen"," ich hör(e) auf
+ du hörst auf
+ er hört auf
+ wir hören auf
+ ihr hört auf
+ sie hören auf"," ich mobilisier(e)
+ du mobilisierst
+ er mobilisiert
+ wir mobilisieren
+ ihr mobilisiert
+ sie mobilisieren"
 conditional_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -6828,7 +8277,112 @@ conditional_active,Imperfect," ich klagte an
  er erzählte
  wir erzählten
  ihr erzähltet
- sie erzählten"
+ sie erzählten"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich floh
+ du flohst
+ er floh
+ wir floh(e)n
+ ihr floht
+ sie floh(e)n",," ich lag
+ du lagst
+ er lag
+ wir lagen
+ ihr lagt
+ sie lagen"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich tötete
+ du tötetest
+ er tötete
+ wir töteten
+ ihr tötetet
+ sie töteten"," ich erschoss
+ du erschoss(es)t
+ er erschoss
+ wir erschossen
+ ihr erschoss(e)t
+ sie erschossen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich richtete
+ du richtetest
+ er richtete
+ wir richteten
+ ihr richtetet
+ sie richteten"," ich schoss
+ du schoss(es)t
+ er schoss
+ wir schossen
+ ihr schoss(e)t
+ sie schossen",," ich hörte
+ du hörtest
+ er hörte
+ wir hörten
+ ihr hörtet
+ sie hörten"," ich kriegte
+ du kriegtest
+ er kriegte
+ wir kriegten
+ ihr kriegtet
+ sie kriegten"," ich ermittelte
+ du ermitteltest
+ er ermittelte
+ wir ermittelten
+ ihr ermitteltet
+ sie ermittelten"," ich passierte
+ du passiertest
+ er passierte
+ wir passierten
+ ihr passiertet
+ sie passierten"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich zündete an
+ du zündetest an
+ er zündete an
+ wir zündeten an
+ ihr zündetet an
+ sie zündeten an"," ich errichtete
+ du errichtetest
+ er errichtete
+ wir errichteten
+ ihr errichtetet
+ sie errichteten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben",," ich verurteilte
+ du verurteiltest
+ er verurteilte
+ wir verurteilten
+ ihr verurteiltet
+ sie verurteilten"," ich hörte auf
+ du hörtest auf
+ er hörte auf
+ wir hörten auf
+ ihr hörtet auf
+ sie hörten auf"," ich mobilisierte
+ du mobilisiertest
+ er mobilisierte
+ wir mobilisierten
+ ihr mobilisiertet
+ sie mobilisierten"
 conditional_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -7289,7 +8843,112 @@ conditional_active,Perfect," ich habe angeklagt
  er hat erzählt
  wir haben erzählt
  ihr habt erzählt
- sie haben erzählt"
+ sie haben erzählt"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich bin gefloh(e)n
+ du bist gefloh(e)n
+ er ist gefloh(e)n
+ wir sind gefloh(e)n
+ ihr seid gefloh(e)n
+ sie sind gefloh(e)n",," ich habe gelegen
+ du hast gelegen
+ er hat gelegen
+ wir haben gelegen
+ ihr habt gelegen
+ sie haben gelegen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe getötet
+ du hast getötet
+ er hat getötet
+ wir haben getötet
+ ihr habt getötet
+ sie haben getötet"," ich habe erschossen
+ du hast erschossen
+ er hat erschossen
+ wir haben erschossen
+ ihr habt erschossen
+ sie haben erschossen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gerichtet
+ du hast gerichtet
+ er hat gerichtet
+ wir haben gerichtet
+ ihr habt gerichtet
+ sie haben gerichtet"," ich habe geschossen
+ du hast geschossen
+ er hat geschossen
+ wir haben geschossen
+ ihr habt geschossen
+ sie haben geschossen",," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe gekriegt
+ du hast gekriegt
+ er hat gekriegt
+ wir haben gekriegt
+ ihr habt gekriegt
+ sie haben gekriegt"," ich habe ermittelt
+ du hast ermittelt
+ er hat ermittelt
+ wir haben ermittelt
+ ihr habt ermittelt
+ sie haben ermittelt"," ich bin passiert
+ du bist passiert
+ er ist passiert
+ wir sind passiert
+ ihr seid passiert
+ sie sind passiert"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich habe angezündet
+ du hast angezündet
+ er hat angezündet
+ wir haben angezündet
+ ihr habt angezündet
+ sie haben angezündet"," ich habe errichtet
+ du hast errichtet
+ er hat errichtet
+ wir haben errichtet
+ ihr habt errichtet
+ sie haben errichtet"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben",," ich habe verurteilt
+ du hast verurteilt
+ er hat verurteilt
+ wir haben verurteilt
+ ihr habt verurteilt
+ sie haben verurteilt"," ich habe aufgehört
+ du hast aufgehört
+ er hat aufgehört
+ wir haben aufgehört
+ ihr habt aufgehört
+ sie haben aufgehört"," ich habe mobilisiert
+ du hast mobilisiert
+ er hat mobilisiert
+ wir haben mobilisiert
+ ihr habt mobilisiert
+ sie haben mobilisiert"
 conditional_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -7750,7 +9409,112 @@ conditional_active,Pluperfect," ich hatte angeklagt
  er hatte erzählt
  wir hatten erzählt
  ihr hattet erzählt
- sie hatten erzählt"
+ sie hatten erzählt"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich war gefloh(e)n
+ du warst gefloh(e)n
+ er war gefloh(e)n
+ wir waren gefloh(e)n
+ ihr wart gefloh(e)n
+ sie waren gefloh(e)n",," ich hatte gelegen
+ du hattest gelegen
+ er hatte gelegen
+ wir hatten gelegen
+ ihr hattet gelegen
+ sie hatten gelegen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte getötet
+ du hattest getötet
+ er hatte getötet
+ wir hatten getötet
+ ihr hattet getötet
+ sie hatten getötet"," ich hatte erschossen
+ du hattest erschossen
+ er hatte erschossen
+ wir hatten erschossen
+ ihr hattet erschossen
+ sie hatten erschossen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gerichtet
+ du hattest gerichtet
+ er hatte gerichtet
+ wir hatten gerichtet
+ ihr hattet gerichtet
+ sie hatten gerichtet"," ich hatte geschossen
+ du hattest geschossen
+ er hatte geschossen
+ wir hatten geschossen
+ ihr hattet geschossen
+ sie hatten geschossen",," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte gekriegt
+ du hattest gekriegt
+ er hatte gekriegt
+ wir hatten gekriegt
+ ihr hattet gekriegt
+ sie hatten gekriegt"," ich hatte ermittelt
+ du hattest ermittelt
+ er hatte ermittelt
+ wir hatten ermittelt
+ ihr hattet ermittelt
+ sie hatten ermittelt"," ich war passiert
+ du warst passiert
+ er war passiert
+ wir waren passiert
+ ihr wart passiert
+ sie waren passiert"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich hatte angezündet
+ du hattest angezündet
+ er hatte angezündet
+ wir hatten angezündet
+ ihr hattet angezündet
+ sie hatten angezündet"," ich hatte errichtet
+ du hattest errichtet
+ er hatte errichtet
+ wir hatten errichtet
+ ihr hattet errichtet
+ sie hatten errichtet"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben",," ich hatte verurteilt
+ du hattest verurteilt
+ er hatte verurteilt
+ wir hatten verurteilt
+ ihr hattet verurteilt
+ sie hatten verurteilt"," ich hatte aufgehört
+ du hattest aufgehört
+ er hatte aufgehört
+ wir hatten aufgehört
+ ihr hattet aufgehört
+ sie hatten aufgehört"," ich hatte mobilisiert
+ du hattest mobilisiert
+ er hatte mobilisiert
+ wir hatten mobilisiert
+ ihr hattet mobilisiert
+ sie hatten mobilisiert"
 conditional_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -8211,7 +9975,112 @@ conditional_active,Future," ich werde anklagen
  er wird erzählen
  wir werden erzählen
  ihr werdet erzählen
- sie werden erzählen"
+ sie werden erzählen"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde flieh(e)n
+ du wirst flieh(e)n
+ er wird flieh(e)n
+ wir werden flieh(e)n
+ ihr werdet flieh(e)n
+ sie werden flieh(e)n",," ich werde liegen
+ du wirst liegen
+ er wird liegen
+ wir werden liegen
+ ihr werdet liegen
+ sie werden liegen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde töten
+ du wirst töten
+ er wird töten
+ wir werden töten
+ ihr werdet töten
+ sie werden töten"," ich werde erschießen
+ du wirst erschießen
+ er wird erschießen
+ wir werden erschießen
+ ihr werdet erschießen
+ sie werden erschießen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde richten
+ du wirst richten
+ er wird richten
+ wir werden richten
+ ihr werdet richten
+ sie werden richten"," ich werde schießen
+ du wirst schießen
+ er wird schießen
+ wir werden schießen
+ ihr werdet schießen
+ sie werden schießen",," ich werde hören
+ du wirst hören
+ er wird hören
+ wir werden hören
+ ihr werdet hören
+ sie werden hören"," ich werde kriegen
+ du wirst kriegen
+ er wird kriegen
+ wir werden kriegen
+ ihr werdet kriegen
+ sie werden kriegen"," ich werde ermitteln
+ du wirst ermitteln
+ er wird ermitteln
+ wir werden ermitteln
+ ihr werdet ermitteln
+ sie werden ermitteln"," ich werde passieren
+ du wirst passieren
+ er wird passieren
+ wir werden passieren
+ ihr werdet passieren
+ sie werden passieren"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde anzünden
+ du wirst anzünden
+ er wird anzünden
+ wir werden anzünden
+ ihr werdet anzünden
+ sie werden anzünden"," ich werde errichten
+ du wirst errichten
+ er wird errichten
+ wir werden errichten
+ ihr werdet errichten
+ sie werden errichten"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben",," ich werde verurteilen
+ du wirst verurteilen
+ er wird verurteilen
+ wir werden verurteilen
+ ihr werdet verurteilen
+ sie werden verurteilen"," ich werde aufhören
+ du wirst aufhören
+ er wird aufhören
+ wir werden aufhören
+ ihr werdet aufhören
+ sie werden aufhören"," ich werde mobilisieren
+ du wirst mobilisieren
+ er wird mobilisieren
+ wir werden mobilisieren
+ ihr werdet mobilisieren
+ sie werden mobilisieren"
 conditional_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -8672,7 +10541,112 @@ conditional_active,FuturePerfect," ich werde angeklagt haben
  er wird erzählt haben
  wir werden erzählt haben
  ihr werdet erzählt haben
- sie werden erzählt haben"
+ sie werden erzählt haben"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde gefloh(e)n sein
+ du wirst gefloh(e)n sein
+ er wird gefloh(e)n sein
+ wir werden gefloh(e)n sein
+ ihr werdet gefloh(e)n sein
+ sie werden gefloh(e)n sein",," ich werde gelegen haben
+ du wirst gelegen haben
+ er wird gelegen haben
+ wir werden gelegen haben
+ ihr werdet gelegen haben
+ sie werden gelegen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde getötet haben
+ du wirst getötet haben
+ er wird getötet haben
+ wir werden getötet haben
+ ihr werdet getötet haben
+ sie werden getötet haben"," ich werde erschossen haben
+ du wirst erschossen haben
+ er wird erschossen haben
+ wir werden erschossen haben
+ ihr werdet erschossen haben
+ sie werden erschossen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gerichtet haben
+ du wirst gerichtet haben
+ er wird gerichtet haben
+ wir werden gerichtet haben
+ ihr werdet gerichtet haben
+ sie werden gerichtet haben"," ich werde geschossen haben
+ du wirst geschossen haben
+ er wird geschossen haben
+ wir werden geschossen haben
+ ihr werdet geschossen haben
+ sie werden geschossen haben",," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde gekriegt haben
+ du wirst gekriegt haben
+ er wird gekriegt haben
+ wir werden gekriegt haben
+ ihr werdet gekriegt haben
+ sie werden gekriegt haben"," ich werde ermittelt haben
+ du wirst ermittelt haben
+ er wird ermittelt haben
+ wir werden ermittelt haben
+ ihr werdet ermittelt haben
+ sie werden ermittelt haben"," ich werde passiert sein
+ du wirst passiert sein
+ er wird passiert sein
+ wir werden passiert sein
+ ihr werdet passiert sein
+ sie werden passiert sein"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde angezündet haben
+ du wirst angezündet haben
+ er wird angezündet haben
+ wir werden angezündet haben
+ ihr werdet angezündet haben
+ sie werden angezündet haben"," ich werde errichtet haben
+ du wirst errichtet haben
+ er wird errichtet haben
+ wir werden errichtet haben
+ ihr werdet errichtet haben
+ sie werden errichtet haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben",," ich werde verurteilt haben
+ du wirst verurteilt haben
+ er wird verurteilt haben
+ wir werden verurteilt haben
+ ihr werdet verurteilt haben
+ sie werden verurteilt haben"," ich werde aufgehört haben
+ du wirst aufgehört haben
+ er wird aufgehört haben
+ wir werden aufgehört haben
+ ihr werdet aufgehört haben
+ sie werden aufgehört haben"," ich werde mobilisiert haben
+ du wirst mobilisiert haben
+ er wird mobilisiert haben
+ wir werden mobilisiert haben
+ ihr werdet mobilisiert haben
+ sie werden mobilisiert haben"
 conditional_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -8765,7 +10739,28 @@ conditional_active,InfinitiveI," anklagen
  zu seh(e)n"," mitarbeiten
  mitzuarbeiten"," freu(e)n
  zu freu(e)n"," erzählen
- zu erzählen"
+ zu erzählen"," kämpfen
+ zu kämpfen"," beschießen
+ zu beschießen"," flieh(e)n
+ zu flieh(e)n",," liegen
+ zu liegen"," versuchen
+ zu versuchen"," töten
+ zu töten"," erschießen
+ zu erschießen"," seh(e)n
+ zu seh(e)n"," richten
+ zu richten"," schießen
+ zu schießen",," hören
+ zu hören"," kriegen
+ zu kriegen"," ermitteln
+ zu ermitteln"," passieren
+ zu passieren"," beschießen
+ zu beschießen"," anzünden
+ anzuzünden"," errichten
+ zu errichten"," geben
+ zu geben",," verurteilen
+ zu verurteilen"," aufhören
+ aufzuhören"," mobilisieren
+ zu mobilisieren"
 conditional_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -8858,9 +10853,30 @@ conditional_active,InfinitiveII," angeklagt haben
  geseh(e)n zu haben"," mitgearbeitet haben
  mitgearbeitet zu haben"," gefreut haben
  gefreut zu haben"," erzählt haben
- erzählt zu haben"
-conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
-conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
+ erzählt zu haben"," gekämpft haben
+ gekämpft zu haben"," beschossen haben
+ beschossen zu haben"," gefloh(e)n sein
+ gefloh(e)n zu sein",," gelegen haben
+ gelegen zu haben"," versucht haben
+ versucht zu haben"," getötet haben
+ getötet zu haben"," erschossen haben
+ erschossen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gerichtet haben
+ gerichtet zu haben"," geschossen haben
+ geschossen zu haben",," gehört haben
+ gehört zu haben"," gekriegt haben
+ gekriegt zu haben"," ermittelt haben
+ ermittelt zu haben"," passiert sein
+ passiert zu sein"," beschossen haben
+ beschossen zu haben"," angezündet haben
+ angezündet zu haben"," errichtet haben
+ errichtet zu haben"," gegeben haben
+ gegeben zu haben",," verurteilt haben
+ verurteilt zu haben"," aufgehört haben
+ aufgehört zu haben"," mobilisiert haben
+ mobilisiert zu haben"
+conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
+conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
 imperative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -9321,7 +11337,112 @@ imperative_active,Present," ich klag(e) an
  er erzählt
  wir erzählen
  ihr erzählt
- sie erzählen"
+ sie erzählen"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich flieh(e)
+ du fliehst
+ er flieht
+ wir flieh(e)n
+ ihr flieht
+ sie flieh(e)n",," ich lieg(e)
+ du liegst
+ er liegt
+ wir liegen
+ ihr liegt
+ sie liegen"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich töt(e)
+ du tötest
+ er tötet
+ wir töten
+ ihr tötet
+ sie töten"," ich erschieß(e)
+ du erschießt
+ er erschießt
+ wir erschießen
+ ihr erschießt
+ sie erschießen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich richt(e)
+ du richtest
+ er richtet
+ wir richten
+ ihr richtet
+ sie richten"," ich schieß(e)
+ du schießt
+ er schießt
+ wir schießen
+ ihr schießt
+ sie schießen",," ich hör(e)
+ du hörst
+ er hört
+ wir hören
+ ihr hört
+ sie hören"," ich krieg(e)
+ du kriegst
+ er kriegt
+ wir kriegen
+ ihr kriegt
+ sie kriegen"," ich ermitt(e)l(e)
+ du ermittelst
+ er ermittelt
+ wir ermitteln
+ ihr ermittelt
+ sie ermitteln"," ich passier(e)
+ du passierst
+ er passiert
+ wir passieren
+ ihr passiert
+ sie passieren"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich zünd(e) an
+ du zündest an
+ er zündet an
+ wir zünden an
+ ihr zündet an
+ sie zünden an"," ich erricht(e)
+ du errichtest
+ er errichtet
+ wir errichten
+ ihr errichtet
+ sie errichten"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben",," ich verurteil(e)
+ du verurteilst
+ er verurteilt
+ wir verurteilen
+ ihr verurteilt
+ sie verurteilen"," ich hör(e) auf
+ du hörst auf
+ er hört auf
+ wir hören auf
+ ihr hört auf
+ sie hören auf"," ich mobilisier(e)
+ du mobilisierst
+ er mobilisiert
+ wir mobilisieren
+ ihr mobilisiert
+ sie mobilisieren"
 imperative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -9782,7 +11903,112 @@ imperative_active,Imperfect," ich klagte an
  er erzählte
  wir erzählten
  ihr erzähltet
- sie erzählten"
+ sie erzählten"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich floh
+ du flohst
+ er floh
+ wir floh(e)n
+ ihr floht
+ sie floh(e)n",," ich lag
+ du lagst
+ er lag
+ wir lagen
+ ihr lagt
+ sie lagen"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich tötete
+ du tötetest
+ er tötete
+ wir töteten
+ ihr tötetet
+ sie töteten"," ich erschoss
+ du erschoss(es)t
+ er erschoss
+ wir erschossen
+ ihr erschoss(e)t
+ sie erschossen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich richtete
+ du richtetest
+ er richtete
+ wir richteten
+ ihr richtetet
+ sie richteten"," ich schoss
+ du schoss(es)t
+ er schoss
+ wir schossen
+ ihr schoss(e)t
+ sie schossen",," ich hörte
+ du hörtest
+ er hörte
+ wir hörten
+ ihr hörtet
+ sie hörten"," ich kriegte
+ du kriegtest
+ er kriegte
+ wir kriegten
+ ihr kriegtet
+ sie kriegten"," ich ermittelte
+ du ermitteltest
+ er ermittelte
+ wir ermittelten
+ ihr ermitteltet
+ sie ermittelten"," ich passierte
+ du passiertest
+ er passierte
+ wir passierten
+ ihr passiertet
+ sie passierten"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich zündete an
+ du zündetest an
+ er zündete an
+ wir zündeten an
+ ihr zündetet an
+ sie zündeten an"," ich errichtete
+ du errichtetest
+ er errichtete
+ wir errichteten
+ ihr errichtetet
+ sie errichteten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben",," ich verurteilte
+ du verurteiltest
+ er verurteilte
+ wir verurteilten
+ ihr verurteiltet
+ sie verurteilten"," ich hörte auf
+ du hörtest auf
+ er hörte auf
+ wir hörten auf
+ ihr hörtet auf
+ sie hörten auf"," ich mobilisierte
+ du mobilisiertest
+ er mobilisierte
+ wir mobilisierten
+ ihr mobilisiertet
+ sie mobilisierten"
 imperative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -10243,7 +12469,112 @@ imperative_active,Perfect," ich habe angeklagt
  er hat erzählt
  wir haben erzählt
  ihr habt erzählt
- sie haben erzählt"
+ sie haben erzählt"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich bin gefloh(e)n
+ du bist gefloh(e)n
+ er ist gefloh(e)n
+ wir sind gefloh(e)n
+ ihr seid gefloh(e)n
+ sie sind gefloh(e)n",," ich habe gelegen
+ du hast gelegen
+ er hat gelegen
+ wir haben gelegen
+ ihr habt gelegen
+ sie haben gelegen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe getötet
+ du hast getötet
+ er hat getötet
+ wir haben getötet
+ ihr habt getötet
+ sie haben getötet"," ich habe erschossen
+ du hast erschossen
+ er hat erschossen
+ wir haben erschossen
+ ihr habt erschossen
+ sie haben erschossen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gerichtet
+ du hast gerichtet
+ er hat gerichtet
+ wir haben gerichtet
+ ihr habt gerichtet
+ sie haben gerichtet"," ich habe geschossen
+ du hast geschossen
+ er hat geschossen
+ wir haben geschossen
+ ihr habt geschossen
+ sie haben geschossen",," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe gekriegt
+ du hast gekriegt
+ er hat gekriegt
+ wir haben gekriegt
+ ihr habt gekriegt
+ sie haben gekriegt"," ich habe ermittelt
+ du hast ermittelt
+ er hat ermittelt
+ wir haben ermittelt
+ ihr habt ermittelt
+ sie haben ermittelt"," ich bin passiert
+ du bist passiert
+ er ist passiert
+ wir sind passiert
+ ihr seid passiert
+ sie sind passiert"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich habe angezündet
+ du hast angezündet
+ er hat angezündet
+ wir haben angezündet
+ ihr habt angezündet
+ sie haben angezündet"," ich habe errichtet
+ du hast errichtet
+ er hat errichtet
+ wir haben errichtet
+ ihr habt errichtet
+ sie haben errichtet"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben",," ich habe verurteilt
+ du hast verurteilt
+ er hat verurteilt
+ wir haben verurteilt
+ ihr habt verurteilt
+ sie haben verurteilt"," ich habe aufgehört
+ du hast aufgehört
+ er hat aufgehört
+ wir haben aufgehört
+ ihr habt aufgehört
+ sie haben aufgehört"," ich habe mobilisiert
+ du hast mobilisiert
+ er hat mobilisiert
+ wir haben mobilisiert
+ ihr habt mobilisiert
+ sie haben mobilisiert"
 imperative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -10704,7 +13035,112 @@ imperative_active,Pluperfect," ich hatte angeklagt
  er hatte erzählt
  wir hatten erzählt
  ihr hattet erzählt
- sie hatten erzählt"
+ sie hatten erzählt"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich war gefloh(e)n
+ du warst gefloh(e)n
+ er war gefloh(e)n
+ wir waren gefloh(e)n
+ ihr wart gefloh(e)n
+ sie waren gefloh(e)n",," ich hatte gelegen
+ du hattest gelegen
+ er hatte gelegen
+ wir hatten gelegen
+ ihr hattet gelegen
+ sie hatten gelegen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte getötet
+ du hattest getötet
+ er hatte getötet
+ wir hatten getötet
+ ihr hattet getötet
+ sie hatten getötet"," ich hatte erschossen
+ du hattest erschossen
+ er hatte erschossen
+ wir hatten erschossen
+ ihr hattet erschossen
+ sie hatten erschossen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gerichtet
+ du hattest gerichtet
+ er hatte gerichtet
+ wir hatten gerichtet
+ ihr hattet gerichtet
+ sie hatten gerichtet"," ich hatte geschossen
+ du hattest geschossen
+ er hatte geschossen
+ wir hatten geschossen
+ ihr hattet geschossen
+ sie hatten geschossen",," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte gekriegt
+ du hattest gekriegt
+ er hatte gekriegt
+ wir hatten gekriegt
+ ihr hattet gekriegt
+ sie hatten gekriegt"," ich hatte ermittelt
+ du hattest ermittelt
+ er hatte ermittelt
+ wir hatten ermittelt
+ ihr hattet ermittelt
+ sie hatten ermittelt"," ich war passiert
+ du warst passiert
+ er war passiert
+ wir waren passiert
+ ihr wart passiert
+ sie waren passiert"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich hatte angezündet
+ du hattest angezündet
+ er hatte angezündet
+ wir hatten angezündet
+ ihr hattet angezündet
+ sie hatten angezündet"," ich hatte errichtet
+ du hattest errichtet
+ er hatte errichtet
+ wir hatten errichtet
+ ihr hattet errichtet
+ sie hatten errichtet"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben",," ich hatte verurteilt
+ du hattest verurteilt
+ er hatte verurteilt
+ wir hatten verurteilt
+ ihr hattet verurteilt
+ sie hatten verurteilt"," ich hatte aufgehört
+ du hattest aufgehört
+ er hatte aufgehört
+ wir hatten aufgehört
+ ihr hattet aufgehört
+ sie hatten aufgehört"," ich hatte mobilisiert
+ du hattest mobilisiert
+ er hatte mobilisiert
+ wir hatten mobilisiert
+ ihr hattet mobilisiert
+ sie hatten mobilisiert"
 imperative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -11165,7 +13601,112 @@ imperative_active,Future," ich werde anklagen
  er wird erzählen
  wir werden erzählen
  ihr werdet erzählen
- sie werden erzählen"
+ sie werden erzählen"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde flieh(e)n
+ du wirst flieh(e)n
+ er wird flieh(e)n
+ wir werden flieh(e)n
+ ihr werdet flieh(e)n
+ sie werden flieh(e)n",," ich werde liegen
+ du wirst liegen
+ er wird liegen
+ wir werden liegen
+ ihr werdet liegen
+ sie werden liegen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde töten
+ du wirst töten
+ er wird töten
+ wir werden töten
+ ihr werdet töten
+ sie werden töten"," ich werde erschießen
+ du wirst erschießen
+ er wird erschießen
+ wir werden erschießen
+ ihr werdet erschießen
+ sie werden erschießen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde richten
+ du wirst richten
+ er wird richten
+ wir werden richten
+ ihr werdet richten
+ sie werden richten"," ich werde schießen
+ du wirst schießen
+ er wird schießen
+ wir werden schießen
+ ihr werdet schießen
+ sie werden schießen",," ich werde hören
+ du wirst hören
+ er wird hören
+ wir werden hören
+ ihr werdet hören
+ sie werden hören"," ich werde kriegen
+ du wirst kriegen
+ er wird kriegen
+ wir werden kriegen
+ ihr werdet kriegen
+ sie werden kriegen"," ich werde ermitteln
+ du wirst ermitteln
+ er wird ermitteln
+ wir werden ermitteln
+ ihr werdet ermitteln
+ sie werden ermitteln"," ich werde passieren
+ du wirst passieren
+ er wird passieren
+ wir werden passieren
+ ihr werdet passieren
+ sie werden passieren"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde anzünden
+ du wirst anzünden
+ er wird anzünden
+ wir werden anzünden
+ ihr werdet anzünden
+ sie werden anzünden"," ich werde errichten
+ du wirst errichten
+ er wird errichten
+ wir werden errichten
+ ihr werdet errichten
+ sie werden errichten"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben",," ich werde verurteilen
+ du wirst verurteilen
+ er wird verurteilen
+ wir werden verurteilen
+ ihr werdet verurteilen
+ sie werden verurteilen"," ich werde aufhören
+ du wirst aufhören
+ er wird aufhören
+ wir werden aufhören
+ ihr werdet aufhören
+ sie werden aufhören"," ich werde mobilisieren
+ du wirst mobilisieren
+ er wird mobilisieren
+ wir werden mobilisieren
+ ihr werdet mobilisieren
+ sie werden mobilisieren"
 imperative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -11626,7 +14167,112 @@ imperative_active,FuturePerfect," ich werde angeklagt haben
  er wird erzählt haben
  wir werden erzählt haben
  ihr werdet erzählt haben
- sie werden erzählt haben"
+ sie werden erzählt haben"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde gefloh(e)n sein
+ du wirst gefloh(e)n sein
+ er wird gefloh(e)n sein
+ wir werden gefloh(e)n sein
+ ihr werdet gefloh(e)n sein
+ sie werden gefloh(e)n sein",," ich werde gelegen haben
+ du wirst gelegen haben
+ er wird gelegen haben
+ wir werden gelegen haben
+ ihr werdet gelegen haben
+ sie werden gelegen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde getötet haben
+ du wirst getötet haben
+ er wird getötet haben
+ wir werden getötet haben
+ ihr werdet getötet haben
+ sie werden getötet haben"," ich werde erschossen haben
+ du wirst erschossen haben
+ er wird erschossen haben
+ wir werden erschossen haben
+ ihr werdet erschossen haben
+ sie werden erschossen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gerichtet haben
+ du wirst gerichtet haben
+ er wird gerichtet haben
+ wir werden gerichtet haben
+ ihr werdet gerichtet haben
+ sie werden gerichtet haben"," ich werde geschossen haben
+ du wirst geschossen haben
+ er wird geschossen haben
+ wir werden geschossen haben
+ ihr werdet geschossen haben
+ sie werden geschossen haben",," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde gekriegt haben
+ du wirst gekriegt haben
+ er wird gekriegt haben
+ wir werden gekriegt haben
+ ihr werdet gekriegt haben
+ sie werden gekriegt haben"," ich werde ermittelt haben
+ du wirst ermittelt haben
+ er wird ermittelt haben
+ wir werden ermittelt haben
+ ihr werdet ermittelt haben
+ sie werden ermittelt haben"," ich werde passiert sein
+ du wirst passiert sein
+ er wird passiert sein
+ wir werden passiert sein
+ ihr werdet passiert sein
+ sie werden passiert sein"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde angezündet haben
+ du wirst angezündet haben
+ er wird angezündet haben
+ wir werden angezündet haben
+ ihr werdet angezündet haben
+ sie werden angezündet haben"," ich werde errichtet haben
+ du wirst errichtet haben
+ er wird errichtet haben
+ wir werden errichtet haben
+ ihr werdet errichtet haben
+ sie werden errichtet haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben",," ich werde verurteilt haben
+ du wirst verurteilt haben
+ er wird verurteilt haben
+ wir werden verurteilt haben
+ ihr werdet verurteilt haben
+ sie werden verurteilt haben"," ich werde aufgehört haben
+ du wirst aufgehört haben
+ er wird aufgehört haben
+ wir werden aufgehört haben
+ ihr werdet aufgehört haben
+ sie werden aufgehört haben"," ich werde mobilisiert haben
+ du wirst mobilisiert haben
+ er wird mobilisiert haben
+ wir werden mobilisiert haben
+ ihr werdet mobilisiert haben
+ sie werden mobilisiert haben"
 imperative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -11719,7 +14365,28 @@ imperative_active,InfinitiveI," anklagen
  zu seh(e)n"," mitarbeiten
  mitzuarbeiten"," freu(e)n
  zu freu(e)n"," erzählen
- zu erzählen"
+ zu erzählen"," kämpfen
+ zu kämpfen"," beschießen
+ zu beschießen"," flieh(e)n
+ zu flieh(e)n",," liegen
+ zu liegen"," versuchen
+ zu versuchen"," töten
+ zu töten"," erschießen
+ zu erschießen"," seh(e)n
+ zu seh(e)n"," richten
+ zu richten"," schießen
+ zu schießen",," hören
+ zu hören"," kriegen
+ zu kriegen"," ermitteln
+ zu ermitteln"," passieren
+ zu passieren"," beschießen
+ zu beschießen"," anzünden
+ anzuzünden"," errichten
+ zu errichten"," geben
+ zu geben",," verurteilen
+ zu verurteilen"," aufhören
+ aufzuhören"," mobilisieren
+ zu mobilisieren"
 imperative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -11812,9 +14479,30 @@ imperative_active,InfinitiveII," angeklagt haben
  geseh(e)n zu haben"," mitgearbeitet haben
  mitgearbeitet zu haben"," gefreut haben
  gefreut zu haben"," erzählt haben
- erzählt zu haben"
-imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
-imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
+ erzählt zu haben"," gekämpft haben
+ gekämpft zu haben"," beschossen haben
+ beschossen zu haben"," gefloh(e)n sein
+ gefloh(e)n zu sein",," gelegen haben
+ gelegen zu haben"," versucht haben
+ versucht zu haben"," getötet haben
+ getötet zu haben"," erschossen haben
+ erschossen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gerichtet haben
+ gerichtet zu haben"," geschossen haben
+ geschossen zu haben",," gehört haben
+ gehört zu haben"," gekriegt haben
+ gekriegt zu haben"," ermittelt haben
+ ermittelt zu haben"," passiert sein
+ passiert zu sein"," beschossen haben
+ beschossen zu haben"," angezündet haben
+ angezündet zu haben"," errichtet haben
+ errichtet zu haben"," gegeben haben
+ gegeben zu haben",," verurteilt haben
+ verurteilt zu haben"," aufgehört haben
+ aufgehört zu haben"," mobilisiert haben
+ mobilisiert zu haben"
+imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
+imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
 infinitive_participle_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -12275,7 +14963,112 @@ infinitive_participle_active,Present," ich klag(e) an
  er erzählt
  wir erzählen
  ihr erzählt
- sie erzählen"
+ sie erzählen"," ich kämpf(e)
+ du kämpfst
+ er kämpft
+ wir kämpfen
+ ihr kämpft
+ sie kämpfen"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich flieh(e)
+ du fliehst
+ er flieht
+ wir flieh(e)n
+ ihr flieht
+ sie flieh(e)n",," ich lieg(e)
+ du liegst
+ er liegt
+ wir liegen
+ ihr liegt
+ sie liegen"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich töt(e)
+ du tötest
+ er tötet
+ wir töten
+ ihr tötet
+ sie töten"," ich erschieß(e)
+ du erschießt
+ er erschießt
+ wir erschießen
+ ihr erschießt
+ sie erschießen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich richt(e)
+ du richtest
+ er richtet
+ wir richten
+ ihr richtet
+ sie richten"," ich schieß(e)
+ du schießt
+ er schießt
+ wir schießen
+ ihr schießt
+ sie schießen",," ich hör(e)
+ du hörst
+ er hört
+ wir hören
+ ihr hört
+ sie hören"," ich krieg(e)
+ du kriegst
+ er kriegt
+ wir kriegen
+ ihr kriegt
+ sie kriegen"," ich ermitt(e)l(e)
+ du ermittelst
+ er ermittelt
+ wir ermitteln
+ ihr ermittelt
+ sie ermitteln"," ich passier(e)
+ du passierst
+ er passiert
+ wir passieren
+ ihr passiert
+ sie passieren"," ich beschieß(e)
+ du beschießt
+ er beschießt
+ wir beschießen
+ ihr beschießt
+ sie beschießen"," ich zünd(e) an
+ du zündest an
+ er zündet an
+ wir zünden an
+ ihr zündet an
+ sie zünden an"," ich erricht(e)
+ du errichtest
+ er errichtet
+ wir errichten
+ ihr errichtet
+ sie errichten"," ich geb(e)
+ du gibst
+ er gibt
+ wir geben
+ ihr gebt
+ sie geben",," ich verurteil(e)
+ du verurteilst
+ er verurteilt
+ wir verurteilen
+ ihr verurteilt
+ sie verurteilen"," ich hör(e) auf
+ du hörst auf
+ er hört auf
+ wir hören auf
+ ihr hört auf
+ sie hören auf"," ich mobilisier(e)
+ du mobilisierst
+ er mobilisiert
+ wir mobilisieren
+ ihr mobilisiert
+ sie mobilisieren"
 infinitive_participle_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -12736,7 +15529,112 @@ infinitive_participle_active,Imperfect," ich klagte an
  er erzählte
  wir erzählten
  ihr erzähltet
- sie erzählten"
+ sie erzählten"," ich kämpfte
+ du kämpftest
+ er kämpfte
+ wir kämpften
+ ihr kämpftet
+ sie kämpften"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich floh
+ du flohst
+ er floh
+ wir floh(e)n
+ ihr floht
+ sie floh(e)n",," ich lag
+ du lagst
+ er lag
+ wir lagen
+ ihr lagt
+ sie lagen"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich tötete
+ du tötetest
+ er tötete
+ wir töteten
+ ihr tötetet
+ sie töteten"," ich erschoss
+ du erschoss(es)t
+ er erschoss
+ wir erschossen
+ ihr erschoss(e)t
+ sie erschossen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich richtete
+ du richtetest
+ er richtete
+ wir richteten
+ ihr richtetet
+ sie richteten"," ich schoss
+ du schoss(es)t
+ er schoss
+ wir schossen
+ ihr schoss(e)t
+ sie schossen",," ich hörte
+ du hörtest
+ er hörte
+ wir hörten
+ ihr hörtet
+ sie hörten"," ich kriegte
+ du kriegtest
+ er kriegte
+ wir kriegten
+ ihr kriegtet
+ sie kriegten"," ich ermittelte
+ du ermitteltest
+ er ermittelte
+ wir ermittelten
+ ihr ermitteltet
+ sie ermittelten"," ich passierte
+ du passiertest
+ er passierte
+ wir passierten
+ ihr passiertet
+ sie passierten"," ich beschoss
+ du beschoss(es)t
+ er beschoss
+ wir beschossen
+ ihr beschoss(e)t
+ sie beschossen"," ich zündete an
+ du zündetest an
+ er zündete an
+ wir zündeten an
+ ihr zündetet an
+ sie zündeten an"," ich errichtete
+ du errichtetest
+ er errichtete
+ wir errichteten
+ ihr errichtetet
+ sie errichteten"," ich gab
+ du gabst
+ er gab
+ wir gaben
+ ihr gabt
+ sie gaben",," ich verurteilte
+ du verurteiltest
+ er verurteilte
+ wir verurteilten
+ ihr verurteiltet
+ sie verurteilten"," ich hörte auf
+ du hörtest auf
+ er hörte auf
+ wir hörten auf
+ ihr hörtet auf
+ sie hörten auf"," ich mobilisierte
+ du mobilisiertest
+ er mobilisierte
+ wir mobilisierten
+ ihr mobilisiertet
+ sie mobilisierten"
 infinitive_participle_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -13197,7 +16095,112 @@ infinitive_participle_active,Perfect," ich habe angeklagt
  er hat erzählt
  wir haben erzählt
  ihr habt erzählt
- sie haben erzählt"
+ sie haben erzählt"," ich habe gekämpft
+ du hast gekämpft
+ er hat gekämpft
+ wir haben gekämpft
+ ihr habt gekämpft
+ sie haben gekämpft"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich bin gefloh(e)n
+ du bist gefloh(e)n
+ er ist gefloh(e)n
+ wir sind gefloh(e)n
+ ihr seid gefloh(e)n
+ sie sind gefloh(e)n",," ich habe gelegen
+ du hast gelegen
+ er hat gelegen
+ wir haben gelegen
+ ihr habt gelegen
+ sie haben gelegen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe getötet
+ du hast getötet
+ er hat getötet
+ wir haben getötet
+ ihr habt getötet
+ sie haben getötet"," ich habe erschossen
+ du hast erschossen
+ er hat erschossen
+ wir haben erschossen
+ ihr habt erschossen
+ sie haben erschossen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gerichtet
+ du hast gerichtet
+ er hat gerichtet
+ wir haben gerichtet
+ ihr habt gerichtet
+ sie haben gerichtet"," ich habe geschossen
+ du hast geschossen
+ er hat geschossen
+ wir haben geschossen
+ ihr habt geschossen
+ sie haben geschossen",," ich habe gehört
+ du hast gehört
+ er hat gehört
+ wir haben gehört
+ ihr habt gehört
+ sie haben gehört"," ich habe gekriegt
+ du hast gekriegt
+ er hat gekriegt
+ wir haben gekriegt
+ ihr habt gekriegt
+ sie haben gekriegt"," ich habe ermittelt
+ du hast ermittelt
+ er hat ermittelt
+ wir haben ermittelt
+ ihr habt ermittelt
+ sie haben ermittelt"," ich bin passiert
+ du bist passiert
+ er ist passiert
+ wir sind passiert
+ ihr seid passiert
+ sie sind passiert"," ich habe beschossen
+ du hast beschossen
+ er hat beschossen
+ wir haben beschossen
+ ihr habt beschossen
+ sie haben beschossen"," ich habe angezündet
+ du hast angezündet
+ er hat angezündet
+ wir haben angezündet
+ ihr habt angezündet
+ sie haben angezündet"," ich habe errichtet
+ du hast errichtet
+ er hat errichtet
+ wir haben errichtet
+ ihr habt errichtet
+ sie haben errichtet"," ich habe gegeben
+ du hast gegeben
+ er hat gegeben
+ wir haben gegeben
+ ihr habt gegeben
+ sie haben gegeben",," ich habe verurteilt
+ du hast verurteilt
+ er hat verurteilt
+ wir haben verurteilt
+ ihr habt verurteilt
+ sie haben verurteilt"," ich habe aufgehört
+ du hast aufgehört
+ er hat aufgehört
+ wir haben aufgehört
+ ihr habt aufgehört
+ sie haben aufgehört"," ich habe mobilisiert
+ du hast mobilisiert
+ er hat mobilisiert
+ wir haben mobilisiert
+ ihr habt mobilisiert
+ sie haben mobilisiert"
 infinitive_participle_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -13658,7 +16661,112 @@ infinitive_participle_active,Pluperfect," ich hatte angeklagt
  er hatte erzählt
  wir hatten erzählt
  ihr hattet erzählt
- sie hatten erzählt"
+ sie hatten erzählt"," ich hatte gekämpft
+ du hattest gekämpft
+ er hatte gekämpft
+ wir hatten gekämpft
+ ihr hattet gekämpft
+ sie hatten gekämpft"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich war gefloh(e)n
+ du warst gefloh(e)n
+ er war gefloh(e)n
+ wir waren gefloh(e)n
+ ihr wart gefloh(e)n
+ sie waren gefloh(e)n",," ich hatte gelegen
+ du hattest gelegen
+ er hatte gelegen
+ wir hatten gelegen
+ ihr hattet gelegen
+ sie hatten gelegen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte getötet
+ du hattest getötet
+ er hatte getötet
+ wir hatten getötet
+ ihr hattet getötet
+ sie hatten getötet"," ich hatte erschossen
+ du hattest erschossen
+ er hatte erschossen
+ wir hatten erschossen
+ ihr hattet erschossen
+ sie hatten erschossen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gerichtet
+ du hattest gerichtet
+ er hatte gerichtet
+ wir hatten gerichtet
+ ihr hattet gerichtet
+ sie hatten gerichtet"," ich hatte geschossen
+ du hattest geschossen
+ er hatte geschossen
+ wir hatten geschossen
+ ihr hattet geschossen
+ sie hatten geschossen",," ich hatte gehört
+ du hattest gehört
+ er hatte gehört
+ wir hatten gehört
+ ihr hattet gehört
+ sie hatten gehört"," ich hatte gekriegt
+ du hattest gekriegt
+ er hatte gekriegt
+ wir hatten gekriegt
+ ihr hattet gekriegt
+ sie hatten gekriegt"," ich hatte ermittelt
+ du hattest ermittelt
+ er hatte ermittelt
+ wir hatten ermittelt
+ ihr hattet ermittelt
+ sie hatten ermittelt"," ich war passiert
+ du warst passiert
+ er war passiert
+ wir waren passiert
+ ihr wart passiert
+ sie waren passiert"," ich hatte beschossen
+ du hattest beschossen
+ er hatte beschossen
+ wir hatten beschossen
+ ihr hattet beschossen
+ sie hatten beschossen"," ich hatte angezündet
+ du hattest angezündet
+ er hatte angezündet
+ wir hatten angezündet
+ ihr hattet angezündet
+ sie hatten angezündet"," ich hatte errichtet
+ du hattest errichtet
+ er hatte errichtet
+ wir hatten errichtet
+ ihr hattet errichtet
+ sie hatten errichtet"," ich hatte gegeben
+ du hattest gegeben
+ er hatte gegeben
+ wir hatten gegeben
+ ihr hattet gegeben
+ sie hatten gegeben",," ich hatte verurteilt
+ du hattest verurteilt
+ er hatte verurteilt
+ wir hatten verurteilt
+ ihr hattet verurteilt
+ sie hatten verurteilt"," ich hatte aufgehört
+ du hattest aufgehört
+ er hatte aufgehört
+ wir hatten aufgehört
+ ihr hattet aufgehört
+ sie hatten aufgehört"," ich hatte mobilisiert
+ du hattest mobilisiert
+ er hatte mobilisiert
+ wir hatten mobilisiert
+ ihr hattet mobilisiert
+ sie hatten mobilisiert"
 infinitive_participle_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -14119,7 +17227,112 @@ infinitive_participle_active,Future," ich werde anklagen
  er wird erzählen
  wir werden erzählen
  ihr werdet erzählen
- sie werden erzählen"
+ sie werden erzählen"," ich werde kämpfen
+ du wirst kämpfen
+ er wird kämpfen
+ wir werden kämpfen
+ ihr werdet kämpfen
+ sie werden kämpfen"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde flieh(e)n
+ du wirst flieh(e)n
+ er wird flieh(e)n
+ wir werden flieh(e)n
+ ihr werdet flieh(e)n
+ sie werden flieh(e)n",," ich werde liegen
+ du wirst liegen
+ er wird liegen
+ wir werden liegen
+ ihr werdet liegen
+ sie werden liegen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde töten
+ du wirst töten
+ er wird töten
+ wir werden töten
+ ihr werdet töten
+ sie werden töten"," ich werde erschießen
+ du wirst erschießen
+ er wird erschießen
+ wir werden erschießen
+ ihr werdet erschießen
+ sie werden erschießen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde richten
+ du wirst richten
+ er wird richten
+ wir werden richten
+ ihr werdet richten
+ sie werden richten"," ich werde schießen
+ du wirst schießen
+ er wird schießen
+ wir werden schießen
+ ihr werdet schießen
+ sie werden schießen",," ich werde hören
+ du wirst hören
+ er wird hören
+ wir werden hören
+ ihr werdet hören
+ sie werden hören"," ich werde kriegen
+ du wirst kriegen
+ er wird kriegen
+ wir werden kriegen
+ ihr werdet kriegen
+ sie werden kriegen"," ich werde ermitteln
+ du wirst ermitteln
+ er wird ermitteln
+ wir werden ermitteln
+ ihr werdet ermitteln
+ sie werden ermitteln"," ich werde passieren
+ du wirst passieren
+ er wird passieren
+ wir werden passieren
+ ihr werdet passieren
+ sie werden passieren"," ich werde beschießen
+ du wirst beschießen
+ er wird beschießen
+ wir werden beschießen
+ ihr werdet beschießen
+ sie werden beschießen"," ich werde anzünden
+ du wirst anzünden
+ er wird anzünden
+ wir werden anzünden
+ ihr werdet anzünden
+ sie werden anzünden"," ich werde errichten
+ du wirst errichten
+ er wird errichten
+ wir werden errichten
+ ihr werdet errichten
+ sie werden errichten"," ich werde geben
+ du wirst geben
+ er wird geben
+ wir werden geben
+ ihr werdet geben
+ sie werden geben",," ich werde verurteilen
+ du wirst verurteilen
+ er wird verurteilen
+ wir werden verurteilen
+ ihr werdet verurteilen
+ sie werden verurteilen"," ich werde aufhören
+ du wirst aufhören
+ er wird aufhören
+ wir werden aufhören
+ ihr werdet aufhören
+ sie werden aufhören"," ich werde mobilisieren
+ du wirst mobilisieren
+ er wird mobilisieren
+ wir werden mobilisieren
+ ihr werdet mobilisieren
+ sie werden mobilisieren"
 infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -14580,7 +17793,112 @@ infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  er wird erzählt haben
  wir werden erzählt haben
  ihr werdet erzählt haben
- sie werden erzählt haben"
+ sie werden erzählt haben"," ich werde gekämpft haben
+ du wirst gekämpft haben
+ er wird gekämpft haben
+ wir werden gekämpft haben
+ ihr werdet gekämpft haben
+ sie werden gekämpft haben"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde gefloh(e)n sein
+ du wirst gefloh(e)n sein
+ er wird gefloh(e)n sein
+ wir werden gefloh(e)n sein
+ ihr werdet gefloh(e)n sein
+ sie werden gefloh(e)n sein",," ich werde gelegen haben
+ du wirst gelegen haben
+ er wird gelegen haben
+ wir werden gelegen haben
+ ihr werdet gelegen haben
+ sie werden gelegen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde getötet haben
+ du wirst getötet haben
+ er wird getötet haben
+ wir werden getötet haben
+ ihr werdet getötet haben
+ sie werden getötet haben"," ich werde erschossen haben
+ du wirst erschossen haben
+ er wird erschossen haben
+ wir werden erschossen haben
+ ihr werdet erschossen haben
+ sie werden erschossen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gerichtet haben
+ du wirst gerichtet haben
+ er wird gerichtet haben
+ wir werden gerichtet haben
+ ihr werdet gerichtet haben
+ sie werden gerichtet haben"," ich werde geschossen haben
+ du wirst geschossen haben
+ er wird geschossen haben
+ wir werden geschossen haben
+ ihr werdet geschossen haben
+ sie werden geschossen haben",," ich werde gehört haben
+ du wirst gehört haben
+ er wird gehört haben
+ wir werden gehört haben
+ ihr werdet gehört haben
+ sie werden gehört haben"," ich werde gekriegt haben
+ du wirst gekriegt haben
+ er wird gekriegt haben
+ wir werden gekriegt haben
+ ihr werdet gekriegt haben
+ sie werden gekriegt haben"," ich werde ermittelt haben
+ du wirst ermittelt haben
+ er wird ermittelt haben
+ wir werden ermittelt haben
+ ihr werdet ermittelt haben
+ sie werden ermittelt haben"," ich werde passiert sein
+ du wirst passiert sein
+ er wird passiert sein
+ wir werden passiert sein
+ ihr werdet passiert sein
+ sie werden passiert sein"," ich werde beschossen haben
+ du wirst beschossen haben
+ er wird beschossen haben
+ wir werden beschossen haben
+ ihr werdet beschossen haben
+ sie werden beschossen haben"," ich werde angezündet haben
+ du wirst angezündet haben
+ er wird angezündet haben
+ wir werden angezündet haben
+ ihr werdet angezündet haben
+ sie werden angezündet haben"," ich werde errichtet haben
+ du wirst errichtet haben
+ er wird errichtet haben
+ wir werden errichtet haben
+ ihr werdet errichtet haben
+ sie werden errichtet haben"," ich werde gegeben haben
+ du wirst gegeben haben
+ er wird gegeben haben
+ wir werden gegeben haben
+ ihr werdet gegeben haben
+ sie werden gegeben haben",," ich werde verurteilt haben
+ du wirst verurteilt haben
+ er wird verurteilt haben
+ wir werden verurteilt haben
+ ihr werdet verurteilt haben
+ sie werden verurteilt haben"," ich werde aufgehört haben
+ du wirst aufgehört haben
+ er wird aufgehört haben
+ wir werden aufgehört haben
+ ihr werdet aufgehört haben
+ sie werden aufgehört haben"," ich werde mobilisiert haben
+ du wirst mobilisiert haben
+ er wird mobilisiert haben
+ wir werden mobilisiert haben
+ ihr werdet mobilisiert haben
+ sie werden mobilisiert haben"
 infinitive_participle_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -14673,7 +17991,28 @@ infinitive_participle_active,InfinitiveI," anklagen
  zu seh(e)n"," mitarbeiten
  mitzuarbeiten"," freu(e)n
  zu freu(e)n"," erzählen
- zu erzählen"
+ zu erzählen"," kämpfen
+ zu kämpfen"," beschießen
+ zu beschießen"," flieh(e)n
+ zu flieh(e)n",," liegen
+ zu liegen"," versuchen
+ zu versuchen"," töten
+ zu töten"," erschießen
+ zu erschießen"," seh(e)n
+ zu seh(e)n"," richten
+ zu richten"," schießen
+ zu schießen",," hören
+ zu hören"," kriegen
+ zu kriegen"," ermitteln
+ zu ermitteln"," passieren
+ zu passieren"," beschießen
+ zu beschießen"," anzünden
+ anzuzünden"," errichten
+ zu errichten"," geben
+ zu geben",," verurteilen
+ zu verurteilen"," aufhören
+ aufzuhören"," mobilisieren
+ zu mobilisieren"
 infinitive_participle_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -14766,6 +18105,27 @@ infinitive_participle_active,InfinitiveII," angeklagt haben
  geseh(e)n zu haben"," mitgearbeitet haben
  mitgearbeitet zu haben"," gefreut haben
  gefreut zu haben"," erzählt haben
- erzählt zu haben"
-infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend
-infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt
+ erzählt zu haben"," gekämpft haben
+ gekämpft zu haben"," beschossen haben
+ beschossen zu haben"," gefloh(e)n sein
+ gefloh(e)n zu sein",," gelegen haben
+ gelegen zu haben"," versucht haben
+ versucht zu haben"," getötet haben
+ getötet zu haben"," erschossen haben
+ erschossen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gerichtet haben
+ gerichtet zu haben"," geschossen haben
+ geschossen zu haben",," gehört haben
+ gehört zu haben"," gekriegt haben
+ gekriegt zu haben"," ermittelt haben
+ ermittelt zu haben"," passiert sein
+ passiert zu sein"," beschossen haben
+ beschossen zu haben"," angezündet haben
+ angezündet zu haben"," errichtet haben
+ errichtet zu haben"," gegeben haben
+ gegeben zu haben",," verurteilt haben
+ verurteilt zu haben"," aufgehört haben
+ aufgehört zu haben"," mobilisiert haben
+ mobilisiert zu haben"
+infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
+infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert

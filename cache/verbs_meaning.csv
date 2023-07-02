@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -143,8 +143,46 @@ sich machen : Verb
 machen : Verb
 ",,,"freuen : Verb
 sich freuen : Verb
-",
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"sich kämpfen : Verb
+kämpfen : Verb
+",,,"das Geschoss : Noun
+schießen : Verb
+sich schießen : Verb
+schießen : Verb
+","liegen : Verb
+","der Versuch : Noun
+","töten : Verb
+","erschießen : Verb
+sich erschießen : Verb
+","sich sehen : Verb
+sich sehen : Verb
+sehen : Verb
+","sich richten : Verb
+sich richten : Verb
+richten : Verb
+","sich schießen : Verb
+schießen : Verb
+schießen : Verb
+","sich fahren : Verb
+fahren : Verb
+fahren : Verb
+",,"sich kriegen : Verb
+kriegen : Verb
+","ermitteln : Verb
+","passieren : Verb
+passieren : Verb
+","beschießen : Verb
+","anzünden : Verb
+","errichten : Verb
+","sich geben : Verb
+sich geben : Verb
+geben : Verb
+","aufklären : Verb
+sich aufklären : Verb
+","verurteilen : Verb
+",,"mobilisieren : Verb
+"
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -1516,6 +1554,297 @@ to misnarrate | misnarrated, misnarrated | rare
 to outtell sth. | outtold, outtold | - tell to the end rare
 to fable | fabled, fabled | archaic
 to give so. the lowdown on so./sth. [coll.]
+","to battle (against sth.) | battled, battled |
+to fight (so./sth.) | fought, fought |
+to struggle | struggled, struggled |
+to contend (with so. for sth.) | contended, contended |
+to campaign (against so./sth.) | campaigned, campaigned |
+to combat | combated/combatted, combated/combatted |
+to brawl | brawled, brawled |
+to fray | frayed, frayed |
+to bear arms
+to contest sth. | contested, contested | - fight for
+to struggle for sth.
+to compete for sth.
+to battle for sth.
+to wage a fight for sth.
+","to belaborAE / belabourBE | belabored, belabored / belaboured, belaboured |
+to fire at so./sth.
+to shell | shelled, shelled | [MIL.]
+to strafe | strafed, strafed | [MIL.]
+to pound | pounded, pounded |
+","to flee (from so./sth.) | fled, fled |
+to escape (from sth.) | escaped, escaped |
+to get away
+to take flight
+to flee from sth.
+to shun sth. | shunned, shunned |
+to absquatulate | absquatulated, absquatulated | [sl.] (Amer.) regional
+to fly | flew, flown | archaic
+","to shoot | shot, shot |
+to fire | fired, fired |
+to kick sth. | kicked, kicked | - a ball
+to snipe | sniped, sniped |
+to blast sth. | blasted, blasted |
+to bolt | bolted, bolted | [AGR.]
+to fire a gun at so./sth.
+to shoot at so./sth.
+to shoot sth. | shot, shot | - a gun, a rifle, etc.
+to score | scored, scored |
+to shoot with rested rifle
+to volley | volleyed, volleyed |
+to score a goal
+to undershoot | undershot, undershot |
+","sth. is due to sth.
+sth. is the last thing so. wants to do
+to lie | lay, lain |
+to recline | reclined, reclined |
+to be located
+to be down to so./sth.
+to be up to so./sth.
+to lie behind so./sth.
+to rest with so.
+to lie ahead of one
+to rest on sth.
+to straddle | straddled, straddled |
+to lie with so.
+to trail behind so./sth. - person, team [POL.] [SPORT.]
+","to try (sth.) | tried, tried |
+to attempt sth. | attempted, attempted |
+to test | tested, tested |
+to prove | proved, proved/proven |
+to assay sth. | assayed, assayed |
+to have a go at sth.
+to make a stab at sth.
+to take a stab at sth.
+to try sth. ⇔ out
+to tempt so. | tempted, tempted |
+to essay | essayed, essayed | - try [form.]
+to dabble in (or: at) sth.
+to assay sth. | assayed, assayed |
+to dabble in sth.
+","to kill so. | killed, killed |
+to slay so. | slew, slain |
+to put so. to death
+to put so. to the sword - kill
+to dispatch (or: despatch) so./sth. | dispatched, dispatched / despatched, despatched | - kill
+to take so./sth. ⇔ out [sl.]
+to jangle so.'s nerves
+to electrocute so. | electrocuted, electrocuted |
+to be electrocuted
+","to shoot so. | shot, shot | - kill
+to shoot so. ⇔ dead
+","to see | saw, seen |
+to watch sth. | watched, watched | - on TV
+to view sth. | viewed, viewed |
+to look | looked, looked |
+to behold so./sth. | beheld, beheld |
+to clock so./sth. | clocked, clocked | - see [coll.] (Brit.)
+to resemble so./sth. | resembled, resembled |
+to look similar
+to look in on so. - visit so., esp. when they are ill
+to check on so./sth.
+to look after so./sth.
+to look about one
+to look on sth.
+to exhibit | exhibited, exhibited |
+","to direct | directed, directed | - to, at
+to straighten sth. | straightened, straightened |
+to regulate sth. | regulated, regulated |
+to judge so. | judged, judged |
+to comply with sth.
+to collimate | collimated, collimated |
+to dress | dressed, dressed |
+to flatten | flattened, flattened |
+to focus | focused, focused |
+to true | trued, trued |
+to true up sth.
+to angle sth. | angled, angled |
+to adjust sth. | adjusted, adjusted |
+to sort sth. | sorted, sorted | - resolve a problem
+","to shoot | shot, shot |
+to fire | fired, fired |
+to kick sth. | kicked, kicked | - a ball
+to snipe | sniped, sniped |
+to blast sth. | blasted, blasted |
+to bolt | bolted, bolted | [AGR.]
+to fire a gun at so./sth.
+to shoot at so./sth.
+to shoot sth. | shot, shot | - a gun, a rifle, etc.
+to score | scored, scored |
+to shoot with rested rifle
+to volley | volleyed, volleyed |
+to score a goal
+to undershoot | undershot, undershot |
+","to drive (sth.) | drove, driven |
+to go | went, gone | - by train, car
+to run | ran, run |
+to ride sth. | rode, ridden |
+to travel | traveled/travelled, traveled/travelled | - in a vehicle
+to cart sth. | carted, carted |
+to pedal sth. | pedaled/pedalled, pedaled/pedalled |
+to take the bus/train/car/...
+to make a left turn
+to run one's hand over sth.
+to move | moved, moved | [TECH.]
+to travel | traveled/travelled, traveled/travelled | [TECH.]
+to run | ran, run | [TECH.]
+to drive | drove, driven |
+","to hear (sth.) | heard, heard |
+to listen | listened, listened |
+to catch sth. | caught, caught | - hear, understand
+to hearken or: harken | hearkened, hearkened / harkened, harkened | [LIT.]
+to read so. | read, read | - hear and understand when communicating by radio [TELECOM.]
+to list | listed, listed | [poet.] archaic - listen
+to hear from so.
+to listen to so.
+to take so.'s advice
+to mark so.'s words
+to hear of sth.
+to hear about so./sth.
+sth. sounds good/bad/interesting/... infinitive: sound
+sth. belongs to so.
+","to get sth. (from (or: off) so.) | got, got/gotten |
+to catch so. | caught, caught |
+to get sth. through sth.
+to get into (or: in) trouble (with so./sth.)
+to have a blue fit
+to be ticketed
+to come down with a cold
+to draw the dole (Brit.) [coll.]
+to have a baby
+to have a baby
+to get into a paddy [coll.]
+to lay one's hands on sth. [coll.]
+to score with so. [coll.]
+to get a bonk on the nose
+to get crapped on [vulg.]
+to get more bang for one's buck [coll.] (Brit.)
+to get spanked
+","to determine sth. | determined, determined |
+to investigate (a case) | investigated, investigated |
+to identify | identified, identified |
+to seek | sought, sought |
+to ascertain sth. | ascertained, ascertained |
+to establish sth. | established, established |
+to find sth. ⇔ out
+to detect sth. | detected, detected |
+to calculate sth. | calculated, calculated | [INSUR.]
+to investigate so. | investigated, investigated |
+so. is under investigation (over sth.)
+to go undercover
+to average | averaged, averaged |
+to calculate a price
+","to happen | happened, happened |
+to transpire | transpired, transpired | - occur
+to pass | passed, passed |
+to occur | occurred, occurred |
+to come about
+to go on
+to filter (sth.) | filtered, filtered |
+to negotiate sth. | negotiated, negotiated | - successfully get over sth.
+to sieve sth. | sieved, sieved |
+to pass sth. through a sieve [COOK.]
+to strain sth. | strained, strained | - sieve, screen [COOK.]
+to come to pass archaic
+to see to it that sth. happens
+to recur | recurred, recurred |
+","to belaborAE / belabourBE | belabored, belabored / belaboured, belaboured |
+to fire at so./sth.
+to shell | shelled, shelled | [MIL.]
+to strafe | strafed, strafed | [MIL.]
+to pound | pounded, pounded |
+","to light sth. | lighted/lit, lighted/lit |
+to light up
+to enkindle | enkindled, enkindled |
+to strike | struck, struck/stricken |
+to inflame | inflamed, inflamed |
+to ignite sth. | ignited, ignited |
+to kindle sth. | kindled, kindled |
+to set fire to sth.
+to set light to sth.
+to light up sth. - cigar, cigarette
+to fire | fired, fired | [TECH.]
+to set sth. alight [TECH.]
+to discharge a shot [TECH.]
+to set off [TECH.]
+","to raise | raised, raised |
+to mount | mounted, mounted |
+to build sth. | built, built |
+to construct sth. | constructed, constructed |
+to establish | established, established |
+to form | formed, formed |
+to incorporate | incorporated, incorporated |
+to pitch | pitched, pitched |
+to site | sited, sited |
+to institute | instituted, instituted |
+to charter | chartered, chartered |
+to erect sth. | erected, erected |
+to plant sth. | planted, planted | - a e.g. colony, community
+to put sth. ⇔ up
+","to gab | gabbed, gabbed |
+to gab | gabbed, gabbed |
+to gab | gabbed, gabbed |
+to gab | gabbed, gabbed |
+to give so. sth. (or: sth. to so.) | gave, given |
+to bestow sth. on (or: upon) so.
+to grant so. sth. (or: sth. to so.) | granted, granted |
+to endow so. with sth.
+to lend so. sth. (or: sth. to so.) | lent, lent |
+to deal | dealt, dealt | - cards
+to utter sth. | uttered, uttered |
+to pay attention (to so./sth.)
+to announce sth. | announced, announced |
+to disclose sth. | disclosed, disclosed |
+","to explain | explained, explained |
+to clue so. in (on about (or: on) sth.) (Amer.)
+to clue so. up (about (or: on) sth.) (Brit.)
+to fill so. ⇔ in (on sth.)
+to clear sth. ⇔ up
+to clarify sth. | clarified, clarified |
+to elucidate sth. | elucidated, elucidated |
+to reconnoiterAE / reconnoitreBE sth. | reconnoitered, reconnoitered / reconnoitred, reconnoitred |
+to tell so. about the birds and the bees
+to illuminate (or: illumine) so./sth. | illuminated, illuminated / illumined, illumined |
+to clear up
+to throw light on sth. [fig.]
+to enlighten so. | enlightened, enlightened | [fig.]
+to know the facts of life
+","to condemn so./sth. | condemned, condemned |
+to convict so. (of sth.) | convicted, convicted |
+to trounce | trounced, trounced | - rebuke
+to denunciate | denunciated, denunciated |
+to doom | doomed, doomed |
+to deplore sth. | deplored, deplored |
+to damn sth. | damned, damned |
+to censure sth. | censured, censured |
+to denounce so./sth. (as sth.) | denounced, denounced |
+to adjudge | adjudged, adjudged | [LAW]
+to sentence so. (to sth.) | sentenced, sentenced | [LAW]
+to pass sentence on so. [LAW]
+to convince | convinced, convinced | archaic
+to be sentenced to sth.
+","to stop | stopped, stopped |
+to finish | finished, finished |
+to end | ended, ended |
+to cease (from sth.) | ceased, ceased |
+to break up - schools (Brit.)
+to break off
+to desist | desisted, desisted |
+to drop out
+to call it quits
+to terminate | terminated, terminated |
+to quit (sth.) | quit/quitted, quit/quitted | [coll.] chiefly (Amer.)
+to pack up (Brit.) [coll.]
+to belay | belayed, belayed | - usually in the imperative [NAUT.]
+to surcease (sth.) | surceased, surceased | archaic
+","to mobilizeAE | mobilized, mobilized / mobilised, mobilised | also [FINAN.][MIL.]to mobiliseBE / mobilizeBE also [FINAN.][MIL.]
+to stir so. into action
+to activate sth. | activated, activated |
+to energizeAE so./sth. to energiseBE / energizeBE so./sth. | energized, energized / energised, energised |
+to make liquid [FINAN.]
+to make sth. available [FINAN.]
+to rally supporters
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -2888,6 +3217,297 @@ falsch erzählen
 etw.acc. zu Ende erzählen
 Märchen erzählen [fig.]
 jmdm. erzählen, was man über jmdn./etw. weiß
+","(gegen etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+(mit jmdm. um etw.acc.) kämpfen | kämpfte, gekämpft |
+(gegen jmdn./etw.) kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+um etw.acc. kämpfen | kämpfte, gekämpft |
+","beschießen | beschoss, beschossen |
+jmdn./etw. beschießen | beschoss, beschossen |
+beschießen | beschoss, beschossen | - mit Granaten
+beschießen | beschoss, beschossen |
+ununterbrochen beschießen
+","(vor jmdm./etw.) fliehen | floh, geflohen |
+(aus etw.dat.) fliehen | floh, geflohen |
+fliehen | floh, geflohen |
+fliehen | floh, geflohen |
+etw.acc. fliehen | floh, geflohen | [form.]
+etw.acc. fliehen | floh, geflohen | [form.]
+fliehen | floh, geflohen |
+fliehen | floh, geflohen |
+","schießen | schoss, geschossen |
+schießen | schoss, geschossen |
+etw.acc. schießen | schoss, geschossen | - Ball
+schießen | schoss, geschossen | - aus dem Hinterhalt
+etw.acc. schießen | schoss, geschossen |
+schießen | schoss, geschossen | - Salat
+auf jmdn./etw. schießen | schoss, geschossen |
+auf jmdn./etw. schießen | schoss, geschossen |
+mit etw.dat. schießen | schoss, geschossen |
+ein Tor schießen
+aufgelegt schießen
+Salven schießen
+ein Tor schießen
+zu tief schießen
+","etw.nom. liegt an etw.dat. infinitive: liegen
+etw.nom. liegt jmdm. fern infinitive: fernliegen
+liegen | lag, gelegen |
+liegen | lag, gelegen |
+liegen | lag, gelegen | - Stadt, Ort, etc.
+an jmdm./etw. liegen | lag, gelegen |
+an jmdm./etw. liegen | lag, gelegen |
+hinter jmdm./etw. liegen | lag, gelegen |
+bei jmdm. liegen | lag, gelegen |
+vor jmdm. liegen | lag, gelegen |
+auf etw.dat. liegen | lag, gelegen |
+beiderseits von etw.dat. liegen | lag, gelegen |
+bei jmdm. liegen | lag, gelegen | [fig.]
+hinter jmdm./etw. liegen | lag, gelegen |
+","(etw.acc.) versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+jmdn. versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+sichacc. in etw.dat. versuchen | versuchte, versucht |
+sichacc. an etw.dat. versuchen | versuchte, versucht |
+sichacc. in etw.acc. versuchen | versuchte, versucht |
+","jmdn. töten | tötete, getötet |
+jmdn. töten | tötete, getötet |
+jmdn. töten | tötete, getötet |
+jmdn. töten | tötete, getötet | - mit dem Schwert
+jmdn./etw. töten | tötete, getötet |
+jmdn./etw. töten | tötete, getötet |
+jmdm. den Nerv töten
+jmdn. durch Stromschlag töten
+durch einen Stromschlag getötet werden
+","jmdn. erschießen | erschoss, erschossen |
+jmdn. erschießen | erschoss, erschossen |
+","sehen | sah, gesehen |
+etw.acc. sehen | sah, gesehen | - im Fernsehen
+etw.acc. sehen | sah, gesehen |
+sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdm./etw. ähnlich sehen
+sichdat. ähnlich sehen
+nach jmdm. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+um sichacc. sehen
+auf etw.acc. sehen | sah, gesehen |
+sehen lassen
+","richten | richtete, gerichtet | - nach, auf
+etw.acc. richten | richtete, gerichtet |
+etw.acc. richten | richtete, gerichtet |
+jmdn. richten | richtete, gerichtet | [form.]
+sichacc. nach etw.dat. richten | richtete, gerichtet |
+richten | richtete, gerichtet |
+richten | richtete, gerichtet |
+richten | richtete, gerichtet |
+richten | richtete, gerichtet |
+richten | richtete, gerichtet |
+etw.acc. richten | richtete, gerichtet |
+etw.acc. richten | richtete, gerichtet |
+etw.acc. richten | richtete, gerichtet |
+etw.acc. richten | richtete, gerichtet |
+","schießen | schoss, geschossen |
+schießen | schoss, geschossen |
+etw.acc. schießen | schoss, geschossen | - Ball
+schießen | schoss, geschossen | - aus dem Hinterhalt
+etw.acc. schießen | schoss, geschossen |
+schießen | schoss, geschossen | - Salat
+auf jmdn./etw. schießen | schoss, geschossen |
+auf jmdn./etw. schießen | schoss, geschossen |
+mit etw.dat. schießen | schoss, geschossen |
+ein Tor schießen
+aufgelegt schießen
+Salven schießen
+ein Tor schießen
+zu tief schießen
+","(etw.acc.) fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+mit dem Bus/Zug/Auto/... fahren
+nach links fahren | fuhr, gefahren |
+über etw.acc. fahren | fuhr, gefahren |
+fahren | fuhr, gefahren | - Bergmann
+fahren | fuhr, gefahren | - Bergmann
+fahren | fuhr, gefahren | - z. B. ein Bohrlochlog
+Auto fahren
+","(etw.acc.) hören | hörte, gehört |
+hören | hörte, gehört |
+etw.acc. hören | hörte, gehört |
+hören | hörte, gehört |
+jmdn. hören | hörte, gehört |
+hören | hörte, gehört |
+von jmdm. hören | hörte, gehört |
+auf jmdn. hören | hörte, gehört |
+auf jmdn. hören | hörte, gehört |
+auf jmdn. hören | hörte, gehört |
+von etw.dat. hören | hörte, gehört |
+von jmdm./etw. hören | hörte, gehört |
+etw.nom. hört sichacc. gut/schlecht/interessant/... an infinitive: sich anhören
+etw.nom. gehört jmdm. infinitive: gehören
+","etw.acc. (von jmdm.) kriegen | kriegte, gekriegt | [coll.]
+jmdn. kriegen | kriegte, gekriegt |
+etw.acc. durch etw.acc. kriegen | kriegte, gekriegt |
+(mit jmdm./etw.) Ärger kriegen
+Zustände kriegen
+einen Strafzettel kriegen
+eine Erkältung kriegen
+Stütze kriegen [coll.]
+ein Baby kriegen [coll.]
+ein Kind kriegen [coll.]
+einen Koller kriegen [coll.]
+etw.acc. in die Finger kriegen [coll.]
+jmdn. ins Bett kriegen [coll.]
+einen auf die Gurke kriegen [coll.]
+einen Anschiss kriegen
+mehr für sein Geld kriegen
+den Hintern voll kriegen [coll.]
+","etw.acc. ermitteln | ermittelte, ermittelt |
+(in einem Fall) ermitteln | ermittelte, ermittelt |
+ermitteln | ermittelte, ermittelt |
+ermitteln | ermittelte, ermittelt |
+etw.acc. ermitteln | ermittelte, ermittelt |
+etw.acc. ermitteln | ermittelte, ermittelt |
+etw.acc. ermitteln | ermittelte, ermittelt |
+etw.acc. ermitteln | ermittelte, ermittelt |
+etw.acc. ermitteln | ermittelte, ermittelt |
+gegen jmdn. ermitteln | ermittelte, ermittelt |
+gegen jmdn. wird (wegen einer Sachegen.) ermittelt
+verdeckt ermitteln
+den Durchschnitt ermitteln
+einen Preis ermitteln
+","passieren | passierte, passiert |
+passieren | passierte, passiert |
+passieren | passierte, passiert |
+passieren | passierte, passiert |
+passieren | passierte, passiert |
+passieren | passierte, passiert |
+(etw.acc.) passieren | passierte, passiert |
+etw.acc. passieren | passierte, passiert | - Straße, Fluss etc.
+etw.acc. passieren | passierte, passiert |
+etw.acc. passieren | passierte, passiert |
+etw.acc. passieren | passierte, passiert | - kochen
+passieren | passierte, passiert |
+sicherstellen, dass etw.nom. passiert
+wieder passieren
+","beschießen | beschoss, beschossen |
+jmdn./etw. beschießen | beschoss, beschossen |
+beschießen | beschoss, beschossen | - mit Granaten
+beschießen | beschoss, beschossen |
+ununterbrochen beschießen
+","etw.acc. anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet | - Zigarre, Zigarette
+anzünden | zündete an, angezündet |
+etw.acc. anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+anzünden | zündete an, angezündet |
+","errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+etw.acc. errichten | errichtete, errichtet |
+etw.acc. errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet |
+errichten | errichtete, errichtet | - durch Charta
+etw.acc. errichten | errichtete, errichtet |
+etw.acc. errichten | errichtete, errichtet |
+etw.acc. errichten | errichtete, errichtet |
+","quasseln | quasselte, gequasselt |
+schwatzen | schwatzte, geschwatzt |
+plappern | plapperte, geplappert |
+quatschen | quatschte, gequatscht |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+jmdm. etw.acc. geben | gab, gegeben |
+etw.dat. etw.acc. geben | gab, gegeben |
+geben | gab, gegeben | [Card Games]
+etw.acc. von sichdat. geben | gab, gegeben |
+(auf jmdn./etw.) achtgeben or: Acht geben | gab acht, achtgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+etw.acc. bekanntgeben or: bekannt geben | gab bekannt, bekanntgegeben |
+","aufklären | klärte auf, aufgeklärt |
+jmdn. (über etw.acc.) aufklären | klärte auf, aufgeklärt |
+jmdn. (über etw.acc.) aufklären | klärte auf, aufgeklärt |
+jmdn. (über etw.acc.) aufklären | klärte auf, aufgeklärt |
+etw.acc. aufklären | klärte auf, aufgeklärt |
+etw.acc. aufklären | klärte auf, aufgeklärt |
+etw.acc. aufklären | klärte auf, aufgeklärt |
+etw.acc. aufklären | klärte auf, aufgeklärt |
+jmdn. aufklären | klärte auf, aufgeklärt |
+jmdn./etw. aufklären | klärte auf, aufgeklärt |
+sichacc. aufklären | klärte auf, aufgeklärt |
+etw.acc. aufklären | klärte auf, aufgeklärt |
+jmdn. aufklären | klärte auf, aufgeklärt |
+aufgeklärt sein
+","jmdn./etw. verurteilen | verurteilte, verurteilt |
+jmdn. (wegen einer Sachegen.) verurteilen | verurteilte, verurteilt |
+verurteilen | verurteilte, verurteilt |
+verurteilen | verurteilte, verurteilt |
+verurteilen | verurteilte, verurteilt |
+etw.acc. verurteilen | verurteilte, verurteilt |
+etw.acc. verurteilen | verurteilte, verurteilt |
+etw.acc. verurteilen | verurteilte, verurteilt |
+jmdn./etw. (als etw.acc.) verurteilen | verurteilte, verurteilt |
+verurteilen | verurteilte, verurteilt |
+jmdn. (zu etw.dat.) verurteilen | verurteilte, verurteilt |
+jmdn. verurteilen | verurteilte, verurteilt |
+verurteilen zu | verurteilte, verurteilt | - Antrag
+zu etw.dat. verurteilt werden
+","aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+(mit etw.dat.) aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+(mit etw.dat.) aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+aufhören | hörte auf, aufgehört |
+(mit etw.dat.) aufhören | hörte auf, aufgehört |
+","mobilisieren | mobilisierte, mobilisiert |
+jmdn. mobilisieren | mobilisierte, mobilisiert |
+etw.acc. mobilisieren | mobilisierte, mobilisiert |
+jmdn./etw. mobilisieren | mobilisierte, mobilisiert |
+mobilisieren | mobilisierte, mobilisiert |
+etw.acc. mobilisieren | mobilisierte, mobilisiert |
+Unterstützer mobilisieren
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -3288,7 +3908,61 @@ machine vision [TECH.]
 mesopic vision [MED.]
 ",,,"relation
 telling
-"
+",,,,"floor
+storyAE / storeyBE
+bullet
+level
+missile
+projectile of a fire arm
+shot
+projectile [MIL.]
+projectile [MIL.]
+storyAE / storeyBE
+bullet
+floor
+level
+missile
+",,"sampling
+attempt
+experiment
+shot [coll.]
+trial [TECH.]
+test also [TECH.]
+try - pl.: tries
+essay
+running
+trying
+effort
+test phase [TECH.]
+trial and error
+attempt at blackmail
+",,,,,,,"hearing
+spatial hearing
+binaural hearing [PHYSIOL.]
+binaural hearing [PHYSIOL.]
+plastic hearing [TECH.]
+acute hearing [MED.]
+direct read after write [abbr.: DRAW] [TECH.]
+",,"observed data
+measured aggregate breaking force [TECH.]
+measured aggregate breaking load [TECH.]
+aggregate tensile strength [TECH.]
+measured spinning loss factor [TECH.]
+computed value
+calculated load value [TECH.]
+maximum experimental safe gap [abbr.: MESG] [ELEC.]
+rotation property [TECH.]
+rotational property [TECH.]
+",,,,"physical structure erected on the plot
+","gab
+gab [TECH.]
+gift of the gab
+","enlightened marketing
+explained variance [ENV.]
+","lifer - a person serving a life sentence [coll.]
+","cessation
+break [TECH.]
+",
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -3688,7 +4362,61 @@ maschinelles Sehen
 mesopisches Sehen [Ophthalmology]
 ",,,"das Erzählen no plural
 das Erzählen no plural
-"
+",,,,"das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoss pl.: die Geschosse
+das Geschoß pl.: die Geschoße (Austria)
+das Geschoß pl.: die Geschoße (Austria)
+das Geschoß pl.: die Geschoße (Austria)
+das Geschoß pl.: die Geschoße (Austria)
+das Geschoß pl.: die Geschoße (Austria)
+das Geschoß pl.: die Geschoße (Austria)
+",,"das Versuchen no plural
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+der Versuch pl.: die Versuche
+Versuch und Irrtum
+Versuch der Erpressung
+",,,,,,,"das Hören no plural
+räumliches Hören
+binaurales Hören
+beidohriges Hören
+plastisches Hören
+scharfes Hören
+das Hinter-Band-Hören no plural
+",,"ermittelte Daten
+ermittelte Bruchkraft [Hoisting Technology]
+ermittelte Bruchkraft [Hoisting Technology]
+ermittelte Festigkeit [Hoisting Technology]
+ermittelter Verseilfaktor [Hoisting Technology]
+rechnerisch ermittelter Wert
+rechnerisch ermittelte Motorlast
+experimentell ermittelte Grenzspaltweite
+drehbar ermittelter Winkelwert
+drehbar ermittelter Winkelwert
+",,,,"errichtete bauliche Anlage
+","das Mundwerk pl.: die Mundwerke
+die Gabel pl.: die Gabeln
+die Redegabe pl.: die Redegaben
+","aufgeklärtes Marketing
+aufgeklärte Varianz
+","zu lebenslänglicher Haft Verurteilter
+","das Aufhören no plural
+das Aufhören no plural
+",
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -4037,8 +4765,62 @@ genus: NEUT
 plural: plural
 meaning: relation
 telling
-"
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,"article: Das
+word: Geschoss
+genus: NEUT
+plural: Geschosse
+meaning: floor
+storyAE / storeyBE
+",,"article: Der
+word: Versuch
+genus: NEUT
+plural: Versuche
+meaning: sampling
+attempt
+",,,,,,,"article: Das
+word: Hören
+genus: NEUT
+plural: plural
+meaning: hearing
+spatial hearing
+",,"article: ermittelte
+word: Daten
+genus: 
+plural: Daten
+meaning: observed data
+measured aggregate breaking force [TECH.]
+",,,,"article: errichtete
+word: bauliche
+genus: 
+plural: Anlage
+meaning: physical structure erected on the plot
+
+","article: das
+word: Mundwerk
+genus: NEUT
+plural: die Mundwerke
+meaning: gab
+gab [TECH.]
+","article: aufgeklärtes
+word: Marketing
+genus: 
+plural: Marketing
+meaning: enlightened marketing
+explained variance [ENV.]
+","article: zu
+word: lebenslänglicher
+genus: 
+plural: Verurteilter
+meaning: lifer - a person serving a life sentence [coll.]
+
+","article: das
+word: Aufhören
+genus: NEUT
+plural: plural
+meaning: cessation
+break [TECH.]
+",
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -4318,7 +5100,33 @@ otherwise identified
 ","by sight
 apparitional adj.
 pleasing to the eye
-",,,
+",,,,,,,"shot adj. [TECH.]
+",,"as an experiment
+tentative adj.
+experimental adj.
+experimental adj.
+","killed adj.
+",,,,,,"pleasing to the ear
+",,"determined adj.
+ascertained adj.
+","as usually happens
+as though nothing had happened
+",,"lighted adj.
+lit - safety lamp adj.
+","constructed adj.
+constituted adj.
+erected adj.
+newly constructed
+",,"enlightened adj. [PHILOS.]
+","condemned adj.
+convicted adj.
+uncondemned adj.
+finally convicted
+foredoomed adj.
+fated to die
+reduced to inaction
+reduced to inaction
+",,
 adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -4598,7 +5406,33 @@ auf irgendeine andere Art kenntlich gemacht
 ","vom Sehen
 zu sehen
 angenehm zu sehen
-",,,
+",,,,,,,"geschossen - Prospektionsseismik
+",,"als Versuch
+Versuchs...
+Versuchs...
+auf Versuchen aufgebaut
+","getötet
+",,,,,,"angenehm zu hören
+",,"ermittelt
+ermittelt
+","wie es gewöhnlich passiert
+als ob nichts passiert wäre
+",,"angezündet
+angezündet
+","errichtet
+errichtet
+errichtet
+neu errichtet
+",,"aufgeklärt
+","verurteilt
+verurteilt
+nicht verurteilt
+rechtskräftig verurteilt
+zum Scheitern verurteilt
+zum Tode verurteilt
+zur Tatenlosigkeit verurteilt
+zur Untätigkeit verurteilt
+",,
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -5278,7 +6112,132 @@ Pleased to meet you.
 ","Tell that to the Marines!
 You're telling me!
 Tell us another!
-"
+","to pull no punches
+to fight to the last
+",,,"(as) quick as a shot
+Hold your fire!
+to pull a boner [coll.] [fig.]
+to drop a clanger [coll.]
+to boob | boobed, boobed | (Brit.) [coll.]
+to make a boob (Brit.) [coll.]
+to shoot oneself in the foot [fig.]
+we are not that quick on the trigger
+to break a fly on the wheel [fig.]
+to crack a nut with a sledgehammer [fig.]
+to break a butterfly on a wheel [fig.]
+","sth. is on the tip of so.'s tongue
+the world is so.'s oyster.
+sth. is in the air.
+In wine there is truth.
+That's the crux of the matter.
+That's the real reason.
+That's what's causing it.
+Beauty is in the eye of the beholder.
+As you make your bed, so you must lie in (or: on) it.
+You made your bed, now sleep in it.
+As one makes his bed, so he must lie.
+What seems to be the trouble?
+The streets are paved with gold.
+Every cloud has a silver lining.
+","to put one's best foot forward
+You'll never know until you try.
+learning by doing
+all attempts were in vain
+","if looks could kill
+Thou shalt not kill. - one of the ten commandments [REL.]
+",,"See you!
+That's just like him.
+It sticks out a mile!
+it's as plain as the nose on your face
+Butter wouldn't melt in her mouth.
+That's about the size of it. (Amer.) [coll.]
+to see stars
+to see behind the curtain [fig.]
+to be in over one's head
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+not to see the wood for the trees chiefly (Brit.)
+not to see the forest for the trees chiefly (Amer.)
+Let's face the facts.
+Let us face the facts.
+",,"Hold your fire!
+to pull a boner [coll.] [fig.]
+to drop a clanger [coll.]
+to boob | boobed, boobed | (Brit.) [coll.]
+to make a boob (Brit.) [coll.]
+to shoot oneself in the foot [fig.]
+we are not that quick on the trigger
+to break a fly on the wheel [fig.]
+to crack a nut with a sledgehammer [fig.]
+to break a butterfly on a wheel [fig.]
+","What time is the last train?
+to cut the cheese [coll.] (Brit.) - break wind
+to blow off [coll.] (Brit.) - break wind
+Slow down!
+to save shoe leather [fig.]
+to blow one's top [coll.]
+to hit the roof [fig.] [coll.]
+to fly off the handle [fig.]
+to go up the wall [coll.]
+to go through the roof [coll.]
+to hit the ceiling [coll.]
+to be a speed merchant (Brit.)
+to get things into a mess
+","This is something I like!
+Take my advice!
+I say!
+Don't be a stranger.
+Don't be a stranger.
+It's so quiet you could hear a pin drop.
+to hear wedding bells [fig.]
+to read too much into things
+to have a sixth sense
+to trust one's gut (or: guts) [fig.]
+Hear, hear!
+Hear ye! archaic
+Now you're talking!
+That beats everything.
+mirabile dictu Latin
+","You couldn't organise a piss-up in a brewery! [coll.] (Brit.)
+You couldn't organise a piss-up in a brewery! [coll.] (Brit.)
+You'll get a clip around the lughole. [coll.](Brit.)
+Blow me! [coll.]
+to get one's act together
+to have kittens (Brit.) [coll.]
+to have a cow (Amer.) [coll.]
+to get cold feet [fig.]
+to get the heebie-jeebies [coll.]
+to get hot under the collar
+to be at loggerheads (with so.)
+to get one's just deserts
+to receive one's just deserts
+to take sth. the wrong way
+to get it in the neck [coll.]
+to catch hell (from so.) [coll.] [fig.]
+",,"no matter what happens
+no matter what happens
+no matter what happens
+What happens next?
+something has to give
+something's got to give
+",,,"to build castles in the air [fig.]
+","That clinched it for him.
+He indulged her every whim.
+the gift of the gab
+the gift of the gab
+the gift of the gab
+whistle for attention
+to turn tail and run
+to have so.'s back
+to give so. their marching orders
+to give so./sth. a boot
+to throw in the towel [fig.]
+to turn so. down
+to rebuff so. | rebuffed, rebuffed |
+to throw in the towel [SPORT.]
+",,"to be dead in the water [coll.] [fig.] - destined for failure
+to railroad so. | railroaded, railroaded | (Amer.)[fig.]
+","to get off the piss [vulg.] (Brit.)
+",
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -5958,7 +6917,132 @@ Es freut mich, Sie kennenzulernen (or: kennen zu lernen).
 ","Das kannst du deiner Großmutter erzählen!
 Wem erzählen Sie das!
 Das können Sie uns nicht erzählen!
-"
+","mit harten Bandagen kämpfen [fig.]
+bis zum bitteren Ende kämpfen [fig.]
+",,,"wie aus der Pistole geschossen
+Nicht schießen!
+einen Bock schießen [fig.] [coll.]
+einen Bock schießen [fig.] [coll.] - Fauxpas
+einen Bock schießen [fig.] [coll.] - Fauxpas
+einen Bock schießen [fig.] [coll.] - Fauxpas
+sichacc. ins Knie schießen [fig.]
+so schnell schießen die Preußen nicht
+mit Kanonen auf Spatzen schießen [fig.]
+mit Kanonen auf Spatzen schießen [fig.]
+mit Kanonen auf Spatzen schießen [fig.]
+","etw.nom. liegt jmdm. auf der Zunge infinitive: liegen
+jmdm. liegt die Welt zu Füßen
+etw. liegt in der Luft.
+Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
+Da liegt der Hund begraben.
+Da liegt der Hund begraben.
+Da liegt der Hund begraben.
+Schönheit liegt im Auge des Betrachters.
+Wie man sich bettet, so liegt man.
+Wie man sich bettet, so liegt man.
+Wie man sich bettet, so liegt man.
+Wo liegt das Problem?
+Das Geld liegt auf der Straße.
+In allem Schlechten liegt das Gute im Ansatz schon verborgen.
+","sein Bestes versuchen
+Versuch macht klug.
+Versuch macht klug
+alle Versuche waren vergeblich
+","wenn Blicke töten könnten
+Du sollst nicht töten.
+",,"Man sieht sich!
+Das sieht ihm ganz ähnlich.
+Das sieht ein Blinder mit Krückstock!
+das sieht doch ein Blinder mit dem Krückstock!
+Sie sieht aus, als könne sie kein Wässerchen trüben.
+So ungefähr sieht's aus.
+Sterne sehen [coll.] [fig.]
+hinter den Vorhang sehen [fig.]
+kein Land mehr sehen können
+die Dinge durch die rosarote Brille sehen
+den Wald vor lauter Bäumen nicht sehen
+den Wald vor lauter Bäumen nicht sehen
+Wir wollen den Tatsachen ins Auge sehen.
+Wir wollen den Tatsachen ins Auge sehen.
+",,"Nicht schießen!
+einen Bock schießen [fig.] [coll.]
+einen Bock schießen [fig.] [coll.] - Fauxpas
+einen Bock schießen [fig.] [coll.] - Fauxpas
+einen Bock schießen [fig.] [coll.] - Fauxpas
+sichacc. ins Knie schießen [fig.]
+so schnell schießen die Preußen nicht
+mit Kanonen auf Spatzen schießen [fig.]
+mit Kanonen auf Spatzen schießen [fig.]
+mit Kanonen auf Spatzen schießen [fig.]
+","Wann fährt der letzte Zug?
+einen fahren lassen [fig.]
+einen fahren lassen
+Langsamer fahren!
+lieber fahren - statt zu laufen
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren
+aus der Haut fahren
+wie eine gesengte Sau fahren [coll.]
+den Karren in den Dreck fahren [fig.]
+","Das lässt sich hören!
+Hören Sie auf meinen Rat!
+Hören Sie mal!
+Lass mal wieder was von dir hören.
+Lass von dir hören.
+Es ist so still, dass man eine Stecknadel fallen hören könnte.
+die Hochzeitsglocken läuten hören [fig.]
+das Gras wachsen hören [coll.]
+das Gras wachsen hören [coll.]
+auf sein Bauchgefühl hören
+Hört, hört!
+Hört, hört!
+Das hört sich schon besser an!
+Da hört alles auf!
+man höre und staune
+","Du kriegst ja gar nichts gebacken!
+Du kriegst aber auch nichts auf die Reihe!
+Du kriegst gleich was hinter die Löffel! [coll.]
+Du kriegst die Motten! [sl.]
+die Kurve kriegen
+Zustände kriegen [coll.]
+Zustände kriegen [coll.]
+Manschetten kriegen [coll.]
+das Fracksausen kriegen [coll.]
+die Wut kriegen [fig.]
+sichacc. (mit jmdm.) in die Haare kriegen [coll.]
+sein Fett kriegen
+sein Fett kriegen
+etw.acc. in den falschen Hals kriegen
+eins aufs Dach kriegen [coll.]
+(von jmdm.) eins aufs Dach kriegen
+",,"egal, was passiert
+ganz gleich, was passiert
+ganz egal, was passiert
+Was passiert als Nächstes?
+es muss endlich etwas passieren
+es muss endlich etwas passieren
+",,,"Luftschlösser errichten [fig.]
+","Das gab bei ihm den Ausschlag.
+Er gab jeder ihrer Launen nach.
+ein flottes Mundwerk
+ein gesundes Mundwerk
+ein gutes Mundwerk
+Achtungssignal geben
+Fersengeld geben
+jmdm. Rückendeckung geben
+jmdm. den Laufpass geben
+jmdm./etw. einen Tritt geben
+sichacc. geschlagen geben
+jmdm. einen Korb geben [fig.]
+jmdm. einen Korb geben [fig.]
+sichacc. geschlagen geben [Boxing]
+",,"zum Scheitern verurteilt sein
+jmdn. zu Unrecht verurteilen
+","mit dem Saufen aufhören [coll.]
+",
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -6712,7 +7796,105 @@ I am very pleased to hear that ...
 He didn't have the guts to tell his mother. [coll.]
 When I told her my problems, she was very sympathetic.
 When I told her my problems, she was very sympathetic.
-"
+","Turkey battles to repatriate antiquities.
+",,,"a certain level
+He breaks a fly on the wheel.
+Blood surged to his face.
+A thought crossed my mind.
+","this is due to ...
+This is due to technical difficulties.
+That dates back several years.
+This isn't everybody's job.
+This is due to the fact that I can't speak French.
+That is outside our remit. [form.]
+It lies with you to do it.
+It is for you to decide
+It rests with you
+It stands in your power
+Far be it from me to deny it
+Cheating is foreign to his nature.
+Constant out of range.
+It's up to him.
+","Who wants to have a go?
+should endeavorAE to ascertain the reasonsshould endeavourBE to ascertain the reasons
+Please try to make an attractive offer.
+Please try to ...
+He didn't even begin to try.
+He tried to palm it off on me.
+He tried to save his bacon.
+should discourage any attempt to
+an attempt to include ...
+All attempts were in vain.
+All attempts were to no avail.
+","he ended up being killed
+",,"That's just like you.
+That's very unlike him.
+Trust your mother/the Germans/the neighbours/...!
+She doesn't look her age.
+She looks as if butter wouldn't melt in her mouth.
+he looks darned well
+Which dress looks better?
+Which looks better?
+He bears his age well.
+It looks like rain.
+It looks like snow.
+It seems as if ...
+The whole thing looks fishy.
+You can't see your hand in front of your face.
+","terms are based upon
+he aimed the binoculars at the ship
+","He breaks a fly on the wheel.
+Blood surged to his face.
+A thought crossed my mind.
+","the train leaves at 2 pm
+the train arrives at platform 3
+How frequently does the tram service run to the train station?
+Nothing will prevent my going to Edinburgh.
+Let's go to London.
+ships sail from Bremerhaven
+They are bound southward.
+Where are you bound for?
+What car do they drive?
+She backed into me.
+I'll be off then infinitive: be off
+I'll leave at quarter to.
+He went on a two-day visit to Munich.
+The car drove without lights and on the wrong side of the road.
+The car backed into the garage.
+","she's not having any of it
+I won't hear of it.
+disagreeable to hear
+I'm relieved to hear that.
+She's fishing for compliments.
+I am very pleased to hear that ...
+I don't like the sound of this.
+I chanced to hear it.
+She listened in silence.
+He ceases to represent our company.
+The rain passed off.
+I seem to hear voices.
+unless I hear to the contrary
+I like the sound of your plan.
+I like the sound of your plan.
+He was very restrained when he heard the news.
+That sounds like a good idea to me!
+","I still owe you for the ticket.
+",,,,,,"she said yes
+He made no reply.
+He gave in gracefully.
+There were presents galore.
+hot water was only available intermittently
+rumorsAE aboundedrumoursBE abounded
+I did my best
+she did her best
+She tried hard.
+Both of the answers she gave were wrong.
+He tried hard.
+She gave herself up to him.
+There wasn't much alcohol at the party as such, but what was there was very potent.
+The car conked out.
+",,"He was sentenced to six months in prison.
+",,
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
 Er wohnt bei mir.
@@ -7466,4 +8648,102 @@ Es freut mich sehr zu hören, dass ...
 Er traute sich nicht, es seiner Mutter zu erzählen.
 Als ich ihr von meinen Sorgen erzählte, war sie sehr mitfühlend.
 Als ich ihr von meinen Sorgen erzählte, war sie sehr verständnisvoll.
-"
+","Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
+",,,"ein bestimmtes Geschoss
+Er schießt mit Kanonen auf Spatzen.
+Das Blut schoss ihm ins Gesicht.
+Ein Gedanke schoss mir durch den Kopf.
+","das liegt daran, dass ...
+Das liegt an technischen Schwierigkeiten.
+Das liegt mehrere Jahre zurück. infinitive: zurückliegen
+Das liegt nicht jedem.
+Das liegt daran, dass ich kein Französisch spreche.
+Das liegt außerhalb unseres Aufgabenbereiches.
+Es liegt an Ihnen, es zu tun.
+Es liegt bei Ihnen
+Es liegt bei Ihnen
+Es liegt bei Ihnen
+Es liegt mir fern, es zu leugnen
+Betrug liegt ihm fern.
+Die Konstante liegt außerhalb des zulässigen Bereichs.
+Es liegt an ihm.
+","Wer will es mal versuchen?
+soll versuchen den Grund festzustellen
+Bitte versuchen Sie ein attraktives Angebot zu machen.
+Bitte versuchen Sie zu ...
+Er versuchte es nicht einmal.
+Er versuchte es mir anzudrehen.
+Er versuchte, mit heiler Haut davonzukommen.
+sollten jedem Versuch entgegentreten
+ein Versuch ..., aufzunehmen
+Alle Versuche waren vergeblich.
+Alle Versuche waren vergeblich.
+","letztendlich wurde er getötet
+",,"Das sieht dir ähnlich.
+Das sieht ihm gar nicht ähnlich.
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+Man sieht ihr ihr Alter nicht an.
+Sie sieht aus, als ob sie kein Wässerchen trüben könnte.
+er sieht verdammt gut aus
+Welches Kleid sieht besser aus?
+Welches sieht besser aus?
+Er sieht rüstig aus.
+Es sieht nach Regen aus.
+Es sieht nach Schnee aus.
+Es sieht so aus, als ob ...
+Die ganze Sache sieht verdächtig aus.
+Man sieht die Hand vor den Augen nicht.
+","die Laufzeiten richten sich nach
+er richtete das Fernglas auf das Schiff
+","Er schießt mit Kanonen auf Spatzen.
+Das Blut schoss ihm ins Gesicht.
+Ein Gedanke schoss mir durch den Kopf.
+","der Zug fährt um 14 Uhr ab
+der Zug fährt auf Gleis 3 ein
+Wie oft fährt die Straßenbahn zum Bahnhof?
+Nichts wird mich davon abhalten, nach Edinburgh zu fahren.
+Lasst uns nach London fahren.
+Schiffe fahren von Bremerhaven ab
+Sie fahren Richtung Süden.
+Wohin fahren Sie?
+Was für ein Auto fahren sie?
+Sie fuhr rückwärts in mein Auto.
+ich fahre dann mal los infinitive: losfahren
+Ich fahre um viertel vor hier los.
+Er fuhr für zwei Tage nach München.
+Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
+Das Auto fuhr rückwärts in die Garage.
+","sie will nichts davon hören
+Ich will nichts davon hören.
+bedauerlich zu hören
+Es beruhigt mich, das zu hören.
+Sie möchte gern ein Kompliment hören.
+Es freut mich sehr zu hören, dass ...
+Das hört sich nicht gut an.
+Ich hörte es zufällig.
+Sie hörte schweigend zu.
+Er hört auf, unsere Firma zu vertreten.
+Es hörte auf zu regnen.
+Mir ist, als ob ich Stimmen hörte.
+wenn ich nichts Gegenteiliges höre
+Ich finde, dein Plan hört sich gut an.
+Ich finde, Ihr Plan hört sich gut an.
+Er war sehr beherrscht, als er die Nachricht hörte.
+Ich finde, die Idee hört sich gut an!
+","Du kriegst von mir noch das Geld für die Karte.
+",,,,,,"sie gab ihm ihr Jawort
+Er gab keine Antwort.
+Er gab charmant nach. infinitive: nachgeben
+Es gab Geschenke zuhauf.
+es gab nur zeitweise heißes Wasser
+es gab zahlreiche Gerüchte
+Ich gab mein Bestes
+sie gab ihr Bestes
+Sie gab sich große Mühe.
+Beide Antworten, die sie gab, waren falsch.
+Er gab sich große Mühe.
+Sie gab sich ihm hin.
+An sich gab es nicht so viel Alkohol auf der Party, aber was da war, war sehr stark.
+Das Auto gab den Geist auf. infinitive: aufgeben
+",,"Er wurde zu sechs Monaten Haft verurteilt.
+",,

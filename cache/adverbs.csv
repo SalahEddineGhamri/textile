@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell
 basic_forms,english,,None,,"müssen : Verb
 ",,None,,None,None,None,None,"früh : Adjective
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
@@ -10,8 +10,10 @@ der Liebe : Noun
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,"spät : Adjective
 ",,,"wenig : Adjective
 ","stark : Adjective
-",,,,,,,,,
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,"schlimm : Adjective
+","viel : Adjective
+",,,,,
+basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -646,7 +648,84 @@ to have an itch to do sth.
 to be bursting to do sth.
 to ache to do sth.
 to be bent on doing sth.
-",
+",,"to haunt | haunted, haunted |
+to continually improve
+to improve continually
+to reiterate | reiterated, reiterated |
+to consistently provide
+to see-saw | see-sawed, see-sawed |
+to harass so. | harassed, harassed |
+to be always interfering
+to dog so. | dogged, dogged |
+to harp on about sth.
+to chop and change (Brit.)
+to keep so. on the go
+to hover over so.
+to have so. on one's back
+",,"to disimprove | disimproved, disimproved |
+to get worse
+to fear the worst
+to be over the hump [coll.]
+to be worse off
+to add insult to injury
+to add insult to injury
+to have a bad cold
+to be over the hump [coll.]
+","to team two or more people
+to surcharge | surcharged, surcharged |
+to outsell so. | outsold, outsold |
+to bear the brunt
+to get more display space
+to be better than one's word
+to empower so. | empowered, empowered |
+to empower so. | empowered, empowered |
+to outweigh sth. | outweighed, outweighed |
+to get more bang for one's buck [coll.] (Brit.)
+to be at a loss
+to be stuck
+to be out of favorAE to be out of favourBE
+to break down - machine
+","to have hardly got a stitch on
+not to have a prayer [coll.] [fig.]
+to be overwhelmed with work
+so. can ill afford sth.
+so. can ill afford to do sth.
+","to plunge | plunged, plunged | - price
+to slump | slumped, slumped |
+to slump | slumped, slumped |
+to swerve | swerved, swerved |
+to stop short
+to pop up
+to leap into view
+to crop up
+to lunge out
+to rise suddenly
+to surge | surged, surged |
+to crop up
+to hoick (or: hoik) sth. | hoicked, hoicked / hoiked, hoiked |
+to pounce | pounced, pounced |
+","to flinch from doing sth.
+to be on the verge of doing sth.
+","to leave so./sth. alone
+to be out on a limb [fig.]
+to be solely responsible
+to find oneself abandoned
+to monopolizeAE the conversation to monopoliseBE / monopolizeBE the conversation
+","to be quick on the uptake
+to sprint | sprinted, sprinted |
+to be quick on the uptake
+to bolt | bolted, bolted |
+to speed | sped/speeded, sped/speeded |
+to act fast
+to act without delay
+to reel | reeled, reeled |
+to pop | popped, popped |
+to step out
+to flick through sth.
+to flip through sth.
+to wheel around
+to jot sth. down
+"
 verbs,german,"alt werden
 alt werden
 sichacc. jmdm./etw. anschließen | schloss an, angeschlossen |
@@ -1281,7 +1360,84 @@ darauf brennen, etw.acc. zu tun
 darauf brennen, etw.acc. zu tun
 darauf brennen, etw.acc. zu tun
 darauf erpicht sein, etw.acc. zu tun
-",
+",,"ständig verkehren
+ständig verbessern
+ständig verbessern
+ständig wiederholen
+ständig bereitstellen
+ständig wechseln
+jmdn. ständig belästigen
+sichacc. ständig einmischen
+jmdn. ständig begleiten
+ständig über etw.acc. reden
+ständig seine Meinung wechseln
+jmdn. ständig auf (or: in) Trab halten
+sichacc. ständig in jmds. Nähe aufhalten
+jmdn. ständig im Nacken haben
+",,"schlimmer werden
+schlimmer werden
+das Schlimmste befürchten
+das Schlimmste hinter sichdat. haben [coll.]
+schlimmer dran sein
+alles noch schlimmer machen
+das Ganze noch schlimmer machen
+eine schlimme Erkältung haben
+das Schlimmste überstanden haben [coll.]
+","zwei oder mehr Personen zusammenbringen
+mehr verlangen
+mehr als jmd. verkaufen
+das meiste (or: Meiste) abbekommen
+mehr Ausstellungsraum gewinnen
+mehr tun als man verspricht
+jmdm. mehr Entscheidungsbefugnis geben
+jmdm. mehr Macht geben
+mehr Gewicht haben als etw.acc.
+mehr für sein Geld kriegen
+nicht mehr weiterwissen
+nicht mehr weiterwissen
+nicht mehr beliebt sein
+nicht mehr funktionieren
+","kaum etwas anhaben
+kaum Aussichten haben
+die Arbeit kaum bewältigen können
+jmd. kann sichdat. etw.acc. kaum leisten
+jmd. kann es sich kaum leisten, etw.acc. zu tun
+","plötzlich fallen
+plötzlich fallen
+plötzlich sinken
+plötzlich abweichen
+plötzlich anhalten
+plötzlich auftauchen
+plötzlich auftauchen
+plötzlich auftauchen
+plötzlich zuschlagen
+plötzlich ansteigen
+plötzlich ansteigen
+plötzlich auftreten
+etw.acc. plötzlich hochziehen
+sichacc. plötzlich stürzen
+","davor zurückschrecken, etw.acc. zu tun
+kurz davor sein, etw.acc. zu tun
+","jmdn./etw. allein lassen
+allein dastehen
+allein verantwortlich sein
+plötzlich allein dastehen
+das Gespräch allein bestreiten
+","schnell kapieren
+schnell laufen
+schnell begreifen
+schnell rennen
+schnell fahren
+schnell handeln
+schnell handeln
+schnell drehen
+schnell stecken
+schnell gehen
+etw.acc. (schnell) durchblättern | blätterte durch, durchgeblättert / durchblätterte, durchblättert |
+etw.acc. (schnell) durchblättern | blätterte durch, durchgeblättert / durchblätterte, durchblättert |
+sichacc. schnell umdrehen
+etw.acc. schnell hinschreiben
+"
 nouns,english,"alto [MUS.]
 contralto [MUS.]
 the elderly
@@ -1919,7 +2075,77 @@ celebrated musician
 confused positioning [COMM.]
 unclear instructions
 overs and shorts
-",,
+",,,"Standing Committee on Vaccination - in Germany
+residence
+permanent residence
+permanent residency
+place of residence
+bugbear
+permanent education
+permanent home
+flux
+constant innovation
+continual improvement
+permanent water level
+perpetual nagging
+ongoing consciousness-raising
+",,"worst case
+bad cold
+ominousness
+severe cold
+sth. will only make matters worse
+","more
+excess
+majority
+many-country version
+multiple compartment collection vehicle
+multibusiness firm [COMM.]
+several opportunities pl.
+several millions pl.
+wisdom of crowds [PSYCH.]
+sth. no longer has any effect
+low-grade ores [TECH.]
+survivorship bias [FINAN.]
+business relationships that are no longer tenable [INSUR.]
+multi-site certification
+",,"cot death (Brit.)
+crib death (Amer.)
+slump
+sunburst
+saltation
+coup de theatre
+surge
+abrupt rise
+bump
+shock
+pang of guilt
+coup de theatre
+sudden resolve
+bulge in prices
+",,"stand-alone
+single mother
+single parent
+single father
+single parent
+single parent
+functional silo [COMM.]
+breakwater [ENGIN.]
+detached mole [ENGIN.]
+","quick release valve [TECH.]
+millisecond delay electric blasting cap [TECH.]
+rapid deployment force
+snap decision
+rapid wear
+dispatch or: despatch
+priming
+cue-review playback
+splat cooling
+readiness of mind
+spin
+speedy decision
+rapid cooling
+quick fix
+"
 nouns,german,"der Alt pl.
 der Alt pl.
 die Alten pl.
@@ -2557,7 +2783,77 @@ berühmter Musiker
 unklare Positionierung
 unklare Weisungen
 Konto für unklare Posten
-",,
+",,,"Ständige Impfkommission [abbr.: STIKO] - am Robert-Koch-Institut in Deutschland
+ständiger Aufenthalt
+ständiger Wohnsitz
+ständiger Wohnsitz
+ständiger Wohnsitz
+ständiges Ärgernis
+ständige Weiterbildung
+ständige Wohnstätte
+ständige Bewegung
+ständige Innovation
+ständige Verbesserung
+ständiger Wasserspiegel
+ständiges Nörgeln
+ständiges Sensibilisieren
+",,"schlimmster Fall
+schlimme Erkältung
+schlimme Vorbedeutung
+schlimme Erkältung
+etw.nom. macht die Sache nur schlimmer
+","das Mehr pl.: die Mehre
+das Mehr no plural
+das Mehr no plural (Switzerland)
+das Mehr-Länder-Modell
+das Mehr-Kammer-Sammelfahrzeug
+das Mehr-Geschäfts-Unternehmen [abbr.: MGU]
+mehrere Gelegenheiten pl.
+mehrere Millionen pl.
+Weisheit der Vielen
+etw.nom. kommt nicht mehr zum Tragen
+nicht mehr abbauwürdige Erze [Mining]
+Nichtberücksichtigung nicht mehr Existierender
+nicht mehr tragbare Verbindungen
+Zertifizierung mehrerer Standorte
+",,"plötzlicher Kindstod
+plötzlicher Kindstod
+plötzlicher Rückgang
+plötzlicher Sonnenschein
+plötzlicher Umschwung
+plötzlicher Umschwung
+plötzlicher Anstieg
+plötzlicher Anstieg
+plötzlicher Einbruch
+plötzliche Einwirkung
+plötzliches Schuldgefühl
+plötzliche Wendung
+plötzlicher Entschluss
+plötzlicher Preisanstieg
+",,"allein operierendes Gerät
+alleinerziehende (or: allein erziehende) Mutter
+alleinerziehende (or: allein erziehende) Mutter
+alleinerziehender (or: allein erziehender) Vater
+alleinerziehender (or: allein erziehender) Vater
+alleinerziehender (or: allein erziehender) Elternteil
+allein stehende Abteilung
+allein stehender Hafendamm [Hydraulic Engineering]
+allein stehender Hafendamm [Hydraulic Engineering]
+","das Schnell-Löseventil
+der Schnell-Zeitzünder
+schnelle Eingreiftruppe
+schneller Entschluss
+schnelle Abnutzung
+schnelle Abfertigung
+schnelle Instruktion
+schneller Bildsuchlauf
+schnelles Abschrecken
+schnelle Auffassungsgabe
+schnelle Drehung
+schnelle Entscheidung
+schnelle Kühlung
+schnelle Lösung
+"
 noun_details,english,"article: Der
 word: Alt
 genus: MASC
@@ -2978,8 +3274,44 @@ genus:
 plural: Denken
 meaning: loose thinking
 confused positioning [COMM.]
-",,
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,
+",,,"article: Ständige
+word: Impfkommission
+genus: 
+plural: Deutschland
+meaning: Standing Committee on Vaccination - in Germany
+residence
+",,"article: schlimmster
+word: Fall
+genus: 
+plural: Fall
+meaning: worst case
+bad cold
+","article: Das
+word: Mehr
+genus: NEUT
+plural: die Mehre
+meaning: more
+excess
+",,"article: plötzlicher
+word: Kindstod
+genus: 
+plural: Kindstod
+meaning: cot death (Brit.)
+crib death (Amer.)
+",,"article: allein
+word: operierendes
+genus: 
+plural: Gerät
+meaning: stand-alone
+single mother
+","article: das
+word: Schnell-Löseventil
+genus: NEUT
+plural: Schnell-Löseventil
+meaning: quick release valve [TECH.]
+millisecond delay electric blasting cap [TECH.]
+"
+noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -3989,6 +4321,115 @@ so adv.
 on these grounds
 that is why
 thence adv. rare
+","constant adj.
+permanent adj.
+steady adj.
+constantly adv.
+always adv.
+running adj. - used only before noun
+regular adj.
+forever adv.
+incessant adj.
+all the time
+continual adj.
+perpetually adv.
+persistent adj.
+all along
+","anyway adv.
+in any case
+in any event
+","worse adj.
+bad - worse, worst adj.
+ill adj.
+sad adj.
+severe adj.
+evil adj.
+fatal adj.
+sore adj.
+wicked - very unpleasant adj.
+upsetting adj.
+horrendous adj.
+dire adj.
+crook adj.
+worst adj.
+","more adj. adv. pron.
+to a greater extent
+exceeding adj.
+upwards of
+more than
+much adj. adv. pron.
+plenty adj. adv.
+beaucoup adj. (Amer.)
+ample adj.
+a great deal
+a good deal
+most adv.
+numerous adj.
+most of the time - usually
+","hardly adv.
+rarely adv.
+scarcely adv.
+little - less, least adv.
+barely adv.
+marginally adv.
+excruciating adj. - extremely painful
+little-noticed adj.
+hard to please
+barely tapped
+hardly ever
+adelomorphic adj. [MED.]
+adelomorphous adj. [MED.]
+good stained
+imperceptible adj.
+hard to believe
+","suddenly adv.
+sudden adj.
+abrupt adj.
+abruptly adv.
+precipitate adj.
+short adv.
+slap-bang adj.
+hey presto [coll.]
+fulminating adj.
+fulminating adj.
+shorttaken adj.
+acute adj. [MED.]
+all at once
+all of a sudden
+surprisedly adv.
+","beforehand adv.
+before it
+prior to that
+in front
+the night before
+","alone adj.
+by oneself
+sole adj.
+on one's own
+reclusive adj.
+reclusively adv.
+unescorted adj.
+lone adj.
+single-handedly adv.
+solitarily adv.
+solitary adj.
+solus | sola adj. Latin [THEA.]
+on one's tod [sl.]
+but alas chiefly [form.] - unfortunately
+","fast adj. adv.
+quick adj.
+quickly adv.
+rapid adj.
+prompt adj.
+mobile adj.
+swift - swifter, swiftest adj.
+spanking - brisk adj.
+speedily adv.
+slippy adj.
+speedy adj.
+swiftly adv.
+chop-chop adv.
+readily adv.
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -4999,6 +5440,115 @@ deshalb
 deshalb
 deshalb adv.
 deshalb
+","ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+","sowieso
+sowieso
+sowieso
+","schlimmer
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimmster | schlimmste | schlimmstes
+","mehr
+mehr adv.
+mehr als
+mehr als
+mehr als
+viel
+viel
+viel
+viel
+viel
+(sehr) viel
+am meisten
+viele
+meist - meistens
+","kaum
+kaum
+kaum
+kaum
+kaum - nicht ganz
+kaum
+kaum auszuhalten
+kaum wahrgenommen
+kaum zufriedenzustellen
+kaum erschlossen
+kaum je
+kaum sichtbar
+kaum sichtbar
+kaum gefleckt - Industriemineral
+kaum zu erkennen
+kaum zu glauben
+","plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich adj.
+plötzlich auftretend
+plötzlich ausbrechend
+plötzlich überrumpelt
+plötzlich auftretend - z. B. Schmerzen
+ganz plötzlich
+ganz plötzlich
+ganz plötzlich
+","davor
+davor
+davor
+davor adv.
+am Abend davor
+","allein or: alleine
+allein or: alleine
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein - jedoch [form.]
+","schnell
+schnell
+schnell
+schnell
+schnell
+schnell - beweglich
+schnell
+schnell
+schnell
+schnell
+schnell
+schnell
+schnell
+schnell
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -5703,7 +6253,48 @@ there is evidence
 there is evidence to suggest
 I'm looking forward to seeing you again.
 I'm looking forward to seeing you again.
-",
+",,,,"if the worst comes to the worst
+if it comes to the pinch
+","enough and to spare
+any more
+to be all tinsel and glitter
+more bang for the buck
+All kippers and curtains. (Brit.)
+sellers over
+buyers over
+to be in a bind
+the more the merrier
+to be in over one's head
+not expected to live much longer
+to have lost one's marbles
+to be at one's wit's (or: wits') end
+past one's prime
+","to be beside oneself with joy
+to be beside oneself with anger
+to be champing at the bit to do sth. [fig.]
+to be chomping at the bit to do sth. [fig.]
+","all hell broke loose
+a sudden indisposition
+",,"the very fact
+the very thought/idea
+just for me
+Fine words butter no parsnips.
+all work and no play makes Jack a dull boy
+Home sweet home.
+It never rains but it pours.
+When it rains, it pours.
+Man does not live by (or: on) bread alone.
+","chop chop!
+chop chop!
+like the wind
+fast as the wind
+quick on the draw
+to be quick on the uptake
+we are not that quick on the trigger
+Time and tide wait for no man.
+a ready sale
+a rapid sale
+"
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -6407,7 +6998,48 @@ vieles deutet darauf hin
 vieles weist darauf hin
 Ich freue mich darauf, Dich wiederzusehen.
 Ich freue mich darauf, Sie wiederzusehen.
-",
+",,,,"im schlimmsten Fall
+wenn es zum Schlimmsten kommt
+","mehr als genug
+noch mehr
+mehr Schein als Sein sein
+mehr fürs gleiche Geld
+Mehr Schein als Sein.
+mehr Brief als Geld
+mehr Geld als Brief
+nicht mehr weiterwissen
+je mehr, desto besser
+kein Land mehr sehen können
+voraussichtlich nicht mehr lange leben
+nicht mehr alle Tassen im Schrank haben
+sichdat. keinen Rat mehr wissen
+nicht mehr in den besten Jahren
+","sichacc. vor Freude kaum mehr halten können
+sichacc. vor Zorn kaum mehr halten können
+es kaum erwarten können, etw.acc. zu tun [fig.]
+es kaum erwarten können, etw.acc. zu tun [fig.]
+","plötzlich war die Hölle los
+eine plötzliche Unpässlichkeit
+",,"die Tatsache allein
+allein schon der Gedanke/die Vorstellung
+für mich allein
+Mit Worten allein ist nicht geholfen.
+Arbeit allein macht nicht glücklich
+Trautes Heim, Glück allein.
+Ein Unglück kommt selten allein.
+Ein Unglück kommt selten allein.
+Der Mensch lebt nicht vom Brot allein.
+","Schnell!
+mach schnell!
+sehr schnell
+schnell wie der Wind
+schnell mit der Waffe
+schnell von Begriff sein
+so schnell schießen die Preußen nicht
+Eine verpasste Gelegenheit kommt nicht so schnell wieder.
+ein schneller Absatz
+ein schneller Verkauf
+"
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -7153,6 +7785,66 @@ It is imperative to take control.
 The smart money is on him winning.
 ","We would therefore recommend that ...
 He only says money's not important because he's got plenty.
+","he must always butt in
+an ever increasing number
+in a constant state of flux
+although constantly expanding
+Where is your permanent residence?
+owing to the continuous rise in prices
+the continuing revolution in
+",,"I've got a bad cold.
+the worst causes of friction
+","I've enough and to spare.
+He has no kick left.
+He's beyond help.
+no longer required
+but not for much longer
+There is more to it than meets the eye.
+There's more behind it.
+I haven't got any stamps left.
+Now you've lost me.
+oranges are off
+We never have any fun these days.
+He isn't here anymore.
+I don't care anymore (or: any more).
+Europe offers more.
+","hardly any fluctuations
+No sooner had I put the phone down than it rang again.
+The suspense is killing me.
+He's a hard man to please.
+There's little hope of improvement.
+I can't wait to see her.
+I can ill afford it
+I can ill afford it.
+She barely tasted her food.
+There's little doubt she would have won.
+You leave me with little choice.
+In the end, it made little difference.
+They had little chance of surviving.
+There's little hope of her turning up now.
+","He was suddenly overtaken by death.
+it suddenly dawned on me
+a sudden drop in prices
+","I dread it.
+I dread it.
+I dread it.
+I execrate it.
+Take care that you don't make any mistake.
+","the only true church [REL.]
+He is a single father.
+She is a single mother.
+I'll find my own way out
+He came by himself.
+I can do it by myself.
+the sheer enormity
+on the basis of the documents alone
+","My heart beats fast.
+She puts on weight easily.
+please reply as soon as possible
+our competitors got there first
+small profits and quick returns
+by other expeditious means
+a rapid turnover of merchandise
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -7899,4 +8591,64 @@ Es kommt darauf an, die Kontrolle zu übernehmen.
 Insider setzen darauf, dass er gewinnt.
 ","Wir würden Ihnen deshalb empfehlen ...
 Er sagt nur deshalb, dass Geld unwichtig sei, weil er jede Menge davon hat.
+","er muss ständig seinen Senf dazugeben
+eine ständig steigende Zahl
+in ständigem Fluss
+trotz ständiger Neuerschließungen
+Wo ist Ihr ständiger Wohnsitz?
+wegen der ständigen Preissteigerung
+die ständige Fortentwicklung
+",,"Ich habe eine schlimme Erkältung.
+die schlimmsten Reibungsursachen
+","Ich habe mehr als genug.
+Er hat keinen Schwung mehr.
+Ihm ist nicht mehr zu helfen.
+nicht mehr benötigt
+aber nicht mehr lange
+Da steckt mehr dahinter.
+Da steckt mehr dahinter.
+Ich habe keine Briefmarken mehr.
+Jetzt kann ich dir nicht mehr folgen.
+Orangen sind nicht mehr vorrätig
+Zur Zeit haben wir überhaupt keinen Spaß mehr!
+Er ist nicht mehr hier.
+Es liegt mir nichts mehr daran.
+Europa bietet mehr.
+","kaum Schwankungen
+Kaum hatte ich den Hörer aufgelegt, klingelte das Telefon schon wieder.
+Ich halte es vor Spannung kaum noch aus.
+Er ist kaum zufrieden zu stellen.
+Es besteht kaum Hoffnung auf Besserung.
+Ich kann es kaum erwarten sie zu sehen
+ich kann es mir kaum leisten
+Ich kann es mir kaum leisten.
+Sie hat ihr Essen kaum angerührt.
+Es besteht kaum Zweifel, dass sie gewonnen hätte.
+Ihr lasst mir kaum eine andere Wahl.
+Schlussendlich machte es kaum einen Unterschied.
+Sie hatten kaum eine Chance zu überleben.
+Es besteht kaum Hoffnung, dass sie jetzt noch kommt.
+","Plötzlich ereilte ihn der Tod.
+mir ging plötzlich ein Licht auf
+ein plötzliches Nachlassen der Preise
+","Mir (or: Mich) graut (or: grault) davor.
+Ich graue (or: graule) mich davor.
+Mir (or: Mich) graut (or: grault) es davor.
+Mir schaudert davor.
+Hüte dich davor, einen Fehler zu machen.
+","die allein seligmachende (or: allein selig machende) Kirche
+Er ist alleinerziehend (or: allein erziehend).
+Sie ist alleinerziehend (or: allein erziehend).
+ich finde allein raus
+Er kam allein.
+Ich kann es allein tun.
+schon allein das ungeheure Ausmaß
+allein aufgrund (or: auf Grund) der Dokumente
+","Mein Herz schlägt schnell.
+Sie nimmt schnell zu.
+bitte schnellste Rückantwort
+unsere Konkurrenz war schneller
+kleine Gewinnspannen und schnelle Umsätze
+auf anderem schnellem Wege
+ein schneller Warenumschlag
 "

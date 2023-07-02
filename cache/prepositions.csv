@@ -1,7 +1,7 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
-",,,,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -57,7 +57,13 @@ to skin so./an animal
 to pen so./an animal ⇔ up
 to pen so./an animal ⇔ up
 to pen so./an animal ⇔ in
-"
+",,,,,,"to watch one's step - walk carefully
+to show the ropes to so.
+to show so. the ropes
+to be back to square one
+to locate the source of a leak
+to take the line of least resistance
+",
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -113,7 +119,13 @@ jmdm. (or: einem Tier) die Haut abziehen
 jmdn. (or: ein Tier) einpferchen | pferchte ein, eingepfercht |
 jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
 jmdn. (or: ein Tier) einsperren | sperrte ein, eingesperrt |
-"
+",,,,,,"aufpassen, wo man hintritt
+jmdm. zeigen, wo es (or: wo's) langgeht
+jmdm. zeigen, wo es (or: wo's) langgeht
+wieder da sein, wo man angefangen hat
+feststellen, wo eine undichte Stelle ist
+das Brett bohren, wo's am dünnsten ist
+",
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -436,6 +448,51 @@ want (of sth.)
 reminiscence (of)
 participation
 excess (of)
+","year-to-date [abbr.: YTD]
+long-time resident
+","sight-reading or: sightreading, sight reading
+sight-reading or: sightreading, sight reading
+sight-singing [MUS.]
+","but
+the ifs and buts
+right but not the obligation
+necessary but not sufficient condition
+hours paid but not worked [COMM.]
+","Strength through Joy [HIST.]
+ecosystem loading (by) [ENV.]
+impaired capital
+waterborne disease
+lessons learned
+issued mortgage bonds
+man-made crisis
+war damage
+margined security
+covenantee
+resignee
+elective office
+density of occupation fixed by the plan
+stomach insecticide
+","opposition (to)
+resistance (to)
+Law Against Unfair Competition [LAW]
+cash on delivery [abbr.: COD]
+upstream [TECH.]
+susceptibility (to sth.)
+violation (of sth.)
+remedy (for)
+dig (at so.) - mocking remark
+aversion (to)
+objection (to sth.)
+case (against so.)
+distaste (for)
+antipathy (to)
+","where
+water-in-oil emulsion [TECH.]
+","but
+the ifs and buts
+right but not the obligation
+necessary but not sufficient condition
+hours paid but not worked [COMM.]
 "
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
@@ -759,6 +816,51 @@ der Mangel (an etw.dat.)
 die Erinnerung (an) pl.: die Erinnerungen
 die Teilhabe (an etw.dat.) pl.: die Teilhaben - Partizipation
 das Übermaß (an) pl.: die Übermaße
+","seit Jahresbeginn
+seit längerem (or: Längerem) Ansässiger
+","das Vomblattsingen or: Vom-Blatt-Singen no plural
+das Vomblattspielen or: Vom-Blatt-Spielen no plural
+das Vom-Blatt-Singen no plural
+","das Aber pl.: die Aber/die Abere
+das Wenn und Aber
+Recht aber keine Verpflichtung
+notwendige, aber nicht hinreichende Bedingung
+bezahlte, aber nicht geleistete Stunden
+","Kraft durch Freude [abbr.: KdF] [Nationalsozialismus]
+die Ökosystembelastung (durch)
+durch Verluste gemindertes Kapital
+durch Wasser übertragene Krankheit
+durch Erfahrung erworbenes Wissen
+durch Hypotheken gesicherte Anleihe
+durch Menschen verursachte Krise
+durch Kriegseinwirkung verursachte Zerstörung
+durch Einschuss gedecktes Wertpapier
+durch Vertrag Berechtigter
+durch Verzichtleistung Begünstigter
+durch Wahl besetztes Amt
+durch den Bebauungsplan festgelegte Dichte
+durch den Magen wirkendes Insektizid
+","der Widerspruch (gegen) pl.: die Widersprüche
+der Widerstand (gegen) pl.: die Widerstände
+Gesetz gegen den unlauteren Wettbewerb [abbr.: UWG]
+gegen Nachnahme
+gegen Bandlaufrichtung
+die Empfindlichkeit (gegen etw.acc.) pl.
+der Verstoß (gegen etw.acc.) pl.: die Verstöße
+das Heilmittel (gegen) pl.: die Heilmittel
+die Spitze (gegen jmdn.) pl.: die Spitzen
+die Aversion (gegen) pl.: die Aversionen
+die Bedenken (gegen etw.acc.) pl.
+die Vorwürfe (gegen jmdn.) pl.
+der Widerwille rarely: Widerwillen (gegen) no plural
+der Widerwille rarely: Widerwillen (gegen) no plural
+","das Wo
+die WO-Emulsion
+","das Aber pl.: die Aber/die Abere
+das Wenn und Aber
+Recht aber keine Verpflichtung
+notwendige, aber nicht hinreichende Bedingung
+bezahlte, aber nicht geleistete Stunden
 "
 noun_details,english,"article: die
 word: Regierungspartei
@@ -916,8 +1018,50 @@ genus: MASC
 plural: die Anteile
 meaning: share (in sth.)
 faith (in sth.)
+","article: seit
+word: Jahresbeginn
+genus: 
+plural: Jahresbeginn
+meaning: year-to-date [abbr.: YTD]
+long-time resident
+","article: das
+word: Vomblattsingen
+genus: NEUT
+plural: plural
+meaning: sight-reading or: sightreading, sight reading
+sight-reading or: sightreading, sight reading
+","article: Das
+word: Aber
+genus: NEUT
+plural: Aber / Abers
+meaning: but
+the ifs and buts
+","article: Kraft
+word: durch
+genus: 
+plural: [Nationalsozialismus]
+meaning: Strength through Joy [HIST.]
+ecosystem loading (by) [ENV.]
+","article: Der
+word: Gege
+genus: MASC
+plural: Gegen
+meaning: opposition (to)
+resistance (to)
+","article: das
+word: Wo
+genus: NEUT
+plural: Wo
+meaning: where
+water-in-oil emulsion [TECH.]
+","article: Das
+word: Aber
+genus: NEUT
+plural: Aber / Abers
+meaning: but
+the ifs and buts
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -1233,6 +1377,67 @@ close (to) adj.
 aboard ship
 on board ship
 ashore adv.
+","from time immemorial
+since the beginning of time
+since time immemorial
+for a short time
+as of late
+for a long time
+all along
+always adv.
+since time immemorial
+as of late
+for hundreds of years
+from time immemorial
+for ages [coll.]
+for yonks (Brit.) [coll.]
+",,"however adv.
+though adv.
+bluff adj.
+reconditioned adj. [TECH.]
+","whereby adv.
+well-done adj. [COOK.]
+oxidative adj.
+by chance
+by accident
+by hazard
+accidentally adv.
+by special delivery
+express adj.
+due to external causes
+by issue of release orders
+by bending
+by raising one's hand
+by a show of hands
+","about adv.
+towardAE the end towardsBE the end
+gainful adj.
+on a cash basis
+against cash
+for spot cash
+for money
+about noon
+about midnight
+in return for payment
+towardAE evening towardsBE evening
+against fraud
+for a salary
+in return for payment of rent
+","where adv. conj.
+whereabouts adv.
+wherever adv.
+wheresoever adv. conj. [poet.]
+wherefrom adv. conj.
+anywhere adv.
+elsewhere adv.
+where applicable
+wherever adv.
+whenceever adv. conj. archaic
+whencesoever adv. conj. archaic
+","however adv.
+though adv.
+bluff adj.
+reconditioned adj. [TECH.]
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -1549,6 +1754,67 @@ nah or: nahe (an)
 an Bord
 an Bord
 an Land
+","seit Menschengedenken
+seit Menschengedenken
+seit Menschengedenken
+seit Kurzem (or: kurzem)
+seit Kurzem (or: kurzem)
+seit langem (or: Langem)
+seit jeher
+seit jeher
+seit jeher
+seit Neuestem (or: neuestem)
+seit Jahrhunderten
+seit Urzeiten
+seit Ewigkeiten
+seit Ewigkeiten
+",,"aber
+aber
+rau aber herzlich
+gebraucht, aber neuwertig
+","durch den
+durch adv. - Steak
+durch Oxidation (or: Oxydation)
+durch Zufall
+durch Zufall
+durch Zufall
+durch Zufall
+durch Eilboten
+durch Eilboten
+durch Fremdeinwirkung
+durch Abruf
+durch Biegung
+durch Handzeichen
+durch Handzeichen
+","gegen
+gegen Ende
+gegen Vergütung
+gegen bar
+gegen bar
+gegen bar
+gegen Entgelt
+gegen Mittag
+gegen Mitternacht
+gegen Zahlung
+gegen Abend
+gegen Betrug
+gegen Gehalt
+gegen Miete
+","wo
+wo
+wo immer
+wo (auch) immer
+von wo
+egal wo
+sonst wo
+wo zutreffend
+wo auch immer
+von wo auch immer
+von wo auch immer
+","aber
+aber
+rau aber herzlich
+gebraucht, aber neuwertig
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -1860,6 +2126,89 @@ An idle brain is the devil's workshop.
 there is sth. fishy about sth.
 To whom it may concern - opening statement in certain types of communication with public bodies etc.
 An eye for an eye, a tooth for a tooth.
+","in (or: within) living memory
+as long as anyone can remember
+since when
+for quite some time
+in donkey's years [coll.] (Brit.)
+for some time
+since the dawn of time
+for yonks
+in yonks
+for donkey's years [coll.](Brit.)
+for donkey's years [coll.](Brit.)
+in donkey's years [coll.] (Brit.)
+not in a dog's age [coll.]
+","tarred with the same brush
+of the same kidney (Brit.)
+","Yes, indeed!
+Why certainly!
+Now, now!
+Tut-tut!
+why, yes
+why, no
+Look sharp! [coll.] - be quick
+Look smart! [coll.] - be quick
+pdq [abbr.: PDQ, P.D.Q] - short for pretty damn quick adv.
+Why, yes!
+come, come
+for what it's worth
+Sharp's the word!
+That's the last straw!
+","every single one
+governed by
+Hang in there! (Amer.) [coll.]
+Heave! [NAUT.]
+bounded by [MATH.]
+by rote
+as American as apple pie
+by a fluke
+by a cruel twist of fate
+through difficulty to the stars
+through thick and thin
+by the very fact - ipso facto [LAW]
+assembly by adult only
+solely controlled by
+","around midnight
+in the teeth of the wind
+against the current
+not a patch on sth. [fig.] [coll.]
+the judgmentAE is not appealablethe judgementBE is not appealable
+hand to hand
+it was a case of dog eat dog
+It goes against the grain for me.
+cash sales only [FINAN.]
+cash only
+ready money down
+ready money only
+","Where?
+where in tarnation ... (Amer.)
+Whereabouts? [coll.]
+Oh no, not at all!
+By no means!
+You can't make an omeletteAE / omeletAE without breaking eggs.You can't make an omeletteBE without breaking eggs.
+You can't get blood from a stone.
+where on earth
+Where was I?
+No smoke without a fire.
+Where there's smoke there's fire.
+What seems to be the trouble?
+the smallest room in the house
+Where there's a will, there's a way.
+","Yes, indeed!
+Why certainly!
+Now, now!
+Tut-tut!
+why, yes
+why, no
+Look sharp! [coll.] - be quick
+Look smart! [coll.] - be quick
+pdq [abbr.: PDQ, P.D.Q] - short for pretty damn quick adv.
+Why, yes!
+come, come
+for what it's worth
+Sharp's the word!
+That's the last straw!
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -2171,6 +2520,89 @@ Müßiggang ist aller Laster Anfang.
 an einer Sache ist etwas faul
 An die zuständige Abteilung/Behörde/Stelle...
 Auge um Auge, Zahn um Zahn.
+","seit Menschengedenken
+seit Menschengedenken
+seit wann
+seit Längerem
+seit einer Ewigkeit
+seit längerer Zeit
+seit Anbeginn der Zeit
+seit ewig und drei Tagen
+seit ewig und drei Tagen
+seit einer halben Ewigkeit
+seit ewig und drei Tagen
+seit ewig und drei Tagen
+seit einer Ewigkeit nicht
+","vom gleichen Schlag
+vom gleichen Schlag
+","Aber ja!
+Aber selbstverständlich!
+Aber, aber!
+Aber, aber!
+aber ja
+aber nein
+Aber zackig! [coll.] - Beeil dich
+Aber zackig! [coll.] - Beeil dich
+aber dalli [coll.]
+Aber klar doch!
+aber was denn
+aber das nur nebenbei
+Jetzt aber dalli!
+Jetzt reicht es mir aber!
+","durch die Bank [fig.]
+geregelt durch
+Halte durch!
+Hol durch!
+begrenzt durch
+durch stures Auswendiglernen
+durch und durch amerikanisch
+durch einen glücklichen Zufall
+durch eine grausame Laune des Schicksals
+durch Widrigkeiten zu den Sternen
+durch dick und dünn
+durch die Tat selbst - ipso facto
+Montage nur durch Erwachsene
+ausschließlich beherrscht durch
+","gegen Mitternacht
+gegen den Wind
+gegen den Strom
+nichts gegen etw.acc.
+gegen das Urteil kann keine Berufung eingelegt werden
+Mann gegen Mann
+es war ein Kampf jeder gegen jeden
+Das geht mir gegen den Strich.
+nur gegen bar
+nur gegen bar
+nur gegen bar
+nur gegen bar
+","Wo?
+wo zum Teufel ...
+Wo denn?
+I wo!
+I wo!
+Wo gehobelt wird, (da) fallen Späne.
+Wo nichts ist, ist auch nichts zu holen.
+wo um Himmels willen
+Wo war ich stehen geblieben?
+Wo Rauch ist, ist auch Feuer.
+Wo Rauch ist, ist auch Feuer.
+Wo liegt das Problem?
+wo selbst der Kaiser zu Fuß hingeht
+Wo ein Wille ist, ist auch ein Weg.
+","Aber ja!
+Aber selbstverständlich!
+Aber, aber!
+Aber, aber!
+aber ja
+aber nein
+Aber zackig! [coll.] - Beeil dich
+Aber zackig! [coll.] - Beeil dich
+aber dalli [coll.]
+Aber klar doch!
+aber was denn
+aber das nur nebenbei
+Jetzt aber dalli!
+Jetzt reicht es mir aber!
 "
 examples,english,"in English
 in 1999
@@ -2540,6 +2972,103 @@ an accidental occurrence
 paid to shareholders
 on the US stock exchanges
 an amicable arrangement
+","He has only been with our firm for a short time.
+We asked both neighbours, neither of whom had seen her in days.
+He is long since dead.
+She hadn't tasted food for two days.
+The company has been in business since 1950.
+We've known each other forever.
+He has served our firm since ...
+He has been serving our firm since ...
+his wife of 25 years
+Four weeks have elapsed since ...
+The dog which they had for five years has run away.
+since 1980
+since their introduction in
+","of the repayment amount
+inebriated by success
+reeds swayed by the wind
+issued by the Federal Government
+as may be designated by the buyer
+advance received from a customer
+the bank nominated by the principal
+the point so chosen by the seller
+from January 1st to March 29th
+dependent on tourism
+offered again by the debtor
+as requested in your letter of
+They are all tarred with the same brush. [fig.]
+separate from credit risks [FINAN.]
+","but it was only after ...
+but not for much longer
+but it was only after ...
+..., but that's an argument for another day
+I can't do Tuesday, but I can do Wednesday
+he's all brawn and no brains
+Enough is enough!
+We asked both neighbours, neither of whom had seen her in days.
+We made several attempts to reach him but were unsuccessful.
+Though he's rich, he's an honest man.
+I hate to tell you, but ...
+quite true but ...
+I'll have a coke, but hold the ice, please.
+He loved her but she married another.
+","through the Balkans
+by withdrawing cash [FINAN.]
+by paying in [FINAN.]
+by means of an endorsement (or: indorsement) [FINAN.]
+through a financing institution [FINAN.]
+rotten to the core
+by assisting us
+through specific conduct
+by a defect of the machinery
+affected by a strike
+by their joint efforts
+owing to favorableAE circumstancesowing to favourableBE circumstances
+change due to old age
+index basket weighted by ...
+","against bank acceptance
+against three months' acceptance
+against pledged items
+against payment of a premium
+against three months' acceptance [FINAN.]
+for an appropriate fee
+aspects in his disfavour are
+against fraudulent transactions
+contrary to the terms of a treaty
+against first class bank guarantee
+against production of
+in return for acceptance of bills [FINAN.]
+against losses in consumer credit transactions [FINAN.]
+I don't hold with that.
+","while you're at it
+What are his politics?
+while we're at it
+Where's he got to?
+Where's he got to?
+Where are you now?
+Where do you live?
+Where do you live?
+Where is your permanent residence?
+Where can I contact Mr. Smith?
+Where do you come from?
+Where were you born?
+Where did we break off?
+Where does he live?
+","but it was only after ...
+but not for much longer
+but it was only after ...
+..., but that's an argument for another day
+I can't do Tuesday, but I can do Wednesday
+he's all brawn and no brains
+Enough is enough!
+We asked both neighbours, neither of whom had seen her in days.
+We made several attempts to reach him but were unsuccessful.
+Though he's rich, he's an honest man.
+I hate to tell you, but ...
+quite true but ...
+I'll have a coke, but hold the ice, please.
+He loved her but she married another.
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -2909,4 +3438,101 @@ ein zufälliges Ereignis
 an Aktionäre ausbezahlt
 an amerikanischen Börsen
 eine gütliche Einigung
+","Er ist erst seit kurzem in unserer Firma.
+Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
+Er ist seit langem (or: Langem) tot.
+Sie hatte seit zwei Tagen keinen Bissen gegessen.
+Die Firma besteht seit 1950.
+Wir kennen uns seit eh und je.
+Er ist bei uns beschäftigt seit ...
+Er steht in Diensten unserer Firma seit ...
+seine Ehefrau, mit der er seit 25 Jahren verheiratet ist
+Vier Wochen sind verstrichen seit ...
+Der Hund, den sie schon seit fünf Jahren hatten, ist weggelaufen.
+seit 1980
+seit deren Einführung im Jahre
+","vom Tilgungsbetrag
+vom Erfolg berauscht
+vom Wind bewegtes Schilf
+vom Bund ausgegeben
+vom Käufer bezeichnet
+vom Kunden erhaltene Anzahlung
+die vom Auftraggeber benannte Bank
+der vom Verkäufer gewählte Ort
+vom 1. Januar bis 29. März
+abhängig vom Tourismus
+erneut vom Schuldner angeboten
+wie in Ihrem Schreiben vom ... gewünscht
+Sie sind alle vom gleichen Schlag.
+getrennt vom Kreditrisiko
+","aber erst nachdem ...
+aber nicht mehr lange
+aber erst nach ...
+aber das soll jetzt hier nicht weiter vertieft werden
+Dienstag kann ich nicht, aber Mittwoch
+er hat Muskeln, aber kein Gehirn
+Jetzt reicht's aber!
+Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
+Wir haben mehrfach versucht, ihn zu erreichen, aber vergebens.
+Er ist zwar reich, aber ehrlich.
+Ich sag's dir ja nur ungern, aber ...
+wohl wahr, aber ...
+Eine Cola, aber bitte ohne Eis.
+Er hat sie geliebt, aber sie hat einen anderen geheiratet.
+","durch den Balkan
+durch Barabhebung
+durch Einzahlung
+durch Indossament
+durch ein Finanzierungsinstitut
+durch und durch schlecht
+durch Ihre Hilfe
+durch bestimmtes Verhalten
+durch einen Maschinenfehler
+durch einen Streik beeinträchtigt
+durch gemeinsame Anstrengung
+durch glückliche Umstände
+durch hohes Alter verursachte Veränderung
+durch ... gewichteter Wert des Indexkorbs
+","gegen Bankakzept
+gegen Dreimonatsakzept
+gegen Pfand
+gegen Prämienzahlung
+gegen Dreimonatswechsel
+gegen angemessenes Honorar
+gegen ihn spricht
+gegen betrügerische Geschäfte
+gegen die Vertragsbedingungen
+gegen erstklassige Bankgarantie
+gegen Vorlage von
+gegen Akzeptierung von Wechseln
+gegen Verluste in Kreditgeschäften von Verbrauchern
+Ich bin gegen so was.
+","wo du schon dabei bist
+Wo steht er politisch?
+wo wir schon dabei sind
+Wo bleibt er nur?
+Wo ist er abgeblieben?
+Wo bist du jetzt gerade?
+Wo wohnen Sie?
+Wo wohnst du?
+Wo ist Ihr ständiger Wohnsitz?
+Wo kann ich Mr. Smith erreichen?
+Wo kommen Sie her?
+Wo sind Sie geboren?
+Wo sind wir stecken geblieben?
+Wo wohnt er?
+","aber erst nachdem ...
+aber nicht mehr lange
+aber erst nach ...
+aber das soll jetzt hier nicht weiter vertieft werden
+Dienstag kann ich nicht, aber Mittwoch
+er hat Muskeln, aber kein Gehirn
+Jetzt reicht's aber!
+Wir haben beide Nachbarn gefragt, aber seit Tagen hatte sie keiner von beiden gesehen.
+Wir haben mehrfach versucht, ihn zu erreichen, aber vergebens.
+Er ist zwar reich, aber ehrlich.
+Ich sag's dir ja nur ungern, aber ...
+wohl wahr, aber ...
+Eine Cola, aber bitte ohne Eis.
+Er hat sie geliebt, aber sie hat einen anderen geheiratet.
 "

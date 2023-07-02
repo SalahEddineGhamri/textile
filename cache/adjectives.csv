@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -56,8 +56,15 @@ die Deutsche : Noun
 der Deutsche : Noun
 ",None,"groß : Adjective
 das Gros : Noun
-",None
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+",None,"schlimm : Adjective
+","normal : Adjective
+das Normal : Noun
+","arm : Adjective
+der Arm : Noun
+","schwer : Adjective
+","das Tausend : Noun
+"
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -419,7 +426,46 @@ to compel another arrangement
 to angle off
 to play opposite so.
 to absorb another company [COMM.]
-"
+","to disimprove | disimproved, disimproved |
+to get worse
+to fear the worst
+to be over the hump [coll.]
+to have a bad cold
+to be worse off
+to be over the hump [coll.]
+to add insult to injury
+to add insult to injury
+","to think nothing of sth.
+to work unsocial hours
+","to impoverish | impoverished, impoverished |
+to pauperizeAE to pauperiseBE / pauperizeBE | pauperized, pauperized / pauperised, pauperised |
+to set so.'s arm [MED.]
+to put so. on
+to tease so. | teased, teased |
+to send so. up [fig.]
+to disband an army
+to fold one's arms
+to shoulder arms
+to bear arms
+to bear arms
+to bear arms
+to grant arms
+to order arms
+","to work hard
+to laborAE / labourBE | labored, labored / laboured, laboured |
+to badly disappoint so.
+to badly damage so./sth.
+to weigh heavily on so./sth.
+to press down on so.
+to come a purler [coll.]
+to take a purler [coll.]
+to be overweight
+sth. blows so.'s mind infinitive: blow
+sth. is difficult for so.
+to overtax | overtaxed, overtaxed |
+to load | loaded, loaded |
+to weight sth. | weighted, weighted |
+",
 verbs,german,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
@@ -781,7 +827,46 @@ eine andere Anordnung erzwingen
 eine andere Richtung nehmen
 die andere Hauptrolle neben jmdm. haben
 eine andere Firma übernehmen
-"
+","schlimmer werden
+schlimmer werden
+das Schlimmste befürchten
+das Schlimmste hinter sichdat. haben [coll.]
+eine schlimme Erkältung haben
+schlimmer dran sein
+das Schlimmste überstanden haben [coll.]
+alles noch schlimmer machen
+das Ganze noch schlimmer machen
+","etw.acc. ganz normal finden
+außerhalb der normalen Arbeitszeiten arbeiten
+","arm machen
+arm machen
+jmdm. den Arm einrenken
+jmdn. auf den Arm nehmen
+jmdn. auf den Arm nehmen
+jmdn. auf den Arm nehmen [fig.]
+eine Armee auflösen
+die Arme verschränken
+das Gewehr schultern
+kämpfen | kämpfte, gekämpft |
+Waffen führen
+Waffen tragen
+Wappen verleihen
+das Gewehr abnehmen
+","schwer arbeiten
+schwer arbeiten
+jmdn. schwer enttäuschen
+jmdn./etw. schwer schädigen
+schwer auf jmdm./etw. lasten
+schwer auf jmdm. lasten
+schwer stürzen
+schwer stürzen
+zu schwer sein
+etw.nom. beeindruckt jmdn. schwer infinitive: beeindrucken
+etw.nom. fällt jmdm. schwer infinitive: schwerfallen
+schwer besteuern
+schwerer machen
+etw.acc. schwerer machen
+",
 nouns,english,"previous debt
 former quotations
 back issue
@@ -1235,6 +1320,57 @@ generalizedAE other [SOCIOL.]generalisedBE / generalizedBE other [SOCIOL.]
 Swiss Institute for the Prevention of Alcohol and Drug Problems [abbr.: SIPA]
 reverse side
 other workers - at an establishment using ionizing radiation
+","bad cold
+ominousness
+severe cold
+worst case
+sth. will only make matters worse
+","normal [MATH.]
+perpendicular [MATH.]
+measurement standard [METR.]
+etalon [METR.]
+standard [METR.]
+comparison standard [TECH.]
+normal operating conditions
+normal speed
+regular rate
+normal inspection
+normal activity
+normal distribution
+normal conditions pl.
+standard type
+","arm also [ANAT.][TECH.]
+arm - branch of a tree
+arm - of a chair
+arm - of a river
+arm - sleeve of a garment
+arm
+arm
+branch
+arm [ENGIN.]
+arm [MIL.]
+arm - line enclosing an angle [MATH.]
+arm [TECH.]
+arm [TECH.]
+arm - of a digger [TECH.]
+","severity
+heaviness
+massiness
+ponderosity
+weight
+cruelty
+weightiness
+gravity [PHYS.]
+dire straits
+heavy ordnance
+large blunders
+heavy burden
+heavy burden
+hooded eyes pl.
+","chiliad
+thousand
+thousands of
+cost per mille [abbr.: CPM]
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -1689,6 +1825,57 @@ der (or: das) verallgemeinerte Andere pl.: die Anderen
 Schweizerische Fachstelle für Alkohol- und andere Drogenprobleme [abbr.: SFA] (Switzerland)
 andere Seite
 andere beruflich Tätige
+","schlimme Erkältung
+schlimme Vorbedeutung
+schlimme Erkältung
+schlimmster Fall
+etw.nom. macht die Sache nur schlimmer
+","die Normale pl.: die Normalen
+die Normale pl.: die Normalen
+das Normal pl.: die Normale
+das Normal pl.: die Normale
+das Normal pl.: die Normale
+das Normal pl.: die Normale
+normale Betriebsbedingungen
+normale Geschwindigkeit
+normale Geschwindigkeit
+normale Prüfung
+normale Tätigkeit
+normale Verteilung
+normale Bedingungen pl.
+normale Ausführung
+","der Arm pl.: die Arme
+der Zweig pl.: die Zweige
+die Armlehne pl.: die Armlehnen
+der Flussarm pl.: die Flussarme
+der Ärmel pl.: die Ärmel
+der Oberarm pl.: die Oberarme
+der Stiel pl.: die Stiele
+der Arm pl.: die Arme
+der Ausleger pl.: die Ausleger
+die Waffengattung pl.: die Waffengattungen
+der Schenkel pl.: die Schenkel
+der Hebel pl.: die Hebel
+der Schaufelarm pl.: die Schaufelarme
+der Baggerstiel pl.: die Baggerstiele
+","die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+die Schwere no plural
+schwere Zeiten pl.
+schwere Geschütze pl.
+schwere Bearbeitungsfehler
+schwere Belastung
+schwere Last
+schwere Lider pl.
+","Tausend
+das Tausend pl.: die Tausende
+Tausende (or: tausende) von +dat.
+der Tausend-Kontakt-Preis [abbr.: TKP]
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -1924,8 +2111,38 @@ genus: FEMI
 plural: Anderen)
 meaning: the others
 alternative
+","article: schlimme
+word: Erkältung
+genus: 
+plural: Erkältung
+meaning: bad cold
+ominousness
+","article: Die
+word: Normale
+genus: FEMI
+plural: Normalen
+meaning: normal [MATH.]
+perpendicular [MATH.]
+","article: Der
+word: Arm
+genus: MASC
+plural: Arme
+meaning: arm also [ANAT.][TECH.]
+arm - branch of a tree
+","article: Die
+word: Schwere
+genus: FEMI
+plural: plural
+meaning: severity
+heaviness
+","article: 
+word: 
+genus: 
+plural: 
+meaning: chiliad
+thousand
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -2349,6 +2566,63 @@ crosstown adj.
 in other cases
 over the road
 for some other reason
+","bad - worse, worst adj.
+ill adj.
+sad adj.
+severe adj.
+evil adj.
+fatal adj.
+sore adj.
+wicked - very unpleasant adj.
+upsetting adj.
+horrendous adj.
+dire adj.
+crook adj.
+worse adj.
+worst adj.
+","common adj.
+normal adj.
+conventional adj.
+general adj.
+ordinary adj.
+regular adj.
+usual adj.
+standard adj.
+simple - fault scarp adj. [GEOL.]
+natural adj.
+normative adj.
+standardizedAE adj.standardisedBE / standardizedBE adj.
+initial adj. [GEOL.]
+normally inflammable
+","poor adj.
+indigent adj.
+needy adj.
+lean adj.
+low-grade adj.
+impecunious adj.
+beggarly adj.
+meagerAE / meagreBE adj. - lacking in quantity
+depleted adj. [TECH.]
+impecunious adj.
+arms akimbo
+arms akimbo
+in arms
+poor in minerals
+","difficult adj.
+hard adj.
+heavy adj.
+big adj.
+severe adj.
+grave adj.
+massive adj.
+rich adj.
+arduous adj.
+weighty adj.
+grievous adj.
+hefty adj.
+heavy-weight adj.
+full-bodied adj.
+","per mill (or: mil, mille)
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -2773,6 +3047,63 @@ vom anderen Ende der Stadt
 in anderen Fällen
 auf der anderen Straßenseite
 aus einem anderen Grund
+","schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimm
+schlimmer
+schlimmster | schlimmste | schlimmstes
+","normal
+normal
+normal
+normal
+normal
+normal
+normal
+normal
+normal - Verwerfungsabsturz
+normal
+normal
+normal
+normal - Verwerfungsabsturz
+normal entflammbar
+","arm
+arm
+arm
+arm
+arm
+arm
+arm
+arm - ärmlich, jämmerlich
+arm
+arm und mittellos
+die Arme in die Hüften gestemmt
+die Arme in die Seite gestemmt
+unter Waffen
+arm an Mineralien
+","schwer
+schwer
+schwer
+schwer
+schwer
+schwer
+schwer
+schwer - Speisen
+schwer
+schwer
+schwer
+schwer
+schwer
+schwer
+","vom Tausend [abbr.: v.T.]
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -3042,6 +3373,34 @@ You scratch my back and I'll scratch yours.
 That's a different kettle of fish.
 That's a whole different problem.
 to blow away the cobwebs [fig.]
+","if the worst comes to the worst
+if it comes to the pinch
+","business as usual
+a regular bloke (Brit.) [coll.]
+","an armful
+arm out [TECH.]
+arm in [TECH.]
+to pull so.'s chain (Amer.) [coll.]
+to yank so.'s chain (Amer.) [coll.]
+to pull so.'s leg [fig.]
+to have so. on (Brit.) [coll.]
+as long as one's arm [fig.]
+poor as a church mouse
+to have more pull
+the long arm of the law
+I'd give my right arm to ...
+Poor old chap! [coll.]
+Poor me!
+","dim-witted or: dimwitted adj.
+like a lead weight
+to be slow on the uptake
+to be slow off the mark [fig.]
+beef-witted adj. rare
+All beginnings are difficult.
+so. is worth ... million
+a bad egg
+to have a head
+","Thanks a bomb! (Aust.; Brit.) - used ironically [coll.]
 "
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
@@ -3311,6 +3670,34 @@ Eine Hand wäscht die andere.
 Das ist eine andere Baustelle. - ein anderes Problem
 Das ist eine andere Baustelle. - ein anderes Problem
 auf andere Gedanken kommen
+","im schlimmsten Fall
+wenn es zum Schlimmsten kommt
+","normaler Betrieb
+ein ganz normaler Typ
+","ein Armvoll (or: Arm voll)
+Arm ausfahren
+Arm einfahren
+jmdn. auf den Arm nehmen [coll.]
+jmdn. auf den Arm nehmen [coll.]
+jmdn. auf den Arm nehmen [fig.]
+jmdn. auf den Arm nehmen [fig.]
+ellenlang
+arm wie eine Kirchenmaus
+den längeren Arm haben
+der lange Arm des Gesetzes
+Ich würde alles dafür geben zu ...
+Armer Kerl!
+Ich Ärmster!
+","schwer von Begriff
+schwer wie Blei
+schwer von Begriff sein [fig.]
+schwer von Begriff sein [fig.]
+schwer von Begriff
+Aller Anfang ist schwer.
+jemand ist ... Millionen schwer
+ein schwerer Junge
+einen schweren Kopf haben
+","Tausend Dank, auch! - ironisch
 "
 examples,english,None,"some news of importance
 It matters.
@@ -3657,7 +4044,28 @@ the other party
 denotes the other extreme
 all other stipulations of the credit
 superior to any other make
-"
+","I've got a bad cold.
+the worst causes of friction
+","indeterminate solution of the normal equations [MATH.]
+conservation of a measurement standard [METR.]
+conservation of a standard [METR.]
+","She broke her arm.
+He seized me by the arm.
+They have voluntarily divested themselves of arms.
+Look at that poor dog - it's limping.
+this poor old bloke (Brit.) [coll.]
+","difficult to access
+difficult of access archaic
+difficult to explain
+It's hard for me.
+I had a job to do it.
+You always found studying difficult.
+You always found studying difficult.
+Life is difficult for a mother of five.
+The hard years had worked me over.
+Death released him from his severe sufferings.
+by a serious mistake
+",
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -4003,4 +4411,25 @@ die andere Vertragspartei
 bedeutet das andere Extrem
 alle anderen Bedingungen des Kredits
 allem anderen überlegen
-"
+","Ich habe eine schlimme Erkältung.
+die schlimmsten Reibungsursachen
+","unbestimmte Auflösung der Normalgleichungen
+das Bewahren eines Normals
+das Bewahren eines Normals
+","Sie hat sich den Arm gebrochen.
+Er packte mich am Arm.
+Sie haben freiwillig die Waffen abgelegt.
+Schau mal, der arme Hund - er humpelt.
+dieser arme alte Mann
+","schwer zugänglich
+schwer zugänglich
+schwer zu erklären
+Es fällt mir schwer.
+Es fiel mir recht schwer.
+Du hast dich mit dem Lernen immer schwer getan.
+Du hast dir mit dem Lernen immer schwer getan.
+Als Mutter von fünf Kindern hat man es schwer.
+Die schweren Jahre hatten mich mitgenommen.
+Der Tod erlöste ihn von seinem schweren Leiden.
+durch einen schweren Irrtum
+",
