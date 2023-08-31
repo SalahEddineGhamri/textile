@@ -92,19 +92,19 @@ kämpfen : Verb
 ","die Helferin : Noun
 ",None,"der Verkehr : Noun
 ","das Auto : Noun
-",,"die Barrikade : Noun
-",,,"die Einrichtung : Noun
-",,,"der Krawall : Noun
-",,,"die Festnahme : Noun
+",None,"die Barrikade : Noun
+",None,None,"die Einrichtung : Noun
+",None,None,"der Krawall : Noun
+",None,None,"die Festnahme : Noun
 festnehmen : Verb
-",,,,,,,"der Feuerwerkskörper : Noun
-",,"demonstrieren : Verb
-",,"das Feuerwerk : Noun
+",None,None,None,None,None,None,"der Feuerwerkskörper : Noun
+",None,"demonstrieren : Verb
+",None,"das Feuerwerk : Noun
 ","der Vorort : Noun
-",,,"der Polizist : Noun
-",,"jugendlich : Adjective
-",
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",None,None,"der Polizist : Noun
+",None,"jugendlich : Adjective
+",None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,"to name sth. | named, named |
 to name sth. | named, named |
 to name sth. | named, named |
@@ -1472,7 +1472,7 @@ to spring to arms
 to shoulder arms [fig.]
 to take up arms [fig.]
 to be hoist with (or: by) one's own petard
-",,"to sanitate | sanitated, sanitated |
+",None,"to sanitate | sanitated, sanitated |
 to provide backup facilities
 to provide backup facilities
 to detain so. | detained, detained |
@@ -1496,7 +1496,7 @@ to apprehend so. | apprehended, apprehended |
 to detain so. | detained, detained |
 to attach so. | attached, attached | [LAW]
 to abscond from justice
-",,"to disestablish | disestablished, disestablished |
+",None,"to disestablish | disestablished, disestablished |
 ","to exercise control
 to retain control
 to lose control over so./sth.
@@ -1527,10 +1527,10 @@ to yield to superior force
 ","to give a jerk
 to lend money at a higher rate of interest
 ","to send so. to the capital
-",,,"to demonstrate (sth.) | demonstrated, demonstrated |
+",None,None,"to demonstrate (sth.) | demonstrated, demonstrated |
 to picket sth. | picketed, picketed |
 to advertise affluence
-",,,,,,,"to be on duty
+",None,None,None,None,None,None,"to be on duty
 to be applied
 to be employed
 to be used
@@ -2927,7 +2927,7 @@ zu den Waffen eilen
 zu den Waffen greifen [fig.]
 zu den Waffen greifen [fig.]
 mit seinen eigenen Waffen geschlagen werden
-",,"mit sanitären Einrichtungen versorgen
+",None,"mit sanitären Einrichtungen versorgen
 Back-up-Einrichtungen zur Verfügung stellen
 Backup-Einrichtungen zur Verfügung stellen
 jmdn. in einer geschlossenen Einrichtung unterbringen
@@ -2951,7 +2951,7 @@ jmdn. festnehmen | nahm fest, festgenommen |
 jmdn. festnehmen | nahm fest, festgenommen |
 jmdn. festnehmen | nahm fest, festgenommen |
 sichacc. der Festnahme entziehen
-",,"die Kirche vom Staat trennen
+",None,"die Kirche vom Staat trennen
 ","Kontrolle ausüben
 Kontrolle behalten
 die Kontrolle über jmdn./etw. verlieren
@@ -2982,10 +2982,10 @@ höherer Gewalt weichen
 ","einen Satz machen
 zu einem höheren Satz verleihen
 ","jmdn. in die Hauptstadt entsenden
-",,,"(etw.acc.) demonstrieren | demonstrierte, demonstriert |
+",None,None,"(etw.acc.) demonstrieren | demonstrierte, demonstriert |
 vor etw.dat. demonstrieren | demonstrierte, demonstriert |
 Wohlstand demonstrieren
-",,,,,,,"im Einsatz sein
+",None,None,None,None,None,None,"im Einsatz sein
 zum Einsatz gelangen
 zum Einsatz gelangen
 zum Einsatz gelangen
@@ -5632,7 +5632,7 @@ total incidents recorded [abbr.: TIR]
 high potential incident [abbr.: HIPO]
 total incidents recorded [abbr.: TIR]
 major incident announcement [abbr.: MIA]
-",,"policeman | policewoman - pl.: policemen, policewomen
+",None,"policeman | policewoman - pl.: policemen, policewomen
 officer
 cop [coll.]
 police officer
@@ -8344,7 +8344,7 @@ Gesamthäufigkeit der Vorfälle
 potenziell gefährlicher Vorfall
 erfasste Vorfälle insgesamt
 Bekanntgabe eines bedeutenden Vorfalls
-",,"der Polizist | die Polizistin pl.: die Polizisten, die Polizistinnen
+",None,"der Polizist | die Polizistin pl.: die Polizisten, die Polizistinnen
 der Polizist | die Polizistin pl.: die Polizisten, die Polizistinnen
 der Polizist | die Polizistin pl.: die Polizisten, die Polizistinnen
 der Polizist | die Polizistin pl.: die Polizisten, die Polizistinnen
@@ -9903,7 +9903,7 @@ genus: MASC
 plural: Vorfälle
 meaning: incident
 event
-",,"article: Der
+",None,"article: Der
 word: Polizist
 genus: MASC
 plural: Polizisten
@@ -9958,7 +9958,7 @@ plural: Köpfe
 meaning: head [ANAT.][TECH.]
 crown
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"by name - postpos.
 according to name
 in all but name
@@ -10866,19 +10866,19 @@ barred to traffic
 closed to traffic
 immobilizedAE adj.immobilisedBE / immobilizedBE adj.
 including roll-on roll-off traffic
-",,"autoerotic or: auto-erotic adj.
+",None,"autoerotic or: auto-erotic adj.
 auto-assisted adj. [TECH.]
-",,"gun toting
+",None,"gun toting
 in arms
 in the army
 at the point of the pistol
-",,,,"ball adj.
+",None,None,None,"ball adj.
 spherical or: spheric adj.
 ","ructious adj.
 ","video adj.
 reverse video
 full-video adj.
-",,,"R-rated adj. (Amer.)
+",None,None,"R-rated adj. (Amer.)
 ","statewide adj.
 national adj.
 political adj.
@@ -10905,7 +10905,7 @@ at that rate
 at a fixed rate
 at a reduced rate
 at cut rates
-",,,,,,,,,,,"in action
+",None,None,None,None,None,None,None,None,None,None,"in action
 in use
 case-hardened adj. [ENGIN.]
 in the field
@@ -11841,19 +11841,19 @@ für den Verkehr gesperrt
 für den Verkehr gesperrt
 aus dem Verkehr gezogen
 einschließlich Ro-Ro-Verkehr
-",,"autoerotisch
+",None,"autoerotisch
 automatisch unterstützt
-",,"eine Waffe tragend
+",None,"eine Waffe tragend
 unter Waffen
 unter Waffen
 mit vorgehaltener Waffe
-",,,,"Kugel...
+",None,None,None,"Kugel...
 Kugel...
 ","auf Krawall aus
 ","Video...
 invers adj.
 Bewegtbild...
-",,,"frei ab 17
+",None,None,"frei ab 17
 ","im ganzen Staat
 Staats...
 Staats...
@@ -11880,7 +11880,7 @@ zu diesem Satz
 zu einem bestimmten Satz
 zu herabgesetzten Sätzen
 zu reduzierten Sätzen
-",,,,,,,,,,,"im Einsatz
+",None,None,None,None,None,None,None,None,None,None,"im Einsatz
 im Einsatz
 im Einsatz gehärtet
 im praktischen Einsatz
@@ -12572,12 +12572,12 @@ a fight to the finish
 it was a case of dog eat dog
 to face an uphill battle
 Go in and win! [coll.]
-",None,None,,,,"to go to the barricades
+",None,None,None,None,None,"to go to the barricades
 ","quick on the draw
-",,,,"to have a cushy job [coll.] (Amer.)
+",None,None,None,"to have a cushy job [coll.] (Amer.)
 to have a cushy number [coll.] (Amer.)
 ","to be spoiling for a fight [coll.]
-",,,,,,"Trust is good, control is better.
+",None,None,None,None,None,"Trust is good, control is better.
 ","without resort to force
 with might and main
 acts of God excepted[INSUR.]
@@ -12585,7 +12585,7 @@ acts of God excepted[INSUR.]
 ","a set of ...
 game, set, match [SPORT.]
 game, set and match [SPORT.]
-",,,,,,,,,,,"without resort to force
+",None,None,None,None,None,None,None,None,None,None,"without resort to force
 ","the young
 ","Chin up!
 Cheer up!
@@ -13265,12 +13265,12 @@ ein Kampf bis aufs Messer
 es war ein Kampf jeder gegen jeden
 einen harten Kampf vor sichdat. haben
 Auf in den Kampf!
-",None,None,,,,"auf die Barrikaden gehen [fig.]
+",None,None,None,None,None,"auf die Barrikaden gehen [fig.]
 ","schnell mit der Waffe
-",,,,"eine ruhige Kugel schieben [coll.]
+",None,None,None,"eine ruhige Kugel schieben [coll.]
 eine ruhige Kugel schieben [coll.]
 ","auf Krawall gebürstet sein
-",,,,,,"Vertrauen ist gut, Kontrolle ist besser.
+",None,None,None,None,None,"Vertrauen ist gut, Kontrolle ist besser.
 ","ohne Einsatz von Gewalt
 mit aller Gewalt
 ausgenommen höhere Gewalt
@@ -13278,7 +13278,7 @@ höhere Gewalt ausgeschlossen
 ","ein Satz von ...
 Spiel, Satz, Sieg [Tennis]
 Spiel, Satz und Sieg [Tennis]
-",,,,,,,,,,,"ohne Einsatz von Gewalt
+",None,None,None,None,None,None,None,None,None,None,"ohne Einsatz von Gewalt
 ","die Jugendlichen
 ","Kopf hoch!
 Kopf hoch!
@@ -14207,15 +14207,15 @@ There isn't any room for her in the car.
 What car do they drive?
 We all packed into the car.
 That's a beautiful car. Don't tell me it's yours!
-",,"It was a case of the biter bit.
+",None,"It was a case of the biter bit.
 They have voluntarily divested themselves of arms.
-",,"provided it offers such facilities
+",None,"provided it offers such facilities
 installation for ranging and handling packaging elements [PACK.]
 ","How many times have I told you to empty the bin?
-",,,"She showed them the video.
+",None,None,"She showed them the video.
 She showed the video to them.
 ","do not keep the container sealed
-",,"at 17
+",None,"at 17
 The house that we lived in for 17 years has been pulled down.
 The house which we lived in for 17 years has been pulled down.
 ","The country whose territorial integrity was breached retaliated with sanctions.
@@ -14230,14 +14230,14 @@ I didn't catch the sentence.
 will be charged at the former rate
 at a certain rate
 It is based on the same principle
-",,,"a tragic occurrence
-",,"an off-duty policeman
+",None,None,"a tragic occurrence
+",None,"an off-duty policeman
 there was law all over the place
-",,,,,"there was law all over the place
+",None,None,None,None,"there was law all over the place
 an off-duty policeman
 ","concentrated efforts of the fire brigade
 American pilots flew 80% of the sorties.
-",,"I don't know whether I'm coming or going.
+",None,"I don't know whether I'm coming or going.
 You can put that idea right out of your mind.
 She nodded her head.
 He shook his head.
@@ -15161,15 +15161,15 @@ Es ist kein Platz mehr für sie im Auto.
 Was für ein Auto fahren sie?
 Wir quetschten uns alle in das Auto.
 Das ist ein wunderschönes Auto. Sag bloß, das ist deins!
-",,"Er wurde mit seinen eigenen Waffen geschlagen.
+",None,"Er wurde mit seinen eigenen Waffen geschlagen.
 Sie haben freiwillig die Waffen abgelegt.
-",,"vorausgesetzt, er bietet solche Einrichtungen
+",None,"vorausgesetzt, er bietet solche Einrichtungen
 Einrichtung zum Fördern und Ordnen von Packgutelementen
 ","Wie oft habe ich dir gesagt du sollst den Müll rausbringen?
-",,,"Sie zeigte ihnen das Video.
+",None,None,"Sie zeigte ihnen das Video.
 Sie zeigte ihnen das Video.
 ","Behälter nicht gasdicht verschließen
-",,"mit 17
+",None,"mit 17
 Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
 Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.
 ","Der Staat, gegen dessen territoriale Integrität verstoßen wurde, reagierte mit Sanktionen.
@@ -15184,14 +15184,14 @@ Ich habe den Satz nicht verstanden.
 werden zum alten Satz berechnet
 zu einem bestimmten Satz
 Es beruht auf denselben Grundsätzen
-",,,"ein tragischer Vorfall
-",,"ein Polizist, der nicht im Dienst ist
+",None,None,"ein tragischer Vorfall
+",None,"ein Polizist, der nicht im Dienst ist
 es wimmelte nur so von Polizisten
-",,,,,"es wimmelte nur so von Polizisten
+",None,None,None,None,"es wimmelte nur so von Polizisten
 ein Polizist, der nicht im Dienst ist
 ","der geballte Einsatz der Feuerwehr [Fire Safety/Fire Protection]
 Die Amerikaner flogen 80% der Einsätze.
-",,"Ich weiß nicht, wo mir der Kopf steht.
+",None,"Ich weiß nicht, wo mir der Kopf steht.
 Diese Idee kannst du dir gleich aus dem Kopf schlagen.
 Sie nickte mit dem Kopf.
 Er schüttelte den Kopf.
