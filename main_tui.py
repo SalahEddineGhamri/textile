@@ -14,14 +14,17 @@ from text import Blackboard, TextAnalyzer
 # TODO: add button to clear text of all schemes
 # TODO: make text and analyze update realtime when a new info is ready
 # ---------------------------------------------------
+
 """
 # TODO: use it to redraw text
 press = Button.Pressed(TextileApp.nouns_button)
 TextileApp.nouns_button.on_button_pressed(press)
 """
 
-TEXT_WIDTH = 100
+# create a Blackboard
 blackboard = Blackboard(INPUT_PATH)
+
+# Analyze text
 text_analyzer = TextAnalyzer(blackboard.manager)
 
 

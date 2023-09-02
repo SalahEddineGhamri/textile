@@ -3,7 +3,7 @@ Helper to learn sturdy german texts and extract vocabulary
 it show case grammer cases and help you remember the rules
 while reading the text
 
-# roadmap
+## roadmap
 - input a text from a txt file
 - analyze text for what is available "article"
 - define a color scheme
@@ -11,16 +11,16 @@ while reading the text
 - show the text nin text widget
 - make articles csv complete
 
-# dependencies
+## dependencies
 - pip3 install pandas
 - pip3 install genanki
 - pip3 install spacy
 - python3 -m spacy download de_core_news_sm
 - pip3 install pandarallel
-- pretty is used to print in python
-- TUI is using Textual
+- pretty is used to print in python // install via pip3?
+- TUI is using Textual // install via pip3 ?
 
-# categories of part of speech
+## categories of part of speech
 ADJ: adjective, e.g. big, old, green, incomprehensible, first
 ADP: adposition, e.g. in, to, during
 ADV: adverb, e.g. very, tomorrow, down, where, there

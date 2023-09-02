@@ -3,7 +3,6 @@ import random
 
 # fields are HTML
 
-
 class GeneralNote(genanki.Note):
     model = genanki.Model(
                         2617295532,
