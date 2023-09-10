@@ -1,7 +1,8 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
-",,,,,,,,,,,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,,,,"be : Verb
+",,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -63,7 +64,34 @@ to show so. the ropes
 to be back to square one
 to locate the source of a leak
 to take the line of least resistance
-",
+",,,,,"to be aux. | was, been |
+to be sth. | was, been |
+to be | was, been |
+to be + expression of place | was, been | - be situated or located
+to be out and about
+to be after so./sth.
+to be beyond so.
+to be beyond so.
+to be beyond so.
+to be around
+to be around
+to be around
+to be around
+to be into so./sth.
+","to be present
+to be around
+to be in town
+to be there
+to be in
+to be on hand
+to reach out to so.
+to be back
+to be out
+to intersperse | interspersed, interspersed |
+to be out of pocket (Amer.) [coll.]
+to be back to square one
+",,"to bend to ... ° [ENGIN.]
+"
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -125,7 +153,34 @@ jmdm. zeigen, wo es (or: wo's) langgeht
 wieder da sein, wo man angefangen hat
 feststellen, wo eine undichte Stelle ist
 das Brett bohren, wo's am dünnsten ist
-",
+",,,,,"sein | war, gewesen |
+etw.nom. sein | war, gewesen |
+betragen | betrug, betragen |
+sichacc. + expression of place befinden | befand, befunden | - an einem Ort
+unterwegs sein
+hinter jmdm./etw. her sein
+jmds. Fähigkeiten übersteigen
+jmdm. ein Rätsel sein
+jmdm. zu hoch sein | war, gewesen |
+da sein
+in der Nähe sein
+dabei sein - anwesend sein
+hier sein
+sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
+","da sein
+da sein
+da sein
+da sein
+da sein
+da sein
+für jmdn. da sein
+wieder da sein
+nicht da sein
+hier und da einfügen
+nicht da sein
+wieder da sein, wo man angefangen hat
+",,"um ... ° biegen [Mechanical Engineering]
+"
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -493,6 +548,102 @@ the ifs and buts
 right but not the obligation
 necessary but not sufficient condition
 hours paid but not worked [COMM.]
+","view (of sth.)
+tax - pl.: taxes (on sth.) [FINAN.]
+application (to)
+prospect (of sth.)
+influence (on)
+right (to)
+access (to) also [COMP.]
+reference (to)
+right (to)
+faith (in so./sth.)
+rise and fall
+swayings
+allusion (to sth.)
+reference (to sth.)
+","pro
+example (of)
+indication (of)
+instance (of)
+replacement (for sth.)
+ability (for)
+basis (for)
+sense (of sth.)
+insult (to so.)
+sense (of sth.)
+World Intellectual Property Organization [abbr.: WIPO]
+self-catering
+pros and cons pl.
+health and safety officer
+","desire (for)
+desire (for)
+approval (according to) [TECH.]
+after provision for risk
+after a chill [MED.]
+craving (for)
+yearning (for sth.)
+pursuit (of sth.)
+craving (for sth.)
+anxiety (for)
+desire (for)
+longing (for)
+inclusion (in)
+annuity pursuant (to ...)
+","at the money forward [FINAN.]
+amplitude modulated signal generator [METR.]
+double-sideband amplitude modulation system [abbr.: DSB-AM] [TELECOM.]
+Frankfurt am Main [GEOG.]
+pro-am tournament
+to be committed to doing sth.
+to be a dunce at sth. - e. g. at a certain subject
+to be a dunce at sth. - e. g. at a certain subject
+to be in the family way
+to be infatuated with so./sth.
+to be paralysedAE / paralyzedAE with shock [coll.]to be paralysedBE with shock [coll.]
+to be always on the go
+to be buoyed by sth. [fig.]
+material to be conveyed
+","the top brass
+auto-da-fé - pl.: autos-da-fé [HIST.]
+auto-da-fé - pl.: autos-da-fé [HIST.]
+""Who are you"" signal [TELECOM.]
+""Who are you"" signal function [TELECOM.]
+WRU signal [TELECOM.]
+alto viol [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
+viola (or: viol) da braccio [MUS.][HIST.]
+bass viol [MUS.][HIST.]
+","Strength through Joy [HIST.]
+ecosystem loading (by) [ENV.]
+impaired capital
+waterborne disease
+lessons learned
+issued mortgage bonds
+man-made crisis
+war damage
+margined security
+covenantee
+resignee
+elective office
+density of occupation fixed by the plan
+stomach insecticide
+","anxiety (for) [PSYCH.]
+rotated barcode
+bid for sth.
+bid for sth.
+squabbling (over (or: about) sth.)
+bickering (over (or: about) sth.) [coll.]
+disagreement (about (or: on, over) sth.)
+wrangling (over (or: about) sth.) (Brit.) [coll.]
+argy-bargy (over (or: about sth.)) (Brit.) [coll.]
+scrap (for sth.) [coll.] - fight
+no-see-um [ZOOL.]
+performance upon counter-performance [LAW]
+to adjust for inflation [FINAN.]
+request for confirmation
 "
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
@@ -861,6 +1012,102 @@ das Wenn und Aber
 Recht aber keine Verpflichtung
 notwendige, aber nicht hinreichende Bedingung
 bezahlte, aber nicht geleistete Stunden
+","die Aussicht (auf etw.acc.) pl.
+die Steuer (auf etw.acc.) pl.: die Steuern
+die Anwendung (auf) pl.: die Anwendungen
+die Aussicht (auf etw.acc.) pl.
+der Einfluss (auf) pl.: die Einflüsse
+das Recht (auf) pl.
+der Zugriff (auf) pl.: die Zugriffe
+der Bezug (auf +acc.) pl.: die Bezüge
+der Anspruch (auf) pl.: die Ansprüche
+das Vertrauen (auf jmdn./etw.) no plural
+Auf und Ab
+das Auf und Ab
+die Anspielung (auf etw.acc.) pl.: die Anspielungen
+die Anspielung (auf etw.acc.) pl.: die Anspielungen
+","das Für
+das Beispiel (für) pl.: die Beispiele [abbr.: Bsp.]
+das Anzeichen (für) pl.: die Anzeichen
+das Beispiel (für) pl.: die Beispiele
+der Ersatz (für etw.acc.) no plural
+die Fähigkeit (für) pl.
+die Grundlage (für) pl.: die Grundlagen
+der Sinn (für etw.acc.) no plural
+die Beleidigung (für jmdn.) pl.: die Beleidigungen
+das Gefühl (für etw.acc.) no plural
+Weltorganisation für geistiges Eigentum [abbr.: WIPO]
+für Selbstversorger
+das Für und Wider
+Fachkraft für Arbeitssicherheit [abbr.: FASi]
+","der Wunsch (nach) pl.: die Wünsche
+die Sehnsucht (nach) pl.: die Sehnsüchte
+die Zulassung (nach) pl.: die Zulassungen
+nach Risikovorsorge
+nach einer Erkältung
+die Sehnsucht (nach +dat.) pl.: die Sehnsüchte
+die Sehnsucht (nach etw.dat.) pl.: die Sehnsüchte
+das Streben (nach etw.dat.) no plural
+das Verlangen (nach +dat.) no plural
+das Verlangen (nach) no plural
+das Verlangen (nach) no plural
+das Verlangen (nach) no plural
+die Versetzung (nach) pl.: die Versetzungen
+die Verrentung (nach ...) pl.: die Verrentungen
+","der Am-Geld-Termin
+der AM-Signalgenerator pl.: die AM-Signalgeneratoren
+das Zweiseitenband-AM-System
+Frankfurt am Main
+Turnier der Profis und Amateure
+sichdat. zur Aufgabe machen, etw.acc. zu tun
+eine Niete in etw. sein - z. B. in einem Schulfach
+schlecht in etw. sein - z. B. in einem Schulfach
+schwanger sein
+in jmdn./etw. vernarrt sein
+in Schockstarre sein [coll.]
+umtriebig sein [coll.]
+von etw.dat. beflügelt sein [fig.]
+das Fördergut pl.: die Fördergüter
+","die da oben [coll.]
+das Autodafé pl.: die Autodafés - Ketzerverbrennung
+die Ketzerverbrennung pl.: die Ketzerverbrennungen - Inquisition
+das Wer-da-Signal
+das Wer-da-Signal
+das Wer-da-Signal
+Viola da Braccio - italienisch - frühere Form der Streichinstrumente
+die Gambe pl.: die Gamben - Vorläuferin des Cellos; auch Orgelregister
+die Kniegeige pl.: die Kniegeigen - Vorläuferin des Cellos; auch Orgelregister
+die Viola da Gamba - italienisch - Vorläuferin des Cellos; auch Orgelregister
+die Viola da Braccio - italienisch - Vorläuferin der Bratsche
+die Viola da Gamba - italienisch - frühere Form der Streichinstrumente
+","Kraft durch Freude [abbr.: KdF] [Nationalsozialismus]
+die Ökosystembelastung (durch)
+durch Verluste gemindertes Kapital
+durch Wasser übertragene Krankheit
+durch Erfahrung erworbenes Wissen
+durch Hypotheken gesicherte Anleihe
+durch Menschen verursachte Krise
+durch Kriegseinwirkung verursachte Zerstörung
+durch Einschuss gedecktes Wertpapier
+durch Vertrag Berechtigter
+durch Verzichtleistung Begünstigter
+durch Wahl besetztes Amt
+durch den Bebauungsplan festgelegte Dichte
+durch den Magen wirkendes Insektizid
+","die Angst (um) pl.: die Ängste
+um 90° gedrehter Barcode
+die Bemühung um etw.acc. pl.: die Bemühungen
+die Bewerbung um etw.acc. pl.: die Bewerbungen
+der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
+der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
+der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
+der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
+der (or: das) Hickhack (um etw.acc.) pl.: die Hickhacks [coll.]
+das Gerangel (um etw.acc.) no plural
+die Gnitze Lat.: Ceratopogonidae
+die Zug-um-Zug-Abwicklung
+um die Inflation bereinigen
+Bitte um Bestätigung
 "
 noun_details,english,"article: die
 word: Regierungspartei
@@ -1060,8 +1307,50 @@ genus: NEUT
 plural: Aber / Abers
 meaning: but
 the ifs and buts
+","article: die
+word: Aussicht
+genus: FEMI
+plural: 
+meaning: view (of sth.)
+tax - pl.: taxes (on sth.) [FINAN.]
+","article: Das
+word: Für
+genus: NEUT
+plural: Für
+meaning: pro
+example (of)
+","article: der
+word: Wunsch
+genus: MASC
+plural: die Wünsche
+meaning: desire (for)
+desire (for)
+","article: der
+word: Am-Geld-Termin
+genus: MASC
+plural: Am-Geld-Termin
+meaning: at the money forward [FINAN.]
+amplitude modulated signal generator [METR.]
+","article: die
+word: da
+genus: FEMI
+plural: [coll.]
+meaning: the top brass
+auto-da-fé - pl.: autos-da-fé [HIST.]
+","article: Kraft
+word: durch
+genus: 
+plural: [Nationalsozialismus]
+meaning: Strength through Joy [HIST.]
+ecosystem loading (by) [ENV.]
+","article: die
+word: Angst
+genus: FEMI
+plural: die Ängste
+meaning: anxiety (for) [PSYCH.]
+rotated barcode
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -1438,6 +1727,104 @@ whencesoever adv. conj. archaic
 though adv.
 bluff adj.
 reconditioned adj. [TECH.]
+","up adv.
+open adj.
+suddenly adv.
+at once
+on spec
+permanently adv.
+in perpetuity
+in one shot adv.
+all at once
+at a single blow
+all of a sudden
+on request
+on inquiryAE on enquiryBE
+arboreal adj.
+","foreverAE adv.foreverBE / for everBE adv.
+usually adv.
+what adj.
+required (to (or: for)) adj.
+suitable (for) adj.
+typical (of) adj.
+responsible (for so./sth.) adj.
+satisfactory (to (or: for)) adj.
+favorableAE / favourableBE (to) adj.
+material (to) adj.
+characteristic (of) adj.
+for good
+for keeps
+perennially adv.
+","up adv.
+home adv.
+upstairs adv.
+forward or: forwards adv.
+outside adv.
+down adv.
+downstairs adv.
+inside adv.
+northwest or: north-west adv.
+to the fore
+onward or: onwards adv.
+outwardespAE / outwardsespBE adv.
+outwards adv.
+out adv.
+","to be
+ibidem Latin [abbr.: ibid.] adv.
+in the place cited [abbr.: l. c.] - from Latin: loco citato
+marginally adv.
+marginal adj.
+to be defined [abbr.: TBD]
+to be determined [abbr.: TBD]
+to be distraught (over sth.) adj.
+to be paid
+to be added
+designed to be sth.
+on the brink
+at the brink of death
+on the brink of death
+","there adv.
+here adv.
+given that
+over there
+down there
+out there
+up there
+ahead adv.
+thereabouts adv.
+here and there
+da capo adv. [MUS.]
+just then
+not in
+missing adj.
+","whereby adv.
+well-done adj. [COOK.]
+oxidative adj.
+by chance
+by accident
+by hazard
+accidentally adv.
+by special delivery
+express adj.
+due to external causes
+by issue of release orders
+by bending
+by raising one's hand
+by a show of hands
+","around adv.
+about adv.
+for their sake
+considerably adv.
+to a considerable degree
+by a nose
+about noon
+fiftyish adj.
+thereabouts adv.
+thereabouts adv.
+around (or: round) the corner [coll.]
+by a short head (Brit.) [SPORT.]
+displaced (by) adj.
+encircling adj.
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -1815,6 +2202,104 @@ von wo auch immer
 aber
 rau aber herzlich
 gebraucht, aber neuwertig
+","auf
+auf [coll.]
+auf einmal
+auf einmal
+auf Verdacht
+auf Dauer - für unbegrenzte Zeit
+auf Dauer - für unbegrenzte Zeit
+auf einmal
+auf einmal
+auf einmal
+auf einmal
+auf Anfrage
+auf Anfrage
+auf Bäumen
+","für immer
+für gewöhnlich
+was für
+erforderlich (zu (or: für))
+passend (für)
+typisch (für)
+verantwortlich (für jmdn./etw.)
+zufriedenstellend (für)
+günstig (für)
+maßgeblich (für)
+typisch (für) +acc.
+für immer
+für immer
+für immer
+","nach oben
+nachhause or: nach Hause
+nach oben
+nach vorn
+nach draußen
+nach unten
+nach unten
+nach innen
+nach Nordwesten
+nach vorn
+nach vorn
+nach außen
+nach außen
+nach draußen
+","in spe
+am angegebenen Ort [abbr.: a. a. O.]
+am angegebenen Ort [abbr.: a. a. O.]
+am Rande
+am Rand (or: Rande)
+noch nicht definiert
+noch nicht festgelegt
+(über etw.acc.) außer sichdat. sein
+zahlungsrelevant
+wird noch hinzugefügt
+für etw.acc. vorgesehen
+am Rande des Abgrunds
+am Rande des Todes
+am Rande des Todes
+","da
+da
+da
+da drüben
+da unten
+da draußen
+da oben
+da vorne
+da herum
+da und dort
+da capo
+gerade da
+nicht da
+nicht da
+","durch den
+durch adv. - Steak
+durch Oxidation (or: Oxydation)
+durch Zufall
+durch Zufall
+durch Zufall
+durch Zufall
+durch Eilboten
+durch Eilboten
+durch Fremdeinwirkung
+durch Abruf
+durch Biegung
+durch Handzeichen
+durch Handzeichen
+","um
+um
+um derentwillen (or: deretwillen)
+um einiges
+um einiges
+um eine Nasenlänge
+um die Mittagszeit
+um die fünfzig
+um den Dreh [coll.]
+um die Drehe [coll.]
+um die Ecke
+um eine Nasenlänge
+versetzt (um)
+rings um
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -2209,6 +2694,104 @@ come, come
 for what it's worth
 Sharp's the word!
 That's the last straw!
+","Bye! or: By!
+Goodbye! - on the phone
+Bye! or: By! - on the phone
+goodbye or: good-bye
+Bye-bye! [coll.]
+never to be seen again
+See you!
+Ta ra! (Brit.)
+Ta ta! (Brit.)
+Good night!
+See you again!
+So long!
+just ticking over (Brit.)
+so long
+","for peanuts
+for a song
+for the birds
+for a spell
+for free [coll.]
+strictly for the birds
+for test purposes [TECH.]
+what kind of
+What a ...
+the silver bullet for sth.
+a peg on which to hang sth.
+just in case
+to my mind
+just for me
+","with might and main
+ad libitum
+to one's heart's content
+ad libitum
+as prompted
+as the need arises
+anno Domini [abbr.: AD]
+according to the principle
+after extra time [abbr.: a. e. t., AET] [SPORT.]
+to so.'s mind
+titled according to ...
+legend has it that ...
+The sky's the limit.
+according to Cocker
+","to be out and about again - after a period of illnes
+to be in - in fashion
+to be out - out of fashion
+to be out and about - going to many different places
+to be down and out
+to be up and about again - after a period of illnes
+to be down on so./sth. [coll.] (Brit.)
+to be down on so./sth. [coll.] (Brit.)
+to be down on so./sth. [coll.] (Brit.)
+to be on the up and up (Brit.) [coll.]
+to be on the up and up (Brit.) [coll.]
+to be on the up and up (Brit.) [coll.]
+'tis - contraction of ""it is"" [poet.] also archaic
+Nor am I.
+","Get out of the way!
+behold - interj.
+This one!
+Lo and behold! chiefly [hum.]
+It's hard to know what to do.
+I'm stumped.
+I haven't a clue.
+I wouldn't know.
+You've got me there.
+You've got another think (or: thing) coming.
+There you are!
+That beats everything.
+You can wait until (or: till) the cows come home!
+There you are!
+","every single one
+governed by
+Hang in there! (Amer.) [coll.]
+Heave! [NAUT.]
+bounded by [MATH.]
+by rote
+as American as apple pie
+by a fluke
+by a cruel twist of fate
+through difficulty to the stars
+through thick and thin
+by the very fact - ipso facto [LAW]
+assembly by adult only
+solely controlled by
+","For heaven's sake!
+to be on the safe side
+to make sure
+RSVP - from French: répondez s'il vous plaît
+by a hair
+by a hairbreadth
+by the skin of one's teeth
+by a whisker
+by a hair's breadth
+by a hair's breadth
+very nearly
+by a fraction of an inch
+by a hair
+within an ace
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -2603,6 +3186,104 @@ aber was denn
 aber das nur nebenbei
 Jetzt aber dalli!
 Jetzt reicht es mir aber!
+","Auf Wiedersehen!
+Auf Wiederhören! - am Telefon
+Auf Wiederhören! - am Telefon
+auf Wiedersehen
+Auf Wiedersehen!
+auf Nimmerwiedersehen
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+Auf Wiedersehen!
+auf Sparflamme
+auf Wiedersehen
+","für ein Butterbrot
+für ein Butterbrot
+für die Katz
+für eine Weile
+für lau [coll.]
+für die Katz [coll.] - nachgestellt
+für Messzwecke
+was für
+Was für ein ...
+die Wunderlösung für etw.acc.
+ein Aufhänger für etw.acc. [fig.]
+für alle Fälle
+für mein Gefühl
+für mich allein
+","aus (or: nach) Leibeskräften
+nach Belieben
+nach Herzenslust
+nach Herzenslust
+nach Aufforderung
+nach Bedarf
+nach Christus [abbr.: n. Chr.]
+nach dem Motto
+nach Verlängerung
+jmds. Meinung nach
+beschriftet nach ...
+der Legende nach ...
+Nach oben sind keine Grenzen gesetzt.
+nach Adam Riese
+","wieder auf den Beinen sein - wieder gesund sein
+in sein - in Mode
+out sein - außer Mode
+viel auf den Beinen sein - unterwegs sein
+ganz unten sein
+wieder auf den Beinen sein
+etwas gegen jmdn./etw. haben
+gegen jmdn./etw. einen Groll hegen
+jmdm./etw. gegenüber feindselig eingestellt sein
+auf dem Wege (or: Weg) der Besserung sein
+auf dem aufsteigenden Ast sein
+sichacc. verbessern | verbesserte, verbessert |
+es ist
+Ich auch nicht.
+","Platz da!
+siehe da
+Dieses da!
+Siehe da! chiefly [hum.]
+Da ist guter Rat teuer.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da bin ich überfragt.
+Da irrst du dich gewaltig!
+Da haben Sie es!
+Da hört alles auf!
+Da kannst du lange warten!
+Da sind Sie ja!
+","durch die Bank [fig.]
+geregelt durch
+Halte durch!
+Hol durch!
+begrenzt durch
+durch stures Auswendiglernen
+durch und durch amerikanisch
+durch einen glücklichen Zufall
+durch eine grausame Laune des Schicksals
+durch Widrigkeiten zu den Sternen
+durch dick und dünn
+durch die Tat selbst - ipso facto
+Montage nur durch Erwachsene
+ausschließlich beherrscht durch
+","Um Gottes willen!
+um sicherzugehen
+um sicherzugehen
+um Antwort wird gebeten [abbr.: u. A. w. g.]
+um Haaresbreite
+um Haaresbreite
+um Haaresbreite
+um Haaresbreite
+um Haaresbreite
+um ein Haar - beinahe, fast
+um ein Haar - beinahe, fast
+um ein Haar - beinahe, fast
+um ein Haar - beinahe, fast
+um ein Haar - beinahe, fast
 "
 examples,english,"in English
 in 1999
@@ -3069,6 +3750,104 @@ I hate to tell you, but ...
 quite true but ...
 I'll have a coke, but hold the ice, please.
 He loved her but she married another.
+","in English
+on pre-printed forms
+on the dealing floor
+on the capital market
+on the bill of exchange
+based on full costing [COMM.]
+in the money market [FINAN.]
+sth. forces itself upon so.
+at my cost
+Westward ho!
+in my dotage
+in a similar manner
+following Mr. Jones' suggestion
+on the enclosed order form
+","If a student loses their ID card, they have to pay for a new one.
+for the upper classes
+as an installmentAE againstas an instalmentBE against
+for myself
+for an indefinite time
+For whom does he work?
+Who does he work for?
+aspects in his favorAE areaspects in his favourBE are
+for aficionados like yourself
+Who did you buy these flowers for?
+elected for a period of 3 years
+for the beginning of June
+for the beginning of next week
+an early reply will oblige
+","according to the rules
+after the stock market has opened [FINAN.]
+after breakfast
+after my fancy
+after this time has elapsed
+after this date
+after the period has lapsed without success
+after consultation with
+at the discretion of the manufacturer
+after the expiration of the contract
+upon acceptance of our draft
+according to all accounts
+taking everything into account
+after consultation with
+","on Wednesday afternoon
+the most beautiful
+on the date of issue
+on the date of maturity
+I am (or: I'm)
+1 am
+1 am
+11 am
+am I disturbing you?
+am I right?
+am I right?
+am I right in assuming that ...?
+at the end of the trading year
+throughout the market
+","That's no laughing matter.
+That's not funny.
+There you're mistaken.
+There you are mistaken.
+in my neck of the woods
+my neck of the woods
+in my neck of the woods
+There is more to it than meets the eye.
+There's more behind it.
+It will all come to nothing
+You've got me there.
+as you are familiar with
+There he was, resplendent in his new uniform.
+as we had forgotten our money
+","through the Balkans
+by withdrawing cash [FINAN.]
+by paying in [FINAN.]
+by means of an endorsement (or: indorsement) [FINAN.]
+through a financing institution [FINAN.]
+rotten to the core
+by assisting us
+through specific conduct
+by a defect of the machinery
+affected by a strike
+by their joint efforts
+owing to favorableAE circumstancesowing to favourableBE circumstances
+change due to old age
+index basket weighted by ...
+","in order to cover
+some time around Easter
+It's too bad about ...
+to give myself a boost
+to enable him
+in order to deliver commercial documents
+in order to meet you
+in order to save you expenses
+in order to show you
+in order to meet your wishes
+in order to guard against misunderstandings
+some time around Easter
+in order to acquaint you with our products
+in order to encourage you
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -3535,4 +4314,102 @@ Ich sag's dir ja nur ungern, aber ...
 wohl wahr, aber ...
 Eine Cola, aber bitte ohne Eis.
 Er hat sie geliebt, aber sie hat einen anderen geheiratet.
+","auf Englisch
+auf Vordrucken
+auf dem Börsenparkett
+auf dem Kapitalmarkt
+auf dem Wechsel
+auf Vollkostenbasis
+auf dem Geldmarkt
+etw.nom. zwingt sich jmdm. auf
+auf meine Kosten
+Auf nach Westen!
+auf meine alten Tage
+auf ähnliche Weise
+auf Anraten von Herrn Jones
+auf beiliegendem Bestellschein
+","Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+für die Oberschicht
+als Teilzahlung für
+für mich selbst
+für unbestimmte Zeit
+Für wen arbeitet er?
+Für wen arbeitet er?
+für ihn spricht
+für Liebhaber, wie Sie selbst
+Für wen hast du diese Blumen gekauft?
+für 3 Jahre gewählt
+für Anfang Juni
+für Anfang nächster Woche
+für baldige Antwort sind wir dankbar
+","nach den Richtlinien
+nach Börseneröffnung
+nach dem Frühstück
+nach meinem Geschmack
+nach Ablauf dieser Zeit
+nach diesem Datum
+nach ergebnislosem Fristablauf
+nach Rücksprache mit
+nach Wahl des Herstellers
+nach Ablauf des Vertrags
+nach Akzeptierung unseres Wechsels
+nach allen Berichten
+nach allen Überlegungen
+nach Beratung mit
+","am Mittwochnachmittag
+am schönsten
+am Ausgabetag
+am Fälligkeitstag
+ich bin
+1 Uhr morgens
+1 Uhr nachts
+11 Uhr vormittags
+störe ich?
+habe ich recht?
+liege ich richtig?
+gehe ich recht in der Annahme, dass ...
+am Ende des Geschäftsjahres
+am ganzen Markt
+","Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Da irren Sie sich.
+Da irren Sie sich.
+da, wo ich herkomme
+da, wo ich herkomme
+da, wo ich wohne
+Da steckt mehr dahinter.
+Da steckt mehr dahinter.
+Da wird nichts draus
+Da hast du mich drangekriegt.
+da Sie vertraut sind mit
+Da war er, in seiner funkelnden neuen Uniform.
+da wir unser Geld vergessen hatten
+","durch den Balkan
+durch Barabhebung
+durch Einzahlung
+durch Indossament
+durch ein Finanzierungsinstitut
+durch und durch schlecht
+durch Ihre Hilfe
+durch bestimmtes Verhalten
+durch einen Maschinenfehler
+durch einen Streik beeinträchtigt
+durch gemeinsame Anstrengung
+durch glückliche Umstände
+durch hohes Alter verursachte Veränderung
+durch ... gewichteter Wert des Indexkorbs
+","um abzudecken
+um Ostern
+Schade um ...
+um meine Stimmung aufzuhellen
+um es ihm zu ermöglichen
+um Handelspapiere auszuhändigen
+um Ihnen entgegen zu kommen
+um Ihnen Kosten zu sparen
+um Ihnen zu zeigen
+um Ihren Wünschen nachzukommen
+um Missverständnissen vorzubeugen
+um Ostern herum
+um Sie mit unserer Ware vertraut zu machen
+um Sie zu ermutigen
 "

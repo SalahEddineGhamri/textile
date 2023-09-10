@@ -1,4 +1,4 @@
-voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert
+voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,verhindern,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,vorbereitet,eingepackt,erkunden,probieren,sammeln,vergessen
 indicative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -564,7 +564,182 @@ indicative_active,Present," ich klag(e) an
  er mobilisiert
  wir mobilisieren
  ihr mobilisiert
- sie mobilisieren"
+ sie mobilisieren"," ich stell(e)
+ du stellst
+ er stellt
+ wir stellen
+ ihr stellt
+ sie stellen"," ich schau(e)
+ du schaust
+ er schaut
+ wir schau(e)n
+ ihr schaut
+ sie schau(e)n"," ich leid(e)
+ du leidest
+ er leidet
+ wir leiden
+ ihr leidet
+ sie leiden"," ich behand(e)l(e)
+ du behandelst
+ er behandelt
+ wir behandeln
+ ihr behandelt
+ sie behandeln"," ich veröffentlich(e)
+ du veröffentlichst
+ er veröffentlicht
+ wir veröffentlichen
+ ihr veröffentlicht
+ sie veröffentlichen"," ich druck(e)
+ du druckst
+ er druckt
+ wir drucken
+ ihr druckt
+ sie drucken"," ich lass(e)
+ du lässt
+ er lässt
+ wir lassen
+ ihr lasst
+ sie lassen"," ich steh(e)
+ du stehst
+ er steht
+ wir steh(e)n
+ ihr steht
+ sie steh(e)n"," ich geb(e) auf
+ du gibst auf
+ er gibt auf
+ wir geben auf
+ ihr gebt auf
+ sie geben auf"," ich nehm(e) ein
+ du nimmst ein
+ er nimmt ein
+ wir nehmen ein
+ ihr nehmt ein
+ sie nehmen ein"," ich werf(e) vor
+ du wirfst vor
+ er wirft vor
+ wir werfen vor
+ ihr werft vor
+ sie werfen vor"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich fehl(e)
+ du fehlst
+ er fehlt
+ wir fehlen
+ ihr fehlt
+ sie fehlen"," ich ford(e)r(e) auf
+ du forderst auf
+ er fordert auf
+ wir fordern auf
+ ihr fordert auf
+ sie fordern auf"," ich organisier(e)
+ du organisierst
+ er organisiert
+ wir organisieren
+ ihr organisiert
+ sie organisieren"," ich verles(e)
+ du verliest
+ er verliest
+ wir verlesen
+ ihr verlest
+ sie verlesen"," ich weis(e) zurück
+ du weist zurück
+ er weist zurück
+ wir weisen zurück
+ ihr weist zurück
+ sie weisen zurück"," ich verhind(e)r(e)
+ du verhinderst
+ er verhindert
+ wir verhindern
+ ihr verhindert
+ sie verhindern"," ich reis(e)
+ du reist
+ er reist
+ wir reisen
+ ihr reist
+ sie reisen"," ich gewart(e)
+ du gewartest
+ er gewartet
+ wir gewarten
+ ihr gewartet
+ sie gewarten"," ich besuch(e)
+ du besuchst
+ er besucht
+ wir besuchen
+ ihr besucht
+ sie besuchen"," ich stell(e) ab
+ du stellst ab
+ er stellt ab
+ wir stellen ab
+ ihr stellt ab
+ sie stellen ab"," ich genieß(e)
+ du genießt
+ er genießt
+ wir genießen
+ ihr genießt
+ sie genießen"," ich fahr(e)
+ du fährst
+ er fährt
+ wir fahren
+ ihr fahrt
+ sie fahren"," ich fahr(e) vorbei
+ du fährst vorbei
+ er fährt vorbei
+ wir fahren vorbei
+ ihr fahrt vorbei
+ sie fahren vorbei"," ich seh(e) aus
+ du siehst aus
+ er sieht aus
+ wir seh(e)n aus
+ ihr seht aus
+ sie seh(e)n aus"," ich komm(e) vorbei
+ du kommst/kömmst vorbei
+ er kommt/kömmt vorbei
+ wir kommen vorbei
+ ihr kommt vorbei
+ sie kommen vorbei"," ich halt(e) an
+ du hältst an
+ er hält an
+ wir halten an
+ ihr haltet an
+ sie halten an"," ich strahl(e)
+ du strahlst
+ er strahlt
+ wir strahlen
+ ihr strahlt
+ sie strahlen"," ich bereit(e) vor
+ du bereitest vor
+ er bereitet vor
+ wir bereiten vor
+ ihr bereitet vor
+ sie bereiten vor"," ich pack(e) ein
+ du packst ein
+ er packt ein
+ wir packen ein
+ ihr packt ein
+ sie packen ein"," ich erkund(e)
+ du erkundest
+ er erkundet
+ wir erkunden
+ ihr erkundet
+ sie erkunden"," ich probier(e)
+ du probierst
+ er probiert
+ wir probieren
+ ihr probiert
+ sie probieren"," ich samm(e)l(e)
+ du sammelst
+ er sammelt
+ wir sammeln
+ ihr sammelt
+ sie sammeln"," ich vergess(e)
+ du vergisst
+ er vergisst
+ wir vergessen
+ ihr vergesst
+ sie vergessen"
 indicative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -1130,7 +1305,182 @@ indicative_active,Imperfect," ich klagte an
  er mobilisierte
  wir mobilisierten
  ihr mobilisiertet
- sie mobilisierten"
+ sie mobilisierten"," ich stellte
+ du stelltest
+ er stellte
+ wir stellten
+ ihr stelltet
+ sie stellten"," ich schaute
+ du schautest
+ er schaute
+ wir schauten
+ ihr schautet
+ sie schauten"," ich litt
+ du litt(e)st
+ er litt
+ wir litten
+ ihr littet
+ sie litten"," ich behandelte
+ du behandeltest
+ er behandelte
+ wir behandelten
+ ihr behandeltet
+ sie behandelten"," ich veröffentlichte
+ du veröffentlichtest
+ er veröffentlichte
+ wir veröffentlichten
+ ihr veröffentlichtet
+ sie veröffentlichten"," ich druckte
+ du drucktest
+ er druckte
+ wir druckten
+ ihr drucktet
+ sie druckten"," ich ließ
+ du ließ(es)t
+ er ließ
+ wir ließen
+ ihr ließ(e)t
+ sie ließen"," ich stand
+ du stand(e)st
+ er stand
+ wir standen
+ ihr standet
+ sie standen"," ich gab auf
+ du gabst auf
+ er gab auf
+ wir gaben auf
+ ihr gabt auf
+ sie gaben auf"," ich nahm ein
+ du nahmst ein
+ er nahm ein
+ wir nahmen ein
+ ihr nahmt ein
+ sie nahmen ein"," ich warf vor
+ du warfst vor
+ er warf vor
+ wir warfen vor
+ ihr warft vor
+ sie warfen vor"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich fehlte
+ du fehltest
+ er fehlte
+ wir fehlten
+ ihr fehltet
+ sie fehlten"," ich forderte auf
+ du fordertest auf
+ er forderte auf
+ wir forderten auf
+ ihr fordertet auf
+ sie forderten auf"," ich organisierte
+ du organisiertest
+ er organisierte
+ wir organisierten
+ ihr organisiertet
+ sie organisierten"," ich verlas
+ du verlas(es)t
+ er verlas
+ wir verlasen
+ ihr verlas(e)t
+ sie verlasen"," ich wies zurück
+ du wies(es)t zurück
+ er wies zurück
+ wir wiesen zurück
+ ihr wies(e)t zurück
+ sie wiesen zurück"," ich verhinderte
+ du verhindertest
+ er verhinderte
+ wir verhinderten
+ ihr verhindertet
+ sie verhinderten"," ich reiste
+ du reistest
+ er reiste
+ wir reisten
+ ihr reistet
+ sie reisten"," ich gewartete
+ du gewartetest
+ er gewartete
+ wir gewarteten
+ ihr gewartetet
+ sie gewarteten"," ich besuchte
+ du besuchtest
+ er besuchte
+ wir besuchten
+ ihr besuchtet
+ sie besuchten"," ich stellte ab
+ du stelltest ab
+ er stellte ab
+ wir stellten ab
+ ihr stelltet ab
+ sie stellten ab"," ich genoss
+ du genoss(es)t
+ er genoss
+ wir genossen
+ ihr genoss(e)t
+ sie genossen"," ich fuhr
+ du fuhrst
+ er fuhr
+ wir fuhren
+ ihr fuhrt
+ sie fuhren"," ich fuhr vorbei
+ du fuhrst vorbei
+ er fuhr vorbei
+ wir fuhren vorbei
+ ihr fuhrt vorbei
+ sie fuhren vorbei"," ich sah aus
+ du sahst aus
+ er sah aus
+ wir sah(e)n aus
+ ihr saht aus
+ sie sah(e)n aus"," ich kam vorbei
+ du kamst vorbei
+ er kam vorbei
+ wir kamen vorbei
+ ihr kamt vorbei
+ sie kamen vorbei"," ich hielt an
+ du hielt(e)st an
+ er hielt an
+ wir hielten an
+ ihr hieltet an
+ sie hielten an"," ich strahlte
+ du strahltest
+ er strahlte
+ wir strahlten
+ ihr strahltet
+ sie strahlten"," ich bereitete vor
+ du bereitetest vor
+ er bereitete vor
+ wir bereiteten vor
+ ihr bereitetet vor
+ sie bereiteten vor"," ich packte ein
+ du packtest ein
+ er packte ein
+ wir packten ein
+ ihr packtet ein
+ sie packten ein"," ich erkundete
+ du erkundetest
+ er erkundete
+ wir erkundeten
+ ihr erkundetet
+ sie erkundeten"," ich probierte
+ du probiertest
+ er probierte
+ wir probierten
+ ihr probiertet
+ sie probierten"," ich sammelte
+ du sammeltest
+ er sammelte
+ wir sammelten
+ ihr sammeltet
+ sie sammelten"," ich vergaß
+ du vergaß(es)t
+ er vergaß
+ wir vergaßen
+ ihr vergaß(e)t
+ sie vergaßen"
 indicative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -1696,7 +2046,182 @@ indicative_active,Perfect," ich habe angeklagt
  er hat mobilisiert
  wir haben mobilisiert
  ihr habt mobilisiert
- sie haben mobilisiert"
+ sie haben mobilisiert"," ich habe gestellt
+ du hast gestellt
+ er hat gestellt
+ wir haben gestellt
+ ihr habt gestellt
+ sie haben gestellt"," ich habe geschaut
+ du hast geschaut
+ er hat geschaut
+ wir haben geschaut
+ ihr habt geschaut
+ sie haben geschaut"," ich habe gelitten
+ du hast gelitten
+ er hat gelitten
+ wir haben gelitten
+ ihr habt gelitten
+ sie haben gelitten"," ich habe behandelt
+ du hast behandelt
+ er hat behandelt
+ wir haben behandelt
+ ihr habt behandelt
+ sie haben behandelt"," ich habe veröffentlicht
+ du hast veröffentlicht
+ er hat veröffentlicht
+ wir haben veröffentlicht
+ ihr habt veröffentlicht
+ sie haben veröffentlicht"," ich habe gedruckt
+ du hast gedruckt
+ er hat gedruckt
+ wir haben gedruckt
+ ihr habt gedruckt
+ sie haben gedruckt"," ich habe gelassen
+ du hast gelassen
+ er hat gelassen
+ wir haben gelassen
+ ihr habt gelassen
+ sie haben gelassen"," ich habe gestanden
+ du hast gestanden
+ er hat gestanden
+ wir haben gestanden
+ ihr habt gestanden
+ sie haben gestanden"," ich habe aufgegeben
+ du hast aufgegeben
+ er hat aufgegeben
+ wir haben aufgegeben
+ ihr habt aufgegeben
+ sie haben aufgegeben"," ich habe eingenommen
+ du hast eingenommen
+ er hat eingenommen
+ wir haben eingenommen
+ ihr habt eingenommen
+ sie haben eingenommen"," ich habe vorgeworfen
+ du hast vorgeworfen
+ er hat vorgeworfen
+ wir haben vorgeworfen
+ ihr habt vorgeworfen
+ sie haben vorgeworfen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe gefehlt
+ du hast gefehlt
+ er hat gefehlt
+ wir haben gefehlt
+ ihr habt gefehlt
+ sie haben gefehlt"," ich habe aufgefordert
+ du hast aufgefordert
+ er hat aufgefordert
+ wir haben aufgefordert
+ ihr habt aufgefordert
+ sie haben aufgefordert"," ich habe organisiert
+ du hast organisiert
+ er hat organisiert
+ wir haben organisiert
+ ihr habt organisiert
+ sie haben organisiert"," ich habe verlesen
+ du hast verlesen
+ er hat verlesen
+ wir haben verlesen
+ ihr habt verlesen
+ sie haben verlesen"," ich habe zurückgewiesen
+ du hast zurückgewiesen
+ er hat zurückgewiesen
+ wir haben zurückgewiesen
+ ihr habt zurückgewiesen
+ sie haben zurückgewiesen"," ich habe verhindert
+ du hast verhindert
+ er hat verhindert
+ wir haben verhindert
+ ihr habt verhindert
+ sie haben verhindert"," ich bin gereist
+ du bist gereist
+ er ist gereist
+ wir sind gereist
+ ihr seid gereist
+ sie sind gereist"," ich habe gewartet
+ du hast gewartet
+ er hat gewartet
+ wir haben gewartet
+ ihr habt gewartet
+ sie haben gewartet"," ich habe besucht
+ du hast besucht
+ er hat besucht
+ wir haben besucht
+ ihr habt besucht
+ sie haben besucht"," ich habe abgestellt
+ du hast abgestellt
+ er hat abgestellt
+ wir haben abgestellt
+ ihr habt abgestellt
+ sie haben abgestellt"," ich habe genossen
+ du hast genossen
+ er hat genossen
+ wir haben genossen
+ ihr habt genossen
+ sie haben genossen"," ich habe gefahren
+ du hast gefahren
+ er hat gefahren
+ wir haben gefahren
+ ihr habt gefahren
+ sie haben gefahren"," ich bin vorbeigefahren
+ du bist vorbeigefahren
+ er ist vorbeigefahren
+ wir sind vorbeigefahren
+ ihr seid vorbeigefahren
+ sie sind vorbeigefahren"," ich habe ausgeseh(e)n
+ du hast ausgeseh(e)n
+ er hat ausgeseh(e)n
+ wir haben ausgeseh(e)n
+ ihr habt ausgeseh(e)n
+ sie haben ausgeseh(e)n"," ich bin vorbeigekommen
+ du bist vorbeigekommen
+ er ist vorbeigekommen
+ wir sind vorbeigekommen
+ ihr seid vorbeigekommen
+ sie sind vorbeigekommen"," ich habe angehalten
+ du hast angehalten
+ er hat angehalten
+ wir haben angehalten
+ ihr habt angehalten
+ sie haben angehalten"," ich habe gestrahlt
+ du hast gestrahlt
+ er hat gestrahlt
+ wir haben gestrahlt
+ ihr habt gestrahlt
+ sie haben gestrahlt"," ich habe vorbereitet
+ du hast vorbereitet
+ er hat vorbereitet
+ wir haben vorbereitet
+ ihr habt vorbereitet
+ sie haben vorbereitet"," ich habe eingepackt
+ du hast eingepackt
+ er hat eingepackt
+ wir haben eingepackt
+ ihr habt eingepackt
+ sie haben eingepackt"," ich habe erkundet
+ du hast erkundet
+ er hat erkundet
+ wir haben erkundet
+ ihr habt erkundet
+ sie haben erkundet"," ich habe probiert
+ du hast probiert
+ er hat probiert
+ wir haben probiert
+ ihr habt probiert
+ sie haben probiert"," ich habe gesammelt
+ du hast gesammelt
+ er hat gesammelt
+ wir haben gesammelt
+ ihr habt gesammelt
+ sie haben gesammelt"," ich habe vergessen
+ du hast vergessen
+ er hat vergessen
+ wir haben vergessen
+ ihr habt vergessen
+ sie haben vergessen"
 indicative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -2262,7 +2787,182 @@ indicative_active,Pluperfect," ich hatte angeklagt
  er hatte mobilisiert
  wir hatten mobilisiert
  ihr hattet mobilisiert
- sie hatten mobilisiert"
+ sie hatten mobilisiert"," ich hatte gestellt
+ du hattest gestellt
+ er hatte gestellt
+ wir hatten gestellt
+ ihr hattet gestellt
+ sie hatten gestellt"," ich hatte geschaut
+ du hattest geschaut
+ er hatte geschaut
+ wir hatten geschaut
+ ihr hattet geschaut
+ sie hatten geschaut"," ich hatte gelitten
+ du hattest gelitten
+ er hatte gelitten
+ wir hatten gelitten
+ ihr hattet gelitten
+ sie hatten gelitten"," ich hatte behandelt
+ du hattest behandelt
+ er hatte behandelt
+ wir hatten behandelt
+ ihr hattet behandelt
+ sie hatten behandelt"," ich hatte veröffentlicht
+ du hattest veröffentlicht
+ er hatte veröffentlicht
+ wir hatten veröffentlicht
+ ihr hattet veröffentlicht
+ sie hatten veröffentlicht"," ich hatte gedruckt
+ du hattest gedruckt
+ er hatte gedruckt
+ wir hatten gedruckt
+ ihr hattet gedruckt
+ sie hatten gedruckt"," ich hatte gelassen
+ du hattest gelassen
+ er hatte gelassen
+ wir hatten gelassen
+ ihr hattet gelassen
+ sie hatten gelassen"," ich hatte gestanden
+ du hattest gestanden
+ er hatte gestanden
+ wir hatten gestanden
+ ihr hattet gestanden
+ sie hatten gestanden"," ich hatte aufgegeben
+ du hattest aufgegeben
+ er hatte aufgegeben
+ wir hatten aufgegeben
+ ihr hattet aufgegeben
+ sie hatten aufgegeben"," ich hatte eingenommen
+ du hattest eingenommen
+ er hatte eingenommen
+ wir hatten eingenommen
+ ihr hattet eingenommen
+ sie hatten eingenommen"," ich hatte vorgeworfen
+ du hattest vorgeworfen
+ er hatte vorgeworfen
+ wir hatten vorgeworfen
+ ihr hattet vorgeworfen
+ sie hatten vorgeworfen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte gefehlt
+ du hattest gefehlt
+ er hatte gefehlt
+ wir hatten gefehlt
+ ihr hattet gefehlt
+ sie hatten gefehlt"," ich hatte aufgefordert
+ du hattest aufgefordert
+ er hatte aufgefordert
+ wir hatten aufgefordert
+ ihr hattet aufgefordert
+ sie hatten aufgefordert"," ich hatte organisiert
+ du hattest organisiert
+ er hatte organisiert
+ wir hatten organisiert
+ ihr hattet organisiert
+ sie hatten organisiert"," ich hatte verlesen
+ du hattest verlesen
+ er hatte verlesen
+ wir hatten verlesen
+ ihr hattet verlesen
+ sie hatten verlesen"," ich hatte zurückgewiesen
+ du hattest zurückgewiesen
+ er hatte zurückgewiesen
+ wir hatten zurückgewiesen
+ ihr hattet zurückgewiesen
+ sie hatten zurückgewiesen"," ich hatte verhindert
+ du hattest verhindert
+ er hatte verhindert
+ wir hatten verhindert
+ ihr hattet verhindert
+ sie hatten verhindert"," ich war gereist
+ du warst gereist
+ er war gereist
+ wir waren gereist
+ ihr wart gereist
+ sie waren gereist"," ich hatte gewartet
+ du hattest gewartet
+ er hatte gewartet
+ wir hatten gewartet
+ ihr hattet gewartet
+ sie hatten gewartet"," ich hatte besucht
+ du hattest besucht
+ er hatte besucht
+ wir hatten besucht
+ ihr hattet besucht
+ sie hatten besucht"," ich hatte abgestellt
+ du hattest abgestellt
+ er hatte abgestellt
+ wir hatten abgestellt
+ ihr hattet abgestellt
+ sie hatten abgestellt"," ich hatte genossen
+ du hattest genossen
+ er hatte genossen
+ wir hatten genossen
+ ihr hattet genossen
+ sie hatten genossen"," ich hatte gefahren
+ du hattest gefahren
+ er hatte gefahren
+ wir hatten gefahren
+ ihr hattet gefahren
+ sie hatten gefahren"," ich war vorbeigefahren
+ du warst vorbeigefahren
+ er war vorbeigefahren
+ wir waren vorbeigefahren
+ ihr wart vorbeigefahren
+ sie waren vorbeigefahren"," ich hatte ausgeseh(e)n
+ du hattest ausgeseh(e)n
+ er hatte ausgeseh(e)n
+ wir hatten ausgeseh(e)n
+ ihr hattet ausgeseh(e)n
+ sie hatten ausgeseh(e)n"," ich war vorbeigekommen
+ du warst vorbeigekommen
+ er war vorbeigekommen
+ wir waren vorbeigekommen
+ ihr wart vorbeigekommen
+ sie waren vorbeigekommen"," ich hatte angehalten
+ du hattest angehalten
+ er hatte angehalten
+ wir hatten angehalten
+ ihr hattet angehalten
+ sie hatten angehalten"," ich hatte gestrahlt
+ du hattest gestrahlt
+ er hatte gestrahlt
+ wir hatten gestrahlt
+ ihr hattet gestrahlt
+ sie hatten gestrahlt"," ich hatte vorbereitet
+ du hattest vorbereitet
+ er hatte vorbereitet
+ wir hatten vorbereitet
+ ihr hattet vorbereitet
+ sie hatten vorbereitet"," ich hatte eingepackt
+ du hattest eingepackt
+ er hatte eingepackt
+ wir hatten eingepackt
+ ihr hattet eingepackt
+ sie hatten eingepackt"," ich hatte erkundet
+ du hattest erkundet
+ er hatte erkundet
+ wir hatten erkundet
+ ihr hattet erkundet
+ sie hatten erkundet"," ich hatte probiert
+ du hattest probiert
+ er hatte probiert
+ wir hatten probiert
+ ihr hattet probiert
+ sie hatten probiert"," ich hatte gesammelt
+ du hattest gesammelt
+ er hatte gesammelt
+ wir hatten gesammelt
+ ihr hattet gesammelt
+ sie hatten gesammelt"," ich hatte vergessen
+ du hattest vergessen
+ er hatte vergessen
+ wir hatten vergessen
+ ihr hattet vergessen
+ sie hatten vergessen"
 indicative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -2828,7 +3528,182 @@ indicative_active,Future," ich werde anklagen
  er wird mobilisieren
  wir werden mobilisieren
  ihr werdet mobilisieren
- sie werden mobilisieren"
+ sie werden mobilisieren"," ich werde stellen
+ du wirst stellen
+ er wird stellen
+ wir werden stellen
+ ihr werdet stellen
+ sie werden stellen"," ich werde schau(e)n
+ du wirst schau(e)n
+ er wird schau(e)n
+ wir werden schau(e)n
+ ihr werdet schau(e)n
+ sie werden schau(e)n"," ich werde leiden
+ du wirst leiden
+ er wird leiden
+ wir werden leiden
+ ihr werdet leiden
+ sie werden leiden"," ich werde behandeln
+ du wirst behandeln
+ er wird behandeln
+ wir werden behandeln
+ ihr werdet behandeln
+ sie werden behandeln"," ich werde veröffentlichen
+ du wirst veröffentlichen
+ er wird veröffentlichen
+ wir werden veröffentlichen
+ ihr werdet veröffentlichen
+ sie werden veröffentlichen"," ich werde drucken
+ du wirst drucken
+ er wird drucken
+ wir werden drucken
+ ihr werdet drucken
+ sie werden drucken"," ich werde lassen
+ du wirst lassen
+ er wird lassen
+ wir werden lassen
+ ihr werdet lassen
+ sie werden lassen"," ich werde steh(e)n
+ du wirst steh(e)n
+ er wird steh(e)n
+ wir werden steh(e)n
+ ihr werdet steh(e)n
+ sie werden steh(e)n"," ich werde aufgeben
+ du wirst aufgeben
+ er wird aufgeben
+ wir werden aufgeben
+ ihr werdet aufgeben
+ sie werden aufgeben"," ich werde einnehmen
+ du wirst einnehmen
+ er wird einnehmen
+ wir werden einnehmen
+ ihr werdet einnehmen
+ sie werden einnehmen"," ich werde vorwerfen
+ du wirst vorwerfen
+ er wird vorwerfen
+ wir werden vorwerfen
+ ihr werdet vorwerfen
+ sie werden vorwerfen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde fehlen
+ du wirst fehlen
+ er wird fehlen
+ wir werden fehlen
+ ihr werdet fehlen
+ sie werden fehlen"," ich werde auffordern
+ du wirst auffordern
+ er wird auffordern
+ wir werden auffordern
+ ihr werdet auffordern
+ sie werden auffordern"," ich werde organisieren
+ du wirst organisieren
+ er wird organisieren
+ wir werden organisieren
+ ihr werdet organisieren
+ sie werden organisieren"," ich werde verlesen
+ du wirst verlesen
+ er wird verlesen
+ wir werden verlesen
+ ihr werdet verlesen
+ sie werden verlesen"," ich werde zurückweisen
+ du wirst zurückweisen
+ er wird zurückweisen
+ wir werden zurückweisen
+ ihr werdet zurückweisen
+ sie werden zurückweisen"," ich werde verhindern
+ du wirst verhindern
+ er wird verhindern
+ wir werden verhindern
+ ihr werdet verhindern
+ sie werden verhindern"," ich werde reisen
+ du wirst reisen
+ er wird reisen
+ wir werden reisen
+ ihr werdet reisen
+ sie werden reisen"," ich werde gewarten
+ du wirst gewarten
+ er wird gewarten
+ wir werden gewarten
+ ihr werdet gewarten
+ sie werden gewarten"," ich werde besuchen
+ du wirst besuchen
+ er wird besuchen
+ wir werden besuchen
+ ihr werdet besuchen
+ sie werden besuchen"," ich werde abstellen
+ du wirst abstellen
+ er wird abstellen
+ wir werden abstellen
+ ihr werdet abstellen
+ sie werden abstellen"," ich werde genießen
+ du wirst genießen
+ er wird genießen
+ wir werden genießen
+ ihr werdet genießen
+ sie werden genießen"," ich werde fahren
+ du wirst fahren
+ er wird fahren
+ wir werden fahren
+ ihr werdet fahren
+ sie werden fahren"," ich werde vorbeifahren
+ du wirst vorbeifahren
+ er wird vorbeifahren
+ wir werden vorbeifahren
+ ihr werdet vorbeifahren
+ sie werden vorbeifahren"," ich werde ausseh(e)n
+ du wirst ausseh(e)n
+ er wird ausseh(e)n
+ wir werden ausseh(e)n
+ ihr werdet ausseh(e)n
+ sie werden ausseh(e)n"," ich werde vorbeikommen
+ du wirst vorbeikommen
+ er wird vorbeikommen
+ wir werden vorbeikommen
+ ihr werdet vorbeikommen
+ sie werden vorbeikommen"," ich werde anhalten
+ du wirst anhalten
+ er wird anhalten
+ wir werden anhalten
+ ihr werdet anhalten
+ sie werden anhalten"," ich werde strahlen
+ du wirst strahlen
+ er wird strahlen
+ wir werden strahlen
+ ihr werdet strahlen
+ sie werden strahlen"," ich werde vorbereiten
+ du wirst vorbereiten
+ er wird vorbereiten
+ wir werden vorbereiten
+ ihr werdet vorbereiten
+ sie werden vorbereiten"," ich werde einpacken
+ du wirst einpacken
+ er wird einpacken
+ wir werden einpacken
+ ihr werdet einpacken
+ sie werden einpacken"," ich werde erkunden
+ du wirst erkunden
+ er wird erkunden
+ wir werden erkunden
+ ihr werdet erkunden
+ sie werden erkunden"," ich werde probieren
+ du wirst probieren
+ er wird probieren
+ wir werden probieren
+ ihr werdet probieren
+ sie werden probieren"," ich werde sammeln
+ du wirst sammeln
+ er wird sammeln
+ wir werden sammeln
+ ihr werdet sammeln
+ sie werden sammeln"," ich werde vergessen
+ du wirst vergessen
+ er wird vergessen
+ wir werden vergessen
+ ihr werdet vergessen
+ sie werden vergessen"
 indicative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -3394,7 +4269,182 @@ indicative_active,FuturePerfect," ich werde angeklagt haben
  er wird mobilisiert haben
  wir werden mobilisiert haben
  ihr werdet mobilisiert haben
- sie werden mobilisiert haben"
+ sie werden mobilisiert haben"," ich werde gestellt haben
+ du wirst gestellt haben
+ er wird gestellt haben
+ wir werden gestellt haben
+ ihr werdet gestellt haben
+ sie werden gestellt haben"," ich werde geschaut haben
+ du wirst geschaut haben
+ er wird geschaut haben
+ wir werden geschaut haben
+ ihr werdet geschaut haben
+ sie werden geschaut haben"," ich werde gelitten haben
+ du wirst gelitten haben
+ er wird gelitten haben
+ wir werden gelitten haben
+ ihr werdet gelitten haben
+ sie werden gelitten haben"," ich werde behandelt haben
+ du wirst behandelt haben
+ er wird behandelt haben
+ wir werden behandelt haben
+ ihr werdet behandelt haben
+ sie werden behandelt haben"," ich werde veröffentlicht haben
+ du wirst veröffentlicht haben
+ er wird veröffentlicht haben
+ wir werden veröffentlicht haben
+ ihr werdet veröffentlicht haben
+ sie werden veröffentlicht haben"," ich werde gedruckt haben
+ du wirst gedruckt haben
+ er wird gedruckt haben
+ wir werden gedruckt haben
+ ihr werdet gedruckt haben
+ sie werden gedruckt haben"," ich werde gelassen haben
+ du wirst gelassen haben
+ er wird gelassen haben
+ wir werden gelassen haben
+ ihr werdet gelassen haben
+ sie werden gelassen haben"," ich werde gestanden haben
+ du wirst gestanden haben
+ er wird gestanden haben
+ wir werden gestanden haben
+ ihr werdet gestanden haben
+ sie werden gestanden haben"," ich werde aufgegeben haben
+ du wirst aufgegeben haben
+ er wird aufgegeben haben
+ wir werden aufgegeben haben
+ ihr werdet aufgegeben haben
+ sie werden aufgegeben haben"," ich werde eingenommen haben
+ du wirst eingenommen haben
+ er wird eingenommen haben
+ wir werden eingenommen haben
+ ihr werdet eingenommen haben
+ sie werden eingenommen haben"," ich werde vorgeworfen haben
+ du wirst vorgeworfen haben
+ er wird vorgeworfen haben
+ wir werden vorgeworfen haben
+ ihr werdet vorgeworfen haben
+ sie werden vorgeworfen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde gefehlt haben
+ du wirst gefehlt haben
+ er wird gefehlt haben
+ wir werden gefehlt haben
+ ihr werdet gefehlt haben
+ sie werden gefehlt haben"," ich werde aufgefordert haben
+ du wirst aufgefordert haben
+ er wird aufgefordert haben
+ wir werden aufgefordert haben
+ ihr werdet aufgefordert haben
+ sie werden aufgefordert haben"," ich werde organisiert haben
+ du wirst organisiert haben
+ er wird organisiert haben
+ wir werden organisiert haben
+ ihr werdet organisiert haben
+ sie werden organisiert haben"," ich werde verlesen haben
+ du wirst verlesen haben
+ er wird verlesen haben
+ wir werden verlesen haben
+ ihr werdet verlesen haben
+ sie werden verlesen haben"," ich werde zurückgewiesen haben
+ du wirst zurückgewiesen haben
+ er wird zurückgewiesen haben
+ wir werden zurückgewiesen haben
+ ihr werdet zurückgewiesen haben
+ sie werden zurückgewiesen haben"," ich werde verhindert haben
+ du wirst verhindert haben
+ er wird verhindert haben
+ wir werden verhindert haben
+ ihr werdet verhindert haben
+ sie werden verhindert haben"," ich werde gereist sein
+ du wirst gereist sein
+ er wird gereist sein
+ wir werden gereist sein
+ ihr werdet gereist sein
+ sie werden gereist sein"," ich werde gewartet haben
+ du wirst gewartet haben
+ er wird gewartet haben
+ wir werden gewartet haben
+ ihr werdet gewartet haben
+ sie werden gewartet haben"," ich werde besucht haben
+ du wirst besucht haben
+ er wird besucht haben
+ wir werden besucht haben
+ ihr werdet besucht haben
+ sie werden besucht haben"," ich werde abgestellt haben
+ du wirst abgestellt haben
+ er wird abgestellt haben
+ wir werden abgestellt haben
+ ihr werdet abgestellt haben
+ sie werden abgestellt haben"," ich werde genossen haben
+ du wirst genossen haben
+ er wird genossen haben
+ wir werden genossen haben
+ ihr werdet genossen haben
+ sie werden genossen haben"," ich werde gefahren haben
+ du wirst gefahren haben
+ er wird gefahren haben
+ wir werden gefahren haben
+ ihr werdet gefahren haben
+ sie werden gefahren haben"," ich werde vorbeigefahren sein
+ du wirst vorbeigefahren sein
+ er wird vorbeigefahren sein
+ wir werden vorbeigefahren sein
+ ihr werdet vorbeigefahren sein
+ sie werden vorbeigefahren sein"," ich werde ausgeseh(e)n haben
+ du wirst ausgeseh(e)n haben
+ er wird ausgeseh(e)n haben
+ wir werden ausgeseh(e)n haben
+ ihr werdet ausgeseh(e)n haben
+ sie werden ausgeseh(e)n haben"," ich werde vorbeigekommen sein
+ du wirst vorbeigekommen sein
+ er wird vorbeigekommen sein
+ wir werden vorbeigekommen sein
+ ihr werdet vorbeigekommen sein
+ sie werden vorbeigekommen sein"," ich werde angehalten haben
+ du wirst angehalten haben
+ er wird angehalten haben
+ wir werden angehalten haben
+ ihr werdet angehalten haben
+ sie werden angehalten haben"," ich werde gestrahlt haben
+ du wirst gestrahlt haben
+ er wird gestrahlt haben
+ wir werden gestrahlt haben
+ ihr werdet gestrahlt haben
+ sie werden gestrahlt haben"," ich werde vorbereitet haben
+ du wirst vorbereitet haben
+ er wird vorbereitet haben
+ wir werden vorbereitet haben
+ ihr werdet vorbereitet haben
+ sie werden vorbereitet haben"," ich werde eingepackt haben
+ du wirst eingepackt haben
+ er wird eingepackt haben
+ wir werden eingepackt haben
+ ihr werdet eingepackt haben
+ sie werden eingepackt haben"," ich werde erkundet haben
+ du wirst erkundet haben
+ er wird erkundet haben
+ wir werden erkundet haben
+ ihr werdet erkundet haben
+ sie werden erkundet haben"," ich werde probiert haben
+ du wirst probiert haben
+ er wird probiert haben
+ wir werden probiert haben
+ ihr werdet probiert haben
+ sie werden probiert haben"," ich werde gesammelt haben
+ du wirst gesammelt haben
+ er wird gesammelt haben
+ wir werden gesammelt haben
+ ihr werdet gesammelt haben
+ sie werden gesammelt haben"," ich werde vergessen haben
+ du wirst vergessen haben
+ er wird vergessen haben
+ wir werden vergessen haben
+ ihr werdet vergessen haben
+ sie werden vergessen haben"
 indicative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -3508,7 +4558,42 @@ indicative_active,InfinitiveI," anklagen
  zu geben",," verurteilen
  zu verurteilen"," aufhören
  aufzuhören"," mobilisieren
- zu mobilisieren"
+ zu mobilisieren"," stellen
+ zu stellen"," schau(e)n
+ zu schau(e)n"," leiden
+ zu leiden"," behandeln
+ zu behandeln"," veröffentlichen
+ zu veröffentlichen"," drucken
+ zu drucken"," lassen
+ zu lassen"," steh(e)n
+ zu steh(e)n"," aufgeben
+ aufzugeben"," einnehmen
+ einzunehmen"," vorwerfen
+ vorzuwerfen"," versuchen
+ zu versuchen"," fehlen
+ zu fehlen"," auffordern
+ aufzufordern"," organisieren
+ zu organisieren"," verlesen
+ zu verlesen"," zurückweisen
+ zurückzuweisen"," verhindern
+ zu verhindern"," reisen
+ zu reisen"," gewarten
+ zu gewarten"," besuchen
+ zu besuchen"," abstellen
+ abzustellen"," genießen
+ zu genießen"," fahren
+ zu fahren"," vorbeifahren
+ vorbeizufahren"," ausseh(e)n
+ auszuseh(e)n"," vorbeikommen
+ vorbeizukommen"," anhalten
+ anzuhalten"," strahlen
+ zu strahlen"," vorbereiten
+ vorzubereiten"," einpacken
+ einzupacken"," erkunden
+ zu erkunden"," probieren
+ zu probieren"," sammeln
+ zu sammeln"," vergessen
+ zu vergessen"
 indicative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -3622,9 +4707,44 @@ indicative_active,InfinitiveII," angeklagt haben
  gegeben zu haben",," verurteilt haben
  verurteilt zu haben"," aufgehört haben
  aufgehört zu haben"," mobilisiert haben
- mobilisiert zu haben"
-indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
-indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
+ mobilisiert zu haben"," gestellt haben
+ gestellt zu haben"," geschaut haben
+ geschaut zu haben"," gelitten haben
+ gelitten zu haben"," behandelt haben
+ behandelt zu haben"," veröffentlicht haben
+ veröffentlicht zu haben"," gedruckt haben
+ gedruckt zu haben"," gelassen haben
+ gelassen zu haben"," gestanden haben
+ gestanden zu haben"," aufgegeben haben
+ aufgegeben zu haben"," eingenommen haben
+ eingenommen zu haben"," vorgeworfen haben
+ vorgeworfen zu haben"," versucht haben
+ versucht zu haben"," gefehlt haben
+ gefehlt zu haben"," aufgefordert haben
+ aufgefordert zu haben"," organisiert haben
+ organisiert zu haben"," verlesen haben
+ verlesen zu haben"," zurückgewiesen haben
+ zurückgewiesen zu haben"," verhindert haben
+ verhindert zu haben"," gereist sein
+ gereist zu sein"," gewartet haben
+ gewartet zu haben"," besucht haben
+ besucht zu haben"," abgestellt haben
+ abgestellt zu haben"," genossen haben
+ genossen zu haben"," gefahren haben
+ gefahren zu haben"," vorbeigefahren sein
+ vorbeigefahren zu sein"," ausgeseh(e)n haben
+ ausgeseh(e)n zu haben"," vorbeigekommen sein
+ vorbeigekommen zu sein"," angehalten haben
+ angehalten zu haben"," gestrahlt haben
+ gestrahlt zu haben"," vorbereitet haben
+ vorbereitet zu haben"," eingepackt haben
+ eingepackt zu haben"," erkundet haben
+ erkundet zu haben"," probiert haben
+ probiert zu haben"," gesammelt haben
+ gesammelt zu haben"," vergessen haben
+ vergessen zu haben"
+indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
+indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
 subjunctive_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -4190,7 +5310,182 @@ subjunctive_active,Present," ich klag(e) an
  er mobilisiert
  wir mobilisieren
  ihr mobilisiert
- sie mobilisieren"
+ sie mobilisieren"," ich stell(e)
+ du stellst
+ er stellt
+ wir stellen
+ ihr stellt
+ sie stellen"," ich schau(e)
+ du schaust
+ er schaut
+ wir schau(e)n
+ ihr schaut
+ sie schau(e)n"," ich leid(e)
+ du leidest
+ er leidet
+ wir leiden
+ ihr leidet
+ sie leiden"," ich behand(e)l(e)
+ du behandelst
+ er behandelt
+ wir behandeln
+ ihr behandelt
+ sie behandeln"," ich veröffentlich(e)
+ du veröffentlichst
+ er veröffentlicht
+ wir veröffentlichen
+ ihr veröffentlicht
+ sie veröffentlichen"," ich druck(e)
+ du druckst
+ er druckt
+ wir drucken
+ ihr druckt
+ sie drucken"," ich lass(e)
+ du lässt
+ er lässt
+ wir lassen
+ ihr lasst
+ sie lassen"," ich steh(e)
+ du stehst
+ er steht
+ wir steh(e)n
+ ihr steht
+ sie steh(e)n"," ich geb(e) auf
+ du gibst auf
+ er gibt auf
+ wir geben auf
+ ihr gebt auf
+ sie geben auf"," ich nehm(e) ein
+ du nimmst ein
+ er nimmt ein
+ wir nehmen ein
+ ihr nehmt ein
+ sie nehmen ein"," ich werf(e) vor
+ du wirfst vor
+ er wirft vor
+ wir werfen vor
+ ihr werft vor
+ sie werfen vor"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich fehl(e)
+ du fehlst
+ er fehlt
+ wir fehlen
+ ihr fehlt
+ sie fehlen"," ich ford(e)r(e) auf
+ du forderst auf
+ er fordert auf
+ wir fordern auf
+ ihr fordert auf
+ sie fordern auf"," ich organisier(e)
+ du organisierst
+ er organisiert
+ wir organisieren
+ ihr organisiert
+ sie organisieren"," ich verles(e)
+ du verliest
+ er verliest
+ wir verlesen
+ ihr verlest
+ sie verlesen"," ich weis(e) zurück
+ du weist zurück
+ er weist zurück
+ wir weisen zurück
+ ihr weist zurück
+ sie weisen zurück"," ich verhind(e)r(e)
+ du verhinderst
+ er verhindert
+ wir verhindern
+ ihr verhindert
+ sie verhindern"," ich reis(e)
+ du reist
+ er reist
+ wir reisen
+ ihr reist
+ sie reisen"," ich gewart(e)
+ du gewartest
+ er gewartet
+ wir gewarten
+ ihr gewartet
+ sie gewarten"," ich besuch(e)
+ du besuchst
+ er besucht
+ wir besuchen
+ ihr besucht
+ sie besuchen"," ich stell(e) ab
+ du stellst ab
+ er stellt ab
+ wir stellen ab
+ ihr stellt ab
+ sie stellen ab"," ich genieß(e)
+ du genießt
+ er genießt
+ wir genießen
+ ihr genießt
+ sie genießen"," ich fahr(e)
+ du fährst
+ er fährt
+ wir fahren
+ ihr fahrt
+ sie fahren"," ich fahr(e) vorbei
+ du fährst vorbei
+ er fährt vorbei
+ wir fahren vorbei
+ ihr fahrt vorbei
+ sie fahren vorbei"," ich seh(e) aus
+ du siehst aus
+ er sieht aus
+ wir seh(e)n aus
+ ihr seht aus
+ sie seh(e)n aus"," ich komm(e) vorbei
+ du kommst/kömmst vorbei
+ er kommt/kömmt vorbei
+ wir kommen vorbei
+ ihr kommt vorbei
+ sie kommen vorbei"," ich halt(e) an
+ du hältst an
+ er hält an
+ wir halten an
+ ihr haltet an
+ sie halten an"," ich strahl(e)
+ du strahlst
+ er strahlt
+ wir strahlen
+ ihr strahlt
+ sie strahlen"," ich bereit(e) vor
+ du bereitest vor
+ er bereitet vor
+ wir bereiten vor
+ ihr bereitet vor
+ sie bereiten vor"," ich pack(e) ein
+ du packst ein
+ er packt ein
+ wir packen ein
+ ihr packt ein
+ sie packen ein"," ich erkund(e)
+ du erkundest
+ er erkundet
+ wir erkunden
+ ihr erkundet
+ sie erkunden"," ich probier(e)
+ du probierst
+ er probiert
+ wir probieren
+ ihr probiert
+ sie probieren"," ich samm(e)l(e)
+ du sammelst
+ er sammelt
+ wir sammeln
+ ihr sammelt
+ sie sammeln"," ich vergess(e)
+ du vergisst
+ er vergisst
+ wir vergessen
+ ihr vergesst
+ sie vergessen"
 subjunctive_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -4756,7 +6051,182 @@ subjunctive_active,Imperfect," ich klagte an
  er mobilisierte
  wir mobilisierten
  ihr mobilisiertet
- sie mobilisierten"
+ sie mobilisierten"," ich stellte
+ du stelltest
+ er stellte
+ wir stellten
+ ihr stelltet
+ sie stellten"," ich schaute
+ du schautest
+ er schaute
+ wir schauten
+ ihr schautet
+ sie schauten"," ich litt
+ du litt(e)st
+ er litt
+ wir litten
+ ihr littet
+ sie litten"," ich behandelte
+ du behandeltest
+ er behandelte
+ wir behandelten
+ ihr behandeltet
+ sie behandelten"," ich veröffentlichte
+ du veröffentlichtest
+ er veröffentlichte
+ wir veröffentlichten
+ ihr veröffentlichtet
+ sie veröffentlichten"," ich druckte
+ du drucktest
+ er druckte
+ wir druckten
+ ihr drucktet
+ sie druckten"," ich ließ
+ du ließ(es)t
+ er ließ
+ wir ließen
+ ihr ließ(e)t
+ sie ließen"," ich stand
+ du stand(e)st
+ er stand
+ wir standen
+ ihr standet
+ sie standen"," ich gab auf
+ du gabst auf
+ er gab auf
+ wir gaben auf
+ ihr gabt auf
+ sie gaben auf"," ich nahm ein
+ du nahmst ein
+ er nahm ein
+ wir nahmen ein
+ ihr nahmt ein
+ sie nahmen ein"," ich warf vor
+ du warfst vor
+ er warf vor
+ wir warfen vor
+ ihr warft vor
+ sie warfen vor"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich fehlte
+ du fehltest
+ er fehlte
+ wir fehlten
+ ihr fehltet
+ sie fehlten"," ich forderte auf
+ du fordertest auf
+ er forderte auf
+ wir forderten auf
+ ihr fordertet auf
+ sie forderten auf"," ich organisierte
+ du organisiertest
+ er organisierte
+ wir organisierten
+ ihr organisiertet
+ sie organisierten"," ich verlas
+ du verlas(es)t
+ er verlas
+ wir verlasen
+ ihr verlas(e)t
+ sie verlasen"," ich wies zurück
+ du wies(es)t zurück
+ er wies zurück
+ wir wiesen zurück
+ ihr wies(e)t zurück
+ sie wiesen zurück"," ich verhinderte
+ du verhindertest
+ er verhinderte
+ wir verhinderten
+ ihr verhindertet
+ sie verhinderten"," ich reiste
+ du reistest
+ er reiste
+ wir reisten
+ ihr reistet
+ sie reisten"," ich gewartete
+ du gewartetest
+ er gewartete
+ wir gewarteten
+ ihr gewartetet
+ sie gewarteten"," ich besuchte
+ du besuchtest
+ er besuchte
+ wir besuchten
+ ihr besuchtet
+ sie besuchten"," ich stellte ab
+ du stelltest ab
+ er stellte ab
+ wir stellten ab
+ ihr stelltet ab
+ sie stellten ab"," ich genoss
+ du genoss(es)t
+ er genoss
+ wir genossen
+ ihr genoss(e)t
+ sie genossen"," ich fuhr
+ du fuhrst
+ er fuhr
+ wir fuhren
+ ihr fuhrt
+ sie fuhren"," ich fuhr vorbei
+ du fuhrst vorbei
+ er fuhr vorbei
+ wir fuhren vorbei
+ ihr fuhrt vorbei
+ sie fuhren vorbei"," ich sah aus
+ du sahst aus
+ er sah aus
+ wir sah(e)n aus
+ ihr saht aus
+ sie sah(e)n aus"," ich kam vorbei
+ du kamst vorbei
+ er kam vorbei
+ wir kamen vorbei
+ ihr kamt vorbei
+ sie kamen vorbei"," ich hielt an
+ du hielt(e)st an
+ er hielt an
+ wir hielten an
+ ihr hieltet an
+ sie hielten an"," ich strahlte
+ du strahltest
+ er strahlte
+ wir strahlten
+ ihr strahltet
+ sie strahlten"," ich bereitete vor
+ du bereitetest vor
+ er bereitete vor
+ wir bereiteten vor
+ ihr bereitetet vor
+ sie bereiteten vor"," ich packte ein
+ du packtest ein
+ er packte ein
+ wir packten ein
+ ihr packtet ein
+ sie packten ein"," ich erkundete
+ du erkundetest
+ er erkundete
+ wir erkundeten
+ ihr erkundetet
+ sie erkundeten"," ich probierte
+ du probiertest
+ er probierte
+ wir probierten
+ ihr probiertet
+ sie probierten"," ich sammelte
+ du sammeltest
+ er sammelte
+ wir sammelten
+ ihr sammeltet
+ sie sammelten"," ich vergaß
+ du vergaß(es)t
+ er vergaß
+ wir vergaßen
+ ihr vergaß(e)t
+ sie vergaßen"
 subjunctive_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -5322,7 +6792,182 @@ subjunctive_active,Perfect," ich habe angeklagt
  er hat mobilisiert
  wir haben mobilisiert
  ihr habt mobilisiert
- sie haben mobilisiert"
+ sie haben mobilisiert"," ich habe gestellt
+ du hast gestellt
+ er hat gestellt
+ wir haben gestellt
+ ihr habt gestellt
+ sie haben gestellt"," ich habe geschaut
+ du hast geschaut
+ er hat geschaut
+ wir haben geschaut
+ ihr habt geschaut
+ sie haben geschaut"," ich habe gelitten
+ du hast gelitten
+ er hat gelitten
+ wir haben gelitten
+ ihr habt gelitten
+ sie haben gelitten"," ich habe behandelt
+ du hast behandelt
+ er hat behandelt
+ wir haben behandelt
+ ihr habt behandelt
+ sie haben behandelt"," ich habe veröffentlicht
+ du hast veröffentlicht
+ er hat veröffentlicht
+ wir haben veröffentlicht
+ ihr habt veröffentlicht
+ sie haben veröffentlicht"," ich habe gedruckt
+ du hast gedruckt
+ er hat gedruckt
+ wir haben gedruckt
+ ihr habt gedruckt
+ sie haben gedruckt"," ich habe gelassen
+ du hast gelassen
+ er hat gelassen
+ wir haben gelassen
+ ihr habt gelassen
+ sie haben gelassen"," ich habe gestanden
+ du hast gestanden
+ er hat gestanden
+ wir haben gestanden
+ ihr habt gestanden
+ sie haben gestanden"," ich habe aufgegeben
+ du hast aufgegeben
+ er hat aufgegeben
+ wir haben aufgegeben
+ ihr habt aufgegeben
+ sie haben aufgegeben"," ich habe eingenommen
+ du hast eingenommen
+ er hat eingenommen
+ wir haben eingenommen
+ ihr habt eingenommen
+ sie haben eingenommen"," ich habe vorgeworfen
+ du hast vorgeworfen
+ er hat vorgeworfen
+ wir haben vorgeworfen
+ ihr habt vorgeworfen
+ sie haben vorgeworfen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe gefehlt
+ du hast gefehlt
+ er hat gefehlt
+ wir haben gefehlt
+ ihr habt gefehlt
+ sie haben gefehlt"," ich habe aufgefordert
+ du hast aufgefordert
+ er hat aufgefordert
+ wir haben aufgefordert
+ ihr habt aufgefordert
+ sie haben aufgefordert"," ich habe organisiert
+ du hast organisiert
+ er hat organisiert
+ wir haben organisiert
+ ihr habt organisiert
+ sie haben organisiert"," ich habe verlesen
+ du hast verlesen
+ er hat verlesen
+ wir haben verlesen
+ ihr habt verlesen
+ sie haben verlesen"," ich habe zurückgewiesen
+ du hast zurückgewiesen
+ er hat zurückgewiesen
+ wir haben zurückgewiesen
+ ihr habt zurückgewiesen
+ sie haben zurückgewiesen"," ich habe verhindert
+ du hast verhindert
+ er hat verhindert
+ wir haben verhindert
+ ihr habt verhindert
+ sie haben verhindert"," ich bin gereist
+ du bist gereist
+ er ist gereist
+ wir sind gereist
+ ihr seid gereist
+ sie sind gereist"," ich habe gewartet
+ du hast gewartet
+ er hat gewartet
+ wir haben gewartet
+ ihr habt gewartet
+ sie haben gewartet"," ich habe besucht
+ du hast besucht
+ er hat besucht
+ wir haben besucht
+ ihr habt besucht
+ sie haben besucht"," ich habe abgestellt
+ du hast abgestellt
+ er hat abgestellt
+ wir haben abgestellt
+ ihr habt abgestellt
+ sie haben abgestellt"," ich habe genossen
+ du hast genossen
+ er hat genossen
+ wir haben genossen
+ ihr habt genossen
+ sie haben genossen"," ich habe gefahren
+ du hast gefahren
+ er hat gefahren
+ wir haben gefahren
+ ihr habt gefahren
+ sie haben gefahren"," ich bin vorbeigefahren
+ du bist vorbeigefahren
+ er ist vorbeigefahren
+ wir sind vorbeigefahren
+ ihr seid vorbeigefahren
+ sie sind vorbeigefahren"," ich habe ausgeseh(e)n
+ du hast ausgeseh(e)n
+ er hat ausgeseh(e)n
+ wir haben ausgeseh(e)n
+ ihr habt ausgeseh(e)n
+ sie haben ausgeseh(e)n"," ich bin vorbeigekommen
+ du bist vorbeigekommen
+ er ist vorbeigekommen
+ wir sind vorbeigekommen
+ ihr seid vorbeigekommen
+ sie sind vorbeigekommen"," ich habe angehalten
+ du hast angehalten
+ er hat angehalten
+ wir haben angehalten
+ ihr habt angehalten
+ sie haben angehalten"," ich habe gestrahlt
+ du hast gestrahlt
+ er hat gestrahlt
+ wir haben gestrahlt
+ ihr habt gestrahlt
+ sie haben gestrahlt"," ich habe vorbereitet
+ du hast vorbereitet
+ er hat vorbereitet
+ wir haben vorbereitet
+ ihr habt vorbereitet
+ sie haben vorbereitet"," ich habe eingepackt
+ du hast eingepackt
+ er hat eingepackt
+ wir haben eingepackt
+ ihr habt eingepackt
+ sie haben eingepackt"," ich habe erkundet
+ du hast erkundet
+ er hat erkundet
+ wir haben erkundet
+ ihr habt erkundet
+ sie haben erkundet"," ich habe probiert
+ du hast probiert
+ er hat probiert
+ wir haben probiert
+ ihr habt probiert
+ sie haben probiert"," ich habe gesammelt
+ du hast gesammelt
+ er hat gesammelt
+ wir haben gesammelt
+ ihr habt gesammelt
+ sie haben gesammelt"," ich habe vergessen
+ du hast vergessen
+ er hat vergessen
+ wir haben vergessen
+ ihr habt vergessen
+ sie haben vergessen"
 subjunctive_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -5888,7 +7533,182 @@ subjunctive_active,Pluperfect," ich hatte angeklagt
  er hatte mobilisiert
  wir hatten mobilisiert
  ihr hattet mobilisiert
- sie hatten mobilisiert"
+ sie hatten mobilisiert"," ich hatte gestellt
+ du hattest gestellt
+ er hatte gestellt
+ wir hatten gestellt
+ ihr hattet gestellt
+ sie hatten gestellt"," ich hatte geschaut
+ du hattest geschaut
+ er hatte geschaut
+ wir hatten geschaut
+ ihr hattet geschaut
+ sie hatten geschaut"," ich hatte gelitten
+ du hattest gelitten
+ er hatte gelitten
+ wir hatten gelitten
+ ihr hattet gelitten
+ sie hatten gelitten"," ich hatte behandelt
+ du hattest behandelt
+ er hatte behandelt
+ wir hatten behandelt
+ ihr hattet behandelt
+ sie hatten behandelt"," ich hatte veröffentlicht
+ du hattest veröffentlicht
+ er hatte veröffentlicht
+ wir hatten veröffentlicht
+ ihr hattet veröffentlicht
+ sie hatten veröffentlicht"," ich hatte gedruckt
+ du hattest gedruckt
+ er hatte gedruckt
+ wir hatten gedruckt
+ ihr hattet gedruckt
+ sie hatten gedruckt"," ich hatte gelassen
+ du hattest gelassen
+ er hatte gelassen
+ wir hatten gelassen
+ ihr hattet gelassen
+ sie hatten gelassen"," ich hatte gestanden
+ du hattest gestanden
+ er hatte gestanden
+ wir hatten gestanden
+ ihr hattet gestanden
+ sie hatten gestanden"," ich hatte aufgegeben
+ du hattest aufgegeben
+ er hatte aufgegeben
+ wir hatten aufgegeben
+ ihr hattet aufgegeben
+ sie hatten aufgegeben"," ich hatte eingenommen
+ du hattest eingenommen
+ er hatte eingenommen
+ wir hatten eingenommen
+ ihr hattet eingenommen
+ sie hatten eingenommen"," ich hatte vorgeworfen
+ du hattest vorgeworfen
+ er hatte vorgeworfen
+ wir hatten vorgeworfen
+ ihr hattet vorgeworfen
+ sie hatten vorgeworfen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte gefehlt
+ du hattest gefehlt
+ er hatte gefehlt
+ wir hatten gefehlt
+ ihr hattet gefehlt
+ sie hatten gefehlt"," ich hatte aufgefordert
+ du hattest aufgefordert
+ er hatte aufgefordert
+ wir hatten aufgefordert
+ ihr hattet aufgefordert
+ sie hatten aufgefordert"," ich hatte organisiert
+ du hattest organisiert
+ er hatte organisiert
+ wir hatten organisiert
+ ihr hattet organisiert
+ sie hatten organisiert"," ich hatte verlesen
+ du hattest verlesen
+ er hatte verlesen
+ wir hatten verlesen
+ ihr hattet verlesen
+ sie hatten verlesen"," ich hatte zurückgewiesen
+ du hattest zurückgewiesen
+ er hatte zurückgewiesen
+ wir hatten zurückgewiesen
+ ihr hattet zurückgewiesen
+ sie hatten zurückgewiesen"," ich hatte verhindert
+ du hattest verhindert
+ er hatte verhindert
+ wir hatten verhindert
+ ihr hattet verhindert
+ sie hatten verhindert"," ich war gereist
+ du warst gereist
+ er war gereist
+ wir waren gereist
+ ihr wart gereist
+ sie waren gereist"," ich hatte gewartet
+ du hattest gewartet
+ er hatte gewartet
+ wir hatten gewartet
+ ihr hattet gewartet
+ sie hatten gewartet"," ich hatte besucht
+ du hattest besucht
+ er hatte besucht
+ wir hatten besucht
+ ihr hattet besucht
+ sie hatten besucht"," ich hatte abgestellt
+ du hattest abgestellt
+ er hatte abgestellt
+ wir hatten abgestellt
+ ihr hattet abgestellt
+ sie hatten abgestellt"," ich hatte genossen
+ du hattest genossen
+ er hatte genossen
+ wir hatten genossen
+ ihr hattet genossen
+ sie hatten genossen"," ich hatte gefahren
+ du hattest gefahren
+ er hatte gefahren
+ wir hatten gefahren
+ ihr hattet gefahren
+ sie hatten gefahren"," ich war vorbeigefahren
+ du warst vorbeigefahren
+ er war vorbeigefahren
+ wir waren vorbeigefahren
+ ihr wart vorbeigefahren
+ sie waren vorbeigefahren"," ich hatte ausgeseh(e)n
+ du hattest ausgeseh(e)n
+ er hatte ausgeseh(e)n
+ wir hatten ausgeseh(e)n
+ ihr hattet ausgeseh(e)n
+ sie hatten ausgeseh(e)n"," ich war vorbeigekommen
+ du warst vorbeigekommen
+ er war vorbeigekommen
+ wir waren vorbeigekommen
+ ihr wart vorbeigekommen
+ sie waren vorbeigekommen"," ich hatte angehalten
+ du hattest angehalten
+ er hatte angehalten
+ wir hatten angehalten
+ ihr hattet angehalten
+ sie hatten angehalten"," ich hatte gestrahlt
+ du hattest gestrahlt
+ er hatte gestrahlt
+ wir hatten gestrahlt
+ ihr hattet gestrahlt
+ sie hatten gestrahlt"," ich hatte vorbereitet
+ du hattest vorbereitet
+ er hatte vorbereitet
+ wir hatten vorbereitet
+ ihr hattet vorbereitet
+ sie hatten vorbereitet"," ich hatte eingepackt
+ du hattest eingepackt
+ er hatte eingepackt
+ wir hatten eingepackt
+ ihr hattet eingepackt
+ sie hatten eingepackt"," ich hatte erkundet
+ du hattest erkundet
+ er hatte erkundet
+ wir hatten erkundet
+ ihr hattet erkundet
+ sie hatten erkundet"," ich hatte probiert
+ du hattest probiert
+ er hatte probiert
+ wir hatten probiert
+ ihr hattet probiert
+ sie hatten probiert"," ich hatte gesammelt
+ du hattest gesammelt
+ er hatte gesammelt
+ wir hatten gesammelt
+ ihr hattet gesammelt
+ sie hatten gesammelt"," ich hatte vergessen
+ du hattest vergessen
+ er hatte vergessen
+ wir hatten vergessen
+ ihr hattet vergessen
+ sie hatten vergessen"
 subjunctive_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -6454,7 +8274,182 @@ subjunctive_active,Future," ich werde anklagen
  er wird mobilisieren
  wir werden mobilisieren
  ihr werdet mobilisieren
- sie werden mobilisieren"
+ sie werden mobilisieren"," ich werde stellen
+ du wirst stellen
+ er wird stellen
+ wir werden stellen
+ ihr werdet stellen
+ sie werden stellen"," ich werde schau(e)n
+ du wirst schau(e)n
+ er wird schau(e)n
+ wir werden schau(e)n
+ ihr werdet schau(e)n
+ sie werden schau(e)n"," ich werde leiden
+ du wirst leiden
+ er wird leiden
+ wir werden leiden
+ ihr werdet leiden
+ sie werden leiden"," ich werde behandeln
+ du wirst behandeln
+ er wird behandeln
+ wir werden behandeln
+ ihr werdet behandeln
+ sie werden behandeln"," ich werde veröffentlichen
+ du wirst veröffentlichen
+ er wird veröffentlichen
+ wir werden veröffentlichen
+ ihr werdet veröffentlichen
+ sie werden veröffentlichen"," ich werde drucken
+ du wirst drucken
+ er wird drucken
+ wir werden drucken
+ ihr werdet drucken
+ sie werden drucken"," ich werde lassen
+ du wirst lassen
+ er wird lassen
+ wir werden lassen
+ ihr werdet lassen
+ sie werden lassen"," ich werde steh(e)n
+ du wirst steh(e)n
+ er wird steh(e)n
+ wir werden steh(e)n
+ ihr werdet steh(e)n
+ sie werden steh(e)n"," ich werde aufgeben
+ du wirst aufgeben
+ er wird aufgeben
+ wir werden aufgeben
+ ihr werdet aufgeben
+ sie werden aufgeben"," ich werde einnehmen
+ du wirst einnehmen
+ er wird einnehmen
+ wir werden einnehmen
+ ihr werdet einnehmen
+ sie werden einnehmen"," ich werde vorwerfen
+ du wirst vorwerfen
+ er wird vorwerfen
+ wir werden vorwerfen
+ ihr werdet vorwerfen
+ sie werden vorwerfen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde fehlen
+ du wirst fehlen
+ er wird fehlen
+ wir werden fehlen
+ ihr werdet fehlen
+ sie werden fehlen"," ich werde auffordern
+ du wirst auffordern
+ er wird auffordern
+ wir werden auffordern
+ ihr werdet auffordern
+ sie werden auffordern"," ich werde organisieren
+ du wirst organisieren
+ er wird organisieren
+ wir werden organisieren
+ ihr werdet organisieren
+ sie werden organisieren"," ich werde verlesen
+ du wirst verlesen
+ er wird verlesen
+ wir werden verlesen
+ ihr werdet verlesen
+ sie werden verlesen"," ich werde zurückweisen
+ du wirst zurückweisen
+ er wird zurückweisen
+ wir werden zurückweisen
+ ihr werdet zurückweisen
+ sie werden zurückweisen"," ich werde verhindern
+ du wirst verhindern
+ er wird verhindern
+ wir werden verhindern
+ ihr werdet verhindern
+ sie werden verhindern"," ich werde reisen
+ du wirst reisen
+ er wird reisen
+ wir werden reisen
+ ihr werdet reisen
+ sie werden reisen"," ich werde gewarten
+ du wirst gewarten
+ er wird gewarten
+ wir werden gewarten
+ ihr werdet gewarten
+ sie werden gewarten"," ich werde besuchen
+ du wirst besuchen
+ er wird besuchen
+ wir werden besuchen
+ ihr werdet besuchen
+ sie werden besuchen"," ich werde abstellen
+ du wirst abstellen
+ er wird abstellen
+ wir werden abstellen
+ ihr werdet abstellen
+ sie werden abstellen"," ich werde genießen
+ du wirst genießen
+ er wird genießen
+ wir werden genießen
+ ihr werdet genießen
+ sie werden genießen"," ich werde fahren
+ du wirst fahren
+ er wird fahren
+ wir werden fahren
+ ihr werdet fahren
+ sie werden fahren"," ich werde vorbeifahren
+ du wirst vorbeifahren
+ er wird vorbeifahren
+ wir werden vorbeifahren
+ ihr werdet vorbeifahren
+ sie werden vorbeifahren"," ich werde ausseh(e)n
+ du wirst ausseh(e)n
+ er wird ausseh(e)n
+ wir werden ausseh(e)n
+ ihr werdet ausseh(e)n
+ sie werden ausseh(e)n"," ich werde vorbeikommen
+ du wirst vorbeikommen
+ er wird vorbeikommen
+ wir werden vorbeikommen
+ ihr werdet vorbeikommen
+ sie werden vorbeikommen"," ich werde anhalten
+ du wirst anhalten
+ er wird anhalten
+ wir werden anhalten
+ ihr werdet anhalten
+ sie werden anhalten"," ich werde strahlen
+ du wirst strahlen
+ er wird strahlen
+ wir werden strahlen
+ ihr werdet strahlen
+ sie werden strahlen"," ich werde vorbereiten
+ du wirst vorbereiten
+ er wird vorbereiten
+ wir werden vorbereiten
+ ihr werdet vorbereiten
+ sie werden vorbereiten"," ich werde einpacken
+ du wirst einpacken
+ er wird einpacken
+ wir werden einpacken
+ ihr werdet einpacken
+ sie werden einpacken"," ich werde erkunden
+ du wirst erkunden
+ er wird erkunden
+ wir werden erkunden
+ ihr werdet erkunden
+ sie werden erkunden"," ich werde probieren
+ du wirst probieren
+ er wird probieren
+ wir werden probieren
+ ihr werdet probieren
+ sie werden probieren"," ich werde sammeln
+ du wirst sammeln
+ er wird sammeln
+ wir werden sammeln
+ ihr werdet sammeln
+ sie werden sammeln"," ich werde vergessen
+ du wirst vergessen
+ er wird vergessen
+ wir werden vergessen
+ ihr werdet vergessen
+ sie werden vergessen"
 subjunctive_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -7020,7 +9015,182 @@ subjunctive_active,FuturePerfect," ich werde angeklagt haben
  er wird mobilisiert haben
  wir werden mobilisiert haben
  ihr werdet mobilisiert haben
- sie werden mobilisiert haben"
+ sie werden mobilisiert haben"," ich werde gestellt haben
+ du wirst gestellt haben
+ er wird gestellt haben
+ wir werden gestellt haben
+ ihr werdet gestellt haben
+ sie werden gestellt haben"," ich werde geschaut haben
+ du wirst geschaut haben
+ er wird geschaut haben
+ wir werden geschaut haben
+ ihr werdet geschaut haben
+ sie werden geschaut haben"," ich werde gelitten haben
+ du wirst gelitten haben
+ er wird gelitten haben
+ wir werden gelitten haben
+ ihr werdet gelitten haben
+ sie werden gelitten haben"," ich werde behandelt haben
+ du wirst behandelt haben
+ er wird behandelt haben
+ wir werden behandelt haben
+ ihr werdet behandelt haben
+ sie werden behandelt haben"," ich werde veröffentlicht haben
+ du wirst veröffentlicht haben
+ er wird veröffentlicht haben
+ wir werden veröffentlicht haben
+ ihr werdet veröffentlicht haben
+ sie werden veröffentlicht haben"," ich werde gedruckt haben
+ du wirst gedruckt haben
+ er wird gedruckt haben
+ wir werden gedruckt haben
+ ihr werdet gedruckt haben
+ sie werden gedruckt haben"," ich werde gelassen haben
+ du wirst gelassen haben
+ er wird gelassen haben
+ wir werden gelassen haben
+ ihr werdet gelassen haben
+ sie werden gelassen haben"," ich werde gestanden haben
+ du wirst gestanden haben
+ er wird gestanden haben
+ wir werden gestanden haben
+ ihr werdet gestanden haben
+ sie werden gestanden haben"," ich werde aufgegeben haben
+ du wirst aufgegeben haben
+ er wird aufgegeben haben
+ wir werden aufgegeben haben
+ ihr werdet aufgegeben haben
+ sie werden aufgegeben haben"," ich werde eingenommen haben
+ du wirst eingenommen haben
+ er wird eingenommen haben
+ wir werden eingenommen haben
+ ihr werdet eingenommen haben
+ sie werden eingenommen haben"," ich werde vorgeworfen haben
+ du wirst vorgeworfen haben
+ er wird vorgeworfen haben
+ wir werden vorgeworfen haben
+ ihr werdet vorgeworfen haben
+ sie werden vorgeworfen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde gefehlt haben
+ du wirst gefehlt haben
+ er wird gefehlt haben
+ wir werden gefehlt haben
+ ihr werdet gefehlt haben
+ sie werden gefehlt haben"," ich werde aufgefordert haben
+ du wirst aufgefordert haben
+ er wird aufgefordert haben
+ wir werden aufgefordert haben
+ ihr werdet aufgefordert haben
+ sie werden aufgefordert haben"," ich werde organisiert haben
+ du wirst organisiert haben
+ er wird organisiert haben
+ wir werden organisiert haben
+ ihr werdet organisiert haben
+ sie werden organisiert haben"," ich werde verlesen haben
+ du wirst verlesen haben
+ er wird verlesen haben
+ wir werden verlesen haben
+ ihr werdet verlesen haben
+ sie werden verlesen haben"," ich werde zurückgewiesen haben
+ du wirst zurückgewiesen haben
+ er wird zurückgewiesen haben
+ wir werden zurückgewiesen haben
+ ihr werdet zurückgewiesen haben
+ sie werden zurückgewiesen haben"," ich werde verhindert haben
+ du wirst verhindert haben
+ er wird verhindert haben
+ wir werden verhindert haben
+ ihr werdet verhindert haben
+ sie werden verhindert haben"," ich werde gereist sein
+ du wirst gereist sein
+ er wird gereist sein
+ wir werden gereist sein
+ ihr werdet gereist sein
+ sie werden gereist sein"," ich werde gewartet haben
+ du wirst gewartet haben
+ er wird gewartet haben
+ wir werden gewartet haben
+ ihr werdet gewartet haben
+ sie werden gewartet haben"," ich werde besucht haben
+ du wirst besucht haben
+ er wird besucht haben
+ wir werden besucht haben
+ ihr werdet besucht haben
+ sie werden besucht haben"," ich werde abgestellt haben
+ du wirst abgestellt haben
+ er wird abgestellt haben
+ wir werden abgestellt haben
+ ihr werdet abgestellt haben
+ sie werden abgestellt haben"," ich werde genossen haben
+ du wirst genossen haben
+ er wird genossen haben
+ wir werden genossen haben
+ ihr werdet genossen haben
+ sie werden genossen haben"," ich werde gefahren haben
+ du wirst gefahren haben
+ er wird gefahren haben
+ wir werden gefahren haben
+ ihr werdet gefahren haben
+ sie werden gefahren haben"," ich werde vorbeigefahren sein
+ du wirst vorbeigefahren sein
+ er wird vorbeigefahren sein
+ wir werden vorbeigefahren sein
+ ihr werdet vorbeigefahren sein
+ sie werden vorbeigefahren sein"," ich werde ausgeseh(e)n haben
+ du wirst ausgeseh(e)n haben
+ er wird ausgeseh(e)n haben
+ wir werden ausgeseh(e)n haben
+ ihr werdet ausgeseh(e)n haben
+ sie werden ausgeseh(e)n haben"," ich werde vorbeigekommen sein
+ du wirst vorbeigekommen sein
+ er wird vorbeigekommen sein
+ wir werden vorbeigekommen sein
+ ihr werdet vorbeigekommen sein
+ sie werden vorbeigekommen sein"," ich werde angehalten haben
+ du wirst angehalten haben
+ er wird angehalten haben
+ wir werden angehalten haben
+ ihr werdet angehalten haben
+ sie werden angehalten haben"," ich werde gestrahlt haben
+ du wirst gestrahlt haben
+ er wird gestrahlt haben
+ wir werden gestrahlt haben
+ ihr werdet gestrahlt haben
+ sie werden gestrahlt haben"," ich werde vorbereitet haben
+ du wirst vorbereitet haben
+ er wird vorbereitet haben
+ wir werden vorbereitet haben
+ ihr werdet vorbereitet haben
+ sie werden vorbereitet haben"," ich werde eingepackt haben
+ du wirst eingepackt haben
+ er wird eingepackt haben
+ wir werden eingepackt haben
+ ihr werdet eingepackt haben
+ sie werden eingepackt haben"," ich werde erkundet haben
+ du wirst erkundet haben
+ er wird erkundet haben
+ wir werden erkundet haben
+ ihr werdet erkundet haben
+ sie werden erkundet haben"," ich werde probiert haben
+ du wirst probiert haben
+ er wird probiert haben
+ wir werden probiert haben
+ ihr werdet probiert haben
+ sie werden probiert haben"," ich werde gesammelt haben
+ du wirst gesammelt haben
+ er wird gesammelt haben
+ wir werden gesammelt haben
+ ihr werdet gesammelt haben
+ sie werden gesammelt haben"," ich werde vergessen haben
+ du wirst vergessen haben
+ er wird vergessen haben
+ wir werden vergessen haben
+ ihr werdet vergessen haben
+ sie werden vergessen haben"
 subjunctive_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -7134,7 +9304,42 @@ subjunctive_active,InfinitiveI," anklagen
  zu geben",," verurteilen
  zu verurteilen"," aufhören
  aufzuhören"," mobilisieren
- zu mobilisieren"
+ zu mobilisieren"," stellen
+ zu stellen"," schau(e)n
+ zu schau(e)n"," leiden
+ zu leiden"," behandeln
+ zu behandeln"," veröffentlichen
+ zu veröffentlichen"," drucken
+ zu drucken"," lassen
+ zu lassen"," steh(e)n
+ zu steh(e)n"," aufgeben
+ aufzugeben"," einnehmen
+ einzunehmen"," vorwerfen
+ vorzuwerfen"," versuchen
+ zu versuchen"," fehlen
+ zu fehlen"," auffordern
+ aufzufordern"," organisieren
+ zu organisieren"," verlesen
+ zu verlesen"," zurückweisen
+ zurückzuweisen"," verhindern
+ zu verhindern"," reisen
+ zu reisen"," gewarten
+ zu gewarten"," besuchen
+ zu besuchen"," abstellen
+ abzustellen"," genießen
+ zu genießen"," fahren
+ zu fahren"," vorbeifahren
+ vorbeizufahren"," ausseh(e)n
+ auszuseh(e)n"," vorbeikommen
+ vorbeizukommen"," anhalten
+ anzuhalten"," strahlen
+ zu strahlen"," vorbereiten
+ vorzubereiten"," einpacken
+ einzupacken"," erkunden
+ zu erkunden"," probieren
+ zu probieren"," sammeln
+ zu sammeln"," vergessen
+ zu vergessen"
 subjunctive_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -7248,9 +9453,44 @@ subjunctive_active,InfinitiveII," angeklagt haben
  gegeben zu haben",," verurteilt haben
  verurteilt zu haben"," aufgehört haben
  aufgehört zu haben"," mobilisiert haben
- mobilisiert zu haben"
-subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
-subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
+ mobilisiert zu haben"," gestellt haben
+ gestellt zu haben"," geschaut haben
+ geschaut zu haben"," gelitten haben
+ gelitten zu haben"," behandelt haben
+ behandelt zu haben"," veröffentlicht haben
+ veröffentlicht zu haben"," gedruckt haben
+ gedruckt zu haben"," gelassen haben
+ gelassen zu haben"," gestanden haben
+ gestanden zu haben"," aufgegeben haben
+ aufgegeben zu haben"," eingenommen haben
+ eingenommen zu haben"," vorgeworfen haben
+ vorgeworfen zu haben"," versucht haben
+ versucht zu haben"," gefehlt haben
+ gefehlt zu haben"," aufgefordert haben
+ aufgefordert zu haben"," organisiert haben
+ organisiert zu haben"," verlesen haben
+ verlesen zu haben"," zurückgewiesen haben
+ zurückgewiesen zu haben"," verhindert haben
+ verhindert zu haben"," gereist sein
+ gereist zu sein"," gewartet haben
+ gewartet zu haben"," besucht haben
+ besucht zu haben"," abgestellt haben
+ abgestellt zu haben"," genossen haben
+ genossen zu haben"," gefahren haben
+ gefahren zu haben"," vorbeigefahren sein
+ vorbeigefahren zu sein"," ausgeseh(e)n haben
+ ausgeseh(e)n zu haben"," vorbeigekommen sein
+ vorbeigekommen zu sein"," angehalten haben
+ angehalten zu haben"," gestrahlt haben
+ gestrahlt zu haben"," vorbereitet haben
+ vorbereitet zu haben"," eingepackt haben
+ eingepackt zu haben"," erkundet haben
+ erkundet zu haben"," probiert haben
+ probiert zu haben"," gesammelt haben
+ gesammelt zu haben"," vergessen haben
+ vergessen zu haben"
+subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
+subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
 conditional_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -7816,7 +10056,182 @@ conditional_active,Present," ich klag(e) an
  er mobilisiert
  wir mobilisieren
  ihr mobilisiert
- sie mobilisieren"
+ sie mobilisieren"," ich stell(e)
+ du stellst
+ er stellt
+ wir stellen
+ ihr stellt
+ sie stellen"," ich schau(e)
+ du schaust
+ er schaut
+ wir schau(e)n
+ ihr schaut
+ sie schau(e)n"," ich leid(e)
+ du leidest
+ er leidet
+ wir leiden
+ ihr leidet
+ sie leiden"," ich behand(e)l(e)
+ du behandelst
+ er behandelt
+ wir behandeln
+ ihr behandelt
+ sie behandeln"," ich veröffentlich(e)
+ du veröffentlichst
+ er veröffentlicht
+ wir veröffentlichen
+ ihr veröffentlicht
+ sie veröffentlichen"," ich druck(e)
+ du druckst
+ er druckt
+ wir drucken
+ ihr druckt
+ sie drucken"," ich lass(e)
+ du lässt
+ er lässt
+ wir lassen
+ ihr lasst
+ sie lassen"," ich steh(e)
+ du stehst
+ er steht
+ wir steh(e)n
+ ihr steht
+ sie steh(e)n"," ich geb(e) auf
+ du gibst auf
+ er gibt auf
+ wir geben auf
+ ihr gebt auf
+ sie geben auf"," ich nehm(e) ein
+ du nimmst ein
+ er nimmt ein
+ wir nehmen ein
+ ihr nehmt ein
+ sie nehmen ein"," ich werf(e) vor
+ du wirfst vor
+ er wirft vor
+ wir werfen vor
+ ihr werft vor
+ sie werfen vor"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich fehl(e)
+ du fehlst
+ er fehlt
+ wir fehlen
+ ihr fehlt
+ sie fehlen"," ich ford(e)r(e) auf
+ du forderst auf
+ er fordert auf
+ wir fordern auf
+ ihr fordert auf
+ sie fordern auf"," ich organisier(e)
+ du organisierst
+ er organisiert
+ wir organisieren
+ ihr organisiert
+ sie organisieren"," ich verles(e)
+ du verliest
+ er verliest
+ wir verlesen
+ ihr verlest
+ sie verlesen"," ich weis(e) zurück
+ du weist zurück
+ er weist zurück
+ wir weisen zurück
+ ihr weist zurück
+ sie weisen zurück"," ich verhind(e)r(e)
+ du verhinderst
+ er verhindert
+ wir verhindern
+ ihr verhindert
+ sie verhindern"," ich reis(e)
+ du reist
+ er reist
+ wir reisen
+ ihr reist
+ sie reisen"," ich gewart(e)
+ du gewartest
+ er gewartet
+ wir gewarten
+ ihr gewartet
+ sie gewarten"," ich besuch(e)
+ du besuchst
+ er besucht
+ wir besuchen
+ ihr besucht
+ sie besuchen"," ich stell(e) ab
+ du stellst ab
+ er stellt ab
+ wir stellen ab
+ ihr stellt ab
+ sie stellen ab"," ich genieß(e)
+ du genießt
+ er genießt
+ wir genießen
+ ihr genießt
+ sie genießen"," ich fahr(e)
+ du fährst
+ er fährt
+ wir fahren
+ ihr fahrt
+ sie fahren"," ich fahr(e) vorbei
+ du fährst vorbei
+ er fährt vorbei
+ wir fahren vorbei
+ ihr fahrt vorbei
+ sie fahren vorbei"," ich seh(e) aus
+ du siehst aus
+ er sieht aus
+ wir seh(e)n aus
+ ihr seht aus
+ sie seh(e)n aus"," ich komm(e) vorbei
+ du kommst/kömmst vorbei
+ er kommt/kömmt vorbei
+ wir kommen vorbei
+ ihr kommt vorbei
+ sie kommen vorbei"," ich halt(e) an
+ du hältst an
+ er hält an
+ wir halten an
+ ihr haltet an
+ sie halten an"," ich strahl(e)
+ du strahlst
+ er strahlt
+ wir strahlen
+ ihr strahlt
+ sie strahlen"," ich bereit(e) vor
+ du bereitest vor
+ er bereitet vor
+ wir bereiten vor
+ ihr bereitet vor
+ sie bereiten vor"," ich pack(e) ein
+ du packst ein
+ er packt ein
+ wir packen ein
+ ihr packt ein
+ sie packen ein"," ich erkund(e)
+ du erkundest
+ er erkundet
+ wir erkunden
+ ihr erkundet
+ sie erkunden"," ich probier(e)
+ du probierst
+ er probiert
+ wir probieren
+ ihr probiert
+ sie probieren"," ich samm(e)l(e)
+ du sammelst
+ er sammelt
+ wir sammeln
+ ihr sammelt
+ sie sammeln"," ich vergess(e)
+ du vergisst
+ er vergisst
+ wir vergessen
+ ihr vergesst
+ sie vergessen"
 conditional_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -8382,7 +10797,182 @@ conditional_active,Imperfect," ich klagte an
  er mobilisierte
  wir mobilisierten
  ihr mobilisiertet
- sie mobilisierten"
+ sie mobilisierten"," ich stellte
+ du stelltest
+ er stellte
+ wir stellten
+ ihr stelltet
+ sie stellten"," ich schaute
+ du schautest
+ er schaute
+ wir schauten
+ ihr schautet
+ sie schauten"," ich litt
+ du litt(e)st
+ er litt
+ wir litten
+ ihr littet
+ sie litten"," ich behandelte
+ du behandeltest
+ er behandelte
+ wir behandelten
+ ihr behandeltet
+ sie behandelten"," ich veröffentlichte
+ du veröffentlichtest
+ er veröffentlichte
+ wir veröffentlichten
+ ihr veröffentlichtet
+ sie veröffentlichten"," ich druckte
+ du drucktest
+ er druckte
+ wir druckten
+ ihr drucktet
+ sie druckten"," ich ließ
+ du ließ(es)t
+ er ließ
+ wir ließen
+ ihr ließ(e)t
+ sie ließen"," ich stand
+ du stand(e)st
+ er stand
+ wir standen
+ ihr standet
+ sie standen"," ich gab auf
+ du gabst auf
+ er gab auf
+ wir gaben auf
+ ihr gabt auf
+ sie gaben auf"," ich nahm ein
+ du nahmst ein
+ er nahm ein
+ wir nahmen ein
+ ihr nahmt ein
+ sie nahmen ein"," ich warf vor
+ du warfst vor
+ er warf vor
+ wir warfen vor
+ ihr warft vor
+ sie warfen vor"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich fehlte
+ du fehltest
+ er fehlte
+ wir fehlten
+ ihr fehltet
+ sie fehlten"," ich forderte auf
+ du fordertest auf
+ er forderte auf
+ wir forderten auf
+ ihr fordertet auf
+ sie forderten auf"," ich organisierte
+ du organisiertest
+ er organisierte
+ wir organisierten
+ ihr organisiertet
+ sie organisierten"," ich verlas
+ du verlas(es)t
+ er verlas
+ wir verlasen
+ ihr verlas(e)t
+ sie verlasen"," ich wies zurück
+ du wies(es)t zurück
+ er wies zurück
+ wir wiesen zurück
+ ihr wies(e)t zurück
+ sie wiesen zurück"," ich verhinderte
+ du verhindertest
+ er verhinderte
+ wir verhinderten
+ ihr verhindertet
+ sie verhinderten"," ich reiste
+ du reistest
+ er reiste
+ wir reisten
+ ihr reistet
+ sie reisten"," ich gewartete
+ du gewartetest
+ er gewartete
+ wir gewarteten
+ ihr gewartetet
+ sie gewarteten"," ich besuchte
+ du besuchtest
+ er besuchte
+ wir besuchten
+ ihr besuchtet
+ sie besuchten"," ich stellte ab
+ du stelltest ab
+ er stellte ab
+ wir stellten ab
+ ihr stelltet ab
+ sie stellten ab"," ich genoss
+ du genoss(es)t
+ er genoss
+ wir genossen
+ ihr genoss(e)t
+ sie genossen"," ich fuhr
+ du fuhrst
+ er fuhr
+ wir fuhren
+ ihr fuhrt
+ sie fuhren"," ich fuhr vorbei
+ du fuhrst vorbei
+ er fuhr vorbei
+ wir fuhren vorbei
+ ihr fuhrt vorbei
+ sie fuhren vorbei"," ich sah aus
+ du sahst aus
+ er sah aus
+ wir sah(e)n aus
+ ihr saht aus
+ sie sah(e)n aus"," ich kam vorbei
+ du kamst vorbei
+ er kam vorbei
+ wir kamen vorbei
+ ihr kamt vorbei
+ sie kamen vorbei"," ich hielt an
+ du hielt(e)st an
+ er hielt an
+ wir hielten an
+ ihr hieltet an
+ sie hielten an"," ich strahlte
+ du strahltest
+ er strahlte
+ wir strahlten
+ ihr strahltet
+ sie strahlten"," ich bereitete vor
+ du bereitetest vor
+ er bereitete vor
+ wir bereiteten vor
+ ihr bereitetet vor
+ sie bereiteten vor"," ich packte ein
+ du packtest ein
+ er packte ein
+ wir packten ein
+ ihr packtet ein
+ sie packten ein"," ich erkundete
+ du erkundetest
+ er erkundete
+ wir erkundeten
+ ihr erkundetet
+ sie erkundeten"," ich probierte
+ du probiertest
+ er probierte
+ wir probierten
+ ihr probiertet
+ sie probierten"," ich sammelte
+ du sammeltest
+ er sammelte
+ wir sammelten
+ ihr sammeltet
+ sie sammelten"," ich vergaß
+ du vergaß(es)t
+ er vergaß
+ wir vergaßen
+ ihr vergaß(e)t
+ sie vergaßen"
 conditional_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -8948,7 +11538,182 @@ conditional_active,Perfect," ich habe angeklagt
  er hat mobilisiert
  wir haben mobilisiert
  ihr habt mobilisiert
- sie haben mobilisiert"
+ sie haben mobilisiert"," ich habe gestellt
+ du hast gestellt
+ er hat gestellt
+ wir haben gestellt
+ ihr habt gestellt
+ sie haben gestellt"," ich habe geschaut
+ du hast geschaut
+ er hat geschaut
+ wir haben geschaut
+ ihr habt geschaut
+ sie haben geschaut"," ich habe gelitten
+ du hast gelitten
+ er hat gelitten
+ wir haben gelitten
+ ihr habt gelitten
+ sie haben gelitten"," ich habe behandelt
+ du hast behandelt
+ er hat behandelt
+ wir haben behandelt
+ ihr habt behandelt
+ sie haben behandelt"," ich habe veröffentlicht
+ du hast veröffentlicht
+ er hat veröffentlicht
+ wir haben veröffentlicht
+ ihr habt veröffentlicht
+ sie haben veröffentlicht"," ich habe gedruckt
+ du hast gedruckt
+ er hat gedruckt
+ wir haben gedruckt
+ ihr habt gedruckt
+ sie haben gedruckt"," ich habe gelassen
+ du hast gelassen
+ er hat gelassen
+ wir haben gelassen
+ ihr habt gelassen
+ sie haben gelassen"," ich habe gestanden
+ du hast gestanden
+ er hat gestanden
+ wir haben gestanden
+ ihr habt gestanden
+ sie haben gestanden"," ich habe aufgegeben
+ du hast aufgegeben
+ er hat aufgegeben
+ wir haben aufgegeben
+ ihr habt aufgegeben
+ sie haben aufgegeben"," ich habe eingenommen
+ du hast eingenommen
+ er hat eingenommen
+ wir haben eingenommen
+ ihr habt eingenommen
+ sie haben eingenommen"," ich habe vorgeworfen
+ du hast vorgeworfen
+ er hat vorgeworfen
+ wir haben vorgeworfen
+ ihr habt vorgeworfen
+ sie haben vorgeworfen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe gefehlt
+ du hast gefehlt
+ er hat gefehlt
+ wir haben gefehlt
+ ihr habt gefehlt
+ sie haben gefehlt"," ich habe aufgefordert
+ du hast aufgefordert
+ er hat aufgefordert
+ wir haben aufgefordert
+ ihr habt aufgefordert
+ sie haben aufgefordert"," ich habe organisiert
+ du hast organisiert
+ er hat organisiert
+ wir haben organisiert
+ ihr habt organisiert
+ sie haben organisiert"," ich habe verlesen
+ du hast verlesen
+ er hat verlesen
+ wir haben verlesen
+ ihr habt verlesen
+ sie haben verlesen"," ich habe zurückgewiesen
+ du hast zurückgewiesen
+ er hat zurückgewiesen
+ wir haben zurückgewiesen
+ ihr habt zurückgewiesen
+ sie haben zurückgewiesen"," ich habe verhindert
+ du hast verhindert
+ er hat verhindert
+ wir haben verhindert
+ ihr habt verhindert
+ sie haben verhindert"," ich bin gereist
+ du bist gereist
+ er ist gereist
+ wir sind gereist
+ ihr seid gereist
+ sie sind gereist"," ich habe gewartet
+ du hast gewartet
+ er hat gewartet
+ wir haben gewartet
+ ihr habt gewartet
+ sie haben gewartet"," ich habe besucht
+ du hast besucht
+ er hat besucht
+ wir haben besucht
+ ihr habt besucht
+ sie haben besucht"," ich habe abgestellt
+ du hast abgestellt
+ er hat abgestellt
+ wir haben abgestellt
+ ihr habt abgestellt
+ sie haben abgestellt"," ich habe genossen
+ du hast genossen
+ er hat genossen
+ wir haben genossen
+ ihr habt genossen
+ sie haben genossen"," ich habe gefahren
+ du hast gefahren
+ er hat gefahren
+ wir haben gefahren
+ ihr habt gefahren
+ sie haben gefahren"," ich bin vorbeigefahren
+ du bist vorbeigefahren
+ er ist vorbeigefahren
+ wir sind vorbeigefahren
+ ihr seid vorbeigefahren
+ sie sind vorbeigefahren"," ich habe ausgeseh(e)n
+ du hast ausgeseh(e)n
+ er hat ausgeseh(e)n
+ wir haben ausgeseh(e)n
+ ihr habt ausgeseh(e)n
+ sie haben ausgeseh(e)n"," ich bin vorbeigekommen
+ du bist vorbeigekommen
+ er ist vorbeigekommen
+ wir sind vorbeigekommen
+ ihr seid vorbeigekommen
+ sie sind vorbeigekommen"," ich habe angehalten
+ du hast angehalten
+ er hat angehalten
+ wir haben angehalten
+ ihr habt angehalten
+ sie haben angehalten"," ich habe gestrahlt
+ du hast gestrahlt
+ er hat gestrahlt
+ wir haben gestrahlt
+ ihr habt gestrahlt
+ sie haben gestrahlt"," ich habe vorbereitet
+ du hast vorbereitet
+ er hat vorbereitet
+ wir haben vorbereitet
+ ihr habt vorbereitet
+ sie haben vorbereitet"," ich habe eingepackt
+ du hast eingepackt
+ er hat eingepackt
+ wir haben eingepackt
+ ihr habt eingepackt
+ sie haben eingepackt"," ich habe erkundet
+ du hast erkundet
+ er hat erkundet
+ wir haben erkundet
+ ihr habt erkundet
+ sie haben erkundet"," ich habe probiert
+ du hast probiert
+ er hat probiert
+ wir haben probiert
+ ihr habt probiert
+ sie haben probiert"," ich habe gesammelt
+ du hast gesammelt
+ er hat gesammelt
+ wir haben gesammelt
+ ihr habt gesammelt
+ sie haben gesammelt"," ich habe vergessen
+ du hast vergessen
+ er hat vergessen
+ wir haben vergessen
+ ihr habt vergessen
+ sie haben vergessen"
 conditional_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -9514,7 +12279,182 @@ conditional_active,Pluperfect," ich hatte angeklagt
  er hatte mobilisiert
  wir hatten mobilisiert
  ihr hattet mobilisiert
- sie hatten mobilisiert"
+ sie hatten mobilisiert"," ich hatte gestellt
+ du hattest gestellt
+ er hatte gestellt
+ wir hatten gestellt
+ ihr hattet gestellt
+ sie hatten gestellt"," ich hatte geschaut
+ du hattest geschaut
+ er hatte geschaut
+ wir hatten geschaut
+ ihr hattet geschaut
+ sie hatten geschaut"," ich hatte gelitten
+ du hattest gelitten
+ er hatte gelitten
+ wir hatten gelitten
+ ihr hattet gelitten
+ sie hatten gelitten"," ich hatte behandelt
+ du hattest behandelt
+ er hatte behandelt
+ wir hatten behandelt
+ ihr hattet behandelt
+ sie hatten behandelt"," ich hatte veröffentlicht
+ du hattest veröffentlicht
+ er hatte veröffentlicht
+ wir hatten veröffentlicht
+ ihr hattet veröffentlicht
+ sie hatten veröffentlicht"," ich hatte gedruckt
+ du hattest gedruckt
+ er hatte gedruckt
+ wir hatten gedruckt
+ ihr hattet gedruckt
+ sie hatten gedruckt"," ich hatte gelassen
+ du hattest gelassen
+ er hatte gelassen
+ wir hatten gelassen
+ ihr hattet gelassen
+ sie hatten gelassen"," ich hatte gestanden
+ du hattest gestanden
+ er hatte gestanden
+ wir hatten gestanden
+ ihr hattet gestanden
+ sie hatten gestanden"," ich hatte aufgegeben
+ du hattest aufgegeben
+ er hatte aufgegeben
+ wir hatten aufgegeben
+ ihr hattet aufgegeben
+ sie hatten aufgegeben"," ich hatte eingenommen
+ du hattest eingenommen
+ er hatte eingenommen
+ wir hatten eingenommen
+ ihr hattet eingenommen
+ sie hatten eingenommen"," ich hatte vorgeworfen
+ du hattest vorgeworfen
+ er hatte vorgeworfen
+ wir hatten vorgeworfen
+ ihr hattet vorgeworfen
+ sie hatten vorgeworfen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte gefehlt
+ du hattest gefehlt
+ er hatte gefehlt
+ wir hatten gefehlt
+ ihr hattet gefehlt
+ sie hatten gefehlt"," ich hatte aufgefordert
+ du hattest aufgefordert
+ er hatte aufgefordert
+ wir hatten aufgefordert
+ ihr hattet aufgefordert
+ sie hatten aufgefordert"," ich hatte organisiert
+ du hattest organisiert
+ er hatte organisiert
+ wir hatten organisiert
+ ihr hattet organisiert
+ sie hatten organisiert"," ich hatte verlesen
+ du hattest verlesen
+ er hatte verlesen
+ wir hatten verlesen
+ ihr hattet verlesen
+ sie hatten verlesen"," ich hatte zurückgewiesen
+ du hattest zurückgewiesen
+ er hatte zurückgewiesen
+ wir hatten zurückgewiesen
+ ihr hattet zurückgewiesen
+ sie hatten zurückgewiesen"," ich hatte verhindert
+ du hattest verhindert
+ er hatte verhindert
+ wir hatten verhindert
+ ihr hattet verhindert
+ sie hatten verhindert"," ich war gereist
+ du warst gereist
+ er war gereist
+ wir waren gereist
+ ihr wart gereist
+ sie waren gereist"," ich hatte gewartet
+ du hattest gewartet
+ er hatte gewartet
+ wir hatten gewartet
+ ihr hattet gewartet
+ sie hatten gewartet"," ich hatte besucht
+ du hattest besucht
+ er hatte besucht
+ wir hatten besucht
+ ihr hattet besucht
+ sie hatten besucht"," ich hatte abgestellt
+ du hattest abgestellt
+ er hatte abgestellt
+ wir hatten abgestellt
+ ihr hattet abgestellt
+ sie hatten abgestellt"," ich hatte genossen
+ du hattest genossen
+ er hatte genossen
+ wir hatten genossen
+ ihr hattet genossen
+ sie hatten genossen"," ich hatte gefahren
+ du hattest gefahren
+ er hatte gefahren
+ wir hatten gefahren
+ ihr hattet gefahren
+ sie hatten gefahren"," ich war vorbeigefahren
+ du warst vorbeigefahren
+ er war vorbeigefahren
+ wir waren vorbeigefahren
+ ihr wart vorbeigefahren
+ sie waren vorbeigefahren"," ich hatte ausgeseh(e)n
+ du hattest ausgeseh(e)n
+ er hatte ausgeseh(e)n
+ wir hatten ausgeseh(e)n
+ ihr hattet ausgeseh(e)n
+ sie hatten ausgeseh(e)n"," ich war vorbeigekommen
+ du warst vorbeigekommen
+ er war vorbeigekommen
+ wir waren vorbeigekommen
+ ihr wart vorbeigekommen
+ sie waren vorbeigekommen"," ich hatte angehalten
+ du hattest angehalten
+ er hatte angehalten
+ wir hatten angehalten
+ ihr hattet angehalten
+ sie hatten angehalten"," ich hatte gestrahlt
+ du hattest gestrahlt
+ er hatte gestrahlt
+ wir hatten gestrahlt
+ ihr hattet gestrahlt
+ sie hatten gestrahlt"," ich hatte vorbereitet
+ du hattest vorbereitet
+ er hatte vorbereitet
+ wir hatten vorbereitet
+ ihr hattet vorbereitet
+ sie hatten vorbereitet"," ich hatte eingepackt
+ du hattest eingepackt
+ er hatte eingepackt
+ wir hatten eingepackt
+ ihr hattet eingepackt
+ sie hatten eingepackt"," ich hatte erkundet
+ du hattest erkundet
+ er hatte erkundet
+ wir hatten erkundet
+ ihr hattet erkundet
+ sie hatten erkundet"," ich hatte probiert
+ du hattest probiert
+ er hatte probiert
+ wir hatten probiert
+ ihr hattet probiert
+ sie hatten probiert"," ich hatte gesammelt
+ du hattest gesammelt
+ er hatte gesammelt
+ wir hatten gesammelt
+ ihr hattet gesammelt
+ sie hatten gesammelt"," ich hatte vergessen
+ du hattest vergessen
+ er hatte vergessen
+ wir hatten vergessen
+ ihr hattet vergessen
+ sie hatten vergessen"
 conditional_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -10080,7 +13020,182 @@ conditional_active,Future," ich werde anklagen
  er wird mobilisieren
  wir werden mobilisieren
  ihr werdet mobilisieren
- sie werden mobilisieren"
+ sie werden mobilisieren"," ich werde stellen
+ du wirst stellen
+ er wird stellen
+ wir werden stellen
+ ihr werdet stellen
+ sie werden stellen"," ich werde schau(e)n
+ du wirst schau(e)n
+ er wird schau(e)n
+ wir werden schau(e)n
+ ihr werdet schau(e)n
+ sie werden schau(e)n"," ich werde leiden
+ du wirst leiden
+ er wird leiden
+ wir werden leiden
+ ihr werdet leiden
+ sie werden leiden"," ich werde behandeln
+ du wirst behandeln
+ er wird behandeln
+ wir werden behandeln
+ ihr werdet behandeln
+ sie werden behandeln"," ich werde veröffentlichen
+ du wirst veröffentlichen
+ er wird veröffentlichen
+ wir werden veröffentlichen
+ ihr werdet veröffentlichen
+ sie werden veröffentlichen"," ich werde drucken
+ du wirst drucken
+ er wird drucken
+ wir werden drucken
+ ihr werdet drucken
+ sie werden drucken"," ich werde lassen
+ du wirst lassen
+ er wird lassen
+ wir werden lassen
+ ihr werdet lassen
+ sie werden lassen"," ich werde steh(e)n
+ du wirst steh(e)n
+ er wird steh(e)n
+ wir werden steh(e)n
+ ihr werdet steh(e)n
+ sie werden steh(e)n"," ich werde aufgeben
+ du wirst aufgeben
+ er wird aufgeben
+ wir werden aufgeben
+ ihr werdet aufgeben
+ sie werden aufgeben"," ich werde einnehmen
+ du wirst einnehmen
+ er wird einnehmen
+ wir werden einnehmen
+ ihr werdet einnehmen
+ sie werden einnehmen"," ich werde vorwerfen
+ du wirst vorwerfen
+ er wird vorwerfen
+ wir werden vorwerfen
+ ihr werdet vorwerfen
+ sie werden vorwerfen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde fehlen
+ du wirst fehlen
+ er wird fehlen
+ wir werden fehlen
+ ihr werdet fehlen
+ sie werden fehlen"," ich werde auffordern
+ du wirst auffordern
+ er wird auffordern
+ wir werden auffordern
+ ihr werdet auffordern
+ sie werden auffordern"," ich werde organisieren
+ du wirst organisieren
+ er wird organisieren
+ wir werden organisieren
+ ihr werdet organisieren
+ sie werden organisieren"," ich werde verlesen
+ du wirst verlesen
+ er wird verlesen
+ wir werden verlesen
+ ihr werdet verlesen
+ sie werden verlesen"," ich werde zurückweisen
+ du wirst zurückweisen
+ er wird zurückweisen
+ wir werden zurückweisen
+ ihr werdet zurückweisen
+ sie werden zurückweisen"," ich werde verhindern
+ du wirst verhindern
+ er wird verhindern
+ wir werden verhindern
+ ihr werdet verhindern
+ sie werden verhindern"," ich werde reisen
+ du wirst reisen
+ er wird reisen
+ wir werden reisen
+ ihr werdet reisen
+ sie werden reisen"," ich werde gewarten
+ du wirst gewarten
+ er wird gewarten
+ wir werden gewarten
+ ihr werdet gewarten
+ sie werden gewarten"," ich werde besuchen
+ du wirst besuchen
+ er wird besuchen
+ wir werden besuchen
+ ihr werdet besuchen
+ sie werden besuchen"," ich werde abstellen
+ du wirst abstellen
+ er wird abstellen
+ wir werden abstellen
+ ihr werdet abstellen
+ sie werden abstellen"," ich werde genießen
+ du wirst genießen
+ er wird genießen
+ wir werden genießen
+ ihr werdet genießen
+ sie werden genießen"," ich werde fahren
+ du wirst fahren
+ er wird fahren
+ wir werden fahren
+ ihr werdet fahren
+ sie werden fahren"," ich werde vorbeifahren
+ du wirst vorbeifahren
+ er wird vorbeifahren
+ wir werden vorbeifahren
+ ihr werdet vorbeifahren
+ sie werden vorbeifahren"," ich werde ausseh(e)n
+ du wirst ausseh(e)n
+ er wird ausseh(e)n
+ wir werden ausseh(e)n
+ ihr werdet ausseh(e)n
+ sie werden ausseh(e)n"," ich werde vorbeikommen
+ du wirst vorbeikommen
+ er wird vorbeikommen
+ wir werden vorbeikommen
+ ihr werdet vorbeikommen
+ sie werden vorbeikommen"," ich werde anhalten
+ du wirst anhalten
+ er wird anhalten
+ wir werden anhalten
+ ihr werdet anhalten
+ sie werden anhalten"," ich werde strahlen
+ du wirst strahlen
+ er wird strahlen
+ wir werden strahlen
+ ihr werdet strahlen
+ sie werden strahlen"," ich werde vorbereiten
+ du wirst vorbereiten
+ er wird vorbereiten
+ wir werden vorbereiten
+ ihr werdet vorbereiten
+ sie werden vorbereiten"," ich werde einpacken
+ du wirst einpacken
+ er wird einpacken
+ wir werden einpacken
+ ihr werdet einpacken
+ sie werden einpacken"," ich werde erkunden
+ du wirst erkunden
+ er wird erkunden
+ wir werden erkunden
+ ihr werdet erkunden
+ sie werden erkunden"," ich werde probieren
+ du wirst probieren
+ er wird probieren
+ wir werden probieren
+ ihr werdet probieren
+ sie werden probieren"," ich werde sammeln
+ du wirst sammeln
+ er wird sammeln
+ wir werden sammeln
+ ihr werdet sammeln
+ sie werden sammeln"," ich werde vergessen
+ du wirst vergessen
+ er wird vergessen
+ wir werden vergessen
+ ihr werdet vergessen
+ sie werden vergessen"
 conditional_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -10646,7 +13761,182 @@ conditional_active,FuturePerfect," ich werde angeklagt haben
  er wird mobilisiert haben
  wir werden mobilisiert haben
  ihr werdet mobilisiert haben
- sie werden mobilisiert haben"
+ sie werden mobilisiert haben"," ich werde gestellt haben
+ du wirst gestellt haben
+ er wird gestellt haben
+ wir werden gestellt haben
+ ihr werdet gestellt haben
+ sie werden gestellt haben"," ich werde geschaut haben
+ du wirst geschaut haben
+ er wird geschaut haben
+ wir werden geschaut haben
+ ihr werdet geschaut haben
+ sie werden geschaut haben"," ich werde gelitten haben
+ du wirst gelitten haben
+ er wird gelitten haben
+ wir werden gelitten haben
+ ihr werdet gelitten haben
+ sie werden gelitten haben"," ich werde behandelt haben
+ du wirst behandelt haben
+ er wird behandelt haben
+ wir werden behandelt haben
+ ihr werdet behandelt haben
+ sie werden behandelt haben"," ich werde veröffentlicht haben
+ du wirst veröffentlicht haben
+ er wird veröffentlicht haben
+ wir werden veröffentlicht haben
+ ihr werdet veröffentlicht haben
+ sie werden veröffentlicht haben"," ich werde gedruckt haben
+ du wirst gedruckt haben
+ er wird gedruckt haben
+ wir werden gedruckt haben
+ ihr werdet gedruckt haben
+ sie werden gedruckt haben"," ich werde gelassen haben
+ du wirst gelassen haben
+ er wird gelassen haben
+ wir werden gelassen haben
+ ihr werdet gelassen haben
+ sie werden gelassen haben"," ich werde gestanden haben
+ du wirst gestanden haben
+ er wird gestanden haben
+ wir werden gestanden haben
+ ihr werdet gestanden haben
+ sie werden gestanden haben"," ich werde aufgegeben haben
+ du wirst aufgegeben haben
+ er wird aufgegeben haben
+ wir werden aufgegeben haben
+ ihr werdet aufgegeben haben
+ sie werden aufgegeben haben"," ich werde eingenommen haben
+ du wirst eingenommen haben
+ er wird eingenommen haben
+ wir werden eingenommen haben
+ ihr werdet eingenommen haben
+ sie werden eingenommen haben"," ich werde vorgeworfen haben
+ du wirst vorgeworfen haben
+ er wird vorgeworfen haben
+ wir werden vorgeworfen haben
+ ihr werdet vorgeworfen haben
+ sie werden vorgeworfen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde gefehlt haben
+ du wirst gefehlt haben
+ er wird gefehlt haben
+ wir werden gefehlt haben
+ ihr werdet gefehlt haben
+ sie werden gefehlt haben"," ich werde aufgefordert haben
+ du wirst aufgefordert haben
+ er wird aufgefordert haben
+ wir werden aufgefordert haben
+ ihr werdet aufgefordert haben
+ sie werden aufgefordert haben"," ich werde organisiert haben
+ du wirst organisiert haben
+ er wird organisiert haben
+ wir werden organisiert haben
+ ihr werdet organisiert haben
+ sie werden organisiert haben"," ich werde verlesen haben
+ du wirst verlesen haben
+ er wird verlesen haben
+ wir werden verlesen haben
+ ihr werdet verlesen haben
+ sie werden verlesen haben"," ich werde zurückgewiesen haben
+ du wirst zurückgewiesen haben
+ er wird zurückgewiesen haben
+ wir werden zurückgewiesen haben
+ ihr werdet zurückgewiesen haben
+ sie werden zurückgewiesen haben"," ich werde verhindert haben
+ du wirst verhindert haben
+ er wird verhindert haben
+ wir werden verhindert haben
+ ihr werdet verhindert haben
+ sie werden verhindert haben"," ich werde gereist sein
+ du wirst gereist sein
+ er wird gereist sein
+ wir werden gereist sein
+ ihr werdet gereist sein
+ sie werden gereist sein"," ich werde gewartet haben
+ du wirst gewartet haben
+ er wird gewartet haben
+ wir werden gewartet haben
+ ihr werdet gewartet haben
+ sie werden gewartet haben"," ich werde besucht haben
+ du wirst besucht haben
+ er wird besucht haben
+ wir werden besucht haben
+ ihr werdet besucht haben
+ sie werden besucht haben"," ich werde abgestellt haben
+ du wirst abgestellt haben
+ er wird abgestellt haben
+ wir werden abgestellt haben
+ ihr werdet abgestellt haben
+ sie werden abgestellt haben"," ich werde genossen haben
+ du wirst genossen haben
+ er wird genossen haben
+ wir werden genossen haben
+ ihr werdet genossen haben
+ sie werden genossen haben"," ich werde gefahren haben
+ du wirst gefahren haben
+ er wird gefahren haben
+ wir werden gefahren haben
+ ihr werdet gefahren haben
+ sie werden gefahren haben"," ich werde vorbeigefahren sein
+ du wirst vorbeigefahren sein
+ er wird vorbeigefahren sein
+ wir werden vorbeigefahren sein
+ ihr werdet vorbeigefahren sein
+ sie werden vorbeigefahren sein"," ich werde ausgeseh(e)n haben
+ du wirst ausgeseh(e)n haben
+ er wird ausgeseh(e)n haben
+ wir werden ausgeseh(e)n haben
+ ihr werdet ausgeseh(e)n haben
+ sie werden ausgeseh(e)n haben"," ich werde vorbeigekommen sein
+ du wirst vorbeigekommen sein
+ er wird vorbeigekommen sein
+ wir werden vorbeigekommen sein
+ ihr werdet vorbeigekommen sein
+ sie werden vorbeigekommen sein"," ich werde angehalten haben
+ du wirst angehalten haben
+ er wird angehalten haben
+ wir werden angehalten haben
+ ihr werdet angehalten haben
+ sie werden angehalten haben"," ich werde gestrahlt haben
+ du wirst gestrahlt haben
+ er wird gestrahlt haben
+ wir werden gestrahlt haben
+ ihr werdet gestrahlt haben
+ sie werden gestrahlt haben"," ich werde vorbereitet haben
+ du wirst vorbereitet haben
+ er wird vorbereitet haben
+ wir werden vorbereitet haben
+ ihr werdet vorbereitet haben
+ sie werden vorbereitet haben"," ich werde eingepackt haben
+ du wirst eingepackt haben
+ er wird eingepackt haben
+ wir werden eingepackt haben
+ ihr werdet eingepackt haben
+ sie werden eingepackt haben"," ich werde erkundet haben
+ du wirst erkundet haben
+ er wird erkundet haben
+ wir werden erkundet haben
+ ihr werdet erkundet haben
+ sie werden erkundet haben"," ich werde probiert haben
+ du wirst probiert haben
+ er wird probiert haben
+ wir werden probiert haben
+ ihr werdet probiert haben
+ sie werden probiert haben"," ich werde gesammelt haben
+ du wirst gesammelt haben
+ er wird gesammelt haben
+ wir werden gesammelt haben
+ ihr werdet gesammelt haben
+ sie werden gesammelt haben"," ich werde vergessen haben
+ du wirst vergessen haben
+ er wird vergessen haben
+ wir werden vergessen haben
+ ihr werdet vergessen haben
+ sie werden vergessen haben"
 conditional_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -10760,7 +14050,42 @@ conditional_active,InfinitiveI," anklagen
  zu geben",," verurteilen
  zu verurteilen"," aufhören
  aufzuhören"," mobilisieren
- zu mobilisieren"
+ zu mobilisieren"," stellen
+ zu stellen"," schau(e)n
+ zu schau(e)n"," leiden
+ zu leiden"," behandeln
+ zu behandeln"," veröffentlichen
+ zu veröffentlichen"," drucken
+ zu drucken"," lassen
+ zu lassen"," steh(e)n
+ zu steh(e)n"," aufgeben
+ aufzugeben"," einnehmen
+ einzunehmen"," vorwerfen
+ vorzuwerfen"," versuchen
+ zu versuchen"," fehlen
+ zu fehlen"," auffordern
+ aufzufordern"," organisieren
+ zu organisieren"," verlesen
+ zu verlesen"," zurückweisen
+ zurückzuweisen"," verhindern
+ zu verhindern"," reisen
+ zu reisen"," gewarten
+ zu gewarten"," besuchen
+ zu besuchen"," abstellen
+ abzustellen"," genießen
+ zu genießen"," fahren
+ zu fahren"," vorbeifahren
+ vorbeizufahren"," ausseh(e)n
+ auszuseh(e)n"," vorbeikommen
+ vorbeizukommen"," anhalten
+ anzuhalten"," strahlen
+ zu strahlen"," vorbereiten
+ vorzubereiten"," einpacken
+ einzupacken"," erkunden
+ zu erkunden"," probieren
+ zu probieren"," sammeln
+ zu sammeln"," vergessen
+ zu vergessen"
 conditional_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -10874,9 +14199,44 @@ conditional_active,InfinitiveII," angeklagt haben
  gegeben zu haben",," verurteilt haben
  verurteilt zu haben"," aufgehört haben
  aufgehört zu haben"," mobilisiert haben
- mobilisiert zu haben"
-conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
-conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
+ mobilisiert zu haben"," gestellt haben
+ gestellt zu haben"," geschaut haben
+ geschaut zu haben"," gelitten haben
+ gelitten zu haben"," behandelt haben
+ behandelt zu haben"," veröffentlicht haben
+ veröffentlicht zu haben"," gedruckt haben
+ gedruckt zu haben"," gelassen haben
+ gelassen zu haben"," gestanden haben
+ gestanden zu haben"," aufgegeben haben
+ aufgegeben zu haben"," eingenommen haben
+ eingenommen zu haben"," vorgeworfen haben
+ vorgeworfen zu haben"," versucht haben
+ versucht zu haben"," gefehlt haben
+ gefehlt zu haben"," aufgefordert haben
+ aufgefordert zu haben"," organisiert haben
+ organisiert zu haben"," verlesen haben
+ verlesen zu haben"," zurückgewiesen haben
+ zurückgewiesen zu haben"," verhindert haben
+ verhindert zu haben"," gereist sein
+ gereist zu sein"," gewartet haben
+ gewartet zu haben"," besucht haben
+ besucht zu haben"," abgestellt haben
+ abgestellt zu haben"," genossen haben
+ genossen zu haben"," gefahren haben
+ gefahren zu haben"," vorbeigefahren sein
+ vorbeigefahren zu sein"," ausgeseh(e)n haben
+ ausgeseh(e)n zu haben"," vorbeigekommen sein
+ vorbeigekommen zu sein"," angehalten haben
+ angehalten zu haben"," gestrahlt haben
+ gestrahlt zu haben"," vorbereitet haben
+ vorbereitet zu haben"," eingepackt haben
+ eingepackt zu haben"," erkundet haben
+ erkundet zu haben"," probiert haben
+ probiert zu haben"," gesammelt haben
+ gesammelt zu haben"," vergessen haben
+ vergessen zu haben"
+conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
+conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
 imperative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -11442,7 +14802,182 @@ imperative_active,Present," ich klag(e) an
  er mobilisiert
  wir mobilisieren
  ihr mobilisiert
- sie mobilisieren"
+ sie mobilisieren"," ich stell(e)
+ du stellst
+ er stellt
+ wir stellen
+ ihr stellt
+ sie stellen"," ich schau(e)
+ du schaust
+ er schaut
+ wir schau(e)n
+ ihr schaut
+ sie schau(e)n"," ich leid(e)
+ du leidest
+ er leidet
+ wir leiden
+ ihr leidet
+ sie leiden"," ich behand(e)l(e)
+ du behandelst
+ er behandelt
+ wir behandeln
+ ihr behandelt
+ sie behandeln"," ich veröffentlich(e)
+ du veröffentlichst
+ er veröffentlicht
+ wir veröffentlichen
+ ihr veröffentlicht
+ sie veröffentlichen"," ich druck(e)
+ du druckst
+ er druckt
+ wir drucken
+ ihr druckt
+ sie drucken"," ich lass(e)
+ du lässt
+ er lässt
+ wir lassen
+ ihr lasst
+ sie lassen"," ich steh(e)
+ du stehst
+ er steht
+ wir steh(e)n
+ ihr steht
+ sie steh(e)n"," ich geb(e) auf
+ du gibst auf
+ er gibt auf
+ wir geben auf
+ ihr gebt auf
+ sie geben auf"," ich nehm(e) ein
+ du nimmst ein
+ er nimmt ein
+ wir nehmen ein
+ ihr nehmt ein
+ sie nehmen ein"," ich werf(e) vor
+ du wirfst vor
+ er wirft vor
+ wir werfen vor
+ ihr werft vor
+ sie werfen vor"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich fehl(e)
+ du fehlst
+ er fehlt
+ wir fehlen
+ ihr fehlt
+ sie fehlen"," ich ford(e)r(e) auf
+ du forderst auf
+ er fordert auf
+ wir fordern auf
+ ihr fordert auf
+ sie fordern auf"," ich organisier(e)
+ du organisierst
+ er organisiert
+ wir organisieren
+ ihr organisiert
+ sie organisieren"," ich verles(e)
+ du verliest
+ er verliest
+ wir verlesen
+ ihr verlest
+ sie verlesen"," ich weis(e) zurück
+ du weist zurück
+ er weist zurück
+ wir weisen zurück
+ ihr weist zurück
+ sie weisen zurück"," ich verhind(e)r(e)
+ du verhinderst
+ er verhindert
+ wir verhindern
+ ihr verhindert
+ sie verhindern"," ich reis(e)
+ du reist
+ er reist
+ wir reisen
+ ihr reist
+ sie reisen"," ich gewart(e)
+ du gewartest
+ er gewartet
+ wir gewarten
+ ihr gewartet
+ sie gewarten"," ich besuch(e)
+ du besuchst
+ er besucht
+ wir besuchen
+ ihr besucht
+ sie besuchen"," ich stell(e) ab
+ du stellst ab
+ er stellt ab
+ wir stellen ab
+ ihr stellt ab
+ sie stellen ab"," ich genieß(e)
+ du genießt
+ er genießt
+ wir genießen
+ ihr genießt
+ sie genießen"," ich fahr(e)
+ du fährst
+ er fährt
+ wir fahren
+ ihr fahrt
+ sie fahren"," ich fahr(e) vorbei
+ du fährst vorbei
+ er fährt vorbei
+ wir fahren vorbei
+ ihr fahrt vorbei
+ sie fahren vorbei"," ich seh(e) aus
+ du siehst aus
+ er sieht aus
+ wir seh(e)n aus
+ ihr seht aus
+ sie seh(e)n aus"," ich komm(e) vorbei
+ du kommst/kömmst vorbei
+ er kommt/kömmt vorbei
+ wir kommen vorbei
+ ihr kommt vorbei
+ sie kommen vorbei"," ich halt(e) an
+ du hältst an
+ er hält an
+ wir halten an
+ ihr haltet an
+ sie halten an"," ich strahl(e)
+ du strahlst
+ er strahlt
+ wir strahlen
+ ihr strahlt
+ sie strahlen"," ich bereit(e) vor
+ du bereitest vor
+ er bereitet vor
+ wir bereiten vor
+ ihr bereitet vor
+ sie bereiten vor"," ich pack(e) ein
+ du packst ein
+ er packt ein
+ wir packen ein
+ ihr packt ein
+ sie packen ein"," ich erkund(e)
+ du erkundest
+ er erkundet
+ wir erkunden
+ ihr erkundet
+ sie erkunden"," ich probier(e)
+ du probierst
+ er probiert
+ wir probieren
+ ihr probiert
+ sie probieren"," ich samm(e)l(e)
+ du sammelst
+ er sammelt
+ wir sammeln
+ ihr sammelt
+ sie sammeln"," ich vergess(e)
+ du vergisst
+ er vergisst
+ wir vergessen
+ ihr vergesst
+ sie vergessen"
 imperative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -12008,7 +15543,182 @@ imperative_active,Imperfect," ich klagte an
  er mobilisierte
  wir mobilisierten
  ihr mobilisiertet
- sie mobilisierten"
+ sie mobilisierten"," ich stellte
+ du stelltest
+ er stellte
+ wir stellten
+ ihr stelltet
+ sie stellten"," ich schaute
+ du schautest
+ er schaute
+ wir schauten
+ ihr schautet
+ sie schauten"," ich litt
+ du litt(e)st
+ er litt
+ wir litten
+ ihr littet
+ sie litten"," ich behandelte
+ du behandeltest
+ er behandelte
+ wir behandelten
+ ihr behandeltet
+ sie behandelten"," ich veröffentlichte
+ du veröffentlichtest
+ er veröffentlichte
+ wir veröffentlichten
+ ihr veröffentlichtet
+ sie veröffentlichten"," ich druckte
+ du drucktest
+ er druckte
+ wir druckten
+ ihr drucktet
+ sie druckten"," ich ließ
+ du ließ(es)t
+ er ließ
+ wir ließen
+ ihr ließ(e)t
+ sie ließen"," ich stand
+ du stand(e)st
+ er stand
+ wir standen
+ ihr standet
+ sie standen"," ich gab auf
+ du gabst auf
+ er gab auf
+ wir gaben auf
+ ihr gabt auf
+ sie gaben auf"," ich nahm ein
+ du nahmst ein
+ er nahm ein
+ wir nahmen ein
+ ihr nahmt ein
+ sie nahmen ein"," ich warf vor
+ du warfst vor
+ er warf vor
+ wir warfen vor
+ ihr warft vor
+ sie warfen vor"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich fehlte
+ du fehltest
+ er fehlte
+ wir fehlten
+ ihr fehltet
+ sie fehlten"," ich forderte auf
+ du fordertest auf
+ er forderte auf
+ wir forderten auf
+ ihr fordertet auf
+ sie forderten auf"," ich organisierte
+ du organisiertest
+ er organisierte
+ wir organisierten
+ ihr organisiertet
+ sie organisierten"," ich verlas
+ du verlas(es)t
+ er verlas
+ wir verlasen
+ ihr verlas(e)t
+ sie verlasen"," ich wies zurück
+ du wies(es)t zurück
+ er wies zurück
+ wir wiesen zurück
+ ihr wies(e)t zurück
+ sie wiesen zurück"," ich verhinderte
+ du verhindertest
+ er verhinderte
+ wir verhinderten
+ ihr verhindertet
+ sie verhinderten"," ich reiste
+ du reistest
+ er reiste
+ wir reisten
+ ihr reistet
+ sie reisten"," ich gewartete
+ du gewartetest
+ er gewartete
+ wir gewarteten
+ ihr gewartetet
+ sie gewarteten"," ich besuchte
+ du besuchtest
+ er besuchte
+ wir besuchten
+ ihr besuchtet
+ sie besuchten"," ich stellte ab
+ du stelltest ab
+ er stellte ab
+ wir stellten ab
+ ihr stelltet ab
+ sie stellten ab"," ich genoss
+ du genoss(es)t
+ er genoss
+ wir genossen
+ ihr genoss(e)t
+ sie genossen"," ich fuhr
+ du fuhrst
+ er fuhr
+ wir fuhren
+ ihr fuhrt
+ sie fuhren"," ich fuhr vorbei
+ du fuhrst vorbei
+ er fuhr vorbei
+ wir fuhren vorbei
+ ihr fuhrt vorbei
+ sie fuhren vorbei"," ich sah aus
+ du sahst aus
+ er sah aus
+ wir sah(e)n aus
+ ihr saht aus
+ sie sah(e)n aus"," ich kam vorbei
+ du kamst vorbei
+ er kam vorbei
+ wir kamen vorbei
+ ihr kamt vorbei
+ sie kamen vorbei"," ich hielt an
+ du hielt(e)st an
+ er hielt an
+ wir hielten an
+ ihr hieltet an
+ sie hielten an"," ich strahlte
+ du strahltest
+ er strahlte
+ wir strahlten
+ ihr strahltet
+ sie strahlten"," ich bereitete vor
+ du bereitetest vor
+ er bereitete vor
+ wir bereiteten vor
+ ihr bereitetet vor
+ sie bereiteten vor"," ich packte ein
+ du packtest ein
+ er packte ein
+ wir packten ein
+ ihr packtet ein
+ sie packten ein"," ich erkundete
+ du erkundetest
+ er erkundete
+ wir erkundeten
+ ihr erkundetet
+ sie erkundeten"," ich probierte
+ du probiertest
+ er probierte
+ wir probierten
+ ihr probiertet
+ sie probierten"," ich sammelte
+ du sammeltest
+ er sammelte
+ wir sammelten
+ ihr sammeltet
+ sie sammelten"," ich vergaß
+ du vergaß(es)t
+ er vergaß
+ wir vergaßen
+ ihr vergaß(e)t
+ sie vergaßen"
 imperative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -12574,7 +16284,182 @@ imperative_active,Perfect," ich habe angeklagt
  er hat mobilisiert
  wir haben mobilisiert
  ihr habt mobilisiert
- sie haben mobilisiert"
+ sie haben mobilisiert"," ich habe gestellt
+ du hast gestellt
+ er hat gestellt
+ wir haben gestellt
+ ihr habt gestellt
+ sie haben gestellt"," ich habe geschaut
+ du hast geschaut
+ er hat geschaut
+ wir haben geschaut
+ ihr habt geschaut
+ sie haben geschaut"," ich habe gelitten
+ du hast gelitten
+ er hat gelitten
+ wir haben gelitten
+ ihr habt gelitten
+ sie haben gelitten"," ich habe behandelt
+ du hast behandelt
+ er hat behandelt
+ wir haben behandelt
+ ihr habt behandelt
+ sie haben behandelt"," ich habe veröffentlicht
+ du hast veröffentlicht
+ er hat veröffentlicht
+ wir haben veröffentlicht
+ ihr habt veröffentlicht
+ sie haben veröffentlicht"," ich habe gedruckt
+ du hast gedruckt
+ er hat gedruckt
+ wir haben gedruckt
+ ihr habt gedruckt
+ sie haben gedruckt"," ich habe gelassen
+ du hast gelassen
+ er hat gelassen
+ wir haben gelassen
+ ihr habt gelassen
+ sie haben gelassen"," ich habe gestanden
+ du hast gestanden
+ er hat gestanden
+ wir haben gestanden
+ ihr habt gestanden
+ sie haben gestanden"," ich habe aufgegeben
+ du hast aufgegeben
+ er hat aufgegeben
+ wir haben aufgegeben
+ ihr habt aufgegeben
+ sie haben aufgegeben"," ich habe eingenommen
+ du hast eingenommen
+ er hat eingenommen
+ wir haben eingenommen
+ ihr habt eingenommen
+ sie haben eingenommen"," ich habe vorgeworfen
+ du hast vorgeworfen
+ er hat vorgeworfen
+ wir haben vorgeworfen
+ ihr habt vorgeworfen
+ sie haben vorgeworfen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe gefehlt
+ du hast gefehlt
+ er hat gefehlt
+ wir haben gefehlt
+ ihr habt gefehlt
+ sie haben gefehlt"," ich habe aufgefordert
+ du hast aufgefordert
+ er hat aufgefordert
+ wir haben aufgefordert
+ ihr habt aufgefordert
+ sie haben aufgefordert"," ich habe organisiert
+ du hast organisiert
+ er hat organisiert
+ wir haben organisiert
+ ihr habt organisiert
+ sie haben organisiert"," ich habe verlesen
+ du hast verlesen
+ er hat verlesen
+ wir haben verlesen
+ ihr habt verlesen
+ sie haben verlesen"," ich habe zurückgewiesen
+ du hast zurückgewiesen
+ er hat zurückgewiesen
+ wir haben zurückgewiesen
+ ihr habt zurückgewiesen
+ sie haben zurückgewiesen"," ich habe verhindert
+ du hast verhindert
+ er hat verhindert
+ wir haben verhindert
+ ihr habt verhindert
+ sie haben verhindert"," ich bin gereist
+ du bist gereist
+ er ist gereist
+ wir sind gereist
+ ihr seid gereist
+ sie sind gereist"," ich habe gewartet
+ du hast gewartet
+ er hat gewartet
+ wir haben gewartet
+ ihr habt gewartet
+ sie haben gewartet"," ich habe besucht
+ du hast besucht
+ er hat besucht
+ wir haben besucht
+ ihr habt besucht
+ sie haben besucht"," ich habe abgestellt
+ du hast abgestellt
+ er hat abgestellt
+ wir haben abgestellt
+ ihr habt abgestellt
+ sie haben abgestellt"," ich habe genossen
+ du hast genossen
+ er hat genossen
+ wir haben genossen
+ ihr habt genossen
+ sie haben genossen"," ich habe gefahren
+ du hast gefahren
+ er hat gefahren
+ wir haben gefahren
+ ihr habt gefahren
+ sie haben gefahren"," ich bin vorbeigefahren
+ du bist vorbeigefahren
+ er ist vorbeigefahren
+ wir sind vorbeigefahren
+ ihr seid vorbeigefahren
+ sie sind vorbeigefahren"," ich habe ausgeseh(e)n
+ du hast ausgeseh(e)n
+ er hat ausgeseh(e)n
+ wir haben ausgeseh(e)n
+ ihr habt ausgeseh(e)n
+ sie haben ausgeseh(e)n"," ich bin vorbeigekommen
+ du bist vorbeigekommen
+ er ist vorbeigekommen
+ wir sind vorbeigekommen
+ ihr seid vorbeigekommen
+ sie sind vorbeigekommen"," ich habe angehalten
+ du hast angehalten
+ er hat angehalten
+ wir haben angehalten
+ ihr habt angehalten
+ sie haben angehalten"," ich habe gestrahlt
+ du hast gestrahlt
+ er hat gestrahlt
+ wir haben gestrahlt
+ ihr habt gestrahlt
+ sie haben gestrahlt"," ich habe vorbereitet
+ du hast vorbereitet
+ er hat vorbereitet
+ wir haben vorbereitet
+ ihr habt vorbereitet
+ sie haben vorbereitet"," ich habe eingepackt
+ du hast eingepackt
+ er hat eingepackt
+ wir haben eingepackt
+ ihr habt eingepackt
+ sie haben eingepackt"," ich habe erkundet
+ du hast erkundet
+ er hat erkundet
+ wir haben erkundet
+ ihr habt erkundet
+ sie haben erkundet"," ich habe probiert
+ du hast probiert
+ er hat probiert
+ wir haben probiert
+ ihr habt probiert
+ sie haben probiert"," ich habe gesammelt
+ du hast gesammelt
+ er hat gesammelt
+ wir haben gesammelt
+ ihr habt gesammelt
+ sie haben gesammelt"," ich habe vergessen
+ du hast vergessen
+ er hat vergessen
+ wir haben vergessen
+ ihr habt vergessen
+ sie haben vergessen"
 imperative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -13140,7 +17025,182 @@ imperative_active,Pluperfect," ich hatte angeklagt
  er hatte mobilisiert
  wir hatten mobilisiert
  ihr hattet mobilisiert
- sie hatten mobilisiert"
+ sie hatten mobilisiert"," ich hatte gestellt
+ du hattest gestellt
+ er hatte gestellt
+ wir hatten gestellt
+ ihr hattet gestellt
+ sie hatten gestellt"," ich hatte geschaut
+ du hattest geschaut
+ er hatte geschaut
+ wir hatten geschaut
+ ihr hattet geschaut
+ sie hatten geschaut"," ich hatte gelitten
+ du hattest gelitten
+ er hatte gelitten
+ wir hatten gelitten
+ ihr hattet gelitten
+ sie hatten gelitten"," ich hatte behandelt
+ du hattest behandelt
+ er hatte behandelt
+ wir hatten behandelt
+ ihr hattet behandelt
+ sie hatten behandelt"," ich hatte veröffentlicht
+ du hattest veröffentlicht
+ er hatte veröffentlicht
+ wir hatten veröffentlicht
+ ihr hattet veröffentlicht
+ sie hatten veröffentlicht"," ich hatte gedruckt
+ du hattest gedruckt
+ er hatte gedruckt
+ wir hatten gedruckt
+ ihr hattet gedruckt
+ sie hatten gedruckt"," ich hatte gelassen
+ du hattest gelassen
+ er hatte gelassen
+ wir hatten gelassen
+ ihr hattet gelassen
+ sie hatten gelassen"," ich hatte gestanden
+ du hattest gestanden
+ er hatte gestanden
+ wir hatten gestanden
+ ihr hattet gestanden
+ sie hatten gestanden"," ich hatte aufgegeben
+ du hattest aufgegeben
+ er hatte aufgegeben
+ wir hatten aufgegeben
+ ihr hattet aufgegeben
+ sie hatten aufgegeben"," ich hatte eingenommen
+ du hattest eingenommen
+ er hatte eingenommen
+ wir hatten eingenommen
+ ihr hattet eingenommen
+ sie hatten eingenommen"," ich hatte vorgeworfen
+ du hattest vorgeworfen
+ er hatte vorgeworfen
+ wir hatten vorgeworfen
+ ihr hattet vorgeworfen
+ sie hatten vorgeworfen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte gefehlt
+ du hattest gefehlt
+ er hatte gefehlt
+ wir hatten gefehlt
+ ihr hattet gefehlt
+ sie hatten gefehlt"," ich hatte aufgefordert
+ du hattest aufgefordert
+ er hatte aufgefordert
+ wir hatten aufgefordert
+ ihr hattet aufgefordert
+ sie hatten aufgefordert"," ich hatte organisiert
+ du hattest organisiert
+ er hatte organisiert
+ wir hatten organisiert
+ ihr hattet organisiert
+ sie hatten organisiert"," ich hatte verlesen
+ du hattest verlesen
+ er hatte verlesen
+ wir hatten verlesen
+ ihr hattet verlesen
+ sie hatten verlesen"," ich hatte zurückgewiesen
+ du hattest zurückgewiesen
+ er hatte zurückgewiesen
+ wir hatten zurückgewiesen
+ ihr hattet zurückgewiesen
+ sie hatten zurückgewiesen"," ich hatte verhindert
+ du hattest verhindert
+ er hatte verhindert
+ wir hatten verhindert
+ ihr hattet verhindert
+ sie hatten verhindert"," ich war gereist
+ du warst gereist
+ er war gereist
+ wir waren gereist
+ ihr wart gereist
+ sie waren gereist"," ich hatte gewartet
+ du hattest gewartet
+ er hatte gewartet
+ wir hatten gewartet
+ ihr hattet gewartet
+ sie hatten gewartet"," ich hatte besucht
+ du hattest besucht
+ er hatte besucht
+ wir hatten besucht
+ ihr hattet besucht
+ sie hatten besucht"," ich hatte abgestellt
+ du hattest abgestellt
+ er hatte abgestellt
+ wir hatten abgestellt
+ ihr hattet abgestellt
+ sie hatten abgestellt"," ich hatte genossen
+ du hattest genossen
+ er hatte genossen
+ wir hatten genossen
+ ihr hattet genossen
+ sie hatten genossen"," ich hatte gefahren
+ du hattest gefahren
+ er hatte gefahren
+ wir hatten gefahren
+ ihr hattet gefahren
+ sie hatten gefahren"," ich war vorbeigefahren
+ du warst vorbeigefahren
+ er war vorbeigefahren
+ wir waren vorbeigefahren
+ ihr wart vorbeigefahren
+ sie waren vorbeigefahren"," ich hatte ausgeseh(e)n
+ du hattest ausgeseh(e)n
+ er hatte ausgeseh(e)n
+ wir hatten ausgeseh(e)n
+ ihr hattet ausgeseh(e)n
+ sie hatten ausgeseh(e)n"," ich war vorbeigekommen
+ du warst vorbeigekommen
+ er war vorbeigekommen
+ wir waren vorbeigekommen
+ ihr wart vorbeigekommen
+ sie waren vorbeigekommen"," ich hatte angehalten
+ du hattest angehalten
+ er hatte angehalten
+ wir hatten angehalten
+ ihr hattet angehalten
+ sie hatten angehalten"," ich hatte gestrahlt
+ du hattest gestrahlt
+ er hatte gestrahlt
+ wir hatten gestrahlt
+ ihr hattet gestrahlt
+ sie hatten gestrahlt"," ich hatte vorbereitet
+ du hattest vorbereitet
+ er hatte vorbereitet
+ wir hatten vorbereitet
+ ihr hattet vorbereitet
+ sie hatten vorbereitet"," ich hatte eingepackt
+ du hattest eingepackt
+ er hatte eingepackt
+ wir hatten eingepackt
+ ihr hattet eingepackt
+ sie hatten eingepackt"," ich hatte erkundet
+ du hattest erkundet
+ er hatte erkundet
+ wir hatten erkundet
+ ihr hattet erkundet
+ sie hatten erkundet"," ich hatte probiert
+ du hattest probiert
+ er hatte probiert
+ wir hatten probiert
+ ihr hattet probiert
+ sie hatten probiert"," ich hatte gesammelt
+ du hattest gesammelt
+ er hatte gesammelt
+ wir hatten gesammelt
+ ihr hattet gesammelt
+ sie hatten gesammelt"," ich hatte vergessen
+ du hattest vergessen
+ er hatte vergessen
+ wir hatten vergessen
+ ihr hattet vergessen
+ sie hatten vergessen"
 imperative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -13706,7 +17766,182 @@ imperative_active,Future," ich werde anklagen
  er wird mobilisieren
  wir werden mobilisieren
  ihr werdet mobilisieren
- sie werden mobilisieren"
+ sie werden mobilisieren"," ich werde stellen
+ du wirst stellen
+ er wird stellen
+ wir werden stellen
+ ihr werdet stellen
+ sie werden stellen"," ich werde schau(e)n
+ du wirst schau(e)n
+ er wird schau(e)n
+ wir werden schau(e)n
+ ihr werdet schau(e)n
+ sie werden schau(e)n"," ich werde leiden
+ du wirst leiden
+ er wird leiden
+ wir werden leiden
+ ihr werdet leiden
+ sie werden leiden"," ich werde behandeln
+ du wirst behandeln
+ er wird behandeln
+ wir werden behandeln
+ ihr werdet behandeln
+ sie werden behandeln"," ich werde veröffentlichen
+ du wirst veröffentlichen
+ er wird veröffentlichen
+ wir werden veröffentlichen
+ ihr werdet veröffentlichen
+ sie werden veröffentlichen"," ich werde drucken
+ du wirst drucken
+ er wird drucken
+ wir werden drucken
+ ihr werdet drucken
+ sie werden drucken"," ich werde lassen
+ du wirst lassen
+ er wird lassen
+ wir werden lassen
+ ihr werdet lassen
+ sie werden lassen"," ich werde steh(e)n
+ du wirst steh(e)n
+ er wird steh(e)n
+ wir werden steh(e)n
+ ihr werdet steh(e)n
+ sie werden steh(e)n"," ich werde aufgeben
+ du wirst aufgeben
+ er wird aufgeben
+ wir werden aufgeben
+ ihr werdet aufgeben
+ sie werden aufgeben"," ich werde einnehmen
+ du wirst einnehmen
+ er wird einnehmen
+ wir werden einnehmen
+ ihr werdet einnehmen
+ sie werden einnehmen"," ich werde vorwerfen
+ du wirst vorwerfen
+ er wird vorwerfen
+ wir werden vorwerfen
+ ihr werdet vorwerfen
+ sie werden vorwerfen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde fehlen
+ du wirst fehlen
+ er wird fehlen
+ wir werden fehlen
+ ihr werdet fehlen
+ sie werden fehlen"," ich werde auffordern
+ du wirst auffordern
+ er wird auffordern
+ wir werden auffordern
+ ihr werdet auffordern
+ sie werden auffordern"," ich werde organisieren
+ du wirst organisieren
+ er wird organisieren
+ wir werden organisieren
+ ihr werdet organisieren
+ sie werden organisieren"," ich werde verlesen
+ du wirst verlesen
+ er wird verlesen
+ wir werden verlesen
+ ihr werdet verlesen
+ sie werden verlesen"," ich werde zurückweisen
+ du wirst zurückweisen
+ er wird zurückweisen
+ wir werden zurückweisen
+ ihr werdet zurückweisen
+ sie werden zurückweisen"," ich werde verhindern
+ du wirst verhindern
+ er wird verhindern
+ wir werden verhindern
+ ihr werdet verhindern
+ sie werden verhindern"," ich werde reisen
+ du wirst reisen
+ er wird reisen
+ wir werden reisen
+ ihr werdet reisen
+ sie werden reisen"," ich werde gewarten
+ du wirst gewarten
+ er wird gewarten
+ wir werden gewarten
+ ihr werdet gewarten
+ sie werden gewarten"," ich werde besuchen
+ du wirst besuchen
+ er wird besuchen
+ wir werden besuchen
+ ihr werdet besuchen
+ sie werden besuchen"," ich werde abstellen
+ du wirst abstellen
+ er wird abstellen
+ wir werden abstellen
+ ihr werdet abstellen
+ sie werden abstellen"," ich werde genießen
+ du wirst genießen
+ er wird genießen
+ wir werden genießen
+ ihr werdet genießen
+ sie werden genießen"," ich werde fahren
+ du wirst fahren
+ er wird fahren
+ wir werden fahren
+ ihr werdet fahren
+ sie werden fahren"," ich werde vorbeifahren
+ du wirst vorbeifahren
+ er wird vorbeifahren
+ wir werden vorbeifahren
+ ihr werdet vorbeifahren
+ sie werden vorbeifahren"," ich werde ausseh(e)n
+ du wirst ausseh(e)n
+ er wird ausseh(e)n
+ wir werden ausseh(e)n
+ ihr werdet ausseh(e)n
+ sie werden ausseh(e)n"," ich werde vorbeikommen
+ du wirst vorbeikommen
+ er wird vorbeikommen
+ wir werden vorbeikommen
+ ihr werdet vorbeikommen
+ sie werden vorbeikommen"," ich werde anhalten
+ du wirst anhalten
+ er wird anhalten
+ wir werden anhalten
+ ihr werdet anhalten
+ sie werden anhalten"," ich werde strahlen
+ du wirst strahlen
+ er wird strahlen
+ wir werden strahlen
+ ihr werdet strahlen
+ sie werden strahlen"," ich werde vorbereiten
+ du wirst vorbereiten
+ er wird vorbereiten
+ wir werden vorbereiten
+ ihr werdet vorbereiten
+ sie werden vorbereiten"," ich werde einpacken
+ du wirst einpacken
+ er wird einpacken
+ wir werden einpacken
+ ihr werdet einpacken
+ sie werden einpacken"," ich werde erkunden
+ du wirst erkunden
+ er wird erkunden
+ wir werden erkunden
+ ihr werdet erkunden
+ sie werden erkunden"," ich werde probieren
+ du wirst probieren
+ er wird probieren
+ wir werden probieren
+ ihr werdet probieren
+ sie werden probieren"," ich werde sammeln
+ du wirst sammeln
+ er wird sammeln
+ wir werden sammeln
+ ihr werdet sammeln
+ sie werden sammeln"," ich werde vergessen
+ du wirst vergessen
+ er wird vergessen
+ wir werden vergessen
+ ihr werdet vergessen
+ sie werden vergessen"
 imperative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -14272,7 +18507,182 @@ imperative_active,FuturePerfect," ich werde angeklagt haben
  er wird mobilisiert haben
  wir werden mobilisiert haben
  ihr werdet mobilisiert haben
- sie werden mobilisiert haben"
+ sie werden mobilisiert haben"," ich werde gestellt haben
+ du wirst gestellt haben
+ er wird gestellt haben
+ wir werden gestellt haben
+ ihr werdet gestellt haben
+ sie werden gestellt haben"," ich werde geschaut haben
+ du wirst geschaut haben
+ er wird geschaut haben
+ wir werden geschaut haben
+ ihr werdet geschaut haben
+ sie werden geschaut haben"," ich werde gelitten haben
+ du wirst gelitten haben
+ er wird gelitten haben
+ wir werden gelitten haben
+ ihr werdet gelitten haben
+ sie werden gelitten haben"," ich werde behandelt haben
+ du wirst behandelt haben
+ er wird behandelt haben
+ wir werden behandelt haben
+ ihr werdet behandelt haben
+ sie werden behandelt haben"," ich werde veröffentlicht haben
+ du wirst veröffentlicht haben
+ er wird veröffentlicht haben
+ wir werden veröffentlicht haben
+ ihr werdet veröffentlicht haben
+ sie werden veröffentlicht haben"," ich werde gedruckt haben
+ du wirst gedruckt haben
+ er wird gedruckt haben
+ wir werden gedruckt haben
+ ihr werdet gedruckt haben
+ sie werden gedruckt haben"," ich werde gelassen haben
+ du wirst gelassen haben
+ er wird gelassen haben
+ wir werden gelassen haben
+ ihr werdet gelassen haben
+ sie werden gelassen haben"," ich werde gestanden haben
+ du wirst gestanden haben
+ er wird gestanden haben
+ wir werden gestanden haben
+ ihr werdet gestanden haben
+ sie werden gestanden haben"," ich werde aufgegeben haben
+ du wirst aufgegeben haben
+ er wird aufgegeben haben
+ wir werden aufgegeben haben
+ ihr werdet aufgegeben haben
+ sie werden aufgegeben haben"," ich werde eingenommen haben
+ du wirst eingenommen haben
+ er wird eingenommen haben
+ wir werden eingenommen haben
+ ihr werdet eingenommen haben
+ sie werden eingenommen haben"," ich werde vorgeworfen haben
+ du wirst vorgeworfen haben
+ er wird vorgeworfen haben
+ wir werden vorgeworfen haben
+ ihr werdet vorgeworfen haben
+ sie werden vorgeworfen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde gefehlt haben
+ du wirst gefehlt haben
+ er wird gefehlt haben
+ wir werden gefehlt haben
+ ihr werdet gefehlt haben
+ sie werden gefehlt haben"," ich werde aufgefordert haben
+ du wirst aufgefordert haben
+ er wird aufgefordert haben
+ wir werden aufgefordert haben
+ ihr werdet aufgefordert haben
+ sie werden aufgefordert haben"," ich werde organisiert haben
+ du wirst organisiert haben
+ er wird organisiert haben
+ wir werden organisiert haben
+ ihr werdet organisiert haben
+ sie werden organisiert haben"," ich werde verlesen haben
+ du wirst verlesen haben
+ er wird verlesen haben
+ wir werden verlesen haben
+ ihr werdet verlesen haben
+ sie werden verlesen haben"," ich werde zurückgewiesen haben
+ du wirst zurückgewiesen haben
+ er wird zurückgewiesen haben
+ wir werden zurückgewiesen haben
+ ihr werdet zurückgewiesen haben
+ sie werden zurückgewiesen haben"," ich werde verhindert haben
+ du wirst verhindert haben
+ er wird verhindert haben
+ wir werden verhindert haben
+ ihr werdet verhindert haben
+ sie werden verhindert haben"," ich werde gereist sein
+ du wirst gereist sein
+ er wird gereist sein
+ wir werden gereist sein
+ ihr werdet gereist sein
+ sie werden gereist sein"," ich werde gewartet haben
+ du wirst gewartet haben
+ er wird gewartet haben
+ wir werden gewartet haben
+ ihr werdet gewartet haben
+ sie werden gewartet haben"," ich werde besucht haben
+ du wirst besucht haben
+ er wird besucht haben
+ wir werden besucht haben
+ ihr werdet besucht haben
+ sie werden besucht haben"," ich werde abgestellt haben
+ du wirst abgestellt haben
+ er wird abgestellt haben
+ wir werden abgestellt haben
+ ihr werdet abgestellt haben
+ sie werden abgestellt haben"," ich werde genossen haben
+ du wirst genossen haben
+ er wird genossen haben
+ wir werden genossen haben
+ ihr werdet genossen haben
+ sie werden genossen haben"," ich werde gefahren haben
+ du wirst gefahren haben
+ er wird gefahren haben
+ wir werden gefahren haben
+ ihr werdet gefahren haben
+ sie werden gefahren haben"," ich werde vorbeigefahren sein
+ du wirst vorbeigefahren sein
+ er wird vorbeigefahren sein
+ wir werden vorbeigefahren sein
+ ihr werdet vorbeigefahren sein
+ sie werden vorbeigefahren sein"," ich werde ausgeseh(e)n haben
+ du wirst ausgeseh(e)n haben
+ er wird ausgeseh(e)n haben
+ wir werden ausgeseh(e)n haben
+ ihr werdet ausgeseh(e)n haben
+ sie werden ausgeseh(e)n haben"," ich werde vorbeigekommen sein
+ du wirst vorbeigekommen sein
+ er wird vorbeigekommen sein
+ wir werden vorbeigekommen sein
+ ihr werdet vorbeigekommen sein
+ sie werden vorbeigekommen sein"," ich werde angehalten haben
+ du wirst angehalten haben
+ er wird angehalten haben
+ wir werden angehalten haben
+ ihr werdet angehalten haben
+ sie werden angehalten haben"," ich werde gestrahlt haben
+ du wirst gestrahlt haben
+ er wird gestrahlt haben
+ wir werden gestrahlt haben
+ ihr werdet gestrahlt haben
+ sie werden gestrahlt haben"," ich werde vorbereitet haben
+ du wirst vorbereitet haben
+ er wird vorbereitet haben
+ wir werden vorbereitet haben
+ ihr werdet vorbereitet haben
+ sie werden vorbereitet haben"," ich werde eingepackt haben
+ du wirst eingepackt haben
+ er wird eingepackt haben
+ wir werden eingepackt haben
+ ihr werdet eingepackt haben
+ sie werden eingepackt haben"," ich werde erkundet haben
+ du wirst erkundet haben
+ er wird erkundet haben
+ wir werden erkundet haben
+ ihr werdet erkundet haben
+ sie werden erkundet haben"," ich werde probiert haben
+ du wirst probiert haben
+ er wird probiert haben
+ wir werden probiert haben
+ ihr werdet probiert haben
+ sie werden probiert haben"," ich werde gesammelt haben
+ du wirst gesammelt haben
+ er wird gesammelt haben
+ wir werden gesammelt haben
+ ihr werdet gesammelt haben
+ sie werden gesammelt haben"," ich werde vergessen haben
+ du wirst vergessen haben
+ er wird vergessen haben
+ wir werden vergessen haben
+ ihr werdet vergessen haben
+ sie werden vergessen haben"
 imperative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -14386,7 +18796,42 @@ imperative_active,InfinitiveI," anklagen
  zu geben",," verurteilen
  zu verurteilen"," aufhören
  aufzuhören"," mobilisieren
- zu mobilisieren"
+ zu mobilisieren"," stellen
+ zu stellen"," schau(e)n
+ zu schau(e)n"," leiden
+ zu leiden"," behandeln
+ zu behandeln"," veröffentlichen
+ zu veröffentlichen"," drucken
+ zu drucken"," lassen
+ zu lassen"," steh(e)n
+ zu steh(e)n"," aufgeben
+ aufzugeben"," einnehmen
+ einzunehmen"," vorwerfen
+ vorzuwerfen"," versuchen
+ zu versuchen"," fehlen
+ zu fehlen"," auffordern
+ aufzufordern"," organisieren
+ zu organisieren"," verlesen
+ zu verlesen"," zurückweisen
+ zurückzuweisen"," verhindern
+ zu verhindern"," reisen
+ zu reisen"," gewarten
+ zu gewarten"," besuchen
+ zu besuchen"," abstellen
+ abzustellen"," genießen
+ zu genießen"," fahren
+ zu fahren"," vorbeifahren
+ vorbeizufahren"," ausseh(e)n
+ auszuseh(e)n"," vorbeikommen
+ vorbeizukommen"," anhalten
+ anzuhalten"," strahlen
+ zu strahlen"," vorbereiten
+ vorzubereiten"," einpacken
+ einzupacken"," erkunden
+ zu erkunden"," probieren
+ zu probieren"," sammeln
+ zu sammeln"," vergessen
+ zu vergessen"
 imperative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -14500,9 +18945,44 @@ imperative_active,InfinitiveII," angeklagt haben
  gegeben zu haben",," verurteilt haben
  verurteilt zu haben"," aufgehört haben
  aufgehört zu haben"," mobilisiert haben
- mobilisiert zu haben"
-imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
-imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
+ mobilisiert zu haben"," gestellt haben
+ gestellt zu haben"," geschaut haben
+ geschaut zu haben"," gelitten haben
+ gelitten zu haben"," behandelt haben
+ behandelt zu haben"," veröffentlicht haben
+ veröffentlicht zu haben"," gedruckt haben
+ gedruckt zu haben"," gelassen haben
+ gelassen zu haben"," gestanden haben
+ gestanden zu haben"," aufgegeben haben
+ aufgegeben zu haben"," eingenommen haben
+ eingenommen zu haben"," vorgeworfen haben
+ vorgeworfen zu haben"," versucht haben
+ versucht zu haben"," gefehlt haben
+ gefehlt zu haben"," aufgefordert haben
+ aufgefordert zu haben"," organisiert haben
+ organisiert zu haben"," verlesen haben
+ verlesen zu haben"," zurückgewiesen haben
+ zurückgewiesen zu haben"," verhindert haben
+ verhindert zu haben"," gereist sein
+ gereist zu sein"," gewartet haben
+ gewartet zu haben"," besucht haben
+ besucht zu haben"," abgestellt haben
+ abgestellt zu haben"," genossen haben
+ genossen zu haben"," gefahren haben
+ gefahren zu haben"," vorbeigefahren sein
+ vorbeigefahren zu sein"," ausgeseh(e)n haben
+ ausgeseh(e)n zu haben"," vorbeigekommen sein
+ vorbeigekommen zu sein"," angehalten haben
+ angehalten zu haben"," gestrahlt haben
+ gestrahlt zu haben"," vorbereitet haben
+ vorbereitet zu haben"," eingepackt haben
+ eingepackt zu haben"," erkundet haben
+ erkundet zu haben"," probiert haben
+ probiert zu haben"," gesammelt haben
+ gesammelt zu haben"," vergessen haben
+ vergessen zu haben"
+imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
+imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
 infinitive_participle_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -15068,7 +19548,182 @@ infinitive_participle_active,Present," ich klag(e) an
  er mobilisiert
  wir mobilisieren
  ihr mobilisiert
- sie mobilisieren"
+ sie mobilisieren"," ich stell(e)
+ du stellst
+ er stellt
+ wir stellen
+ ihr stellt
+ sie stellen"," ich schau(e)
+ du schaust
+ er schaut
+ wir schau(e)n
+ ihr schaut
+ sie schau(e)n"," ich leid(e)
+ du leidest
+ er leidet
+ wir leiden
+ ihr leidet
+ sie leiden"," ich behand(e)l(e)
+ du behandelst
+ er behandelt
+ wir behandeln
+ ihr behandelt
+ sie behandeln"," ich veröffentlich(e)
+ du veröffentlichst
+ er veröffentlicht
+ wir veröffentlichen
+ ihr veröffentlicht
+ sie veröffentlichen"," ich druck(e)
+ du druckst
+ er druckt
+ wir drucken
+ ihr druckt
+ sie drucken"," ich lass(e)
+ du lässt
+ er lässt
+ wir lassen
+ ihr lasst
+ sie lassen"," ich steh(e)
+ du stehst
+ er steht
+ wir steh(e)n
+ ihr steht
+ sie steh(e)n"," ich geb(e) auf
+ du gibst auf
+ er gibt auf
+ wir geben auf
+ ihr gebt auf
+ sie geben auf"," ich nehm(e) ein
+ du nimmst ein
+ er nimmt ein
+ wir nehmen ein
+ ihr nehmt ein
+ sie nehmen ein"," ich werf(e) vor
+ du wirfst vor
+ er wirft vor
+ wir werfen vor
+ ihr werft vor
+ sie werfen vor"," ich versuch(e)
+ du versuchst
+ er versucht
+ wir versuchen
+ ihr versucht
+ sie versuchen"," ich fehl(e)
+ du fehlst
+ er fehlt
+ wir fehlen
+ ihr fehlt
+ sie fehlen"," ich ford(e)r(e) auf
+ du forderst auf
+ er fordert auf
+ wir fordern auf
+ ihr fordert auf
+ sie fordern auf"," ich organisier(e)
+ du organisierst
+ er organisiert
+ wir organisieren
+ ihr organisiert
+ sie organisieren"," ich verles(e)
+ du verliest
+ er verliest
+ wir verlesen
+ ihr verlest
+ sie verlesen"," ich weis(e) zurück
+ du weist zurück
+ er weist zurück
+ wir weisen zurück
+ ihr weist zurück
+ sie weisen zurück"," ich verhind(e)r(e)
+ du verhinderst
+ er verhindert
+ wir verhindern
+ ihr verhindert
+ sie verhindern"," ich reis(e)
+ du reist
+ er reist
+ wir reisen
+ ihr reist
+ sie reisen"," ich gewart(e)
+ du gewartest
+ er gewartet
+ wir gewarten
+ ihr gewartet
+ sie gewarten"," ich besuch(e)
+ du besuchst
+ er besucht
+ wir besuchen
+ ihr besucht
+ sie besuchen"," ich stell(e) ab
+ du stellst ab
+ er stellt ab
+ wir stellen ab
+ ihr stellt ab
+ sie stellen ab"," ich genieß(e)
+ du genießt
+ er genießt
+ wir genießen
+ ihr genießt
+ sie genießen"," ich fahr(e)
+ du fährst
+ er fährt
+ wir fahren
+ ihr fahrt
+ sie fahren"," ich fahr(e) vorbei
+ du fährst vorbei
+ er fährt vorbei
+ wir fahren vorbei
+ ihr fahrt vorbei
+ sie fahren vorbei"," ich seh(e) aus
+ du siehst aus
+ er sieht aus
+ wir seh(e)n aus
+ ihr seht aus
+ sie seh(e)n aus"," ich komm(e) vorbei
+ du kommst/kömmst vorbei
+ er kommt/kömmt vorbei
+ wir kommen vorbei
+ ihr kommt vorbei
+ sie kommen vorbei"," ich halt(e) an
+ du hältst an
+ er hält an
+ wir halten an
+ ihr haltet an
+ sie halten an"," ich strahl(e)
+ du strahlst
+ er strahlt
+ wir strahlen
+ ihr strahlt
+ sie strahlen"," ich bereit(e) vor
+ du bereitest vor
+ er bereitet vor
+ wir bereiten vor
+ ihr bereitet vor
+ sie bereiten vor"," ich pack(e) ein
+ du packst ein
+ er packt ein
+ wir packen ein
+ ihr packt ein
+ sie packen ein"," ich erkund(e)
+ du erkundest
+ er erkundet
+ wir erkunden
+ ihr erkundet
+ sie erkunden"," ich probier(e)
+ du probierst
+ er probiert
+ wir probieren
+ ihr probiert
+ sie probieren"," ich samm(e)l(e)
+ du sammelst
+ er sammelt
+ wir sammeln
+ ihr sammelt
+ sie sammeln"," ich vergess(e)
+ du vergisst
+ er vergisst
+ wir vergessen
+ ihr vergesst
+ sie vergessen"
 infinitive_participle_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -15634,7 +20289,182 @@ infinitive_participle_active,Imperfect," ich klagte an
  er mobilisierte
  wir mobilisierten
  ihr mobilisiertet
- sie mobilisierten"
+ sie mobilisierten"," ich stellte
+ du stelltest
+ er stellte
+ wir stellten
+ ihr stelltet
+ sie stellten"," ich schaute
+ du schautest
+ er schaute
+ wir schauten
+ ihr schautet
+ sie schauten"," ich litt
+ du litt(e)st
+ er litt
+ wir litten
+ ihr littet
+ sie litten"," ich behandelte
+ du behandeltest
+ er behandelte
+ wir behandelten
+ ihr behandeltet
+ sie behandelten"," ich veröffentlichte
+ du veröffentlichtest
+ er veröffentlichte
+ wir veröffentlichten
+ ihr veröffentlichtet
+ sie veröffentlichten"," ich druckte
+ du drucktest
+ er druckte
+ wir druckten
+ ihr drucktet
+ sie druckten"," ich ließ
+ du ließ(es)t
+ er ließ
+ wir ließen
+ ihr ließ(e)t
+ sie ließen"," ich stand
+ du stand(e)st
+ er stand
+ wir standen
+ ihr standet
+ sie standen"," ich gab auf
+ du gabst auf
+ er gab auf
+ wir gaben auf
+ ihr gabt auf
+ sie gaben auf"," ich nahm ein
+ du nahmst ein
+ er nahm ein
+ wir nahmen ein
+ ihr nahmt ein
+ sie nahmen ein"," ich warf vor
+ du warfst vor
+ er warf vor
+ wir warfen vor
+ ihr warft vor
+ sie warfen vor"," ich versuchte
+ du versuchtest
+ er versuchte
+ wir versuchten
+ ihr versuchtet
+ sie versuchten"," ich fehlte
+ du fehltest
+ er fehlte
+ wir fehlten
+ ihr fehltet
+ sie fehlten"," ich forderte auf
+ du fordertest auf
+ er forderte auf
+ wir forderten auf
+ ihr fordertet auf
+ sie forderten auf"," ich organisierte
+ du organisiertest
+ er organisierte
+ wir organisierten
+ ihr organisiertet
+ sie organisierten"," ich verlas
+ du verlas(es)t
+ er verlas
+ wir verlasen
+ ihr verlas(e)t
+ sie verlasen"," ich wies zurück
+ du wies(es)t zurück
+ er wies zurück
+ wir wiesen zurück
+ ihr wies(e)t zurück
+ sie wiesen zurück"," ich verhinderte
+ du verhindertest
+ er verhinderte
+ wir verhinderten
+ ihr verhindertet
+ sie verhinderten"," ich reiste
+ du reistest
+ er reiste
+ wir reisten
+ ihr reistet
+ sie reisten"," ich gewartete
+ du gewartetest
+ er gewartete
+ wir gewarteten
+ ihr gewartetet
+ sie gewarteten"," ich besuchte
+ du besuchtest
+ er besuchte
+ wir besuchten
+ ihr besuchtet
+ sie besuchten"," ich stellte ab
+ du stelltest ab
+ er stellte ab
+ wir stellten ab
+ ihr stelltet ab
+ sie stellten ab"," ich genoss
+ du genoss(es)t
+ er genoss
+ wir genossen
+ ihr genoss(e)t
+ sie genossen"," ich fuhr
+ du fuhrst
+ er fuhr
+ wir fuhren
+ ihr fuhrt
+ sie fuhren"," ich fuhr vorbei
+ du fuhrst vorbei
+ er fuhr vorbei
+ wir fuhren vorbei
+ ihr fuhrt vorbei
+ sie fuhren vorbei"," ich sah aus
+ du sahst aus
+ er sah aus
+ wir sah(e)n aus
+ ihr saht aus
+ sie sah(e)n aus"," ich kam vorbei
+ du kamst vorbei
+ er kam vorbei
+ wir kamen vorbei
+ ihr kamt vorbei
+ sie kamen vorbei"," ich hielt an
+ du hielt(e)st an
+ er hielt an
+ wir hielten an
+ ihr hieltet an
+ sie hielten an"," ich strahlte
+ du strahltest
+ er strahlte
+ wir strahlten
+ ihr strahltet
+ sie strahlten"," ich bereitete vor
+ du bereitetest vor
+ er bereitete vor
+ wir bereiteten vor
+ ihr bereitetet vor
+ sie bereiteten vor"," ich packte ein
+ du packtest ein
+ er packte ein
+ wir packten ein
+ ihr packtet ein
+ sie packten ein"," ich erkundete
+ du erkundetest
+ er erkundete
+ wir erkundeten
+ ihr erkundetet
+ sie erkundeten"," ich probierte
+ du probiertest
+ er probierte
+ wir probierten
+ ihr probiertet
+ sie probierten"," ich sammelte
+ du sammeltest
+ er sammelte
+ wir sammelten
+ ihr sammeltet
+ sie sammelten"," ich vergaß
+ du vergaß(es)t
+ er vergaß
+ wir vergaßen
+ ihr vergaß(e)t
+ sie vergaßen"
 infinitive_participle_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -16200,7 +21030,182 @@ infinitive_participle_active,Perfect," ich habe angeklagt
  er hat mobilisiert
  wir haben mobilisiert
  ihr habt mobilisiert
- sie haben mobilisiert"
+ sie haben mobilisiert"," ich habe gestellt
+ du hast gestellt
+ er hat gestellt
+ wir haben gestellt
+ ihr habt gestellt
+ sie haben gestellt"," ich habe geschaut
+ du hast geschaut
+ er hat geschaut
+ wir haben geschaut
+ ihr habt geschaut
+ sie haben geschaut"," ich habe gelitten
+ du hast gelitten
+ er hat gelitten
+ wir haben gelitten
+ ihr habt gelitten
+ sie haben gelitten"," ich habe behandelt
+ du hast behandelt
+ er hat behandelt
+ wir haben behandelt
+ ihr habt behandelt
+ sie haben behandelt"," ich habe veröffentlicht
+ du hast veröffentlicht
+ er hat veröffentlicht
+ wir haben veröffentlicht
+ ihr habt veröffentlicht
+ sie haben veröffentlicht"," ich habe gedruckt
+ du hast gedruckt
+ er hat gedruckt
+ wir haben gedruckt
+ ihr habt gedruckt
+ sie haben gedruckt"," ich habe gelassen
+ du hast gelassen
+ er hat gelassen
+ wir haben gelassen
+ ihr habt gelassen
+ sie haben gelassen"," ich habe gestanden
+ du hast gestanden
+ er hat gestanden
+ wir haben gestanden
+ ihr habt gestanden
+ sie haben gestanden"," ich habe aufgegeben
+ du hast aufgegeben
+ er hat aufgegeben
+ wir haben aufgegeben
+ ihr habt aufgegeben
+ sie haben aufgegeben"," ich habe eingenommen
+ du hast eingenommen
+ er hat eingenommen
+ wir haben eingenommen
+ ihr habt eingenommen
+ sie haben eingenommen"," ich habe vorgeworfen
+ du hast vorgeworfen
+ er hat vorgeworfen
+ wir haben vorgeworfen
+ ihr habt vorgeworfen
+ sie haben vorgeworfen"," ich habe versucht
+ du hast versucht
+ er hat versucht
+ wir haben versucht
+ ihr habt versucht
+ sie haben versucht"," ich habe gefehlt
+ du hast gefehlt
+ er hat gefehlt
+ wir haben gefehlt
+ ihr habt gefehlt
+ sie haben gefehlt"," ich habe aufgefordert
+ du hast aufgefordert
+ er hat aufgefordert
+ wir haben aufgefordert
+ ihr habt aufgefordert
+ sie haben aufgefordert"," ich habe organisiert
+ du hast organisiert
+ er hat organisiert
+ wir haben organisiert
+ ihr habt organisiert
+ sie haben organisiert"," ich habe verlesen
+ du hast verlesen
+ er hat verlesen
+ wir haben verlesen
+ ihr habt verlesen
+ sie haben verlesen"," ich habe zurückgewiesen
+ du hast zurückgewiesen
+ er hat zurückgewiesen
+ wir haben zurückgewiesen
+ ihr habt zurückgewiesen
+ sie haben zurückgewiesen"," ich habe verhindert
+ du hast verhindert
+ er hat verhindert
+ wir haben verhindert
+ ihr habt verhindert
+ sie haben verhindert"," ich bin gereist
+ du bist gereist
+ er ist gereist
+ wir sind gereist
+ ihr seid gereist
+ sie sind gereist"," ich habe gewartet
+ du hast gewartet
+ er hat gewartet
+ wir haben gewartet
+ ihr habt gewartet
+ sie haben gewartet"," ich habe besucht
+ du hast besucht
+ er hat besucht
+ wir haben besucht
+ ihr habt besucht
+ sie haben besucht"," ich habe abgestellt
+ du hast abgestellt
+ er hat abgestellt
+ wir haben abgestellt
+ ihr habt abgestellt
+ sie haben abgestellt"," ich habe genossen
+ du hast genossen
+ er hat genossen
+ wir haben genossen
+ ihr habt genossen
+ sie haben genossen"," ich habe gefahren
+ du hast gefahren
+ er hat gefahren
+ wir haben gefahren
+ ihr habt gefahren
+ sie haben gefahren"," ich bin vorbeigefahren
+ du bist vorbeigefahren
+ er ist vorbeigefahren
+ wir sind vorbeigefahren
+ ihr seid vorbeigefahren
+ sie sind vorbeigefahren"," ich habe ausgeseh(e)n
+ du hast ausgeseh(e)n
+ er hat ausgeseh(e)n
+ wir haben ausgeseh(e)n
+ ihr habt ausgeseh(e)n
+ sie haben ausgeseh(e)n"," ich bin vorbeigekommen
+ du bist vorbeigekommen
+ er ist vorbeigekommen
+ wir sind vorbeigekommen
+ ihr seid vorbeigekommen
+ sie sind vorbeigekommen"," ich habe angehalten
+ du hast angehalten
+ er hat angehalten
+ wir haben angehalten
+ ihr habt angehalten
+ sie haben angehalten"," ich habe gestrahlt
+ du hast gestrahlt
+ er hat gestrahlt
+ wir haben gestrahlt
+ ihr habt gestrahlt
+ sie haben gestrahlt"," ich habe vorbereitet
+ du hast vorbereitet
+ er hat vorbereitet
+ wir haben vorbereitet
+ ihr habt vorbereitet
+ sie haben vorbereitet"," ich habe eingepackt
+ du hast eingepackt
+ er hat eingepackt
+ wir haben eingepackt
+ ihr habt eingepackt
+ sie haben eingepackt"," ich habe erkundet
+ du hast erkundet
+ er hat erkundet
+ wir haben erkundet
+ ihr habt erkundet
+ sie haben erkundet"," ich habe probiert
+ du hast probiert
+ er hat probiert
+ wir haben probiert
+ ihr habt probiert
+ sie haben probiert"," ich habe gesammelt
+ du hast gesammelt
+ er hat gesammelt
+ wir haben gesammelt
+ ihr habt gesammelt
+ sie haben gesammelt"," ich habe vergessen
+ du hast vergessen
+ er hat vergessen
+ wir haben vergessen
+ ihr habt vergessen
+ sie haben vergessen"
 infinitive_participle_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -16766,7 +21771,182 @@ infinitive_participle_active,Pluperfect," ich hatte angeklagt
  er hatte mobilisiert
  wir hatten mobilisiert
  ihr hattet mobilisiert
- sie hatten mobilisiert"
+ sie hatten mobilisiert"," ich hatte gestellt
+ du hattest gestellt
+ er hatte gestellt
+ wir hatten gestellt
+ ihr hattet gestellt
+ sie hatten gestellt"," ich hatte geschaut
+ du hattest geschaut
+ er hatte geschaut
+ wir hatten geschaut
+ ihr hattet geschaut
+ sie hatten geschaut"," ich hatte gelitten
+ du hattest gelitten
+ er hatte gelitten
+ wir hatten gelitten
+ ihr hattet gelitten
+ sie hatten gelitten"," ich hatte behandelt
+ du hattest behandelt
+ er hatte behandelt
+ wir hatten behandelt
+ ihr hattet behandelt
+ sie hatten behandelt"," ich hatte veröffentlicht
+ du hattest veröffentlicht
+ er hatte veröffentlicht
+ wir hatten veröffentlicht
+ ihr hattet veröffentlicht
+ sie hatten veröffentlicht"," ich hatte gedruckt
+ du hattest gedruckt
+ er hatte gedruckt
+ wir hatten gedruckt
+ ihr hattet gedruckt
+ sie hatten gedruckt"," ich hatte gelassen
+ du hattest gelassen
+ er hatte gelassen
+ wir hatten gelassen
+ ihr hattet gelassen
+ sie hatten gelassen"," ich hatte gestanden
+ du hattest gestanden
+ er hatte gestanden
+ wir hatten gestanden
+ ihr hattet gestanden
+ sie hatten gestanden"," ich hatte aufgegeben
+ du hattest aufgegeben
+ er hatte aufgegeben
+ wir hatten aufgegeben
+ ihr hattet aufgegeben
+ sie hatten aufgegeben"," ich hatte eingenommen
+ du hattest eingenommen
+ er hatte eingenommen
+ wir hatten eingenommen
+ ihr hattet eingenommen
+ sie hatten eingenommen"," ich hatte vorgeworfen
+ du hattest vorgeworfen
+ er hatte vorgeworfen
+ wir hatten vorgeworfen
+ ihr hattet vorgeworfen
+ sie hatten vorgeworfen"," ich hatte versucht
+ du hattest versucht
+ er hatte versucht
+ wir hatten versucht
+ ihr hattet versucht
+ sie hatten versucht"," ich hatte gefehlt
+ du hattest gefehlt
+ er hatte gefehlt
+ wir hatten gefehlt
+ ihr hattet gefehlt
+ sie hatten gefehlt"," ich hatte aufgefordert
+ du hattest aufgefordert
+ er hatte aufgefordert
+ wir hatten aufgefordert
+ ihr hattet aufgefordert
+ sie hatten aufgefordert"," ich hatte organisiert
+ du hattest organisiert
+ er hatte organisiert
+ wir hatten organisiert
+ ihr hattet organisiert
+ sie hatten organisiert"," ich hatte verlesen
+ du hattest verlesen
+ er hatte verlesen
+ wir hatten verlesen
+ ihr hattet verlesen
+ sie hatten verlesen"," ich hatte zurückgewiesen
+ du hattest zurückgewiesen
+ er hatte zurückgewiesen
+ wir hatten zurückgewiesen
+ ihr hattet zurückgewiesen
+ sie hatten zurückgewiesen"," ich hatte verhindert
+ du hattest verhindert
+ er hatte verhindert
+ wir hatten verhindert
+ ihr hattet verhindert
+ sie hatten verhindert"," ich war gereist
+ du warst gereist
+ er war gereist
+ wir waren gereist
+ ihr wart gereist
+ sie waren gereist"," ich hatte gewartet
+ du hattest gewartet
+ er hatte gewartet
+ wir hatten gewartet
+ ihr hattet gewartet
+ sie hatten gewartet"," ich hatte besucht
+ du hattest besucht
+ er hatte besucht
+ wir hatten besucht
+ ihr hattet besucht
+ sie hatten besucht"," ich hatte abgestellt
+ du hattest abgestellt
+ er hatte abgestellt
+ wir hatten abgestellt
+ ihr hattet abgestellt
+ sie hatten abgestellt"," ich hatte genossen
+ du hattest genossen
+ er hatte genossen
+ wir hatten genossen
+ ihr hattet genossen
+ sie hatten genossen"," ich hatte gefahren
+ du hattest gefahren
+ er hatte gefahren
+ wir hatten gefahren
+ ihr hattet gefahren
+ sie hatten gefahren"," ich war vorbeigefahren
+ du warst vorbeigefahren
+ er war vorbeigefahren
+ wir waren vorbeigefahren
+ ihr wart vorbeigefahren
+ sie waren vorbeigefahren"," ich hatte ausgeseh(e)n
+ du hattest ausgeseh(e)n
+ er hatte ausgeseh(e)n
+ wir hatten ausgeseh(e)n
+ ihr hattet ausgeseh(e)n
+ sie hatten ausgeseh(e)n"," ich war vorbeigekommen
+ du warst vorbeigekommen
+ er war vorbeigekommen
+ wir waren vorbeigekommen
+ ihr wart vorbeigekommen
+ sie waren vorbeigekommen"," ich hatte angehalten
+ du hattest angehalten
+ er hatte angehalten
+ wir hatten angehalten
+ ihr hattet angehalten
+ sie hatten angehalten"," ich hatte gestrahlt
+ du hattest gestrahlt
+ er hatte gestrahlt
+ wir hatten gestrahlt
+ ihr hattet gestrahlt
+ sie hatten gestrahlt"," ich hatte vorbereitet
+ du hattest vorbereitet
+ er hatte vorbereitet
+ wir hatten vorbereitet
+ ihr hattet vorbereitet
+ sie hatten vorbereitet"," ich hatte eingepackt
+ du hattest eingepackt
+ er hatte eingepackt
+ wir hatten eingepackt
+ ihr hattet eingepackt
+ sie hatten eingepackt"," ich hatte erkundet
+ du hattest erkundet
+ er hatte erkundet
+ wir hatten erkundet
+ ihr hattet erkundet
+ sie hatten erkundet"," ich hatte probiert
+ du hattest probiert
+ er hatte probiert
+ wir hatten probiert
+ ihr hattet probiert
+ sie hatten probiert"," ich hatte gesammelt
+ du hattest gesammelt
+ er hatte gesammelt
+ wir hatten gesammelt
+ ihr hattet gesammelt
+ sie hatten gesammelt"," ich hatte vergessen
+ du hattest vergessen
+ er hatte vergessen
+ wir hatten vergessen
+ ihr hattet vergessen
+ sie hatten vergessen"
 infinitive_participle_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -17332,7 +22512,182 @@ infinitive_participle_active,Future," ich werde anklagen
  er wird mobilisieren
  wir werden mobilisieren
  ihr werdet mobilisieren
- sie werden mobilisieren"
+ sie werden mobilisieren"," ich werde stellen
+ du wirst stellen
+ er wird stellen
+ wir werden stellen
+ ihr werdet stellen
+ sie werden stellen"," ich werde schau(e)n
+ du wirst schau(e)n
+ er wird schau(e)n
+ wir werden schau(e)n
+ ihr werdet schau(e)n
+ sie werden schau(e)n"," ich werde leiden
+ du wirst leiden
+ er wird leiden
+ wir werden leiden
+ ihr werdet leiden
+ sie werden leiden"," ich werde behandeln
+ du wirst behandeln
+ er wird behandeln
+ wir werden behandeln
+ ihr werdet behandeln
+ sie werden behandeln"," ich werde veröffentlichen
+ du wirst veröffentlichen
+ er wird veröffentlichen
+ wir werden veröffentlichen
+ ihr werdet veröffentlichen
+ sie werden veröffentlichen"," ich werde drucken
+ du wirst drucken
+ er wird drucken
+ wir werden drucken
+ ihr werdet drucken
+ sie werden drucken"," ich werde lassen
+ du wirst lassen
+ er wird lassen
+ wir werden lassen
+ ihr werdet lassen
+ sie werden lassen"," ich werde steh(e)n
+ du wirst steh(e)n
+ er wird steh(e)n
+ wir werden steh(e)n
+ ihr werdet steh(e)n
+ sie werden steh(e)n"," ich werde aufgeben
+ du wirst aufgeben
+ er wird aufgeben
+ wir werden aufgeben
+ ihr werdet aufgeben
+ sie werden aufgeben"," ich werde einnehmen
+ du wirst einnehmen
+ er wird einnehmen
+ wir werden einnehmen
+ ihr werdet einnehmen
+ sie werden einnehmen"," ich werde vorwerfen
+ du wirst vorwerfen
+ er wird vorwerfen
+ wir werden vorwerfen
+ ihr werdet vorwerfen
+ sie werden vorwerfen"," ich werde versuchen
+ du wirst versuchen
+ er wird versuchen
+ wir werden versuchen
+ ihr werdet versuchen
+ sie werden versuchen"," ich werde fehlen
+ du wirst fehlen
+ er wird fehlen
+ wir werden fehlen
+ ihr werdet fehlen
+ sie werden fehlen"," ich werde auffordern
+ du wirst auffordern
+ er wird auffordern
+ wir werden auffordern
+ ihr werdet auffordern
+ sie werden auffordern"," ich werde organisieren
+ du wirst organisieren
+ er wird organisieren
+ wir werden organisieren
+ ihr werdet organisieren
+ sie werden organisieren"," ich werde verlesen
+ du wirst verlesen
+ er wird verlesen
+ wir werden verlesen
+ ihr werdet verlesen
+ sie werden verlesen"," ich werde zurückweisen
+ du wirst zurückweisen
+ er wird zurückweisen
+ wir werden zurückweisen
+ ihr werdet zurückweisen
+ sie werden zurückweisen"," ich werde verhindern
+ du wirst verhindern
+ er wird verhindern
+ wir werden verhindern
+ ihr werdet verhindern
+ sie werden verhindern"," ich werde reisen
+ du wirst reisen
+ er wird reisen
+ wir werden reisen
+ ihr werdet reisen
+ sie werden reisen"," ich werde gewarten
+ du wirst gewarten
+ er wird gewarten
+ wir werden gewarten
+ ihr werdet gewarten
+ sie werden gewarten"," ich werde besuchen
+ du wirst besuchen
+ er wird besuchen
+ wir werden besuchen
+ ihr werdet besuchen
+ sie werden besuchen"," ich werde abstellen
+ du wirst abstellen
+ er wird abstellen
+ wir werden abstellen
+ ihr werdet abstellen
+ sie werden abstellen"," ich werde genießen
+ du wirst genießen
+ er wird genießen
+ wir werden genießen
+ ihr werdet genießen
+ sie werden genießen"," ich werde fahren
+ du wirst fahren
+ er wird fahren
+ wir werden fahren
+ ihr werdet fahren
+ sie werden fahren"," ich werde vorbeifahren
+ du wirst vorbeifahren
+ er wird vorbeifahren
+ wir werden vorbeifahren
+ ihr werdet vorbeifahren
+ sie werden vorbeifahren"," ich werde ausseh(e)n
+ du wirst ausseh(e)n
+ er wird ausseh(e)n
+ wir werden ausseh(e)n
+ ihr werdet ausseh(e)n
+ sie werden ausseh(e)n"," ich werde vorbeikommen
+ du wirst vorbeikommen
+ er wird vorbeikommen
+ wir werden vorbeikommen
+ ihr werdet vorbeikommen
+ sie werden vorbeikommen"," ich werde anhalten
+ du wirst anhalten
+ er wird anhalten
+ wir werden anhalten
+ ihr werdet anhalten
+ sie werden anhalten"," ich werde strahlen
+ du wirst strahlen
+ er wird strahlen
+ wir werden strahlen
+ ihr werdet strahlen
+ sie werden strahlen"," ich werde vorbereiten
+ du wirst vorbereiten
+ er wird vorbereiten
+ wir werden vorbereiten
+ ihr werdet vorbereiten
+ sie werden vorbereiten"," ich werde einpacken
+ du wirst einpacken
+ er wird einpacken
+ wir werden einpacken
+ ihr werdet einpacken
+ sie werden einpacken"," ich werde erkunden
+ du wirst erkunden
+ er wird erkunden
+ wir werden erkunden
+ ihr werdet erkunden
+ sie werden erkunden"," ich werde probieren
+ du wirst probieren
+ er wird probieren
+ wir werden probieren
+ ihr werdet probieren
+ sie werden probieren"," ich werde sammeln
+ du wirst sammeln
+ er wird sammeln
+ wir werden sammeln
+ ihr werdet sammeln
+ sie werden sammeln"," ich werde vergessen
+ du wirst vergessen
+ er wird vergessen
+ wir werden vergessen
+ ihr werdet vergessen
+ sie werden vergessen"
 infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -17898,7 +23253,182 @@ infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  er wird mobilisiert haben
  wir werden mobilisiert haben
  ihr werdet mobilisiert haben
- sie werden mobilisiert haben"
+ sie werden mobilisiert haben"," ich werde gestellt haben
+ du wirst gestellt haben
+ er wird gestellt haben
+ wir werden gestellt haben
+ ihr werdet gestellt haben
+ sie werden gestellt haben"," ich werde geschaut haben
+ du wirst geschaut haben
+ er wird geschaut haben
+ wir werden geschaut haben
+ ihr werdet geschaut haben
+ sie werden geschaut haben"," ich werde gelitten haben
+ du wirst gelitten haben
+ er wird gelitten haben
+ wir werden gelitten haben
+ ihr werdet gelitten haben
+ sie werden gelitten haben"," ich werde behandelt haben
+ du wirst behandelt haben
+ er wird behandelt haben
+ wir werden behandelt haben
+ ihr werdet behandelt haben
+ sie werden behandelt haben"," ich werde veröffentlicht haben
+ du wirst veröffentlicht haben
+ er wird veröffentlicht haben
+ wir werden veröffentlicht haben
+ ihr werdet veröffentlicht haben
+ sie werden veröffentlicht haben"," ich werde gedruckt haben
+ du wirst gedruckt haben
+ er wird gedruckt haben
+ wir werden gedruckt haben
+ ihr werdet gedruckt haben
+ sie werden gedruckt haben"," ich werde gelassen haben
+ du wirst gelassen haben
+ er wird gelassen haben
+ wir werden gelassen haben
+ ihr werdet gelassen haben
+ sie werden gelassen haben"," ich werde gestanden haben
+ du wirst gestanden haben
+ er wird gestanden haben
+ wir werden gestanden haben
+ ihr werdet gestanden haben
+ sie werden gestanden haben"," ich werde aufgegeben haben
+ du wirst aufgegeben haben
+ er wird aufgegeben haben
+ wir werden aufgegeben haben
+ ihr werdet aufgegeben haben
+ sie werden aufgegeben haben"," ich werde eingenommen haben
+ du wirst eingenommen haben
+ er wird eingenommen haben
+ wir werden eingenommen haben
+ ihr werdet eingenommen haben
+ sie werden eingenommen haben"," ich werde vorgeworfen haben
+ du wirst vorgeworfen haben
+ er wird vorgeworfen haben
+ wir werden vorgeworfen haben
+ ihr werdet vorgeworfen haben
+ sie werden vorgeworfen haben"," ich werde versucht haben
+ du wirst versucht haben
+ er wird versucht haben
+ wir werden versucht haben
+ ihr werdet versucht haben
+ sie werden versucht haben"," ich werde gefehlt haben
+ du wirst gefehlt haben
+ er wird gefehlt haben
+ wir werden gefehlt haben
+ ihr werdet gefehlt haben
+ sie werden gefehlt haben"," ich werde aufgefordert haben
+ du wirst aufgefordert haben
+ er wird aufgefordert haben
+ wir werden aufgefordert haben
+ ihr werdet aufgefordert haben
+ sie werden aufgefordert haben"," ich werde organisiert haben
+ du wirst organisiert haben
+ er wird organisiert haben
+ wir werden organisiert haben
+ ihr werdet organisiert haben
+ sie werden organisiert haben"," ich werde verlesen haben
+ du wirst verlesen haben
+ er wird verlesen haben
+ wir werden verlesen haben
+ ihr werdet verlesen haben
+ sie werden verlesen haben"," ich werde zurückgewiesen haben
+ du wirst zurückgewiesen haben
+ er wird zurückgewiesen haben
+ wir werden zurückgewiesen haben
+ ihr werdet zurückgewiesen haben
+ sie werden zurückgewiesen haben"," ich werde verhindert haben
+ du wirst verhindert haben
+ er wird verhindert haben
+ wir werden verhindert haben
+ ihr werdet verhindert haben
+ sie werden verhindert haben"," ich werde gereist sein
+ du wirst gereist sein
+ er wird gereist sein
+ wir werden gereist sein
+ ihr werdet gereist sein
+ sie werden gereist sein"," ich werde gewartet haben
+ du wirst gewartet haben
+ er wird gewartet haben
+ wir werden gewartet haben
+ ihr werdet gewartet haben
+ sie werden gewartet haben"," ich werde besucht haben
+ du wirst besucht haben
+ er wird besucht haben
+ wir werden besucht haben
+ ihr werdet besucht haben
+ sie werden besucht haben"," ich werde abgestellt haben
+ du wirst abgestellt haben
+ er wird abgestellt haben
+ wir werden abgestellt haben
+ ihr werdet abgestellt haben
+ sie werden abgestellt haben"," ich werde genossen haben
+ du wirst genossen haben
+ er wird genossen haben
+ wir werden genossen haben
+ ihr werdet genossen haben
+ sie werden genossen haben"," ich werde gefahren haben
+ du wirst gefahren haben
+ er wird gefahren haben
+ wir werden gefahren haben
+ ihr werdet gefahren haben
+ sie werden gefahren haben"," ich werde vorbeigefahren sein
+ du wirst vorbeigefahren sein
+ er wird vorbeigefahren sein
+ wir werden vorbeigefahren sein
+ ihr werdet vorbeigefahren sein
+ sie werden vorbeigefahren sein"," ich werde ausgeseh(e)n haben
+ du wirst ausgeseh(e)n haben
+ er wird ausgeseh(e)n haben
+ wir werden ausgeseh(e)n haben
+ ihr werdet ausgeseh(e)n haben
+ sie werden ausgeseh(e)n haben"," ich werde vorbeigekommen sein
+ du wirst vorbeigekommen sein
+ er wird vorbeigekommen sein
+ wir werden vorbeigekommen sein
+ ihr werdet vorbeigekommen sein
+ sie werden vorbeigekommen sein"," ich werde angehalten haben
+ du wirst angehalten haben
+ er wird angehalten haben
+ wir werden angehalten haben
+ ihr werdet angehalten haben
+ sie werden angehalten haben"," ich werde gestrahlt haben
+ du wirst gestrahlt haben
+ er wird gestrahlt haben
+ wir werden gestrahlt haben
+ ihr werdet gestrahlt haben
+ sie werden gestrahlt haben"," ich werde vorbereitet haben
+ du wirst vorbereitet haben
+ er wird vorbereitet haben
+ wir werden vorbereitet haben
+ ihr werdet vorbereitet haben
+ sie werden vorbereitet haben"," ich werde eingepackt haben
+ du wirst eingepackt haben
+ er wird eingepackt haben
+ wir werden eingepackt haben
+ ihr werdet eingepackt haben
+ sie werden eingepackt haben"," ich werde erkundet haben
+ du wirst erkundet haben
+ er wird erkundet haben
+ wir werden erkundet haben
+ ihr werdet erkundet haben
+ sie werden erkundet haben"," ich werde probiert haben
+ du wirst probiert haben
+ er wird probiert haben
+ wir werden probiert haben
+ ihr werdet probiert haben
+ sie werden probiert haben"," ich werde gesammelt haben
+ du wirst gesammelt haben
+ er wird gesammelt haben
+ wir werden gesammelt haben
+ ihr werdet gesammelt haben
+ sie werden gesammelt haben"," ich werde vergessen haben
+ du wirst vergessen haben
+ er wird vergessen haben
+ wir werden vergessen haben
+ ihr werdet vergessen haben
+ sie werden vergessen haben"
 infinitive_participle_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -18012,7 +23542,42 @@ infinitive_participle_active,InfinitiveI," anklagen
  zu geben",," verurteilen
  zu verurteilen"," aufhören
  aufzuhören"," mobilisieren
- zu mobilisieren"
+ zu mobilisieren"," stellen
+ zu stellen"," schau(e)n
+ zu schau(e)n"," leiden
+ zu leiden"," behandeln
+ zu behandeln"," veröffentlichen
+ zu veröffentlichen"," drucken
+ zu drucken"," lassen
+ zu lassen"," steh(e)n
+ zu steh(e)n"," aufgeben
+ aufzugeben"," einnehmen
+ einzunehmen"," vorwerfen
+ vorzuwerfen"," versuchen
+ zu versuchen"," fehlen
+ zu fehlen"," auffordern
+ aufzufordern"," organisieren
+ zu organisieren"," verlesen
+ zu verlesen"," zurückweisen
+ zurückzuweisen"," verhindern
+ zu verhindern"," reisen
+ zu reisen"," gewarten
+ zu gewarten"," besuchen
+ zu besuchen"," abstellen
+ abzustellen"," genießen
+ zu genießen"," fahren
+ zu fahren"," vorbeifahren
+ vorbeizufahren"," ausseh(e)n
+ auszuseh(e)n"," vorbeikommen
+ vorbeizukommen"," anhalten
+ anzuhalten"," strahlen
+ zu strahlen"," vorbereiten
+ vorzubereiten"," einpacken
+ einzupacken"," erkunden
+ zu erkunden"," probieren
+ zu probieren"," sammeln
+ zu sammeln"," vergessen
+ zu vergessen"
 infinitive_participle_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -18126,6 +23691,41 @@ infinitive_participle_active,InfinitiveII," angeklagt haben
  gegeben zu haben",," verurteilt haben
  verurteilt zu haben"," aufgehört haben
  aufgehört zu haben"," mobilisiert haben
- mobilisiert zu haben"
-infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend
-infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert
+ mobilisiert zu haben"," gestellt haben
+ gestellt zu haben"," geschaut haben
+ geschaut zu haben"," gelitten haben
+ gelitten zu haben"," behandelt haben
+ behandelt zu haben"," veröffentlicht haben
+ veröffentlicht zu haben"," gedruckt haben
+ gedruckt zu haben"," gelassen haben
+ gelassen zu haben"," gestanden haben
+ gestanden zu haben"," aufgegeben haben
+ aufgegeben zu haben"," eingenommen haben
+ eingenommen zu haben"," vorgeworfen haben
+ vorgeworfen zu haben"," versucht haben
+ versucht zu haben"," gefehlt haben
+ gefehlt zu haben"," aufgefordert haben
+ aufgefordert zu haben"," organisiert haben
+ organisiert zu haben"," verlesen haben
+ verlesen zu haben"," zurückgewiesen haben
+ zurückgewiesen zu haben"," verhindert haben
+ verhindert zu haben"," gereist sein
+ gereist zu sein"," gewartet haben
+ gewartet zu haben"," besucht haben
+ besucht zu haben"," abgestellt haben
+ abgestellt zu haben"," genossen haben
+ genossen zu haben"," gefahren haben
+ gefahren zu haben"," vorbeigefahren sein
+ vorbeigefahren zu sein"," ausgeseh(e)n haben
+ ausgeseh(e)n zu haben"," vorbeigekommen sein
+ vorbeigekommen zu sein"," angehalten haben
+ angehalten zu haben"," gestrahlt haben
+ gestrahlt zu haben"," vorbereitet haben
+ vorbereitet zu haben"," eingepackt haben
+ eingepackt zu haben"," erkundet haben
+ erkundet zu haben"," probiert haben
+ probiert zu haben"," gesammelt haben
+ gesammelt zu haben"," vergessen haben
+ vergessen zu haben"
+infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
+infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen

@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant
 basic_forms,english,,None,,"müssen : Verb
 ",,None,,None,None,None,None,"früh : Adjective
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
@@ -12,8 +12,12 @@ der Liebe : Noun
 ","stark : Adjective
 ",,,,,,,,,,,,"schlimm : Adjective
 ","viel : Adjective
-",,,,,
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,,,"aufregen : Verb
+sich aufregen : Verb
+","lang : Adjective
+langen : Verb
+",,,,,,,,
+basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -725,7 +729,124 @@ to flick through sth.
 to flip through sth.
 to wheel around
 to jot sth. down
-"
+","to feature sth. | featured, featured |
+to spotlight sth. | spotlighted/spotlit, spotlighted/spotlit |
+to note sth. | noted, noted |
+to have a chip on one's shoulder
+to go out of one's way to do sth.
+not to have a lot of time for so./sth.
+",,,"to reply immediately
+to give sth. one's prompt attention
+to release so. from their duties with immediate effect
+to do sth. without delay
+to attend to sth. directly
+to take to it like a duck to water
+to do it without delay
+to put the order in hand at once
+","to hit on it
+to be adamant
+to make sure that
+to maintain (that) | maintained, maintained |
+to be insistent that ...
+to point out that ...
+to insist on doing sth.
+to forbear from doing sth. [form.] also [poet.]
+to be out to do sth.
+to be itching to do sth.
+to have an itch to do sth.
+to be bursting to do sth.
+to ache to do sth.
+to be bent on doing sth.
+","to translate into German/English
+to speak English
+to be capped for Germany/England/... (Brit.) [SPORT.]
+to be capped for Germany/England/... (Brit.) [SPORT.]
+",,"to go ahead and do sth.
+","to debit afterwardAE / afterwardsAE to debit afterwardsBE
+to remine | remined, remined | [TECH.]
+","to run short
+to be in short supply
+to shorten sth. | shortened, shortened |
+to be hard up for sth.
+to be strapped for sth.
+to keep so. short of sth.
+to pip so. | pipped, pipped | [coll.] (Brit.)
+to pip so. | pipped, pipped | [coll.] (Brit.)
+to edge so. ⇔ out [coll.] [SPORT.]
+to be short of sth.
+to be short of money
+to be hard-pressed for money
+to be pinched for money
+to be short of foreign exchange
+",,"to bid so. a good morning
+","to upset so. | upset, upset |
+to discompose | discomposed, discomposed |
+to agitate so. | agitated, agitated |
+to fluster so. | flustered, flustered |
+to annoy so. | annoyed, annoyed |
+to flurry so. | flurried, flurried |
+to vex so. | vexed, vexed |
+to faze so. | fazed, fazed |
+to shock so. | shocked, shocked |
+to unsettle so. | unsettled, unsettled |
+to excite so. | excited, excited |
+to be exercised
+to fuss | fussed, fussed |
+to get in a lather
+","to be sufficient
+to clout so. | clouted, clouted |
+to take long
+to be a long haul
+to perorate | perorated, perorated | - talk at length [form.]
+to outstay one's welcome
+to overstay one's welcome
+to facepalm | facepalmed, facepalmed |
+to have sticky fingers
+to cock a snook at so.
+to thumb one's nose at so.
+to make short of sth.
+to have one's nose to the grindstone
+to keep one's nose to the grindstone
+",,"to break away (Amer.) [SPORT.]
+to predecease so. | predeceased, predeceased | [LAW]
+to get home early
+to have an early night
+so. used to do sth.
+","to be out and about
+to be on the move
+to be away - on business
+to be bound for + expression of place
+to be bound for + expression of place
+to be away on business
+to be out on business
+",,"to be at large
+to keep free
+to leave blank
+to leave open
+to manumit | manumitted, manumitted |
+to spare | spared, spared |
+to clear | cleared, cleared |
+to vacate | vacated, vacated |
+to open | opened, opened |
+to free | freed, freed |
+to loosen | loosened, loosened |
+to free-associate | free-associated, free-associated |
+to make free associations
+to be on the loose - prisoners, dangerous animals
+","to work meticulously
+to curate | curated, curated |
+to elaborate | elaborated, elaborated |
+to spy | spied, spied |
+to examine carefully
+to handpick sth. | handpicked, handpicked |
+to consider sth. | considered, considered |
+to take sth. ⇔ into consideration
+to take care in doing sth.
+to submit sth. to a careful examination
+to elaborate | elaborated, elaborated |
+to dot the i's and cross the t's
+","to work first - of a seam [TECH.]
+",
 verbs,german,"alt werden
 alt werden
 sichacc. jmdm./etw. anschließen | schloss an, angeschlossen |
@@ -1437,7 +1558,124 @@ etw.acc. (schnell) durchblättern | blätterte durch, durchgeblättert / durchbl
 etw.acc. (schnell) durchblättern | blätterte durch, durchgeblättert / durchblätterte, durchblättert |
 sichacc. schnell umdrehen
 etw.acc. schnell hinschreiben
-"
+","etw.acc. besonders herausstellen
+etw.acc. besonders herausstellen
+etw.acc. besonders erwähnen
+besonders empfindlich sein
+sichacc. besonders anstrengen, etw.acc. zu tun
+sichacc. nicht besonders für jmdn./etw. interessieren
+",,,"sofort antworten
+etw.acc. sofort erledigen
+jmdn. sofort freistellen
+etw.acc. sofort tun
+sichacc. sofort um etw.acc. kümmern
+sofort in seinem Element sein
+es sofort tun
+den Auftrag sofort in Arbeit nehmen
+","darauf kommen or: daraufkommen | kam darauf, daraufgekommen |
+darauf bestehen
+darauf achten, dass
+darauf bestehen, dass ...
+darauf bestehen, dass ...
+darauf hinweisen, dass ...
+darauf bestehen, etw.acc. zu tun
+darauf verzichten, etw.acc. zu tun
+darauf aus sein, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf brennen, etw.acc. zu tun
+darauf erpicht sein, etw.acc. zu tun
+","ins Deutsche/Englische übersetzen
+Englisch sprechen
+für die deutsche/englische/... Nationalmannschaft aufgestellt werden
+in die deutsche/englische/... Nationalmannschaft berufen werden
+",,"etw.acc. bereits jetzt tun
+","nachträglich belasten
+nachträglich abbauen
+","knapp werden
+knapp sein
+etw.acc. knapp machen
+knapp sein an etw.dat.
+knapp an etw.acc. sein
+jmdn. mit etw.dat. knapphalten or: knapp halten | hielt knapp, knappgehalten |
+jmdn. knapp besiegen
+jmdn. knapp schlagen
+jmdn. knapp besiegen
+an etw.acc. knapp sein
+knapp bei Kasse sein
+knapp bei Kasse sein
+knapp bei Kasse sein
+knapp an Devisen sein
+",,"jmdm. einen guten Morgen entbieten [form.] dated
+","jmdn. aufregen | regte auf, aufgeregt |
+aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt | - in Erregung versetzen
+sichacc. aufregen | regte auf, aufgeregt |
+sichacc. aufregen | regte auf, aufgeregt |
+sichacc. aufregen | regte auf, aufgeregt |
+","langen | langte, gelangt | [coll.]
+jmdm. eine langen [coll.]
+lange dauern
+sichacc. lange hinziehen
+sichacc. lange auslassen
+zu lange bleiben
+zu lange bleiben
+sichdat. ans Hirn langen (Southern Germany)
+lange Finger haben
+jmdm. eine lange Nase machen
+jmdm. eine lange Nase machen
+nicht lange fackeln
+hart und lange arbeiten
+hart und lange arbeiten
+",,"zu früh starten
+früher als jmd. sterben
+früh nachhause (or: nach Hause) kommen
+früh ins Bett gehen
+jmd. hat früher etw.acc. getan
+","unterwegs sein
+unterwegs sein
+unterwegs sein - dienstlich
+unterwegs in + expression of place +acc. - mit Artikel sein
+unterwegs nach + expression of place no article sein
+geschäftlich unterwegs sein
+geschäftlich unterwegs sein
+",,"frei herumlaufen - Verbrecher
+freihalten or: frei halten | hielt frei, freigehalten |
+freilassen or: frei lassen | ließ frei, freigelassen |
+freilassen or: frei lassen | ließ frei, freigelassen |
+freilassen or: frei lassen | ließ frei, freigelassen |
+freilassen or: frei lassen | ließ frei, freigelassen |
+freimachen or: frei machen | machte frei, freigemacht |
+freimachen or: frei machen | machte frei, freigemacht |
+freimachen or: frei machen | machte frei, freigemacht |
+freimachen or: frei machen | machte frei, freigemacht |
+freimachen or: frei machen | machte frei, freigemacht |
+frei assoziieren
+frei assoziieren
+frei herumlaufen
+","sorgfältig arbeiten
+sorgfältig auswählen
+sorgfältig durchkonstruieren
+sorgfältig beobachten
+sorgfältig überprüfen
+etw.acc. sorgfältig auswählen
+etw.acc. sorgfältig prüfen
+etw.acc. sorgfältig prüfen
+etw.acc. sorgfältig tun
+etw.acc. sorgfältig untersuchen
+sorgfältig ausarbeiten
+sehr sorgfältig sein
+","Flöz zuerst abbauen
+",
 nouns,english,"alto [MUS.]
 contralto [MUS.]
 the elderly
@@ -2145,7 +2383,162 @@ spin
 speedy decision
 rapid cooling
 quick fix
-"
+","annus horribilis
+particularly vulnerable group
+beauty spot
+specified countries pl.
+hazardous waste [ENV.]
+Very Volatile Organic Compound [abbr.: VVOC] [CHEM.]
+waste requiring special supervision [ENV.]
+highly protected risk [abbr.: HPR] [INSUR.]
+area of outstanding natural beauty [abbr.: AONB]
+area of outstanding natural beauty [abbr.: AONB]
+marked checkAEmarked chequeBE
+bargain loan [FINAN.]
+","glower - hostile look
+scowl - hostile look
+",,"immediate annuity
+actuals pl. [COMM.]
+immediate annuity [FINAN.]
+annuity [INSUR.]
+immediate annuity [FINAN.]
+business for which a policy can be issued immediately [INSUR.]
+immediately acceptable proposal [INSUR.]
+demand deposit [FINAN.]
+call deposit [FINAN.]
+hot standby [COMP.]
+hot standby [COMP.]
+spots [COMM.]
+",,"English [LING.]
+moleskin [TEXTIL.]
+basic English
+broken English
+Strine or: strine [coll.]
+pidgin English
+Hiberno-English [LING.]
+ironstone china
+English language
+English text
+text in English
+English
+needle furze [BOT.]
+petty whin [BOT.]
+",,"prepopulated field
+","afterthought
+waiver
+waiver
+subsequent order
+hindsight
+post-entry
+retrofitting [TECH.]
+backfitting [TECH.]
+subsequent settlement [FINAN.]
+deferred compensation [FINAN.]
+refund [FINAN.]
+submeander [GEOL.]
+completed order adjustment [TECH.]
+base seal [TECH.]
+","tight piece rate
+tight rate
+slim majority
+scarce goods
+tight time schedule
+close-run thing
+short supply
+close run
+scarce good [ECON.]
+tight money [FINAN.]
+scarce resources [ECON.]
+close time [TECH.]
+tight money [FINAN.]
+tight rates [INSUR.]
+",,"morning
+morn [poet.]
+morgen - former measure of land used in Prussia, Norway, and Denmark equal to about 0.3 hectare obsolete
+morrow [poet.] archaic
+yesterday morning
+yestermorning
+red-eye flight
+","fuss
+","trousers plural noun
+longevity
+perdurability
+harangue
+longevity
+harangue
+warmers plural noun
+long-term view
+long service life
+age
+long time
+long day
+slacks plural noun
+snook
+","finite instrument resolution
+finite impedance
+finite subcover [MATH.]
+finite automaton [COMP.]
+finite state automaton [abbr.: FSA] [COMP.]
+finite state machine [abbr.: FSM] [COMP.]
+sequential circuit [TECH.]
+finite series [MATH.]
+finite state machine [COMP.]
+finite games [ECON.]
+finite state acceptor [COMP.]
+finite market [ECON.]
+exhaustible raw materials [ENV.]
+finite radius of curvature [TECH.]
+","babyhood
+infancy
+previous endorser
+prior endorser
+early follower
+early exercise
+early majority
+high tea
+early stage of development
+early start
+early start date
+prior holder
+early finish
+forechecking
+","quantity in transit
+goods in transit
+cargo afloat
+",,"free site
+entrance free
+free-field sensitivity [PHYS.]
+free-field current sensitivity [PHYS.]
+free-field sensitivity [PHYS.]
+vacancy
+job vacancy
+job opening
+unfilled vacancy
+street market
+out-of-doors used with sg. verb
+outdoors
+liberal profession
+profession
+","elaborateness
+elaboration
+sifting
+sifting
+close examination
+perusal
+due diligence
+elaborateness
+care and attention
+careful decision-making
+careful consideration
+careful investigation
+conscientious business manager [COMM.]
+prudent business manager [COMM.]
+careful packing
+principle of careful decision-making
+prompt and careful execution
+","preoption
+first-party release [TELECOM.]
+",
 nouns,german,"der Alt pl.
 der Alt pl.
 die Alten pl.
@@ -2853,7 +3246,162 @@ schnelle Drehung
 schnelle Entscheidung
 schnelle Kühlung
 schnelle Lösung
-"
+","besonders schlechtes Jahr - bes. in Bezug auf eine Person, eine Branche oder Gesellschaftsgruppe
+besonders schutzbedürftige Gruppe
+besonders schöner Ort
+besonders aufgelistete Länder pl.
+besonders überwachungsbedürftiger Abfall
+besonders leichtflüchtige organische Verbindungen
+besonders überwachungsbedürftige Abfälle
+besonders geschütztes Risiko
+landschaftlich besonders schönes Gebiet
+landschaftlich besonders wertvolles Gebiet
+besonders markierter Scheck
+Kredit zu besonders günstigen Bedingungen [Banking]
+","grimmiger Blick
+grimmiger Blick
+",,"sofort beginnende Rente
+sofort verfügbare Ware
+sofort beginnende Rentenversicherung
+sofort beginnende Rentenversicherung - Equitable Life
+sofort fällige Rente
+sofort policierbares Geschäft
+sofort policierbares Geschäft
+sofort abrufbare Einlage
+sofort abrufbare Einlage [Banking]
+sofort einsetzbarer Ersatz
+sofort einsetzbarer Ersatzrechner
+sofort lieferbare Waren
+",,"das Englisch or: Englische no plural - Sprache
+Englisch Leder
+einfaches Englisch
+gebrochenes Englisch
+australisches Englisch
+das Pidgin-Englisch or: Pidginenglisch no plural
+das Hiberno-Englisch no plural - irisches Englisch
+englisches Porzellan
+englische Sprache
+englischer Text
+englischer Text
+die englische Sprache pl.: die Sprachen
+Englischer Ginster Lat.: Genista anglica
+Englischer Ginster Lat.: Genista anglica
+",,"bereits ausgefülltes Feld
+","nachträglicher Einfall
+nachträglicher Qualitätsverzicht
+nachträgliche Aufhebung
+nachträgliche Anordnung
+nachträgliche Einsicht
+nachträgliche Verbuchung
+nachträglicher Einbau
+nachträglicher Einbau
+nachträgliche Abrechnung
+nachträgliche Vergütung
+nachträgliche Vergütung
+nachträgliche Mäanderbildung
+nachträgliche Auftragskosten pl., no sg.
+nachträgliche Basisabdichtung [Recycling und Entsorgung]
+","knapper Akkordsatz
+knapper Akkordsatz
+knappe Mehrheit
+knappe Waren
+knapper Zeitplan
+knappe Sache
+knapper Vorrat
+knappes Ergebnis
+knappes Gut
+knappe Geldmenge
+knappe Ressourcen
+knappe Vorgabezeit
+knappes Geld
+knappe Raten
+",,"der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen
+der Morgen pl.: die Morgen - älteres Feldmaß, territorial verschieden zwischen 2500 und 3600 m2
+das Morgen no plural
+gestern Morgen
+gestern Morgen
+Frühflug am Morgen
+","aufgeregte Geschäftigkeit
+","lange Hose (or: Hosen used with pl. verb)
+lange Dauer
+lange Dauer
+lange Ansprache
+lange Lebensdauer
+lange Rede
+lange Unterhosen used with pl. verb
+lange Sicht
+lange Standzeit
+lange Zeit
+lange Zeit
+lange Frist
+lange Hose
+lange Nase [fig.]
+","endliche Auflösung
+endliche Impedanz
+endliche Teilüberdeckung
+endlicher Automat
+endlicher Automat
+endlicher Automat
+endlicher Automat
+endliche Reihe
+endlicher Zustandsautomat
+endliche Spiele [Spieltheorie]
+endlicher Akzeptor
+endlicher Markt
+endliche Rohstoffe
+endlicher Krümmungsradius
+","frühe Kindheit
+frühe Kindheit
+früherer Indossant
+früherer Indossant
+früher Folger
+frühe Ausübung
+frühe Mehrheit
+frühes Abendessen
+frühe Entwicklungsphase
+früher Anfang
+früher Starttermin
+früherer Inhaber
+frühes Ende
+frühes Stören
+","unterwegs befindliche Menge
+unterwegs befindliche Ware
+unterwegs befindliche Ladung
+",,"frei Baustelle
+Eintritt frei
+die Frei-Feld-Empfindlichkeit [Acoustics]
+der Frei-Feld-Stromübertragungskoeffizient [Acoustics]
+der Frei-Feld-Übertragungskoeffizient [Acoustics]
+freie Stelle
+freie Stelle
+freie Stelle
+freie Stelle
+freier Markt
+freie Natur
+freie Natur
+freier Beruf
+freier Beruf
+","sorgfältige Ausführung
+sorgfältige Ausführung
+sorgfältige Durchsicht
+sorgfältige Überprüfung
+sorgfältige Überprüfung
+sorgfältiges Durchlesen
+sorgfältige Prüfung
+sorgfältige Ausarbeitung
+sorgfältige Beachtung
+sorgfältige Entscheidung
+sorgfältige Überlegung
+sorgfältige Untersuchung
+sorgfältiger Geschäftsleiter
+sorgfältiger Geschäftsleiter
+sorgfältige Verpackung
+Prinzip der sorgfältigen Entscheidungsfindung
+prompte und sorgfältige Ausführung
+","Recht zuerst zu wählen
+Auslösung durch den Teilnehmer, der zuerst das Gespräch beendet
+",
 noun_details,english,"article: Der
 word: Alt
 genus: MASC
@@ -3310,8 +3858,104 @@ genus: NEUT
 plural: Schnell-Löseventil
 meaning: quick release valve [TECH.]
 millisecond delay electric blasting cap [TECH.]
-"
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","article: besonders
+word: schlechtes
+genus: 
+plural: Gesellschaftsgruppe
+meaning: annus horribilis
+particularly vulnerable group
+","article: grimmiger
+word: Blick
+genus: 
+plural: Blick
+meaning: glower - hostile look
+scowl - hostile look
+",,"article: sofort
+word: beginnende
+genus: 
+plural: Rente
+meaning: immediate annuity
+actuals pl. [COMM.]
+",,"article: das
+word: Englisch
+genus: NEUT
+plural: Sprache
+meaning: English [LING.]
+moleskin [TEXTIL.]
+",,"article: bereits
+word: ausgefülltes
+genus: 
+plural: Feld
+meaning: prepopulated field
+
+","article: nachträglicher
+word: Einfall
+genus: 
+plural: Einfall
+meaning: afterthought
+waiver
+","article: knapper
+word: Akkordsatz
+genus: 
+plural: Akkordsatz
+meaning: tight piece rate
+tight rate
+",,"article: Der
+word: Morgen
+genus: MASC
+plural: Morgen
+meaning: morning
+morn [poet.]
+","article: aufgeregte
+word: Geschäftigkeit
+genus: 
+plural: Geschäftigkeit
+meaning: fuss
+
+","article: lange
+word: Hose
+genus: 
+plural: verb)
+meaning: trousers plural noun
+longevity
+","article: endliche
+word: Auflösung
+genus: 
+plural: Auflösung
+meaning: finite instrument resolution
+finite impedance
+","article: frühe
+word: Kindheit
+genus: 
+plural: Kindheit
+meaning: babyhood
+infancy
+","article: unterwegs
+word: befindliche
+genus: 
+plural: Menge
+meaning: quantity in transit
+goods in transit
+",,"article: frei
+word: Baustelle
+genus: 
+plural: Baustelle
+meaning: free site
+entrance free
+","article: sorgfältige
+word: Ausführung
+genus: 
+plural: Ausführung
+meaning: elaborateness
+elaboration
+","article: Recht
+word: zuerst
+genus: 
+plural: wählen
+meaning: preoption
+first-party release [TELECOM.]
+",
+noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -4430,6 +5074,218 @@ speedy adj.
 swiftly adv.
 chop-chop adv.
 readily adv.
+","especially adv.
+particularly adv.
+specifically adv.
+unique adj.
+particular adj.
+specially adv. - particularly
+notably adv.
+eminently adv.
+exceptionally adv.
+exceedingly adv.
+extra adv.
+notedly adv.
+peculiar adj.
+in particular
+","fierce adj.
+grim adj.
+ferocious adj.
+grimly adv.
+furious adj.
+po-faced adj. (Brit.) [sl.]
+","beneath adv.
+under adv.
+among them
+amongst them
+underneath adv.
+below adv.
+thereunder adv.
+under it
+subjacent adj.
+","at once
+immediately adv.
+instantly adv.
+directly adv.
+in a jiffy
+in a moment
+right off the bat (Amer.)
+then and there
+there and then
+instanter adv. archaic also [hum.]
+straightaway or: straight away adv.
+forthwith adv.
+momentarily adv.
+outright adv.
+","hereon adv. - hereupon
+after that
+thereon adv.
+thereupon adv.
+afterwardAE / afterwardsAE adv.afterwardsBE adv.
+on it
+ensuing adj.
+proximate adj.
+anxious adj.
+shortly after
+","English adj.
+medium rare [COOK.]
+rare adj. [COOK.]
+un-English adj.
+","never adv.
+ne'er adv. - contraction of 'never' [poet.] also archaic
+not at any time
+under no circumstances
+never before
+never adv.
+never adv.
+","already adv.
+already in existence
+already acquired
+","retroactive - extending in scope to a date in the past adj.
+later adj.
+subsequent adj.
+subsequently adv.
+belated adj.
+supplementary adj.
+additional adj.
+belatedly adv.
+ex post
+retroactively adv.
+retrospectively adv.
+after the fact [LAW]
+payable in arrears
+","scarce adj.
+tight adj.
+narrow adj.
+short adj.
+scanty adj.
+curt adj.
+curtly adv.
+scant adj.
+scarcely adv.
+skimpy adj.
+terse adj.
+concise adj.
+scrimpy adj.
+skimpily adj.
+","then adv.
+at that time
+back then adv.
+in those days
+at the time
+","tomorrow adv.
+in the morning
+the morn (Scot.)
+tomorrow morning
+tomorrow night
+tomorrow morning
+by tomorrow
+early in the morning
+in the early morning
+all morning
+a week tomorrow
+a week tomorrow
+overnight adv.
+cold turkey
+of this morning
+as soon as the day broke
+all-morning adj.
+","excited adj.
+nervous adj.
+agitated adj.
+excitedly adv.
+agitatedly adv.
+exhilarated adj.
+fevered adj.
+atwitter adj. - nervously excited
+flutteringly adv.
+discomposed adj.
+het up [coll.]
+agitated adj.
+fussy adj.
+","long adv. - long time
+a long time
+for a long time
+in a long time
+long adj.
+oblong adj.
+long adv. - long time
+a long time
+time-tested adj.
+ailing adj.
+long-lived adj.
+long ago
+long drawn
+long ago
+","at last
+finally adv.
+eventually adv.
+ultimately adv.
+finite adj. also [MATH.]
+at length
+unlasting adj.
+at long last
+finitely many
+finitely generated [MATH.]
+finite measurable
+finite-dimensional adj. [MATH.]
+","early adj.
+soon adv.
+matutinal adj.
+former adj.
+past - previous, earlier; only used before a noun adj.
+previous adj.
+back adj.
+prior adj.
+antecedent adj.
+erstwhile adj.
+at the earliest
+in the past
+first adj.
+primal adj.
+","en route
+in transit
+on the way
+during transport
+on one's way
+to go
+away on business
+","hopefully adv.
+","free (from) adj.
+loose adj.
+freely adv.
+devoid (of) adj.
+clear adj.
+on the loose
+open adj.
+disengaged adj.
+spare adj.
+uncommitted adj.
+unengaged adj.
+unrestricted adj.
+unshackled adj.
+complimentary adj.
+","careful adj.
+thoroughly adv.
+accurate adj.
+exact adj.
+accurately adv.
+diligent adj.
+meticulous adj.
+painstaking adj.
+thorough adj.
+painstakingly adv.
+attentive adj.
+with care
+carefully arranged
+carefully arranged
+","first adv.
+at first
+primarily adv.
+first of all
+foremost adv.
+","charming adj.
+debonair rarely: debonaire, debonnaire adj.
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -5549,6 +6405,218 @@ schnell
 schnell
 schnell
 schnell
+","besonders
+besonders
+besonders
+besonders adv.
+besonders adv. [coll.]
+besonders
+besonders
+besonders
+besonders
+besonders
+besonders
+besonders
+besonders adv.
+besonders adv.
+","grimmig
+grimmig
+grimmig
+grimmig
+grimmig
+grimmig
+","darunter
+darunter
+darunter adv.
+darunter adv.
+darunter
+darunter
+darunter
+darunter adv.
+darunterliegend or: darunter liegend
+","sofort adv.
+sofort
+sofort
+sofort
+sofort adv.
+sofort adv.
+sofort adv.
+sofort adv.
+sofort adv.
+sofort
+sofort
+sofort
+sofort
+sofort
+","darauf
+darauf
+darauf
+darauf
+darauf
+darauf adv.
+darauffolgend or: darauf folgend - zeitlich
+darauffolgend or: darauf folgend
+darauf bedacht
+kurz darauf
+","englisch
+englisch
+englisch - Steak
+nicht englisch
+","niemals
+niemals
+niemals adv.
+niemals adv.
+noch niemals
+nun und nimmer - niemals archaic
+nun und nimmermehr - niemals archaic
+","bereits
+bereits bestehend
+bereits erworben
+","nachträglich - im Nachhinein
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich
+nachträglich zahlbar
+","knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+knapp
+","damals
+damals
+damals
+damals
+damals adv.
+","morgen
+am Morgen
+morgen adv.
+morgen früh (or: Früh)
+morgen Abend
+morgen Vormittag
+bis morgen
+früh am Morgen
+früh am Morgen
+den ganzen Morgen
+morgen in acht Tagen
+morgen in einer Woche
+von heute auf morgen
+von heute auf morgen
+von heute Morgen
+schon am frühen Morgen
+den ganzen Morgen lang
+","aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt
+aufgeregt adj.
+sehr aufgeregt
+aufgeregt und geschäftig
+","lang or: lange
+lange adv.
+lange
+lange
+lang
+lang
+lange Zeit
+lange Zeit
+lange erprobt
+lange krank
+lange lebend
+lange her
+sich lange hinziehend
+schon lange
+","endlich
+endlich
+endlich
+endlich
+endlich
+endlich
+endlich
+endlich
+endlich viele
+endlich erzeugt
+endlich messbar
+endlich-dimensional
+","früh
+früh
+früh
+früherer | frühere | früheres
+früher
+früher
+früher
+früherer | frühere | früheres
+früher
+früher
+frühestens or: frühstens
+früher adj.
+frühester | früheste | frühestes
+frühester | früheste | frühestes
+","unterwegs
+unterwegs
+unterwegs
+unterwegs
+unterwegs adv. [fig.]
+für unterwegs
+geschäftlich unterwegs
+","hoffentlich
+","frei (von)
+frei
+frei
+frei (von)
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+","sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig
+sorgfältig adj.
+sorgfältig arrangiert
+sorgfältig vorbereitet
+","zuerst
+zuerst
+zuerst
+zuerst
+zuerst
+","charmant
+charmant
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -6294,7 +7362,102 @@ we are not that quick on the trigger
 Time and tide wait for no man.
 a ready sale
 a rapid sale
-"
+","to go the extra mile
+attention should be paid to
+",,,"to hit the ground running [coll.] [fig.]
+immediate or cancel
+","You can bet your life on it.
+You can bet your life on that.
+You can bet your bottom dollar.
+Don't hold your breath!
+That's a feather in his cap.
+it's a hanging matter
+You betcha! (Amer.) [coll.]
+to be dying to do sth. [fig.]
+the evidence is
+there is evidence
+there is evidence to suggest
+I'm looking forward to seeing you again.
+I'm looking forward to seeing you again.
+",,"lest we forget
+","as mentioned above
+","Happy belated birthday!
+Belated happy birthday!
+Happy belated birthday!
+Belated happy birthday!
+","That was a near thing. chiefly (Brit.)
+That was a close thing.
+that was a close call
+Close, but no cigar.
+A miss is as good as a mile.
+Close, but no cigar.
+A miss is as good as a mile.
+to be short of cash
+strapped adj. [coll.]
+That was a close call.
+That was a close shave. [coll.]
+by the skin of one's teeth
+in a nutshell
+",,"Good morning!
+See you tomorrow!
+first thing tomorrow morning
+Good morning everyone!
+There's no time like the present.
+","all of a dither
+to be all aflutter about sth.
+That gets my goat. [coll.]
+","Such a long time!
+to cut a long story short
+not good enough by half
+a long spell of fine weather
+the long arm of the law
+Long time no see! [coll.]
+Long time no see! [coll.]
+to be slow on the uptake
+You can wait until (or: till) the cows come home!
+Don't hold your breath!
+not for a long time yet
+Good things come to those who wait.
+not expected to live much longer
+a month of Sundays
+","when all is said and done
+Good things come to those who wait.
+something has to give
+something's got to give
+Get a life!
+Get a life!
+Get a life!
+","first thing tomorrow morning
+it's early days yet
+Don't halloo till you're out of the wood!
+not before time (Brit.)
+earliest finish time
+The early bird catches the worm.
+earliest event time
+","I'm on my way!
+",,"by guess and by gosh
+delivered duty unpaid [abbr.: DDU] [COMM.]
+left blank
+Admission free!
+approach
+approach for switching moves
+connect when free [TELECOM.]
+by guess and by gosh
+free as a bird
+free of known claims [INSUR.]
+free in and out [COMM.]
+free in and out [COMM.]
+Don't mind if I do!
+slow approach
+to give so. plenty of rope [fig.]
+half a holiday
+",,"First come, first served.
+The early bird catches the worm.
+last come, first served
+to get up on the wrong side of the bed [fig.]
+first come, first served
+first in, first out [abbr.: FIFO]
+",
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -7039,7 +8202,102 @@ so schnell schießen die Preußen nicht
 Eine verpasste Gelegenheit kommt nicht so schnell wieder.
 ein schneller Absatz
 ein schneller Verkauf
-"
+","sichacc. besonders ins Zeug legen
+besonders zu beachten ist
+",,,"sofort loslegen
+sofort zu liefern, sonst kein Auftrag
+","Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst du Gift nehmen.
+Darauf kannst Du lange warten!
+Darauf kann er stolz sein.
+darauf steht der Galgen
+Darauf kannst du wetten!
+darauf brennen, etw.acc. zu tun [fig.]
+alles deutet darauf hin
+vieles deutet darauf hin
+vieles weist darauf hin
+Ich freue mich darauf, Dich wiederzusehen.
+Ich freue mich darauf, Sie wiederzusehen.
+",,"auf dass wir niemals vergessen mögen
+","wie bereits oben erwähnt
+","Nachträglich alles Gute zum Geburtstag.
+Nachträglich alles Gute zum Geburtstag.
+Herzlichen Glückwunsch nachträglich! - zum Geburtstag
+Herzlichen Glückwunsch nachträglich
+","Das war knapp.
+Das war knapp.
+das war knapp
+Knapp daneben ist auch vorbei.
+Knapp daneben ist auch vorbei.
+Knapp vorbei ist auch daneben.
+Knapp vorbei ist auch daneben.
+knapp bei Kasse sein
+knapp bei Kasse
+Das war aber knapp.
+Das war aber knapp.
+mit knapper Not
+in knappster Form
+",,"Guten Morgen!
+Bis morgen!
+gleich morgen früh
+Guten Morgen allerseits!
+Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+","ganz aufgeregt
+wegen einer Sache ganz aufgeregt sein
+Das regt mich auf.
+","So lange!
+lange Rede, kurzer Sinn
+lange nicht gut genug
+eine lange Zeit schönen Wetters
+der lange Arm des Gesetzes
+Lange nicht mehr gesehen!
+Lange nicht gesehen!
+eine lange Leitung haben [fig.]
+Da kannst du lange warten!
+Darauf kannst Du lange warten!
+noch lange nicht
+Was lange währt, wird endlich gut.
+voraussichtlich nicht mehr lange leben
+eine ewig lange Zeit
+","schließlich und endlich
+Was lange währt, wird endlich gut.
+es muss endlich etwas passieren
+es muss endlich etwas passieren
+Fang endlich an zu leben! [coll.]
+Mach endlich was aus deinem Leben! [coll.]
+Werd endlich erwachsen! [coll.]
+","gleich morgen früh
+es ist noch zu früh
+Freu dich nicht zu früh!
+keine Minute zu früh
+frühester Endtermin
+Der frühe Vogel fängt den Wurm.
+frühester Termin für ein Ereignis
+","Ich bin schon unterwegs!
+",,"frei Schnauze
+frei unverzollt - Incoterms®
+bleibt frei
+Eintritt frei!
+Fahrt frei [Railroad (Amer.)/Railway (Brit.)]
+Rangierfahrt frei [Railroad (Amer.)/Railway (Brit.)]
+verbinden, wenn frei
+frei nach Schnauze
+frei wie ein Vogel
+frei von bekannten Schäden
+frei ein- und ausladen
+frei verladen und entladen
+Ich bin so frei!
+Fahrt frei mit Geschwindigkeitsbeschränkung
+jmdm. freie Hand lassen [fig.]
+halber freier Tag
+",,"Wer zuerst kommt, mahlt zuerst.
+Wer zuerst kommt, mahlt zuerst.
+der Letzte wird zuerst bedient
+mit dem linken Fuß zuerst aufstehen [fig.]
+den ersten zuerst bedienen
+die ältesten Anträge zuerst
+",
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -7845,6 +9103,125 @@ our competitors got there first
 small profits and quick returns
 by other expeditious means
 a rapid turnover of merchandise
+","particularly favorableAEparticularly favourableBE
+I'm no great shakes as a cook.
+a person of outstanding ability
+They have little interest in the subject.
+",,,"which can immediately be remitted
+promptly recover outlays
+He was released from his duties with immediate effect.
+Do it without delay!
+Come here this instant!
+It struck me right away.
+I'll see to it at once.
+Get ready at once!
+Send us what you can supply at once.
+which will have our immediate attention
+which will have our prompt attention
+delivery must be effected at once
+delivery must take place at once
+Give this order your prompt attention.
+the property passes at once
+will find a ready market
+","Actually, I don't fancy that.
+It depends.
+What makes you think that?
+How did you hit on that?
+his main thrust is to show
+I wouldn't bet on it
+I wouldn't bet on it
+He'll take a chance.
+He took his chances.
+That depends.
+I'm curious about it.
+I am looking forward to seeing him.
+It is imperative to take control.
+The smart money is on him winning.
+","in English
+English is spoken all over the world.
+He can speak English
+in English currency
+",,"like I said
+",,"leaving someone with a narrow margin for something [INSUR.]
+our prices are very competitive
+always short of money
+He just escaped being killed.
+He barely escaped being killed.
+money is tight
+supplies continue to be rather short
+in times of shortage
+when you are in short supply
+He won by a close vote.
+","then in force
+the then unknown village
+then entitled
+","You'll be back tomorrow, right?
+You'll be back tomorrow, won't you?
+He may come tomorrow.
+see me tomorrow
+I'm available on the phone tomorrow from 10 am.
+It's my birthday tomorrow.
+I'm to go tomorrow.
+I will call in again tomorrow.
+We can't solve these problems overnight.
+Could you lend me some money till tomorrow?
+It is understood that the meeting is taking place tomorrow.
+Dawn has broken.
+It will do tomorrow.
+I'll arrive a week tomorrow.
+",,"It won't last.
+long before the war
+He puzzled for a long time about what might have been the reason.
+She has been wanting to go to Hamburg/the Oktoberfest/the Victoria and Albert Museum/... for ages.
+but not for much longer
+how late are you open?
+a long lease
+How long ago?
+How long will you require to ...?
+How long will it take to ...?
+will not last long
+That was a long time ago.
+That takes just as long.
+How long has the firm been established?
+","Finally, we can celebrate an economic success.
+at last it's clear to me
+face it, ...
+Will you stop hitting each other!
+Will you stop hitting each other!
+Cut to the chase!
+","He works from morning to night.
+as early as possible
+as early as possible
+I will post the letter first thing tomorrow morning.
+He went to sleep early, as was his wont. [form.] dated
+earliest possible starting date
+as per account rendered
+Would you give us your earliest delivery day?
+in a previous version
+","delay or loss in transit
+",,"at your convenience
+free from other levies
+You are at liberty to go.
+You are free to go.
+you are at liberty to
+you are free to
+You're free to go.
+the seller shall be at liberty to
+I have a day off.
+You've a day off.
+no action shall lie against the insurer [abbr.: AHB] [INSUR.]
+Choose any seat you like.
+","will be carefully attended to
+will be carefully attended to
+will be carefully attended to
+will find our best care
+will have our best care
+will receive our best care
+careful packing is essential
+see that the goods are carefully packed
+for prompt and careful execution
+","whichever occurs first
+","He gave in gracefully.
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -8651,4 +10028,123 @@ unsere Konkurrenz war schneller
 kleine Gewinnspannen und schnelle Umsätze
 auf anderem schnellem Wege
 ein schneller Warenumschlag
+","besonders günstig
+Ich bin kein besonders guter Koch.
+eine besonders fähige Person
+Sie interessieren sich nicht besonders für das Thema.
+",,,"die sofort überwiesen werden kann
+Auslagen sofort zurückerlangen
+Er wurde sofort freigestellt.
+Tu es sofort!
+Komm sofort her!
+Es fiel mir sofort auf.
+Ich werde mich sofort darum kümmern.
+Mach dich sofort fertig!
+Senden Sie, was Sie sofort liefern können.
+welchem wir uns sofort widmen werden
+welchem wir uns sofort widmen werden
+die Anlieferung muss sofort erfolgen
+die Anlieferung muss sofort erfolgen
+Erledigen Sie den Auftrag sofort.
+das Eigentum geht sofort über
+wird vom Markt sofort angenommen werden
+","Darauf habe ich eigentlich keine Lust.
+Es kommt darauf an.
+Wie kommst du darauf?
+Wie sind Sie darauf gekommen?
+es kommt ihm hauptsächlich darauf an zu zeigen
+ich würde keine Wette darauf eingehen
+ich würde nicht darauf wetten
+Er lässt es darauf ankommen.
+Er ließ es darauf ankommen.
+Es kommt darauf an. infinitive: ankommen
+Ich bin darauf gespannt.
+Ich freue mich darauf, ihn zu sehen.
+Es kommt darauf an, die Kontrolle zu übernehmen.
+Insider setzen darauf, dass er gewinnt.
+","auf Englisch
+Englisch wird weltweit gesprochen.
+Er kann Englisch.
+in englischer Währung
+",,"wie ich bereits sagte
+",,"knapp kalkuliert
+unsere Preise sind knapp kalkuliert
+immer knapp bei Kasse
+Er entging knapp dem Tode.
+Er entging knapp dem Tode.
+das Geld ist knapp
+die Lieferungen sind weiterhin knapp
+in Zeiten, in denen die Ware knapp ist
+wenn Sie knapp an Ware sind
+Er gewann mit knapper Mehrheit.
+","damals gültig
+das damals unbekannte Dorf
+damals berechtigt
+","Morgen kommst du wieder, nicht wahr?
+Morgen kommst du wieder, nicht wahr?
+Er kommt vielleicht morgen.
+kommen Sie morgen zu mir
+Ich bin morgen ab 10 Uhr telefonisch erreichbar.
+Ich habe morgen Geburtstag infinitive: Geburtstag haben
+Ich soll morgen gehen.
+Ich werde morgen nochmals vorbeikommen.
+Diese Probleme können wir nicht von heute auf morgen lösen.
+Könntest du mir bis morgen etwas Geld leihen?
+Offenbar findet das Meeting morgen statt.
+Der Morgen dämmert.
+Es hat Zeit bis morgen.
+Ich komme morgen in acht Tagen.
+",,"Es wird nicht lange so bleiben.
+lange vor dem Krieg
+Er hat lange gerätselt, woran es gelegen haben könnte.
+Sie wollte schon lange einmal nach Hamburg/zum Oktoberfest/ins Victoria and Albert Museum ...
+aber nicht mehr lange
+wie lange haben Sie geöffnet?
+eine lange Pachtzeit
+Wie lange ist es her?
+Wie lange werden Sie brauchen, um ...?
+Wie lange wird es dauern, um ...?
+wird nicht lange halten
+Das ist schon lange her.
+Das dauert genauso lange.
+Wie lange besteht die Firma?
+","Endlich können wir einen wirtschaftlichen Erfolg feiern.
+jetzt blicke rarely: sehe ich endlich durch
+begreif's doch endlich
+Hört endlich auf, einander zu schlagen!
+Hört endlich auf, euch zu schlagen!
+Komm endlich zur Sache!
+","Er arbeitet von früh bis spät.
+so früh wie möglich
+so früh als möglich
+Ich werde den Brief gleich morgen früh in den Briefkasten werfen.
+Er ging früh ins Bett, wie er es immer zu tun pflegte.
+frühester Starttermin
+laut früherer Rechnung
+Würden Sie uns Ihren frühesten Liefertermin geben?
+in einer früheren Version
+","Verzögerung oder Verlust unterwegs
+",,"frei nach Ihren Vorstellungen
+frei von anderen Abgaben
+Es steht Ihnen frei, zu gehen.
+Es steht Ihnen frei, zu gehen.
+es steht Ihnen frei
+es steht Ihnen frei
+Es steht Ihnen frei zu gehen.
+es steht dem Verkäufer frei
+Ich habe einen Tag frei.
+Sie haben einen Tag frei.
+der Versicherer ist von der Verpflichtung zur Leistung frei
+Sie haben freie Platzwahl.
+","werden sorgfältig beachtet werden
+werden sorgfältig bedient werden
+werden sorgfältig befolgt werden
+werden sorgfältig erledigt
+werden sorgfältig erledigt
+werden sorgfältig erledigt
+die sorgfältige Verpackung ist notwendig
+achten Sie auf sorgfältige Verpackung
+zur prompten und sorgfältigen Erledigung
+","je nachdem, was zuerst eintritt
+","Er gab charmant nach. infinitive: nachgeben
 "

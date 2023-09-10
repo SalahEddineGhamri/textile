@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -63,8 +63,32 @@ das Normal : Noun
 der Arm : Noun
 ","schwer : Adjective
 ","das Tausend : Noun
+",None,"normal : Adjective
+","sozial : Adjective
+","nah : Adjective
+nächste : Adjective
+nahe : Adjective
+das Nächste : Noun
+",None,None,"aufregend : Adjective
+aufregen : Verb
+","gepackt : Adjective
+","malerisch : Adjective
+","grün : Adjective
+die Grüne : Noun
+der Grüne : Noun
+","klein : Adjective
+der Kleine : Noun
+die Kleine : Noun
+","gemütlich : Adjective
+","leck : Adjective
+","perfekt : Adjective
+das Perfekt : Noun
+","erfrischend : Adjective
+erfrischen : Verb
+","neu : Adjective
+","leck : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -465,7 +489,101 @@ sth. is difficult for so.
 to overtax | overtaxed, overtaxed |
 to load | loaded, loaded |
 to weight sth. | weighted, weighted |
-",None
+",None,"to stand in the forefront
+to cut one's teeth
+to apply first layer
+to get one's feet wet [fig.]
+to render first aid [MED.]
+to get first dibs on sth. (Amer.)
+to have first dibs on sth. (Amer.)
+to act like one was born yesterday
+to be first off the mark
+","to proceed as normal
+to think nothing of sth.
+to go back to normal
+to go back to normal
+to work unsocial hours
+","to climb the social ladder
+to climb the social ladder
+to turn so. into a social outcast
+to fall through the cracks [coll.]
+","to extend into the next century
+to round to the nearest ten
+to wait for the other shoe to drop chiefly (Amer.) [fig.]
+",None,"to extend into the next century
+to round to the nearest ten
+to wait for the other shoe to drop chiefly (Amer.) [fig.]
+","to upset so. | upset, upset |
+to discompose | discomposed, discomposed |
+to agitate so. | agitated, agitated |
+to fluster so. | flustered, flustered |
+to annoy so. | annoyed, annoyed |
+to flurry so. | flurried, flurried |
+to vex so. | vexed, vexed |
+to faze so. | fazed, fazed |
+to shock so. | shocked, shocked |
+to unsettle so. | unsettled, unsettled |
+to excite so. | excited, excited |
+to be exercised
+to fuss | fussed, fussed |
+to get in a lather
+","to be brimming with sth.
+",,"to beat so. black and blue
+to be furious
+to dislike so. | disliked, disliked |
+to be wet behind the ears [fig.]
+to sit by so.
+","to retail | retailed, retailed |
+to buy retail
+to cave in
+to back down
+to sing small
+to chop | chopped, chopped |
+to chop | chopped, chopped |
+to cut up into small pieces
+to cut up small
+to chop sth. ⇔ up
+to cut sth. ⇔ up
+to hash sth. | hashed, hashed |
+to chop sth. ⇔ up
+to hash sth. | hashed, hashed |
+","to stroll up sth.
+to settle back
+to shoot the breeze (Amer.) [coll.]
+to shoot the bull (Amer.) [sl.]
+to take it easy
+to nestle | nestled, nestled |
+to curl up
+to settle in
+to ensconce oneself in sth. - settle snugly
+","to leak | leaked, leaked |
+to spring a leak
+","to have sth. down to a fine art
+to have sth. down pat
+to have sth. down cold [coll.] chiefly (Amer.)
+to be from central casting
+to clinch a deal
+","to refresh oneself
+to rest | rested, rested |
+to recreate so. | recreated, recreated |
+to refresh so. | refreshed, refreshed |
+","to restart | restarted, restarted |
+to reprocess | reprocessed, reprocessed |
+to revalue | revalued, revalued |
+to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
+to reappraise | reappraised, reappraised |
+to rerate | rerated, rerated |
+to reassess | reassessed, reassessed |
+to reappraise | reappraised, reappraised |
+to reclassify | reclassified, reclassified |
+to reapportion | reapportioned, reapportioned |
+to recoin | recoined, recoined | - remint
+to restamp | restamped, restamped |
+to repaper | repapered, repapered |
+to repopulate | repopulated, repopulated |
+","to leak | leaked, leaked |
+to spring a leak
+"
 verbs,german,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
@@ -866,7 +984,101 @@ etw.nom. fällt jmdm. schwer infinitive: schwerfallen
 schwer besteuern
 schwerer machen
 etw.acc. schwerer machen
-",None
+",None,"zu den Ersten gehören
+erste Erfahrungen sammeln
+die erste Lage auflegen
+erste Erfahrungen sammeln
+erste Hilfe leisten
+bei etw.dat. die erste Wahl haben
+bei etw.dat. die erste Wahl haben
+sichacc. anstellen wie der erste Mensch
+als Erster aus den Startlöchern kommen
+","wie gewohnt verfahren
+etw.acc. ganz normal finden
+wieder zur Tagesordnung übergehen
+zur Normalität zurückkehren
+außerhalb der normalen Arbeitszeiten arbeiten
+","sozial aufsteigen
+den sozialen Aufstieg schaffen
+jmdn. aufs soziale Abstellgleis schieben
+durch das soziale Netz fallen
+","sichacc. ins nächste Jahrhundert erstrecken
+auf die nächste Zehnerstelle runden
+auf die nächste Hiobsbotschaft warten
+",None,"sichacc. ins nächste Jahrhundert erstrecken
+auf die nächste Zehnerstelle runden
+auf die nächste Hiobsbotschaft warten
+","jmdn. aufregen | regte auf, aufgeregt |
+aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt |
+jmdn. aufregen | regte auf, aufgeregt | - in Erregung versetzen
+sichacc. aufregen | regte auf, aufgeregt |
+sichacc. aufregen | regte auf, aufgeregt |
+sichacc. aufregen | regte auf, aufgeregt |
+","mit etw.dat. voll gepackt sein
+",,"jmdn. grün und blau schlagen
+sichacc. grün und blau ärgern
+jmdm. nicht grün sein
+noch grün hinter den Ohren sein [fig.]
+an jmds. grüner Seite sitzen [hum.]
+","im Kleinen wiederverkaufen
+im Kleinen kaufen
+klein beigeben
+klein beigeben
+klein beigeben
+kleinhacken or: klein hacken | hackte klein, kleingehackt |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinhacken or: klein hacken | hackte klein, kleingehackt |
+etw.acc. kleinhacken or: klein hacken | hackte klein, kleingehackt |
+","etw.acc. gemütlich hinaufspazieren
+sichacc. gemütlich zurücklehnen
+sichacc. gemütlich unterhalten
+sichacc. gemütlich unterhalten
+es gemütlich angehen
+es sichdat. gemütlich machen
+es sichdat. gemütlich machen
+es sichdat. gemütlich machen
+es sichdat. in etw.dat. gemütlich machen
+","leck sein
+leck schlagen
+","etw.acc. perfekt beherrschen
+etw.acc. perfekt beherrschen
+etw.acc. perfekt beherrschen
+perfekt geplant sein
+einen Handel perfekt machen
+","sichacc. erfrischen | erfrischte, erfrischt |
+sichacc. erfrischen | erfrischte, erfrischt |
+jmdn. erfrischen | erfrischte, erfrischt |
+jmdn. erfrischen | erfrischte, erfrischt |
+","neu starten
+neu bearbeiten
+neu bewerten
+neu bewerten
+neu bewerten
+neu bewerten
+neu einschätzen
+neu einschätzen
+neu einteilen
+neu einteilen
+neu prägen
+neu prägen
+neu tapezieren
+neu besiedeln
+","leck sein
+leck schlagen
+"
 nouns,english,"previous debt
 former quotations
 back issue
@@ -1371,6 +1583,162 @@ hooded eyes pl.
 thousand
 thousands of
 cost per mille [abbr.: CPM]
+","the first
+first payment
+maid of honor (Amer.)
+first issue
+first harmonic
+fundamental component
+fundamental oscillation
+fundamental wave
+choice quality
+first-class quality
+top quality
+first derivative
+first difference
+first class
+","standard adult
+normal market
+normal course of life
+normal consumption
+regular channel
+normal operation [TECH.]
+normal course of operations [TECH.]
+normal use [TECH.]
+dependent point lock [TECH.]
+conservation water level [TECH.]
+normal water level [TECH.]
+mild steel [TECH.]
+normal scour [GEOL.]
+normal input [COMM.]
+","socially deprived
+the socially disadvantaged
+socially deprived
+the socially disadvantaged
+social class
+social media pl., rarely in singular: social medium
+social mobility
+social skills
+social skills
+people skills plural noun
+soft skills pl.
+interpersonal skills
+council housing (Brit.)
+social housing
+","next
+next
+next time
+next semester
+vicinity
+next of kin
+near future
+kinship
+the following day
+the next day
+underlayer [GEOL.]
+near infrared radiation [ELEC.]
+shortwave infrared radiation [ELEC.]
+Near East - Middle East - term commonly used by historians, archaeologists and geographers
+","Fourth Sunday of (or: in) Advent [REL.]
+moderate breeze [METEO.]
+fundamental catalogAE 4 [abbr.: FK4]fundamental catalogueBE 4 [abbr.: FK4]
+4-quadrant chopper [abbr.: 4 QC] [TECH.]
+4-2-4 system [SPORT.]
+4-3-3 system [SPORT.]
+4-4-2 system [SPORT.]
+4-pyridoxic acid [CHEM.]
+four point bending test [TECH.]
+4-bit byte (Amer.) [TELECOM.]
+quartetAE [TELECOM.]quartetBE / quartetteBE [TELECOM.]
+quartet byte [TELECOM.]
+4 cycles control mode [TECH.]
+4-wire terminating set [TELECOM.]
+","next
+next
+next of kin
+the following day
+the next day
+underlayer [GEOL.]
+next executable statement
+wraparound or: wrap-around [COMP.]
+",,"packed format
+packed decimal [MATH.]
+gravity masonry dam [TECH.]
+masonry gravity dam [TECH.]
+masonry dam [TECH.]
+stone masonry dam [TECH.]
+dry masonry dam [TECH.]
+dry rubble dam [TECH.]
+gravity stone masonry dam [TECH.]
+rubble masonry dam [TECH.]
+stone masonry gravity dam [TECH.]
+close packed hexagonal [abbr.: c. p. h.] [TECH.]
+","quaintness
+picturesque old town
+","verdancy
+the Greens pl. [POL.]
+the Green Party [POL.]
+verdancy
+Green [POL.]
+member of the Green Party [POL.]
+The Greens [POL.]
+green revolution
+green box
+international insurance card
+the Emerald Isle
+paddy wagon (Amer.)
+spearmint [BOT.]
+frog orchid [BOT.]
+","the little ones
+sonny
+kid [coll.]
+shorty [coll.]
+lesser pipefish
+burnet saxifrage [BOT.]
+lesser burnet saxifrage [BOT.]
+burnet saxifrage [BOT.]
+lesser burnet saxifrage [BOT.]
+Chacoan mara [ZOOL.]
+Gulf of Gabès [GEOG.]
+grape hyacinth [BOT.]
+common grape-hyacinth [BOT.]
+common duckweed [BOT.]
+","feather bed
+snuggery
+snug lodgings
+snug berth
+tavern archaic also (Amer.)
+","tastiness
+","present perfect [LING.]
+perfect [LING.]
+perfect tense [LING.]
+perfect timing
+frictionless flow [PHYS.]
+ideal flow [PHYS.]
+inviscid flow [PHYS.]
+nonviscous flow [PHYS.]
+perfect flow [PHYS.]
+frictionless fluid [PHYS.]
+ideal fluid [PHYS.]
+inviscid fluid [PHYS.]
+nonviscous fluid [PHYS.]
+perfect fluid [PHYS.]
+","bracing climate
+","New Year
+new edition
+reformulation
+reanalysis - pl.: reanalyses
+new Länder
+New Laender pl.
+reanimation
+revalidation
+new approach
+expanded town
+new town (Brit.)
+reinterpretation
+redistribution
+revote
+","tastiness
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -1876,6 +2244,162 @@ schwere Lider pl.
 das Tausend pl.: die Tausende
 Tausende (or: tausende) von +dat.
 der Tausend-Kontakt-Preis [abbr.: TKP]
+","der, die, das Erste pl.
+erste Zahlung
+erste Brautjungfer
+erste Emission
+erste Harmonische
+erste Harmonische
+erste Harmonische
+erste Harmonische
+erste Qualität
+erste Qualität
+erste Qualität
+erste Ableitung
+erste Differenz
+erste Klasse
+","normaler Erwachsener
+normaler Markt
+normaler Alltag
+normaler Verbrauch
+normaler Weg
+normaler Betrieb
+normaler Betriebsablauf
+normaler Gebrauch [Machines]
+normaler Weichenverschluss [Railroad (Amer.)/Railway (Brit.)]
+normaler Beckenwasserstand
+normaler Beckenwasserstand
+normaler Flussstahl
+normaler Kolk
+normaler Produktionsfaktor
+","sozial Benachteiligte
+sozial Benachteiligte pl.
+sozial Schwache
+sozial Schwache pl.
+soziale Klasse
+soziale Medien pl., rarely in sg.
+soziale Mobilität
+soziale Fertigkeiten
+soziale Kompetenz
+soziale Kompetenz
+soziale Kompetenz
+soziale Kompetenz
+sozialer Wohnungsbau
+sozialer Wohnungsbau
+","das Nächste no plural
+der Nächste | die Nächste pl.: die Nächsten
+nächstes Mal
+nächstes Semester
+nahe Umgebung
+nächste Angehörige
+nahe Zukunft
+nahe Verwandtschaft
+der nächste Tag
+der nächste Tag
+nächste Schicht
+nahe Infrarotstrahlung
+nahe Infrarotstrahlung
+Naher Osten
+","vierter Advent or: 4. Advent - Adventssonntag
+Windstärke 4
+Fundamentalkatalog 4 [abbr.: FK4] [Geodetics]
+der Vierquadrantensteller or: 4-Quadrantensteller pl.: die Vierquadrantensteller [Railroad (Amer.)/Railway (Brit.)]
+das 4-2-4-System [Football]
+das 4-3-3-System [Football]
+das 4-4-2-System [Football]
+die 4-Pyridoxsäure
+der Vierpunkt-Biegeversuch or: 4-Punkt-Biegeversuch
+das 4-bit-Zeichen
+das 4-bit-Zeichen
+das 4-bit-Zeichen
+das 4-Takt-System
+das Vierdraht-Abschlussgerät or: 4-Draht-Abschlussgerät
+","das Nächste no plural
+der Nächste | die Nächste pl.: die Nächsten
+nächste Angehörige
+der nächste Tag
+der nächste Tag
+nächste Schicht
+nächste ausführbare Anweisung
+Übertrag auf nächste Zeile - in der Textverarbeitung
+",,"gepacktes Format
+gepackte Dezimalzahl
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepackter Steindamm
+gepacktes hexagonales Gitter - Kristallgitter
+","malerische Eigenart
+malerische Altstadt
+","das Grünen no plural
+die Grünen pl.
+die Grünen pl.
+das Grüne no plural
+der Grüne | die Grüne pl.: die Grünen
+der Grüne | die Grüne pl.: die Grünen
+Die Grünen
+Grüne Revolution
+Grüne Liste
+Grüne Versicherungskarte
+die Grüne Insel - Irland
+die ""Grüne Minna"" - Polizeiwagen f. Gefangene
+Grüne Minze Lat.: Mentha spicata
+Grüne Hohlzunge Lat.: Coeloglossum viride, Dactylorhiza viridis
+","die Kleinen pl.
+der Kleine pl.: die Kleinen
+der Kleine | die Kleine pl.: die Kleinen
+der Kleine | die Kleine pl.: die Kleinen [coll.]
+Kleine Seenadel
+Kleine Bibernelle Lat.: Pimpinella saxifraga
+Kleine Bibernelle Lat.: Pimpinella saxifraga
+Kleine Pimpinelle Lat.: Pimpinella saxifraga
+Kleine Pimpinelle Lat.: Pimpinella saxifraga
+Kleine (or: Kleiner, Kleines) Mara Lat.: Dolichotis salinicola
+Kleine Syrte
+Kleine Traubenhyazinthe Lat.: Muscari botryoides
+Kleine Traubenhyazinthe Lat.: Muscari botryoides
+Kleine Wasserlinse Lat.: Lemna minor
+","gemütliche Sache
+gemütliche Stube
+gemütliche Bude
+gemütliche Liegestatt
+gemütliche Gaststätte
+","leckerer Geschmack
+","das Perfekt pl.
+das Perfekt pl. [Grammar]
+das Perfekt pl. [Grammar]
+perfektes Timing
+perfektes Fließen
+perfektes Fließen
+perfektes Fließen
+perfektes Fließen
+perfektes Fließen
+perfektes Strömungsmedium
+perfektes Strömungsmedium
+perfektes Strömungsmedium
+perfektes Strömungsmedium
+perfektes Strömungsmedium
+","erfrischendes Klima
+","das neue Jahr
+neue Auflage
+neue Darlegung
+neue Darlegung
+Neue Bundesländer
+Neue Bundesländer pl.
+neue Belebung
+neue Gültigkeit
+neue Konzeption
+neue Stadt
+neue Stadt
+neue Übersetzung
+neue Verteilung
+neue Abstimmung
+","leckerer Geschmack
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -2141,8 +2665,104 @@ genus:
 plural: 
 meaning: chiliad
 thousand
+","article: Die
+word: die,
+genus: 
+plural: 
+meaning: the first
+first payment
+","article: normaler
+word: Erwachsener
+genus: 
+plural: Erwachsener
+meaning: standard adult
+normal market
+","article: sozial
+word: Benachteiligte
+genus: 
+plural: Benachteiligte
+meaning: socially deprived
+the socially disadvantaged
+","article: das
+word: Nächste
+genus: NEUT
+plural: plural
+meaning: next
+next
+","article: vierter
+word: Advent
+genus: 
+plural: Adventssonntag
+meaning: Fourth Sunday of (or: in) Advent [REL.]
+moderate breeze [METEO.]
+","article: das
+word: Nächste
+genus: NEUT
+plural: plural
+meaning: next
+next
+",,"article: gepacktes
+word: Format
+genus: 
+plural: Format
+meaning: packed format
+packed decimal [MATH.]
+","article: malerische
+word: Eigenart
+genus: 
+plural: Eigenart
+meaning: quaintness
+picturesque old town
+","article: Das
+word: Grüne
+genus: NEUT
+plural: plural
+meaning: verdancy
+the Greens pl. [POL.]
+","article: Die
+word: Kleinen
+genus: FEMI
+plural: 
+meaning: the little ones
+sonny
+","article: gemütliche
+word: Sache
+genus: 
+plural: Sache
+meaning: feather bed
+snuggery
+","article: leckerer
+word: Geschmack
+genus: 
+plural: Geschmack
+meaning: tastiness
+
+","article: das
+word: Perfekt
+genus: NEUT
+plural: 
+meaning: present perfect [LING.]
+perfect [LING.]
+","article: erfrischendes
+word: Klima
+genus: 
+plural: Klima
+meaning: bracing climate
+
+","article: Die
+word: Neue
+genus: NEUT
+plural: Jahr
+meaning: New Year
+new edition
+","article: leckerer
+word: Geschmack
+genus: 
+plural: Geschmack
+meaning: tastiness
+
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -2623,6 +3243,148 @@ hefty adj.
 heavy-weight adj.
 full-bodied adj.
 ","per mill (or: mil, mille)
+","first adj.
+lead adj. - used before noun
+leadoff adj.
+for now
+for the time being
+as a start
+for a start
+for starters [coll.]
+first of all
+","common adj.
+normal adj.
+conventional adj.
+general adj.
+ordinary adj.
+regular adj.
+usual adj.
+standard adj.
+normal adj.
+simple - fault scarp adj. [GEOL.]
+natural adj.
+normative adj.
+standardizedAE adj.standardisedBE / standardizedBE adj.
+normal adj.
+","social adj.
+caring adj.
+public-spirited adj.
+socially minded
+deprived adj.
+socially disadvantaged
+socially optimal
+socially deprived
+upwardly mobile
+lower income [ECON.]
+","next adv.
+close (to) adj.
+nearby adj.
+near adj.
+proximal adj.
+contiguous adj.
+close-by adj.
+impending adj.
+in the short run
+proximate adj.
+next adj.
+proximate adj.
+nearest adj.
+nearby adj.
+","4-wheel adj.
+doubly even [MATH.]
+","next adj.
+proximate adj.
+nearest adj.
+in the short run
+proximate adj.
+next adv.
+by next week
+","exciting adj.
+bodacious adj.
+exhilarating adj.
+unsettling adj.
+agitating adj.
+white-knuckle or: white-knuckled adj. - used before noun
+heady adj.
+thrilling adj.
+unexciting adj.
+unsensational adj.
+uninspiring adj.
+","clutched adj.
+gripped adj.
+packed adj. [TECH.]
+brimming adj.
+packed decimal
+","quaint adj.
+scenic adj.
+pictorial adj.
+picturesque adj.
+","green adj.
+raw adj.
+ecological adj. [POL.]
+verdant adj.
+immature adj.
+verdant adj. [fig.] rare
+glaucous adj.
+viridian adj.
+chartreuse adj.
+greenfield adj.
+half-baked adj. (Amer.)
+","in little
+little - less, least adj.
+short adj. - of a person
+small adj.
+slight adj.
+minor adj. - interval [MUS.]
+diminutive adj.
+exiguous adj.
+petty - minor adj.
+bantam adj.
+runty adj.
+toy adj.
+dwarfish adj.
+mini adj.
+","comfortable adj.
+cozyAE / cosyBE adj.
+gemutlich or: gemütlich adj. - cosy, comfortable
+homely adj. (Brit.)
+placid adj.
+snug adj.
+unhurried adj.
+gemütlich or: gemuetlich adj. German
+homelike adj.
+homey or: homy adj.
+jovial adj.
+cushy adj. - of a job: easy, comfortable
+comfy [coll.] - short for ""comfortable"" adj.
+cushty adj. [coll.] (Brit.) - pleasing
+canny adj. (Scot.)
+snuggish adj.
+at a leisurely pace
+","leaky adj.
+","ideal adj.
+perfect adj.
+consummate adj.
+immaculate adj.
+","bracing adj.
+invigorating adj.
+exhilarant adj.
+refreshing adj.
+","anew adv.
+new adj.
+novel adj.
+recent adj.
+nouveau adj.
+fledgling - used before noun - new adj.
+latest adj.
+recent adj.
+freshest adj.
+another adj. pron. - different person/thing
+newly constructed
+reformative adj.
+newly founded
+newly-created adj.
+","leaky adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -3104,6 +3866,148 @@ schwer
 schwer
 schwer
 ","vom Tausend [abbr.: v.T.]
+","als Erster | Erste | Erstes
+erster | erste | erstes
+erster | erste | erstes
+fürs Erste
+fürs Erste
+fürs Erste
+fürs Erste
+fürs Erste
+als Erstes
+","normal
+normal
+normal
+normal
+normal
+normal
+normal
+normal
+üblich
+normal - Verwerfungsabsturz
+normal
+normal
+normal
+senkrecht
+","sozial
+sozial
+sozial gesinnt
+sozial gesinnt
+sozial benachteiligt
+sozial benachteiligt
+sozial optimal
+sozial schwach
+sozial aufsteigend
+sozial schwach
+","als Nächstes
+nah or: nahe (an)
+nah or: nahe
+nah or: nahe
+nah or: nahe
+nah or: nahe
+nah or: nahe
+nah
+fürs nächste
+das nächste
+nächster | nächste | nächstes
+nächster | nächste | nächstes
+nächster | nächste | nächstes
+nahe liegend or: naheliegend
+","Allrad...
+teilbar durch 4
+","nächster | nächste | nächstes
+nächster | nächste | nächstes
+nächster | nächste | nächstes
+fürs nächste
+das nächste
+als Nächstes
+bis spätestens nächste Woche
+","aufregend
+aufregend
+aufregend
+aufregend
+aufregend
+aufregend
+aufregend
+aufregend
+nicht aufregend
+nicht aufregend
+nicht gerade aufregend
+","gepackt
+gepackt
+gepackt
+voll gepackt
+dezimal gepackt
+","malerisch
+malerisch
+malerisch
+malerisch
+","grün - Farbe
+grün
+grün
+grün
+grün - unreif
+grün [fig.] - unerfahren
+gräulich (or: graulich) grün
+blau-grün
+gelblich-grün
+auf der grünen Wiese
+noch grün hinter den Ohren
+","im Kleinen
+klein
+klein
+klein
+klein
+klein - Intervall
+klein
+klein
+klein
+klein
+klein
+klein
+klein
+klein
+","gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich
+gemütlich - angenehm
+gemütlich
+gemütlich - angenehm
+gemütlich
+recht gemütlich
+in gemütlichen Schritten
+","leck
+","perfekt
+perfekt
+perfekt
+perfekt
+","erfrischend
+erfrischend
+erfrischend
+erfrischend
+","aufs Neue
+neu
+neu
+neu
+neu
+neu
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+ein neuer | eine neue | ein neues
+neu erbaut
+neu bildend
+neu gegründet
+neu gegründet
+","leck
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -3401,7 +4305,71 @@ so. is worth ... million
 a bad egg
 to have a head
 ","Thanks a bomb! (Aust.; Brit.) - used ironically [coll.]
-"
+","A1 at Lloyd's [fig.]
+to call the tune [fig.]
+my first care was for
+a big fish in a small pond
+sth. is a ripsnorter (or: rip-snorter) [coll.]
+","business as usual
+a regular bloke (Brit.) [coll.]
+",None,"What happens next?
+please turn over [abbr.: p. t. o.]
+pace prep.
+May I have the pleasure of the next dance?
+May I have the next dance?
+Blood is thicker than water.
+not specified
+",None,"please turn over [abbr.: p. t. o.]
+What happens next?
+","That gets my goat. [coll.]
+to be all aflutter about sth.
+",,,"to have a green thumb (Amer.) [fig.]
+to have green fingers (Brit.) [fig.]
+to get nowhere
+not to get anywhere
+in the open countryside
+to praise so./sth. to the skies [fig.]
+the black Maria
+gorblimey (Brit.) [coll.]
+to be hopping mad
+green with envy [fig.]
+There's no love lost between them.
+to be half-baked (Amer.) [fig.]
+to give the go-ahead (for sth.)
+to give so. the green light
+to greenlight (or: green-light) sth. | greenlighted/greenlit, greenlighted/greenlit / green-lighted/green-lit, green-lighted/green-lit | [coll.] chiefly (Amer.)
+to give sth. the thumbs up
+","Give him an inch and he will take a mile.
+Give him an inch and he will take an ell.
+penny-wise and pound-foolish
+A small leak will sink a great ship.
+small but nice
+small but powerful
+It's a small world!
+a little something
+a slight niggle - trivial complaint
+a naughty little beggar
+a slight niggle - trivial complaint
+a wee problem
+little black dress [abbr.: LBD]
+a modicum
+",,,"nobody's perfect
+nobody's perfect
+",,"New brooms sweep clean.
+A new broom sweeps clean.
+new suits at the 2-level - bridge
+Happy New Year!
+almost as new
+immaculate condition throughout
+new for old
+a new arrival
+a new lease of life
+a new coat of whitewash
+a new low-point
+Let's try again!
+new wine in old bottles
+to open a whole new can of worms [fig.]
+",
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -3698,7 +4666,71 @@ jemand ist ... Millionen schwer
 ein schwerer Junge
 einen schweren Kopf haben
 ","Tausend Dank, auch! - ironisch
-"
+","erste Klasse
+die erste Geige spielen [fig.]
+meine erste Sorge galt
+lieber der Erste im Dorf als der Zweite in Rom
+etw.nom. ist erste Sahne infinitive: erste Sahne sein [coll.] [fig.]
+","normaler Betrieb
+ein ganz normaler Typ
+",None,"Was passiert als Nächstes?
+siehe nächste Seite
+ohne jmdm. zu nahe treten zu wollen
+Darf ich um den nächsten Tanz bitten?
+Darf ich um den nächsten Tanz bitten?
+Das Hemd ist näher als der Rock.
+ohne nähere Angabe
+",None,"siehe nächste Seite
+Was passiert als Nächstes?
+","Das regt mich auf.
+wegen einer Sache ganz aufgeregt sein
+",,,"einen grünen Daumen haben [fig.]
+einen grünen Daumen haben [fig.]
+auf keinen grünen Zweig kommen
+auf keinen grünen Zweig kommen [fig.]
+auf der grünen Wiese [fig.]
+jmdn./etw. über den grünen Klee loben [fig.]
+die grüne Minna - Polizeiwagen
+ach du grüne Neune [coll.]
+sichacc. grün und blau ärgern
+grün vor Neid [fig.]
+Sie sind sichdat. nicht grün.
+noch grün hinter den Ohren sein [fig.]
+grünes Licht (für etw.acc.) geben [fig.]
+jmdm. grünes Licht geben [fig.]
+grünes Licht für etw.acc. geben [fig.]
+einer Sache grünes Licht geben
+","Gib ihm den kleinen Finger und er nimmt die ganze Hand.
+Gib ihm den kleinen Finger und er nimmt die ganze Hand.
+sparsam im Kleinen, doch verschwenderisch im Großen
+Kleine Ursachen, große Wirkungen.
+klein, aber fein
+klein, aber oho
+Die Welt ist klein!
+eine kleine Aufmerksamkeit
+eine kleine Unzufriedenheit
+ein kleiner Schelm
+ein kleiner Kritikpunkt
+ein kleines Problem
+das kleine Schwarze - Abendkleid
+eine kleine Menge
+",,,"keiner ist perfekt
+niemand ist perfekt
+",,"Neue Besen kehren gut.
+Neue Besen kehren gut.
+neue Farben auf der 2er-Stufe [Card Games]
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+fast wie neu [abbr.: fwn] - Bücher
+wie neu
+neu für alt
+ein neuer Erdenbürger
+ein neuer Start
+ein neuer Anstrich
+ein neuer Tiefpunkt
+Auf ein Neues!
+neuer Wein in alten Flaschen
+ein neues Fass aufmachen [fig.] - neues Problem anschneiden
+",
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -4065,7 +5097,71 @@ Life is difficult for a mother of five.
 The hard years had worked me over.
 Death released him from his severe sufferings.
 by a serious mistake
-",None
+",None,"a first mortgage of
+first half of the month
+only prime quality
+only first quality will serve our purpose
+its first period of prosperity
+","the normal fluctuation margins provided for by the exchange rate mechanism of the EMS [POL.]
+outside normal working hours
+indeterminate solution of the normal equations [MATH.]
+normally procurable
+normally used
+as are normally necessary
+a compromise is normally agreed
+","all social classes
+same social position
+","We are close relatives.
+as early as next month
+for the beginning of next week
+We would have to talk about this.
+resident for the next term
+We shall not know until next year.
+The book continued in installmentsAE over the next several months.The book continued in instalmentsBE over the next several months.
+Please forward the goods by the next steamer.
+for the next account
+","4 points below zero
+see page 4
+",None,,"She's got the travel bug.
+Now he's got the bug. [coll.] - obsession
+","a number of picturesque places
+","He will never get anywhere.
+He's half-baked. (Amer.)
+","Care to place a bet?
+by a slight mistake
+she teaches tiddlers [coll.]
+as small as possible
+our margin on this transaction is too small
+small profits and quick returns
+a small error has crept in
+ready to work on a small commission
+a minute amount
+a slight difference
+a small margin of profit
+relatively modest risk
+Our prices leave hardly any margin.
+Our prices leave us with a narrow margin.
+Even a small amount will make a difference.
+a wholesaler breaks bulk
+",,"The ship has sprung a leak.
+","This job would be perfect if there was a little less stress.
+a perfect foil to ...
+",,"enclosed you will find our corrected account
+a new branch of our business
+a new world economic order
+a young company
+I've spilt some soup on my new blouse!
+Sixty is the new forty.
+She earns lots of money, most of which she spends on new clothes.
+the new pattern sells well
+We are in search of a new market.
+a newly established company
+The time is ripe to begin afresh.
+That's news to me.
+If a student loses their ID card, they have to pay for a new one.
+the new rules replace the old rules
+","The ship has sprung a leak.
+"
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -4432,4 +5528,68 @@ Als Mutter von fünf Kindern hat man es schwer.
 Die schweren Jahre hatten mich mitgenommen.
 Der Tod erlöste ihn von seinem schweren Leiden.
 durch einen schweren Irrtum
-",None
+",None,"erste Hypothek
+erste Hälfte des Monats
+nur erste Qualität
+nur erste Qualität ist gefragt
+seine erste Blütezeit
+","die Bandbreiten des EWS [EU]
+außerhalb der üblichen Geschäftszeiten
+unbestimmte Auflösung der Normalgleichungen
+normalerweise zu beschaffen
+normalerweise verwendet
+wie sie normalerweise erforderlich sind
+in der Regel wird ein Kompromiss gefunden
+","alle sozialen Schichten
+gleiche soziale Stellung
+","Wir sind nahe verwandt.
+schon nächsten Monat
+für Anfang nächster Woche
+Wir müssten dies näher besprechen.
+wohnhaft im nächsten Semester
+Wir können es erst im nächsten Jahr erfahren.
+Das Buch erschien die nächsten Monate in Fortsetzungsfolgen.
+Bitte versenden Sie die Waren mit dem nächsten Dampfer.
+mit nächster Rechnung zu verrechnen
+","4 Grad unter null
+siehe Seite 4
+",None,,"Die Reiselust hat sie gepackt.
+Jetzt hats ihn gepackt. [coll.]
+","eine Reihe malerischer Orte
+","Er wird nie auf einen grünen Zweig kommen.
+Er ist noch grün hinter den Ohren.
+","Wie wärs mit einer kleinen Wette?
+durch einen kleinen Fehler
+sie unterrichtet die ganz Kleinen
+möglichst klein
+unsere Spanne ist zu klein
+kleine Gewinnspannen und schnelle Umsätze
+ein kleiner Fehler hat sich eingeschlichen
+bereit mit kleiner Provision zu arbeiten
+ein kleiner Betrag
+eine kleine Abweichung
+eine kleine Gewinnspanne
+ziemlich kleines Risiko
+Unsere Preise lassen nur eine kleine Spanne.
+Unsere Preise lassen nur eine kleine Spanne.
+Schon eine kleine Menge macht einen Unterschied.
+ein Großhändler packt Ware kleiner ab
+",,"Das Schiff ist leck geschlagen.
+","Dieser Job wäre perfekt, wenn er ein bisschen weniger stressig wäre.
+ein perfekter Hintergrund für ...
+",,"neue Rechnung anbei
+eine neue Filiale unseres Geschäftes
+eine neue weltwirtschaftliche Ordnung
+eine neue Firma
+Ich habe etwas Suppe auf meine neue Bluse gekleckert!
+Sechzig ist das neue Vierzig.
+Sie verdient einen Haufen Geld, von dem sie das Meiste (or: meiste) für neue Klamotten ausgibt.
+das neue Muster geht gut
+Wir suchen eine neue Absatzmöglichkeit.
+eine neu gegründete Firma
+Die Zeit ist reif, neu anzufangen.
+Das ist mir neu.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+die neuen Richtlinien ersetzen die alten
+","Das Schiff ist leck geschlagen.
+"

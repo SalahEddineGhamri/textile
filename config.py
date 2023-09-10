@@ -11,7 +11,7 @@ PREPOSITIONS_CACHE_FILE = Path('cache/prepositions.csv')
 ARTICLES_CACHE_FILE = Path('cache/articles.csv')
 ANKI_PATH = Path('./anki')
 
-INPUT_PATH = "./texts/krawalle_in_Frankreich.txt"
+INPUT_PATH = "./texts/autofahren_nach_frankreich.txt"
 
 # Create the directory if not found
 VERBS_CONJUGATION_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)

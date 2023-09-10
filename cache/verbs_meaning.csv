@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -181,8 +181,31 @@ geben : Verb
 sich aufklären : Verb
 ","verurteilen : Verb
 ",,"mobilisieren : Verb
+","die Stelle : Noun
+","schauen : Verb
+","leiden : Verb
+","behandeln : Verb
+sich behandeln : Verb
+","veröffentlichen : Verb
+","der Druck : Noun
+der Druck : Noun
+",,"sich stehen : Verb
+stehen : Verb
+",,,"vorwerfen : Verb
+sich vorwerfen : Verb
+","versuchen : Verb
+sich versuchen : Verb
+","fehlen : Verb
+","auffordern : Verb
+",,,"zurückweisen : Verb
+","die Reise : Noun
+der Reis : Noun
+","warten : Verb
+","der Besuch : Noun
+",,,,,,,"der Anhalt : Noun
+","der Strahl : Noun
 "
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -1845,6 +1868,369 @@ to energizeAE so./sth. to energiseBE / energizeBE so./sth. | energized, energize
 to make liquid [FINAN.]
 to make sth. available [FINAN.]
 to rally supporters
+","to put | put, put |
+to set so./sth. | set, set |
+to place | placed, placed |
+to lay | laid, laid |
+to provide sth. | provided, provided |
+to position | positioned, positioned |
+to regulate | regulated, regulated |
+to supply | supplied, supplied |
+to switch | switched, switched |
+to throw | threw, thrown |
+to give oneself up (to so.)
+to turn oneself in - to the police
+to adjust sth. | adjusted, adjusted |
+to surrender | surrendered, surrendered |
+","to look | looked, looked |
+to peer | peered, peered |
+to look up at so./sth.
+to stargaze | stargazed, stargazed |
+to have a look-see [coll.]
+","to suffer | suffered, suffered |
+to be hurting [coll.]
+to suffer from sth.
+to be adversely affected by sth.
+to be seriously affected by sth.
+to be afflicted with sth.
+to be afflicted with sth.
+to suffer from sth.
+to smart under sth. - e. g. an injustice, a relationship, an influence, etc. [fig.]
+to be destitute
+to suffer want
+to be in mortal agony
+to suffer agonies
+to be in agony
+","to treat so./sth. | treated, treated |
+to handle sth. | handled, handled |
+to embrace | embraced, embraced |
+to examine | examined, examined |
+to medicate | medicated, medicated |
+to cover sth. | covered, covered |
+to deal with sth.
+to outline sth. | outlined, outlined |
+to be concerned with sth.
+to give attention to sth.
+to highlight sth. | highlighted, highlighted |
+to discuss sth. | discussed, discussed |
+to be treated with sth.
+to medicate | medicated, medicated |
+","to publish sth. | published, published |
+to release sth. | released, released |
+to put out - issue, broadcast
+to make sth. public
+to publicizeAE sth. to publiciseBE / publicizeBE sth. | publicized, publicized / publicised, publicised |
+to announce sth. | announced, announced |
+to promulgate sth. | promulgated, promulgated |
+to be released to the public
+to see the light of day - e. g. report [fig.]
+to republish | republished, republished |
+to publish regularly
+to rerelease | rereleased, rereleased |
+to serializeAE sth. to serialiseBE / serializeBE sth. | serialized, serialized / serialised, serialised |
+to dox (or: doxx) so. | doxed, doxed / doxxed, doxxed | [coll.] [COMP.]
+","to print (sth.) | printed, printed |
+to publish sth. | published, published |
+to issue sth. | issued, issued |
+to publish sth. | published, published |
+to reprint | reprinted, reprinted |
+to misprint | misprinted, misprinted |
+to preprint | preprinted, preprinted |
+to stamp in blind [TECH.]
+to italicizeAE sth. | italicized, italicized / italicised, italicised | [PRINT.]to italiciseBE / italicizeBE sth. [PRINT.]
+to exert pressure (on so./sth.)
+to relieve pressure
+to release pressure
+to equalizeAE pressure to equaliseBE / equalizeBE pressure
+to apply pressure
+","to let | let, let |
+to leave sth. | left, left |
+to blank | blanked, blanked |
+to outpace so. | outpaced, outpaced |
+to leave sth. behind
+to put sth. behind one
+to outstrip sth. | outstripped, outstripped |
+sth. tails off infinitive: tail off - gradually become less
+sth. admits of sth. infinitive: admit - allow [form.]
+to drop sth. | dropped, dropped |
+to have sth. done
+to get divorced (from so.)
+to pass water - polite for: urinate
+to forebode | foreboded, foreboded |
+","sth. suits so. infinitive: suit - clothes
+sth. becomes so. - clothes
+sth. is accompanied by sth.
+so. is in for sth.
+to stand | stood, stood |
+to be upright
+to rise | rose, risen |
+to stagnate | stagnated, stagnated |
+to be the odd one out
+to represent sth. | represented, represented |
+to stand for sth.
+to have reached the semi-final/final
+to be above sth.
+to stand above sth.
+","to quit | quit/quitted, quit/quitted |
+to resign | resigned, resigned |
+to give in
+to abandon sth. | abandoned, abandoned |
+to post sth. | posted, posted | - e. g. a letter
+to give up
+to capitulate | capitulated, capitulated |
+to forfeit | forfeited, forfeited |
+to relinquish | relinquished, relinquished |
+to surrender | surrendered, surrendered |
+to vacate | vacated, vacated |
+to cede | ceded, ceded |
+to cry uncle
+to jettison | jettisoned, jettisoned |
+","to take sth. | took, taken |
+to engage | engaged, engaged |
+to capture sth. | captured, captured |
+to earn sth. | earned, earned |
+to prepossess so. | prepossessed, prepossessed |
+to ingest sth. | ingested, ingested | [BIOL.]
+to win favorAE with so. to win favourBE with so.
+to win so. over
+to win so. over to sth.
+to set so. against so./sth.
+to set so. against oneself
+sth. takes up sth. infinitive: take up
+to take in cash
+to freebase | freebased, freebased |
+","to blame so. for sth.
+to accuse so. of sth.
+to charge so. with sth.
+to reproach so. with sth.
+to reproach so. for sth.
+to rap so. for sth.
+to throw sth. in so.'s teeth [coll.] [fig.]
+to accuse so. of doing sth.
+to taunt | taunted, taunted |
+not to let so. hear the end of sth.
+","to try (sth.) | tried, tried |
+to attempt sth. | attempted, attempted |
+to test | tested, tested |
+to prove | proved, proved/proven |
+to assay sth. | assayed, assayed |
+to have a go at sth.
+to make a stab at sth.
+to take a stab at sth.
+to try sth. ⇔ out
+to tempt so. | tempted, tempted |
+to essay | essayed, essayed | - try [form.]
+to dabble in (or: at) sth.
+to assay sth. | assayed, assayed |
+to dabble in sth.
+","to lack | lacked, lacked |
+to be missing
+to be absent
+to be lacking
+to fail | failed, failed |
+not to be provided
+to err | erred, erred |
+so. is ten dollars/five euros shy (of sth.) [coll.] chiefly (Amer.)
+so./sth. misses so./sth. infinitive: miss
+so. is one year/one point shy (of sth.) [coll.] chiefly (Amer.)
+to be off sick
+to be away sick
+to be out sick (Amer.; Ire.)
+so./sth. wants sth. infinitive: want
+so./sth. lacks in sth. infinitive: lack
+so. wants for nothing
+so. does not want for sth.
+","to prompt | prompted, prompted |
+to invite | invited, invited |
+to request | requested, requested |
+to bluff | bluffed, bluffed |
+to summon so. | summoned, summoned |
+to ask so. to do sth.
+to call on (or: upon) so. to do sth.
+to call on so. to do sth.
+to call upon so. to do sth.
+to challenge so. to do sth.
+to defy so. to do sth.
+to request so. to do sth.
+to call for payment
+to apply for payment
+","to organizeAE to organiseBE / organizeBE | organized, organized / organised, organised |
+to engineer sth. | engineered, engineered |
+to arrange sth. | arranged, arranged |
+to arrange for sth.
+to line sth. ⇔ up
+to unionizeAE to unioniseBE / unionizeBE | unionized, unionized / unionised, unionised |
+to arrange things badly
+to reorganizeAE sth. to reorganiseBE / reorganizeBE sth. | reorganized, reorganized / reorganised, reorganised |
+to unionizeAE to unioniseBE / unionizeBE | unionized, unionized / unionised, unionised |
+to organizeAE an excursion to organiseBE / organizeBE an excursion
+to arrange an event
+to arrange group tours only
+to have one's ducks in a row
+","to call out
+to sort sth. | sorted, sorted |
+to read sth. ⇔ out
+to read the minutes
+to Mirandize so. | Mirandized, Mirandized | (Amer.) [LAW]
+","to reject so./sth. | rejected, rejected |
+to refuse so. | refused, refused |
+to repudiate | repudiated, repudiated |
+to rebut | rebutted, rebutted |
+to decline | declined, declined |
+to disallow | disallowed, disallowed |
+to send back
+to spurn so./sth. | spurned, spurned |
+to repel so./sth. | repelled, repelled |
+to repulse so./sth. | repulsed, repulsed |
+to rebuff so. | rebuffed, rebuffed |
+to turn so. ⇔ back
+to turn so. ⇔ away
+to deny sth. | denied, denied |
+","to travel | traveled/travelled, traveled/travelled |
+to journey | journeyed, journeyed |
+to voyage | voyaged, voyaged |
+to wayfare | wayfared, wayfared | rare archaic
+to travel through sth.
+to advise so. not to travel
+to go upcountry (or: up-country) chiefly (Amer.)
+to trek | trekked, trekked |
+to travel by air
+to hit the road [coll.]
+to go on a journey
+to organizeAE an excursion to organiseBE / organizeBE an excursion
+to put off a journey
+to go on a journey
+","to wait | waited, waited |
+to pause | paused, paused |
+to wait about
+to wait around
+to stay | stayed, stayed |
+to hold on
+to stand by
+to service sth. | serviced, serviced |
+to kick one's heels [coll.]
+to maintain sth. | maintained, maintained | [TECH.]
+to abide | abode, abode | obsolete
+to attend to so./sth.
+to wait for so./sth.
+to await sth. | awaited, awaited |
+","to visit | visited, visited |
+to go and see
+to attend sth. | attended, attended |
+to come to see
+to go to see
+to inspect sth. | inspected, inspected |
+to tour sth. | toured, toured |
+to call on so.
+to look so. ⇔ up
+to see so. | saw, seen |
+to go to church
+to frequent | frequented, frequented |
+to call on customers
+to attend lectures
+","to suppress | suppressed, suppressed |
+to stable | stabled, stabled |
+to cut sth. ⇔ off
+to switch sth. ⇔ off
+to turn sth. ⇔ off
+to remedy sth. | remedied, remedied |
+to set sth. ⇔ down
+to intercept sth. | intercepted, intercepted |
+to shut sth. ⇔ down
+to turn sth. ⇔ out
+to shut sth. ⇔ off
+to stall sth. | stalled, stalled |
+to put sth. ⇔ down
+to garage sth. | garaged, garaged |
+","to enjoy sth. | enjoyed, enjoyed |
+to relish sth. | relished, relished |
+to savorAE / savourBE sth. | savored, savored / savoured, savoured |
+to glory in sth.
+to have right of way
+to enjoy fiscal advantages [FINAN.]
+to operate in non-compliance under a variance or continuation permit [TECH.]
+to enjoy public confidence
+to enjoy sth. to the full
+","to drive (sth.) | drove, driven |
+to go | went, gone | - by train, car
+to run | ran, run |
+to ride sth. | rode, ridden |
+to travel | traveled/travelled, traveled/travelled | - in a vehicle
+to cart sth. | carted, carted |
+to pedal sth. | pedaled/pedalled, pedaled/pedalled |
+to take the bus/train/car/...
+to make a left turn
+to run one's hand over sth.
+to move | moved, moved | [TECH.]
+to travel | traveled/travelled, traveled/travelled | [TECH.]
+to run | ran, run | [TECH.]
+to drive | drove, driven |
+","to pass | passed, passed |
+to go by
+to drive past
+to pass so./sth. | passed, passed |
+to go past so./sth. - e. g. in a car
+","to look good/bad/nice/... | looked, looked |
+to appear | appeared, appeared |
+to look similar
+to look alike
+to look like sth.
+to resemble each other in appearance
+to be a looker
+to look great
+to look pale
+to look seedy
+to look peaky
+to be a looker
+to look bright
+to bear one's age well
+","to pass sth. | passed, passed |
+to come by
+to drop in (at so.'s)
+to drop over (at so.'s) chiefly (Amer.)
+to come along
+to come around (or: round)
+to come over
+to come past
+to get by
+to drop in (on so.)
+to call in at so.'s
+to call in on so.
+to drop in at so.'s
+to drop in on so.
+to drop by
+to drop by
+to come over
+","to stop (sth.) | stopped, stopped |
+to last | lasted, lasted |
+to halt | halted, halted |
+to pull in - stop
+to check | checked, checked |
+to coast | coasted, coasted |
+to hold | held, held |
+to bring to a stop
+to come to a stop
+to retain | retained, retained |
+to pause (sth.) | paused, paused |
+to continue | continued, continued |
+to go on
+to arrest sth. | arrested, arrested |
+","to beam | beamed, beamed |
+to gleam | gleamed, gleamed |
+to radiate | radiated, radiated |
+to blaze | blazed, blazed |
+to glint | glinted, glinted |
+to shine | shone, shone |
+to glare | glared, glared |
+to irradiate | irradiated, irradiated |
+to send out rays
+to be radiant
+to blast | blasted, blasted | [TECH.]
+to shot-peen | shot-peened, shot-peened | [TECH.]
+to effulge | effulged, effulged | rare
+to be aglow with happiness
+to beam with pride
+to beam with joy
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -3508,6 +3894,369 @@ jmdn./etw. mobilisieren | mobilisierte, mobilisiert |
 mobilisieren | mobilisierte, mobilisiert |
 etw.acc. mobilisieren | mobilisierte, mobilisiert |
 Unterstützer mobilisieren
+","stellen | stellte, gestellt |
+jmdn./etw. stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+etw.acc. stellen | stellte, gestellt | - bereitstellen
+stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+stellen | stellte, gestellt |
+sichacc. (jmdm.) stellen | stellte, gestellt |
+sichacc. stellen | stellte, gestellt | - der Polizei
+etw.acc. stellen | stellte, gestellt |
+sichacc. stellen | stellte, gestellt |
+","schauen | schaute, geschaut |
+suchend schauen
+nach oben schauen
+in die Sterne schauen
+kurz mal schauen [coll.]
+","leiden | litt, gelitten |
+leiden | litt, gelitten |
+unter etw.dat. leiden | litt, gelitten |
+unter etw.dat. leiden | litt, gelitten |
+unter etw.dat. leiden | litt, gelitten |
+unter etw.dat. leiden | litt, gelitten |
+an etw.dat. leiden | litt, gelitten |
+an etw.dat. leiden | litt, gelitten |
+unter etw.dat. leiden | litt, gelitten |
+Entbehrung leiden
+Entbehrung leiden
+Todesqualen leiden
+Höllenqualen leiden
+Seelenqualen leiden
+","jmdn./etw. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+behandeln | behandelte, behandelt |
+behandeln | behandelte, behandelt |
+behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt |
+etw.acc. behandeln | behandelte, behandelt | - Thema
+mit etw.dat. behandelt sein
+medizinisch behandeln
+","etw.acc. veröffentlichen | veröffentlichte, veröffentlicht |
+etw.acc. veröffentlichen | veröffentlichte, veröffentlicht |
+veröffentlichen | veröffentlichte, veröffentlicht |
+etw.acc. veröffentlichen | veröffentlichte, veröffentlicht |
+etw.acc. veröffentlichen | veröffentlichte, veröffentlicht |
+etw.acc. veröffentlichen | veröffentlichte, veröffentlicht | - der Öffentlichkeit bekanntmachen
+etw.acc. veröffentlichen | veröffentlichte, veröffentlicht | - der Öffentlichkeit bekanntmachen
+veröffentlicht werden
+veröffentlicht werden
+neu veröffentlichen
+regelmäßig veröffentlichen
+wieder veröffentlichen
+etw.acc. in Folgen veröffentlichen
+jmds. persönliche Daten veröffentlichen - im Internet
+","(etw.acc.) drucken | druckte, gedruckt |
+etw.acc. drucken | druckte, gedruckt |
+etw.acc. drucken lassen
+etw.acc. drucken lassen
+neu drucken
+falsch drucken
+im Voraus drucken
+blind drucken
+etw.acc. kursiv drucken
+(auf jmdn./etw.) Druck ausüben
+Druck abbauen
+Druck ablassen
+Druck ausgleichen
+Druck ausüben
+","lassen | ließ, gelassen |
+etw.acc. lassen | ließ, gelassen |
+lassen | ließ, gelassen |
+jmdn. hinter sichdat. lassen | ließ, gelassen |
+etw.acc. hinter sichdat. lassen | ließ, gelassen |
+etw.acc. hinter sichdat. lassen | ließ, gelassen |
+etw.acc. hinter sichdat. lassen | ließ, gelassen |
+etw.nom. lässt nach infinitive: nachlassen
+etw.nom. lässt etw.acc. zu infinitive: zulassen
+etw.acc. fallenlassen or: fallen lassen | ließ fallen, fallengelassen |
+etw.acc. tun lassen
+sichacc. (von jmdm.) scheiden lassen
+Wasser lassen - urinieren
+ahnen lassen
+","etw.nom. steht jmdm. infinitive: stehen - Kleidung
+etw.nom. steht jmdm. infinitive: stehen - Kleidung
+etw.nom. steht etw.dat. gegenüber infinitive: gegenüberstehen
+jmdm. steht etw.acc. bevor
+stehen | stand, gestanden |
+stehen | stand, gestanden |
+stehen | stand, gestanden |
+stehen | stand, gestanden |
+abseits stehen | stand, gestanden |
+für etw.acc. stehen | stand, gestanden |
+für etw.acc. stehen | stand, gestanden |
+im Halbfinale/Finale stehen
+über etw.acc. stehen | stand, gestanden |
+über etw.acc. stehen | stand, gestanden |
+","aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+etw.acc. aufgeben | gab auf, aufgegeben |
+etw.acc. aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+aufgeben | gab auf, aufgegeben |
+","etw.acc. einnehmen | nahm ein, eingenommen |
+einnehmen | nahm ein, eingenommen |
+etw.acc. einnehmen | nahm ein, eingenommen | - Stadt
+etw.acc. einnehmen | nahm ein, eingenommen |
+jmdn. einnehmen | nahm ein, eingenommen |
+etw.acc. einnehmen | nahm ein, eingenommen | - Nahrung
+jmdn. für sichacc. einnehmen | nahm ein, eingenommen |
+jmdn. für sichacc. einnehmen | nahm ein, eingenommen |
+jmdn. für etw.acc. einnehmen | nahm ein, eingenommen |
+jmdn. gegen jmdn./etw. einnehmen | nahm ein, eingenommen |
+jmdn. gegen sichacc. einnehmen
+etw.nom. nimmt etw.acc. ein infinitive: einnehmen - z. B. Platz
+Bargeld einnehmen
+Kokain einnehmen
+","jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.dat. vorwerfen | warf vor, vorgeworfen |
+jmdm. etw.acc. vorwerfen | warf vor, vorgeworfen |
+jmdm. vorwerfen, etw.acc. zu tun
+höhnisch vorwerfen
+jmdm. etw.acc. noch ewig vorwerfen
+","(etw.acc.) versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+etw.acc. versuchen | versuchte, versucht |
+jmdn. versuchen | versuchte, versucht |
+versuchen | versuchte, versucht |
+sichacc. in etw.dat. versuchen | versuchte, versucht |
+sichacc. an etw.dat. versuchen | versuchte, versucht |
+sichacc. in etw.acc. versuchen | versuchte, versucht |
+","fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt |
+fehlen | fehlte, gefehlt | - Fehler machen
+jmdm. fehlen zehn Dollar/fünf Euro (von etw.dat.)
+jmdm./etw. fehlt jmd./etw. infinitive: fehlen
+jmdm. fehlt ein Jahr/ein Punkt (bis zu etw.dat.)
+wegen Krankheit fehlen
+wegen Krankheit fehlen
+wegen Krankheit fehlen
+jmdm./etw. fehlt es an etw. infinitive: fehlen
+jmdm./etw. fehlt es an etw.dat. infinitive: fehlen
+jmdm. fehlt es an nichts infinitive: fehlen
+es fehlt jmdm. nicht an etw.dat. infinitive: fehlen
+","auffordern | forderte auf, aufgefordert |
+auffordern | forderte auf, aufgefordert |
+auffordern | forderte auf, aufgefordert |
+auffordern | forderte auf, aufgefordert |
+jmdn. auffordern | forderte auf, aufgefordert |
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+jmdn. auffordern, etw.acc. zu tun
+zur Zahlung auffordern
+zur Zahlung auffordern
+","organisieren | organisierte, organisiert |
+etw.acc. organisieren | organisierte, organisiert | - deichseln
+etw.acc. organisieren | organisierte, organisiert |
+etw.acc. organisieren | organisierte, organisiert |
+etw.acc. organisieren | organisierte, organisiert |
+gewerkschaftlich organisieren
+schlecht organisieren
+etw.acc. neu organisieren
+sichacc. gewerkschaftlich organisieren
+eine Reise organisieren
+eine Veranstaltung organisieren
+nur Gruppenreisen organisieren
+gut organisiert sein
+","verlesen | verlas, verlesen |
+etw.acc. verlesen | verlas, verlesen |
+etw.acc. verlesen | verlas, verlesen |
+das Protokoll verlesen
+jmdm. seine Rechte verlesen
+","jmdn./etw. zurückweisen | wies zurück, zurückgewiesen |
+jmdn. zurückweisen | wies zurück, zurückgewiesen |
+zurückweisen | wies zurück, zurückgewiesen |
+zurückweisen | wies zurück, zurückgewiesen |
+zurückweisen | wies zurück, zurückgewiesen |
+zurückweisen | wies zurück, zurückgewiesen |
+zurückweisen | wies zurück, zurückgewiesen |
+jmdn./etw. zurückweisen | wies zurück, zurückgewiesen |
+jmdn./etw. zurückweisen | wies zurück, zurückgewiesen |
+jmdn./etw. zurückweisen | wies zurück, zurückgewiesen |
+jmdn. zurückweisen | wies zurück, zurückgewiesen |
+jmdn. zurückweisen | wies zurück, zurückgewiesen |
+jmdn. zurückweisen | wies zurück, zurückgewiesen |
+etw.acc. zurückweisen | wies zurück, zurückgewiesen |
+","reisen | reiste, gereist |
+reisen | reiste, gereist |
+reisen | reiste, gereist |
+reisen | reiste, gereist |
+durch etw.acc. reisen | reiste, gereist |
+jmdm. vom Reisen abraten
+ins Landesinnere reisen
+im Ochsenwagen reisen
+mit dem Flugzeug reisen
+auf Reisen gehen
+eine Reise machen
+eine Reise organisieren
+eine Reise verschieben
+auf eine Reise gehen
+","warten | wartete, gewartet |
+warten | wartete, gewartet |
+warten | wartete, gewartet |
+warten | wartete, gewartet |
+warten | wartete, gewartet |
+warten | wartete, gewartet |
+warten | wartete, gewartet |
+etw.acc. warten | wartete, gewartet |
+warten | wartete, gewartet |
+etw.acc. warten | wartete, gewartet |
+warten | wartete, gewartet |
+jmdn./etw. warten | wartete, gewartet | - sich um jmdn./etw. kümmern dated
+auf jmdn./etw. warten | wartete, gewartet |
+auf etw.acc. warten | wartete, gewartet |
+","besuchen | besuchte, besucht |
+besuchen | besuchte, besucht |
+etw.acc. besuchen | besuchte, besucht |
+besuchen | besuchte, besucht |
+besuchen | besuchte, besucht |
+etw.acc. besuchen | besuchte, besucht |
+etw.acc. besuchen | besuchte, besucht |
+jmdn. besuchen | besuchte, besucht |
+jmdn. besuchen | besuchte, besucht |
+jmdn. besuchen | besuchte, besucht |
+den Gottesdienst besuchen
+häufig besuchen
+Kunden besuchen
+Vorlesungen besuchen
+","abstellen | stellte ab, abgestellt |
+abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt |
+etw.acc. abstellen | stellte ab, abgestellt | - in einer Garage
+","etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+Vorfahrt genießen
+Steuervergünstigungen genießen
+Bestandsschutz genießen
+das öffentliche Vertrauen genießen
+etw.acc. in vollen Zügen genießen
+","(etw.acc.) fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+etw.acc. fahren | fuhr, gefahren |
+mit dem Bus/Zug/Auto/... fahren
+nach links fahren | fuhr, gefahren |
+über etw.acc. fahren | fuhr, gefahren |
+fahren | fuhr, gefahren | - Bergmann
+fahren | fuhr, gefahren | - Bergmann
+fahren | fuhr, gefahren | - z. B. ein Bohrlochlog
+Auto fahren
+","vorbeifahren | fuhr vorbei, vorbeigefahren |
+vorbeifahren | fuhr vorbei, vorbeigefahren |
+vorbeifahren | fuhr vorbei, vorbeigefahren |
+an jmdm./etw. vorbeifahren | fuhr vorbei, vorbeigefahren |
+an jmdm./etw. vorbeifahren | fuhr vorbei, vorbeigefahren |
+","gut/schlecht/nett/... aussehen | sah aus, ausgesehen |
+aussehen | sah aus, ausgesehen |
+ähnlich aussehen
+gleich aussehen
+nach etw.dat. aussehen | sah aus, ausgesehen |
+sichacc. im Aussehen ähneln
+toll aussehen
+toll aussehen
+blass aussehen
+elend aussehen
+angeschlagen aussehen
+gut aussehen
+rosig aussehen
+rüstig aussehen
+","an etw.dat. vorbeikommen | kam vorbei, vorbeigekommen |
+(bei jmdm.) vorbeikommen | kam vorbei, vorbeigekommen |
+(bei jmdm.) vorbeikommen | kam vorbei, vorbeigekommen |
+(bei jmdm.) vorbeikommen | kam vorbei, vorbeigekommen |
+vorbeikommen | kam vorbei, vorbeigekommen | - daherkommen
+vorbeikommen | kam vorbei, vorbeigekommen |
+vorbeikommen | kam vorbei, vorbeigekommen |
+vorbeikommen | kam vorbei, vorbeigekommen |
+vorbeikommen | kam vorbei, vorbeigekommen |
+(bei jmdm.) vorbeikommen | kam vorbei, vorbeigekommen | - häufig unangemeldet
+bei jmdm. vorbeikommen | kam vorbei, vorbeigekommen |
+bei jmdm. vorbeikommen | kam vorbei, vorbeigekommen |
+bei jmdm. vorbeikommen | kam vorbei, vorbeigekommen |
+bei jmdm. vorbeikommen | kam vorbei, vorbeigekommen |
+kurz vorbeikommen
+auf einen Sprung vorbeikommen
+bei jmdm. zu Hause (or: zuhause) vorbeikommen
+","(etw.acc.) anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten |
+(etw.acc.) anhalten | hielt an, angehalten |
+anhalten | hielt an, angehalten | - andauern, fortdauern
+anhalten | hielt an, angehalten | - andauern
+etw.acc. anhalten | hielt an, angehalten |
+","strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+strahlen | strahlte, gestrahlt |
+vor Glück strahlen
+vor Stolz strahlen
+vor Freude strahlen
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -3962,7 +4711,142 @@ explained variance [ENV.]
 ","lifer - a person serving a life sentence [coll.]
 ","cessation
 break [TECH.]
-",
+",,"job
+place
+position
+post - job
+spot
+appointment
+location
+point
+stead
+situation
+station
+site
+digit
+engagement
+",,,"subject matter
+treated insulating liquid [ELEC.]
+treated grain [TECH.]
+UV cured ink [CHEM.]
+autoclaved aerated concrete [abbr.: AAC] [CONSTR.]
+baked carbon artefact [TECH.]
+mixing plants for cold material treatment [TECH.]
+","published document
+published author
+published rate
+","printing
+printing process
+typography
+press work [PRINT.]
+pressure also [PHYS.][TECH.]
+stress - physical pressure
+print [ART.][PRINT.]
+printing
+oppressiveness
+drive
+impression
+squeeze
+urgency
+force
+","to burp - a baby
+to fail so.
+","lookout
+","abandoning
+giving up
+laying [TECH.]
+laying in [TECH.]
+","taking [MED.]
+",,"attempted extortion
+attempted murder
+attempted theft
+attempted rape
+solicitation [LAW]
+attempted blackmail [LAW]
+",,,"organizingAEorganisingBE / organizingBE
+",,,"travel
+travelingespAE / travellingespBE
+trip
+rice [COOK.]
+journey
+voyage
+tour
+scion
+brushwood
+Asian rice [BOT.]
+cultivated rice [BOT.]
+rice [BOT.]
+graft [BOT.]
+rice [BOT.]
+",,"visiting
+visit
+visitors pl.
+attendance
+visitation
+call
+visiting
+sales call [COMM.]
+call acitivities
+visit to the dentist
+attendance at lectures
+cold calling [FINAN.]
+patronizationAE [COMM.]patronisationBE / patronizationBE [COMM.]
+","parking
+placing
+stoppage [TECH.]
+",,"driving
+travelingespAE / travellingespBE [TECH.]
+movement
+moving
+man haul [TECH.]
+man haulage [TECH.]
+manriding [TECH.]
+travel [TECH.]
+coasting [AUTOM.]
+accident-free driving
+automated travel [TECH.]
+telemarking [SPORT.]
+drink-driving (Brit.)
+drunk driving (Amer.)
+",,"looks - person's appearance plural noun
+look
+appearance
+aspect
+air - manner or appearance
+complexion
+visual nature
+body structure [TECH.]
+shape of a function [MATH.]
+appearance of torsion [TECH.]
+pastiness
+bagginess
+good looks plural noun
+aestheticAE / estheticAE appealaestheticBE appeal
+",,"stoppage
+clue
+support [TECH.]
+saccade
+no evidence of [MED.]
+indication quote [INSUR.]
+premium indication [INSUR.]
+Saxony-Anhalt [GEOG.]
+jerky braking movements prior to standstill [TECH.]
+no evidence of [MED.]
+","refulgence
+resplendence or: resplendency
+radiation
+rays pl.
+blasting - surface preparation [TECH.]
+abrasive blasting [TECH.]
+abrasive blast cleaning [TECH.]
+jet blasting [TECH.]
+beam
+ray also [MATH.]
+jet
+radiancy
+spurt
+spout
+"
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -4416,7 +5300,142 @@ aufgeklärte Varianz
 ","zu lebenslänglicher Haft Verurteilter
 ","das Aufhören no plural
 das Aufhören no plural
-",
+",,"die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+die Stelle pl.: die Stellen
+",,,"behandelter Gegenstand
+behandelte Isolierflüssigkeit
+behandeltes Korn
+UV-behandelte Farbe
+im Autoklav behandelter Porenbeton
+Fertigungsprodukt aus thermisch behandelter Kohle [Mining]
+Anlagen zum Mischen von kalt behandelten Stoffen [Machines]
+","veröffentlichtes Dokument
+veröffentlichter Autor
+veröffentlichter Frachtsatz
+","das Drucken no plural
+das Drucken no plural
+das Drucken no plural
+das Drucken no plural
+der Druck pl.
+der Druck pl.
+der Druck pl.
+der Druck no plural
+der Druck no plural
+der Druck no plural
+der Druck no plural
+der Druck pl.
+der Druck no plural
+der Druck no plural
+","aufstoßen lassen
+jmdn. hängenlassen or: hängen lassen
+","Person, die Schmiere steht
+","das Aufgeben no plural
+das Aufgeben no plural
+das Aufgeben no plural
+das Aufgeben no plural
+","das Einnehmen no plural
+",,"versuchte Erpressung
+versuchter Mord
+versuchter Diebstahl
+versuchte Vergewaltigung
+versuchte Anstiftung
+versuchte Erpressung
+",,,"das Organisieren no plural
+",,,"das Reisen no plural
+das Reisen no plural
+die Reise pl.: die Reisen
+der Reis no plural
+die Reise pl.: die Reisen
+die Reise pl.: die Reisen
+die Reise pl.: die Reisen
+das Reis pl.: die Reiser - Pfropfreis
+das Reis pl.: die Reiser - Reisig
+der Reis pl. Lat.: Oryza sativa
+der Reis pl. Lat.: Oryza sativa
+der Reis pl. Lat.: Oryza sativa
+das Reis no plural
+der Reis pl. Lat.: Oryza (Gattung)
+",,"das Besuchen no plural
+der Besuch pl.: die Besuche
+der Besuch no plural - Gäste
+der Besuch pl.: die Besuche
+der Besuch pl.: die Besuche
+der Besuch pl.: die Besuche
+der Besuch pl.: die Besuche
+der Besuch pl.: die Besuche
+die Besuche pl.
+Besuch beim Zahnarzt
+Besuch der Vorlesungen
+unangemeldeter Besuch - eines Vertreters
+regelmäßiger Besuch - der Kundschaft
+","das Abstellen no plural
+das Abstellen no plural
+das Abstellen no plural
+",,"das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+das Fahren no plural
+Fahren im Leerlauf
+unfallfreies Fahren
+automatisches Fahren [Machines]
+das Telemark-Fahren no plural [Skiing]
+Fahren unter Alkoholeinfluss
+Fahren unter Alkoholeinfluss
+",,"das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+das Aussehen no plural
+Aussehen einer Funktion [Statistics]
+Aussehen der Verwindung [Hoisting Technology]
+kränkliches Aussehen
+sackartiges Aussehen
+gutes Aussehen
+ästhetisches Aussehen
+",,"das Anhalten no plural
+der Anhalt pl.
+der Anhalt pl.
+ruckartiges Anhalten
+kein Anhalt
+die Anhalt-Quotierung
+die Anhalt-Quotierung
+Sachsen-Anhalt - Bundesland der Bundesrepublik Deutschland
+der Anhalte-Bremsruck
+kein Anhalt für
+","das Strahlen no plural
+das Strahlen no plural
+die Strahlen pl.
+die Strahlen pl.
+das Strahlen no plural [Soldering]
+das Strahlen no plural
+das Strahlen no plural [Surface Treatment]
+das Strahlen no plural
+der Strahl pl.: die Strahlen
+der Strahl pl.: die Strahlen
+der Strahl pl.: die Strahlen
+der Strahl pl.: die Strahlen
+der Strahl pl.: die Strahlen
+der Strahl rarely in pl.
+"
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -4819,8 +5838,110 @@ genus: NEUT
 plural: plural
 meaning: cessation
 break [TECH.]
-",
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"article: Die
+word: Stelle
+genus: FEMI
+plural: Stellen
+meaning: job
+place
+",,,"article: behandelter
+word: Gegenstand
+genus: 
+plural: Gegenstand
+meaning: subject matter
+treated insulating liquid [ELEC.]
+","article: veröffentlichtes
+word: Dokument
+genus: 
+plural: Dokument
+meaning: published document
+published author
+","article: Die
+word: Drucke
+genus: NEUT
+plural: Drucken
+meaning: printing
+printing process
+","article: aufstoßen
+word: lassen
+genus: 
+plural: lassen
+meaning: to burp - a baby
+to fail so.
+","article: Person,
+word: die
+genus: 
+plural: steht
+meaning: lookout
+
+","article: das
+word: Aufgeben
+genus: NEUT
+plural: plural
+meaning: abandoning
+giving up
+","article: das
+word: Einnehmen
+genus: NEUT
+plural: plural
+meaning: taking [MED.]
+
+",,"article: versuchte
+word: Erpressung
+genus: 
+plural: Erpressung
+meaning: attempted extortion
+attempted murder
+",,,"article: das
+word: Organisieren
+genus: NEUT
+plural: plural
+meaning: organizingAEorganisingBE / organizingBE
+
+",,,"article: Das
+word: Reisen
+genus: NEUT
+plural: plural
+meaning: travel
+travelingespAE / travellingespBE
+",,"article: Der
+word: Besuch
+genus: NEUT
+plural: Besuche
+meaning: visiting
+visit
+","article: das
+word: Abstellen
+genus: NEUT
+plural: plural
+meaning: parking
+placing
+",,"article: Das
+word: Fahren
+genus: NEUT
+plural: plural
+meaning: driving
+travelingespAE / travellingespBE [TECH.]
+",,"article: Das
+word: Aussehen
+genus: NEUT
+plural: plural
+meaning: looks - person's appearance plural noun
+look
+",,"article: Das
+word: Anhalten
+genus: NEUT
+plural: plural
+meaning: stoppage
+clue
+","article: Der
+word: Strahl
+genus: NEUT
+plural: Strahlen
+meaning: refulgence
+resplendence or: resplendency
+"
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -5126,7 +6247,50 @@ foredoomed adj.
 fated to die
 reduced to inaction
 reduced to inaction
-",,
+",,,"to the fore
+ranking adj.
+in place
+quarantinable adj.
+in many places
+at this point
+elsewhere adv.
+tertiary adj.
+in lieu thereof
+in respective area
+in the first place
+second to none
+in situ
+on the spot
+on the premises
+on the very spot
+ectopic adj. [MED.]
+",,,"processed adj.
+unabused adj.
+electroplated adj. [TECH.]
+","issued adj.
+printed adj.
+released adj.
+undisclosed adj.
+inedited adj.
+","in print
+under the gun
+pressurizedAE adj.pressurisedBE / pressurizedBE adj.
+under compulsion
+compressive adj. [TECH.]
+pressurizedAE adj.pressurisedBE / pressurizedBE adj.
+pressurizedAE adj. [TECH.]pressurisedBE / pressurizedBE adj. [TECH.]
+pressurizedAE to adj. [AVIAT.]pressurisedBE / pressurizedBE to adj. [AVIAT.]
+",,,,,,,,"invited adj.
+called upon adj.
+",,,"rejected adj.
+","travelingespAE / travellingespBE adj.
+itinerary adj.
+","maintained adj.
+unmaintained adj. [ENGIN.]
+",,,,,,"in appearance
+in appearance
+",,,"rayless adj.
+"
 adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -5432,7 +6596,50 @@ zum Scheitern verurteilt
 zum Tode verurteilt
 zur Tatenlosigkeit verurteilt
 zur Untätigkeit verurteilt
-",,
+",,,"zur Stelle
+eine Stelle innehabend
+an der Stelle
+unter Quarantäne zu stellen
+an vielen Stellen
+an dieser Stelle
+an anderer Stelle
+an dritter Stelle
+an dessen Stelle
+an entsprechender Stelle
+an erster Stelle
+eindeutig an erster Stelle
+an Ort und Stelle
+an Ort und Stelle
+an Ort und Stelle
+an derselben Stelle
+nicht an typischer Stelle liegend
+",,,"behandelt
+gut behandelt
+galvanisch behandelt
+","veröffentlicht
+veröffentlicht
+veröffentlicht
+nicht veröffentlicht
+nicht veröffentlicht
+","im Druck
+unter Druck
+unter Druck
+unter Druck
+Druck...
+unter Druck befindlich
+unter Druck stehend
+mit Druck beaufschlagt
+",,,,,,,,"aufgefordert
+aufgefordert
+",,,"zurückgewiesen
+","Reise...
+Reise...
+","gewartet
+nicht gewartet
+",,,,,,"dem Aussehen nach
+vom Aussehen her
+",,,"ohne Strahlen
+"
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -6237,7 +7444,109 @@ to throw in the towel [SPORT.]
 ",,"to be dead in the water [coll.] [fig.] - destined for failure
 to railroad so. | railroaded, railroaded | (Amer.)[fig.]
 ","to get off the piss [vulg.] (Brit.)
-",
+",,"to throw one's weight behind so. [coll.] [fig.]
+to severely criticizeAE so./sth. to severely criticiseBE / criticizeBE so./sth.
+to turn sth. inside out [fig.]
+to turn sth. upside down
+Keep the set. [SPORT.]
+Set the boat. [SPORT.]
+to turn the place upside down
+to turn so.'s place upside down
+to turn everything topsy-turvy
+You can talk until you're blue in the face!
+a sensitive spot
+a tender spot
+a tender spot
+a sore spot
+top priority
+","Don't look a gift horse in the mouth.
+to look over one's shoulder [fig.]
+to be left out
+to be left out in the cold
+to look over so.'s shoulder [fig.]
+to shadow so. | shadowed, shadowed | [fig.]
+to see behind the curtain [fig.]
+Let's get it over with!
+",,"to treat so. leniently
+",,"sent to the printer [COMP.]
+at pressure (Amer.) [SPORT.]
+paddle firm (Brit.) [SPORT.]
+at a paddle (Amer.) [SPORT.]
+paddle light (Brit.) [SPORT.]
+cut me some slack
+The heat is on. [coll.]
+","to give sth. a miss
+to blow sth. off - not attend
+to run out on so. - abandon so.
+to keep so. in the dark about sth.
+to keep one's hands off sth.
+to keep so. in suspense
+to cut the cheese [coll.] (Brit.) - break wind
+to keep so. on tenterhooks
+to blow off [coll.] (Brit.) - break wind
+to keep so. in suspense
+to leave so. in the lurch
+to leave so. high and dry [fig.]
+to leave so. in the dark about sth.
+to outscore so. | outscored, outscored | [SPORT.]
+","to have so.'s back
+sth. hangs in the balance
+sth. is just around the corner [fig.]
+That's not in keeping with his position.
+That's a different kettle of fish.
+so. is up to one's neck in it
+so is fed up to the back teeth [coll.]
+a textbook example
+it's a hanging matter
+The stakes are high.
+recourse may be had
+how high the stakes are
+it is still written in the stars whether ...
+it is still written in the stars whether ...
+","to go belly up [coll.] [fig.]
+",,"to throw so. under the bus [coll.] [fig.] chiefly (Amer.)
+","to put one's best foot forward
+","Far from it!
+far out [coll.]
+That's all I needed.
+That's the last thing I needed.
+","as prompted
+",,,,"to go on Shanks's (or: Shank's) pony
+Have a good trip!
+Have a safe journey!
+Godspeed! archaic
+trip down memory lane
+","You can wait until (or: till) the cows come home!
+Don't hold your breath!
+You can wait until hell freezes over!
+You can whistle for it. [coll.] [fig.]
+They can go whistle for it. [coll.] [fig.]
+",,,"to take sth. with a pinch of salt
+to be in ill repute (with so.) [fig.]
+","to cut the cheese [coll.] (Brit.) - break wind
+to blow off [coll.] (Brit.) - break wind
+Slow down!
+to save shoe leather [fig.]
+to blow one's top [coll.]
+to hit the roof [fig.] [coll.]
+to fly off the handle [fig.]
+to go up the wall [coll.]
+to go through the roof [coll.]
+to hit the ceiling [coll.]
+Slow down!
+Back up a little!
+to be a speed merchant (Brit.)
+to get things into a mess
+It's enough to drive you up the wall.
+What time is the last train?
+",,"a tender look
+to be snookered (Brit.) [coll.] [fig.]
+sth. takes years off so.
+to look sharp - stylish (Amer.) [coll.]
+What a sight you are!
+",,"no stopping
+","to be all smiles
+"
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -7042,7 +8351,109 @@ sichacc. geschlagen geben [Boxing]
 ",,"zum Scheitern verurteilt sein
 jmdn. zu Unrecht verurteilen
 ","mit dem Saufen aufhören [coll.]
-",
+",,"sichacc. hinter jmdn. stellen [fig.]
+jmdn./etw. an den Pranger stellen [fig.]
+etw.acc. auf den Kopf stellen [fig.]
+etw.acc. auf den Kopf stellen [fig.]
+Boot stellen! - Ruderkommando
+Boot stellen! - Ruderkommando
+die Bude auf den Kopf stellen
+jmdm. die Bude auf den Kopf stellen
+alles auf den Kopf stellen
+Und wenn du dich auf den Kopf stellst!
+eine empfindliche Stelle
+eine empfindliche Stelle
+eine empfindsame Stelle
+eine schmerzhafte Stelle
+an erster Stelle
+","Einem geschenkten Gaul schaut man nicht ins Maul.
+nach hinten schauen
+in die Röhre schauen [fig.]
+in die Röhre schauen [fig.]
+jmdm. über die Schulter schauen [fig.]
+jmdm. über die Schulter schauen [fig.]
+hinter die Fassade schauen [fig.]
+Schauen wir zu, dass wir's hinter uns bringen!
+",,"jmdn. glimpflich behandeln
+",,"abgesetzt zum Drucken
+mit Druck [Rowing]
+mit Druck [Rowing]
+ohne Druck [Rowing]
+ohne Druck [Rowing]
+setz mich nicht so unter Druck
+Viel Druck wird ausgeübt.
+","etw.acc. sausen lassen
+etw.acc. sausen lassen
+jmdn. im Stich lassen
+jmdn. über etw.acc. im Dunkeln lassen
+die Finger von etw.dat. lassen
+jmdn. zappeln lassen [coll.] [fig.]
+einen fahren lassen [fig.]
+jmdn. zappeln lassen [coll.]
+einen fahren lassen
+jmdn. schmorenlassen or: schmoren lassen [coll.] [fig.]
+jmdn. im Stich lassen [fig.]
+jmdn. im Stich lassen [fig.]
+jmdn. über etw.acc. im Dunkeln lassen [fig.]
+jmdn. weit hinter sichdat. lassen - einen sportlichen Gegner
+","hinter jmdm. stehen [fig.]
+etw.nom. steht auf der Kippe infinitive: auf der Kippe stehen
+etw.nom. steht vor der Tür [fig.] infinitive: vor der Tür stehen
+Das steht nicht ganz in Einklang mit seiner Stellung.
+Das steht auf einem anderen Blatt.
+jmdm. steht das Wasser bis zum Hals
+jmdm. steht es bis Oberkante Unterlippe [fig.]
+wie es im Buch steht
+darauf steht der Galgen
+Es steht viel auf dem Spiel.
+der Rechtsweg steht offen
+wie viel auf dem Spiel steht
+es steht noch in den Sternen geschrieben, ob ...
+es steht noch in den Sternen, ob ...
+","den Geist aufgeben
+",,"jmdn. den Löwen zum Fraß vorwerfen [coll.][fig.]
+","sein Bestes versuchen
+","Weit gefehlt!
+weit gefehlt
+Das hat mir gerade noch gefehlt.
+Das hat mir gerade noch gefehlt.
+","wie aufgefordert
+",,,,"auf Schusters Rappen reisen
+Gute Reise!
+Gute Reise!
+Gute Reise!
+Reise in die Vergangenheit [fig.]
+","Da kannst du lange warten!
+Darauf kannst Du lange warten!
+Da kannst du warten, bis du schwarz wirst!
+Da kannst du lange warten.
+Da können sie lange drauf warten.
+",,,"etw.acc. mit Vorsicht genießen [fig.]
+(bei jmdm.) ein schlechtes Ansehen genießen
+","einen fahren lassen [fig.]
+einen fahren lassen
+Langsamer fahren!
+lieber fahren - statt zu laufen
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren [fig.]
+aus der Haut fahren
+aus der Haut fahren
+Fahren Sie langsamer!
+Fahren Sie ein Stück zurück!
+wie eine gesengte Sau fahren [coll.]
+den Karren in den Dreck fahren [fig.]
+Es ist zum Aus-der-Haut-Fahren.
+Wann fährt der letzte Zug?
+",,"ein zartes Aussehen
+alt aussehen [fig.] [coll.]
+etw.nom. lässt jmdn. um Jahre jünger aussehen
+geschniegelt und gebügelt aussehen [fig.] [coll.]
+Wie siehst du denn aus!
+",,"kein Anhalten
+","über das ganze Gesicht strahlen
+"
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -7894,6 +9305,148 @@ She gave herself up to him.
 There wasn't much alcohol at the party as such, but what was there was very potent.
 The car conked out.
 ",,"He was sentenced to six months in prison.
+",,,"Make sure that ...
+He's a hard man to please.
+would like to demonstrate our proficiency
+We place our services at your disposal.
+with an accuracy of two digits after the decimal point
+in order to provide
+He set the alarm for seven o'clock.
+I conclude that
+Two of the men turned out to have family problems.
+She acts like the queen bee.
+the party making a request for conciliation
+in his place
+a particular point
+a lonely spot
+","we'll wait and see what happens
+see whether you can get ...
+see whether you can succeed in ...
+","I can't bear him.
+I cannot bear him.
+she can't stand him
+","Which doctor attended you?
+Nitroglycerine should be treated with respect.
+has been carelessly handled
+We gave him a VIP treatment.
+The doctor who saw me was very nice.
+","is to be published each year
+first published in 1980
+","pressure on the money market
+Please print.
+","Drop me at the corner.
+Let us drop the subject.
+You've got to hand it to him.
+Our prices leave hardly any margin.
+I can't help doing it.
+Would you kindly let us know ...?
+I've been very self-indulgent lately.
+You've got to hand it to him.
+Our prices leave hardly any margin.
+Our prices leave us with a narrow margin.
+Alice wants a divorce.
+Alice wants to get a divorce.
+Alice wants to get divorced.
+Alice wants a divorce from Peter.
+","That's beyond my power.
+That's another story.
+Can I still take you up on your offer ...
+Does your offer still hold ...
+That's another story.
+That doesn't even enter the equation.
+You are at liberty to go.
+You are free to go.
+It's very becoming to you.
+Her new hat becomes her.
+What are his politics?
+That's beyond all question.
+That's beyond question.
+He is on his own.
+","He surrenders.
+The car conked out.
+",,,"We made several attempts to reach him but were unsuccessful.
+Who wants to have a go?
+should endeavorAE to ascertain the reasonsshould endeavourBE to ascertain the reasons
+Please try to make an attractive offer.
+Please try to ...
+He didn't even begin to try.
+He tried to palm it off on me.
+He tried to save his bacon.
+","He has two teeth missing.
+The teacher said she was going to be off for a few days.
+failing specific stipulations
+She is absent.
+I miss you
+We've missed you badly.
+Something is missing.
+Something is wanting.
+We miss her very much.
+He lacked the courage to do it.
+He lacks the courage to do it.
+He was completely lacking in courage.
+signature is missing
+",,"We are organizingAE the fair.We are organisingBE / organizingBE the fair.
+",,,"He will travel for our company.
+There is nothing like traveling.AEThere is nothing like travelling.BE
+We'll pool expenses and travel together.
+Children travel at half price.
+He traveledAE a good deal.He travelledBE a good deal.
+He had a wasted journey.
+","I would rather wait.
+Are you prepared to wait?
+Are you willing to wait?
+We had to wait three mortal hours for the train.
+Please wait a little.
+You have to take a ticket and wait.
+I'm waiting to hear your explanation.
+I should prefer to wait.
+I should prefer to wait until evening.
+Peter has a friend waiting to see him.
+Hurry up - the taxi's waiting!
+I waited a half hour in line. (Amer.)
+I waited in the queue for half an hour. (Brit.)
+You go off and the rest of us will wait here.
+","Come to see me sometime.
+Give us a visit sometime.
+He will call on you.
+They attend the meeting.
+We will visit the trade fair.
+one of the most popular regions
+a visit from our representative
+I have company.
+I've got company.
+He has visitors.
+He rarely has any visitors.
+He's on a visit.
+I am only visiting.
+Referring to the call of your rep ...
+whenever the salesman calls
+","Turn off the radio!
+",,"Make a left turn!
+Let us go to London!
+Nothing will prevent my going to Edinburgh.
+Let's go to London.
+ships sail from Bremerhaven
+They are bound southward.
+Where are you bound for?
+What car do they drive?
+She backed into me.
+He went on a two-day visit to Munich.
+The car drove without lights and on the wrong side of the road.
+The car backed into the garage.
+How frequently does the tram service run to the train station?
+",,"have been given a new look
+he looks darned well
+Which dress looks better?
+Which looks better?
+You look disheveled.AEYou look dishevelled.BE
+He bears his age well.
+It looks like rain.
+It looks like snow.
+The whole thing looks fishy.
+","I will call in again tomorrow.
+He comes along only every so often.
+I'll just drop in for a second.
 ",,
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -8746,4 +10299,146 @@ Sie gab sich ihm hin.
 An sich gab es nicht so viel Alkohol auf der Party, aber was da war, war sehr stark.
 Das Auto gab den Geist auf. infinitive: aufgeben
 ",,"Er wurde zu sechs Monaten Haft verurteilt.
+",,,"Stellen Sie sicher, dass ...
+Er ist kaum zufrieden zu stellen.
+möchten unsere Leistung unter Beweis stellen
+Wir stellen Ihnen unsere Dienste zur Verfügung.
+mit einer Genauigkeit von zwei Stellen hinter dem Komma
+um bereitzustellen
+Er stellte den Wecker auf sieben Uhr.
+Ich stelle fest, dass
+Bei zwei Männern stellte sich heraus, dass sie familiäre Probleme hatten.
+Sie stellt sich immer in den Mittelpunkt.
+die Partei, die einen Schlichtungsantrag stellt
+an seiner Stelle
+eine bestimmte Stelle
+eine einsame Stelle
+","mal schauen
+schauen Sie, ob Sie ... bekommen können
+schauen Sie, ob Sie ... erreichen können
+","Ich kann ihn nicht leiden.
+Ich kann ihn nicht leiden.
+sie kann ihn nicht leiden
+","Welcher Arzt hat Sie behandelt?
+Nitroglycerin muss mit äußerster Vorsicht behandelt werden.
+wurde nachlässig behandelt
+Wir haben ihn als Ehrengast behandelt.
+Die Ärztin, die mich behandelt hat, war sehr nett.
+","muss jährlich veröffentlicht werden
+1980 zum ersten Mal veröffentlicht
+","der Druck auf den Geldmarkt
+Bitte in Druckbuchstaben schreiben.
+","Lassen Sie mich an der Ecke aussteigen.
+Lassen wir das Thema.
+Man muss es ihm lassen.
+Unsere Preise lassen so gut wie keine Spanne.
+Ich kann es nicht lassen.
+Würden Sie uns bitte wissen lassen ...?
+Ich habe mich in der letzten Zeit sehr gehen lassen.
+Das muss man ihm lassen.
+Unsere Preise lassen nur eine kleine Spanne.
+Unsere Preise lassen nur eine kleine Spanne.
+Alice will sich scheiden lassen.
+Alice will sich scheiden lassen.
+Alice will sich scheiden lassen.
+Alice will sich von Peter scheiden lassen.
+","Das steht nicht in meiner Macht.
+Das steht auf einem anderen Blatt.
+Steht das Angebot noch, dass ...
+Steht das Angebot noch, dass ...
+Das steht auf einem anderen Blatt geschrieben.
+Das steht doch überhaupt nicht zur Debatte.
+Es steht Ihnen frei, zu gehen.
+Es steht Ihnen frei, zu gehen.
+Es steht Ihnen sehr gut.
+Ihr neuer Hut steht ihr gut.
+Wo steht er politisch?
+Das steht außer Frage.
+Das steht außer Frage.
+Er steht auf eigenen Füßen.
+","Er gibt auf. infinitive: aufgeben
+Das Auto gab den Geist auf. infinitive: aufgeben
+",,,"Wir haben mehrfach versucht, ihn zu erreichen, aber vergebens.
+Wer will es mal versuchen?
+soll versuchen den Grund festzustellen
+Bitte versuchen Sie ein attraktives Angebot zu machen.
+Bitte versuchen Sie zu ...
+Er versuchte es nicht einmal.
+Er versuchte es mir anzudrehen.
+Er versuchte, mit heiler Haut davonzukommen.
+","Ihm fehlen zwei Zähne.
+Die Lehrerin sagte, sie würde ein paar Tage fehlen.
+wenn besondere Bestimmungen fehlen
+Sie fehlt.
+Du fehlst mir
+Sie haben uns sehr gefehlt.
+Es fehlt etwas.
+Es fehlt etwas.
+Sie fehlt uns sehr.
+Es fehlte ihm der Mut dazu.
+Ihm fehlt der Mut dazu.
+Ihm fehlte der Mut völlig.
+es fehlt die Unterschrift
+",,"Wir organisieren die Messe.
+",,,"Er wird für unsere Firma reisen.
+Es geht nichts übers Reisen.
+Wir legen zusammen und reisen gemeinsam.
+Kinder reisen zum halben Preis.
+Er reiste eine Menge.
+Seine Reise war umsonst.
+","Ich würde lieber warten.
+Sind Sie bereit zu warten?
+Sind Sie bereit zu warten?
+Wir mussten drei geschlagene Stunden auf den Zug warten.
+Bitte warten Sie einen Augenblick.
+Sie müssen eine Nummer ziehen und warten
+Ich warte auf Ihre Erklärung.
+Ich warte lieber.
+Ich warte lieber bis zum Abend.
+Auf Peter wartet ein Freund.
+Beeil dich - das Taxi wartet schon!
+Ich wartete eine halbe Stunde in der Schlange.
+Ich wartete eine halbe Stunde in der Schlange.
+Ihr geht, und der Rest von uns wartet hier.
+","Besuchen Sie mich einmal.
+Besuchen Sie uns doch mal.
+Er wird Sie besuchen.
+Sie besuchen die Versammlung.
+Wir werden die Messe besuchen.
+eines der meistbesuchten Gebiete
+ein Besuch unseres Vertreters
+Ich habe Besuch.
+Ich habe Besuch.
+Er hat Besuch.
+Er bekommt selten Besuch.
+Er ist auf Besuch.
+Ich bin nur zu Besuch.
+Bezugnehmend auf den Besuch Ihres Vertreters ...
+immer wenn der Verkäufer einen Besuch macht
+","Stell das Radio ab! infinitive: abstellen
+",,"Fahren Sie nach links!
+Fahren wir nach London!
+Nichts wird mich davon abhalten, nach Edinburgh zu fahren.
+Lasst uns nach London fahren.
+Schiffe fahren von Bremerhaven ab
+Sie fahren Richtung Süden.
+Wohin fahren Sie?
+Was für ein Auto fahren sie?
+Sie fuhr rückwärts in mein Auto.
+Er fuhr für zwei Tage nach München.
+Das Auto fuhr unbeleuchtet und auf der falschen Straßenseite.
+Das Auto fuhr rückwärts in die Garage.
+Wie oft fährt die Straßenbahn zum Bahnhof?
+",,"haben ein neues Aussehen erhalten
+er sieht verdammt gut aus
+Welches Kleid sieht besser aus?
+Welches sieht besser aus?
+Du siehst zerzaust aus.
+Er sieht rüstig aus.
+Es sieht nach Regen aus.
+Es sieht nach Schnee aus.
+Die ganze Sache sieht verdächtig aus.
+","Ich werde morgen nochmals vorbeikommen.
+Er kommt nur gelegentlich vorbei. infinitive: vorbeikommen
+Ich komme auf einen Sprung vorbei.
 ",,
