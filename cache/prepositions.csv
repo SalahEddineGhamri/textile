@@ -1,8 +1,9 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
-",,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,"voll : Adjective
+",
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -91,7 +92,21 @@ to intersperse | interspersed, interspersed |
 to be out of pocket (Amer.) [coll.]
 to be back to square one
 ",,"to bend to ... ° [ENGIN.]
-"
+","to pay up
+to fill up
+to fully compensate
+to use sth. to full capacity
+to fill sth. ⇔ up
+to round sth. ⇔ off
+to ripen | ripened, ripened |
+to flower out
+to commit oneself
+to eat to repletion
+to be firmly committed to sth.
+to abound with sth.
+to be backing so. all the way
+to be a raving success
+",
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -180,7 +195,21 @@ hier und da einfügen
 nicht da sein
 wieder da sein, wo man angefangen hat
 ",,"um ... ° biegen [Mechanical Engineering]
-"
+","voll bezahlen
+voll werden
+voll ausgleichen
+etw.acc. voll ausnutzen
+etw.acc. vollmachen or: voll machen | machte voll, vollgemacht |
+etw.acc. vollmachen or: voll machen | machte voll, vollgemacht |
+sichacc. (voll) entwickeln | entwickelte, entwickelt |
+sichacc. voll entwickeln
+sichacc. voll einsetzen
+sichacc. voll essen
+sichacc. voll für etw.acc. einsetzen
+voll von etw.dat. sein
+voll hinter jmdm. stehen
+voll einschlagen [coll.] - Erfolg haben
+",
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -644,6 +673,34 @@ no-see-um [ZOOL.]
 performance upon counter-performance [LAW]
 to adjust for inflation [FINAN.]
 request for confirmation
+","full coverage
+clear working day
+full thrust
+full settlement
+settlement in full
+settlement made in full
+full of mistakes
+clear profit
+resonance - of voice
+name in full
+full price
+long day
+full settlement
+a raving success
+","information (as to) no plural
+joy (about (or: over) sth.)
+information (about) - short form: info
+information (about) no plural
+survey (of)
+anger (at sth.)
+anger (at sth.)
+anger (at sth.)
+over night [abbr.: o/n]
+to think sth. of so./sth.
+over head [TECH.]
+time-weighted average [abbr.: TWA] [TECH.]
+debate (about (or: on) sth.)
+discussion (about (or: on) sth.)
 "
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
@@ -1108,6 +1165,34 @@ die Gnitze Lat.: Ceratopogonidae
 die Zug-um-Zug-Abwicklung
 um die Inflation bereinigen
 Bitte um Bestätigung
+","voller Versicherungsschutz
+voller Werktag
+voller Schub
+voller Ausgleich
+voller Ausgleich
+voller Ausgleich
+voller Fehler
+voller Gewinn
+voller Klang - der Stimme
+voller Name
+voller Preis
+voller Tag
+voller Zahlungsausgleich
+ein voller Erfolg
+","die Auskunft (über) pl.: die Auskünfte
+die Freude (über etw.acc.) no plural
+die Information (über) pl.: die Informationen [abbr.: Info]
+die Informationen (über) pl.
+der Überblick (über) pl.: die Überblicke
+die Wut (über etw.acc.) no plural
+der Zorn (über etw.acc.) no plural
+der Ärger (über etw.acc.) no plural
+über Nacht
+etw.acc. über jmdn./etw. denken
+über Kopfhöhe
+über ... Stunden gewichteter Durchschnittswert [abbr.: TWA]
+die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
+die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
 "
 noun_details,english,"article: die
 word: Regierungspartei
@@ -1349,8 +1434,20 @@ genus: FEMI
 plural: die Ängste
 meaning: anxiety (for) [PSYCH.]
 rotated barcode
+","article: voller
+word: Versicherungsschutz
+genus: 
+plural: Versicherungsschutz
+meaning: full coverage
+clear working day
+","article: die
+word: Auskunft
+genus: FEMI
+plural: die Auskünfte
+meaning: information (as to) no plural
+joy (about (or: over) sth.)
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -1825,6 +1922,34 @@ around (or: round) the corner [coll.]
 by a short head (Brit.) [SPORT.]
 displaced (by) adj.
 encircling adj.
+","full of
+filled with
+rife with
+fraught (with)
+full adj.
+entire adj.
+complete adj.
+solid adj.
+crowded adj.
+broad adj.
+fraught adj.
+massive adj.
+maximum adj.
+plenteous adj.
+","across adv.
+upwards of
+left over
+atop [poet.] adv.
+unduly adv.
+excessively adv.
+overboard adv.
+criss-cross or: crisscross adj.
+diagonally adv.
+overnight adv.
+above ground
+at the surface
+above average
+above zero
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -2300,6 +2425,34 @@ um die Ecke
 um eine Nasenlänge
 versetzt (um)
 rings um
+","voller adj. - indekliniertes Adjektiv
+voller adj. - indekliniertes Adjektiv
+voller
+voller
+voll
+voll
+voll
+voll
+voll
+voll
+voll
+voll
+voll
+voll
+","über
+über
+über [coll.]
+über
+über Gebühr
+über Gebühr
+über Bord
+über Kreuz
+über Kreuz
+über Nacht
+übertage or: über Tage
+übertage or: über Tage
+über Durchschnitt
+über null
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -2792,6 +2945,34 @@ very nearly
 by a fraction of an inch
 by a hair
 within an ace
+","as large as life
+bags of money pl.
+a flowery meadow
+a woman's heart is a deep ocean of secrets
+lousy with cash [sl.]
+no vacancy
+lock, stock and barrel
+to hit the ground running [coll.] [fig.]
+packed to the gunnels
+a thimbleful
+a handful
+a fistful
+a palmful
+a spadeful
+","Overhead ... [SPORT.]
+Shoulder arms! [MIL.]
+at a rough estimate
+by rule of thumb
+over hill and dale
+over rough and smooth
+The firm is on the brink of disaster.
+beyond one's own nose [fig.]
+across the pond chiefly [fig.] [hum.]
+head over heels
+in a mad rush
+pell-mell or: pellmell adv.
+head over heels in love
+Over my dead body!
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -3284,6 +3465,34 @@ um ein Haar - beinahe, fast
 um ein Haar - beinahe, fast
 um ein Haar - beinahe, fast
 um ein Haar - beinahe, fast
+","in voller Lebensgröße
+Säcke voller Geld
+eine Wiese voller Blumen
+das Herz einer Frau ist ein tiefer Ozean voller Geheimnisse
+Taschen voller Geld
+voll belegt
+voll und ganz
+voll durchstarten
+gerammelt voll
+ein Fingerhut (voll)
+eine Handvoll (or: Hand voll)
+eine Handvoll (or: Hand voll)
+eine Handvoll (or: Hand voll)
+ein Spaten (voll)
+","Über Kopf ... - Ruderkommando
+Das Gewehr über!
+über den Daumen gepeilt
+über den Daumen gepeilt
+über Stock und Stein
+über Stock und Stein
+Über der Firma schwebt der Pleitegeier.
+über den eigenen Tellerrand [fig.]
+über den großen Teich [fig.] [hum.]
+Hals über Kopf
+Hals über Kopf
+Hals über Kopf
+bis über beide Ohren verliebt
+Nur über meine Leiche!
 "
 examples,english,"in English
 in 1999
@@ -3848,6 +4057,33 @@ in order to guard against misunderstandings
 some time around Easter
 in order to acquaint you with our products
 in order to encourage you
+","Her eyes were filled with tears.
+a full statement of accounts
+She is not responsible for her actions.
+which will have our full attention
+will be credited in full
+The pub was overcrowded.
+That's where he comes into his own.
+That's where it comes into its own.
+clock that strikes the hours
+our perfect appreciation
+our perfect satisfaction with
+They'll throw the book at you if you get found out. [fig.]
+a wagonload lot
+","via Harwich
+via the Internet
+via bonds [FINAN.]
+above the union rate
+above the basic price
+above the line
+a good pound
+extending over several weeks
+over 20 in number
+about the nature of the business
+about the firm in question
+who already has experience
+over the entire term
+There's no accounting for taste.
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -4412,4 +4648,31 @@ um Missverständnissen vorzubeugen
 um Ostern herum
 um Sie mit unserer Ware vertraut zu machen
 um Sie zu ermutigen
+","Ihre Augen standen voller Tränen.
+ein voller Rechenschaftsbericht
+Sie ist für ihre Handlungen nicht voll verantwortlich.
+welchem wir uns voll widmen werden
+wird voll gutgeschrieben
+das Lokal war gerammelt voll.
+Da kommt er voll zur Geltung.
+Da kommt es voll zur Geltung.
+Uhr, die die vollen Stunden schlägt
+unsere volle Wertschätzung
+unsere volle Zufriedenheit mit
+Du wirst die volle Härte des Gesetzes zu spüren bekommen, wenn sie dich erwischen.
+eine volle Wagenladung
+","über Harwich
+über das Internet
+über Anlagen
+über dem Gewerkschaftslohn
+über dem Grundpreis
+über der Linie
+über ein Pfund
+sich über mehrere Wochen erstreckend
+über 20 an der Zahl
+über die Art des Geschäfts
+über die besagte Firma
+der über Erfahrung verfügt
+über die gesamte Laufzeit
+Über Geschmack lässt sich nicht streiten.
 "

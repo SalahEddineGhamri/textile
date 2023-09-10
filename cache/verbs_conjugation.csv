@@ -1,4 +1,4 @@
-voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,verhindern,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,vorbereitet,eingepackt,erkunden,probieren,sammeln,vergessen
+voice,tense,angeklagt,heißt,sagt,gefälscht,verboten,musste,kommen,gesagt,getan,untersucht,entschieden,bekommt,gewählt,trete,helfen,angreift,beigetreten,hat,geändert,angegriffen,gegeben,hochgezogen,freuen,geklappt,kritisiert,unternehmen,aufnimmt,sagen,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,eingesprochen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,habe,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,wissen,hassen,melden,erlaubt,rauchen,genutzt,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,verhindern,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,vorbereitet,eingepackt,erkunden,probieren,sammeln,vergessen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen
 indicative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -739,7 +739,82 @@ indicative_active,Present," ich klag(e) an
  er vergisst
  wir vergessen
  ihr vergesst
- sie vergessen"
+ sie vergessen"," ich schein(e)
+ du scheinst
+ er scheint
+ wir scheinen
+ ihr scheint
+ sie scheinen"," ich sing(e)
+ du singst
+ er singt
+ wir singen
+ ihr singt
+ sie singen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich spiel(e)
+ du spielst
+ er spielt
+ wir spielen
+ ihr spielt
+ sie spielen"," ich werf(e)
+ du wirfst
+ er wirft
+ wir werfen
+ ihr werft
+ sie werfen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich sitz(e)
+ du sitzt
+ er sitzt
+ wir sitzen
+ ihr sitzt
+ sie sitzen"," ich les(e)
+ du liest
+ er liest
+ wir lesen
+ ihr lest
+ sie lesen"," ich fess(e)l(e)
+ du fesselst
+ er fesselt
+ wir fesseln
+ ihr fesselt
+ sie fesseln",," ich stehl(e)
+ du stiehlst
+ er stiehlt
+ wir stehlen
+ ihr stehlt
+ sie stehlen"," ich renn(e)
+ du rennst
+ er rennt
+ wir rennen
+ ihr rennt
+ sie rennen"," ich ruf(e)
+ du rufst
+ er ruft
+ wir rufen
+ ihr ruft
+ sie rufen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich vergeh(e)
+ du vergehst
+ er vergeht
+ wir vergeh(e)n
+ ihr vergeht
+ sie vergeh(e)n"," ich verlass(e)
+ du verlässt
+ er verlässt
+ wir verlassen
+ ihr verlasst
+ sie verlassen"
 indicative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -1480,7 +1555,82 @@ indicative_active,Imperfect," ich klagte an
  er vergaß
  wir vergaßen
  ihr vergaß(e)t
- sie vergaßen"
+ sie vergaßen"," ich schien
+ du schienst
+ er schien
+ wir schienen
+ ihr schient
+ sie schienen"," ich sang
+ du sangst
+ er sang
+ wir sangen
+ ihr sangt
+ sie sangen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich spielte
+ du spieltest
+ er spielte
+ wir spielten
+ ihr spieltet
+ sie spielten"," ich warf
+ du warfst
+ er warf
+ wir warfen
+ ihr warft
+ sie warfen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich saß
+ du saß(es)t
+ er saß
+ wir saßen
+ ihr saß(e)t
+ sie saßen"," ich las
+ du las(es)t
+ er las
+ wir lasen
+ ihr las(e)t
+ sie lasen"," ich fesselte
+ du fesseltest
+ er fesselte
+ wir fesselten
+ ihr fesseltet
+ sie fesselten",," ich stahl
+ du stahlst
+ er stahl
+ wir stahlen
+ ihr stahlt
+ sie stahlen"," ich rannte
+ du ranntest
+ er rannte
+ wir rannten
+ ihr ranntet
+ sie rannten"," ich rief
+ du riefst
+ er rief
+ wir riefen
+ ihr rieft
+ sie riefen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich verging
+ du vergingst
+ er verging
+ wir vergingen
+ ihr vergingt
+ sie vergingen"," ich verließ
+ du verließ(es)t
+ er verließ
+ wir verließen
+ ihr verließ(e)t
+ sie verließen"
 indicative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -2221,7 +2371,82 @@ indicative_active,Perfect," ich habe angeklagt
  er hat vergessen
  wir haben vergessen
  ihr habt vergessen
- sie haben vergessen"
+ sie haben vergessen"," ich habe geschienen
+ du hast geschienen
+ er hat geschienen
+ wir haben geschienen
+ ihr habt geschienen
+ sie haben geschienen"," ich habe gesungen
+ du hast gesungen
+ er hat gesungen
+ wir haben gesungen
+ ihr habt gesungen
+ sie haben gesungen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gespielt
+ du hast gespielt
+ er hat gespielt
+ wir haben gespielt
+ ihr habt gespielt
+ sie haben gespielt"," ich habe geworfen
+ du hast geworfen
+ er hat geworfen
+ wir haben geworfen
+ ihr habt geworfen
+ sie haben geworfen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich habe gesessen
+ du hast gesessen
+ er hat gesessen
+ wir haben gesessen
+ ihr habt gesessen
+ sie haben gesessen"," ich habe gelesen
+ du hast gelesen
+ er hat gelesen
+ wir haben gelesen
+ ihr habt gelesen
+ sie haben gelesen"," ich habe gefesselt
+ du hast gefesselt
+ er hat gefesselt
+ wir haben gefesselt
+ ihr habt gefesselt
+ sie haben gefesselt",," ich habe gestohlen
+ du hast gestohlen
+ er hat gestohlen
+ wir haben gestohlen
+ ihr habt gestohlen
+ sie haben gestohlen"," ich bin gerannt
+ du bist gerannt
+ er ist gerannt
+ wir sind gerannt
+ ihr seid gerannt
+ sie sind gerannt"," ich habe gerufen
+ du hast gerufen
+ er hat gerufen
+ wir haben gerufen
+ ihr habt gerufen
+ sie haben gerufen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich bin vergangen
+ du bist vergangen
+ er ist vergangen
+ wir sind vergangen
+ ihr seid vergangen
+ sie sind vergangen"," ich habe verlassen
+ du hast verlassen
+ er hat verlassen
+ wir haben verlassen
+ ihr habt verlassen
+ sie haben verlassen"
 indicative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -2962,7 +3187,82 @@ indicative_active,Pluperfect," ich hatte angeklagt
  er hatte vergessen
  wir hatten vergessen
  ihr hattet vergessen
- sie hatten vergessen"
+ sie hatten vergessen"," ich hatte geschienen
+ du hattest geschienen
+ er hatte geschienen
+ wir hatten geschienen
+ ihr hattet geschienen
+ sie hatten geschienen"," ich hatte gesungen
+ du hattest gesungen
+ er hatte gesungen
+ wir hatten gesungen
+ ihr hattet gesungen
+ sie hatten gesungen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gespielt
+ du hattest gespielt
+ er hatte gespielt
+ wir hatten gespielt
+ ihr hattet gespielt
+ sie hatten gespielt"," ich hatte geworfen
+ du hattest geworfen
+ er hatte geworfen
+ wir hatten geworfen
+ ihr hattet geworfen
+ sie hatten geworfen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich hatte gesessen
+ du hattest gesessen
+ er hatte gesessen
+ wir hatten gesessen
+ ihr hattet gesessen
+ sie hatten gesessen"," ich hatte gelesen
+ du hattest gelesen
+ er hatte gelesen
+ wir hatten gelesen
+ ihr hattet gelesen
+ sie hatten gelesen"," ich hatte gefesselt
+ du hattest gefesselt
+ er hatte gefesselt
+ wir hatten gefesselt
+ ihr hattet gefesselt
+ sie hatten gefesselt",," ich hatte gestohlen
+ du hattest gestohlen
+ er hatte gestohlen
+ wir hatten gestohlen
+ ihr hattet gestohlen
+ sie hatten gestohlen"," ich war gerannt
+ du warst gerannt
+ er war gerannt
+ wir waren gerannt
+ ihr wart gerannt
+ sie waren gerannt"," ich hatte gerufen
+ du hattest gerufen
+ er hatte gerufen
+ wir hatten gerufen
+ ihr hattet gerufen
+ sie hatten gerufen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich war vergangen
+ du warst vergangen
+ er war vergangen
+ wir waren vergangen
+ ihr wart vergangen
+ sie waren vergangen"," ich hatte verlassen
+ du hattest verlassen
+ er hatte verlassen
+ wir hatten verlassen
+ ihr hattet verlassen
+ sie hatten verlassen"
 indicative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -3703,7 +4003,82 @@ indicative_active,Future," ich werde anklagen
  er wird vergessen
  wir werden vergessen
  ihr werdet vergessen
- sie werden vergessen"
+ sie werden vergessen"," ich werde scheinen
+ du wirst scheinen
+ er wird scheinen
+ wir werden scheinen
+ ihr werdet scheinen
+ sie werden scheinen"," ich werde singen
+ du wirst singen
+ er wird singen
+ wir werden singen
+ ihr werdet singen
+ sie werden singen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde spielen
+ du wirst spielen
+ er wird spielen
+ wir werden spielen
+ ihr werdet spielen
+ sie werden spielen"," ich werde werfen
+ du wirst werfen
+ er wird werfen
+ wir werden werfen
+ ihr werdet werfen
+ sie werden werfen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde sitzen
+ du wirst sitzen
+ er wird sitzen
+ wir werden sitzen
+ ihr werdet sitzen
+ sie werden sitzen"," ich werde lesen
+ du wirst lesen
+ er wird lesen
+ wir werden lesen
+ ihr werdet lesen
+ sie werden lesen"," ich werde fesseln
+ du wirst fesseln
+ er wird fesseln
+ wir werden fesseln
+ ihr werdet fesseln
+ sie werden fesseln",," ich werde stehlen
+ du wirst stehlen
+ er wird stehlen
+ wir werden stehlen
+ ihr werdet stehlen
+ sie werden stehlen"," ich werde rennen
+ du wirst rennen
+ er wird rennen
+ wir werden rennen
+ ihr werdet rennen
+ sie werden rennen"," ich werde rufen
+ du wirst rufen
+ er wird rufen
+ wir werden rufen
+ ihr werdet rufen
+ sie werden rufen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde vergeh(e)n
+ du wirst vergeh(e)n
+ er wird vergeh(e)n
+ wir werden vergeh(e)n
+ ihr werdet vergeh(e)n
+ sie werden vergeh(e)n"," ich werde verlassen
+ du wirst verlassen
+ er wird verlassen
+ wir werden verlassen
+ ihr werdet verlassen
+ sie werden verlassen"
 indicative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -4444,7 +4819,82 @@ indicative_active,FuturePerfect," ich werde angeklagt haben
  er wird vergessen haben
  wir werden vergessen haben
  ihr werdet vergessen haben
- sie werden vergessen haben"
+ sie werden vergessen haben"," ich werde geschienen haben
+ du wirst geschienen haben
+ er wird geschienen haben
+ wir werden geschienen haben
+ ihr werdet geschienen haben
+ sie werden geschienen haben"," ich werde gesungen haben
+ du wirst gesungen haben
+ er wird gesungen haben
+ wir werden gesungen haben
+ ihr werdet gesungen haben
+ sie werden gesungen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gespielt haben
+ du wirst gespielt haben
+ er wird gespielt haben
+ wir werden gespielt haben
+ ihr werdet gespielt haben
+ sie werden gespielt haben"," ich werde geworfen haben
+ du wirst geworfen haben
+ er wird geworfen haben
+ wir werden geworfen haben
+ ihr werdet geworfen haben
+ sie werden geworfen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde gesessen haben
+ du wirst gesessen haben
+ er wird gesessen haben
+ wir werden gesessen haben
+ ihr werdet gesessen haben
+ sie werden gesessen haben"," ich werde gelesen haben
+ du wirst gelesen haben
+ er wird gelesen haben
+ wir werden gelesen haben
+ ihr werdet gelesen haben
+ sie werden gelesen haben"," ich werde gefesselt haben
+ du wirst gefesselt haben
+ er wird gefesselt haben
+ wir werden gefesselt haben
+ ihr werdet gefesselt haben
+ sie werden gefesselt haben",," ich werde gestohlen haben
+ du wirst gestohlen haben
+ er wird gestohlen haben
+ wir werden gestohlen haben
+ ihr werdet gestohlen haben
+ sie werden gestohlen haben"," ich werde gerannt sein
+ du wirst gerannt sein
+ er wird gerannt sein
+ wir werden gerannt sein
+ ihr werdet gerannt sein
+ sie werden gerannt sein"," ich werde gerufen haben
+ du wirst gerufen haben
+ er wird gerufen haben
+ wir werden gerufen haben
+ ihr werdet gerufen haben
+ sie werden gerufen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde vergangen sein
+ du wirst vergangen sein
+ er wird vergangen sein
+ wir werden vergangen sein
+ ihr werdet vergangen sein
+ sie werden vergangen sein"," ich werde verlassen haben
+ du wirst verlassen haben
+ er wird verlassen haben
+ wir werden verlassen haben
+ ihr werdet verlassen haben
+ sie werden verlassen haben"
 indicative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -4593,7 +5043,22 @@ indicative_active,InfinitiveI," anklagen
  zu erkunden"," probieren
  zu probieren"," sammeln
  zu sammeln"," vergessen
- zu vergessen"
+ zu vergessen"," scheinen
+ zu scheinen"," singen
+ zu singen"," seh(e)n
+ zu seh(e)n"," spielen
+ zu spielen"," werfen
+ zu werfen"," lachen
+ zu lachen"," sitzen
+ zu sitzen"," lesen
+ zu lesen"," fesseln
+ zu fesseln",," stehlen
+ zu stehlen"," rennen
+ zu rennen"," rufen
+ zu rufen"," lachen
+ zu lachen"," vergeh(e)n
+ zu vergeh(e)n"," verlassen
+ zu verlassen"
 indicative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -4742,9 +5207,24 @@ indicative_active,InfinitiveII," angeklagt haben
  erkundet zu haben"," probiert haben
  probiert zu haben"," gesammelt haben
  gesammelt zu haben"," vergessen haben
- vergessen zu haben"
-indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
-indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
+ vergessen zu haben"," geschienen haben
+ geschienen zu haben"," gesungen haben
+ gesungen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gespielt haben
+ gespielt zu haben"," geworfen haben
+ geworfen zu haben"," gelacht haben
+ gelacht zu haben"," gesessen haben
+ gesessen zu haben"," gelesen haben
+ gelesen zu haben"," gefesselt haben
+ gefesselt zu haben",," gestohlen haben
+ gestohlen zu haben"," gerannt sein
+ gerannt zu sein"," gerufen haben
+ gerufen zu haben"," gelacht haben
+ gelacht zu haben"," vergangen sein
+ vergangen zu sein"," verlassen haben
+ verlassen zu haben"
+indicative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend, scheinend, singend, sehend, spielend, werfend, lachend, sitzend, lesend, fesselnd,, stehlend, rennend, rufend, lachend, vergehend, verlassend
+indicative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen, geschienen, gesungen, geseh(e)n, gespielt, geworfen, gelacht, gesessen, gelesen, gefesselt,, gestohlen, gerannt, gerufen, gelacht, vergangen, verlassen
 subjunctive_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -5485,7 +5965,82 @@ subjunctive_active,Present," ich klag(e) an
  er vergisst
  wir vergessen
  ihr vergesst
- sie vergessen"
+ sie vergessen"," ich schein(e)
+ du scheinst
+ er scheint
+ wir scheinen
+ ihr scheint
+ sie scheinen"," ich sing(e)
+ du singst
+ er singt
+ wir singen
+ ihr singt
+ sie singen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich spiel(e)
+ du spielst
+ er spielt
+ wir spielen
+ ihr spielt
+ sie spielen"," ich werf(e)
+ du wirfst
+ er wirft
+ wir werfen
+ ihr werft
+ sie werfen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich sitz(e)
+ du sitzt
+ er sitzt
+ wir sitzen
+ ihr sitzt
+ sie sitzen"," ich les(e)
+ du liest
+ er liest
+ wir lesen
+ ihr lest
+ sie lesen"," ich fess(e)l(e)
+ du fesselst
+ er fesselt
+ wir fesseln
+ ihr fesselt
+ sie fesseln",," ich stehl(e)
+ du stiehlst
+ er stiehlt
+ wir stehlen
+ ihr stehlt
+ sie stehlen"," ich renn(e)
+ du rennst
+ er rennt
+ wir rennen
+ ihr rennt
+ sie rennen"," ich ruf(e)
+ du rufst
+ er ruft
+ wir rufen
+ ihr ruft
+ sie rufen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich vergeh(e)
+ du vergehst
+ er vergeht
+ wir vergeh(e)n
+ ihr vergeht
+ sie vergeh(e)n"," ich verlass(e)
+ du verlässt
+ er verlässt
+ wir verlassen
+ ihr verlasst
+ sie verlassen"
 subjunctive_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -6226,7 +6781,82 @@ subjunctive_active,Imperfect," ich klagte an
  er vergaß
  wir vergaßen
  ihr vergaß(e)t
- sie vergaßen"
+ sie vergaßen"," ich schien
+ du schienst
+ er schien
+ wir schienen
+ ihr schient
+ sie schienen"," ich sang
+ du sangst
+ er sang
+ wir sangen
+ ihr sangt
+ sie sangen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich spielte
+ du spieltest
+ er spielte
+ wir spielten
+ ihr spieltet
+ sie spielten"," ich warf
+ du warfst
+ er warf
+ wir warfen
+ ihr warft
+ sie warfen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich saß
+ du saß(es)t
+ er saß
+ wir saßen
+ ihr saß(e)t
+ sie saßen"," ich las
+ du las(es)t
+ er las
+ wir lasen
+ ihr las(e)t
+ sie lasen"," ich fesselte
+ du fesseltest
+ er fesselte
+ wir fesselten
+ ihr fesseltet
+ sie fesselten",," ich stahl
+ du stahlst
+ er stahl
+ wir stahlen
+ ihr stahlt
+ sie stahlen"," ich rannte
+ du ranntest
+ er rannte
+ wir rannten
+ ihr ranntet
+ sie rannten"," ich rief
+ du riefst
+ er rief
+ wir riefen
+ ihr rieft
+ sie riefen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich verging
+ du vergingst
+ er verging
+ wir vergingen
+ ihr vergingt
+ sie vergingen"," ich verließ
+ du verließ(es)t
+ er verließ
+ wir verließen
+ ihr verließ(e)t
+ sie verließen"
 subjunctive_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -6967,7 +7597,82 @@ subjunctive_active,Perfect," ich habe angeklagt
  er hat vergessen
  wir haben vergessen
  ihr habt vergessen
- sie haben vergessen"
+ sie haben vergessen"," ich habe geschienen
+ du hast geschienen
+ er hat geschienen
+ wir haben geschienen
+ ihr habt geschienen
+ sie haben geschienen"," ich habe gesungen
+ du hast gesungen
+ er hat gesungen
+ wir haben gesungen
+ ihr habt gesungen
+ sie haben gesungen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gespielt
+ du hast gespielt
+ er hat gespielt
+ wir haben gespielt
+ ihr habt gespielt
+ sie haben gespielt"," ich habe geworfen
+ du hast geworfen
+ er hat geworfen
+ wir haben geworfen
+ ihr habt geworfen
+ sie haben geworfen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich habe gesessen
+ du hast gesessen
+ er hat gesessen
+ wir haben gesessen
+ ihr habt gesessen
+ sie haben gesessen"," ich habe gelesen
+ du hast gelesen
+ er hat gelesen
+ wir haben gelesen
+ ihr habt gelesen
+ sie haben gelesen"," ich habe gefesselt
+ du hast gefesselt
+ er hat gefesselt
+ wir haben gefesselt
+ ihr habt gefesselt
+ sie haben gefesselt",," ich habe gestohlen
+ du hast gestohlen
+ er hat gestohlen
+ wir haben gestohlen
+ ihr habt gestohlen
+ sie haben gestohlen"," ich bin gerannt
+ du bist gerannt
+ er ist gerannt
+ wir sind gerannt
+ ihr seid gerannt
+ sie sind gerannt"," ich habe gerufen
+ du hast gerufen
+ er hat gerufen
+ wir haben gerufen
+ ihr habt gerufen
+ sie haben gerufen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich bin vergangen
+ du bist vergangen
+ er ist vergangen
+ wir sind vergangen
+ ihr seid vergangen
+ sie sind vergangen"," ich habe verlassen
+ du hast verlassen
+ er hat verlassen
+ wir haben verlassen
+ ihr habt verlassen
+ sie haben verlassen"
 subjunctive_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -7708,7 +8413,82 @@ subjunctive_active,Pluperfect," ich hatte angeklagt
  er hatte vergessen
  wir hatten vergessen
  ihr hattet vergessen
- sie hatten vergessen"
+ sie hatten vergessen"," ich hatte geschienen
+ du hattest geschienen
+ er hatte geschienen
+ wir hatten geschienen
+ ihr hattet geschienen
+ sie hatten geschienen"," ich hatte gesungen
+ du hattest gesungen
+ er hatte gesungen
+ wir hatten gesungen
+ ihr hattet gesungen
+ sie hatten gesungen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gespielt
+ du hattest gespielt
+ er hatte gespielt
+ wir hatten gespielt
+ ihr hattet gespielt
+ sie hatten gespielt"," ich hatte geworfen
+ du hattest geworfen
+ er hatte geworfen
+ wir hatten geworfen
+ ihr hattet geworfen
+ sie hatten geworfen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich hatte gesessen
+ du hattest gesessen
+ er hatte gesessen
+ wir hatten gesessen
+ ihr hattet gesessen
+ sie hatten gesessen"," ich hatte gelesen
+ du hattest gelesen
+ er hatte gelesen
+ wir hatten gelesen
+ ihr hattet gelesen
+ sie hatten gelesen"," ich hatte gefesselt
+ du hattest gefesselt
+ er hatte gefesselt
+ wir hatten gefesselt
+ ihr hattet gefesselt
+ sie hatten gefesselt",," ich hatte gestohlen
+ du hattest gestohlen
+ er hatte gestohlen
+ wir hatten gestohlen
+ ihr hattet gestohlen
+ sie hatten gestohlen"," ich war gerannt
+ du warst gerannt
+ er war gerannt
+ wir waren gerannt
+ ihr wart gerannt
+ sie waren gerannt"," ich hatte gerufen
+ du hattest gerufen
+ er hatte gerufen
+ wir hatten gerufen
+ ihr hattet gerufen
+ sie hatten gerufen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich war vergangen
+ du warst vergangen
+ er war vergangen
+ wir waren vergangen
+ ihr wart vergangen
+ sie waren vergangen"," ich hatte verlassen
+ du hattest verlassen
+ er hatte verlassen
+ wir hatten verlassen
+ ihr hattet verlassen
+ sie hatten verlassen"
 subjunctive_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -8449,7 +9229,82 @@ subjunctive_active,Future," ich werde anklagen
  er wird vergessen
  wir werden vergessen
  ihr werdet vergessen
- sie werden vergessen"
+ sie werden vergessen"," ich werde scheinen
+ du wirst scheinen
+ er wird scheinen
+ wir werden scheinen
+ ihr werdet scheinen
+ sie werden scheinen"," ich werde singen
+ du wirst singen
+ er wird singen
+ wir werden singen
+ ihr werdet singen
+ sie werden singen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde spielen
+ du wirst spielen
+ er wird spielen
+ wir werden spielen
+ ihr werdet spielen
+ sie werden spielen"," ich werde werfen
+ du wirst werfen
+ er wird werfen
+ wir werden werfen
+ ihr werdet werfen
+ sie werden werfen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde sitzen
+ du wirst sitzen
+ er wird sitzen
+ wir werden sitzen
+ ihr werdet sitzen
+ sie werden sitzen"," ich werde lesen
+ du wirst lesen
+ er wird lesen
+ wir werden lesen
+ ihr werdet lesen
+ sie werden lesen"," ich werde fesseln
+ du wirst fesseln
+ er wird fesseln
+ wir werden fesseln
+ ihr werdet fesseln
+ sie werden fesseln",," ich werde stehlen
+ du wirst stehlen
+ er wird stehlen
+ wir werden stehlen
+ ihr werdet stehlen
+ sie werden stehlen"," ich werde rennen
+ du wirst rennen
+ er wird rennen
+ wir werden rennen
+ ihr werdet rennen
+ sie werden rennen"," ich werde rufen
+ du wirst rufen
+ er wird rufen
+ wir werden rufen
+ ihr werdet rufen
+ sie werden rufen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde vergeh(e)n
+ du wirst vergeh(e)n
+ er wird vergeh(e)n
+ wir werden vergeh(e)n
+ ihr werdet vergeh(e)n
+ sie werden vergeh(e)n"," ich werde verlassen
+ du wirst verlassen
+ er wird verlassen
+ wir werden verlassen
+ ihr werdet verlassen
+ sie werden verlassen"
 subjunctive_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -9190,7 +10045,82 @@ subjunctive_active,FuturePerfect," ich werde angeklagt haben
  er wird vergessen haben
  wir werden vergessen haben
  ihr werdet vergessen haben
- sie werden vergessen haben"
+ sie werden vergessen haben"," ich werde geschienen haben
+ du wirst geschienen haben
+ er wird geschienen haben
+ wir werden geschienen haben
+ ihr werdet geschienen haben
+ sie werden geschienen haben"," ich werde gesungen haben
+ du wirst gesungen haben
+ er wird gesungen haben
+ wir werden gesungen haben
+ ihr werdet gesungen haben
+ sie werden gesungen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gespielt haben
+ du wirst gespielt haben
+ er wird gespielt haben
+ wir werden gespielt haben
+ ihr werdet gespielt haben
+ sie werden gespielt haben"," ich werde geworfen haben
+ du wirst geworfen haben
+ er wird geworfen haben
+ wir werden geworfen haben
+ ihr werdet geworfen haben
+ sie werden geworfen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde gesessen haben
+ du wirst gesessen haben
+ er wird gesessen haben
+ wir werden gesessen haben
+ ihr werdet gesessen haben
+ sie werden gesessen haben"," ich werde gelesen haben
+ du wirst gelesen haben
+ er wird gelesen haben
+ wir werden gelesen haben
+ ihr werdet gelesen haben
+ sie werden gelesen haben"," ich werde gefesselt haben
+ du wirst gefesselt haben
+ er wird gefesselt haben
+ wir werden gefesselt haben
+ ihr werdet gefesselt haben
+ sie werden gefesselt haben",," ich werde gestohlen haben
+ du wirst gestohlen haben
+ er wird gestohlen haben
+ wir werden gestohlen haben
+ ihr werdet gestohlen haben
+ sie werden gestohlen haben"," ich werde gerannt sein
+ du wirst gerannt sein
+ er wird gerannt sein
+ wir werden gerannt sein
+ ihr werdet gerannt sein
+ sie werden gerannt sein"," ich werde gerufen haben
+ du wirst gerufen haben
+ er wird gerufen haben
+ wir werden gerufen haben
+ ihr werdet gerufen haben
+ sie werden gerufen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde vergangen sein
+ du wirst vergangen sein
+ er wird vergangen sein
+ wir werden vergangen sein
+ ihr werdet vergangen sein
+ sie werden vergangen sein"," ich werde verlassen haben
+ du wirst verlassen haben
+ er wird verlassen haben
+ wir werden verlassen haben
+ ihr werdet verlassen haben
+ sie werden verlassen haben"
 subjunctive_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -9339,7 +10269,22 @@ subjunctive_active,InfinitiveI," anklagen
  zu erkunden"," probieren
  zu probieren"," sammeln
  zu sammeln"," vergessen
- zu vergessen"
+ zu vergessen"," scheinen
+ zu scheinen"," singen
+ zu singen"," seh(e)n
+ zu seh(e)n"," spielen
+ zu spielen"," werfen
+ zu werfen"," lachen
+ zu lachen"," sitzen
+ zu sitzen"," lesen
+ zu lesen"," fesseln
+ zu fesseln",," stehlen
+ zu stehlen"," rennen
+ zu rennen"," rufen
+ zu rufen"," lachen
+ zu lachen"," vergeh(e)n
+ zu vergeh(e)n"," verlassen
+ zu verlassen"
 subjunctive_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -9488,9 +10433,24 @@ subjunctive_active,InfinitiveII," angeklagt haben
  erkundet zu haben"," probiert haben
  probiert zu haben"," gesammelt haben
  gesammelt zu haben"," vergessen haben
- vergessen zu haben"
-subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
-subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
+ vergessen zu haben"," geschienen haben
+ geschienen zu haben"," gesungen haben
+ gesungen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gespielt haben
+ gespielt zu haben"," geworfen haben
+ geworfen zu haben"," gelacht haben
+ gelacht zu haben"," gesessen haben
+ gesessen zu haben"," gelesen haben
+ gelesen zu haben"," gefesselt haben
+ gefesselt zu haben",," gestohlen haben
+ gestohlen zu haben"," gerannt sein
+ gerannt zu sein"," gerufen haben
+ gerufen zu haben"," gelacht haben
+ gelacht zu haben"," vergangen sein
+ vergangen zu sein"," verlassen haben
+ verlassen zu haben"
+subjunctive_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend, scheinend, singend, sehend, spielend, werfend, lachend, sitzend, lesend, fesselnd,, stehlend, rennend, rufend, lachend, vergehend, verlassend
+subjunctive_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen, geschienen, gesungen, geseh(e)n, gespielt, geworfen, gelacht, gesessen, gelesen, gefesselt,, gestohlen, gerannt, gerufen, gelacht, vergangen, verlassen
 conditional_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -10231,7 +11191,82 @@ conditional_active,Present," ich klag(e) an
  er vergisst
  wir vergessen
  ihr vergesst
- sie vergessen"
+ sie vergessen"," ich schein(e)
+ du scheinst
+ er scheint
+ wir scheinen
+ ihr scheint
+ sie scheinen"," ich sing(e)
+ du singst
+ er singt
+ wir singen
+ ihr singt
+ sie singen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich spiel(e)
+ du spielst
+ er spielt
+ wir spielen
+ ihr spielt
+ sie spielen"," ich werf(e)
+ du wirfst
+ er wirft
+ wir werfen
+ ihr werft
+ sie werfen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich sitz(e)
+ du sitzt
+ er sitzt
+ wir sitzen
+ ihr sitzt
+ sie sitzen"," ich les(e)
+ du liest
+ er liest
+ wir lesen
+ ihr lest
+ sie lesen"," ich fess(e)l(e)
+ du fesselst
+ er fesselt
+ wir fesseln
+ ihr fesselt
+ sie fesseln",," ich stehl(e)
+ du stiehlst
+ er stiehlt
+ wir stehlen
+ ihr stehlt
+ sie stehlen"," ich renn(e)
+ du rennst
+ er rennt
+ wir rennen
+ ihr rennt
+ sie rennen"," ich ruf(e)
+ du rufst
+ er ruft
+ wir rufen
+ ihr ruft
+ sie rufen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich vergeh(e)
+ du vergehst
+ er vergeht
+ wir vergeh(e)n
+ ihr vergeht
+ sie vergeh(e)n"," ich verlass(e)
+ du verlässt
+ er verlässt
+ wir verlassen
+ ihr verlasst
+ sie verlassen"
 conditional_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -10972,7 +12007,82 @@ conditional_active,Imperfect," ich klagte an
  er vergaß
  wir vergaßen
  ihr vergaß(e)t
- sie vergaßen"
+ sie vergaßen"," ich schien
+ du schienst
+ er schien
+ wir schienen
+ ihr schient
+ sie schienen"," ich sang
+ du sangst
+ er sang
+ wir sangen
+ ihr sangt
+ sie sangen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich spielte
+ du spieltest
+ er spielte
+ wir spielten
+ ihr spieltet
+ sie spielten"," ich warf
+ du warfst
+ er warf
+ wir warfen
+ ihr warft
+ sie warfen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich saß
+ du saß(es)t
+ er saß
+ wir saßen
+ ihr saß(e)t
+ sie saßen"," ich las
+ du las(es)t
+ er las
+ wir lasen
+ ihr las(e)t
+ sie lasen"," ich fesselte
+ du fesseltest
+ er fesselte
+ wir fesselten
+ ihr fesseltet
+ sie fesselten",," ich stahl
+ du stahlst
+ er stahl
+ wir stahlen
+ ihr stahlt
+ sie stahlen"," ich rannte
+ du ranntest
+ er rannte
+ wir rannten
+ ihr ranntet
+ sie rannten"," ich rief
+ du riefst
+ er rief
+ wir riefen
+ ihr rieft
+ sie riefen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich verging
+ du vergingst
+ er verging
+ wir vergingen
+ ihr vergingt
+ sie vergingen"," ich verließ
+ du verließ(es)t
+ er verließ
+ wir verließen
+ ihr verließ(e)t
+ sie verließen"
 conditional_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -11713,7 +12823,82 @@ conditional_active,Perfect," ich habe angeklagt
  er hat vergessen
  wir haben vergessen
  ihr habt vergessen
- sie haben vergessen"
+ sie haben vergessen"," ich habe geschienen
+ du hast geschienen
+ er hat geschienen
+ wir haben geschienen
+ ihr habt geschienen
+ sie haben geschienen"," ich habe gesungen
+ du hast gesungen
+ er hat gesungen
+ wir haben gesungen
+ ihr habt gesungen
+ sie haben gesungen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gespielt
+ du hast gespielt
+ er hat gespielt
+ wir haben gespielt
+ ihr habt gespielt
+ sie haben gespielt"," ich habe geworfen
+ du hast geworfen
+ er hat geworfen
+ wir haben geworfen
+ ihr habt geworfen
+ sie haben geworfen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich habe gesessen
+ du hast gesessen
+ er hat gesessen
+ wir haben gesessen
+ ihr habt gesessen
+ sie haben gesessen"," ich habe gelesen
+ du hast gelesen
+ er hat gelesen
+ wir haben gelesen
+ ihr habt gelesen
+ sie haben gelesen"," ich habe gefesselt
+ du hast gefesselt
+ er hat gefesselt
+ wir haben gefesselt
+ ihr habt gefesselt
+ sie haben gefesselt",," ich habe gestohlen
+ du hast gestohlen
+ er hat gestohlen
+ wir haben gestohlen
+ ihr habt gestohlen
+ sie haben gestohlen"," ich bin gerannt
+ du bist gerannt
+ er ist gerannt
+ wir sind gerannt
+ ihr seid gerannt
+ sie sind gerannt"," ich habe gerufen
+ du hast gerufen
+ er hat gerufen
+ wir haben gerufen
+ ihr habt gerufen
+ sie haben gerufen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich bin vergangen
+ du bist vergangen
+ er ist vergangen
+ wir sind vergangen
+ ihr seid vergangen
+ sie sind vergangen"," ich habe verlassen
+ du hast verlassen
+ er hat verlassen
+ wir haben verlassen
+ ihr habt verlassen
+ sie haben verlassen"
 conditional_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -12454,7 +13639,82 @@ conditional_active,Pluperfect," ich hatte angeklagt
  er hatte vergessen
  wir hatten vergessen
  ihr hattet vergessen
- sie hatten vergessen"
+ sie hatten vergessen"," ich hatte geschienen
+ du hattest geschienen
+ er hatte geschienen
+ wir hatten geschienen
+ ihr hattet geschienen
+ sie hatten geschienen"," ich hatte gesungen
+ du hattest gesungen
+ er hatte gesungen
+ wir hatten gesungen
+ ihr hattet gesungen
+ sie hatten gesungen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gespielt
+ du hattest gespielt
+ er hatte gespielt
+ wir hatten gespielt
+ ihr hattet gespielt
+ sie hatten gespielt"," ich hatte geworfen
+ du hattest geworfen
+ er hatte geworfen
+ wir hatten geworfen
+ ihr hattet geworfen
+ sie hatten geworfen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich hatte gesessen
+ du hattest gesessen
+ er hatte gesessen
+ wir hatten gesessen
+ ihr hattet gesessen
+ sie hatten gesessen"," ich hatte gelesen
+ du hattest gelesen
+ er hatte gelesen
+ wir hatten gelesen
+ ihr hattet gelesen
+ sie hatten gelesen"," ich hatte gefesselt
+ du hattest gefesselt
+ er hatte gefesselt
+ wir hatten gefesselt
+ ihr hattet gefesselt
+ sie hatten gefesselt",," ich hatte gestohlen
+ du hattest gestohlen
+ er hatte gestohlen
+ wir hatten gestohlen
+ ihr hattet gestohlen
+ sie hatten gestohlen"," ich war gerannt
+ du warst gerannt
+ er war gerannt
+ wir waren gerannt
+ ihr wart gerannt
+ sie waren gerannt"," ich hatte gerufen
+ du hattest gerufen
+ er hatte gerufen
+ wir hatten gerufen
+ ihr hattet gerufen
+ sie hatten gerufen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich war vergangen
+ du warst vergangen
+ er war vergangen
+ wir waren vergangen
+ ihr wart vergangen
+ sie waren vergangen"," ich hatte verlassen
+ du hattest verlassen
+ er hatte verlassen
+ wir hatten verlassen
+ ihr hattet verlassen
+ sie hatten verlassen"
 conditional_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -13195,7 +14455,82 @@ conditional_active,Future," ich werde anklagen
  er wird vergessen
  wir werden vergessen
  ihr werdet vergessen
- sie werden vergessen"
+ sie werden vergessen"," ich werde scheinen
+ du wirst scheinen
+ er wird scheinen
+ wir werden scheinen
+ ihr werdet scheinen
+ sie werden scheinen"," ich werde singen
+ du wirst singen
+ er wird singen
+ wir werden singen
+ ihr werdet singen
+ sie werden singen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde spielen
+ du wirst spielen
+ er wird spielen
+ wir werden spielen
+ ihr werdet spielen
+ sie werden spielen"," ich werde werfen
+ du wirst werfen
+ er wird werfen
+ wir werden werfen
+ ihr werdet werfen
+ sie werden werfen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde sitzen
+ du wirst sitzen
+ er wird sitzen
+ wir werden sitzen
+ ihr werdet sitzen
+ sie werden sitzen"," ich werde lesen
+ du wirst lesen
+ er wird lesen
+ wir werden lesen
+ ihr werdet lesen
+ sie werden lesen"," ich werde fesseln
+ du wirst fesseln
+ er wird fesseln
+ wir werden fesseln
+ ihr werdet fesseln
+ sie werden fesseln",," ich werde stehlen
+ du wirst stehlen
+ er wird stehlen
+ wir werden stehlen
+ ihr werdet stehlen
+ sie werden stehlen"," ich werde rennen
+ du wirst rennen
+ er wird rennen
+ wir werden rennen
+ ihr werdet rennen
+ sie werden rennen"," ich werde rufen
+ du wirst rufen
+ er wird rufen
+ wir werden rufen
+ ihr werdet rufen
+ sie werden rufen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde vergeh(e)n
+ du wirst vergeh(e)n
+ er wird vergeh(e)n
+ wir werden vergeh(e)n
+ ihr werdet vergeh(e)n
+ sie werden vergeh(e)n"," ich werde verlassen
+ du wirst verlassen
+ er wird verlassen
+ wir werden verlassen
+ ihr werdet verlassen
+ sie werden verlassen"
 conditional_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -13936,7 +15271,82 @@ conditional_active,FuturePerfect," ich werde angeklagt haben
  er wird vergessen haben
  wir werden vergessen haben
  ihr werdet vergessen haben
- sie werden vergessen haben"
+ sie werden vergessen haben"," ich werde geschienen haben
+ du wirst geschienen haben
+ er wird geschienen haben
+ wir werden geschienen haben
+ ihr werdet geschienen haben
+ sie werden geschienen haben"," ich werde gesungen haben
+ du wirst gesungen haben
+ er wird gesungen haben
+ wir werden gesungen haben
+ ihr werdet gesungen haben
+ sie werden gesungen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gespielt haben
+ du wirst gespielt haben
+ er wird gespielt haben
+ wir werden gespielt haben
+ ihr werdet gespielt haben
+ sie werden gespielt haben"," ich werde geworfen haben
+ du wirst geworfen haben
+ er wird geworfen haben
+ wir werden geworfen haben
+ ihr werdet geworfen haben
+ sie werden geworfen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde gesessen haben
+ du wirst gesessen haben
+ er wird gesessen haben
+ wir werden gesessen haben
+ ihr werdet gesessen haben
+ sie werden gesessen haben"," ich werde gelesen haben
+ du wirst gelesen haben
+ er wird gelesen haben
+ wir werden gelesen haben
+ ihr werdet gelesen haben
+ sie werden gelesen haben"," ich werde gefesselt haben
+ du wirst gefesselt haben
+ er wird gefesselt haben
+ wir werden gefesselt haben
+ ihr werdet gefesselt haben
+ sie werden gefesselt haben",," ich werde gestohlen haben
+ du wirst gestohlen haben
+ er wird gestohlen haben
+ wir werden gestohlen haben
+ ihr werdet gestohlen haben
+ sie werden gestohlen haben"," ich werde gerannt sein
+ du wirst gerannt sein
+ er wird gerannt sein
+ wir werden gerannt sein
+ ihr werdet gerannt sein
+ sie werden gerannt sein"," ich werde gerufen haben
+ du wirst gerufen haben
+ er wird gerufen haben
+ wir werden gerufen haben
+ ihr werdet gerufen haben
+ sie werden gerufen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde vergangen sein
+ du wirst vergangen sein
+ er wird vergangen sein
+ wir werden vergangen sein
+ ihr werdet vergangen sein
+ sie werden vergangen sein"," ich werde verlassen haben
+ du wirst verlassen haben
+ er wird verlassen haben
+ wir werden verlassen haben
+ ihr werdet verlassen haben
+ sie werden verlassen haben"
 conditional_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -14085,7 +15495,22 @@ conditional_active,InfinitiveI," anklagen
  zu erkunden"," probieren
  zu probieren"," sammeln
  zu sammeln"," vergessen
- zu vergessen"
+ zu vergessen"," scheinen
+ zu scheinen"," singen
+ zu singen"," seh(e)n
+ zu seh(e)n"," spielen
+ zu spielen"," werfen
+ zu werfen"," lachen
+ zu lachen"," sitzen
+ zu sitzen"," lesen
+ zu lesen"," fesseln
+ zu fesseln",," stehlen
+ zu stehlen"," rennen
+ zu rennen"," rufen
+ zu rufen"," lachen
+ zu lachen"," vergeh(e)n
+ zu vergeh(e)n"," verlassen
+ zu verlassen"
 conditional_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -14234,9 +15659,24 @@ conditional_active,InfinitiveII," angeklagt haben
  erkundet zu haben"," probiert haben
  probiert zu haben"," gesammelt haben
  gesammelt zu haben"," vergessen haben
- vergessen zu haben"
-conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
-conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
+ vergessen zu haben"," geschienen haben
+ geschienen zu haben"," gesungen haben
+ gesungen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gespielt haben
+ gespielt zu haben"," geworfen haben
+ geworfen zu haben"," gelacht haben
+ gelacht zu haben"," gesessen haben
+ gesessen zu haben"," gelesen haben
+ gelesen zu haben"," gefesselt haben
+ gefesselt zu haben",," gestohlen haben
+ gestohlen zu haben"," gerannt sein
+ gerannt zu sein"," gerufen haben
+ gerufen zu haben"," gelacht haben
+ gelacht zu haben"," vergangen sein
+ vergangen zu sein"," verlassen haben
+ verlassen zu haben"
+conditional_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend, scheinend, singend, sehend, spielend, werfend, lachend, sitzend, lesend, fesselnd,, stehlend, rennend, rufend, lachend, vergehend, verlassend
+conditional_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen, geschienen, gesungen, geseh(e)n, gespielt, geworfen, gelacht, gesessen, gelesen, gefesselt,, gestohlen, gerannt, gerufen, gelacht, vergangen, verlassen
 imperative_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -14977,7 +16417,82 @@ imperative_active,Present," ich klag(e) an
  er vergisst
  wir vergessen
  ihr vergesst
- sie vergessen"
+ sie vergessen"," ich schein(e)
+ du scheinst
+ er scheint
+ wir scheinen
+ ihr scheint
+ sie scheinen"," ich sing(e)
+ du singst
+ er singt
+ wir singen
+ ihr singt
+ sie singen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich spiel(e)
+ du spielst
+ er spielt
+ wir spielen
+ ihr spielt
+ sie spielen"," ich werf(e)
+ du wirfst
+ er wirft
+ wir werfen
+ ihr werft
+ sie werfen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich sitz(e)
+ du sitzt
+ er sitzt
+ wir sitzen
+ ihr sitzt
+ sie sitzen"," ich les(e)
+ du liest
+ er liest
+ wir lesen
+ ihr lest
+ sie lesen"," ich fess(e)l(e)
+ du fesselst
+ er fesselt
+ wir fesseln
+ ihr fesselt
+ sie fesseln",," ich stehl(e)
+ du stiehlst
+ er stiehlt
+ wir stehlen
+ ihr stehlt
+ sie stehlen"," ich renn(e)
+ du rennst
+ er rennt
+ wir rennen
+ ihr rennt
+ sie rennen"," ich ruf(e)
+ du rufst
+ er ruft
+ wir rufen
+ ihr ruft
+ sie rufen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich vergeh(e)
+ du vergehst
+ er vergeht
+ wir vergeh(e)n
+ ihr vergeht
+ sie vergeh(e)n"," ich verlass(e)
+ du verlässt
+ er verlässt
+ wir verlassen
+ ihr verlasst
+ sie verlassen"
 imperative_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -15718,7 +17233,82 @@ imperative_active,Imperfect," ich klagte an
  er vergaß
  wir vergaßen
  ihr vergaß(e)t
- sie vergaßen"
+ sie vergaßen"," ich schien
+ du schienst
+ er schien
+ wir schienen
+ ihr schient
+ sie schienen"," ich sang
+ du sangst
+ er sang
+ wir sangen
+ ihr sangt
+ sie sangen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich spielte
+ du spieltest
+ er spielte
+ wir spielten
+ ihr spieltet
+ sie spielten"," ich warf
+ du warfst
+ er warf
+ wir warfen
+ ihr warft
+ sie warfen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich saß
+ du saß(es)t
+ er saß
+ wir saßen
+ ihr saß(e)t
+ sie saßen"," ich las
+ du las(es)t
+ er las
+ wir lasen
+ ihr las(e)t
+ sie lasen"," ich fesselte
+ du fesseltest
+ er fesselte
+ wir fesselten
+ ihr fesseltet
+ sie fesselten",," ich stahl
+ du stahlst
+ er stahl
+ wir stahlen
+ ihr stahlt
+ sie stahlen"," ich rannte
+ du ranntest
+ er rannte
+ wir rannten
+ ihr ranntet
+ sie rannten"," ich rief
+ du riefst
+ er rief
+ wir riefen
+ ihr rieft
+ sie riefen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich verging
+ du vergingst
+ er verging
+ wir vergingen
+ ihr vergingt
+ sie vergingen"," ich verließ
+ du verließ(es)t
+ er verließ
+ wir verließen
+ ihr verließ(e)t
+ sie verließen"
 imperative_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -16459,7 +18049,82 @@ imperative_active,Perfect," ich habe angeklagt
  er hat vergessen
  wir haben vergessen
  ihr habt vergessen
- sie haben vergessen"
+ sie haben vergessen"," ich habe geschienen
+ du hast geschienen
+ er hat geschienen
+ wir haben geschienen
+ ihr habt geschienen
+ sie haben geschienen"," ich habe gesungen
+ du hast gesungen
+ er hat gesungen
+ wir haben gesungen
+ ihr habt gesungen
+ sie haben gesungen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gespielt
+ du hast gespielt
+ er hat gespielt
+ wir haben gespielt
+ ihr habt gespielt
+ sie haben gespielt"," ich habe geworfen
+ du hast geworfen
+ er hat geworfen
+ wir haben geworfen
+ ihr habt geworfen
+ sie haben geworfen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich habe gesessen
+ du hast gesessen
+ er hat gesessen
+ wir haben gesessen
+ ihr habt gesessen
+ sie haben gesessen"," ich habe gelesen
+ du hast gelesen
+ er hat gelesen
+ wir haben gelesen
+ ihr habt gelesen
+ sie haben gelesen"," ich habe gefesselt
+ du hast gefesselt
+ er hat gefesselt
+ wir haben gefesselt
+ ihr habt gefesselt
+ sie haben gefesselt",," ich habe gestohlen
+ du hast gestohlen
+ er hat gestohlen
+ wir haben gestohlen
+ ihr habt gestohlen
+ sie haben gestohlen"," ich bin gerannt
+ du bist gerannt
+ er ist gerannt
+ wir sind gerannt
+ ihr seid gerannt
+ sie sind gerannt"," ich habe gerufen
+ du hast gerufen
+ er hat gerufen
+ wir haben gerufen
+ ihr habt gerufen
+ sie haben gerufen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich bin vergangen
+ du bist vergangen
+ er ist vergangen
+ wir sind vergangen
+ ihr seid vergangen
+ sie sind vergangen"," ich habe verlassen
+ du hast verlassen
+ er hat verlassen
+ wir haben verlassen
+ ihr habt verlassen
+ sie haben verlassen"
 imperative_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -17200,7 +18865,82 @@ imperative_active,Pluperfect," ich hatte angeklagt
  er hatte vergessen
  wir hatten vergessen
  ihr hattet vergessen
- sie hatten vergessen"
+ sie hatten vergessen"," ich hatte geschienen
+ du hattest geschienen
+ er hatte geschienen
+ wir hatten geschienen
+ ihr hattet geschienen
+ sie hatten geschienen"," ich hatte gesungen
+ du hattest gesungen
+ er hatte gesungen
+ wir hatten gesungen
+ ihr hattet gesungen
+ sie hatten gesungen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gespielt
+ du hattest gespielt
+ er hatte gespielt
+ wir hatten gespielt
+ ihr hattet gespielt
+ sie hatten gespielt"," ich hatte geworfen
+ du hattest geworfen
+ er hatte geworfen
+ wir hatten geworfen
+ ihr hattet geworfen
+ sie hatten geworfen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich hatte gesessen
+ du hattest gesessen
+ er hatte gesessen
+ wir hatten gesessen
+ ihr hattet gesessen
+ sie hatten gesessen"," ich hatte gelesen
+ du hattest gelesen
+ er hatte gelesen
+ wir hatten gelesen
+ ihr hattet gelesen
+ sie hatten gelesen"," ich hatte gefesselt
+ du hattest gefesselt
+ er hatte gefesselt
+ wir hatten gefesselt
+ ihr hattet gefesselt
+ sie hatten gefesselt",," ich hatte gestohlen
+ du hattest gestohlen
+ er hatte gestohlen
+ wir hatten gestohlen
+ ihr hattet gestohlen
+ sie hatten gestohlen"," ich war gerannt
+ du warst gerannt
+ er war gerannt
+ wir waren gerannt
+ ihr wart gerannt
+ sie waren gerannt"," ich hatte gerufen
+ du hattest gerufen
+ er hatte gerufen
+ wir hatten gerufen
+ ihr hattet gerufen
+ sie hatten gerufen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich war vergangen
+ du warst vergangen
+ er war vergangen
+ wir waren vergangen
+ ihr wart vergangen
+ sie waren vergangen"," ich hatte verlassen
+ du hattest verlassen
+ er hatte verlassen
+ wir hatten verlassen
+ ihr hattet verlassen
+ sie hatten verlassen"
 imperative_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -17941,7 +19681,82 @@ imperative_active,Future," ich werde anklagen
  er wird vergessen
  wir werden vergessen
  ihr werdet vergessen
- sie werden vergessen"
+ sie werden vergessen"," ich werde scheinen
+ du wirst scheinen
+ er wird scheinen
+ wir werden scheinen
+ ihr werdet scheinen
+ sie werden scheinen"," ich werde singen
+ du wirst singen
+ er wird singen
+ wir werden singen
+ ihr werdet singen
+ sie werden singen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde spielen
+ du wirst spielen
+ er wird spielen
+ wir werden spielen
+ ihr werdet spielen
+ sie werden spielen"," ich werde werfen
+ du wirst werfen
+ er wird werfen
+ wir werden werfen
+ ihr werdet werfen
+ sie werden werfen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde sitzen
+ du wirst sitzen
+ er wird sitzen
+ wir werden sitzen
+ ihr werdet sitzen
+ sie werden sitzen"," ich werde lesen
+ du wirst lesen
+ er wird lesen
+ wir werden lesen
+ ihr werdet lesen
+ sie werden lesen"," ich werde fesseln
+ du wirst fesseln
+ er wird fesseln
+ wir werden fesseln
+ ihr werdet fesseln
+ sie werden fesseln",," ich werde stehlen
+ du wirst stehlen
+ er wird stehlen
+ wir werden stehlen
+ ihr werdet stehlen
+ sie werden stehlen"," ich werde rennen
+ du wirst rennen
+ er wird rennen
+ wir werden rennen
+ ihr werdet rennen
+ sie werden rennen"," ich werde rufen
+ du wirst rufen
+ er wird rufen
+ wir werden rufen
+ ihr werdet rufen
+ sie werden rufen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde vergeh(e)n
+ du wirst vergeh(e)n
+ er wird vergeh(e)n
+ wir werden vergeh(e)n
+ ihr werdet vergeh(e)n
+ sie werden vergeh(e)n"," ich werde verlassen
+ du wirst verlassen
+ er wird verlassen
+ wir werden verlassen
+ ihr werdet verlassen
+ sie werden verlassen"
 imperative_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -18682,7 +20497,82 @@ imperative_active,FuturePerfect," ich werde angeklagt haben
  er wird vergessen haben
  wir werden vergessen haben
  ihr werdet vergessen haben
- sie werden vergessen haben"
+ sie werden vergessen haben"," ich werde geschienen haben
+ du wirst geschienen haben
+ er wird geschienen haben
+ wir werden geschienen haben
+ ihr werdet geschienen haben
+ sie werden geschienen haben"," ich werde gesungen haben
+ du wirst gesungen haben
+ er wird gesungen haben
+ wir werden gesungen haben
+ ihr werdet gesungen haben
+ sie werden gesungen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gespielt haben
+ du wirst gespielt haben
+ er wird gespielt haben
+ wir werden gespielt haben
+ ihr werdet gespielt haben
+ sie werden gespielt haben"," ich werde geworfen haben
+ du wirst geworfen haben
+ er wird geworfen haben
+ wir werden geworfen haben
+ ihr werdet geworfen haben
+ sie werden geworfen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde gesessen haben
+ du wirst gesessen haben
+ er wird gesessen haben
+ wir werden gesessen haben
+ ihr werdet gesessen haben
+ sie werden gesessen haben"," ich werde gelesen haben
+ du wirst gelesen haben
+ er wird gelesen haben
+ wir werden gelesen haben
+ ihr werdet gelesen haben
+ sie werden gelesen haben"," ich werde gefesselt haben
+ du wirst gefesselt haben
+ er wird gefesselt haben
+ wir werden gefesselt haben
+ ihr werdet gefesselt haben
+ sie werden gefesselt haben",," ich werde gestohlen haben
+ du wirst gestohlen haben
+ er wird gestohlen haben
+ wir werden gestohlen haben
+ ihr werdet gestohlen haben
+ sie werden gestohlen haben"," ich werde gerannt sein
+ du wirst gerannt sein
+ er wird gerannt sein
+ wir werden gerannt sein
+ ihr werdet gerannt sein
+ sie werden gerannt sein"," ich werde gerufen haben
+ du wirst gerufen haben
+ er wird gerufen haben
+ wir werden gerufen haben
+ ihr werdet gerufen haben
+ sie werden gerufen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde vergangen sein
+ du wirst vergangen sein
+ er wird vergangen sein
+ wir werden vergangen sein
+ ihr werdet vergangen sein
+ sie werden vergangen sein"," ich werde verlassen haben
+ du wirst verlassen haben
+ er wird verlassen haben
+ wir werden verlassen haben
+ ihr werdet verlassen haben
+ sie werden verlassen haben"
 imperative_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -18831,7 +20721,22 @@ imperative_active,InfinitiveI," anklagen
  zu erkunden"," probieren
  zu probieren"," sammeln
  zu sammeln"," vergessen
- zu vergessen"
+ zu vergessen"," scheinen
+ zu scheinen"," singen
+ zu singen"," seh(e)n
+ zu seh(e)n"," spielen
+ zu spielen"," werfen
+ zu werfen"," lachen
+ zu lachen"," sitzen
+ zu sitzen"," lesen
+ zu lesen"," fesseln
+ zu fesseln",," stehlen
+ zu stehlen"," rennen
+ zu rennen"," rufen
+ zu rufen"," lachen
+ zu lachen"," vergeh(e)n
+ zu vergeh(e)n"," verlassen
+ zu verlassen"
 imperative_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -18980,9 +20885,24 @@ imperative_active,InfinitiveII," angeklagt haben
  erkundet zu haben"," probiert haben
  probiert zu haben"," gesammelt haben
  gesammelt zu haben"," vergessen haben
- vergessen zu haben"
-imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
-imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
+ vergessen zu haben"," geschienen haben
+ geschienen zu haben"," gesungen haben
+ gesungen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gespielt haben
+ gespielt zu haben"," geworfen haben
+ geworfen zu haben"," gelacht haben
+ gelacht zu haben"," gesessen haben
+ gesessen zu haben"," gelesen haben
+ gelesen zu haben"," gefesselt haben
+ gefesselt zu haben",," gestohlen haben
+ gestohlen zu haben"," gerannt sein
+ gerannt zu sein"," gerufen haben
+ gerufen zu haben"," gelacht haben
+ gelacht zu haben"," vergangen sein
+ vergangen zu sein"," verlassen haben
+ verlassen zu haben"
+imperative_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend, scheinend, singend, sehend, spielend, werfend, lachend, sitzend, lesend, fesselnd,, stehlend, rennend, rufend, lachend, vergehend, verlassend
+imperative_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen, geschienen, gesungen, geseh(e)n, gespielt, geworfen, gelacht, gesessen, gelesen, gefesselt,, gestohlen, gerannt, gerufen, gelacht, vergangen, verlassen
 infinitive_participle_active,Present," ich klag(e) an
  du klagst an
  er klagt an
@@ -19723,7 +21643,82 @@ infinitive_participle_active,Present," ich klag(e) an
  er vergisst
  wir vergessen
  ihr vergesst
- sie vergessen"
+ sie vergessen"," ich schein(e)
+ du scheinst
+ er scheint
+ wir scheinen
+ ihr scheint
+ sie scheinen"," ich sing(e)
+ du singst
+ er singt
+ wir singen
+ ihr singt
+ sie singen"," ich seh(e)
+ du siehst
+ er sieht
+ wir seh(e)n
+ ihr seht
+ sie seh(e)n"," ich spiel(e)
+ du spielst
+ er spielt
+ wir spielen
+ ihr spielt
+ sie spielen"," ich werf(e)
+ du wirfst
+ er wirft
+ wir werfen
+ ihr werft
+ sie werfen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich sitz(e)
+ du sitzt
+ er sitzt
+ wir sitzen
+ ihr sitzt
+ sie sitzen"," ich les(e)
+ du liest
+ er liest
+ wir lesen
+ ihr lest
+ sie lesen"," ich fess(e)l(e)
+ du fesselst
+ er fesselt
+ wir fesseln
+ ihr fesselt
+ sie fesseln",," ich stehl(e)
+ du stiehlst
+ er stiehlt
+ wir stehlen
+ ihr stehlt
+ sie stehlen"," ich renn(e)
+ du rennst
+ er rennt
+ wir rennen
+ ihr rennt
+ sie rennen"," ich ruf(e)
+ du rufst
+ er ruft
+ wir rufen
+ ihr ruft
+ sie rufen"," ich lach(e)
+ du lachst
+ er lacht
+ wir lachen
+ ihr lacht
+ sie lachen"," ich vergeh(e)
+ du vergehst
+ er vergeht
+ wir vergeh(e)n
+ ihr vergeht
+ sie vergeh(e)n"," ich verlass(e)
+ du verlässt
+ er verlässt
+ wir verlassen
+ ihr verlasst
+ sie verlassen"
 infinitive_participle_active,Imperfect," ich klagte an
  du klagtest an
  er klagte an
@@ -20464,7 +22459,82 @@ infinitive_participle_active,Imperfect," ich klagte an
  er vergaß
  wir vergaßen
  ihr vergaß(e)t
- sie vergaßen"
+ sie vergaßen"," ich schien
+ du schienst
+ er schien
+ wir schienen
+ ihr schient
+ sie schienen"," ich sang
+ du sangst
+ er sang
+ wir sangen
+ ihr sangt
+ sie sangen"," ich sah
+ du sahst
+ er sah
+ wir sah(e)n
+ ihr saht
+ sie sah(e)n"," ich spielte
+ du spieltest
+ er spielte
+ wir spielten
+ ihr spieltet
+ sie spielten"," ich warf
+ du warfst
+ er warf
+ wir warfen
+ ihr warft
+ sie warfen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich saß
+ du saß(es)t
+ er saß
+ wir saßen
+ ihr saß(e)t
+ sie saßen"," ich las
+ du las(es)t
+ er las
+ wir lasen
+ ihr las(e)t
+ sie lasen"," ich fesselte
+ du fesseltest
+ er fesselte
+ wir fesselten
+ ihr fesseltet
+ sie fesselten",," ich stahl
+ du stahlst
+ er stahl
+ wir stahlen
+ ihr stahlt
+ sie stahlen"," ich rannte
+ du ranntest
+ er rannte
+ wir rannten
+ ihr ranntet
+ sie rannten"," ich rief
+ du riefst
+ er rief
+ wir riefen
+ ihr rieft
+ sie riefen"," ich lachte
+ du lachtest
+ er lachte
+ wir lachten
+ ihr lachtet
+ sie lachten"," ich verging
+ du vergingst
+ er verging
+ wir vergingen
+ ihr vergingt
+ sie vergingen"," ich verließ
+ du verließ(es)t
+ er verließ
+ wir verließen
+ ihr verließ(e)t
+ sie verließen"
 infinitive_participle_active,Perfect," ich habe angeklagt
  du hast angeklagt
  er hat angeklagt
@@ -21205,7 +23275,82 @@ infinitive_participle_active,Perfect," ich habe angeklagt
  er hat vergessen
  wir haben vergessen
  ihr habt vergessen
- sie haben vergessen"
+ sie haben vergessen"," ich habe geschienen
+ du hast geschienen
+ er hat geschienen
+ wir haben geschienen
+ ihr habt geschienen
+ sie haben geschienen"," ich habe gesungen
+ du hast gesungen
+ er hat gesungen
+ wir haben gesungen
+ ihr habt gesungen
+ sie haben gesungen"," ich habe geseh(e)n
+ du hast geseh(e)n
+ er hat geseh(e)n
+ wir haben geseh(e)n
+ ihr habt geseh(e)n
+ sie haben geseh(e)n"," ich habe gespielt
+ du hast gespielt
+ er hat gespielt
+ wir haben gespielt
+ ihr habt gespielt
+ sie haben gespielt"," ich habe geworfen
+ du hast geworfen
+ er hat geworfen
+ wir haben geworfen
+ ihr habt geworfen
+ sie haben geworfen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich habe gesessen
+ du hast gesessen
+ er hat gesessen
+ wir haben gesessen
+ ihr habt gesessen
+ sie haben gesessen"," ich habe gelesen
+ du hast gelesen
+ er hat gelesen
+ wir haben gelesen
+ ihr habt gelesen
+ sie haben gelesen"," ich habe gefesselt
+ du hast gefesselt
+ er hat gefesselt
+ wir haben gefesselt
+ ihr habt gefesselt
+ sie haben gefesselt",," ich habe gestohlen
+ du hast gestohlen
+ er hat gestohlen
+ wir haben gestohlen
+ ihr habt gestohlen
+ sie haben gestohlen"," ich bin gerannt
+ du bist gerannt
+ er ist gerannt
+ wir sind gerannt
+ ihr seid gerannt
+ sie sind gerannt"," ich habe gerufen
+ du hast gerufen
+ er hat gerufen
+ wir haben gerufen
+ ihr habt gerufen
+ sie haben gerufen"," ich habe gelacht
+ du hast gelacht
+ er hat gelacht
+ wir haben gelacht
+ ihr habt gelacht
+ sie haben gelacht"," ich bin vergangen
+ du bist vergangen
+ er ist vergangen
+ wir sind vergangen
+ ihr seid vergangen
+ sie sind vergangen"," ich habe verlassen
+ du hast verlassen
+ er hat verlassen
+ wir haben verlassen
+ ihr habt verlassen
+ sie haben verlassen"
 infinitive_participle_active,Pluperfect," ich hatte angeklagt
  du hattest angeklagt
  er hatte angeklagt
@@ -21946,7 +24091,82 @@ infinitive_participle_active,Pluperfect," ich hatte angeklagt
  er hatte vergessen
  wir hatten vergessen
  ihr hattet vergessen
- sie hatten vergessen"
+ sie hatten vergessen"," ich hatte geschienen
+ du hattest geschienen
+ er hatte geschienen
+ wir hatten geschienen
+ ihr hattet geschienen
+ sie hatten geschienen"," ich hatte gesungen
+ du hattest gesungen
+ er hatte gesungen
+ wir hatten gesungen
+ ihr hattet gesungen
+ sie hatten gesungen"," ich hatte geseh(e)n
+ du hattest geseh(e)n
+ er hatte geseh(e)n
+ wir hatten geseh(e)n
+ ihr hattet geseh(e)n
+ sie hatten geseh(e)n"," ich hatte gespielt
+ du hattest gespielt
+ er hatte gespielt
+ wir hatten gespielt
+ ihr hattet gespielt
+ sie hatten gespielt"," ich hatte geworfen
+ du hattest geworfen
+ er hatte geworfen
+ wir hatten geworfen
+ ihr hattet geworfen
+ sie hatten geworfen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich hatte gesessen
+ du hattest gesessen
+ er hatte gesessen
+ wir hatten gesessen
+ ihr hattet gesessen
+ sie hatten gesessen"," ich hatte gelesen
+ du hattest gelesen
+ er hatte gelesen
+ wir hatten gelesen
+ ihr hattet gelesen
+ sie hatten gelesen"," ich hatte gefesselt
+ du hattest gefesselt
+ er hatte gefesselt
+ wir hatten gefesselt
+ ihr hattet gefesselt
+ sie hatten gefesselt",," ich hatte gestohlen
+ du hattest gestohlen
+ er hatte gestohlen
+ wir hatten gestohlen
+ ihr hattet gestohlen
+ sie hatten gestohlen"," ich war gerannt
+ du warst gerannt
+ er war gerannt
+ wir waren gerannt
+ ihr wart gerannt
+ sie waren gerannt"," ich hatte gerufen
+ du hattest gerufen
+ er hatte gerufen
+ wir hatten gerufen
+ ihr hattet gerufen
+ sie hatten gerufen"," ich hatte gelacht
+ du hattest gelacht
+ er hatte gelacht
+ wir hatten gelacht
+ ihr hattet gelacht
+ sie hatten gelacht"," ich war vergangen
+ du warst vergangen
+ er war vergangen
+ wir waren vergangen
+ ihr wart vergangen
+ sie waren vergangen"," ich hatte verlassen
+ du hattest verlassen
+ er hatte verlassen
+ wir hatten verlassen
+ ihr hattet verlassen
+ sie hatten verlassen"
 infinitive_participle_active,Future," ich werde anklagen
  du wirst anklagen
  er wird anklagen
@@ -22687,7 +24907,82 @@ infinitive_participle_active,Future," ich werde anklagen
  er wird vergessen
  wir werden vergessen
  ihr werdet vergessen
- sie werden vergessen"
+ sie werden vergessen"," ich werde scheinen
+ du wirst scheinen
+ er wird scheinen
+ wir werden scheinen
+ ihr werdet scheinen
+ sie werden scheinen"," ich werde singen
+ du wirst singen
+ er wird singen
+ wir werden singen
+ ihr werdet singen
+ sie werden singen"," ich werde seh(e)n
+ du wirst seh(e)n
+ er wird seh(e)n
+ wir werden seh(e)n
+ ihr werdet seh(e)n
+ sie werden seh(e)n"," ich werde spielen
+ du wirst spielen
+ er wird spielen
+ wir werden spielen
+ ihr werdet spielen
+ sie werden spielen"," ich werde werfen
+ du wirst werfen
+ er wird werfen
+ wir werden werfen
+ ihr werdet werfen
+ sie werden werfen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde sitzen
+ du wirst sitzen
+ er wird sitzen
+ wir werden sitzen
+ ihr werdet sitzen
+ sie werden sitzen"," ich werde lesen
+ du wirst lesen
+ er wird lesen
+ wir werden lesen
+ ihr werdet lesen
+ sie werden lesen"," ich werde fesseln
+ du wirst fesseln
+ er wird fesseln
+ wir werden fesseln
+ ihr werdet fesseln
+ sie werden fesseln",," ich werde stehlen
+ du wirst stehlen
+ er wird stehlen
+ wir werden stehlen
+ ihr werdet stehlen
+ sie werden stehlen"," ich werde rennen
+ du wirst rennen
+ er wird rennen
+ wir werden rennen
+ ihr werdet rennen
+ sie werden rennen"," ich werde rufen
+ du wirst rufen
+ er wird rufen
+ wir werden rufen
+ ihr werdet rufen
+ sie werden rufen"," ich werde lachen
+ du wirst lachen
+ er wird lachen
+ wir werden lachen
+ ihr werdet lachen
+ sie werden lachen"," ich werde vergeh(e)n
+ du wirst vergeh(e)n
+ er wird vergeh(e)n
+ wir werden vergeh(e)n
+ ihr werdet vergeh(e)n
+ sie werden vergeh(e)n"," ich werde verlassen
+ du wirst verlassen
+ er wird verlassen
+ wir werden verlassen
+ ihr werdet verlassen
+ sie werden verlassen"
 infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  du wirst angeklagt haben
  er wird angeklagt haben
@@ -23428,7 +25723,82 @@ infinitive_participle_active,FuturePerfect," ich werde angeklagt haben
  er wird vergessen haben
  wir werden vergessen haben
  ihr werdet vergessen haben
- sie werden vergessen haben"
+ sie werden vergessen haben"," ich werde geschienen haben
+ du wirst geschienen haben
+ er wird geschienen haben
+ wir werden geschienen haben
+ ihr werdet geschienen haben
+ sie werden geschienen haben"," ich werde gesungen haben
+ du wirst gesungen haben
+ er wird gesungen haben
+ wir werden gesungen haben
+ ihr werdet gesungen haben
+ sie werden gesungen haben"," ich werde geseh(e)n haben
+ du wirst geseh(e)n haben
+ er wird geseh(e)n haben
+ wir werden geseh(e)n haben
+ ihr werdet geseh(e)n haben
+ sie werden geseh(e)n haben"," ich werde gespielt haben
+ du wirst gespielt haben
+ er wird gespielt haben
+ wir werden gespielt haben
+ ihr werdet gespielt haben
+ sie werden gespielt haben"," ich werde geworfen haben
+ du wirst geworfen haben
+ er wird geworfen haben
+ wir werden geworfen haben
+ ihr werdet geworfen haben
+ sie werden geworfen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde gesessen haben
+ du wirst gesessen haben
+ er wird gesessen haben
+ wir werden gesessen haben
+ ihr werdet gesessen haben
+ sie werden gesessen haben"," ich werde gelesen haben
+ du wirst gelesen haben
+ er wird gelesen haben
+ wir werden gelesen haben
+ ihr werdet gelesen haben
+ sie werden gelesen haben"," ich werde gefesselt haben
+ du wirst gefesselt haben
+ er wird gefesselt haben
+ wir werden gefesselt haben
+ ihr werdet gefesselt haben
+ sie werden gefesselt haben",," ich werde gestohlen haben
+ du wirst gestohlen haben
+ er wird gestohlen haben
+ wir werden gestohlen haben
+ ihr werdet gestohlen haben
+ sie werden gestohlen haben"," ich werde gerannt sein
+ du wirst gerannt sein
+ er wird gerannt sein
+ wir werden gerannt sein
+ ihr werdet gerannt sein
+ sie werden gerannt sein"," ich werde gerufen haben
+ du wirst gerufen haben
+ er wird gerufen haben
+ wir werden gerufen haben
+ ihr werdet gerufen haben
+ sie werden gerufen haben"," ich werde gelacht haben
+ du wirst gelacht haben
+ er wird gelacht haben
+ wir werden gelacht haben
+ ihr werdet gelacht haben
+ sie werden gelacht haben"," ich werde vergangen sein
+ du wirst vergangen sein
+ er wird vergangen sein
+ wir werden vergangen sein
+ ihr werdet vergangen sein
+ sie werden vergangen sein"," ich werde verlassen haben
+ du wirst verlassen haben
+ er wird verlassen haben
+ wir werden verlassen haben
+ ihr werdet verlassen haben
+ sie werden verlassen haben"
 infinitive_participle_active,InfinitiveI," anklagen
  anzuklagen"," heißen
  zu heißen"," sagen
@@ -23577,7 +25947,22 @@ infinitive_participle_active,InfinitiveI," anklagen
  zu erkunden"," probieren
  zu probieren"," sammeln
  zu sammeln"," vergessen
- zu vergessen"
+ zu vergessen"," scheinen
+ zu scheinen"," singen
+ zu singen"," seh(e)n
+ zu seh(e)n"," spielen
+ zu spielen"," werfen
+ zu werfen"," lachen
+ zu lachen"," sitzen
+ zu sitzen"," lesen
+ zu lesen"," fesseln
+ zu fesseln",," stehlen
+ zu stehlen"," rennen
+ zu rennen"," rufen
+ zu rufen"," lachen
+ zu lachen"," vergeh(e)n
+ zu vergeh(e)n"," verlassen
+ zu verlassen"
 infinitive_participle_active,InfinitiveII," angeklagt haben
  angeklagt zu haben"," geheißen haben
  geheißen zu haben"," gesagt haben
@@ -23726,6 +26111,21 @@ infinitive_participle_active,InfinitiveII," angeklagt haben
  erkundet zu haben"," probiert haben
  probiert zu haben"," gesammelt haben
  gesammelt zu haben"," vergessen haben
- vergessen zu haben"
-infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend
-infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen
+ vergessen zu haben"," geschienen haben
+ geschienen zu haben"," gesungen haben
+ gesungen zu haben"," geseh(e)n haben
+ geseh(e)n zu haben"," gespielt haben
+ gespielt zu haben"," geworfen haben
+ geworfen zu haben"," gelacht haben
+ gelacht zu haben"," gesessen haben
+ gesessen zu haben"," gelesen haben
+ gelesen zu haben"," gefesselt haben
+ gefesselt zu haben",," gestohlen haben
+ gestohlen zu haben"," gerannt sein
+ gerannt zu sein"," gerufen haben
+ gerufen zu haben"," gelacht haben
+ gelacht zu haben"," vergangen sein
+ vergangen zu sein"," verlassen haben
+ verlassen zu haben"
+infinitive_participle_active,ParticipleI, anklagend, heißend, sagend, fälschend,, müssend, kommend,, tuend, untersuchend, entscheidend, bekommend,, tretend, helfend, angreifend, beitretend, habend, ändernd, angreifend, gebend, hochziehend, freuend, klappend, kritisierend, unternehmend, aufnehmend, sagend, gehörend, bekommend, handelnd, erzählend, sterbend, kämpfend, verleihend, gewinnend, einsprechend, habend,, aufwachend, klingend, trinkend, entschuldigend,, gehend, gehend, machend, könnend, gebend, tuend,, helfend,, ändernd,, steckend, erinnernd, fernsehend, bringend, schlafend, stimmend, wünschend, ausrichtend, steckend, gebend, mitbekommend, brauchend, sitzend, brauchend,, wissend, hassend, meldend, erlaubend, rauchend, nutzend, entspannend, anbauend, kaufend, regierend,, planend, besitzend, anbauend, erntend,, verkaufend, beobachtend, funktionierend, gebend, kontrollierend, nehmend, entwickelnd, störend, beginnend, mitmachend, nennend, dauernd, verfilmend,, sehend, mitarbeitend, freuend, erzählend, kämpfend, beschießend, fliehend,, liegend, versuchend, tötend, erschießend, sehend, richtend, schießend,, hörend, kriegend, ermittelnd, passierend, beschießend, anzündend, errichtend, gebend,, verurteilend, aufhörend, mobilisierend, stellend, schauend, leidend, behandelnd, veröffentlichend, druckend, lassend, stehend, aufgebend, einnehmend, vorwerfend, versuchend, fehlend, auffordernd, organisierend, verlesend, zurückweisend, verhindernd, reisend, gewartend, besuchend, abstellend, genießend, fahrend, vorbeifahrend, aussehend, vorbeikommend, anhaltend, strahlend, vorbereitend, einpackend, erkundend, probierend, sammelnd, vergessend, scheinend, singend, sehend, spielend, werfend, lachend, sitzend, lesend, fesselnd,, stehlend, rennend, rufend, lachend, vergehend, verlassend
+infinitive_participle_active,ParticipleII, angeklagt, geheißen, gesagt, gefälscht,, gemusst, gekommen,, getan, untersucht, entschieden, bekommen,, getreten, geholfen, angegriffen, beigetreten, gehabt, geändert, angegriffen, gegeben, hochgezogen, gefreut, geklappt, kritisiert, unternommen, aufgenommen, gesagt, gehört, bekommen, gehandelt, erzählt, gestorben, gekämpft, verlieh(e)n, gewonnen, eingesprochen, gehabt,, aufgewacht, geklungen, getrunken, entschuldigt,, gegangen, gegangen, gemacht, gekonnt, gegeben, getan,, geholfen,, geändert,, gesteckt, erinnert, ferngeseh(e)n, gebracht, geschlafen, gestimmt, gewünscht, ausgerichtet, gesteckt, gegeben, mitbekommen, gebraucht, gesessen, gebraucht,, gewusst, gehasst, gemeldet, erlaubt, geraucht, genutzt, entspannt, angebaut, gekauft, regiert,, geplant, besessen, angebaut, geerntet,, verkauft, beobachtet, funktioniert, gegeben, kontrolliert, genommen, entwickelt, gestört, begonnen, mitgemacht, genannt, gedauert, verfilmt,, geseh(e)n, mitgearbeitet, gefreut, erzählt, gekämpft, beschossen, gefloh(e)n,, gelegen, versucht, getötet, erschossen, geseh(e)n, gerichtet, geschossen,, gehört, gekriegt, ermittelt, passiert, beschossen, angezündet, errichtet, gegeben,, verurteilt, aufgehört, mobilisiert, gestellt, geschaut, gelitten, behandelt, veröffentlicht, gedruckt, gelassen, gestanden, aufgegeben, eingenommen, vorgeworfen, versucht, gefehlt, aufgefordert, organisiert, verlesen, zurückgewiesen, verhindert, gereist, gewartet, besucht, abgestellt, genossen, gefahren, vorbeigefahren, ausgeseh(e)n, vorbeigekommen, angehalten, gestrahlt, vorbereitet, eingepackt, erkundet, probiert, gesammelt, vergessen, geschienen, gesungen, geseh(e)n, gespielt, geworfen, gelacht, gesessen, gelesen, gefesselt,, gestohlen, gerannt, gerufen, gelacht, vergangen, verlassen

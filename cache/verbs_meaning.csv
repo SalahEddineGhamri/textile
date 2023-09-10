@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -204,8 +204,29 @@ der Reis : Noun
 ","der Besuch : Noun
 ",,,,,,,"der Anhalt : Noun
 ","der Strahl : Noun
-"
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","scheinen : Verb
+",,"sich sehen : Verb
+sich sehen : Verb
+sehen : Verb
+","das Spiel : Noun
+",,"die Lache : Noun
+","sitzen : Verb
+","lesen : Verb
+","fesseln : Verb
+","begeistern : Verb
+sich begeistern : Verb
+","stehlen : Verb
+sich stehlen : Verb
+","rennen : Verb
+rennen : Verb
+","sich rufen : Verb
+rufen : Verb
+","sich lachen : Verb
+lachen : Verb
+","vergehen : Verb
+sich vergehen : Verb
+",
+basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -2231,6 +2252,228 @@ to effulge | effulged, effulged | rare
 to be aglow with happiness
 to beam with pride
 to beam with joy
+","to seem | seemed, seemed |
+to shine | shone, shone |
+to look | looked, looked | - appear
+to appear | appeared, appeared |
+to irradiate | irradiated, irradiated |
+to gleam | gleamed, gleamed |
+to lighten | lightened, lightened |
+to glare | glared, glared |
+to appear to do sth.
+to appear to be sth.
+sth. appears to be as listed
+","to sing (sth.) | sang, sung |
+to chant | chanted, chanted |
+to vocalizeAE to vocaliseBE / vocalizeBE | vocalized, vocalized / vocalised, vocalised |
+to sing out
+to sing about sth.
+to sing off-key
+to croon (sth.) | crooned, crooned |
+to sing in tune
+to croon | crooned, crooned |
+to croon | crooned, crooned |
+to croon | crooned, crooned |
+to rhapsodizeAE to rhapsodiseBE / rhapsodizeBE | rhapsodized, rhapsodized / rhapsodised, rhapsodised |
+to croon | crooned, crooned |
+to croon | crooned, crooned |
+","to see | saw, seen |
+to watch sth. | watched, watched | - on TV
+to view sth. | viewed, viewed |
+to look | looked, looked |
+to behold so./sth. | beheld, beheld |
+to clock so./sth. | clocked, clocked | - see [coll.] (Brit.)
+to resemble so./sth. | resembled, resembled |
+to look similar
+to look in on so. - visit so., esp. when they are ill
+to check on so./sth.
+to look after so./sth.
+to look about one
+to look on sth.
+to exhibit | exhibited, exhibited |
+","to play | played, played |
+to gamble | gambled, gambled |
+to perform | performed, performed |
+to dally | dallied, dallied |
+to game | gamed, gamed |
+to fool about
+to act sth. | acted, acted | - perform
+to play at sth.
+to execute | executed, executed | [THEA.]
+to portray so. | portrayed, portrayed | [CINE.]
+to be set in ...
+to flirt with sth. - danger, death
+to trifle with so./sth.
+to play for so./sth.
+","to throw (sth.) | threw, thrown |
+to toss sth. | tossed, tossed |
+to cast sth. | cast, cast |
+to pelt | pelted, pelted |
+to hurl | hurled, hurled |
+to buffet | buffeted, buffeted |
+to fawn | fawned, fawned |
+to fling | flung, flung |
+to cast its young
+to jerk | jerked, jerked |
+to shoot | shot, shot |
+to dart | darted, darted |
+to distort sth. | distorted, distorted |
+to sling sth. | slung, slung |
+","to laugh | laughed, laughed |
+to giggle | giggled, giggled |
+to guffaw | guffawed, guffawed |
+to laugh out loud
+to laugh about sth.
+to laugh at so./sth.
+to refrain from laughing
+to make so. laugh
+to stifle one's laughter
+to crack so. up - make so. laugh [coll.]
+to cackle | cackled, cackled | - laugh
+to chuckle | chuckled, chuckled |
+to jeer | jeered, jeered |
+to cackle | cackled, cackled |
+","to sit | sat, sat |
+to perch | perched, perched |
+to be set
+to be seated
+to do bird [coll.] [fig.]
+to do time
+to serve a stretch
+to roost | roosted, roosted | [ZOOL.]
+to remain seated
+to run out on so. - abandon so.
+to bail on so. (Amer.)
+to walk out on so.
+to abandon so. | abandoned, abandoned |
+to have had a few - too many alcoholic drinks
+","to read (sth.) | read, read |
+to gather | gathered, gathered |
+to pluck | plucked, plucked |
+to detect | detected, detected | [TECH.]
+to lecture on sth. - at a university [EDUC.]
+to read aloud
+to read about sth.
+to proofread (sth.) | proofread, proofread |
+to reread | reread, reread |
+to misread | misread, misread |
+to correct proofs
+to reread sth. | reread, reread |
+to scan sth. | scanned, scanned |
+to give so. a good talking to
+","to constrain | constrained, constrained |
+to fetter | fettered, fettered |
+to fascinate | fascinated, fascinated |
+to manacle | manacled, manacled |
+to hogtie | hogtied, hogtied |
+to clog | clogged, clogged | (Amer.)
+to enthrallAE / enthralBE | enthralled, enthralled / enthraled, enthraled |
+to pinion | pinioned, pinioned |
+to tie so. ⇔ up
+to handcuff so. | handcuffed, handcuffed |
+to shackle so. | shackled, shackled |
+to attract so. | attracted, attracted |
+to enchain so. | enchained, enchained |
+to engage so. | engaged, engaged |
+","to enthrallAE / enthralBE | enthralled, enthralled / enthraled, enthraled |
+to elate so. | elated, elated |
+to thrill so. | thrilled, thrilled |
+to inspire so. | inspired, inspired |
+to enthuse so. | enthused, enthused |
+to wow so. | wowed, wowed | [coll.]
+to get into sth.
+to be crazy about sth.
+to be stoked
+to clap enthusiastically
+to clap enthusiastically
+to embrace sth. | embraced, embraced |
+to enthuse about (or: over) so./sth.
+to enthuse about (or: over) so./sth.
+","to steal | stole, stolen |
+to purloin | purloined, purloined |
+to thieve (sth.) | thieved, thieved |
+to rustle | rustled, rustled | - livestock (Amer.)
+to abstract sth. | abstracted, abstracted |
+to cabbage sth. | cabbaged, cabbaged | - steal, pilfer (Amer.)
+to pilfer sth. | pilfered, pilfered |
+to nick sth. | nicked, nicked | (Brit.) [coll.]
+to snaffle sth. | snaffled, snaffled | (Brit.) [sl.]
+to heist sth. | heisted, heisted | [sl.]
+to steal so.'s thunder
+to upstage so. | upstaged, upstaged |
+to steal the show from so.
+to duff | duffed, duffed | (Aust.) [sl.]
+","to run | ran, run |
+to scramble | scrambled, scrambled |
+to flit | flitted/flit, flitted/flit |
+to race | raced, raced |
+to sprint | sprinted, sprinted |
+to leg it - run [coll.]
+to nip | nipped, nipped | (Brit.) [coll.]
+to cannon into sth.
+to make a run for sth. [coll.]
+to bump into each other - meet by chance
+to bolt | bolted, bolted |
+to race | raced, raced |
+to bowl so. ⇔ over
+to run like lightning
+to bash one's head against a wall
+","to call (so./sth.) | called, called |
+to shout | shouted, shouted |
+to cry | cried, cried | - shout
+to exclaim | exclaimed, exclaimed | - used in direct speech
+to hoot | hooted, hooted |
+to summon so. | summoned, summoned |
+to bleep so. | bleeped, bleeped | - e. g. doctor in hospital [TELECOM.]
+to cry for so./sth.
+to summon so. | summoned, summoned |
+to cuckoo | cuckooed, cuckooed |
+to cheer | cheered, cheered |
+to hurrah | hurrahed, hurrahed |
+to call to order
+to send for the doctor
+","to laugh | laughed, laughed |
+to giggle | giggled, giggled |
+to guffaw | guffawed, guffawed |
+to laugh out loud
+to laugh about sth.
+to laugh at so./sth.
+to cackle | cackled, cackled | - laugh
+to chuckle | chuckled, chuckled |
+to jeer | jeered, jeered |
+to cackle | cackled, cackled |
+to fleer at so./sth. [poet.]
+to cachinnate | cachinnated, cachinnated | rare
+to have a chuckle to oneself
+","to go quickly/slowly - of time: pass
+to elapse | elapsed, elapsed |
+to go by - pass
+to decay | decayed, decayed |
+to pass | passed, passed |
+to pass by
+to pass off - fade
+to offend | offended, offended |
+to die away
+to die | died, died |
+to misdemean | misdemeaned, misdemeaned | rare
+to lag | lagged, lagged |
+to wear away
+to swelter | sweltered, sweltered |
+to spin away
+","to leave so./sth. | left, left |
+to quit | quit/quitted, quit/quitted |
+to abandon so./sth. | abandoned, abandoned |
+to rely on so./sth.
+to vacate | vacated, vacated |
+to evacuate | evacuated, evacuated |
+to relinquish | relinquished, relinquished |
+to outgo | outwent, outgone |
+to desert so. | deserted, deserted |
+to fail so. | failed, failed |
+to walk out on so.
+to exit sth. | exited, exited | - a place
+to absent oneself from sth.
+to drop out of sth.
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -4257,6 +4500,228 @@ strahlen | strahlte, gestrahlt |
 vor Glück strahlen
 vor Stolz strahlen
 vor Freude strahlen
+","scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+scheinen | schien, geschienen |
+grell scheinen
+etw.acc. zu tun scheinen
+etw.nom. zu sein scheinen
+etw.acc. scheint der Auflistung zu entsprechen
+","(etw.acc.) singen | sang, gesungen |
+singen | sang, gesungen |
+singen | sang, gesungen |
+laut singen | sang, gesungen |
+von etw.dat. singen | sang, gesungen |
+falsch singen
+(etw.acc.) leise (or: sanft) singen
+richtig singen
+schmachtend singen
+gefühlvoll singen
+leise singen
+rhapsodenartig singen
+sanft singen
+schmalzig singen
+","sehen | sah, gesehen |
+etw.acc. sehen | sah, gesehen | - im Fernsehen
+etw.acc. sehen | sah, gesehen |
+sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdm./etw. ähnlich sehen
+sichdat. ähnlich sehen
+nach jmdm. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+um sichacc. sehen
+auf etw.acc. sehen | sah, gesehen |
+sehen lassen
+","spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+etw.acc. spielen | spielte, gespielt | - Stück, Rolle
+etw.acc. spielen | spielte, gespielt | - etw. zu sein vorgeben
+spielen | spielte, gespielt |
+jmdn. spielen | spielte, gespielt |
+in ... spielen | spielte, gespielt | - Film, Theaterstück
+mit etw. spielen | spielte, gespielt | - Gefahr, Tod
+mit jmdm./etw. spielen | spielte, gespielt |
+für jmdn./etw. spielen | spielte, gespielt |
+","(etw.acc.) werfen | warf, geworfen |
+etw.acc. werfen | warf, geworfen |
+etw.acc. werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen |
+werfen | warf, geworfen | - Blick
+etw.acc. werfen | warf, geworfen |
+etw.acc. werfen | warf, geworfen |
+","lachen | lachte, gelacht |
+lachen | lachte, gelacht |
+laut lachen | lachte, gelacht |
+laut lachen | lachte, gelacht |
+über etw.acc. lachen | lachte, gelacht |
+über jmdn./etw. lachen | lachte, gelacht |
+sichdat. das Lachen verkneifen
+jmdn. zum Lachen bringen
+sichdat. das Lachen verbeißen
+jmdn. zum Lachen bringen
+hämisch lachen
+leise lachen
+höhnisch lachen
+meckernd lachen
+","sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen |
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - im Gefängnis [coll.]
+sitzen | saß, gesessen | - z. B. Vögel/Insekten in der Vegetation
+sitzen bleiben
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+jmdn. sitzenlassen or: sitzen lassen | ließ sitzen, sitzengelassen |
+einen sitzen haben
+","(etw.acc.) lesen | las, gelesen |
+lesen | las, gelesen |
+lesen | las, gelesen | - z. B. Trauben
+lesen | las, gelesen | - Signale
+etw.acc. lesen | las, gelesen | - über ein Fachgebiet an einer Uni dozieren
+laut lesen | las, gelesen |
+von etw.dat. lesen | las, gelesen |
+(etw.acc.) Korrektur lesen
+wieder lesen
+falsch lesen
+Korrektur lesen
+etw.acc. nochmals lesen
+etw.acc. flüchtig lesen
+jmdm. die Leviten lesen
+","fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+jmdn. fesseln | fesselte, gefesselt |
+","begeistern | begeisterte, begeistert |
+jmdn. begeistern | begeisterte, begeistert |
+jmdn. begeistern | begeisterte, begeistert |
+jmdn. begeistern | begeisterte, begeistert |
+jmdn. begeistern | begeisterte, begeistert |
+jmdn. begeistern | begeisterte, begeistert |
+sichacc. für etw.acc. begeistern | begeisterte, begeistert |
+sichacc. für etw.acc. begeistern | begeisterte, begeistert |
+begeistert sein
+begeistert applaudieren
+begeistert klatschen
+etw.acc. begeistert annehmen
+über etw.acc. begeistert sein
+von jmdm./etw. begeistert sein
+","stehlen | stahl, gestohlen |
+stehlen | stahl, gestohlen |
+(etw.acc.) stehlen | stahl, gestohlen |
+stehlen | stahl, gestohlen | - Vieh
+etw.acc. stehlen | stahl, gestohlen |
+etw.acc. stehlen | stahl, gestohlen |
+etw.acc. stehlen | stahl, gestohlen |
+etw.acc. stehlen | stahl, gestohlen |
+etw.acc. stehlen | stahl, gestohlen |
+etw.acc. stehlen | stahl, gestohlen |
+jmdm. die Schau stehlen [coll.]
+jmdm. die Schau stehlen [coll.]
+jmdm. die Schau stehlen [coll.]
+Vieh stehlen
+","rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+rennen | rannte, gerannt |
+gegen etw.acc. rennen | rannte, gerannt |
+zu etw.acc. rennen | rannte, gerannt |
+ineinander rennen
+schnell rennen
+um die Wette rennen
+jmdn. über den Haufen rennen [coll.]
+rennen wie der Blitz
+mit dem Kopf an die Wand rennen
+","(jmdn./etw.) rufen | rief, gerufen |
+rufen | rief, gerufen |
+rufen | rief, gerufen |
+rufen | rief, gerufen |
+rufen | rief, gerufen | - Eule
+jmdn. rufen | rief, gerufen |
+jmdn. rufen | rief, gerufen |
+nach jmdm./etw. rufen | rief, gerufen |
+jmdn. zu sichdat. rufen
+Kuckuck rufen
+hurra (or: Hurra) rufen
+hurra rufen
+zur Ordnung rufen
+den Arzt rufen
+","lachen | lachte, gelacht |
+lachen | lachte, gelacht |
+laut lachen | lachte, gelacht |
+laut lachen | lachte, gelacht |
+über etw.acc. lachen | lachte, gelacht |
+über jmdn./etw. lachen | lachte, gelacht |
+hämisch lachen
+leise lachen
+höhnisch lachen
+meckernd lachen
+über jmdn./etw. hohnlachen (or: Hohn lachen) | hohnlachte, hohngelacht |
+schallend lachen
+leise vor sichacc. hin lachen
+","schnell/langsam vergehen - verstreichen
+vergehen | verging, vergangen |
+vergehen | verging, vergangen |
+vergehen | verging, vergangen |
+vergehen | verging, vergangen |
+vergehen | verging, vergangen |
+vergehen | verging, vergangen |
+sichacc. vergehen | verging, vergangen |
+vergehen | verging, vergangen | [form.]
+vergehen | verging, vergangen | [form.]
+sichacc. vergehen | verging, vergangen |
+langsam vergehen
+langsam vergehen
+vor Hitze vergehen
+wie im Flug vergehen
+","jmdn./etw. verlassen | verließ, verlassen |
+verlassen | verließ, verlassen |
+jmdn./etw. verlassen | verließ, verlassen |
+sichacc. auf jmdn./etw. verlassen | verließ, verlassen |
+verlassen | verließ, verlassen |
+verlassen | verließ, verlassen |
+verlassen | verließ, verlassen |
+verlassen | verließ, verlassen |
+jmdn. verlassen | verließ, verlassen |
+jmdn. verlassen | verließ, verlassen |
+jmdn. verlassen | verließ, verlassen |
+etw.acc. verlassen | verließ, verlassen |
+etw.acc. verlassen | verließ, verlassen |
+etw.acc. verlassen | verließ, verlassen |
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -4846,6 +5311,55 @@ jet
 radiancy
 spurt
 spout
+",,"singing
+sight-reading or: sightreading, sight reading
+sight-singing [MUS.]
+sight-singing [MUS.]
+",,"gambling
+game-playing
+gaming
+game
+match - pl.: matches [SPORT.]
+play
+tournament
+act
+tolerance
+clearance [TECH.]
+backlash [TECH.]
+duty cycle [TECH.]
+slackness [ENGIN.]
+fixture (Brit.) [SPORT.]
+","warping
+casting
+coin toss
+","laughter
+laugh
+cackle
+puddle
+pool
+laugh
+braying laughter
+horselaugh or: horse-laugh, horse laugh
+laughter and happiness
+horselaugh or: horse-laugh, horse laugh
+",,,,"aficionado | aficionada or: afficionado | afficionada
+rooter (Amer.)
+enthusiast
+","stolen vehicle
+",,,,,"abandonment
+quitting
+leaving
+pullout
+abandoning
+giving up [TECH.]
+laying [TECH.]
+laying in [GEOL.]
+derelict
+deserted village
+lost village
+abandoned property
+abandoned house
+abandoned child
 "
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
@@ -5435,6 +5949,55 @@ der Strahl pl.: die Strahlen
 der Strahl pl.: die Strahlen
 der Strahl pl.: die Strahlen
 der Strahl rarely in pl.
+",,"das Singen no plural
+das Vomblattsingen or: Vom-Blatt-Singen no plural
+das Prima-Vista-Singen no plural
+das Vom-Blatt-Singen no plural
+",,"das Spielen no plural
+das Spielen no plural
+das Spielen no plural
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+","das Werfen no plural - von Fliesen und Kacheln etc.
+das Werfen no plural
+das Werfen einer Münze
+","das Lachen no plural
+das Lachen no plural
+das Lachen no plural
+die Lache pl.: die Lachen
+die Lache pl.: die Lachen
+die Lache pl. [coll.] - Lachen
+wieherndes Lachen
+wieherndes Lachen
+glückliches Lachen
+laute Lache
+",,,,"begeisterter Anhänger
+begeisterter Anhänger
+begeisterter Verehrer
+","gestohlenes Fahrzeug
+",,,,,"das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+das Verlassen no plural
+verlassenes Schiff
+verlassenes Dorf
+verlassenes Dorf
+verlassener Besitz
+verlassenes Haus
+verlassenes Kind
 "
 noun_details,english,"article: Das
 word: Wohnen
@@ -5940,8 +6503,50 @@ genus: NEUT
 plural: Strahlen
 meaning: refulgence
 resplendence or: resplendency
+",,"article: das
+word: Singen
+genus: NEUT
+plural: plural
+meaning: singing
+sight-reading or: sightreading, sight reading
+",,"article: Das
+word: Spielen
+genus: NEUT
+plural: plural
+meaning: gambling
+game-playing
+","article: das
+word: Werfen
+genus: NEUT
+plural: etc.
+meaning: warping
+casting
+","article: Das
+word: Lachen
+genus: NEUT
+plural: plural
+meaning: laughter
+laugh
+",,,,"article: begeisterter
+word: Anhänger
+genus: 
+plural: Anhänger
+meaning: aficionado | aficionada or: afficionado | afficionada
+rooter (Amer.)
+","article: gestohlenes
+word: Fahrzeug
+genus: 
+plural: Fahrzeug
+meaning: stolen vehicle
+
+",,,,,"article: Das
+word: Verlassen
+genus: NEUT
+plural: plural
+meaning: abandonment
+quitting
 "
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -6290,6 +6895,42 @@ unmaintained adj. [ENGIN.]
 ",,,,,,"in appearance
 in appearance
 ",,,"rayless adj.
+",,,,"jeopardizedAE adj.jeopardisedBE / jeopardizedBE adj.
+at stake
+pre-game adj.
+pretended - not genuine, used before noun adj.
+alcohol-related adj.
+",,"rident adj. [poet.]
+",,,,"excited adj.
+avid adj.
+enthusiastic adj.
+avidly adv.
+exalted adj.
+passionately adv.
+zealous adj.
+ardent adj.
+enthused adj.
+zesty adj.
+elated adj.
+gung-ho adj.
+inspired adj.
+rapt adj.
+",,,,,,"deserted adj.
+abandoned adj.
+desolate adj.
+forsaken adj.
+friendless adj.
+shuttered adj.
+derelict adj.
+forlorn adj.
+forlornly adv.
+lonesome adj.
+untrodden adj.
+lorn adj. archaic
+discontinued adj.
+disused adj.
+given up
+laid in
 "
 adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
@@ -6639,6 +7280,42 @@ nicht gewartet
 ",,,,,,"dem Aussehen nach
 vom Aussehen her
 ",,,"ohne Strahlen
+",,,,"aufs Spiel gesetzt
+auf dem Spiel
+vor dem Spiel
+Spiel...
+mit Alkohol im Spiel
+",,"mit breitem Lachen
+",,,,"begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+begeistert
+",,,,,,"verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
+verlassen
 "
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
@@ -7546,6 +8223,109 @@ to look sharp - stylish (Amer.) [coll.]
 What a sight you are!
 ",,"no stopping
 ","to be all smiles
+","it looks that way
+",,"as I understand it
+the way I see it
+to see stars
+to see behind the curtain [fig.]
+to be in over one's head
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+not to see the wood for the trees chiefly (Brit.)
+not to see the forest for the trees chiefly (Amer.)
+Let's face the facts.
+Let us face the facts.
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+to see pink elephants [fig.]
+to see snakes [coll.] [fig.]
+to look on the black side [fig.]
+","to play hangman
+to play hangman
+to play hangman
+to outact so. | outacted, outacted |
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+to play for time chiefly [SPORT.]
+to play devil's advocate
+I'd like to be a fly on the wall.
+to play second fiddle [fig.]
+to be a second string [fig.]
+to take a back seat [fig.]
+to call the tune [fig.]
+to be in a sulk
+to be in a huff
+","to throw sth. overboard
+to lump so./sth. in with so./sth.
+to lump so./sth. together (with so./sth.)
+to throw in the towel [fig.]
+to throw in the sponge [fig.]
+to abandon sth. | abandoned, abandoned |
+Let go anchor! [NAUT.]
+to throw in the towel [SPORT.]
+to throw in the sponge [SPORT.]
+People who live in glass houses shouldn't throw stones.
+People who live in glass houses shouldn't throw stones.
+to throw money down the drain
+to spend money like water
+to cast pearls before swine
+","a sardonic laugh
+to bubble over with laughter
+to bubble over with laughter
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+Don't make me laugh.
+You must be joking.
+to be all smiles
+Don't make me laugh!
+Very funny! - ironic
+He who laughs last laughs longest.
+He laughs best who laughs last.
+He who laughs last laughs best.
+","That struck home.
+sth. fits like a glove
+People who live in glass houses shouldn't throw stones.
+People who live in glass houses shouldn't throw stones.
+to bite the hand that feeds one
+to be on pins and needles chiefly (Amer.)
+to be in a bind
+to be up a gum tree
+to be close on so.'s heels
+to be sitting on a powder keg
+to breathe down so.'s neck
+to breathe down so.'s neck
+to be caught in a trap also [fig.]
+to be caught in a quagmire
+","to call so. over the coals
+to drag so. over the coals
+to haul so. over the coals
+to rake so. over the coals
+to tell so. where to get off
+to read so. the riot act [coll.]
+to give so. a talking-to [coll.]
+to give so. a telling-off [coll.]
+to read the riot act to so. [fig.] [coll.]
+to give so. a ticking-off [sl.]
+to be able to read music [MUS.]
+",,"to take a dim view of sth.
+to take a poor view of sth.
+to take a dim view of sth.
+to take a poor view of sth.
+",,"to run for one's life
+to bang one's head against a brick wall
+",,"He who laughs last laughs longest.
+He laughs best who laughs last.
+He who laughs last laughs best.
+Don't make me laugh.
+You must be joking.
+to be all smiles
+Don't make me laugh!
+Very funny! - ironic
+","Bad weeds grow tall.
+Fame is but a transient shadow.
+how time flies
+time flies
+time flies
+","to abandon a sinking ship
+like rats deserting the sinking ship
 "
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
@@ -8453,6 +9233,109 @@ geschniegelt und gebügelt aussehen [fig.] [coll.]
 Wie siehst du denn aus!
 ",,"kein Anhalten
 ","über das ganze Gesicht strahlen
+","es scheint so [coll.]
+",,"wie ich es sehe
+so wie ich die Sache sehe
+Sterne sehen [coll.] [fig.]
+hinter den Vorhang sehen [fig.]
+kein Land mehr sehen können
+die Dinge durch die rosarote Brille sehen
+den Wald vor lauter Bäumen nicht sehen
+den Wald vor lauter Bäumen nicht sehen
+Wir wollen den Tatsachen ins Auge sehen.
+Wir wollen den Tatsachen ins Auge sehen.
+durch eine rosa Brille sehen
+weiße Mäuse sehen [coll.] [fig.] [hum.]
+weiße Mäuse sehen [fig.]
+alles grau in grau sehen
+","Galgenmännchen spielen
+Galgenraten spielen
+Hängemann spielen
+jmdn. an die Wand spielen [fig.]
+auf Zeit spielen [coll.]
+auf Zeit spielen
+den Advocatus Diaboli spielen
+Da würde ich gern Mäuschen spielen. [fig.]
+die zweite Geige spielen [fig.]
+die zweite Geige spielen [fig.]
+die zweite Geige spielen [fig.]
+die erste Geige spielen [fig.]
+die beleidigte Leberwurst spielen [fig.]
+die beleidigte Leberwurst spielen [fig.]
+","etw.acc. über Bord werfen or [fig.]
+jmdn./etw. mit jmdm./etw. in einen Topf werfen
+jmdn./etw. (mit jmdm./etw.) in einen Topf werfen
+das Handtuch werfen [fig.]
+das Handtuch werfen [fig.]
+etw.acc. über Bord werfen [fig.]
+Anker werfen!
+das Handtuch werfen [Boxing]
+das Handtuch werfen [Boxing]
+Wer im Glashaus sitzt, soll nicht mit Steinen werfen.
+Wer im Glashaus sitzt, sollte nicht mit Steinen werfen.
+Geld zum Fenster hinaus werfen
+mit dem Geld nur so um sichacc. werfen
+Perlen vor die Säue werfen
+","ein bitteres Lachen
+sichacc. vor Lachen krümmen
+sichacc. vor Lachen biegen
+sichacc. vor Lachen biegen [coll.]
+sichacc. vor Lachen kringeln [coll.]
+sichacc. vor Lachen schütteln [coll.]
+Da lachen ja die Hühner.
+Da lachen ja die Hühner.
+übers ganze Gesicht lachen
+Dass ich nicht lache!
+Dass ich nicht lache!
+Wer zuletzt lacht, lacht am besten.
+Wer zuletzt lacht, lacht am besten.
+Wer zuletzt lacht, lacht am besten.
+","Der Hieb sitzt.
+etw.nom. sitzt wie angegossen
+Wer im Glashaus sitzt, soll nicht mit Steinen werfen.
+Wer im Glashaus sitzt, sollte nicht mit Steinen werfen.
+den Ast absägen, auf dem man sitzt
+auf Nadeln sitzen
+in der Klemme sitzen
+in der Klemme sitzen
+jmdm. auf den Fersen sitzen
+auf einem Pulverfass sitzen
+jmdm. im Genick sitzen
+jmdm. im Nacken sitzen
+in der Falle sitzen [fig.]
+in der Patsche sitzen [fig.]
+","jmdm. die Leviten lesen
+jmdm. die Leviten lesen
+jmdm. die Leviten lesen
+jmdm. die Leviten lesen
+jmdm. die Leviten lesen
+jmdm. die Leviten lesen [coll.]
+jmdm. die Leviten lesen [fig.] [coll.]
+jmdm. die Leviten lesen [fig.] [coll.]
+jmdm. die Leviten lesen [fig.] [coll.]
+jmdm. die Leviten lesen [fig.] [coll.]
+Noten lesen können
+",,"von etw.dat. nicht begeistert sein
+von etw.dat. nicht begeistert sein
+von etw.dat. wenig begeistert sein
+von etw.dat. wenig begeistert sein
+",,"um sein Leben rennen
+mit dem Kopf gegen die Wand rennen
+",,"Wer zuletzt lacht, lacht am besten.
+Wer zuletzt lacht, lacht am besten.
+Wer zuletzt lacht, lacht am besten.
+Da lachen ja die Hühner.
+Da lachen ja die Hühner.
+übers ganze Gesicht lachen
+Dass ich nicht lache!
+Dass ich nicht lache!
+","Unkraut vergeht nicht.
+Ruhm vergeht wie Schall und Rauch.
+wie doch die Zeit vergeht
+die Zeit vergeht wie im Flug
+die Zeit vergeht im Fluge
+","ein sinkendes Schiff verlassen
+wie Ratten, die das sinkende Schiff verlassen
 "
 examples,english,"Do you belong here?
 Where do you live?
@@ -9447,7 +10330,95 @@ The whole thing looks fishy.
 ","I will call in again tomorrow.
 He comes along only every so often.
 I'll just drop in for a second.
-",,
+",,,"It seems that ...
+He appears to be sick.
+there seems to be a mistake
+there seems to be a mistake
+There is no virtue in doing that.
+It seems to us that
+He was so unapologetic about it.
+He didn't seem to be quite all here.
+","I can tell you a thing or two about it.
+","at last it's clear to me
+Does this dress make me look fat?
+I can see it on your face
+Each time I see her I have to smile.
+Every time I see her I have to smile.
+I see this is the case
+I see this is not the case.
+I fail to see ...
+He gives me the heebie-jeebies. [coll.]
+You look well.
+I can't wait to see her.
+as you see
+I am pleased to see you.
+I am looking forward to seeing him.
+","Do you play the piano?
+We play for love.
+The swimmer won gold in the 400m individual medley at the Olympic Games.
+Money is not an issue.
+Money is no object.
+That is irrelevant.
+It becomes important
+It plays a prominent role
+It doesn't make any difference whether ...
+It doesn't matter whether ...
+She is acting like a prima donna.
+It is very important that ...
+The game was rained off. (Brit.)
+The score is even.
+","I will post the letter first thing tomorrow morning.
+He spends money like water.
+","I'm in no laughing mood.
+That's no laughing matter.
+That's not funny.
+It's all very well for you to laugh!
+His life is no bed of roses.
+I'm in no laughing mood.
+It's no laughing matter.
+This is not a laughing matter.
+He had them rolling in the aisles.
+There was a lot of laughter.
+He was all smiles.
+He laughed up his sleeve.
+","She's in a jam.
+Keep your seats!
+You should sit up straight.
+We're all in the same boat.
+She was at the wheel.
+We were sitting outside, chit-chatting about this and that.
+She sat on the motorcycle clinging on for dear life.
+The girls were sitting all bunched together.
+I was on pins and needles. [fig.]
+","He reads a good deal.
+This book makes good reading.
+Begin reading!
+I want to read in peace.
+easier to read
+I love to read.
+I am fond of reading.
+",,"He wasn't very responsive when I suggested it to him.
+","recovery of a stolen automobile
+",,,"That's no laughing matter.
+That's not funny.
+It's all very well for you to laugh!
+His life is no bed of roses.
+There was a lot of laughter.
+He was all smiles.
+He laughed up his sleeve.
+",,"If a student fails this exam, he or she has to leave the university.
+If a student fails this exam, they have to leave the university.
+If a student fails this exam, they have to leave the university.
+You can count on that.
+How long is it since he left you?
+You may rely on our best efforts.
+an abandoned vehicle
+an abandoned woman
+an abandoned village
+an abandoned vessel
+I count on you.
+we turned off the motorway (Brit.)
+"
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
 Er wohnt bei mir.
@@ -10441,4 +11412,92 @@ Die ganze Sache sieht verdächtig aus.
 ","Ich werde morgen nochmals vorbeikommen.
 Er kommt nur gelegentlich vorbei. infinitive: vorbeikommen
 Ich komme auf einen Sprung vorbei.
-",,
+",,,"Es scheint, dass ...
+Er scheint krank zu sein.
+da scheint ein Fehler vorzuliegen
+da scheint ein Fehler zu sein
+Es scheint nicht sehr zweckmäßig, das zu tun.
+Es scheint uns, dass
+Es schien ihm überhaupt nicht leid zu tun.
+Er schien nicht ganz bei Sinnen zu sein.
+","Ich weiß ein Lied davon zu singen.
+","jetzt blicke rarely: sehe ich endlich durch
+Sehe ich in diesem Kleid dick aus?
+das sehe ich dir an der Nasenspitze an
+Jedes Mal, wenn ich sie sehe, muss ich lächeln.
+Jedes Mal, wenn ich sie sehe, muss ich lächeln.
+Ich sehe, das ist der Fall.
+Ich sehe, das ist nicht der Fall.
+Ich sehe nicht ein ...
+Wenn ich ihn sehe, bekomme ich eine Gänsehaut.
+Sie sehen gut aus.
+Ich kann es kaum erwarten sie zu sehen
+wie Sie sehen
+Es freut mich, dich zu sehen.
+Ich freue mich darauf, ihn zu sehen.
+","Spielen Sie Klavier?
+Wir spielen um nichts.
+Der Schwimmer gewann bei den Olympischen Spielen Gold über 400 Meter Lagen.
+Geld spielt keine Rolle.
+Geld spielt keine Rolle.
+Das spielt keine Rolle.
+Es spielt eine Rolle
+Es spielt eine bedeutende Rolle
+Es spielt keine Rolle, ob ...
+Es spielt keine Rolle, ob ...
+Sie spielt die beleidigte Leberwurst.
+Es spielt eine große Rolle, dass ...
+Das Spiel fiel im wahrsten Sinne des Wortes ins Wasser.
+Das Spiel steht unentschieden.
+","Ich werde den Brief gleich morgen früh in den Briefkasten werfen.
+Er wirft mit dem Geld nur so um sich.
+","Es ist mir nicht zum Lachen.
+Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Du hast gut lachen!
+Er hat nichts zu lachen.
+Mir ist nicht zum Lachen zumute (or: zu Mute).
+Das ist nicht zum Lachen.
+Das ist nicht zum Lachen.
+Er brachte sie so weit, dass sie sich vor Lachen kugelten
+Es wurde viel gelacht.
+Er lachte übers ganze Gesicht.
+Er lachte sich ins Fäustchen.
+","Sie sitzt in der Patsche.
+Bleiben Sie sitzen!
+Du solltest gerade sitzen.
+Wir sitzen alle im selben Boot.
+Sie saß am Steuer.
+Wir saßen draußen und plauderten über dies und jenes.
+Sie saß wie ein Klammeraffe auf dem Motorrad.
+Die Mädchen saßen alle auf einem Haufen.
+Ich saß wie auf glühenden Kohlen. [fig.]
+","Er liest viel.
+Dieses Buch liest sich gut.
+Fangen Sie an zu lesen!
+Ich möchte in Ruhe lesen.
+leichter zu lesen
+Ich lese gern.
+Ich lese sehr gern.
+",,"Er war nicht sehr begeistert, als ich es ihm vorschlug.
+","die Wiederbeschaffung eines gestohlenen Fahrzeugs
+",,,"Da gibt es gar nichts zu lachen.
+Da gibt es gar nichts zu lachen.
+Du hast gut lachen!
+Er hat nichts zu lachen.
+Es wurde viel gelacht.
+Er lachte übers ganze Gesicht.
+Er lachte sich ins Fäustchen.
+",,"Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn ein Student oder eine Studentin bei dieser Prüfung durchfällt, muss er oder sie die Universität verlassen.
+Wenn Studierende bei dieser Prüfung durchfallen, müssen sie die Universität verlassen.
+Sie können sich darauf verlassen.
+Wie lange ist es her, dass er dich verlassen hat?
+Sie können sich auf uns verlassen.
+ein verlassenes Fahrzeug
+eine verlassene Frau
+ein verlassenes Dorf
+ein verlassenes Schiff
+Ich verlasse mich auf Sie.
+wir verließen die Autobahn
+"

@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -87,8 +87,19 @@ das Perfekt : Noun
 erfrischen : Verb
 ","neu : Adjective
 ","leck : Adjective
+","schön : Adjective
+der Schöne : Noun
+die Schöne : Noun
+","grün : Adjective
+grünen : Verb
+","bunt : Adjective
+","alt : Adjective
+ältere : Adjective
+der Ältere : Noun
+die Ältere : Noun
+","interessant : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -528,7 +539,7 @@ to be exercised
 to fuss | fussed, fussed |
 to get in a lather
 ","to be brimming with sth.
-",,"to beat so. black and blue
+",None,"to beat so. black and blue
 to be furious
 to dislike so. | disliked, disliked |
 to be wet behind the ears [fig.]
@@ -583,7 +594,39 @@ to repaper | repapered, repapered |
 to repopulate | repopulated, repopulated |
 ","to leak | leaked, leaked |
 to spring a leak
-"
+","to pretty | prettied, prettied |
+to be a real vision
+to pack a punch [coll.]
+to pack quite a punch [coll.]
+to send so. one's regards
+to have a blast
+to have a nice time
+to make eyes at so.
+to ogle so. | ogled, ogled | - look at so. flirtatiously (Amer.)
+to set so. back (a fair amount/a pretty penny)
+","to beat so. black and blue
+to be furious
+to dislike so. | disliked, disliked |
+to be wet behind the ears [fig.]
+to sit by so.
+","to variegate sth. | variegated, variegated |
+to be ablaze with colorAE to be ablaze with colourBE
+","to grow old
+to go stale - bread
+to grow older
+to remain unaffected
+to be getting on a bit (Brit.) [coll.]
+to be 3/15/62 ... years old
+to settle old scores
+to be an old hand at sth.
+to age an animal
+to dig out the old jokes
+to be in one's prime
+to be oneself again
+to be military-aged
+to act one's age
+to retain an old custom
+",
 verbs,german,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
@@ -1023,7 +1066,7 @@ sichacc. aufregen | regte auf, aufgeregt |
 sichacc. aufregen | regte auf, aufgeregt |
 sichacc. aufregen | regte auf, aufgeregt |
 ","mit etw.dat. voll gepackt sein
-",,"jmdn. grün und blau schlagen
+",None,"jmdn. grün und blau schlagen
 sichacc. grün und blau ärgern
 jmdm. nicht grün sein
 noch grün hinter den Ohren sein [fig.]
@@ -1078,7 +1121,39 @@ neu tapezieren
 neu besiedeln
 ","leck sein
 leck schlagen
-"
+","schön herrichten
+traumhaft schön sein
+ganz schön zuschlagen können [coll.]
+ganz schön zuschlagen können [coll.]
+jmdm. schöne Grüße ausrichten
+eine schöne Zeit haben
+eine schöne Zeit haben
+jmdm. schöne Augen machen
+jmdm. schöne Augen machen
+jmdn. eine (schöne) Stange Geld kosten
+","jmdn. grün und blau schlagen
+sichacc. grün und blau ärgern
+jmdm. nicht grün sein
+noch grün hinter den Ohren sein [fig.]
+an jmds. grüner Seite sitzen [hum.]
+","etw.acc. bunt gestalten
+in bunten Farben leuchten
+","alt werden
+alt werden
+älter werden
+beim Alten bleiben
+älter werden
+3/15/62/... Jahre alt sein
+eine alte Rechnung begleichen
+ein alter Hase in etw.dat. sein
+das Alter eines Tieres bestimmen
+alte Kamellen wieder hervorkramen [coll.] [fig.]
+im besten Alter sein
+wieder der (or: die) Alte sein
+im wehrpflichtigen Alter sein
+sichacc. seinem Alter entsprechend benehmen
+alten Brauch beibehalten
+",
 nouns,english,"previous debt
 former quotations
 back issue
@@ -1661,7 +1736,7 @@ the next day
 underlayer [GEOL.]
 next executable statement
 wraparound or: wrap-around [COMP.]
-",,"packed format
+",None,"packed format
 packed decimal [MATH.]
 gravity masonry dam [TECH.]
 masonry gravity dam [TECH.]
@@ -1739,6 +1814,64 @@ reinterpretation
 redistribution
 revote
 ","tastiness
+","beauty
+belle - pl.: belles
+star hyacinth [BOT.]
+star squill [BOT.]
+fiddle dock [BOT.]
+small-flowered hawksbeard [BOT.]
+star hyacinth [BOT.]
+star squill [BOT.]
+beautiful pea mussel [ZOOL.]
+beautiful bittersweet [ZOOL.]
+Himalayan honeysuckle [BOT.]
+pheasant berry [BOT.]
+hairy bindweed [BOT.]
+Philip the Fair [HIST.]
+","verdancy
+Green [POL.]
+member of the Green Party [POL.]
+the Greens pl. [POL.]
+the Green Party [POL.]
+green revolution
+fresh herrings
+synchronizedAE traffic lightssynchronisedBE / synchronizedBE traffic lights
+green energy
+green pepper - vegetable
+green box
+international insurance card
+the Emerald Isle
+paddy wagon (Amer.)
+","smorgasbord
+potpourri
+mixed bag
+fairy lights pl. (Brit.)
+printer's colorAEprinter's colourBE
+omnium-gatherum
+crown vetch [BOT.]
+axseed [BOT.]
+purple crown-vetch [BOT.]
+crown vetch [BOT.]
+axseed [BOT.]
+purple crown-vetch [BOT.]
+variegated scallop [ZOOL.]
+queen scallop [ZOOL.]
+","major
+senior
+the elderly
+the aged
+the old
+the old folks
+wrinklies pl. - parents [coll.] [hum.] also [pej.]
+the ancients [HIST.]
+older worker
+senior citizen
+elderly gentleman
+infirm elderly man
+old-timer or: old timer [coll.]
+older drift [GEOL.]
+","interesting shopping
+place of interest
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -2322,7 +2455,7 @@ der nächste Tag
 nächste Schicht
 nächste ausführbare Anweisung
 Übertrag auf nächste Zeile - in der Textverarbeitung
-",,"gepacktes Format
+",None,"gepacktes Format
 gepackte Dezimalzahl
 gepackter Steindamm
 gepackter Steindamm
@@ -2400,6 +2533,64 @@ neue Übersetzung
 neue Verteilung
 neue Abstimmung
 ","leckerer Geschmack
+","das Schöne no plural
+die Schöne pl.: die Schönen
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Ampfer Lat.: Rumex pulcher
+Schöner Pippau Lat.: Crepis pulchra
+Schöne Sternhyacinthe Lat.: Scilla amoena
+Schöne Sternhyacinthe Lat.: Scilla amoena
+Schöne Erbsenmuschel Lat.: Pisidium pulchellum [Invertebrates]
+Schöne Samtmuschel Lat.: Glycymeris formosa [Invertebrates]
+Schöne Leycesterie Lat.: Leycesteria formosa
+Schöne Leycesterie Lat.: Leycesteria formosa
+Schöne Zaunwinde Lat.: Calystegia pulchra
+Philipp der Schöne - Philipp IV., französischer König
+","das Grüne no plural
+der Grüne | die Grüne pl.: die Grünen
+der Grüne | die Grüne pl.: die Grünen
+die Grünen pl.
+die Grünen pl.
+Grüne Revolution
+grüne Heringe
+grüne Welle
+grüne Energie
+grüne Paprikaschote
+Grüne Liste
+Grüne Versicherungskarte
+die Grüne Insel - Irland
+die ""Grüne Minna"" - Polizeiwagen f. Gefangene
+","bunte Mischung
+bunte Mischung
+bunte Mischung
+bunte Lichter pl.
+bunte Druckfarbe
+bunte Gesellschaft
+Bunte Kronwicke
+Bunte Kronwicke
+Bunte Kronwicke
+Bunte Beilwicke
+Bunte Beilwicke
+Bunte Beilwicke
+Bunte Kammmuschel Lat.: Mimachlamys varia, Chlamys varia [Invertebrates]
+Bunte Kammmuschel Lat.: Aequipecten opercularis [Invertebrates]
+","der Ältere pl.: die Älteren - nach Eigennamen
+der Ältere | die Ältere pl.: die Älteren
+die Alten pl.
+die Alten pl.
+die Alten pl.
+die Alten pl.
+die Alten pl. [coll.]
+die Alten pl.
+älterer Arbeitnehmer
+älterer Bürger
+älterer Herr
+älterer Herr
+älterer Mensch
+älterer Geschiebemergel
+","interessante Einkaufsmöglichkeiten pl.
+interessanter Ort
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -2701,7 +2892,7 @@ genus: NEUT
 plural: plural
 meaning: next
 next
-",,"article: gepacktes
+",None,"article: gepacktes
 word: Format
 genus: 
 plural: Format
@@ -2761,8 +2952,38 @@ genus:
 plural: Geschmack
 meaning: tastiness
 
+","article: das
+word: Schöne
+genus: NEUT
+plural: plural
+meaning: beauty
+belle - pl.: belles
+","article: Das
+word: Grüne
+genus: NEUT
+plural: plural
+meaning: verdancy
+Green [POL.]
+","article: bunte
+word: Mischung
+genus: 
+plural: Mischung
+meaning: smorgasbord
+potpourri
+","article: der
+word: Ältere
+genus: MASC
+plural: die Älteren - nach Eigennamen
+meaning: major
+senior
+","article: interessante
+word: Einkaufsmöglichkeiten
+genus: 
+plural: 
+meaning: interesting shopping
+place of interest
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -3385,6 +3606,65 @@ reformative adj.
 newly founded
 newly-created adj.
 ","leaky adj.
+","beautiful adj.
+fine adj.
+nice adj.
+lovely adj.
+fair adj.
+pretty adj.
+handsome adj. also [fig.]
+comely adj.
+pulchritudinous adj.
+nice and warm/quiet/clean/...
+beauteous adj. [poet.]
+bonny or: bonnie adj. chiefly (Scot.)
+braw adj. (Scot.)
+nice and fat
+","green adj.
+raw adj.
+ecological adj. [POL.]
+verdant adj.
+immature adj.
+verdant adj. [fig.] rare
+glaucous adj.
+viridian adj.
+chartreuse adj.
+half-baked adj. (Amer.)
+greenfield adj.
+","colorfulAE / colourfulBE adj.
+variegated adj.
+varicoloredAE / varicolouredBE adj.
+varied adj.
+checkeredAE / chequeredBE adj.
+stained adj.
+gaudy adj.
+multicoloredAE / multicolouredBE adj.
+coloredAE / colouredBE adj.
+painted adj. [ZOOL.]
+gay adj. - lively, cheerful dated
+ragtag adj.
+varied adj.
+variegated adj.
+","elderly adj. - old, ageing
+prior adj.
+senior adj.
+elder - older; used in comparisons adj.
+old adj.
+ancient adj.
+grayAE / greyBE adj. [fig.]
+vintage adj.
+aged adj.
+of long standing
+old-established adj.
+antique adj.
+long standing
+long in the tooth
+","interesting adj.
+juicy adj. [coll.] [fig.]
+sapid adj. [fig.]
+interesting-looking adj.
+financially rewarding
+uninteresting adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -4008,6 +4288,65 @@ neu bildend
 neu gegründet
 neu gegründet
 ","leck
+","schön
+schön
+schön
+schön
+schön
+schön
+schön or [fig.]
+schön
+schön
+schön warm/ruhig/sauber/...
+schön
+schön
+schön
+schön fett
+","grün - Farbe
+grün
+grün
+grün
+grün - unreif
+grün [fig.] - unerfahren
+gräulich (or: graulich) grün
+blau-grün
+gelblich-grün
+noch grün hinter den Ohren
+auf der grünen Wiese
+","bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt
+bunt gemischt
+bunt gemischt
+bunt gemischt
+","älterer | ältere | älteres
+älterer | ältere | älteres
+älterer | ältere | älteres
+älterer | ältere | älteres
+alt
+alt
+alt
+alt
+alt
+alt
+alt
+alt
+alt
+alt adj.
+","interessant
+interessant
+interessant
+interessant aussehend
+finanziell interessant
+nicht interessant
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -4323,7 +4662,7 @@ not specified
 What happens next?
 ","That gets my goat. [coll.]
 to be all aflutter about sth.
-",,,"to have a green thumb (Amer.) [fig.]
+",None,None,"to have a green thumb (Amer.) [fig.]
 to have green fingers (Brit.) [fig.]
 to get nowhere
 not to get anywhere
@@ -4353,9 +4692,9 @@ a slight niggle - trivial complaint
 a wee problem
 little black dress [abbr.: LBD]
 a modicum
-",,,"nobody's perfect
+",None,None,"nobody's perfect
 nobody's perfect
-",,"New brooms sweep clean.
+",None,"New brooms sweep clean.
 A new broom sweeps clean.
 new suits at the 2-level - bridge
 Happy New Year!
@@ -4369,6 +4708,52 @@ a new low-point
 Let's try again!
 new wine in old bottles
 to open a whole new can of worms [fig.]
+",None,"well
+a handsome profit
+Thank you.
+Here you are! - said when giving so. sth.
+Have a nice Easter!
+Happy holidays!
+Beauty and the Beast
+I should be so lucky. [coll.]
+Nice mess! [hum.]
+chance would be a fine thing [coll.]
+Thank you very much.
+Thanks.
+Not at all!
+here you are
+","the black Maria
+gorblimey (Brit.) [coll.]
+Good grief!
+Good heavens!
+My goodness!
+to be hopping mad
+green with envy [fig.]
+to have a green thumb (Amer.) [fig.]
+to have green fingers (Brit.) [fig.]
+to get nowhere
+There's no love lost between them.
+not to get anywhere
+in the open countryside
+to be half-baked (Amer.) [fig.]
+","a mixed bag (of sth.)
+to go too far
+to be known all over town
+to be known all over the place
+","to be snookered (Brit.) [coll.] [fig.]
+new for old
+an old bachelor
+old hand [coll.] [fig.]
+old hat [coll.] [fig.]
+son of a gun [coll.] chiefly (Amer., Canad.) - jocular form of address
+son of a gun [coll.] chiefly (Amer., Canad.) - exclamation of surprise
+old wine in new skins
+You cannot shift an old tree without it dying.
+to throw so./sth. on the scrap heap [fig.]
+to put sth. on the scrap heap
+new wine in old bottles
+for old times' sake
+It's always the same old story.
 ",
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
@@ -4684,7 +5069,7 @@ ohne nähere Angabe
 Was passiert als Nächstes?
 ","Das regt mich auf.
 wegen einer Sache ganz aufgeregt sein
-",,,"einen grünen Daumen haben [fig.]
+",None,None,"einen grünen Daumen haben [fig.]
 einen grünen Daumen haben [fig.]
 auf keinen grünen Zweig kommen
 auf keinen grünen Zweig kommen [fig.]
@@ -4714,9 +5099,9 @@ ein kleiner Kritikpunkt
 ein kleines Problem
 das kleine Schwarze - Abendkleid
 eine kleine Menge
-",,,"keiner ist perfekt
+",None,None,"keiner ist perfekt
 niemand ist perfekt
-",,"Neue Besen kehren gut.
+",None,"Neue Besen kehren gut.
 Neue Besen kehren gut.
 neue Farben auf der 2er-Stufe [Card Games]
 Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
@@ -4730,6 +5115,52 @@ ein neuer Tiefpunkt
 Auf ein Neues!
 neuer Wein in alten Flaschen
 ein neues Fass aufmachen [fig.] - neues Problem anschneiden
+",None,"schön
+ein schöner Gewinn
+Danke schön.
+Bitte schön! - beim Überreichen oder Bedienen
+Schöne Ostern!
+Schöne Feiertage!
+die Schöne und das Biest
+Schön wär's!
+Schöne Bescherung! [hum.]
+schön wär's
+Danke schön.
+Danke schön.
+Bitte schön! - Dank erwidernd
+bitte schön
+","die grüne Minna - Polizeiwagen
+ach du grüne Neune [coll.]
+Ach du grüne Neune! [coll.]
+Ach du grüne Neune! [coll.]
+Ach du grüne Neune! [coll.]
+sichacc. grün und blau ärgern
+grün vor Neid [fig.]
+einen grünen Daumen haben [fig.]
+einen grünen Daumen haben [fig.]
+auf keinen grünen Zweig kommen
+Sie sind sichdat. nicht grün.
+auf keinen grünen Zweig kommen [fig.]
+auf der grünen Wiese [fig.]
+noch grün hinter den Ohren sein [fig.]
+","eine bunte Mischung (von etw.dat.)
+es zu bunt treiben [fig.]
+bekannt sein wie ein bunter Hund
+bekannt sein wie ein bunter Hund
+","alt aussehen [fig.] [coll.]
+neu für alt
+ein alter Junggeselle
+alter Hase [coll.] [fig.]
+alter Hut [coll.] [fig.]
+alter Gauner - scherzhafte Anrede
+alter Schwede [coll.]
+alter Wein in neuen Schläuchen
+Einen alten Baum verpflanzt man nicht.
+jmdn./etw. zum alten Eisen werfen [fig.]
+etw.acc. zum alten Eisen werfen [fig.]
+neuer Wein in alten Flaschen
+um der alten Zeiten willen
+Immer die alte Leier.
 ",
 examples,english,None,"some news of importance
 It matters.
@@ -5122,7 +5553,7 @@ Please forward the goods by the next steamer.
 for the next account
 ","4 points below zero
 see page 4
-",None,,"She's got the travel bug.
+",None,None,"She's got the travel bug.
 Now he's got the bug. [coll.] - obsession
 ","a number of picturesque places
 ","He will never get anywhere.
@@ -5143,10 +5574,10 @@ Our prices leave hardly any margin.
 Our prices leave us with a narrow margin.
 Even a small amount will make a difference.
 a wholesaler breaks bulk
-",,"The ship has sprung a leak.
+",None,"The ship has sprung a leak.
 ","This job would be perfect if there was a little less stress.
 a perfect foil to ...
-",,"enclosed you will find our corrected account
+",None,"enclosed you will find our corrected account
 a new branch of our business
 a new world economic order
 a young company
@@ -5161,6 +5592,32 @@ That's news to me.
 If a student loses their ID card, they have to pay for a new one.
 the new rules replace the old rules
 ","The ship has sprung a leak.
+","more beautiful than
+She's strikingly beautiful.
+That's a bit much!
+It's all happening here. [coll.]
+the most superb Gothic church
+the most beautiful lakes
+we were sliding all over the place
+","He will never get anywhere.
+He's half-baked. (Amer.)
+",,"How old are you?
+I'm double your age.
+What's his age?
+to begin with he's too old
+aged twenty
+The gateway through which you have just walked is 800 years old.
+in my dotage
+handicapped due to his age
+an ancient document
+an old friend of ours
+He lives at his old address.
+with a fine tradition
+among old documents
+He's an old stager.
+","It would be interesting for you
+in an interesting condition
+in an interesting condition
 "
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
@@ -5553,7 +6010,7 @@ Bitte versenden Sie die Waren mit dem nächsten Dampfer.
 mit nächster Rechnung zu verrechnen
 ","4 Grad unter null
 siehe Seite 4
-",None,,"Die Reiselust hat sie gepackt.
+",None,None,"Die Reiselust hat sie gepackt.
 Jetzt hats ihn gepackt. [coll.]
 ","eine Reihe malerischer Orte
 ","Er wird nie auf einen grünen Zweig kommen.
@@ -5574,10 +6031,10 @@ Unsere Preise lassen nur eine kleine Spanne.
 Unsere Preise lassen nur eine kleine Spanne.
 Schon eine kleine Menge macht einen Unterschied.
 ein Großhändler packt Ware kleiner ab
-",,"Das Schiff ist leck geschlagen.
+",None,"Das Schiff ist leck geschlagen.
 ","Dieser Job wäre perfekt, wenn er ein bisschen weniger stressig wäre.
 ein perfekter Hintergrund für ...
-",,"neue Rechnung anbei
+",None,"neue Rechnung anbei
 eine neue Filiale unseres Geschäftes
 eine neue weltwirtschaftliche Ordnung
 eine neue Firma
@@ -5592,4 +6049,30 @@ Das ist mir neu.
 Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
 die neuen Richtlinien ersetzen die alten
 ","Das Schiff ist leck geschlagen.
+","schöner als
+Sie ist bestechend schön.
+Das ist ganz schön happig!
+Hier ist ganz schön was los.
+die schönste gotische Kirche
+die schönsten Seen
+das war eine schöne Rutschpartie
+","Er wird nie auf einen grünen Zweig kommen.
+Er ist noch grün hinter den Ohren.
+",,"Wie alt bist du?
+Ich bin zweimal so alt wie Sie.
+Wie alt ist er?
+erstens ist er zu alt
+zwanzig Jahre alt
+Das Tor, durch das Sie gerade gegangen sind, ist 800 Jahre alt.
+auf meine alten Tage
+benachteiligt wegen seines Alters
+ein altes Dokument
+einer unserer alten Freunde
+Er wohnt in seiner alten Wohnung.
+mit alter Tradition
+unter alten Dokumenten
+Er ist ein alter Hase.
+","Es wäre für Sie interessant
+in interessantem Zustand
+in interessanter Verfassung
 "

@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich
 basic_forms,english,,None,,"müssen : Verb
 ",,None,,None,None,None,None,"früh : Adjective
 ",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
@@ -16,8 +16,10 @@ der Liebe : Noun
 sich aufregen : Verb
 ","lang : Adjective
 langen : Verb
-",,,,,,,,
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,"heuen : Verb
+",,,,,,,"weit : Adjective
+",,,
+basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -846,7 +848,107 @@ to submit sth. to a careful examination
 to elaborate | elaborated, elaborated |
 to dot the i's and cross the t's
 ","to work first - of a seam [TECH.]
-",
+",,"to make hay
+to hay | hayed, hayed |
+to call it a day
+","to lighten | lightened, lightened |
+to process in the foreground
+to raise hell
+to rot in hell
+to stink like hell
+to give so. hell [coll.]
+to outshine sth. | outshone, outshone |
+sth. is going to hell in a handbasket
+to make so.'s life hell [coll.]
+to be hell-bent on doing sth.
+to be hell-bent on sth.
+to be hell-bent on sth.
+sth. sends so. into transports of delight
+to get in a flap [coll.]
+","to frisk | frisked, frisked |
+to frolic | frolicked, frolicked |
+","to say sth. under one's breath
+to mutter sth. to oneself
+to croon sth. to oneself
+to daydream | daydreamed/daydreamt, daydreamed/daydreamt |
+to be lost in reverie
+to brood | brooded, brooded |
+to bubble along
+sth. is all right
+to shuttle | shuttled, shuttled |
+to oscillate | oscillated, oscillated |
+to toggle | toggled, toggled |
+to clap sth. | clapped, clapped |
+to agitate sth. | agitated, agitated |
+to wave | waved, waved |
+","to be after so./sth.
+to chase after so.
+to trail sth. | trailed, trailed |
+sth. is due to sth.
+to careen | careened, careened |
+to dither | dithered, dithered |
+to hem and haw
+to hum and haw
+to mull over
+to bustle about
+to scamper to and fro
+to pace around (or: about)
+to toss and turn - in bed
+to sway so./sth. | swayed, swayed |
+","to crown | crowned, crowned |
+to arrive safely
+to count oneself lucky
+to rejoice | rejoiced, rejoiced | [poet.]
+to bid so. Godspeed archaic
+to wish so. Godspeed archaic
+so. is not a happy camper [coll.] [fig.]
+","to plunge | plunged, plunged | - price
+to slump | slumped, slumped |
+to slump | slumped, slumped |
+to swerve | swerved, swerved |
+to stop short
+to pop up
+to leap into view
+to crop up
+to lunge out
+to rise suddenly
+to surge | surged, surged |
+to crop up
+to hoick (or: hoik) sth. | hoicked, hoicked / hoiked, hoiked |
+to pounce | pounced, pounced |
+","to redistribute | redistributed, redistributed |
+to outreach | outreached, outreached |
+to continue to exist
+to stand | stood, stood |
+to continue to receive
+to redistribute | redistributed, redistributed |
+to continue to pay
+to amplify sth. | amplified, amplified |
+to keep on doing sth.
+to keep doing sth.
+to widen sth. | widened, widened |
+to follow sth. up
+to follow up a matter
+to follow up a matter
+","to drive slowly
+to lag | lagged, lagged |
+to wear away
+to simmer | simmered, simmered |
+to fade | faded, faded |
+to be slow in supply
+to be slow in growth
+to be slow on the draw
+to instillespAE / instilespBE sth. | instilled, instilled |
+to lag | lagged, lagged |
+to phase sth. ⇔ down
+to be on the mend
+to inch towardAE sth. to inch towardsBE sth.
+to instillespAE / instilespBE sth. in (or: into) so.
+","to run in the background
+to befog | befogged, befogged |
+to obfuscate sth. | obfuscated, obfuscated | - to physically darken rare
+","to become a reality
+"
 verbs,german,"alt werden
 alt werden
 sichacc. jmdm./etw. anschließen | schloss an, angeschlossen |
@@ -1675,7 +1777,107 @@ etw.acc. sorgfältig untersuchen
 sorgfältig ausarbeiten
 sehr sorgfältig sein
 ","Flöz zuerst abbauen
-",
+",,"heuen | heute, geheut | regional
+heuen | heute, geheut | regional
+Schluss für heute machen
+","hell werden
+hell ablaufen - SAP
+Krach schlagen
+in der Hölle schmoren
+wie die Pest stinken
+jmdm. die Hölle heiß machen (or: heißmachen) [coll.]
+heller als etw.nom. leuchten
+etw.nom. geht zum Teufel
+jmdm. das Leben zur Hölle machen [coll.]
+wild entschlossen sein, etw.acc. zu tun
+auf etw.acc. versessen sein
+etw.acc. um jeden Preis wollen
+etw.nom. versetzt jmdn. in helles Entzücken
+in helle Aufregung geraten
+","fröhlich herumtollen
+fröhlich herumtollen
+","etw.acc. vor sichacc. hin murmeln
+etw.acc. vor sichacc. hin murmeln
+etw.acc. vor sichacc. hin summen
+vor sichacc. hin träumen
+vor sichacc. hin träumen
+vor sichacc. hin brüten
+vor sichacc. hin sprudeln
+etw.nom. haut hin infinitive: hinhauen [coll.]
+hin- und herfahren
+hin- und hergehen | ging hin, hingegangen |
+hin- und herschalten | schaltete hin, hingeschaltet |
+etw.acc. hin- und herbewegen | bewegte hin, hinbewegt |
+etw.acc. hin- und herbewegen | bewegte hin, hinbewegt |
+sichacc. hin- und herbewegen | bewegte hin, hinbewegt |
+","hinter jmdm./etw. her sein
+hinter jmdm. her sein
+etw.acc. hinter sichdat. her ziehen
+etw.nom. rührt von etw.dat. her infinitive: herrühren
+hin und her schwanken
+hin und her überlegen
+hin und her überlegen
+hin und her überlegen
+hin und her überlegen
+geschäftig hin und her eilen
+hin und her huschen
+hin und her laufen
+sichacc. hin und her wälzen - im Bett
+jmdn./etw. hin und her bewegen
+","glücklich vollenden
+glücklich ankommen
+sichacc. glücklich schätzen
+glücklich sein
+jmdm. eine glückliche Reise wünschen
+jmdm. eine glückliche Reise wünschen
+ganz und gar nicht glücklich sein [coll.] [fig.]
+","plötzlich fallen
+plötzlich fallen
+plötzlich sinken
+plötzlich abweichen
+plötzlich anhalten
+plötzlich auftauchen
+plötzlich auftauchen
+plötzlich auftauchen
+plötzlich zuschlagen
+plötzlich ansteigen
+plötzlich ansteigen
+plötzlich auftreten
+etw.acc. plötzlich hochziehen
+sichacc. plötzlich stürzen
+","weiter ausschütten
+weiter reichen
+weiterbestehen or: weiter bestehen | bestand weiter, weiterbestanden |
+weiterbestehen or: weiter bestehen | bestand weiter, weiterbestanden |
+weiter erhalten
+weiter verteilen
+weiter zahlen
+etw.acc. weiter ausführen
+etw.acc. weiter tun
+etw.acc. weiter tun
+etw.acc. weiter machen
+etw.acc. weiter bearbeiten
+etw.acc. weiter bearbeiten
+etw.acc. weiter verfolgen
+","langsam fahren
+langsam vergehen
+langsam vergehen
+langsam kochen
+langsam verklingen
+langsam liefern
+langsam wachsen
+langsam ziehen - eine Waffe
+etw.acc. langsam eingießen
+sichacc. langsam bewegen
+etw.acc. langsam beenden
+sichacc. langsam erholen
+sichacc. langsam auf etw.acc. zubewegen
+jmdm. etw.acc. langsam einflößen
+","dunkel ablaufen - SAP
+in Dunkel hüllen
+etw.acc. dunkler machen
+","wirklich werden
+"
 nouns,english,"alto [MUS.]
 contralto [MUS.]
 the elderly
@@ -2538,7 +2740,135 @@ principle of careful decision-making
 prompt and careful execution
 ","preoption
 first-party release [TELECOM.]
-",
+",,"today
+today scheduling
+securities bought today pl. [FINAN.]
+the new woman
+","hell
+hellfire or: hell fire, hell-fire
+hellfire or: hell fire, hell-fire
+Hell system [TELECOM.]
+photocell unblocked
+living hell
+Blue Pearl - international commercial name [MIN.]
+light/dark boundary [TECH.]
+red-on-cream ware [ART.]
+blaze
+refulgence
+refulgency
+lager
+pale ale
+",,"melee or: mêlée
+stop-go (Brit.)
+seesaw or: see-saw [fig.]
+return trip - two-way journey
+round trip (Amer.)
+return flight
+round-trip ticket
+reciprocating motion
+return journey
+round trip (Amer.)
+bending fatigue test [TECH.]
+reverse bend test [TECH.]
+go-and-return line [TECH.]
+up-and-down line [TECH.]
+","Her Serene Highness [abbr.: HSH]
+Her Majesty [abbr.: HM] [POL.]
+melee or: mêlée
+stop-go (Brit.)
+seesaw or: see-saw [fig.]
+woman in her forties
+woman in her mid-forties
+seesaw (or: see-saw) changes
+seesaw or: see-saw [fig.]
+pressure thrust [TECH.]
+sow in her third year [ZOOL.]
+","serendipity
+lucky break
+happenstance
+halcyon days pl.
+halcyon days pl.
+golden hours pl.
+fortunate circumstances
+lucky prime number
+laughter and happiness
+hot hand
+bon voyage French
+fortunate position
+fluke [coll.]
+fortunate coincidence
+fortunate event
+","cot death (Brit.)
+crib death (Amer.)
+slump
+sunburst
+saltation
+coup de theatre
+surge
+abrupt rise
+bump
+shock
+pang of guilt
+coup de theatre
+sudden resolve
+bulge in prices
+","ample scope
+off width [SPORT.]
+wide skirt
+extended family
+broad interpretation
+swaths or: swathes pl. - of a country
+sequel
+broad transcription
+voyage
+during the further procedure
+wide profiles [TECH.]
+compound interval [MUS.]
+cove
+hole - New England - a fairly broad, looped embayment in a lake shoreline [GEOL.]
+","inching mechanism [TECH.]
+slow position [TECH.]
+drift
+slowpoke (Amer.)
+slow growth
+wage sluggishness
+slow fermentation
+slow composting
+elixation
+low data rate
+moderate progress
+stopping train
+slowcoach (Brit.) [coll.]
+slow neutron [PHYS.]
+","enigma
+dark
+the dark
+photocell blocked
+Emerald Pearl - international commercial name [MIN.]
+black mullein [BOT.]
+dark mullein [BOT.]
+light/dark boundary [TECH.]
+dark spot
+racketeering
+apprehension
+ale
+brown ale
+dark glasses plural noun
+","real value
+actual traffic
+real income
+actual facts pl.
+actual position
+real cause
+real idiot
+real facts
+actual loss
+real life
+market value [COMM.]
+effective grain size [GEOL.]
+actual displacement [TECH.]
+actual output [ELEC.]
+"
 nouns,german,"der Alt pl.
 der Alt pl.
 die Alten pl.
@@ -3401,7 +3731,135 @@ Prinzip der sorgfältigen Entscheidungsfindung
 prompte und sorgfältige Ausführung
 ","Recht zuerst zu wählen
 Auslösung durch den Teilnehmer, der zuerst das Gespräch beendet
-",
+",,"das Heute no plural
+die Heute-Terminierung
+heute gekaufte Wertpapiere pl.
+die Frau von heute
+","die Hölle pl.: die Höllen
+das Höllenfeuer pl.: die Höllenfeuer
+die Höllenqualen pl.
+das Hallschreibersystem
+Fotozelle hell
+die Hölle auf Erden
+Labrador hell
+die Hell-Dunkel-Grenze
+die Rot-auf-Hell-Keramik [Archeology]
+helle Flamme
+heller Schein
+heller Schein
+helles Bier
+helles Bier
+",,"das Hin und Her
+das Hin und Her
+das Hin und Her
+die Hin- und Rückreise
+die Hin- und Rückreise
+der Hin- und Rückflug
+das Hin- und Rückflugticket
+die Hin- und Herbewegung
+die Hin- und Rückfahrt
+die Hin- und Rückfahrt
+der Hin- und Herbiegeversuch
+der Hin- und Herbiegeversuch [Hoisting Technology]
+die Hin- und Rückleitung
+die Hin- und Rückleitung
+","Ihre Durchlaucht
+Ihre Majestät [abbr.: I. M.]
+das Hin und Her
+das Hin und Her
+das Hin und Her
+die Vierzigerin pl.: die Vierzigerinnen
+die Mittvierzigerin pl.: die Mittvierzigerinnen
+ständiges Hin und Her
+ständiges Hin und Her
+Schubkraft vom Druck her
+zweijährige Bache
+","glücklicher Zufall
+glücklicher Zufall
+glücklicher Umstand
+glückliche Tage pl.
+glückliche Zeit
+glückliche Stunden pl.
+glückliche Umstände
+glückliche Primzahl
+glückliches Lachen
+glückliche Hand - im Spiel
+glückliche Reise
+glückliche Lage
+glücklicher Zufall
+glücklicher Zufall
+glückliches Ereignis
+","plötzlicher Kindstod
+plötzlicher Kindstod
+plötzlicher Rückgang
+plötzlicher Sonnenschein
+plötzlicher Umschwung
+plötzlicher Umschwung
+plötzlicher Anstieg
+plötzlicher Anstieg
+plötzlicher Einbruch
+plötzliche Einwirkung
+plötzliches Schuldgefühl
+plötzliche Wendung
+plötzlicher Entschluss
+plötzlicher Preisanstieg
+","weiter Spielraum
+weiter Riss [Mountaineering]
+weiter Rock
+weiterer Familienkreis
+weite Auslegung
+weite Teile pl. - eines Landes
+weiterer Verlauf
+weite Transkription - d. h. ungenaue
+weite Reise
+im weiteren Verfahren
+weite Profile pl.
+weites Intervall
+weite Bucht
+weite Bucht
+","die Langsam-Näheinrichtung [Sewing Machines]
+die Langsam-Position
+langsames Abwandern
+langsamer Mensch
+langsames Wachstum
+langsame Lohnanpassung
+langsame Gärung
+langsame Kompostierung
+langsames Kochen
+langsame Übertragung
+langsamer Fortschritt
+langsamer Personenzug
+langsamer Mensch
+langsames Neutron
+","das Dunkel no plural
+das Dunkel no plural
+das Dunkel no plural
+Fotozelle dunkel
+Labrador dunkel
+die Dunkel-Königskerze Lat.: Verbascum nigrum
+die Dunkel-Königskerze Lat.: Verbascum nigrum
+die Hell-Dunkel-Grenze
+dunkler Fleck
+dunkle Machenschaften pl.
+dunkle Vorahnung
+dunkles Bier
+dunkles Bier
+dunkle Brille
+","wirklicher Wert
+wirklicher Verkehr
+wirkliches Einkommen
+wirkliche Gegebenheiten pl.
+wirkliche Lage
+wirklicher Anlass
+wirklicher Idiot
+wirklicher Sachverhalt
+wirklicher Verlust
+das wirkliche Leben pl.
+wirklicher Wert
+wirkliche Korngröße
+wirkliche Fördermenge
+wirkliche Leistung
+"
 noun_details,english,"article: Der
 word: Alt
 genus: MASC
@@ -3954,8 +4412,68 @@ genus:
 plural: wählen
 meaning: preoption
 first-party release [TELECOM.]
-",
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"article: Das
+word: Heute
+genus: NEUT
+plural: plural
+meaning: today
+today scheduling
+","article: die
+word: Hölle
+genus: FEMI
+plural: die Höllen
+meaning: hell
+hellfire or: hell fire, hell-fire
+",,"article: das
+word: Hin
+genus: NEUT
+plural: Her
+meaning: melee or: mêlée
+stop-go (Brit.)
+","article: Ihre
+word: Durchlaucht
+genus: 
+plural: Durchlaucht
+meaning: Her Serene Highness [abbr.: HSH]
+Her Majesty [abbr.: HM] [POL.]
+","article: glücklicher
+word: Zufall
+genus: 
+plural: Zufall
+meaning: serendipity
+lucky break
+","article: plötzlicher
+word: Kindstod
+genus: 
+plural: Kindstod
+meaning: cot death (Brit.)
+crib death (Amer.)
+","article: weiter
+word: Spielraum
+genus: 
+plural: Spielraum
+meaning: ample scope
+off width [SPORT.]
+","article: die
+word: Langsam-Näheinrichtung
+genus: FEMI
+plural: Machines]
+meaning: inching mechanism [TECH.]
+slow position [TECH.]
+","article: Das
+word: Dunkel
+genus: NEUT
+plural: plural
+meaning: enigma
+dark
+","article: wirklicher
+word: Wert
+genus: 
+plural: Wert
+meaning: real value
+actual traffic
+"
+noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -5286,6 +5804,161 @@ first of all
 foremost adv.
 ","charming adj.
 debonair rarely: debonaire, debonnaire adj.
+","today adv.
+this morning/afternoon/evening
+this day
+tonight adv.
+tonight - during the night adv.
+last night - night before last adv.
+this very day
+two weeks/eight months/five years ago today
+to date
+till this day
+to this day
+today of all days
+from today
+from this day forward
+","bright adj.
+light adj.
+clear adj.
+brightly adv.
+brilliant adj.
+leucocratic adj.
+limpid adj.
+light-coloredAE adj.light-colouredBE adj.
+lightish adj.
+lucid adj.
+blond adj.
+fair adj. - of skin: pale
+pale adj.
+unblocked adj. [TECH.]
+","cheerful adj.
+festive adj.
+gleefully adv.
+jocund adj.
+jolly adj.
+merrily adv.
+merry adj.
+blithesome adj.
+gleeful adj.
+joyous adj.
+mirthful adj.
+blithely adv.
+brightly adv.
+gladsome adj.
+","there adv.
+lost adj.
+bust adj.
+to and fro
+back and forth
+bidirectional adj.
+in and out
+every now and then
+at times
+once in a while
+every once a while
+on and off
+on-again-off-again adj.
+return adj.
+","ago adv.
+long ago
+to and fro
+back and forth
+bidirectional adj.
+in and out
+because of her
+because of her
+because of her
+in appearance
+in appearance
+hither and thither [poet.]
+from hearsay
+his-and-her or: his-and-hers adj.
+","happy adj.
+successful adj.
+lucky adj.
+auspicious - fortunate adj.
+halcyon - of times in the past adj.
+fortunate adj.
+felicitously adv.
+prosperous adj.
+contented adj.
+serendipitous adj.
+sunshiny adj.
+providential - fortunate adj.
+slaphappy adj.
+fortuitous adj.
+","suddenly adv.
+sudden adj.
+abrupt adj.
+abruptly adv.
+precipitate adj.
+short adv.
+slap-bang adj.
+hey presto [coll.]
+fulminating adj.
+fulminating adj.
+shorttaken adj.
+acute adj. [MED.]
+all at once
+all of a sudden
+surprisedly adv.
+","along adv.
+forward or: forwards adv.
+farther adv.
+further adv.
+forth adv.
+onward or: onwards adv.
+next adv.
+in addition
+wide adj.
+vast adj.
+full adj.
+loose adj.
+ample adj.
+broad adj.
+","slow adj.
+steady adj.
+slowly adv.
+laggard adj.
+tardily adv.
+tardy adj. - sluggish
+slow-going adj.
+unhasty adj.
+adagio adj. [MUS.]
+andante adj. [MUS.]
+slow-moving adj.
+slow acting
+slow-acting adj.
+slow-growing adj.
+","dark adj.
+gloomy adj.
+murky adj.
+obscure adj.
+dingy adj.
+swart adj.
+dim adj.
+grotty adj.
+shadily adv.
+swarthily adv.
+swarthy adj.
+tenebrous adj.
+grave adj.
+shaded adj.
+","really adv.
+actual adj.
+actually adv.
+real adj.
+substantial adj.
+truly adv.
+absolutely adv.
+virtual adj.
+effective adj.
+objective adj.
+indeed adv.
+genuine adj.
+factual adj.
+on the level
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -6617,6 +7290,161 @@ zuerst
 zuerst
 ","charmant
 charmant
+","heute
+heute Morgen/Nachmittag/Abend
+heute adv.
+heute Abend
+heute Nacht
+heute Nacht - Nacht von gestern auf heute
+heute noch
+heute vor zwei Wochen/acht Monaten/fünf Jahren
+bis heute
+bis heute
+bis heute
+ausgerechnet heute
+ab heute
+ab heute
+","hell
+hell
+hell
+hell
+hell
+hell
+hell
+hell
+hell
+hell
+hell
+hell - Haut
+hell - Farben
+hell - Lichtschranke
+","fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+fröhlich
+","hin
+hin [coll.]
+hin [coll.]
+hin und her
+hin und her
+hin und her
+hin und her
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und wieder
+hin und zurück
+","her
+lange her
+hin und her
+hin und her
+hin und her
+hin und her
+ihrethalben adv.
+ihretwegen adv.
+ihretwillen adv.
+vom Äußeren her
+vom Aussehen her
+hin und her
+vom Hörensagen her
+für Sie und Ihn
+","glücklich
+glücklich
+glücklich - Umstand, Fügung, etc.
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich
+glücklich - günstig
+","plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich
+plötzlich adj.
+plötzlich auftretend
+plötzlich ausbrechend
+plötzlich überrumpelt
+plötzlich auftretend - z. B. Schmerzen
+ganz plötzlich
+ganz plötzlich
+ganz plötzlich
+","weiter
+weiter
+weiter
+weiter
+weiter
+weiter
+weiter
+weiter adv.
+weit
+weit
+weit
+weit - Kleid
+weit
+weit
+","langsam
+langsam
+langsam
+langsam
+langsam
+langsam
+langsam
+langsam
+langsam
+langsam
+langsam gehend
+langsam wirkend
+langsam wirkend
+langsam wachsend
+","dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+dunkel
+","wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
+wirklich
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -7457,7 +8285,86 @@ last come, first served
 to get up on the wrong side of the bed [fig.]
 first come, first served
 first in, first out [abbr.: FIFO]
-",
+",,"a week today
+a week from today
+a week from today
+What is today's date?
+There's no time like the present.
+What is the date today?
+And they lived happily ever after.
+","Hell no! (Amer.) [coll.]
+Fucking hell!
+Bloody hell! (Brit.) [coll.]
+Go to hell! [coll.]
+to catch hell (from so.) [coll.] [fig.]
+to catch hell (from so.) [coll.] [fig.]
+What the hell! [coll.]
+What the hell ... [coll.]
+Bloody hell! [sl.] [vulg.]
+hell for leather
+hell for leather
+hell for leather
+hell for leather
+a hell of a guy
+","Merry Christmas!
+Happy Christmas! (Brit.)
+","There's no use crying over spilt milk.
+it's no use crying over spilt milk
+the evidence is
+there is evidence
+there is evidence to suggest
+to be bowled over by so./sth.
+to be mad about so.
+to be smitten by so.
+","Bring it on!
+Her Majesty in Right of Canada
+Butter wouldn't melt in her mouth.
+He indulged her every whim.
+that was way back
+it's that time of the month for her
+it's that time of the month for her
+from so.'s point of view
+Let her rip! [coll.]
+Give her 10! [SPORT.]
+Let her rip! [AUTOM.]
+Touch her twice ... [SPORT.]
+Give her 10! [SPORT.]
+if so. has his/her way
+","all work and no play makes Jack a dull boy
+And they lived happily ever after.
+Lucky you!
+Lucky you!
+to have the right touch
+Hours do not strike for a happy man.
+by a fluke
+","all hell broke loose
+a sudden indisposition
+","resume
+Keep it up!
+Keep up the good work.
+Keep at it!
+On with the show!
+Way to go! [coll.]
+far cry [fig.]
+Good on you! chiefly (Aust.; N.Z.)
+Keep on dreaming.
+Dream on! [coll.]
+a long way
+so far and no further
+to go the extra mile
+Far from it!
+","one step at a time
+dead slow
+slowly but surely
+The mills of God grind slowly.
+enough already
+Hold your horses!
+dead slow ahead [NAUT.]
+Slow down!
+Slow down!
+","a dark secret
+","No shit, Sherlock! [coll.]
+"
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -8297,7 +9204,86 @@ der Letzte wird zuerst bedient
 mit dem linken Fuß zuerst aufstehen [fig.]
 den ersten zuerst bedienen
 die ältesten Anträge zuerst
-",
+",,"heute in acht Tagen
+heute in acht Tagen
+heute in einer Woche
+Welches Datum haben wir heute?
+Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+Der Wievielte ist heute?
+Und wenn sie nicht gestorben sind, dann leben sie noch heute.
+","Keineswegs!
+Verdammte Scheiße!
+Verdammter Mist!
+Scher dich zum Teufel!
+(von jmdm.) einen Anschiss bekommen [coll.] [fig.]
+(von jmdm.) eins aufs Dach kriegen
+Ach, was soll's!
+Was zum Teufel ... [coll.]
+Ach du Scheiße! [sl.] [vulg.]
+was das Zeug hält
+wie der Teufel
+mit einem Affenzahn
+mit Karacho
+ein Teufelskerl
+","Fröhliche Weihnachten!
+Fröhliche Weihnachten!
+","Hin ist hin.
+hin ist hin
+alles deutet darauf hin
+vieles deutet darauf hin
+vieles weist darauf hin
+von jmdm./etw. hin und weg sein [fig.]
+von jmdm. hin und weg sein [fig.]
+von jmdm. hin und weg sein [fig.]
+","Her damit!
+Ihre nach kanadischem Recht amtierende Majestät
+Sie sieht aus, als könne sie kein Wässerchen trüben.
+Er gab jeder ihrer Launen nach.
+das ist schon lange her
+sie hat ihre Menstruation
+sie hat ihre Tage
+von jmds. Warte aus (or: her)
+Gib Gas!
+10 Schläge volle Kraft. - Ruderkommando
+Drück auf die Tube!
+Zwei Schläge voraus ... - Ruderkommando
+10 Dicke! [sl.] - Ruderkommando
+wenn es nach ihm (or: ihr) geht
+","Arbeit allein macht nicht glücklich
+Und sie lebten glücklich und zufrieden bis an ihr Lebensende.
+Du Glückliche!
+Du Glücklicher!
+ein glückliches Händchen haben
+Dem Glücklichen schlägt keine Stunde.
+durch einen glücklichen Zufall
+","plötzlich war die Hölle los
+eine plötzliche Unpässlichkeit
+","weiter
+Weiter so!
+Weiter so!
+Weiter so!
+Weiter im Programm!
+Weiter so!
+weiter Weg
+Weiter so!
+Träum weiter.
+Träum weiter!
+noch ein weiter Weg
+bis hierher und nicht weiter
+noch einen Schritt weiter gehen
+Weit gefehlt!
+","langsam!
+sehr langsam
+langsam, aber sicher
+Gottes Mühlen mahlen langsam.
+jetzt reichts mir langsam!
+Immer langsam mit den jungen Pferden!
+ganz langsam voraus
+Langsamer fahren!
+Fahren Sie langsamer!
+","ein dunkles Geheimnis
+","Ach wirklich? - ironisch [coll.]
+"
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -9222,6 +10208,82 @@ see that the goods are carefully packed
 for prompt and careful execution
 ","whichever occurs first
 ","He gave in gracefully.
+","posted today
+It's foul weather today.
+The power went off this afternoon.
+Today is the third/fourth Sunday in Ordinary Time. [REL.]
+What's the date today?
+It was a busy day at the office today.
+She has a cold today.
+I don't feel like it today.
+I've nothing on tonight. chiefly (Brit.)
+I've nothing planned for tonight.
+I don't feel like it today.
+I don't feel like it today.
+We can't solve these problems overnight.
+I've been really busy this morning.
+","What the hell came over you?
+Beats the hell out of me! [coll.]
+He's wide awake.
+",,"I did it at his suggestion.
+Does everyone know where he or she is going?
+culminating in economic crises
+There is evidence that ...
+She gave herself up to him.
+all the signs are that ...
+He placed the trophy in front of himself.
+agree not to create an outward impression that
+£50,000 was raised in response to the radio appeal.
+","Give it to me!
+Her hair streamed out behind her.
+Her eyes were filled with tears.
+Her new hat becomes her.
+Her measurements are 34-26-34.
+Her children are really badly behaved.
+her every whim
+her finely chiselled features
+her nerves were at breaking point
+Her kitchen is always spick (or: spic) and span.
+Her hair is the worst thing about her.
+Her hair is the worst thing about her.
+Her husband's a lawyer.
+Her elbows were resting on the table.
+","We believed him to be happy.
+owing to favorableAE circumstancesowing to favourableBE circumstances
+","He was suddenly overtaken by death.
+it suddenly dawned on me
+a sudden drop in prices
+","It's business as usual.
+Prices continued to rise.
+It's a long tramp.
+..., but that's an argument for another day
+He went on eating, leafing through the book at the same time.
+It's little wonder people are upset.
+a wide circle of
+widespread in Switzerland
+It really isn't very far.
+I am far from believing it.
+How far is it to the train station?
+It's far away.
+It is extensively harmonised
+You carry things too far.
+","it began to dawn on me that ...
+Demand is slow in picking up.
+","at times darkly foreboding
+","Each book he writes is a masterpiece.
+It really isn't very far.
+I'm blessed if I know.
+I'm sure I don't know.
+I'm really sorry.
+Her children are really badly behaved.
+I'll give you the low down.
+You really spoil that dog!
+She's a real little gold-digger.
+It's a real drag
+an article that is really well made
+Last summer was a real scorcher. [coll.]
+You don't really mean that. [coll.]
+He's a real coward.
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -10147,4 +11209,80 @@ achten Sie auf sorgfältige Verpackung
 zur prompten und sorgfältigen Erledigung
 ","je nachdem, was zuerst eintritt
 ","Er gab charmant nach. infinitive: nachgeben
+","heute aufgegeben
+Heute ist schlechtes Wetter.
+Heute Nachmittag fiel der Strom aus.
+Heute ist der dritte/vierte Sonntag im Jahreskreis. [Catholicism]
+Den Wievielten haben wir heute?
+Im Büro ging es heute richtig rund.
+Sie ist heute erkältet.
+Ich habe heute keine Lust.
+Ich habe heute Abend nichts vor.
+Ich habe heute Abend nichts vor.
+Mir ist heute nicht danach.
+Mir ist heute nicht danach zumute (or: zu Mute).
+Diese Probleme können wir nicht von heute auf morgen lösen.
+Ich hatte heute Vormittag viel zu tun.
+","Welcher Teufel hat dich geritten?
+Ich habe keine Ahnung!
+Er ist hellwach.
+",,"Ich tat es auf seine Anregung hin.
+Wissen alle, wo sie hin müssen?
+bis hin zu Wirtschaftskrisen
+Vieles weist darauf hin, dass ...
+Sie gab sich ihm hin.
+alles deutet darauf hin, dass ...
+Er stellte die Trophäe vor sich hin.
+sich verpflichten, nach außen hin nicht den Eindruck zu erwecken, dass
+Auf den Aufruf im Rundfunk hin gingen Spenden in der Höhe von 50.000 Pfund ein.
+","Her damit! [coll.]
+Ihre Haare wehten nach hinten.
+Ihre Augen standen voller Tränen.
+Ihr neuer Hut steht ihr gut.
+Sie hat die Maße 90/60/90.
+Ihre Kinder sind wirklich ungezogen.
+jede ihrer Launen
+ihr fein geschnittenes Gesicht
+sie war nervlich völlig am Ende
+Ihre Küche ist immer blitzsauber.
+Ihr Haar ist das Hässlichste an ihr.
+Ihr Haar ist das Schlimmste an ihr.
+Ihr Mann ist Rechtsanwalt.
+Ihre Ellenbogen waren auf den Tisch gestützt.
+","Wir wähnten ihn glücklich.
+durch glückliche Umstände
+","Plötzlich ereilte ihn der Tod.
+mir ging plötzlich ein Licht auf
+ein plötzliches Nachlassen der Preise
+","Alles geht wie gewohnt weiter.
+Die Preise stiegen weiter.
+Es ist ein weiter Weg.
+aber das soll jetzt hier nicht weiter vertieft werden
+Er aß weiter und blätterte dabei in dem Buch.
+Es ist nicht weiter verwunderlich, dass die Menschen verärgert sind.
+ein weiter Kreis von
+weitverbreitet (or: weit verbreitet) in der Schweiz
+Es ist wirklich nicht sehr weit.
+Ich bin weit davon entfernt, es zu glauben.
+Wie weit ist es bis zum Bahnhof?
+Es ist weit entfernt.
+Es ist weitgehend (or: weit gehend) vereinheitlicht
+Du treibst die Dinge zu weit.
+","langsam dämmerte es mir, dass ...
+Die Nachfrage belebt sich nur langsam.
+","zuweilen dunkel drohend
+","Wirklich jedes Buch, das er schreibt, ist ein Meisterwerk.
+Es ist wirklich nicht sehr weit.
+Ich weiß es wirklich nicht.
+Ich weiß es wirklich nicht.
+Es tut mir wirklich leid.
+Ihre Kinder sind wirklich ungezogen.
+Ich sage Ihnen, was wirklich dran ist.
+Du verwöhnst den Hund wirklich!
+Sie ist wirklich nur aufs Geld aus.
+Es ist wirklich das Letzte
+ein Artikel, der wirklich gut gemacht ist
+Im letzten Sommer war es wirklich heiß.
+Das meinst du doch nicht wirklich.
+Er ist wirklich ein Feigling.
 "
