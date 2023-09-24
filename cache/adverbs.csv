@@ -1,13 +1,13 @@
 aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich
-basic_forms,english,,None,,"müssen : Verb
-",,None,,None,None,None,None,"früh : Adjective
-",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,"heuen : Verb
+basic_forms,english,,,,"müssen : Verb
+",,,,,,,,"früh : Adjective
+",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
 ","leid : Adjective
-",None,None,None,None,None,"gut : Adjective
-",None,"lieb : Adjective
+",,,,,,"gut : Adjective
+",,"lieb : Adjective
 liebe : Adjective
 der Liebe : Noun
-",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,"spät : Adjective
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"spät : Adjective
 ",,,"wenig : Adjective
 ","stark : Adjective
 ",,,,,,,,,,,,"schlimm : Adjective
@@ -19,7 +19,7 @@ langen : Verb
 ",,,,,,,,,"heuen : Verb
 ",,,,,,,"weit : Adjective
 ",,,
-basic_forms,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -96,7 +96,7 @@ to have a go at each other [coll.]
 to call each other names
 to rake one another over the coals [coll.]
 to cross-fertilizeAE to cross-fertiliseBE / cross-fertilizeBE | cross-fertilized, cross-fertilized / cross-fertilised, cross-fertilised |
-",None,"to get a word in edgeways (or: edgewise)
+",,"to get a word in edgeways (or: edgewise)
 ","to go ahead and do sth.
 to live for the moment
 to live for the day
@@ -162,7 +162,7 @@ to offer valuable clues to sth.
 ","to get a word in edgeways (or: edgewise)
 ","to go bald
 to be bald
-",None,"to linger on
+",,"to linger on
 to remain behind
 to be at a loss
 to up the ante [coll.] [fig.]
@@ -176,7 +176,7 @@ to start afresh (Brit.)
 to start again (Brit.)
 to reconstruct one's life
 to start over (Amer.)
-",None,None,"to look like so./sth.
+",,,"to look like so./sth.
 to feel like so./sth.
 to go ahead as scheduled
 to fit snugly
@@ -196,7 +196,7 @@ to be in a tearing hurry
 to love doing sth.
 to be worried sick
 ","to be an also-ran
-",None,"to enjoy doing sth.
+",,"to enjoy doing sth.
 to be into doing sth.
 to be happy to do sth.
 to love doing sth.
@@ -255,8 +255,8 @@ to sham illness
 to skive off work (Brit.) [coll.]
 to feel poorly chiefly (Brit.) [coll.] - feel ill/sick
 to tend a patient
-",None,None,"to bid so. a good morning
-",None,"to ameliorate | ameliorated, ameliorated |
+",,,"to bid so. a good morning
+",,"to ameliorate | ameliorated, ameliorated |
 to amend | amended, amended |
 to get better
 to perform better
@@ -326,7 +326,7 @@ to be out
 to intersperse | interspersed, interspersed |
 to be out of pocket (Amer.) [coll.]
 to be back to square one
-",None,"to halt | halted, halted |
+",,"to halt | halted, halted |
 to halt | halted, halted |
 to halt | halted, halted |
 to halt | halted, halted |
@@ -367,7 +367,7 @@ to get well
 to recover | recovered, recovered |
 to be in the pink
 to be right as rain
-",None,"to finish first/second
+",,"to finish first/second
 to rank first/third/... | ranked, ranked |
 to stand in the forefront
 to cut one's teeth
@@ -428,7 +428,7 @@ to take a toll on so./sth.
 to charge toll [FINAN.]
 to act like a madman
 to have a ball [fig.]
-",None,"to plane | planed, planed |
+",,"to plane | planed, planed |
 to plane-polarizeAE | plane-polarized, plane-polarized / plane-polarised, plane-polarised | [PHYS.] to plane-polariseBE / plane-polarizeBE [PHYS.]
 to bring more in line with
 to downscale | downscaled, downscaled |
@@ -450,7 +450,7 @@ to act out of character
 to change one's mind
 to have second thoughts
 ","to be an also-ran
-",None,"to retry | retried, retried |
+",,"to retry | retried, retried |
 to reconfirm | reconfirmed, reconfirmed |
 to review | reviewed, reviewed |
 to review | reviewed, reviewed |
@@ -462,7 +462,7 @@ to refire sth. | refired, refired |
 to double-check | double-checked, double-checked |
 to go over sth.
 to dodge a bullet
-",None,"to enjoy doing sth.
+",,"to enjoy doing sth.
 to be into doing sth.
 to be happy to do sth.
 to love doing sth.
@@ -1025,7 +1025,7 @@ sichacc. gegenseitig beharken [fig.]
 sichacc. gegenseitig beharken [fig.]
 sichacc. gegenseitig beharken [fig.]
 sichacc. gegenseitig befruchten [fig.]
-",None,"auch mal zu Wort kommen
+",,"auch mal zu Wort kommen
 ","etw.acc. bereits jetzt tun
 im Hier und Jetzt leben
 im Hier und Jetzt leben
@@ -1091,7 +1091,7 @@ wichtige Aufschlüsse über etw.acc. geben
 ","auch mal zu Wort kommen
 ","eine Glatze bekommen
 eine Glatze haben
-",None,"noch dableiben
+",,"noch dableiben
 noch dableiben
 weder ein noch aus wissen
 noch einen drauflegen [coll.] [fig.]
@@ -1105,7 +1105,7 @@ noch einmal von vorn (or: vorne) anfangen
 noch einmal von vorn (or: vorne) anfangen
 noch einmal von vorn (or: vorne) anfangen
 noch einmal von vorn (or: vorne) anfangen
-",None,None,"wie jmd./etw. aussehen
+",,,"wie jmd./etw. aussehen
 sichacc. wie jmd./etw. fühlen
 wie geplant stattfinden
 wie angegossen passen - Kleider
@@ -1125,7 +1125,7 @@ schrecklich in Eile sein
 etw.acc. schrecklich gerne tun
 sichdat. schreckliche Sorgen machen
 ","unter ""ferner liefen"" kommen
-",None,"etw.acc. gerne tun
+",,"etw.acc. gerne tun
 etw.acc. gerne tun
 etw.acc. gerne tun
 etw.acc. gerne tun
@@ -1184,8 +1184,8 @@ sichacc. krank stellen
 krank feiern
 sichacc. krank fühlen
 einen Kranken pflegen
-",None,None,"jmdm. einen guten Morgen entbieten [form.] dated
-",None,"besser werden
+",,,"jmdm. einen guten Morgen entbieten [form.] dated
+",,"besser werden
 besser werden
 besser werden
 besser abschneiden
@@ -1255,7 +1255,7 @@ nicht da sein
 hier und da einfügen
 nicht da sein
 wieder da sein, wo man angefangen hat
-",None,"anhalten | hielt an, angehalten |
+",,"anhalten | hielt an, angehalten |
 halten | hielt, gehalten | - anhalten
 stocken | stockte, gestockt |
 blockieren | blockierte, blockiert |
@@ -1296,7 +1296,7 @@ gesund werden
 wieder gesund werden
 gesund und munter sein
 völlig gesund sein
-",None,"den ersten/zweiten Platz belegen
+",,"den ersten/zweiten Platz belegen
 an erster/dritter/... Stelle stehen
 zu den Ersten gehören
 erste Erfahrungen sammeln
@@ -1357,7 +1357,7 @@ jmdn./etw. stark strapazieren
 Straßenzoll verlangen
 sichacc. wie toll gebärden
 eine tolle Zeit haben
-",None,"eben machen
+",,"eben machen
 eben polarisieren [Optics]
 auf eine Ebene bringen
 auf eine niedrigere Ebene verlagern
@@ -1379,7 +1379,7 @@ sichacc. anders benehmen als sonst
 es sichdat. anders überlegen
 es sichdat. anders überlegen
 ","unter ""ferner liefen"" kommen
-",None,"nochmal versuchen
+",,"nochmal versuchen
 nochmal bestätigen
 nochmal durchdenken
 nochmal durchsehen
@@ -1391,7 +1391,7 @@ etw.acc. nochmal brennen
 sichacc. nochmal rückversichern
 sichdat. etw.acc. nochmal durch den Kopf gehen lassen
 gerade nochmal davonkommen
-",None,"etw.acc. gerne tun
+",,"etw.acc. gerne tun
 etw.acc. gerne tun
 etw.acc. gerne tun
 etw.acc. gerne tun
@@ -1945,7 +1945,7 @@ mutual forbearance
 mutual forbearance
 interconversion
 interconnectedness
-",None,"war, whether declared or not [INSUR.]
+",,"war, whether declared or not [INSUR.]
 ","now
 ","early follower
 early start
@@ -1963,7 +1963,7 @@ early exercise
 early majority
 ","the morning after the night before
 the morning-after pill [MED.]
-",None,"let's leave it at that
+",,"let's leave it at that
 ","slimes pl.
 hamlet
 sun-trap
@@ -2007,7 +2007,7 @@ bald spot
 bald spot
 bald tireAEbald tyreBE
 bald tree
-",None,"another and yet another
+",,"another and yet another
 unrealizedAE profitunrealisedBE / unrealizedBE profit
 services still to be performed
 sucking baby
@@ -2054,7 +2054,7 @@ diligentia quam in suis rebus Latin [LAW]
 also-ran
 also-ran
 also-ran
-",None,"stomping (or: stamping) ground
+",,"stomping (or: stamping) ground
 ","German [LING.]
 the Germans pl.
 fellow Afghans/Germans/Australians/...
@@ -2084,7 +2084,7 @@ simultaneous axis control [TECH.]
 simultaneous actuation [TECH.]
 contemporaneous dolomitizationAE [GEOL.]contemporaneous dolomitisationBE / dolomitizationBE [GEOL.]
 contemporaneous sedimentation [GEOL.]
-",None,"today
+",,"today
 today scheduling
 securities bought today pl. [FINAN.]
 the new woman
@@ -2107,14 +2107,14 @@ characters per line pl.
 characters per inch pl.
 lines per minute [abbr.: LPM]
 earnings per share [abbr.: EPS] [FINAN.]
-",None,"morning
+",,"morning
 morn [poet.]
 morgen - former measure of land used in Prussia, Norway, and Denmark equal to about 0.3 hectare obsolete
 morrow [poet.] archaic
 yesterday morning
 yestermorning
 red-eye flight
-",None,"good/bad form - behaviour
+",,"good/bad form - behaviour
 good/bad form - behaviour
 bargain
 good manners
@@ -2180,7 +2180,7 @@ viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
 viola (or: viol) da gamba - pl.: violas da gamba [MUS.][HIST.]
 viola (or: viol) da braccio [MUS.][HIST.]
 bass viol [MUS.][HIST.]
-",None,"stop
+",,"stop
 halt
 halt
 halt
@@ -2221,7 +2221,7 @@ rover ticket
 ring of Gaussian integers [MATH.]
 theory of aggregate production [ECON.]
 closed-die forming [TECH.]
-",None,"present perfect [LING.]
+",,"present perfect [LING.]
 perfect [LING.]
 perfect tense [LING.]
 past participle [LING.]
@@ -2249,7 +2249,7 @@ savvy [coll.]
 sound money [FINAN.]
 clear coast - a coast free from cliffs and rocks [GEOL.]
 sound currency [FINAN.]
-",None,"first/second/third/... instar [ZOOL.]
+",,"first/second/third/... instar [ZOOL.]
 groundbreaking (Amer.)
 groundbreakingAE ceremonyground-breakingBE ceremony
 first payment
@@ -2307,7 +2307,7 @@ fit tolerance [TECH.]
 fit tolerance [TECH.]
 fit problem
 fit bearing [TECH.]
-",None,None,"toll
+",,,"toll
 toll
 toll
 toll [FINAN.]
@@ -2321,7 +2321,7 @@ toll [FINAN.]
 toll [TELECOM.]
 toll
 toll
-",None,"planar graph
+",,"planar graph
 plane angle
 deflection / rarely: deflexionBE
 plane figure
@@ -2340,8 +2340,8 @@ flat head [TECH.]
 also-ran
 also-ran
 also-ran
-",None,"revised text
-",None,"stomping (or: stamping) ground
+",,"revised text
+",,"stomping (or: stamping) ground
 ",,,"the risk involved
 ","cannabis [BOT.]
 cannabis [BOT.]
@@ -2936,7 +2936,7 @@ gegenseitige Duldung
 gegenseitige Nachsicht
 gegenseitige Umwandlung
 gegenseitige Verbindungen
-",None,"Krieg, auch nicht erklärter
+",,"Krieg, auch nicht erklärter
 ","das Jetzt
 ","früher Folger
 früher Anfang
@@ -2954,7 +2954,7 @@ frühe Ausübung
 frühe Mehrheit
 ","der Katzenjammer danach no plural
 die Pille danach pl.: die Pillen
-",None,"wir wollen es dabei belassen
+",,"wir wollen es dabei belassen
 ","sehr feinkörnige Feststoffe pl.
 sehr kleines Dorf
 sehr sonniges Plätzchen
@@ -2998,7 +2998,7 @@ kahle Stelle
 stellenweise Abnutzung
 abgefahrener Reifen
 kahler Baum
-",None,"noch einer und noch einer
+",,"noch einer und noch einer
 noch nicht erzielter Gewinn
 noch zu erbringende Leistungen
 noch nicht entwöhnter Säugling
@@ -3045,7 +3045,7 @@ Sorgfalt wie in eigenen Angelegenheiten
 der Versager | die Versagerin pl.: die Versager, die Versagerinnen
 der Schlechtplatzierte | die Schlechtplatzierte pl.: die Schlechtplatzierten
 die Niete pl.: die Nieten
-",None,"gerne aufgesuchter Ort
+",,"gerne aufgesuchter Ort
 ","das Deutsch no plural - Sprache
 die Deutschen pl.
 afghanische/deutsche/australische/... Landsleute
@@ -3075,7 +3075,7 @@ gleichzeitige Achsensteuerung
 gleichzeitige Betätigung [Machines]
 gleichzeitige Dolomitisierung
 gleichzeitige Sedimentation
-",None,"das Heute no plural
+",,"das Heute no plural
 die Heute-Terminierung
 heute gekaufte Wertpapiere pl.
 die Frau von heute
@@ -3098,14 +3098,14 @@ Zeichen je Zeile pl.
 Zeichen je Zoll pl.
 Zeilen je Minute
 Ergebnis je (or: pro) Aktie
-",None,"der Morgen pl.: die Morgen
+",,"der Morgen pl.: die Morgen
 der Morgen pl.: die Morgen
 der Morgen pl.: die Morgen - älteres Feldmaß, territorial verschieden zwischen 2500 und 3600 m2
 das Morgen no plural
 gestern Morgen
 gestern Morgen
 Frühflug am Morgen
-",None,"gute/schlechte Manieren
+",,"gute/schlechte Manieren
 gute/schlechte Umgangsformen pl.
 gutes Geschäft
 gute Manieren pl.
@@ -3171,7 +3171,7 @@ die Kniegeige pl.: die Kniegeigen - Vorläuferin des Cellos; auch Orgelregister
 die Viola da Gamba - italienisch - Vorläuferin des Cellos; auch Orgelregister
 die Viola da Braccio - italienisch - Vorläuferin der Bratsche
 die Viola da Gamba - italienisch - frühere Form der Streichinstrumente
-",None,"der Halt pl.: die Halte
+",,"der Halt pl.: die Halte
 der Halt pl.: die Halte
 der Aufenthalt pl.: die Aufenthalte
 die Haltestelle pl.: die Haltestellen
@@ -3212,7 +3212,7 @@ Fahrkarte für den ganzen Bezirk
 Ring ganzer Gaußscher (or: Gauß'scher) Zahlen
 Theorie der Produktion als Ganzes - Keynes
 Gesenkformen mit ganz umschlossenem Werkstück
-",None,"das Perfekt pl.
+",,"das Perfekt pl.
 das Perfekt pl. [Grammar]
 das Perfekt pl. [Grammar]
 das Partizip Perfekt [Grammar]
@@ -3240,7 +3240,7 @@ gesunder Menschenverstand
 gesundes Geld
 gesunde Küste
 gesunde Währung
-",None,"erstes/zweites/drittes/... Larvenstadium
+",,"erstes/zweites/drittes/... Larvenstadium
 erster Spatenstich
 erster Spatenstich
 erste Zahlung
@@ -3298,7 +3298,7 @@ die Passtoleranz pl.
 die Passungstoleranz pl.
 das Passungsproblem pl.: die Passungsprobleme [Statistics]
 das Passlager pl.: die Passlager
-",None,None,"das Läuten no plural
+",,,"das Läuten no plural
 die Verlustziffer pl.: die Verlustziffern
 der Tribut pl.: die Tribute
 die Maut pl.: die Mauten
@@ -3312,7 +3312,7 @@ die Zollabgabe pl.: die Zollabgaben
 die Fernsprechgebühr pl.: die Fernsprechgebühren
 das Wegegeld pl.: die Wegegelder obsolete
 der Straßenzoll pl.: die Straßenzölle
-",None,"ebener Graph (or: Graf)
+",,"ebener Graph (or: Graf)
 ebener Winkel
 ebene Krümmung
 ebene Figur
@@ -3331,8 +3331,8 @@ ebener Boden
 der Versager | die Versagerin pl.: die Versager, die Versagerinnen
 der Schlechtplatzierte | die Schlechtplatzierte pl.: die Schlechtplatzierten
 die Niete pl.: die Nieten
-",None,"nochmal durchgesehener und verbesserter Text
-",None,"gerne aufgesuchter Ort
+",,"nochmal durchgesehener und verbesserter Text
+",,"gerne aufgesuchter Ort
 ",,,"die damit verbundenen Risiken pl.
 ","der Cannabis no plural
 der Hanf no plural
@@ -3902,7 +3902,7 @@ genus:
 plural: Abhängigkeit
 meaning: interdependence or: interdependency
 codependencyAE / co-dependencyBE or: codependenceAE / co-dependenceBE
-",None,"article: Krieg,
+",,"article: Krieg,
 word: auch
 genus: 
 plural: erklärter
@@ -3926,7 +3926,7 @@ genus: MASC
 plural: plural
 meaning: the morning after the night before
 the morning-after pill [MED.]
-",None,"article: wir
+",,"article: wir
 word: wollen
 genus: 
 plural: belassen
@@ -3956,7 +3956,7 @@ genus: FEMI
 plural: die Kahlflächen
 meaning: bald [GEOL.]
 bald head
-",None,"article: noch
+",,"article: noch
 word: einer
 genus: 
 plural: einer
@@ -3992,7 +3992,7 @@ genus: MASC
 plural: die Verlierer, die Verliererinnen
 meaning: also-ran
 also-ran
-",None,"article: gerne
+",,"article: gerne
 word: aufgesuchter
 genus: 
 plural: Ort
@@ -4016,7 +4016,7 @@ genus:
 plural: Sendung
 meaning: simulcast
 concurrent activity
-",None,"article: Das
+",,"article: Das
 word: Heute
 genus: NEUT
 plural: plural
@@ -4040,13 +4040,13 @@ genus:
 plural: km/h
 meaning: kilometersAE per hour symbol: km/h [TECH.]kilometresBE per hour symbol: km/h [TECH.]
 output per man shift [abbr.: OMS] [TECH.]
-",None,"article: Der
+",,"article: Der
 word: Morgen
 genus: MASC
 plural: Morgen
 meaning: morning
 morn [poet.]
-",None,"article: gute/schlechte
+",,"article: gute/schlechte
 word: Manieren
 genus: 
 plural: Manieren
@@ -4082,7 +4082,7 @@ genus: FEMI
 plural: [coll.]
 meaning: the top brass
 autos-da-fé pl.
-",None,"article: Der
+",,"article: Der
 word: Halt
 genus: MASC
 plural: Halte / Halts
@@ -4100,7 +4100,7 @@ genus:
 plural: Werktag
 meaning: clear working day
 double pointed dart [TEXTIL.]
-",None,"article: Das
+",,"article: Das
 word: Perfekt
 genus: NEUT
 plural: Perfekte
@@ -4112,7 +4112,7 @@ genus:
 plural: Menschenverstand
 meaning: common sense
 horse sense
-",None,"article: erstes/zweites/drittes/...
+",,"article: erstes/zweites/drittes/...
 word: Larvenstadium
 genus: 
 plural: Larvenstadium
@@ -4142,13 +4142,13 @@ genus: MASC
 plural: die Sitze - Kleidungsstück
 meaning: fit
 fit
-",None,None,"article: das
+",,,"article: das
 word: Läuten
 genus: NEUT
 plural: plural
 meaning: toll
 toll
-",None,"article: ebener
+",,"article: ebener
 word: Graph
 genus: 
 plural: Graf)
@@ -4166,13 +4166,13 @@ genus: MASC
 plural: die Verlierer, die Verliererinnen
 meaning: also-ran
 also-ran
-",None,"article: nochmal
+",,"article: nochmal
 word: durchgesehener
 genus: 
 plural: Text
 meaning: revised text
 
-",None,"article: gerne
+",,"article: gerne
 word: aufgesuchter
 genus: 
 plural: Ort
@@ -4473,7 +4473,7 @@ plural: Wert
 meaning: real value
 actual traffic
 "
-noun_details,german,,None,,None,,None,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -7548,7 +7548,7 @@ And they lived happily ever after.
 A hungry man has no conscience.
 I rest my case. [hum.]
 ","to have a heart-to-heart talk
-",None,"Me too.
+",,"Me too.
 Neither do I.
 Nor am I.
 quod vide [abbr.: q.v.] - which see
@@ -7634,7 +7634,7 @@ Many hands make light work.
 to be as bald as a billiard ball
 to be as bald as a coot
 Haste ye back! (Scot.)
-",None,"Have a nice day!
+",,"Have a nice day!
 any more
 Anything else?
 to be determined [abbr.: TBD]
@@ -7690,7 +7690,7 @@ How else?
 like one possessed
 business as usual
 How are you doing?
-",None,"well
+",,"well
 Right, ...
 Very well then! - indignantly
 OK then.
@@ -7700,7 +7700,7 @@ now then
 see also
 Very well then. - indignantly
 Cogito, ergo sum
-",None,"I'd love to. - in response to a question
+",,"I'd love to. - in response to a question
 May I have the bill, please? (Brit.)
 I don't mind if I do!
 I'm up for it!
@@ -7719,7 +7719,7 @@ to put it plainly
 ","from here to hell's half acre and back
 to have a finger in every pie [coll.] [fig.]
 in most of ...
-",None,"up here
+",,"up here
 this is ... - on the phone
 There you are! - giving sth. [coll.]
 there's a draftAE / draughtBE in here
@@ -7748,7 +7748,7 @@ Sorry!
 I'm afraid ...
 when things go sour
 Bear and forbear.
-",None,"as the case may be
+",,"as the case may be
 Oh dear!
 any one event
 any one occurrence
@@ -7772,7 +7772,7 @@ See you tomorrow!
 first thing tomorrow morning
 Good morning everyone!
 There's no time like the present.
-",None,"..., nay, ... [coll.]
+",,"..., nay, ... [coll.]
 a cut above
 Better late than never!
 A bird in the hand is worth two in the bush.
@@ -7865,7 +7865,7 @@ Shut up! [coll.]
 Belt up! [coll.]
 Shut up! [coll.]
 Shut your mug! (Brit.) [coll.]
-",None,"quite so - expressing agreement
+",,"quite so - expressing agreement
 that's right
 exactly
 quite - expressing agreement
@@ -7906,7 +7906,7 @@ to be alive and kicking
 Stay healthy!
 health is better than wealth
 the gift of the gab
-",None,"Business before pleasure.
+",,"Business before pleasure.
 A hungry man has no conscience.
 Now less than ever!
 That remains to be seen.
@@ -7981,7 +7981,7 @@ Season's greetings and best wishes for the New Year!
 ","Wow!
 Choice! [coll.]
 A fine mess you've made of that!
-",None,"Exactly!
+",,"Exactly!
 plane and smooth
 it all comes down to the green [coll.] (Amer.)
 ","unless otherwise noted
@@ -8001,9 +8001,9 @@ now then
 see also
 Very well then. - indignantly
 Cogito, ergo sum
-",None,"Gosh darn it! [coll.]
+",,"Gosh darn it! [coll.]
 That was a close shave!
-",None,"I'd love to. - in response to a question
+",,"I'd love to. - in response to a question
 May I have the bill, please? (Brit.)
 I don't mind if I do!
 I'm up for it!
@@ -8467,7 +8467,7 @@ Und wenn sie nicht gestorben sind, dann leben sie noch heute.
 Erst kommt das Fressen, dann die Moral.
 Womit dann alles gesagt wäre.
 ","sichdat. gegenseitig das Herz ausschütten
-",None,"Ich auch.
+",,"Ich auch.
 Ich auch nicht.
 Ich auch nicht.
 siehe auch [abbr.: s. a.]
@@ -8553,7 +8553,7 @@ Viele Hände machen der Arbeit bald ein Ende.
 eine Platte haben [coll.]
 eine Platte haben [coll.]
 Komm bald wieder!
-",None,"Einen schönen Tag noch!
+",,"Einen schönen Tag noch!
 noch etwas
 Noch etwas?
 noch festzulegen
@@ -8609,7 +8609,7 @@ Wie sonst?
 wie besessen
 wie gehabt
 Wie geht's?
-",None,"also
+",,"also
 Also, ...
 Also bitte!
 Also gut!
@@ -8619,7 +8619,7 @@ nun also
 siehe auch [abbr.: s. a.]
 Also bitte sehr!
 Ich denke, also bin ich - Descartes
-",None,"Sehr gerne!
+",,"Sehr gerne!
 Ich würde gerne bezahlen.
 Von mir aus gerne!
 Von mir aus gerne!
@@ -8638,7 +8638,7 @@ auf gut Deutsch
 ","überall verstreut
 überall die Hand im Spiel haben [coll.] [fig.]
 fast überall in ...
-",None,"hier oben
+",,"hier oben
 hier spricht ... - am Telefon
 Hier, bitte!
 hier zieht es rein infinitive: reinziehen
@@ -8667,7 +8667,7 @@ Tut mir leid!
 Es tut mir leid, aber ...
 wenn einem alles leid wird
 Leide und meide.
-",None,"je nachdem
+",,"je nachdem
 Ach je!
 je Schadenereignis
 je Schadenereignis
@@ -8691,7 +8691,7 @@ Bis morgen!
 gleich morgen früh
 Guten Morgen allerseits!
 Was du heute kannst besorgen, das verschiebe nicht auf morgen.
-",None,"..., oder besser gesagt, ...
+",,"..., oder besser gesagt, ...
 eine Stufe besser
 Besser spät als nie!
 Besser der Spatz in der Hand als die Taube auf dem Dach.
@@ -8784,7 +8784,7 @@ Halt den Mund!
 Halt die Klappe!
 Halt die Klappe!
 Halt die Klappe!
-",None,"ganz recht
+",,"ganz recht
 ganz recht
 ganz recht
 ganz recht
@@ -8825,7 +8825,7 @@ gesund und munter sein
 Bleiben Sie gesund!
 lieber gesund als reich
 ein gesundes Mundwerk
-",None,"Erst die Arbeit, dann das Vergnügen.
+",,"Erst die Arbeit, dann das Vergnügen.
 Erst kommt das Fressen, dann die Moral.
 Nun erst recht nicht!
 Es muss sich erst noch zeigen.
@@ -8900,7 +8900,7 @@ Frohe Weihnachten und ein gutes neues Jahr
 ","Toll!
 Toll! [coll.]
 Das hast du ja toll hingekriegt!
-",None,"Eben!
+",,"Eben!
 glatt und eben
 es geht eben immer ums Geld
 ","sofern nicht anders angegeben
@@ -8920,9 +8920,9 @@ nun also
 siehe auch [abbr.: s. a.]
 Also bitte sehr!
 Ich denke, also bin ich - Descartes
-",None,"Verdammt nochmal!
+",,"Verdammt nochmal!
 Nochmal Glück gehabt!
-",None,"Sehr gerne!
+",,"Sehr gerne!
 Ich würde gerne bezahlen.
 Von mir aus gerne!
 Von mir aus gerne!
@@ -9544,7 +9544,7 @@ It is also advantageous that
 They may also specify variations.
 He's an also-ran.
 He is an also-ran.
-",None,"I'd like to go somewhere else for our holidays. (Brit.)
+",,"I'd like to go somewhere else for our holidays. (Brit.)
 We would like to hear your opinion.
 We would like to do business with you.
 presumably you would like to
@@ -9565,7 +9565,7 @@ decline of German dialects
 students enrolled at German universities
 Trust your mother/the Germans/the neighbours/...!
 according to German company law [COMM.][LAW]
-",None,"with simultaneous consideration
+",,"with simultaneous consideration
 synergistic effect associated with simultaneous presence of different pesticides
 ","This way in, please.
 near here
@@ -9636,7 +9636,7 @@ It is understood that the meeting is taking place tomorrow.
 Dawn has broken.
 It will do tomorrow.
 I'll arrive a week tomorrow.
-",None,"I'm already feeling heaps better.
+",,"I'm already feeling heaps better.
 You ought to have known better.
 Which dress looks better?
 Which looks better?
@@ -9756,7 +9756,7 @@ it was a blessing in disguise
 a perfect foil to ...
 ","You'll soon get well.
 the building was structurally sound
-",None,"but it was only after ...
+",,"but it was only after ...
 only on acceptance
 He has only been with our firm for a short time.
 We have plenty of time - it's only ten past.
@@ -9824,7 +9824,7 @@ otherwise in good condition
 I'm sort of glad ... [coll.]
 ","We had a tremendous time.
 He's a glamourAE / glamorAE boy.He's a glamourBE boy.
-",None,"He just arrived.
+",,"He just arrived.
 That's just how it is.
 That's just the way it is.
 according to her lights
@@ -9837,7 +9837,7 @@ It is also advantageous that
 They may also specify variations.
 He's an also-ran.
 He is an also-ran.
-",None,"perhaps you can reconsider your prices
+",,"perhaps you can reconsider your prices
 ","perhaps we will be able to
 perhaps you can cut your prices
 He may come tomorrow.
@@ -10545,7 +10545,7 @@ Es ist auch von Vorteil, dass
 Sie können auch Abweichungen angeben.
 Er kommt unter ferner liefen.
 Er kommt unter ""ferner liefen"". [fig.]
-",None,"Ich würde gerne woanders Urlaub machen.
+",,"Ich würde gerne woanders Urlaub machen.
 Wir möchten gerne Ihre Meinung erfahren.
 Wir möchten mit Ihnen gerne Geschäfte machen.
 wir nehmen an, Sie hätten gerne
@@ -10566,7 +10566,7 @@ Rückgang der deutschen Mundarten
 Studenten, die an deutschen Universitäten eingeschrieben sind
 Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
 nach deutschem Gesellschaftsrecht
-",None,"unter gleichzeitiger Berücksichtigung
+",,"unter gleichzeitiger Berücksichtigung
 sich aus dem gleichzeitigen Vorhandensein verschiedener Pestizide ergebender Synergieeffekt
 ","Hier herein, bitte.
 hier in der Nähe
@@ -10637,7 +10637,7 @@ Offenbar findet das Meeting morgen statt.
 Der Morgen dämmert.
 Es hat Zeit bis morgen.
 Ich komme morgen in acht Tagen.
-",None,"Ich fühle mich schon viel besser.
+",,"Ich fühle mich schon viel besser.
 Du hättest es besser wissen müssen.
 Welches Kleid sieht besser aus?
 Welches sieht besser aus?
@@ -10757,7 +10757,7 @@ es war schließlich doch ein Segen
 ein perfekter Hintergrund für ...
 ","Sie werden bald gesund sein.
 das Gebäude hatte eine gesunde Bausubstanz
-",None,"aber erst nachdem ...
+",,"aber erst nachdem ...
 erst ab Abnahme
 Er ist erst seit kurzem in unserer Firma.
 Wir haben jede Menge Zeit - es ist erst zehn nach!
@@ -10825,7 +10825,7 @@ sonst in gutem Zustand
 Ich bin eigentlich froh ...
 ","Wir haben uns toll amüsiert.
 Er ist ein toller Kerl.
-",None,"Er ist eben angekommen.
+",,"Er ist eben angekommen.
 Es ist eben so.
 So ist es eben.
 so gut sie es eben versteht
@@ -10838,7 +10838,7 @@ Es ist auch von Vorteil, dass
 Sie können auch Abweichungen angeben.
 Er kommt unter ferner liefen.
 Er kommt unter ""ferner liefen"". [fig.]
-",None,"überlegen Sie sich die Preise nochmal
+",,"überlegen Sie sich die Preise nochmal
 ","vielleicht ist es uns möglich
 vielleicht können Sie Ihre Preise herabsetzen
 Er kommt vielleicht morgen.

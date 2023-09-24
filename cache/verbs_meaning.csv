@@ -30,12 +30,12 @@ bekommen : Verb
 ","sich sagen : Verb
 sagen : Verb
 ","untersuchen : Verb
-",None,"aufnehmen : Verb
+",,"aufnehmen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
 sich aufnehmen : Verb
 ","beitreten : Verb
-",None,"die Helfe : Noun
+",,"die Helfe : Noun
 ","ändern : Verb
 sich ändern : Verb
 ","angreifen : Verb
@@ -58,7 +58,7 @@ klappen : Verb
 hören : Verb
 sich gehören : Verb
 gehören : Verb
-",None,"sich handeln : Verb
+",,"sich handeln : Verb
 handeln : Verb
 ","erzählen : Verb
 ","sterben : Verb
@@ -73,22 +73,22 @@ sich haben : Verb
 haben : Verb
 ","aufwachen : Verb
 ","klingen : Verb
-",None,"entschuldigen : Verb
+",,"entschuldigen : Verb
 sich entschuldigen : Verb
 ","wissen : Verb
 ","gehen : Verb
-",None,None,"sich können : Verb
+",,,"sich können : Verb
 sich können : Verb
 können : Verb
-",None,"sich vertun : Verb
+",,"sich vertun : Verb
 vertun : Verb
 ","sich helfen : Verb
 helfen : Verb
 ","hassen : Verb
 sich hassen : Verb
-",None,None,None,"erinnern : Verb
+",,,,"erinnern : Verb
 sich erinnern : Verb
-",None,"sich bringen : Verb
+",,"sich bringen : Verb
 sich bringen : Verb
 bringen : Verb
 ","schlafen : Verb
@@ -97,12 +97,12 @@ stimmen : Verb
 ","der Wunsch : Noun
 sich wünschen : Verb
 wünschen : Verb
-",None,"sich stecken : Verb
+",,"sich stecken : Verb
 stecken : Verb
 ","sich geben : Verb
 sich geben : Verb
 geben : Verb
-",None,"brauchen : Verb
+",,"brauchen : Verb
 gebrauchen : Verb
 ","der Sitz : Noun
 ","brauchen : Verb
@@ -226,7 +226,7 @@ lachen : Verb
 ","vergehen : Verb
 sich vergehen : Verb
 ",
-basic_forms,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -4734,7 +4734,7 @@ chattels pl. [LAW]
 effects plural noun - personal belongings
 movable belongings
 personal effects [FINAN.]
-",,,None,,,"said in words
+",,,,,,"said in words
 ","ban
 prohibition
 interdiction
@@ -4787,14 +4787,14 @@ unit
 business company
 corporate client
 firm [COMM.]
-",None,None,None,"heald [TEXTIL.]
+",,,,"heald [TEXTIL.]
 heddle [TEXTIL.]
 ","redesign
 altered circumstances
 amended claim
 amended forecast [METEO.]
 reallocation of non-capitalizableAE cost (or: costs) [FINAN.]reallocation of non-capitalisableBE / non-capitalizableBE cost (or: costs) [FINAN.]
-",None,"hunched shoulders
+",,"hunched shoulders
 purl buttonhole [TEXTIL.]
 purl stitch buttonhole [TEXTIL.]
 ","legitimation
@@ -4805,7 +4805,7 @@ items of a given population
 bad heart
 corroded fossil [GEOL.]
 partly dissolved fossil [GEOL.]
-",None,"hat - with a brim
+",,"hat - with a brim
 hat - head covering (without a brim)
 hat
 hat rack
@@ -4819,9 +4819,9 @@ hat feather
 hat leather
 hat seller
 hat string
-",None,None,"to go stir-crazy [coll.]
+",,,"to go stir-crazy [coll.]
 to go stir-crazy [coll.]
-",None,None,None,None,"concession mine [LAW]
+",,,,,"concession mine [LAW]
 concession pit [LAW]
 concession mine [LAW]
 concession pit [LAW]
@@ -4851,7 +4851,7 @@ precipitancy
 rashness
 flurry
 precipitance
-",None,None,"drinking
+",,,"drinking
 excessive drinking
 ","authorizedAE absenceauthorisedBE / authorizedBE absence
 authorizedAE absenceauthorisedBE / authorizedBE absence
@@ -4881,7 +4881,7 @@ continual coming and going
 mineral depletion
 ","to embolden so.
 to be committed to doing sth.
-",None,"to relax one's grip
+",,"to relax one's grip
 give-and-take basis
 ","tun
 tun
@@ -4898,12 +4898,12 @@ to be committed to doing sth.
 reason for doing sth.
 wooden tun ring [HIST.]
 to find it in one's heart to do sth.
-",None,None,"no-altering principle
-",None,"plugging [ELEC.]
+",,,"no-altering principle
+",,"plugging [ELEC.]
 stick
 rear plug-up [ELEC.]
 edge-socket connector [ELEC.]
-",None,"television [abbr.: TV]
+",,"television [abbr.: TV]
 TV
 television broadcasting [abbr.: TV]
 television broadcasting service
@@ -4917,7 +4917,7 @@ nationally-transmitted television
 nationwide television broadcasting
 commercial television
 ad-funded TV
-",None,None,None,"desire (for)
+",,,,"desire (for)
 request
 wish
 will
@@ -4933,7 +4933,7 @@ straightening [TECH.]
 boning
 straight alignment [TECH.]
 form alignment
-",None,None,None,"reach-me-down (Brit.)
+",,,,"reach-me-down (Brit.)
 hand-me-down - garment handed down
 used packaging
 post-consumer packaging
@@ -4961,7 +4961,7 @@ town council seat [POL.]
 lug
 sliding seat
 misfit
-",None,"orache or: orach [BOT.]
+",,"orache or: orach [BOT.]
 saltbush [BOT.]
 Babington's orache [BOT.]
 Scotland orache [ZOOL.]
@@ -5372,7 +5372,7 @@ die Habe pl.: die Haben
 die Habe pl.: die Haben [form.]
 bewegliche Habe
 persönliche Habe
-",,,None,,,"in Worten gesagt
+",,,,,,"in Worten gesagt
 ","das Verbot pl.: die Verbote
 das Verbot pl.: die Verbote
 das Verbot pl.: die Verbote
@@ -5425,14 +5425,14 @@ das Unternehmen pl.: die Unternehmen
 das Unternehmen pl.: die Unternehmen
 das Unternehmen pl.: die Unternehmen - als Kunde
 das Unternehmen pl.: die Unternehmen
-",None,None,None,"die Helfe pl.: die Helfen
+",,,,"die Helfe pl.: die Helfen
 die Helfe pl.: die Helfen
 ","geändertes Design
 geänderte Umstände
 geänderter Anspruch
 geänderte Wettervorhersage
 geänderte Zuordnung nichtaktivierungsfähiger Aufwendungen
-",None,"hochgezogene Schultern pl.
+",,"hochgezogene Schultern pl.
 hochgezogenes Knopfloch
 hochgezogenes Knopfloch
 ","Annahme als gegeben - Organisationsökologie
@@ -5443,7 +5443,7 @@ Elemente einer gegebenen Grundgesamtheit [Statistics]
 angegriffenes Herz
 angegriffenes Fossil
 angegriffenes Fossil
-",None,"der Hut pl.: die Hüte
+",,"der Hut pl.: die Hüte
 die Mütze pl.: die Mützen - Kopfbedeckung (ohne Schirm)
 der Chapeau pl.: die Chapeaus archaic
 die Hutablage pl.: die Hutablagen
@@ -5457,9 +5457,9 @@ die Hutfeder pl.: die Hutfedern
 das Hutschweißleder
 der Hutverkäufer pl.: die Hutverkäufer
 die Hutschnur pl.: die Hutschnüre
-",None,None,"einen Gefängniskoller bekommen [coll.]
+",,,"einen Gefängniskoller bekommen [coll.]
 einen Lagerkoller bekommen [coll.]
-",None,None,None,None,"verliehene Grube [Bergrecht]
+",,,,,"verliehene Grube [Bergrecht]
 verliehene Grube [Bergrecht]
 verliehenes Bergwerk [Bergrecht]
 verliehenes Bergwerk [Bergrecht]
@@ -5489,7 +5489,7 @@ die Hast no plural
 die Hast no plural
 die Hast no plural
 die Hast no plural
-",None,None,"das Trinken no plural
+",,,"das Trinken no plural
 unmäßiges Trinken
 ","entschuldigtes Fernbleiben
 entschuldigte Fehlzeit
@@ -5519,7 +5519,7 @@ beständiges Kommen und Gehen
 Zur-Neige-Gehen von Mineralien
 ","jmdm. Mut machen
 sichdat. zur Aufgabe machen, etw.acc. zu tun
-",None,"aus der Hand geben
+",,"aus der Hand geben
 Grundsatz des Gebens und Nehmens
 ","die Tonne pl.: die Tonnen - zylindrischer Behälter meist aus Metall
 das Fass pl.: die Fässer
@@ -5536,12 +5536,12 @@ sichdat. zur Aufgabe machen, etw.acc. zu tun
 der Grund etw.acc. zu tun
 der Zargenkranz pl.: die Zargenkränze [Molinology]
 sichacc. dazu durchringen können, etw.acc. zu tun
-",None,None,"das Nicht-Ändern-Prinzip
-",None,"das Stecken no plural - Steckverbindung herstellen
+",,,"das Nicht-Ändern-Prinzip
+",,"das Stecken no plural - Steckverbindung herstellen
 der Stecken pl.: die Stecken regional
 rückseitiges Stecken
 Steckverbinder für direktes Stecken
-",None,"das Fernsehen no plural
+",,"das Fernsehen no plural
 das Fernsehen no plural
 das Fernsehen no plural
 das Fernsehen no plural
@@ -5555,7 +5555,7 @@ bundesweites Fernsehen
 bundesweites Fernsehen
 kommerzielles Fernsehen
 werbefinanziertes Fernsehen
-",None,None,None,"der Wunsch (nach) pl.: die Wünsche
+",,,,"der Wunsch (nach) pl.: die Wünsche
 der Wunsch pl.: die Wünsche
 der Wunsch pl.: die Wünsche
 der Wunsch pl.: die Wünsche
@@ -5571,7 +5571,7 @@ das Ausrichten no plural
 das Ausrichten no plural
 gerades Ausrichten
 Ausrichten des Formulars
-",None,None,None,"gebrauchtes Kleidungsstück
+",,,,"gebrauchtes Kleidungsstück
 gebrauchtes Kleidungsstück
 gebrauchte Verpackung
 gebrauchte Verpackung
@@ -5599,7 +5599,7 @@ Sitz im Stadtrat
 angegossener Sitz
 verschiebbarer Sitz
 schlechter Sitz - Kleidungsstück
-",None,"die Melde pl. Lat.: Atriplex (Gattung)
+",,"die Melde pl. Lat.: Atriplex (Gattung)
 die Melde pl. Lat.: Atriplex (Gattung)
 Kahle Melde Lat.: Atriplex glabriuscula
 Kahle Melde Lat.: Atriplex glabriuscula
@@ -6011,7 +6011,7 @@ genus: FEMI
 plural: die Haben
 meaning: belongings plural noun
 possession
-",,,None,,,"article: in
+",,,,,,"article: in
 word: Worten
 genus: 
 plural: gesagt
@@ -6065,7 +6065,7 @@ genus: NEUT
 plural: Unternehmen
 meaning: venture
 corporation
-",None,None,None,"article: die
+",,,,"article: die
 word: Helfe
 genus: FEMI
 plural: die Helfen
@@ -6077,7 +6077,7 @@ genus:
 plural: Design
 meaning: redesign
 altered circumstances
-",None,"article: hochgezogene
+",,"article: hochgezogene
 word: Schultern
 genus: 
 plural: 
@@ -6095,19 +6095,19 @@ genus:
 plural: Gesundheit
 meaning: poor health
 bad heart
-",None,"article: der
+",,"article: der
 word: Hut
 genus: MASC
 plural: die Hüte
 meaning: hat - with a brim
 hat - head covering (without a brim)
-",None,None,"article: einen
+",,,"article: einen
 word: Gefängniskoller
 genus: 
 plural: [coll.]
 meaning: to go stir-crazy [coll.]
 to go stir-crazy [coll.]
-",None,None,None,None,"article: verliehene
+",,,,,"article: verliehene
 word: Grube
 genus: 
 plural: [Bergrecht]
@@ -6131,7 +6131,7 @@ genus: FEMI
 plural: plural
 meaning: haste
 precipitation
-",None,None,"article: Das
+",,,"article: Das
 word: Trinken
 genus: NEUT
 plural: plural
@@ -6167,7 +6167,7 @@ genus:
 plural: machen
 meaning: to embolden so.
 to be committed to doing sth.
-",None,"article: aus
+",,"article: aus
 word: der
 genus: 
 plural: geben
@@ -6179,25 +6179,25 @@ genus: FEMI
 plural: die Tonnen - zylindrischer Behälter meist aus Metall
 meaning: tun
 tun
-",None,None,"article: das
+",,,"article: das
 word: Nicht-Ändern-Prinzip
 genus: NEUT
 plural: Nicht-Ändern-Prinzip
 meaning: no-altering principle
 
-",None,"article: Der
+",,"article: Der
 word: Stecken
 genus: NEUT
 plural: Stecken
 meaning: plugging [ELEC.]
 stick
-",None,"article: Das
+",,"article: Das
 word: Fernsehen
 genus: NEUT
 plural: plural
 meaning: television [abbr.: TV]
 TV
-",None,None,None,"article: Der
+",,,,"article: Der
 word: Wunsch
 genus: MASC
 plural: Wünsche
@@ -6209,7 +6209,7 @@ genus: NEUT
 plural: plural
 meaning: alignment rarely: alinement [TECH.]
 sighting [TECH.]
-",None,None,None,"article: gebrauchtes
+",,,,"article: gebrauchtes
 word: Kleidungsstück
 genus: 
 plural: Kleidungsstück
@@ -6221,7 +6221,7 @@ genus: MASC
 plural: Sitze
 meaning: seat
 fit
-",None,"article: Die
+",,"article: Die
 word: Melde
 genus: FEMI
 plural: Melden
@@ -6546,8 +6546,8 @@ plural: plural
 meaning: abandonment
 quitting
 "
-noun_details,german,,None,,,None,,,None,,,,,,,,,,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-adjectives_or_adverbs,english,,None,,,"namely adv. also [LAW]
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
 in fine
@@ -6625,14 +6625,14 @@ untried adj.
 corporate adj. [COMM.]
 intra-firm or: intrafirm adj.
 noncorporateAE / non-corporateBE adj.
-",None,None,None,None,"altered adj.
+",,,,,"altered adj.
 modified adj.
 changed adj.
 revised adj.
 last amended
 redesigned adj.
 as amended
-",None,"elevated adj.
+",,"elevated adj.
 lifted adj.
 pitched adj.
 ","given adj.
@@ -6654,12 +6654,12 @@ disordered adj.
 unsound adj. [MED.]
 unassayed adj.
 blitzed adj. [MIL.]
-",None,"hat in hand (Amer.; Canad.)
+",,"hat in hand (Amer.; Canad.)
 hat in hand (Amer.; Canad.)
-",None,"comme il faut French
+",,"comme il faut French
 ","hard to get
 manageable adj.
-",None,"narrated adj.
+",,"narrated adj.
 unrecounted adj.
 untold adj.
 twice-told adj.
@@ -6673,7 +6673,7 @@ conferred adj.
 one (or: a) sandwich short of a picnic
 ","without rushing
 pell-mell or: pellmell adv.
-",None,None,None,"excused adj.
+",,,,"excused adj.
 absent with valid excuse
 unpardoned adj.
 unexcused adj.
@@ -6694,26 +6694,26 @@ dressed all in white
 dressed in white
 white-sanded adj.
 white-steepled adj.
-",None,None,"irreversible adj.
+",,,"irreversible adj.
 quick to anger
 undiscriminating adj.
-",None,None,"in an effort to do sth.
-",None,None,None,"to each other
+",,,"in an effort to do sth.
+",,,,"to each other
 together adv.
 ","deadlocked adj.
-",None,"televised adj.
+",,"televised adj.
 telecasting adj.
 televising adj.
 telecasted adj.
 televising adj.
-",None,None,None,"nice-to-have adj.
+",,,,"nice-to-have adj.
 at the buyer's option
 at buyer's option
 at customer's option
 custom-made adj.
 by popular request
 at seller's option
-",None,None,None,None,"used adj.
+",,,,,"used adj.
 reach-me-down adj. (Brit.)
 hand-me-down adj.
 second-hand adj.
@@ -6729,7 +6729,7 @@ long-needed adj.
 ","abandoned adj.
 located in
 cane-bottomed adj.
-",None,None,"allowable adj.
+",,,"allowable adj.
 admissible adj.
 allowed adj.
 permissible adj.
@@ -6932,7 +6932,7 @@ disused adj.
 given up
 laid in
 "
-adjectives_or_adverbs,german,,None,,,"das heißt [abbr.: d.h.]
+adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
 kurz gesagt
@@ -7010,14 +7010,14 @@ nicht untersucht
 Unternehmens...
 innerhalb eines Unternehmens
 nicht zum Unternehmen gehörig
-",None,None,None,None,"geändert
+",,,,,"geändert
 geändert
 geändert
 geändert
 zuletzt geändert
 mit geändertem Design
 in der geänderten Fassung - Gesetze, Verordnungen, etc.
-",None,"hochgezogen
+",,"hochgezogen
 hochgezogen
 hochgezogen
 ","gegeben
@@ -7039,12 +7039,12 @@ angegriffen
 angegriffen - Gesundheit
 nicht angegriffen
 aus der Luft angegriffen
-",None,"demütig
+",,"demütig
 unterwürfig
-",None,"wie es sich gehört French
+",,"wie es sich gehört French
 ","schwer zu bekommen
 in den Griff zu bekommen
-",None,"erzählt
+",,"erzählt
 nicht erzählt
 nicht erzählt
 zweimal erzählt
@@ -7058,7 +7058,7 @@ verliehen
 nicht alle Tassen im Schrank haben
 ","ohne Hast
 in großer Hast
-",None,None,None,"entschuldigt
+",,,,"entschuldigt
 entschuldigt abwesend
 nicht entschuldigt
 nicht entschuldigt
@@ -7079,26 +7079,26 @@ ganz weiß gekleidet
 in Weiß gekleidet
 mit weißem Sand - nachgestellt
 mit weißem Kirchturm
-",None,None,"nicht rückgängig zu machen
+",,,"nicht rückgängig zu machen
 schnell wütend zu machen
 ohne einen Unterschied zu machen
-",None,None,"in dem Bestreben etw.acc. zu tun
-",None,None,None,"zueinander adv.
+",,,"in dem Bestreben etw.acc. zu tun
+",,,,"zueinander adv.
 zueinander
 ","stecken geblieben
-",None,"im Fernsehen gezeigt
+",,"im Fernsehen gezeigt
 im Fernsehen übertragend
 im Fernsehen übertragend
 im Fernsehen gesendet
 im Fernsehen zeigend
-",None,None,None,"Wunsch...
+",,,,"Wunsch...
 nach Wunsch des Kunden
 nach Wunsch des Kunden
 nach Wunsch des Kunden
 nach Wunsch des Kunden
 auf allgemeinen Wunsch
 nach Wunsch des Verkäufers
-",None,None,None,None,"gebraucht
+",,,,,"gebraucht
 gebraucht
 gebraucht
 gebraucht
@@ -7114,7 +7114,7 @@ seit langem (or: Langem) gebraucht
 ","sitzengelassen or: sitzen gelassen
 mit Sitz in
 mit Sitz aus Rohrgeflecht
-",None,None,"erlaubt
+",,,"erlaubt
 erlaubt
 erlaubt
 erlaubt
@@ -7496,7 +7496,7 @@ if you will pardon the expression
 if you will pardon my saying so
 ",,"a company's survival
 ","to be no match for so./sth.
-",None,"to be as pleased as Punch
+",,"to be as pleased as Punch
 to be as merry as a lark
 Pleased to meet you.
 I'm looking forward to seeing you again.
@@ -7514,7 +7514,7 @@ God helps those that help themselves.
 ","adopted ... as amended
 something has to give
 something's got to give
-",None,None,"from time to time
+",,,"from time to time
 whistle for attention
 to turn tail and run
 to have so.'s back
@@ -7528,7 +7528,7 @@ to paste so. | pasted, pasted | [fig.] [SPORT.]
 Please allow us your very best terms.
 to give sth. the thumbs up
 there is bound to be ...
-",None,None,"That hit home.
+",,,"That hit home.
 sth. is a ripsnorter (or: rip-snorter) [coll.]
 old hat [coll.] [fig.]
 That's all I needed.
@@ -7755,9 +7755,9 @@ God helps those that help themselves.
 God helps them that help themselves.
 God helps those that help themselves.
 So help me God.
-",None,"something has to give
+",,"something has to give
 something's got to give
-",None,"to be in a bind
+",,"to be in a bind
 to be in the fledgling stages
 to be in its infancy
 to be up to one's neck in sth.
@@ -7777,7 +7777,7 @@ as far as I recall [abbr.: AFAIR]
 as far as I remember [abbr.: AFAIR]
 to the best of one's recollection
 to the best of one's remembrance
-",None,"to get sth. over with
+",,"to get sth. over with
 to reduce so. to despair
 to reduce so. to poverty
 to beggar so. | beggared, beggared |
@@ -7821,7 +7821,7 @@ Can I help you?
 a pious hope
 You can whistle for it. [coll.] [fig.]
 Your wish is my command.
-",None,"to be in a bind
+",,"to be in a bind
 to be in the fledgling stages
 to be in its infancy
 to be up to one's neck in sth.
@@ -7867,7 +7867,7 @@ to be in a jam
 to be left in the lurch
 to be in the starting blocks [fig.]
 ","The laugh is always on the loser.
-",None,"anything goes
+",,"anything goes
 All's fair in love and war.
 All is fair in love and war.
 beyond the pale [fig.]
@@ -8506,7 +8506,7 @@ mit Verlaub zu sagen
 mit Verlaub zu sagen
 ",,"Erhalt eines Unternehmens
 ","es nicht mit jmdm./etw. aufnehmen können
-",None,"sichacc. wie ein Schneekönig freuen
+",,"sichacc. wie ein Schneekönig freuen
 sichacc. wie ein Schneekönig freuen
 Es freut mich, Sie kennenzulernen (or: kennen zu lernen).
 Ich freue mich darauf, Dich wiederzusehen.
@@ -8524,7 +8524,7 @@ Hilf dir selbst, so hilft dir Gott.
 ","in der geänderten Fassung vom ...
 es muss sich etwas ändern
 es muss sich etwas ändern
-",None,None,"zu gegebener Zeit
+",,,"zu gegebener Zeit
 Achtungssignal geben
 Fersengeld geben
 jmdm. Rückendeckung geben
@@ -8538,7 +8538,7 @@ jmdm. die Packung geben
 Bitte geben Sie uns Ihre besten Bedingungen.
 einer Sache grünes Licht geben
 es wird bestimmt ... geben
-",None,None,"Das hat gesessen.
+",,,"Das hat gesessen.
 etw.nom. hat es in sich infinitive: es in sich haben [coll.]
 alter Hut [coll.] [fig.]
 Das hat mir gerade noch gefehlt.
@@ -8765,9 +8765,9 @@ Hilf dir selbst, dann hilft dir Gott.
 Hilf dir selbst, so hilft dir Gott.
 Hilf dir selbst, so hilft dir Gott.
 So wahr mir Gott helfe.
-",None,"es muss sich etwas ändern
+",,"es muss sich etwas ändern
 es muss sich etwas ändern
-",None,"in der Klemme stecken
+",,"in der Klemme stecken
 in den Kinderschuhen stecken
 in den Kinderschuhen stecken
 bis zum Hals in etw.dat. stecken
@@ -8787,7 +8787,7 @@ soweit ich mich erinnere
 soweit ich mich erinnere
 soweit man sich erinnern kann
 soweit man sich erinnern kann
-",None,"etw. hinter sich bringen [fig.]
+",,"etw. hinter sich bringen [fig.]
 jmdn. zur Verzweiflung bringen
 jmdn. an den Bettelstab bringen
 jmdn. an den Bettelstab bringen
@@ -8831,7 +8831,7 @@ Was wünschen Sie?
 ein frommer Wunsch
 Wünschen kann man sich alles. - ironisch gemeint
 Dein Wunsch sei (or: ist) mir Befehl.
-",None,"in der Klemme stecken
+",,"in der Klemme stecken
 in den Kinderschuhen stecken
 in den Kinderschuhen stecken
 bis zum Hals in etw.dat. stecken
@@ -8877,7 +8877,7 @@ in der Patsche sitzen [fig.]
 in der Patsche sitzen [fig.]
 in den Startlöchern sitzen [fig.]
 ","Wer den Schaden hat, braucht für den Spott nicht zu sorgen.
-",None,"erlaubt ist, was gefällt
+",,"erlaubt ist, was gefällt
 In der Liebe und im Krieg ist alles erlaubt.
 In der Liebe und im Krieg ist alles erlaubt.
 jenseits der Grenzen des Erlaubten
@@ -9512,7 +9512,7 @@ We should hang out some time. [coll.]
 on the business premises of the company
 I'm the owner of this firm and as such I have a right to know what's going on here.
 ","Are you ready to order?
-",None,"It would give us great pleasure
+",,"It would give us great pleasure
 We would be pleased to receive ...
 I'm looking forward to seeing you.
 I am pleased to see you.
@@ -9546,7 +9546,7 @@ may be changed
 right of altering a thing
 if changes occur
 It changes from day to day
-",None,None,"but for him
+",,,"but for him
 have announced their insolvency
 has kindly given us your address
 I gave him the apple.
@@ -9561,7 +9561,7 @@ Please state your prices.
 with deep regret we have to announce
 should he fail to give instructions
 ","The dog which attacked her has been put down.
-",None,"has the advantage that
+",,"has the advantage that
 she has
 Does she have a fever?
 Does she have a high temperature?
@@ -9575,7 +9575,7 @@ history goes back 2000 years
 That can wait till tomorrow.
 There's no point in that.
 this has fiscal effects
-",None,"That's just not done.
+",,"That's just not done.
 That's not respectable.
 belongs to extent of delivery
 That's all part of my job.
@@ -9628,7 +9628,7 @@ When I told her my problems, she was very sympathetic.
 I was bored stiff
 He died of a heart attack.
 ","Turkey battles to repatriate antiquities.
-",None,"They won by three goals to one.
+",,"They won by three goals to one.
 They won by three goals to one.
 There's little doubt she would have won.
 Whose horse won the race?
@@ -9666,7 +9666,7 @@ To whom did you write?
 It's all very well for you to laugh!
 When do you finish work?
 What else haven't you told me?
-",None,"It sounds as if ...
+",,"It sounds as if ...
 It sounds very dodgy
 It rings true.
 It sounds like ...
@@ -9808,7 +9808,7 @@ may be changed
 right of altering a thing
 if changes occur
 It changes from day to day
-",None,"Put it in your pocket.
+",,"Put it in your pocket.
 I wouldn't like to be in his shoes.
 Where did we break off?
 There's more to it than you think.
@@ -10594,7 +10594,7 @@ Wir sollten mal was zusammen unternehmen. [coll.]
 in den Geschäftsräumen des Unternehmens
 Als Eigentümer dieses Unternehmens habe ich das Recht zu erfahren, was hier vor sich geht.
 ","Kann ich Ihre Bestellung aufnehmen?
-",None,"Es würde uns sehr freuen
+",,"Es würde uns sehr freuen
 Wir würden uns freuen ... zu erhalten.
 Ich freue mich auf dich.
 Es freut mich, dich zu sehen.
@@ -10628,7 +10628,7 @@ kann sich ändern
 Recht ein Ding zu ändern
 wenn sich etwas ändert
 Es ändert sich von Tag zu Tag
-",None,None,"hätte es ihn nicht gegeben
+",,,"hätte es ihn nicht gegeben
 haben ihre Zahlungsunfähigkeit bekannt gegeben
 hat uns freundlicherweise Ihre Anschrift gegeben
 Ich habe ihm den Apfel gegeben.
@@ -10643,7 +10643,7 @@ Bitte geben Sie uns Ihre Preise
 mit tiefem Bedauern geben wir bekannt
 sollte er es versäumen, Anweisungen zu geben
 ","Der Hund, der sie angegriffen hat, wurde eingeschläfert.
-",None,"hat den Vorteil, dass
+",,"hat den Vorteil, dass
 sie hat
 Hat sie Fieber?
 Hat sie Fieber?
@@ -10657,7 +10657,7 @@ hat eine 2000-jährige Geschichte
 Das hat bis morgen Zeit.
 Das hat keinen Sinn.
 das hat steuerliche Auswirkungen
-",None,"Das gehört sich nicht.
+",,"Das gehört sich nicht.
 Das gehört sich nicht.
 gehört zur Lieferung
 Das gehört zu meiner Aufgabe.
@@ -10710,7 +10710,7 @@ Als ich ihr von meinen Sorgen erzählte, war sie sehr verständnisvoll.
 ich bin fast gestorben vor Langeweile
 Er starb an einem Herzschlag.
 ","Die Türkei kämpft darum, Altertümer ins Land zurückzuführen.
-",None,"Sie haben 3:1 gewonnen.
+",,"Sie haben 3:1 gewonnen.
 Sie haben 3 zu 1 gewonnen.
 Es besteht kaum Zweifel, dass sie gewonnen hätte.
 Wessen Pferd hat das Rennen gewonnen?
@@ -10748,7 +10748,7 @@ An wen hast du geschrieben?
 Du hast gut lachen!
 Wann hast du Feierabend?
 Was hast du mir sonst noch verschwiegen?
-",None,"Es klingt, als ...
+",,"Es klingt, als ...
 Das klingt sehr fragwürdig
 Es klingt richtig.
 Es klingt wie ...
@@ -10890,7 +10890,7 @@ kann sich ändern
 Recht ein Ding zu ändern
 wenn sich etwas ändert
 Es ändert sich von Tag zu Tag
-",None,"Stecken Sie es in die Tasche.
+",,"Stecken Sie es in die Tasche.
 Ich möchte nicht in seiner Haut stecken.
 Wo sind wir stecken geblieben?
 Es steckt mehr dahinter, als du denkst.

@@ -99,7 +99,7 @@ der Ältere : Noun
 die Ältere : Noun
 ","interessant : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -626,7 +626,7 @@ to be oneself again
 to be military-aged
 to act one's age
 to retain an old custom
-",
+",None
 verbs,german,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
@@ -1153,7 +1153,7 @@ wieder der (or: die) Alte sein
 im wehrpflichtigen Alter sein
 sichacc. seinem Alter entsprechend benehmen
 alten Brauch beibehalten
-",
+",None
 nouns,english,"previous debt
 former quotations
 back issue
@@ -2983,7 +2983,7 @@ plural:
 meaning: interesting shopping
 place of interest
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -4754,7 +4754,7 @@ to put sth. on the scrap heap
 new wine in old bottles
 for old times' sake
 It's always the same old story.
-",
+",None
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -5161,7 +5161,7 @@ etw.acc. zum alten Eisen werfen [fig.]
 neuer Wein in alten Flaschen
 um der alten Zeiten willen
 Immer die alte Leier.
-",
+",None
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -5601,7 +5601,7 @@ the most beautiful lakes
 we were sliding all over the place
 ","He will never get anywhere.
 He's half-baked. (Amer.)
-",,"How old are you?
+",None,"How old are you?
 I'm double your age.
 What's his age?
 to begin with he's too old
@@ -6058,7 +6058,7 @@ die schönsten Seen
 das war eine schöne Rutschpartie
 ","Er wird nie auf einen grünen Zweig kommen.
 Er ist noch grün hinter den Ohren.
-",,"Wie alt bist du?
+",None,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
 Wie alt ist er?
 erstens ist er zu alt

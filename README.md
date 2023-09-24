@@ -17,8 +17,10 @@ while reading the text
 - pip3 install spacy
 - python3 -m spacy download de_core_news_sm
 - pip3 install pandarallel
-- pretty is used to print in python // install via pip3?
-- TUI is using Textual // install via pip3 ?
+- pip3 install rich
+- pip3 install textual (which version ???)
+- pip3 install bs4
+- pip3 install german_nouns
 
 ## categories of part of speech
 ADJ: adjective, e.g. big, old, green, incomprehensible, first
