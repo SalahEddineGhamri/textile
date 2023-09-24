@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend
 basic_forms,english,,,,"müssen : Verb
 ",,,,,,,,"früh : Adjective
 ",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
@@ -18,8 +18,12 @@ sich aufregen : Verb
 langen : Verb
 ",,,,,,,,,"heuen : Verb
 ",,,,,,,"weit : Adjective
-",,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,"beschließen : Verb
+",,"schwierig : Adjective
+",,,"frustrieren : Verb
+",,,,"enttäuschen : Verb
+"
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -948,6 +952,69 @@ to instillespAE / instilespBE sth. in (or: into) so.
 to befog | befogged, befogged |
 to obfuscate sth. | obfuscated, obfuscated | - to physically darken rare
 ","to become a reality
+",,,"to decide sth. | decided, decided |
+to conclude | concluded, concluded |
+to enact | enacted, enacted |
+to terminate | terminated, terminated |
+to resolve sth. | resolved, resolved |
+to determine sth. | determined, determined |
+to resolve upon sth.
+to round sth. ⇔ off (with sth.) - finish
+to decree that ...
+to enact sth. | enacted, enacted | [LAW]
+to resolve to do sth.
+to decide unanimously
+to finalizeAE sth. to finaliseBE / finalizeBE sth. | finalized, finalized / finalised, finalised |
+","so./sth. turns out to be sth. infinitive: turn out
+to decide sth. on a whim
+to act on instinct
+to act from necessity
+to be out of the woods [fig.] (Amer.)
+to be out of the wood [fig.] (Brit.)
+to be fed up with so./sth.
+to get money back
+","to confuse the issue
+to be difficult
+to find sth. to be difficult
+to broach a subject
+to untangle so. | untangled, untangled |
+to be behind the eight ball (Amer.) [coll.]
+to be snookered (Brit.) [coll.] [fig.]
+","to be at rest - peaceful
+to keep quiet
+to calm down
+to keep calm
+to rest easy
+to sedate so. | sedated, sedated |
+to steady sth. | steadied, steadied |
+to tranquilizeAE so./sth. to tranquilliseBE / tranquillizeBE so./sth. | tranquilized, tranquilized / tranquillised, tranquillised / tranquillized, tranquillized |
+to keep still
+to keep calm
+to slide slow [SPORT.]
+to immobilizeAE sth. | immobilized, immobilized / immobilised, immobilised | [MED.]to immobiliseBE / immobilizeBE sth. [MED.]
+to hold one's peace dated
+to quieten | quietened, quietened | chiefly (Brit.)
+to wind down
+to keep cool
+","to be away
+to hold the fort
+","to frustrate so. | frustrated, frustrated |
+to be frustrated
+to be cheesed off (Brit.) [coll.]
+",,"to lean | leaned/leant, leaned/leant |
+to incline | inclined, inclined |
+to cock | cocked, cocked |
+to slope | sloped, sloped |
+to cock one's head [coll.]
+to be delinquent
+",,"to disenthrallAE / disenthralBE | disenthralled, disenthralled / disenthraled, disenthraled |
+to frustrate sth. | frustrated, frustrated | - e. g. so.'s hopes
+to let so. ⇔ down
+to disappoint so. | disappointed, disappointed |
+to fail so. | failed, failed |
+to badly disappoint so.
+to be gutted (about sth.)
+to be gutted (about sth.)
 "
 verbs,german,"alt werden
 alt werden
@@ -1877,6 +1944,69 @@ jmdm. etw.acc. langsam einflößen
 in Dunkel hüllen
 etw.acc. dunkler machen
 ","wirklich werden
+",,,"etw.acc. beschließen | beschloss, beschlossen |
+beschließen | beschloss, beschlossen |
+beschließen | beschloss, beschlossen |
+beschließen | beschloss, beschlossen |
+etw.acc. beschließen | beschloss, beschlossen |
+etw.acc. beschließen | beschloss, beschlossen |
+etw.acc. beschließen | beschloss, beschlossen |
+etw.acc. (mit etw.dat.) beschließen | beschloss, beschlossen | - enden lassen
+beschließen, dass ...
+etw.acc. beschließen | beschloss, beschlossen |
+beschließen, etw.acc. zu tun
+einstimmig beschließen
+etw.acc. endgültig beschließen
+","jmd./etw. stellt sichacc. als etw.nom. heraus infinitive: sich herausstellen
+etw.acc. aus einer Laune heraus entscheiden
+aus dem Bauch heraus reagieren
+aus der Not heraus handeln
+aus dem Gröbsten heraus sein
+aus dem Gröbsten heraus sein
+jmd./etw. hängt jmdm. zum Hals heraus [coll.]
+Geld heraus bekommen
+","etw.acc. schwieriger machen
+schwierig sein
+etw.acc. schwierig finden
+ein etwas schwieriges Thema ansprechen
+jmdn. aus einer schwierigen Lage befreien
+sichacc. in einer schwierigen Lage befinden
+sichacc. in einer schwierigen Lage befinden
+","ruhig sein
+ruhig sein
+ruhig werden
+ruhig bleiben
+ruhig schlafen
+jmdn. ruhigstellen or: ruhig stellen | stellte ruhig, ruhiggestellt |
+etw.acc. ruhig halten
+jmdn./etw. ruhigstellen or: ruhig stellen | stellte ruhig, ruhiggestellt |
+sichacc. ruhig verhalten
+sichacc. ruhig verhalten
+ruhig vorrollen [Rowing]
+etw.acc. ruhigstellen or: ruhig stellen | stellte ruhig, ruhiggestellt | - Glied oder Gelenk
+ruhig sein
+ruhiger werden
+ruhiger werden
+ruhig Blut bewahren
+","fort sein
+die Stellung halten
+","jmdn. frustrieren | frustrierte, frustriert |
+frustriert sein
+frustriert sein
+",,"schief stehen
+schief stehen
+schief stellen
+schief sein
+den Kopf schief legen
+auf die schiefe Bahn geraten
+",,"enttäuschen | enttäuschte, enttäuscht |
+etw.acc. enttäuschen | enttäuschte, enttäuscht | - z. B. jmds. Hoffnungen
+jmdn. enttäuschen | enttäuschte, enttäuscht |
+jmdn. enttäuschen | enttäuschte, enttäuscht |
+jmdn. enttäuschen | enttäuschte, enttäuscht |
+jmdn. schwer enttäuschen
+(über etw.acc.) bitter enttäuscht sein
+(über etw.acc.) herb enttäuscht sein
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -2868,6 +2998,63 @@ market value [COMM.]
 effective grain size [GEOL.]
 actual displacement [TECH.]
 actual output [ELEC.]
+","the late lamented Sir Jones/Bishop Fisher/...
+the late ...
+the late ...
+",,,"gut reaction [fig.]
+","troublesome soil [GEOL.]
+problem earth
+problem soil
+sensitive earth [GEOL.]
+susceptible earth [GEOL.]
+difficult earth [GEOL.]
+difficult soil [GEOL.]
+sensitive soil [GEOL.]
+susceptible soil [GEOL.]
+tough call - decision
+tough choice
+puzzler
+hard time
+difficult task
+","peace of conscience
+quiet running
+calm air
+calmer waters pl. also [fig.]
+dead season
+low-key affair
+even temper
+quiet neighborhoodAEquiet neighbourhoodBE
+smooth running [TECH.]
+flat market [ECON.]
+quiet conscience
+calm sea
+calm sea
+quiet colorAEquiet colourBE
+","fort - usually Roman [HIST.][MIL.]
+fort [MIL.]
+fort [MIL.]
+refuge fort [MIL.][HIST.]
+refuge fort [MIL.][HIST.]
+hill fort [HIST.][MIL.]
+hill fort [MIL.][HIST.]
+counter fort drain [GEOL.]
+","frustrated total reflection [TECH.]
+frustrated internal total reflection [TECH.]
+",,"incline
+ramp
+skew slab
+tilted block
+wry look
+inclined plane [PHYS.]
+skew bridge [TECH.]
+oblique bending [ENGIN.]
+skew bending [ENGIN.]
+unsymmetrical bending [ENGIN.]
+skew arch [ENGIN.]
+oblique angle [TECH.]
+skew ray [TELECOM.]
+crooked hole [TECH.]
+",,"earnings disappointments [FINAN.]
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -3859,6 +4046,63 @@ wirklicher Wert
 wirkliche Korngröße
 wirkliche Fördermenge
 wirkliche Leistung
+","der kürzlich verschiedene Sir Jones/Bischof Fischer/...
+der kürzlich verstorbene ...
+die kürzlich verstorbene ...
+",,,"Reaktion aus dem Bauch heraus [fig.]
+","schwieriger Baugrund
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwieriger Boden
+schwieriger Boden
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwieriger Boden - ""Erde"" kann synonym für ""Boden"" verwendet werden
+schwierige Entscheidung
+schwierige Entscheidung
+schwierige Frage
+schwierige Zeit
+schwierige Aufgabe
+","ruhiges Gewissen
+ruhiger Lauf
+ruhige Luft
+ruhigere Gewässer pl.
+ruhige Jahreszeit
+ruhige Veranstaltung
+ruhiges Gemüt
+ruhige Nachbarschaft
+ruhiger Lauf
+ruhiger Markt
+ruhiges Gewissen
+ruhige See
+ruhiges Meer
+ruhige Farbe
+","das Kastell pl.: die Kastelle
+das Fort pl.: die Forts
+die Festung pl.: die Festungen
+die Fliehburg pl.: die Fliehburgen
+die Fluchtburg pl.: die Fluchtburgen
+der Ringwall pl.: die Ringwälle
+der Burgwall pl.: die Burgwälle
+die Fußdrainage pl.: die Fußdrainagen
+","frustrierte Totalreflexion
+frustrierte interne Totalreflexion
+",,"schiefe Ebene
+schiefe Ebene
+schiefe Platte
+schiefer Block
+schiefer Blick
+schiefe Ebene
+schiefe Brücke
+schiefe Biegung
+schiefe Biegung
+schiefe Biegung
+schiefer Bogen
+schiefer Winkel
+schiefer Strahl
+schiefes Loch
+",,"enttäuschendes Ergebnis
 "
 noun_details,english,"article: Der
 word: Alt
@@ -4472,8 +4716,56 @@ genus:
 plural: Wert
 meaning: real value
 actual traffic
+","article: der
+word: kürzlich
+genus: MASC
+plural: Fischer/...
+meaning: the late lamented Sir Jones/Bishop Fisher/...
+the late ...
+",,,"article: Reaktion
+word: aus
+genus: 
+plural: [fig.]
+meaning: gut reaction [fig.]
+
+","article: schwieriger
+word: Baugrund
+genus: 
+plural: Baugrund
+meaning: troublesome soil [GEOL.]
+problem earth
+","article: ruhiges
+word: Gewissen
+genus: 
+plural: Gewissen
+meaning: peace of conscience
+quiet running
+","article: Das
+word: Fort
+genus: NEUT
+plural: Forts
+meaning: fort - usually Roman [HIST.][MIL.]
+fort [MIL.]
+","article: frustrierte
+word: Totalreflexion
+genus: 
+plural: Totalreflexion
+meaning: frustrated total reflection [TECH.]
+frustrated internal total reflection [TECH.]
+",,"article: schiefe
+word: Ebene
+genus: 
+plural: Ebene
+meaning: incline
+ramp
+",,"article: enttäuschendes
+word: Ergebnis
+genus: 
+plural: Ergebnis
+meaning: earnings disappointments [FINAN.]
+
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -5959,6 +6251,88 @@ indeed adv.
 genuine adj.
 factual adj.
 on the level
+","recently adv.
+lately adv.
+recent adj.
+of late
+quite recently
+","usually adv.
+typically adv.
+normally adv.
+naturally adv.
+commonly agglomerating [GEOL.]
+commonly caking [GEOL.]
+",,"out adv.
+forth adv.
+out here
+bluntly adv.
+in and out
+off the top of one's head
+on impulse
+on its own terms
+on a gut level
+","difficult adj.
+hard adj.
+tough adj.
+complex adj.
+complicated adj.
+tight adj.
+awkward adj.
+intricate adj.
+trying adj.
+intractable adj.
+tricky adj.
+balkyAE adj.balkyBE / baulkyBE adj.
+challenging adj.
+intricately adv.
+","quiet adj.
+steady adj.
+calm adj.
+quietly adv.
+silent adj.
+still adj.
+easy adj.
+smooth adj.
+quiescent adj.
+serene adj.
+tranquil adj.
+tranquilly adv.
+even adj.
+restful adj. - peaceful
+","away adv.
+gone adj.
+and so forth
+on and on
+yada-yada-yada or: yadda-yadda-yadda adv.
+and all the rest of it
+","frustrated adj.
+dissatisfied adj.
+","instead adv.
+rather adv.
+instead of that
+in lieu thereof
+","lopsided adj.
+oblique adj. also [TECH.]
+skew adj. also [TECH.]
+askew adj. adv.
+inclined adj.
+out of kilter
+sloping adj.
+askance or: askant adv.
+awry adj. adv.
+crooked adj.
+cross adj.
+slanting adj.
+wry adj.
+cockeyed adj.
+","indeed adv.
+namely adv. - to be specific
+in fact
+viz. - short for Latin ""videlicet"" adv. [form.] Latin
+","disappointing adj.
+anticlimactic adj.
+underwhelming adj.
+unfruitful adj.
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -7445,6 +7819,88 @@ wirklich
 wirklich
 wirklich
 wirklich
+","kürzlich
+kürzlich
+kürzlich - attributiv gebraucht [coll.]
+kürzlich adv.
+erst kürzlich
+","normalerweise
+normalerweise
+normalerweise
+normalerweise
+normalerweise backend - Kohle
+normalerweise backend - Kohle
+",,"heraus
+heraus
+heraus adv.
+frei heraus
+hinein und heraus
+aus dem Stand heraus
+aus einer Laune heraus
+aus sich selbst heraus
+aus dem Bauch heraus
+","schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+schwierig
+","ruhig
+ruhig
+ruhig
+ruhig
+ruhig
+ruhig
+ruhig
+ruhig - See
+ruhig
+ruhig
+ruhig
+ruhig
+ruhig
+ruhig
+","fort
+fort adv.
+und so fort [abbr.: usf.]
+in einem fort
+und so weiter und so fort
+und so weiter und so fort
+","frustriert
+frustriert
+","stattdessen
+stattdessen
+stattdessen adv.
+stattdessen adv.
+","schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+schief
+","zwar
+und zwar
+und zwar
+und zwar
+","enttäuschend
+enttäuschend
+enttäuschend
+enttäuschend
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -8364,7 +8820,32 @@ Slow down!
 Slow down!
 ","a dark secret
 ","No shit, Sherlock! [coll.]
-"
+",,,,"Out with it! [coll.]
+Spit it out! [fig.] [coll.]
+Out with it! [coll.]
+to be in a nice position
+We reap what we sow.
+","it boggles the mind
+a difficult person to deal with
+an awkward position
+a difficult thing to deal with
+","Keep your hair on!
+Keep quiet!
+quiet and peaceful
+to have a cushy job [coll.] (Amer.)
+to have a cushy number [coll.] (Amer.)
+","begone! [poet.] archaic
+Off you go!
+Be off!
+Clear off!
+Pack off!
+Get you gone!
+",,,"to give so. the hairy eyeball [coll.] [fig.] regional (Amer.)
+","and that
+pdq [abbr.: PDQ, P. D. Q.] - short for pretty damn quick adv.
+and rightly so
+and rightly so
+",
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -9283,7 +9764,32 @@ Langsamer fahren!
 Fahren Sie langsamer!
 ","ein dunkles Geheimnis
 ","Ach wirklich? - ironisch [coll.]
-"
+",,,,"Heraus damit! [coll.]
+Heraus mit der Sprache! [coll.]
+Heraus mit der Sprache! [coll.]
+fein heraus sein
+Wie man in den Wald hineinruft, so tönt es heraus.
+","es ist schwierig nachzuvollziehen
+eine schwierige Person
+eine schwierige Position
+eine schwierige Sache
+","Ruhig Blut!
+Sei ruhig!
+ruhig und friedlich
+eine ruhige Kugel schieben [coll.]
+eine ruhige Kugel schieben [coll.]
+","fort (mit dir) archaic
+Fort mit dir!
+Fort mit Dir!
+Scher dich fort!
+Scher dich fort!
+Mach dich fort!
+",,,"jmdm. schief ansehen [coll.] [fig.]
+","und zwar
+und zwar zackig [coll.]
+und zwar mit Recht
+und zwar zu Recht
+",
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -10284,7 +10790,39 @@ an article that is really well made
 Last summer was a real scorcher. [coll.]
 You don't really mean that. [coll.]
 He's a real coward.
-"
+",,"it usually takes me a week to ...
+The hotel my parents usually stay in was fully booked.
+The hotel that my parents usually stay in was fully booked.
+The hotel which my parents usually stay in was fully booked.
+normally used
+normally procurable
+as are normally necessary
+","I decided to keep him at arm's length.
+","It turned out that
+I think he's out of the wood now. (Brit.)
+I think he's out of the woods now. (Amer.)
+Two of the men turned out to have family problems.
+Go figure it out! (Amer.) [coll.]
+","exceedingly difficult
+It is difficult to find buyers for ...
+It is difficult to find sellers of ...
+We would have the greatest difficulty in ...
+I'm going to be hard pushed to find someone to help me move on Sunday.
+in problematic locations [TECH.]
+places us in a difficult position
+a difficult job
+","Settle down, children!
+He met his fate calmly.
+You may as well own up.
+","Please see to this while I'm away!
+Please see to this while I'm away!
+",,,"Everything went wrong. infinitive: go wrong
+Everything went wrong. infinitive: go wrong
+The picture is crooked.
+Something always goes wrong when you least expect it to.
+","Though he's rich, he's an honest man.
+Then you'll be in trouble, in fact in deep trouble.
+",
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
 Wie alt ist er?
@@ -11285,4 +11823,36 @@ ein Artikel, der wirklich gut gemacht ist
 Im letzten Sommer war es wirklich heiß.
 Das meinst du doch nicht wirklich.
 Er ist wirklich ein Feigling.
-"
+",,"normalerweise brauche ich eine Woche, um ...
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+Das Hotel, in dem meine Eltern normalerweise übernachten, war ausgebucht.
+normalerweise verwendet
+normalerweise zu beschaffen
+wie sie normalerweise erforderlich sind
+","Ich beschloss, ihn mir vom Leibe zu halten.
+","Es stellte sich heraus
+Ich glaube, er ist jetzt aus dem Gröbsten heraus.
+Ich glaube, er ist jetzt aus dem Gröbsten heraus.
+Bei zwei Männern stellte sich heraus, dass sie familiäre Probleme hatten.
+Finde es heraus!
+","äußerst schwierig
+Es ist schwierig, Käufer für ... zu finden
+Es ist schwierig Verkäufer von ... zu finden
+Es wäre für uns äußerst schwierig ...
+Es wird schwierig sein, jemanden zu finden, der mir am Sonntag beim Umziehen helfen kann.
+schwierige Einbausituation
+bringt uns in eine schwierige Lage
+eine schwierige Aufgabe
+","Ruhig, Kinder!
+Er sah seinem Schicksal ruhig entgegen.
+Sie können es ruhig gestehen.
+","Bitte sorgen Sie dafür, während ich fort bin!
+Bitte kümmern Sie sich darum, während ich fort bin!
+",,,"Alles ging schief. infinitive: schiefgehen
+Alles ist schief gegangen. infinitive: schiefgehen
+Das Bild hängt schief.
+Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
+","Er ist zwar reich, aber ehrlich.
+Dann bekommst du aber Ärger, und zwar gehörigen.
+",

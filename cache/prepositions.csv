@@ -1,9 +1,9 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
-",
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -106,6 +106,16 @@ to be firmly committed to sth.
 to abound with sth.
 to be backing so. all the way
 to be a raving success
+",,,"to act as if
+to act as if
+to go through the motions
+to play-act | play-acted, play-acted |
+to pretend to be sth.
+","to defy | defied, defied |
+to face | faced, faced |
+to glare at so. defiantly
+to glare at so. in defiance
+","to not do sth. after all
 ",
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
@@ -209,6 +219,16 @@ sichacc. voll für etw.acc. einsetzen
 voll von etw.dat. sein
 voll hinter jmdm. stehen
 voll einschlagen [coll.] - Erfolg haben
+",,,"sichacc. aufführen, als ob
+sichacc. anstellen, als ob
+so tun, als ob
+so tun, als ob
+so tun, als ob man etw.nom. sei
+","Trotz bieten | bot, geboten |
+Trotz bieten | bot, geboten |
+jmdn. voller Trotz anschauen
+jmdn. voller Trotz anschauen
+","etwas doch nicht tun
 ",
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
@@ -701,7 +721,16 @@ over head [TECH.]
 time-weighted average [abbr.: TWA] [TECH.]
 debate (about (or: on) sth.)
 discussion (about (or: on) sth.)
-"
+","the ifs and buts
+","as-if basis [INSUR.]
+purely hypothetical approach [INSUR.]
+","defiance
+petulance
+sulkiness
+in the teeth of sth. - notwithstanding
+defiantness rare
+frowardness archaic
+",,
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
@@ -1193,7 +1222,16 @@ etw.acc. über jmdn./etw. denken
 über ... Stunden gewichteter Durchschnittswert [abbr.: TWA]
 die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
 die Auseinandersetzung (über etw.acc.) pl.: die Auseinandersetzungen - Diskussion
-"
+","das Wenn und Aber
+","die Als-ob-Basis
+die Als-ob-Betrachtung
+","der Trotz no plural
+der Trotz no plural
+der Trotz no plural
+etw.dat. zum Trotz
+der Trotz no plural
+der Trotz no plural
+",,
 noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
@@ -1446,8 +1484,26 @@ genus: FEMI
 plural: die Auskünfte
 meaning: information (as to) no plural
 joy (about (or: over) sth.)
-"
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","article: Das
+word: Wenn
+genus: NEUT
+plural: Wenn / Wenns
+meaning: the ifs and buts
+
+","article: Die
+word: Als
+genus: FEMI
+plural: Als-ob-Basis
+meaning: as-if basis [INSUR.]
+purely hypothetical approach [INSUR.]
+","article: Der
+word: Trotz
+genus: MASC
+plural: plural
+meaning: defiance
+petulance
+",,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -1950,7 +2006,19 @@ above ground
 at the surface
 above average
 above zero
-"
+",,"insomuch as adv.
+as though nothing had happened
+as though nothing had happened
+","in spite of everything
+for all that
+notwithstanding adv.
+in spite of everything
+for all that
+but for all that
+","still adv.
+after all
+after all
+",
 adjectives_or_adverbs,german,"hinein
 herein
 in [sl.]
@@ -2453,7 +2521,19 @@ voll
 übertage or: über Tage
 über Durchschnitt
 über null
-"
+",,"insofern, als dass
+als ob nichts geschehen wäre
+als ob nichts passiert wäre
+","trotz allem
+trotz allem
+trotz allem
+trotz alledem
+trotz alledem
+trotz alledem
+","doch
+doch
+also doch
+",
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
 All right!
@@ -2973,7 +3053,28 @@ in a mad rush
 pell-mell or: pellmell adv.
 head over heels in love
 Over my dead body!
-"
+","no ifs, ands, or buts (Amer.)
+no ifs and buts (Brit.)
+like a dying duck in a thunderstorm
+","It is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God.
+","against all odds
+in the face of all logic
+against great odds
+","Yes, of course!
+Do come!
+Sure!
+Don't bother!
+Bring it on!
+Bring it on!
+Roll on the holidays! (Brit.)
+Don't keep asking me.
+Why, yes!
+Do come in!
+Spare his blushes!
+Come off it! - used to tell so. to stop doing or saying sth.
+that's just the point
+Do you mind? - ironic
+",
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
 In Ordnung!
@@ -3493,7 +3594,28 @@ Hals über Kopf
 Hals über Kopf
 bis über beide Ohren verliebt
 Nur über meine Leiche!
-"
+","ohne Wenn und Aber
+ohne Wenn und Aber
+wie die Gans, wenn's donnert
+","Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in den Himmel kommt.
+","allen Widrigkeiten zum Trotz
+aller Logik zum Trotz
+großen Widrigkeiten zum Trotz
+","Ja, doch!
+Komm doch!
+Klar doch!
+Lass doch!
+Mach doch!
+Versuch's doch!
+Wenn doch nur schon Ferien wären!
+Frag doch nicht andauernd.
+Aber klar doch!
+Kommen Sie doch herein!
+Bringen Sie ihn doch nicht in Verlegenheit!
+Jetzt hör doch mal auf!
+darum geht's doch gerade
+Ich muss doch sehr bitten!
+",
 examples,english,"in English
 in 1999
 in England
@@ -4084,6 +4206,68 @@ about the firm in question
 who already has experience
 over the entire term
 There's no accounting for taste.
+","while you're at it
+If I only had known!
+while we're at it
+albeit under military administrations
+once this period has expired
+If I were you, I would ...
+if that's any good to you
+if the credit provides for acceptance
+if the credit provides for negotiation
+Unless I'm very much mistaken ...
+if changes occur
+if the goods serve our purpose
+considering the difficulties
+when the goods pass the ship's rail
+There's no harm if ...
+We would be obliged if ...
+if he fails to take delivery
+","more interesting than
+more beautiful than
+more comprehensive than
+bigger than ...
+suitable as collateral
+labeledAE as unsuitablelabelledBE as unsuitable
+condemned as untrustworthy
+regarded as being solvent
+as a sign of true friendship
+after I inherited the money
+as a token of friendship
+The sight of the cake made my mouth water.
+I've enough and to spare.
+She looks as if butter wouldn't melt in her mouth.
+","although constantly expanding
+in spite of the stream of tourists
+in spite of our great care
+in spite of our precautions
+despite ourselves
+such refusal notwithstanding
+","If only I had known!
+face it, ...
+Do sit down.
+Have some cake, it's lovely.
+Do sit down.
+just join in and sing along!
+Give us a visit sometime.
+We eventually managed to reach her.
+Just go and try it!
+Come on, this is ridiculous!
+Come on, this is ridiculous!
+That's not right. - Yes it is.
+There's little point in blaming each other.
+it was a blessing in disguise
+","at the bookseller's
+at the pawnbroker's
+while visiting a flower
+At the sound of the gong it will be 10 o'clock. - radio
+At the sound of the last tone it will be 10 o'clock. - radio
+when unpacking the goods
+on opening the cases
+on examining the goods
+He has been to see the doctor.
+personal bias in reading analogAE instrumentspersonal bias in reading analogueBE instruments
+very particular about the price
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -4675,4 +4859,66 @@ sich über mehrere Wochen erstreckend
 der über Erfahrung verfügt
 über die gesamte Laufzeit
 Über Geschmack lässt sich nicht streiten.
+","wenn du schon dabei bist
+Wenn ich es nur gewusst hätte!
+wenn wir schon dabei sind
+wenn auch unter militärischer Verwaltung
+wenn diese Frist abgelaufen ist
+Wenn ich du wäre, würde ich ...
+wenn dir das zusagt
+wenn das Akkreditiv Akzeptierung vorsieht
+wenn das Akkreditiv Verhandlung vorsieht
+Wenn ich mich nicht sehr irre ...
+wenn sich etwas ändert
+wenn die Ware unseren Zweck erfüllt
+wenn wir an die Schwierigkeiten denken
+wenn die Ware die Schiffsreling überschreitet
+Es macht nichts wenn ...
+Wir wären Ihnen dankbar wenn ...
+wenn er die Ware nicht abnimmt
+","interessanter als
+schöner als
+umfassender als
+größer als ...
+als Sicherheit geeignet
+als ungeeignet bezeichnet
+als unglaubwürdig verworfen
+als zahlungsfähig bekannt
+als Zeichen wahrer Freundschaft
+als ich das Geld geerbt hatte
+als Zeichen der Freundschaft
+Als ich den Kuchen sah, lief mir das Wasser im Mund zusammen.
+Ich habe mehr als genug.
+Sie sieht aus, als ob sie kein Wässerchen trüben könnte.
+","trotz ständiger Neuerschließungen
+trotz starken Fremdenverkehrs
+trotz unserer großen Vorsicht
+trotz unserer Vorsichtsmaßnahmen
+unserem eigenen Willen zum Trotz
+trotz einer solchen Weigerung
+","Hätte ich es doch nur gewusst!
+begreif's doch endlich
+Nehmen Sie doch Platz. infinitive: Platz nehmen
+Nimm doch etwas Kuchen - er schmeckt köstlich!
+Nimm doch Platz. infinitive: Platz nehmen
+sing doch einfach mit!
+Besuchen Sie uns doch mal.
+Letztendlich haben wir sie doch noch erreichen können.
+Versuch's doch mal!
+Ich bitte dich, das ist doch lächerlich!
+Ich bitte Sie, das ist doch lächerlich!
+Das stimmt nicht. - Doch!
+Es bringt doch nichts, sich gegenseitig zu beschuldigen.
+es war schließlich doch ein Segen
+","beim Buchhändler
+beim Pfandleiher
+beim Blütenbesuch - Insekt [Entomology]
+Beim Gongschlag ist es 10 Uhr.
+Beim letzten Ton ist es 10 Uhr.
+beim Auspacken der Ware
+beim Öffnen der Kisten
+beim Prüfen der Ware
+Er war beim Arzt.
+personell bedingte systematische Abweichungen beim Ablesen analoger Messgeräte
+sehr kleinlich beim Preis
 "

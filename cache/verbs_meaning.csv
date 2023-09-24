@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -225,8 +225,22 @@ rufen : Verb
 lachen : Verb
 ","vergehen : Verb
 sich vergehen : Verb
-",
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,"verlaufen : Verb
+sich verlaufen : Verb
+","erwarten : Verb
+sich erwarten : Verb
+","finden : Verb
+sich finden : Verb
+","beginnen : Verb
+","sich schneiden : Verb
+schneiden : Verb
+","erhitzt : Adjective
+erhitzen : Verb
+sich erhitzen : Verb
+","sich denken : Verb
+denken : Verb
+"
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -2474,6 +2488,106 @@ to walk out on so.
 to exit sth. | exited, exited | - a place
 to absent oneself from sth.
 to drop out of sth.
+","to prepare sth. | prepared, prepared |
+to confect | confected, confected | - make, prepare
+to condition | conditioned, conditioned |
+to dress | dressed, dressed |
+to concoct sth. | concocted, concocted |
+to finish sth. | finished, finished |
+to percolate coffee
+to rustle sth. ⇔ up [coll.] - prepare sth. quickly
+","to run | ran, run |
+to blend | blended, blended |
+to continue | continued, continued |
+to proceed | proceeded, proceeded |
+to take course
+to process | processed, processed |
+to get lost
+to disperse | dispersed, dispersed |
+to lose one's way
+to deviate | deviated, deviated | [TECH.]
+to telescope | telescoped, telescoped | [TECH.]
+to skew to the right/left
+to deflect | deflected, deflected | [TECH.]
+to drift | drifted, drifted | [TECH.]
+","to expect sth. (from so./sth.) | expected, expected |
+to anticipate sth. | anticipated, anticipated |
+to await sth. | awaited, awaited |
+to expect so. | expected, expected |
+to estimate | estimated, estimated |
+to wait for sth.
+to abide sth. | abode, abode |
+to look forward to sth.
+to visualizeAE sth. to visualiseBE / visualizeBE sth. | visualized, visualized / visualised, visualised |
+to want sth. from so./sth.
+to want sth. of so./sth.
+to demand sth. of so.
+so. is due
+to figure on doing sth.
+","to find sth. | found, found |
+to locate so./sth. | located, located |
+to think | thought, thought | - have an opinion
+to strike | struck, struck/stricken |
+to discover sth. | discovered, discovered |
+to detect sth. | detected, detected |
+to find one's feet
+to find oneself
+to meet with sth.
+to see sth. in so.
+to be found
+to make friends
+to find again
+to apply | applied, applied |
+","to begin (sth.) | began, begun |
+to start | started, started |
+to initiate sth. | initiated, initiated |
+to commence (sth.) | commenced, commenced |
+to set in
+to usher sth. ⇔ in
+to mark the beginning of sth.
+to mark the start of sth.
+to start to do sth.
+to start doing sth.
+to take sth. ⇔ up
+to start out as so./sth.
+to set out to do sth.
+to attack sth. | attacked, attacked |
+","to cut (sth.) | cut, cut |
+to trim (sth.) | trimmed, trimmed |
+to snip (sth.) | snipped, snipped |
+to clip | clipped, clipped |
+to slice | sliced, sliced |
+to carve | carved, carved |
+to cog | cogged, cogged |
+to notch | notched, notched |
+to scissor | scissored, scissored |
+to engrave | engraved, engraved |
+to rip | ripped, ripped |
+to mow | mowed, mown/mowed |
+to pare | pared, pared |
+to saw | sawed, sawn/sawed |
+","to scald | scalded, scalded |
+to heat sth. | heated, heated |
+to broil sth. | broiled, broiled | (Amer.)
+to microwave | microwaved, microwaved |
+to reheat sth. | reheated, reheated |
+to nuke sth. | nuked, nuked | [coll.] [fig.] - microwave
+to heat sth. in a bain-marie [COOK.]
+to mull sth. | mulled, mulled | - a beverage, e. g. wine [COOK.]
+","to think (sth.) | thought, thought |
+to deem | deemed, deemed |
+to conceive (of) sth. | conceived, conceived |
+to imagine sth. | imagined, imagined |
+to figure sth. | figured, figured | [coll.]
+to ween sth. | weened, weened | archaic
+to keep so./sth. in mind
+to think of so./sth.
+to think to oneself
+to believe sth. about so.
+to believe sth. of so.
+to bear sth. in mind
+to have sth. in mind
+to remember sth. | remembered, remembered |
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -4722,6 +4836,106 @@ jmdn. verlassen | verließ, verlassen |
 etw.acc. verlassen | verließ, verlassen |
 etw.acc. verlassen | verließ, verlassen |
 etw.acc. verlassen | verließ, verlassen |
+","etw.acc. zubereiten | bereitete zu, zubereitet |
+zubereiten | bereitete zu, zubereitet |
+zubereiten | bereitete zu, zubereitet |
+zubereiten | bereitete zu, zubereitet | - Speisen
+etw.acc. zubereiten | bereitete zu, zubereitet |
+etw.acc. zubereiten | bereitete zu, zubereitet |
+Kaffee zubereiten
+schnell etw.acc. zubereiten
+","verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+sichacc. verlaufen | verlief, verlaufen | - sich verirren
+sichacc. verlaufen | verlief, verlaufen |
+sichacc. verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+nach rechts/links verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+verlaufen | verlief, verlaufen |
+","etw.acc. (von jmdm./etw.) erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+jmdn. erwarten | erwartete, erwartet |
+erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+etw.acc. erwarten | erwartete, erwartet |
+etw.acc. von jmdm./etw. erwarten | erwartete, erwartet |
+etw.acc. von jmdm./etw. erwarten | erwartete, erwartet |
+etw.acc. von jmdm. erwarten | erwartete, erwartet |
+jmd. wird erwartet
+erwarten, etw.acc. zu tun
+","etw.acc. finden | fand, gefunden |
+jmdn./etw. finden | fand, gefunden |
+finden | fand, gefunden | - meinen
+finden | fand, gefunden |
+etw.acc. finden | fand, gefunden |
+etw.acc. finden | fand, gefunden |
+sichacc. finden | fand, gefunden |
+sichacc. finden | fand, gefunden |
+etw.acc. finden | fand, gefunden | - Beifall etc.
+etw.acc. an jmdm. finden | fand, gefunden |
+gefunden werden
+Freunde finden
+wiederfinden or: wieder finden | fand wieder, wiedergefunden |
+Anwendung finden
+","(etw.acc. (or: mit etw.dat.)) beginnen | begann, begonnen |
+beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+(mit etw.dat.) beginnen | begann, begonnen |
+beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen |
+etw.acc. beginnen | begann, begonnen | - als Hobby oder Beruf
+als jmd./etw. beginnen
+mit etw.dat. beginnen | begann, begonnen |
+mit etw.dat. beginnen | begann, begonnen |
+","(etw.acc.) schneiden | schnitt, geschnitten |
+(etw.acc.) schneiden | schnitt, geschnitten |
+(etw.acc.) schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+schneiden | schnitt, geschnitten |
+","erhitzen | erhitzte, erhitzt |
+etw.acc. erhitzen | erhitzte, erhitzt |
+etw.acc. erhitzen | erhitzte, erhitzt |
+im Mikrowellenherd erhitzen
+etw.acc. erneut erhitzen
+etw.acc. in der Mikrowelle erhitzen
+etw.acc. im Wasserbad erhitzen
+etw.acc. mit Gewürzen und Zucker erhitzen - z. B. Wein
+","(etw.acc.) denken | dachte, gedacht |
+denken | dachte, gedacht |
+sichdat. etw.acc. denken | dachte, gedacht |
+sichdat. etw.acc. denken | dachte, gedacht |
+sichdat. etw.acc. denken | dachte, gedacht |
+etw.acc. denken | dachte, gedacht |
+an jmdn./etw. denken | dachte, gedacht |
+an jmdn./etw. denken | dachte, gedacht |
+bei sichdat. denken
+etw.acc. von jmdm. denken | dachte, gedacht |
+etw.acc. von jmdm. denken | dachte, gedacht |
+an etw.acc. denken | dachte, gedacht |
+an etw.acc. denken | dachte, gedacht |
+an etw.acc. denken | dachte, gedacht |
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -5360,7 +5574,42 @@ lost village
 abandoned property
 abandoned house
 abandoned child
-"
+",,,"string variable expected
+variable identifier expected
+type identifier expected
+expected orders pl.
+anticipated demand
+expected demand
+advance profits
+expected value [abbr.: EV]
+expected arrival time [abbr.: ETA]
+expected benefit
+expected price
+baby-to-be
+anticipated price variations pl.
+fluctuations as expected pl.
+","file not found [COMP.]
+development of discovered fields
+",,"cut also [CINE.][TEXTIL.]
+profile
+intersection
+slash
+incision
+crop
+pattern
+snip
+model
+sectional view
+serration
+slice
+trim
+section
+","heated gemstone [MIN.]
+heated stone [MIN.]
+heated gemstone [MIN.]
+heated stone [MIN.]
+hot-wire cutting [TECH.]
+",
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -5998,7 +6247,42 @@ verlassenes Dorf
 verlassener Besitz
 verlassenes Haus
 verlassenes Kind
-"
+",,,"String-Variable erwartet
+Variablen-Bezeichner erwartet
+Typ-Bezeichner erwartet
+erwartete Aufträge pl.
+erwartete Nachfrage
+erwartete Nachfrage
+erwarteter Gewinn
+erwarteter Wert
+erwartete Ankunftszeit
+erwarteter Nutzen
+erwarteter Preis
+erwartetes Baby
+erwartete Preisänderungen pl.
+erwartete Schwankungen pl.
+","Datei nicht gefunden
+Ausbau gefundener Felder
+",,"der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte
+der Schnitt pl.: die Schnitte - in Zeichnungen z. B. A-A
+","erhitzter Schmuckstein
+erhitzter Schmuckstein
+erhitzter Stein
+erhitzter Stein
+Absprengen mit erhitztem Draht
+",
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -6545,8 +6829,32 @@ genus: NEUT
 plural: plural
 meaning: abandonment
 quitting
-"
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,"article: String-Variable
+word: erwartet
+genus: 
+plural: erwartet
+meaning: string variable expected
+variable identifier expected
+","article: Datei
+word: nicht
+genus: 
+plural: gefunden
+meaning: file not found [COMP.]
+development of discovered fields
+",,"article: Der
+word: Schnitt
+genus: MASC
+plural: Schnitte
+meaning: cut also [CINE.][TEXTIL.]
+profile
+","article: erhitzter
+word: Schmuckstein
+genus: 
+plural: Schmuckstein
+meaning: heated gemstone [MIN.]
+heated stone [MIN.]
+",
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -6931,7 +7239,18 @@ discontinued adj.
 disused adj.
 given up
 laid in
-"
+",,,"expected adj.
+anticipated adj.
+unsurprisingly adv. - as expected
+as anticipated
+as expected
+as hoped for
+longer than expected
+","located adj.
+unlocated adj.
+untraced adj.
+",,,"heated adj.
+",
 adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -7316,7 +7635,18 @@ verlassen
 verlassen
 verlassen
 verlassen
-"
+",,,"erwartet
+erwartet
+wie erwartet
+wie erwartet
+wie erwartet
+wie erwartet
+länger als erwartet
+","gefunden
+nicht gefunden
+noch nicht gefunden
+",,,"erhitzt
+",
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -8326,6 +8656,42 @@ time flies
 time flies
 ","to abandon a sinking ship
 like rats deserting the sinking ship
+",,"to peter out
+to come to nothing
+to fizzle out chiefly (Amer.) [coll.]
+to come to naught
+to end in talk
+","identifier expected [COMP.]
+string expression expected [COMP.]
+next main signal shows approach
+next main signal shows stop
+next main signal shows slow approach
+par for the course [coll.]
+to be champing at the bit to do sth. [fig.]
+to be chomping at the bit to do sth. [fig.]
+","to make good copy
+to go to a watery grave
+to get one's act together
+enclosed please find
+enclosed you will find
+attached please find
+to find fault with sth.
+to find common ground [fig.]
+so./sth. grows on so. infinitive: grow on so.
+so./sth. is of little concern to so.
+A blind man may sometimes hit the mark.
+Even a blind squirrel finds a nut once in a while.
+Every dog has its day.
+Even a blind hen sometimes finds a grain of corn.
+","Charity begins at home.
+","cutting and weathering rails
+to be the spitting image of so. [coll.]
+",,"it was a case of dog eat dog
+I daresay
+Cogito, ergo sum
+Man proposes, God disposes.
+Honi soit qui mal y pense. - motto of the Order of the Garter French
+A good man thinks of himself last.
 "
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
@@ -9336,6 +9702,42 @@ die Zeit vergeht wie im Flug
 die Zeit vergeht im Fluge
 ","ein sinkendes Schiff verlassen
 wie Ratten, die das sinkende Schiff verlassen
+",,"im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+im Sande verlaufen [fig.]
+","Bezeichner erwartet
+String-Ausdruck erwartet
+Fahrt erwarten
+Halt erwarten
+Langsamfahrt erwarten
+zu erwarten
+es kaum erwarten können, etw.acc. zu tun [fig.]
+es kaum erwarten können, etw.acc. zu tun [fig.]
+","ein gefundenes Fressen für die Presse sein
+ein Seemannsgrab finden
+den Rank finden (Switzerland)
+anbei finden Sie
+beiliegend finden Sie
+als Anlage finden Sie
+ein Haar in der Suppe finden
+einen gemeinsamen Nenner finden [fig.]
+jmd. findet immer mehr Gefallen an jmdm./etw.
+jmd./etw. findet wenig Beachtung bei jmdm.
+Ein blindes Huhn findet auch einmal ein Korn.
+Ein blindes Huhn findet auch einmal ein Korn.
+Ein blindes Huhn findet auch einmal ein Korn.
+Auch ein blindes Huhn findet mal ein Korn.
+","Nächstenliebe beginnt zu Hause (or: zuhause). - englisches Sprichwort
+","Gleise schneiden und altern
+jmdm. wie aus dem Gesicht geschnitten sein
+",,"jeder dachte nur an sich selbst
+ich könnte mir denken
+Ich denke, also bin ich - Descartes
+Der Mensch denkt, Gott lenkt.
+Ein Schelm, wer Böses dabei denkt.
+Der brave Mann denkt an sich selbst zuletzt.
 "
 examples,english,"Do you belong here?
 Where do you live?
@@ -10418,6 +10820,58 @@ an abandoned village
 an abandoned vessel
 I count on you.
 we turned off the motorway (Brit.)
+",,"the installation was carried out speedily
+The lines run parallel.
+A ditch runs along the side of the road.
+","field identifier expected [COMP.]
+When I asked for more I didn't expect to get that much!
+Something always goes wrong when you least expect it to.
+Fewer people than expected turned up for the match.
+prices are expected to decrease
+I can't wait to see her.
+a good result may be expected
+a large profit may be expected
+You cannot expect that ...
+I would expect you to revise that statement
+much as we expected
+","are to be found
+He will not rest until he discovers the truth.
+a compromise is normally agreed
+She couldn't find either of her car keys.
+will find your approval
+There aren't many games to play before the end of the season.
+It is difficult to find buyers for ...
+It is difficult to find sellers of ...
+It would be difficult to find buyers
+It would be difficult to secure buyers
+enclosed herewith you will find
+Enclosed please find our credit note.
+I'm going to be hard pushed to find someone to help me move on Sunday.
+You'll be lucky to find a parking space.
+","Its rise began in
+When do you break up for summer/Christmas? - school, pupils (Brit.)
+When do you get out for summer/Christmas? (Amer.)
+When does your school let out for summer/Christmas? (Amer.)
+insurance attaches
+In autumn they start to bring the cattle down from the mountain pastures. [AGR.]
+","I can't squeeze blood out of a stone.
+he's having his hair cut
+He had his hair cut.
+","Feelings ran high.
+","I thought as much.
+I kind of thought.
+I don't like it as much as I thought I would.
+I meant no harm by it.
+another case in point is ...
+I wasn't thinking very well
+What are you thinking about?
+I dare say (or: daresay) ...
+considering the difficulties
+I think you've had enough.
+I think you've had enough to drink.
+I think so.
+There's more to it than you think.
+what do you make of ...
 "
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -11500,4 +11954,56 @@ ein verlassenes Dorf
 ein verlassenes Schiff
 Ich verlasse mich auf Sie.
 wir verließen die Autobahn
+",,"die Montage verlief zügig
+Die Linien verlaufen parallel.
+Seitlich der Straße verläuft ein Graben.
+","Feld-Bezeichner erwartet
+Als ich um mehr gebeten habe, habe ich nicht erwartet, dass ich so viel bekommen würde!
+Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
+Weniger Leute als erwartet kamen zum Spiel.
+es wird erwartet, dass die Preise fallen
+Ich kann es kaum erwarten sie zu sehen
+ein gutes Ergebnis ist zu erwarten
+ein großer Gewinn lässt sich erwarten
+Sie können nicht erwarten, dass ...
+ich erwarte hierzu Ihre Richtigstellung
+so sehr wir erwarteten
+","finden sich
+Er wird nicht ruhen, bis er die Wahrheit gefunden hat.
+in der Regel wird ein Kompromiss gefunden
+Sie konnte beide Autoschlüssel nicht finden.
+wird Ihre Anerkennung finden
+Bis zum Saisonende finden nicht mehr viele Spiele statt.
+Es ist schwierig, Käufer für ... zu finden
+Es ist schwierig Verkäufer von ... zu finden
+Es würden sich kaum Käufer finden
+Es würden sich kaum Käufer finden
+in der Anlage finden Sie
+Unsere Gutschrift finden Sie in der Anlage.
+Es wird schwierig sein, jemanden zu finden, der mir am Sonntag beim Umziehen helfen kann.
+Da wirst du Glück haben müssen, wenn du einen Parkplatz finden willst.
+","Sein Aufstieg begann im Jahre
+Wann beginnen bei euch die Sommerferien/Weihnachtsferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+Wann beginnen bei euch die Weihnachtsferien/Sommerferien?
+der Versicherungsschutz beginnt
+Im Herbst beginnt der Abtrieb des Viehs von den Bergweiden.
+","Ich kann es mir nicht aus den Rippen schneiden.
+er lässt sich die Haare schneiden
+Er ließ sich die Haare schneiden.
+","Die Gemüter erhitzten sich.
+","Das dachte ich mir.
+Ich dachte so ungefähr.
+Mir gefällt es nicht so gut, wie ich dachte.
+Ich dachte mir nichts dabei.
+denken wir auch an den Fall ...
+ich konnte nicht klar denken
+Worüber denken Sie nach?
+Ich könnte mir denken ...
+wenn wir an die Schwierigkeiten denken
+Ich denke, du hast jetzt genug getrunken!
+Ich denke, du hast jetzt genug getrunken!
+Ich denke schon.
+Es steckt mehr dahinter, als du denkst.
+was denkst du über ...
 "

@@ -18,7 +18,7 @@ while reading the text
 - python3 -m spacy download de_core_news_sm
 - pip3 install pandarallel
 - pip3 install rich
-- pip3 install textual (which version ???)
+- pip3 install textual==0.15.0
 - pip3 install bs4
 - pip3 install german_nouns
 

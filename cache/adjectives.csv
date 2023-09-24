@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -98,8 +98,26 @@ grünen : Verb
 der Ältere : Noun
 die Ältere : Noun
 ","interessant : Adjective
+","jung : Adjective
+jungen : Verb
+","interessant : Adjective
+","missglückt : Adjective
+missglücken : Verb
+","gut : Adjective
+das Gut : Noun
+das Gute : Noun
+","klein : Adjective
+","einfach : Adjective
+","heiß : Adjective
+heißen : Verb
+heißen : Verb
+","verbrannt : Adjective
+","angebrannt : Adjective
+","hart : Adjective
+","missglückt : Adjective
+missglücken : Verb
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -626,7 +644,94 @@ to be oneself again
 to be military-aged
 to act one's age
 to retain an old custom
-",None
+",None,"to breed | bred, bred |
+to fawn | fawned, fawned |
+to cast its young
+to be so.'s junior (by ... years)
+to face | faced, faced | [TECH.]
+to bring out a young lady dated
+to feel like a spring chicken [fig.]
+to be getting a bit long in the tooth
+to be getting on a bit [coll.]
+",None,"to fail | failed, failed |
+to miss | missed, missed |
+to miscarry | miscarried, miscarried | [form.]
+","to bode well
+to augur well
+to bode well
+to encourage so. | encouraged, encouraged |
+to score well
+to do well
+to come off well
+to go down well
+to be well received
+to arrive safely
+to turn out all right
+to be a looker
+to work well
+to work out
+","to cave in
+to back down
+to sing small
+to chop | chopped, chopped |
+to chop | chopped, chopped |
+to cut up into small pieces
+to cut up small
+to chop sth. ⇔ up
+to cut sth. ⇔ up
+to hash sth. | hashed, hashed |
+to chop sth. ⇔ up
+to hash sth. | hashed, hashed |
+to eat humble pie [fig.]
+to cave | caved, caved | - cave in [coll.] [fig.]
+","to eat simply
+to live simply
+to go ahead and do sth.
+to up and leave [coll.]
+sth. is a piece of cake
+to oversimplify sth. | oversimplified, oversimplified |
+to apply Occam's razor
+to just go on and on
+to hang up on so.
+to flake out - relax, e. g. on a beach [coll.]
+sth. is a pain [coll.] [fig.]
+sth. is a pain in the neck [coll.] [fig.]
+sth. is a pain in the proverbial [coll.] [fig.]
+","to be called
+to mean sth. | meant, meant |
+to hoist | hoisted, hoisted | [NAUT.]
+to welcome so./sth. | welcomed, welcomed |
+to overheat | overheated, overheated |
+to run hot
+to be a stormy affair
+to use hot blast
+to heat sth. ⇔ up
+to get hot [TECH.]
+to heat | heated, heated | [TECH.]
+so. burns up
+to bid so. to do sth.
+to tell so. to do sth.
+","to be burnt alive
+to be burnt alive
+to be burnt at the stake
+",None,"to harden | hardened, hardened |
+to congeal | congealed, congealed |
+to become hardened
+to drive a hard bargain
+to stand firm
+to strike hard
+to keep working hard
+to take drastic action
+to take drastic measures
+to take drastic steps
+to take rigorous steps
+to be tough on so.
+to treat so. harshly
+to forge sth. | forged, forged |
+","to fail | failed, failed |
+to miss | missed, missed |
+to miscarry | miscarried, miscarried | [form.]
+"
 verbs,german,None,"wichtig sein
 wichtig sein
 etw.acc. wichtig nehmen
@@ -1153,7 +1258,94 @@ wieder der (or: die) Alte sein
 im wehrpflichtigen Alter sein
 sichacc. seinem Alter entsprechend benehmen
 alten Brauch beibehalten
-",None
+",None,"Junge haben
+Junge bekommen
+Junge werfen
+(... Jahre) jünger sein als jmd.
+jünger anzeigen
+eine junge Dame in die Gesellschaft einführen
+sichacc. wieder jung fühlen
+nicht mehr der Jüngste sein
+nicht mehr der (or: die) Jüngste sein
+",None,"missglücken | missglückte, missglückt |
+missglücken | missglückte, missglückt |
+missglücken | missglückte, missglückt |
+","Gutes verheißen
+Gutes verheißen
+Gutes versprechen
+jmdm. gut zureden
+gut abschneiden
+gut abschneiden
+gut abschneiden
+gut ankommen
+gut ankommen
+gut ankommen
+gut ausgehen
+gut aussehen
+gut funktionieren
+gut laufen
+","klein beigeben
+klein beigeben
+klein beigeben
+kleinhacken or: klein hacken | hackte klein, kleingehackt |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinschneiden or: klein schneiden | schnitt klein, kleingeschnitten |
+etw.acc. kleinhacken or: klein hacken | hackte klein, kleingehackt |
+etw.acc. kleinhacken or: klein hacken | hackte klein, kleingehackt |
+klein beigeben [fig.]
+klein beigeben
+","einfach essen
+einfach leben
+etw.acc. einfach machen
+einfach abhauen [coll.]
+etw.nom. ist einfach
+etw.acc. zu einfach darstellen
+sichacc. auf das Einfachste beschränken
+einfach nicht aufhören wollen
+einfach den Telefonhörer auflegen
+einfach nur abhängen [coll.] - entspannte Zeit verbringen, z. B. am Strand
+etw.nom. ist einfach nur lästig [coll.]
+etw.nom. ist einfach nur lästig [coll.]
+etw.nom. ist einfach nur lästig [coll.]
+","heißen | hieß, geheißen |
+etw.acc. heißen | hieß, geheißen |
+heißen | heißte, geheißt |
+jmdn./etw. willkommen heißen
+heißlaufen or: heiß laufen | -, heißgelaufen |
+heißlaufen or: heiß laufen | -, heißgelaufen |
+heiß hergehen
+heißblasen or: heiß blasen | -, heißgeblasen |
+etw.acc. heiß machen (or: heißmachen) | machte heiß, heißgemacht |
+heißlaufen or: heiß laufen | -, heißgelaufen | - Lager, Achslager
+heißlaufen or: heiß laufen | -, heißgelaufen | - Lager, Achslager
+jmdm. ist heiß
+jmdn. etw.acc. tun heißen
+jmdn. etw.acc. tun heißen
+","lebendigen Leibes verbrannt werden
+bei lebendigem Leibe verbrannt werden
+auf dem Scheiterhaufen verbrannt werden
+",None,"hart werden
+hart werden
+hart werden
+hart verhandeln
+hart bleiben
+hart zuschlagen
+hart arbeiten
+hart durchgreifen
+hart durchgreifen
+hart durchgreifen
+hart durchgreifen
+jmdn. hart anfassen
+jmdn. hart anfassen
+hart an etw.dat. arbeiten
+","missglücken | missglückte, missglückt |
+missglücken | missglückte, missglückt |
+missglücken | missglückte, missglückt |
+"
 nouns,english,"previous debt
 former quotations
 back issue
@@ -1872,6 +2064,102 @@ old-timer or: old timer [coll.]
 older drift [GEOL.]
 ","interesting shopping
 place of interest
+","boy
+youngster - boy
+chick
+offspring
+lad [coll.] - boy
+drop [ZOOL.]
+hatchling [ZOOL.]
+cub [ZOOL.]
+man-child or: man child, manchild [poet.] - male child
+brood
+young used with pl. verb - offspring [ZOOL.]
+the lads (Canad.; Brit.) [coll.] pl.
+youths pl.
+young people plural noun
+","interesting shopping
+place of interest
+","unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
+misdeal
+","property
+good
+manor
+asset - benefit, valuable quality
+gut [ANAT.]
+gut [TECH.]
+commodity [COMM.]
+merchandise [COMM.]
+gear [NAUT.]
+gut - paunch (Brit.)
+goods plural noun [COMM.]
+good/bad form - behaviour
+good/bad form - behaviour
+the good guys (Amer.) [coll.]
+","sonny
+kid [coll.]
+shorty [coll.]
+the little ones
+cove
+peccadillo
+wavelet
+ripple
+snack
+islet
+isle
+scuttle
+plat - plot
+minor third
+","petty theft
+simple theft
+coherer
+simple blind study
+simple interest
+simple point
+waterbiscuit
+trooper
+single spacing
+working stiff [coll.] (Amer.)
+unbranched bur-reed [BOT.]
+European bur-reed [BOT.]
+organ pipe [ZOOL.]
+common flower-head [ZOOL.]
+","hot chocolate
+hot chemistry
+ardent friendship
+scorcher (Brit.) [coll.]
+hot spring [GEOL.]
+torrid zone [GEOL.]
+hot issue [FINAN.]
+hot mineral springs [GEOL.]
+hot plug [AUTOM.]
+hot metal probes [TECH.]
+hot cell [TECH.]
+tropic zone [GEOG.]
+tropical zone [GEOG.]
+hot dry rock [GEOL.]
+","scorched earth
+burnt-end ark [ZOOL.]
+burnt-end ark shell [ZOOL.]
+burnt material [TECH.]
+scorched-earth policy
+scorched earth policy [MIL.]
+",None,"drudgery
+taskwork
+hard work
+hard landing
+acid test
+hard commitment
+hard reset
+hardship
+harsh market conditions pl.
+stinker [coll.] - difficult task
+furnace [fig.]
+hardpan [AGR.][ENGIN.]
+hard drug
+hard currency [FINAN.]
+","misdeal
+unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -2591,6 +2879,102 @@ die Alten pl.
 älterer Geschiebemergel
 ","interessante Einkaufsmöglichkeiten pl.
 interessanter Ort
+","der Junge pl.: die Jungen/die Jungs
+der Junge pl.: die Jungen/die Jungs
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+der Junge pl.: die Jungen/die Jungs
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge
+das Junge (ein Junges) pl.: die Jungen/unbest.: Junge - Wolf, Bär, Löwe, Tiger
+der Junge pl.: die Jungen/die Jungs
+die Jungen pl.
+die Jungen pl.
+die Jungs pl. [coll.]
+junge Leute pl., no sg.
+junge Leute pl., no sg.
+","interessante Einkaufsmöglichkeiten pl.
+interessanter Ort
+","missglückte Sterilisation
+missglücktes Geschäft
+","das Gut pl.: die Güter
+das Gute no plural
+das Gut pl.: die Güter
+das Gut pl.: die Güter - etwas, das ideellen Wert hat, z. B. Gesundheit
+der Darm pl.: die Därme
+der Darm pl.: die Därme - Schnecke und Kette [Clocks]
+das Gut pl.: die Güter
+das Gut pl.: die Güter
+das Gut pl.: die Güter
+die Plauze pl.: die Plauzen (Northern Germany) [coll.] - dicker Bauch
+die Güter pl.
+gute/schlechte Manieren
+gute/schlechte Umgangsformen pl.
+die Guten pl.
+","der Kleine pl.: die Kleinen
+der Kleine | die Kleine pl.: die Kleinen
+der Kleine | die Kleine pl.: die Kleinen [coll.]
+die Kleinen pl.
+kleine Bucht
+kleine Sünde
+kleine Welle
+kleine Welle
+kleine Zwischenmahlzeit
+kleine Insel
+kleine Insel
+kleine Luke
+kleine Parzelle
+kleine Terz
+","einfacher Diebstahl
+einfacher Diebstahl
+einfacher Detektor
+einfacher Blindversuch
+einfacher Zins
+einfacher Punkt
+einfacher Keks
+einfacher Soldat
+einfacher Zeilenabstand
+einfacher Arbeiter
+Einfacher Igelkolben Lat.: Sparganium emersum
+Einfacher Igelkolben Lat.: Sparganium emersum
+Einfacher Röhrenpolyp Lat.: Tubularia larynx, Ectopleura larynx
+Einfacher Röhrenpolyp Lat.: Tubularia larynx, Ectopleura larynx
+","heiße Schokolade
+heiße Chemie
+heiße Freundschaft
+heiße Braut [coll.]
+heiße Quelle
+heiße Zone
+heiße Aktie
+heiße Mineralquellen pl.
+heiße Kerze
+heiße Metallproben
+heiße Zelle
+heiße Zone
+heiße Zone
+heiße Gesteinsformation
+","verbrannte Erde
+Verbrannte Archenmuschel Lat.: Anadara uropygimelana [Invertebrates]
+Verbrannte Archenmuschel Lat.: Anadara uropygimelana [Invertebrates]
+verbrannter Baustoff [Machines]
+Politik der verbrannten Erde
+Politik der verbrannten Erde
+",None,"harte Arbeit
+harte Arbeit
+harte Arbeit
+harte Landung
+harte Prüfung
+harte Zusage
+harte Rückstellung
+harte Umstände
+harte Wettbewerbsbedingungen
+harte Nuss [coll.]
+harte Prüfung
+harte Bodenschicht
+harte Droge [Drugs]
+harte Währung
+","missglücktes Geschäft
+missglückte Sterilisation
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -2982,8 +3366,68 @@ genus:
 plural: 
 meaning: interesting shopping
 place of interest
+","article: Der
+word: Junge
+genus: MASC
+plural: Jungen / Jungs
+meaning: boy
+youngster - boy
+","article: interessante
+word: Einkaufsmöglichkeiten
+genus: 
+plural: 
+meaning: interesting shopping
+place of interest
+","article: missglückte
+word: Sterilisation
+genus: 
+plural: Sterilisation
+meaning: unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
+misdeal
+","article: Das
+word: Gut
+genus: NEUT
+plural: die Güter
+meaning: property
+good
+","article: Die
+word: Kleine
+genus: MASC
+plural: die Kleinen
+meaning: sonny
+kid [coll.]
+","article: einfacher
+word: Diebstahl
+genus: 
+plural: Diebstahl
+meaning: petty theft
+simple theft
+","article: Das
+word: Schokolade
+genus: 
+plural: Schokolade
+meaning: hot chocolate
+hot chemistry
+","article: verbrannte
+word: Erde
+genus: 
+plural: Erde
+meaning: scorched earth
+burnt-end ark [ZOOL.]
+",None,"article: Der
+word: Hart
+genus: 
+plural: Harte
+meaning: drudgery
+taskwork
+","article: missglücktes
+word: Geschäft
+genus: 
+plural: Geschäft
+meaning: misdeal
+unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -3665,7 +4109,102 @@ sapid adj. [fig.]
 interesting-looking adj.
 financially rewarding
 uninteresting adj.
-"
+","young adj.
+emerging adj.
+youthful adj.
+fledgling - used before noun - new adj.
+juvenescent adj.
+juvenile adj. [GEOL.]
+recent adj.
+junior adj.
+younger adj.
+afterborne adj.
+junior adj.
+uppermost adj. [GEOL.]
+youngish adj.
+ageless adj.
+","interesting adj.
+juicy adj. [coll.] [fig.]
+sapid adj. [fig.]
+interesting-looking adj.
+financially rewarding
+uninteresting adj.
+",None,"well adj. adv.
+all right - without problems
+good adj. - better, best
+characterful adj.
+sound adj.
+good adj. [EDUC.]
+superior (to sth.) adj.
+improved adj.
+good-looking adj.
+handsome adj.
+well-appointed - building, room adj.
+well-dressed adj.
+nice-looking adj.
+attractive adj.
+","little - less, least adj.
+short adj. - of a person
+small adj.
+slight adj.
+minor adj. - interval [MUS.]
+diminutive adj.
+exiguous adj.
+petty - minor adj.
+bantam adj.
+runty adj.
+toy adj.
+dwarfish adj.
+mini adj.
+petite adj.
+","easy adj.
+simple adj.
+plain - simple, unadorned adj.
+single adj.
+ordinary adj.
+elementary adj.
+basic adj.
+unsophisticated adj.
+unpretentious adj.
+facile adj.
+frugal adj.
+homely adj.
+straightforward adj.
+common adj.
+","hot adj.
+live adj.
+buff adj. (Amer.) [coll.] - of a person/body
+precious adj.
+beloved adj.
+dearly beloved
+highly controversial
+much sought-after
+torrid adj.
+sweltering adj.
+stiflingly hot
+red-hot adj.
+sultry adj. - opressively hot
+scorching hot
+","burnt adj.
+burned adj.
+adust adj. archaic - scorched
+all burnt
+","burnt adj.
+","hard adj.
+severe adj.
+stiff adj.
+tough adj.
+strong adj.
+tight adj.
+bitter adj.
+arduous adj.
+brawny adj.
+firm - firmer, firmest adj.
+grim adj.
+rigorous adj.
+callous adj.
+inclement adj.
+",None
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
 ","wichtig
@@ -4347,7 +4886,102 @@ interessant
 interessant aussehend
 finanziell interessant
 nicht interessant
-"
+","jung
+jung
+jung
+jung
+jung
+jung - Geomorphologie
+jüngster | jüngste | jüngstes
+jünger
+jünger
+jünger
+jüngerer | jüngere | jüngeres
+jünger - geologische Zeitalter
+ziemlich jung
+ewig jung
+","interessant
+interessant
+interessant
+interessant aussehend
+finanziell interessant
+nicht interessant
+",None,"gut
+gut
+gut - besser, am besten
+gut
+gut
+gut - Note
+besser (als etw.acc.)
+besser
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+gut ausgestattet
+gut gekleidet
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+","klein
+klein
+klein
+klein
+klein - Intervall
+klein
+klein
+klein
+klein
+klein
+klein
+klein
+klein
+klein
+","einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+einfach
+","heiß
+heiß
+heiß [coll.] [fig.]
+heißgeliebt or: heiß geliebt
+heißgeliebt or: heiß geliebt
+heiß geliebt
+heiß umstritten
+heißbegehrt or: heiß begehrt
+brennend heiß
+drückend heiß
+erstickend heiß
+glühend heiß
+glühend heiß
+glühend heiß
+","verbrannt
+verbrannt
+verbrannt
+vollständig verbrannt
+","angebrannt
+","hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+hart
+",None
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
 an important factor
@@ -4754,6 +5388,85 @@ to put sth. on the scrap heap
 new wine in old bottles
 for old times' sake
 It's always the same old story.
+",None,"the young
+Boy, oh boy! [coll.]
+Oh boy! [coll.]
+a bad egg
+Attaboy! [coll.]
+It's raining cats and dogs.
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+Hold your horses!
+Hold your horses!
+Hold your horses!
+Whom the gods love die young.
+in the salad days of his youth
+a well-mannered young man
+sth. takes years off so.
+sth. takes years off so.
+",None,None,"a good stroke of business
+a case in point - a good example
+the gift of the gab
+to have a heart of gold
+to bite the hand that feeds one
+a good piece of craftsmanship
+A quiet conscience sleeps in thunder.
+Every cloud has a silver lining.
+to be up to no good
+sth. spells trouble infinitive: spell trouble
+sth. spells trouble infinitive: spell trouble
+to excoriate so. | excoriated, excoriated | - criticise severely
+Merry Christmas and a happy New Year!
+Season's greetings and best wishes for the New Year!
+","a little something
+a slight niggle - trivial complaint
+little black dress [abbr.: LBD]
+a modicum
+a smidgen (or: smidgeon, smidgin)
+a small attendance
+peanuts plural noun [coll.] [fig.]
+ordinary Joe (or: joe) [coll.]
+A small leak will sink a great ship.
+a narrow margin
+to see a man about a dog [coll.] [fig.]
+to see a man about a horse (Amer.) [coll.] [fig.]
+even a small amount [MED.]
+to act like a prima donna [pej.]
+","That's a piece of cake.
+Suck it up. [coll.] [fig.]
+it's a cinch
+That's simply not done.
+that was not a bed of roses
+it's as simple as that
+","What the eye doesn't see, the heart doesn't grieve over.
+What you don't know won't hurt you.
+Ignorance is bliss.
+That's saying something!
+Mary, Jane and all the rest of them.
+The Price is Right
+Strike while the iron is hot.
+Stop beating around the bush!
+Make hay while the sun shines.
+Strike while the iron's hot.
+Things are never as bad as they seem.
+to make hay while the sun shines [fig.]
+a drop in the bucket
+a drop in the ocean
+",None,None,"a hard nut to crack
+teaser
+brainteaser
+a tough nut to crack [fig.]
+crux - pl.: cruxes, cruces
+floorer [coll.]
+facer (Brit.)
+when push comes to shove
+if it comes to the crunch
+if the worst comes to the worst
+when the chips are down
+when the going gets tough
+when it comes to the crunch
+to face an uphill battle
+to pull no punches
 ",None
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
@@ -5161,6 +5874,85 @@ etw.acc. zum alten Eisen werfen [fig.]
 neuer Wein in alten Flaschen
 um der alten Zeiten willen
 Immer die alte Leier.
+",None,"die Jungen
+Junge, Junge! [coll.]
+Junge, Junge! [coll.]
+ein schwerer Junge
+Guter Junge!
+Es regnet junge Hunde
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+Immer sachte mit den jungen Pferden!
+Immer sachte mit den jungen Pferden!
+Immer langsam mit den jungen Pferden!
+Wen die Götter lieben, der stirbt jung.
+als er noch jung und unschuldig war
+ein junger Mann mit guten Manieren
+etw.nom. lässt jmdn. um Jahre jünger aussehen
+etw.nom. lässt jmdn. um Jahre jünger wirken
+",None,None,"ein gutes Geschäft
+ein gutes Beispiel
+ein gutes Mundwerk
+ein gutes Herz haben
+Gutes mit Schlechtem vergelten
+ein gutes Stück Arbeit
+Ein gutes Gewissen ist ein sanftes Ruhekissen.
+Jedes Unglück hat auch sein Gutes.
+nichts Gutes im Schilde führen
+etw.nom. bedeutet nichts Gutes infinitive: nichts Gutes bedeuten
+etw.nom. verheißt nichts Gutes infinitive: nichts Gutes verheißen
+kein gutes Haar an jmdm. lassen
+Frohe Weihnachten und ein gutes neues Jahr!
+Frohe Weihnachten und ein gutes neues Jahr
+","eine kleine Aufmerksamkeit
+eine kleine Unzufriedenheit
+das kleine Schwarze - Abendkleid
+eine kleine Menge
+eine kleine Menge
+eine kleine Zuhörerschaft
+kleine Fische [fig.] [coll.]
+der kleine Mann [fig.]
+Kleine Ursachen, große Wirkungen.
+eine sehr kleine Spanne
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+mal für kleine Jungs müssen [coll.] [fig.] - euphemistisch: auf die Toilette müssen
+schon eine kleine Menge
+sichacc. benehmen wie eine kleine Diva [pej.]
+","Das ist einfach.
+Akzeptier's einfach. [coll.]
+es ist einfach
+Das tut man einfach nicht.
+das war nicht einfach
+so einfach ist das
+","Was ich nicht weiß, macht mich nicht heiß.
+Was ich nicht weiß, macht mich nicht heiß.
+Was ich nicht weiß, macht mich nicht heiß.
+Das will was heißen!
+Mary, Jane und wie sie alle heißen.
+Der Preis ist heiß - Fernsehsendung
+Man muss das Eisen schmieden, solange es heiß ist.
+Geh nicht wie die Katz um den heißen Brei!
+Man muss das Eisen schmieden, solange es heiß ist
+Man soll das Eisen schmieden, solange es heiß ist.
+Es wird nichts so heiß gegessen, wie es gekocht wird. [fig.]
+das Eisen schmieden, solange es heiß ist [fig.]
+ein Tropfen auf den heißen Stein [fig.]
+ein Tropfen auf den heißen Stein [fig.]
+",None,None,"eine harte Nuss
+eine harte Nuss [fig.]
+eine harte Nuss [fig.]
+eine harte Nuss [fig.]
+eine harte Nuss [fig.]
+eine harte Nuss [fig.]
+eine harte Nuss [fig.] [coll.]
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+einen harten Kampf vor sichdat. haben
+mit harten Bandagen kämpfen [fig.]
 ",None
 examples,english,None,"some news of importance
 It matters.
@@ -5618,7 +6410,75 @@ He's an old stager.
 ","It would be interesting for you
 in an interesting condition
 in an interesting condition
-"
+","The boy who I saw there looked very much like your boyfriend.
+My son is a sensitive boy.
+in my younger days
+in my younger days
+He's a few years under age.
+He's getting a bit long in the tooth.
+by issuing new shares [FINAN.]
+","It would be interesting for you
+in an interesting condition
+in an interesting condition
+",None,"a good result may be expected
+a good pound
+a pretty good business
+see if you can make us a special quotation
+That's a good point.
+an article which sells well
+a well paid position
+a good selling line
+I'm fine.
+It's best not to tangle with him.
+You look well.
+Everything is going to be alright.
+It's very becoming to you.
+Her new hat becomes her.
+","small profits and quick returns
+a slight difference
+a small margin of profit
+Our prices leave hardly any margin.
+Our prices leave us with a narrow margin.
+Even a small amount will make a difference.
+as small as possible
+our margin on this transaction is too small
+a small error has crept in
+ready to work on a small commission
+a minute amount
+relatively modest risk
+Care to place a bet?
+by a slight mistake
+she teaches tiddlers [coll.]
+a wholesaler breaks bulk
+","She refused to believe it.
+That's just how it is.
+I can't face it
+Take whatever you need.
+just join in and sing along!
+It simply isn't true.
+You owe it to yourself to take a break.
+You simply must see that film.
+It was a simple misunderstanding.
+It's as simple as that.
+It's not as simple as that!
+I just can't think straight today.
+It is a simple fact that ...
+by simple delivery
+","My name is ...
+It was a stormy affair.
+I feel hot.
+It's almighty hot.
+It should read ...
+Last summer was a real scorcher. [coll.]
+they say
+What's your name?
+What's the name of this place?
+hot water was only available intermittently
+She is called Myra.
+My girlfriend, who lives in Paris, is called Julie.
+","I've burnt my fingers. [fig.]
+",None,"It was either do or die.
+",None
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -6075,4 +6935,72 @@ Er ist ein alter Hase.
 ","Es wäre für Sie interessant
 in interessantem Zustand
 in interessanter Verfassung
-"
+","Der Junge, den ich dort gesehen habe, sah deinem Freund sehr ähnlich.
+Mein Sohn ist ein sensibler Junge.
+in jungen Jahren
+als ich jung war
+Er ist ein paar Jahre zu jung.
+Er ist nicht mehr der Jüngste.
+mittels Ausgabe junger Aktien
+","Es wäre für Sie interessant
+in interessantem Zustand
+in interessanter Verfassung
+",None,"ein gutes Ergebnis ist zu erwarten
+ein gutes Pfund
+ein ziemlich gutes Geschäft
+machen Sie uns doch ein gutes Angebot
+Das ist ein gutes Argument.
+ein gutgehender (or: gut gehender) Artikel
+eine gutbezahlte (or: gut bezahlte) Stellung
+ein sich gut verkaufender Artikel
+Mir geht es gut.
+Mit ihm ist nicht gut Kirschen essen.
+Sie sehen gut aus.
+Alles wird gut.
+Es steht Ihnen sehr gut.
+Ihr neuer Hut steht ihr gut.
+","kleine Gewinnspannen und schnelle Umsätze
+eine kleine Abweichung
+eine kleine Gewinnspanne
+Unsere Preise lassen nur eine kleine Spanne.
+Unsere Preise lassen nur eine kleine Spanne.
+Schon eine kleine Menge macht einen Unterschied.
+möglichst klein
+unsere Spanne ist zu klein
+ein kleiner Fehler hat sich eingeschlichen
+bereit mit kleiner Provision zu arbeiten
+ein kleiner Betrag
+ziemlich kleines Risiko
+Wie wärs mit einer kleinen Wette?
+durch einen kleinen Fehler
+sie unterrichtet die ganz Kleinen
+ein Großhändler packt Ware kleiner ab
+","Sie wollte es einfach nicht glauben.
+Es ist halt einfach so.
+ich bring es einfach nicht über mich
+Nimm einfach, was du brauchst.
+sing doch einfach mit!
+Es ist einfach nicht wahr.
+Du musst dir einfach eine Pause gönnen.
+Du musst den Film einfach sehen.
+Es war ganz einfach ein Missverständnis.
+So einfach ist das.
+So einfach ist das nicht!
+Ich habe heute einfach ein Brett vor dem Kopf.
+Es ist einfach eine Tatsache, dass ...
+durch einfache Übergabe
+","Ich heiße ...
+Es ging heiß her.
+Mir ist heiß.
+Es ist mächtig heiß.
+Es muss heißen ...
+Im letzten Sommer war es wirklich heiß.
+es heißt
+Wie heißt du?
+Wie heißt dieser Ort?
+es gab nur zeitweise heißes Wasser
+Sie heißt Myra.
+Meine Freundin, die in Paris lebt, heißt Julie.
+","Ich habe mir die Finger verbrannt.
+",None,"Es ging hart auf hart.
+",None
