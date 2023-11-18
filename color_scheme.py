@@ -30,54 +30,54 @@ colors_definitions = {
 
 # apples the colorscheme
 def colorize_text(df, scheme=None):
-  # reset eveything
-  df["color"] = colors_definitions["White"]
-  df["highlight"] = False
+    # reset eveything
+    df["color"] = colors_definitions["White"]
+    df["highlight"] = False
 
-  if scheme == "VERB":
-    df.loc[df["pos_"] == scheme, "color"] = colors_definitions[scheme]
-    df.loc[df["pos_"] == "AUX", "color"] = colors_definitions[scheme]
-    df.loc[df["pos_"] == scheme, "highlight"] = True
-    df.loc[df["pos_"] == "AUX", "highlight"] = True
+    if scheme == "VERB":
+        df.loc[df["pos_"] == scheme, "color"] = colors_definitions[scheme]
+        df.loc[df["pos_"] == "AUX", "color"] = colors_definitions[scheme]
+        df.loc[df["pos_"] == scheme, "highlight"] = True
+        df.loc[df["pos_"] == "AUX", "highlight"] = True
 
-  elif scheme == "NOUN":
-    df.loc[df["pos_"] == scheme, "color"] = colors_definitions["Undefined"]
-    df.loc[
-        (df["pos_"] == "NOUN")
-        & (df["morph_gender"].apply(lambda x: x == ["Masc"])),
-        "color",
-    ] = colors_definitions["Green"]
-    df.loc[
-        (df["pos_"] == "NOUN") & (df["morph_gender"].apply(lambda x: x == ["Fem"])),
-        "color",
-    ] = colors_definitions["Red"]
-    df.loc[
-        (df["pos_"] == "NOUN")
-        & (df["morph_gender"].apply(lambda x: x == ["Neut"])),
-        "color",
-    ] = colors_definitions["Blue"]
-    # highlight
-    df.loc[(df["pos_"] == "NOUN"), "highlight"] = True
+    elif scheme == "NOUN":
+        df.loc[df["pos_"] == scheme, "color"] = colors_definitions["Undefined"]
+        df.loc[
+            (df["pos_"] == "NOUN")
+            & (df["morph_gender"].apply(lambda x: x == ["Masc"])),
+            "color",
+        ] = colors_definitions["Green"]
+        df.loc[
+            (df["pos_"] == "NOUN") & (df["morph_gender"].apply(lambda x: x == ["Fem"])),
+            "color",
+        ] = colors_definitions["Red"]
+        df.loc[
+            (df["pos_"] == "NOUN")
+            & (df["morph_gender"].apply(lambda x: x == ["Neut"])),
+            "color",
+        ] = colors_definitions["Blue"]
+        # highlight
+        df.loc[(df["pos_"] == "NOUN"), "highlight"] = True
 
-  elif scheme == "ADJ":
-    df.loc[df["pos_"] == scheme, ["highlight", "color"]] = [
-        True,
-        colors_definitions[scheme],
-    ]
+    elif scheme == "ADJ":
+        df.loc[df["pos_"] == scheme, ["highlight", "color"]] = [
+            True,
+            colors_definitions[scheme],
+        ]
 
-  elif scheme == "ADV":
-    df.loc[df["pos_"] == scheme, ["highlight", "color"]] = [
-        True,
-        colors_definitions[scheme],
-    ]
+    elif scheme == "ADV":
+        df.loc[df["pos_"] == scheme, ["highlight", "color"]] = [
+            True,
+            colors_definitions[scheme],
+        ]
 
-  elif scheme == "PREP":
-    df.loc[
-        df["pos_"].isin(["CONJ", "CCONJ", "SCONJ", "INTJ", "ADP", "X"]),
-        ["highlight", "color"],
-    ] = [True, colors_definitions["CONJ"]]
+    elif scheme == "PREP":
+        df.loc[
+            df["pos_"].isin(["CONJ", "CCONJ", "SCONJ", "INTJ", "ADP", "X"]),
+            ["highlight", "color"],
+        ] = [True, colors_definitions["CONJ"]]
 
-  else:
-    df["color"] = df.apply(lambda x: colors_definitions[x["pos_"]], axis=1)
+    else:
+        df["color"] = df.apply(lambda x: colors_definitions[x["pos_"]], axis=1)
 
-  return df
+    return df

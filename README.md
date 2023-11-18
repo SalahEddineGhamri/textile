@@ -22,6 +22,10 @@ while reading the text
 - pip3 install bs4
 - pip3 install german_nouns
 
+```sh
+pip3 install -r requirements.txt
+```
+
 ## code format
 from within the src folder:
 ```sh

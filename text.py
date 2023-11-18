@@ -15,54 +15,54 @@ from text_agents import TextAgent
 # TODO: change this into a mutable object
 # TODO: add methods to store solutions status and read problem
 class Blackboard:
-  def __init__(self, input_path):
-    self.manager = dict()
-    stages = dict()
-    self.manager["text"] = None
-    self.manager["analyzed_text"] = None
+    def __init__(self, input_path):
+        self.manager = dict()
+        stages = dict()
+        self.manager["text"] = None
+        self.manager["analyzed_text"] = None
 
-    stages["input_read"] = None
-    stages["analyzed_input"] = None
-    stages["analyzed_nouns"] = None
-    stages["analyzed_verbs"] = None
-    stages["analyzed_adjectives"] = None
-    stages["analyzed_adverbs"] = None
-    stages["analyzed_prepositions"] = None
-    stages["anki_generation"] = "DONE"
+        stages["input_read"] = None
+        stages["analyzed_input"] = None
+        stages["analyzed_nouns"] = None
+        stages["analyzed_verbs"] = None
+        stages["analyzed_adjectives"] = None
+        stages["analyzed_adverbs"] = None
+        stages["analyzed_prepositions"] = None
+        stages["anki_generation"] = "DONE"
 
-    # stages: None - 'started' - 'done'
-    self.manager["stages"] = stages
+        # stages: None - 'started' - 'done'
+        self.manager["stages"] = stages
 
-    self.manager["stages"]["input_read"] = "STARTED"
-    with File(input_path, "r") as f:
-      self.manager["text"] = f.getData()
-      self.manager["stages"]["input_read"] = "DONE"
+        self.manager["stages"]["input_read"] = "STARTED"
+        with File(input_path, "r") as f:
+            self.manager["text"] = f.getData()
+            self.manager["stages"]["input_read"] = "DONE"
 
 
 class TextAnalyzer:
-  def __init__(self, blackboard):
-    self.agents = [
-        TextAgent(blackboard),
-        VerbsAgent(blackboard),
-        NounsAgent(blackboard),
-        AdjectivesAgent(blackboard),
-        AdverbsAgent(blackboard),
-        PrepositionsAgent(blackboard),
-        AnkiGenerationAgent(blackboard),
-    ]
+    def __init__(self, blackboard):
+        self.agents = [
+            TextAgent(blackboard),
+            VerbsAgent(blackboard),
+            NounsAgent(blackboard),
+            AdjectivesAgent(blackboard),
+            AdverbsAgent(blackboard),
+            PrepositionsAgent(blackboard),
+            AnkiGenerationAgent(blackboard),
+        ]
 
-    for agent in self.agents:
-      agent.start()
+        for agent in self.agents:
+            agent.start()
 
-  def join(self):
-    for agent in self.agents:
-      agent.join()
+    def join(self):
+        for agent in self.agents:
+            agent.join()
 
 
 if __name__ == "__main__":
-  blackboard = Blackboard(INPUT_PATH)
-  text_analyzer = TextAnalyzer(blackboard.manager)
+    blackboard = Blackboard(INPUT_PATH)
+    text_analyzer = TextAnalyzer(blackboard.manager)
 
-  while not all(value == "DONE" for value in blackboard.manager["stages"].values()):
-    print(blackboard.manager["stages"])
-    sleep(0.1)
+    while not all(value == "DONE" for value in blackboard.manager["stages"].values()):
+        print(blackboard.manager["stages"])
+        sleep(0.1)

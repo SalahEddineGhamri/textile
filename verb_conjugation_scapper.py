@@ -11,59 +11,59 @@ headers = {"User-Agent": user_agent}
 
 
 def verb_url(verb):
-  return url + verb
+    return url + verb
 
 
 def scrapp_for_verb(verb):
-  response = requests.get(verb_url(verb), headers=headers)
+    response = requests.get(verb_url(verb), headers=headers)
 
-  soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.text, "html.parser")
 
-  voices = [
-      "indicative_active",
-      "subjunctive_active",
-      "conditional_active",
-      "imperative_active",
-      "infinitive_participle_active",
-  ]
+    voices = [
+        "indicative_active",
+        "subjunctive_active",
+        "conditional_active",
+        "imperative_active",
+        "infinitive_participle_active",
+    ]
 
-  tenses = [
-      "Present",
-      "Imperfect",
-      "Perfect",
-      "Pluperfect",
-      "Future",
-      "FuturePerfect",
-      "InfinitiveI",
-      "InfinitiveII",
-      "ParticipleI",
-      "ParticipleII",
-  ]
+    tenses = [
+        "Present",
+        "Imperfect",
+        "Perfect",
+        "Pluperfect",
+        "Future",
+        "FuturePerfect",
+        "InfinitiveI",
+        "InfinitiveII",
+        "ParticipleI",
+        "ParticipleII",
+    ]
 
-  # init conjugation_dict
-  conjugation_dict = {}
-  for voice in voices:
-    for tense in tenses:
-      conjugation_dict[(voice, tense)] = {verb: None}
-
-  def fill_table(tense, table):
+    # init conjugation_dict
+    conjugation_dict = {}
     for voice in voices:
-      if conjugation_dict[(voice, tense)][verb] is None:
-        conjugation_dict[(voice, tense)][verb] = table
+        for tense in tenses:
+            conjugation_dict[(voice, tense)] = {verb: None}
 
-  for entry in soup.find_all("li"):
-    if entry.b is None:
-      continue
+    def fill_table(tense, table):
+        for voice in voices:
+            if conjugation_dict[(voice, tense)][verb] is None:
+                conjugation_dict[(voice, tense)][verb] = table
 
-    tag = entry.b.text.strip().replace(" ", "")
-    if tag in tenses:
-      text = entry.text.split(":")
-      text = text[1].replace("\n", " ").split(",")
-      text = "\n".join(text)
-      fill_table(tag, text)
+    for entry in soup.find_all("li"):
+        if entry.b is None:
+            continue
 
-  return conjugation_dict
+        tag = entry.b.text.strip().replace(" ", "")
+        if tag in tenses:
+            text = entry.text.split(":")
+            text = text[1].replace("\n", " ").split(",")
+            text = "\n".join(text)
+            fill_table(tag, text)
+
+    return conjugation_dict
 
 
 if __name__ == "__main__":
-  print(scrapp_for_verb("gesagt"))
+    print(scrapp_for_verb("gesagt"))
