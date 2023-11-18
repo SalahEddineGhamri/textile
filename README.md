@@ -1,7 +1,27 @@
-# textile
-Helper to learn sturdy german texts and extract vocabulary
-it show case grammer cases and help you remember the rules
-while reading the text
+# 🚧🚧🚧🚧🚧 Textile 🚧🚧🚧🚧🚧
+Textile is your ultimate companion for mastering robust German texts and building your vocabulary.
+It serves as a powerful tool that not only showcases grammar cases but also aids in reinforcing language rules while immersing yourself in the text.
+
+Textile uses the spaCy library for natural language processing,
+relying on the de_core_news_sm model provided by spaCy:
+- spaCy: Industrial-strength Natural Language Processing in Python.
+Explosion AI. Available at: https://spacy.io/.
+
+it is still under construction.
+
+## How it works?
+As you read through sturdy German texts,
+Textile enhances your learning experience by providing real-time assistance.
+It intelligently showcases grammar cases, explains word meanings, and offers insights into language rules.
+The extracted vocabulary becomes the foundation for personalized Anki flashcards, enabling you to reinforce your memory and grasp German language intricacies effortlessly.
+
+## Features
+- meaning of the words.
+- cases (nominative, accusative, dative or genitive).
+- gender of words.
+- tables of conjunction.
+- generates anki flashcards for later memorization.
+- builds an offline database.
 
 ## roadmap
 - input a text from a txt file
@@ -22,23 +42,36 @@ while reading the text
 - pip3 install bs4
 - pip3 install german_nouns
 
+```sh
+pip3 install -r requirements.txt
+python3 -m spacy download de_core_news_sm
+```
+
+## code format
+from within the src folder:
+```sh
+autopep8 --in-place --aggressive --aggressive --max-line-length 100 --indent-size 4 ./*.py
+# or
+python -m black .
+```
+
 ## categories of part of speech
-ADJ: adjective, e.g. big, old, green, incomprehensible, first
-ADP: adposition, e.g. in, to, during
-ADV: adverb, e.g. very, tomorrow, down, where, there
-AUX: auxiliary, e.g. is, has (done), will (do), should (do)
-CONJ: conjunction, e.g. and, or, but
-CCONJ: coordinating conjunction, e.g. and, or, but
-DET: determiner, e.g. a, an, the
-INTJ: interjection, e.g. psst, ouch, bravo, hello
-NOUN: noun, e.g. girl, cat, tree, air, beauty
-NUM: numeral, e.g. 1, 2017, one, seventy-seven, IV, MMXIV
-PART: particle, e.g. ’s, not,
-PRON: pronoun, e.g I, you, he, she, myself, themselves, somebody
-PROPN: proper noun, e.g. Mary, John, London, NATO, HBO
-PUNCT: punctuation, e.g. ., (, ), ?
-SCONJ: subordinating conjunction, e.g. if, while, that
-SYM: symbol, e.g. $, %, §, ©, +, −, ×, ÷, =, :), 😝
-VERB: verb, e.g. run, runs, running, eat, ate, eating
-X: other, e.g. sfpksdpsxmsa
-SPACE: space, e.g.
+- ADJ: adjective, e.g. big, old, green, incomprehensible, first
+- ADP: adposition, e.g. in, to, during
+- ADV: adverb, e.g. very, tomorrow, down, where, there
+- AUX: auxiliary, e.g. is, has (done), will (do), should (do)
+- CONJ: conjunction, e.g. and, or, but
+- CCONJ: coordinating conjunction, e.g. and, or, but
+- DET: determiner, e.g. a, an, the
+- INTJ: interjection, e.g. psst, ouch, bravo, hello
+- NOUN: noun, e.g. girl, cat, tree, air, beauty
+- NUM: numeral, e.g. 1, 2017, one, seventy-seven, IV, MMXIV
+- PART: particle, e.g. ’s, not,
+- PRON: pronoun, e.g I, you, he, she, myself, themselves, somebody
+- PROPN: proper noun, e.g. Mary, John, London, NATO, HBO
+- PUNCT: punctuation, e.g. ., (, ), ?
+- SCONJ: subordinating conjunction, e.g. if, while, that
+- SYM: symbol, e.g. $, %, §, ©, +, −, ×, ÷, =, :), 😝
+- VERB: verb, e.g. run, runs, running, eat, ate, eating
+- X: other, e.g. sfpksdpsxmsa
+- SPACE: space, e.g.
