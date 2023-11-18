@@ -9,6 +9,8 @@ Explosion AI. Available at: https://spacy.io/.
 
 it is still under construction.
 
+![Project Image](documentation/cool_image.png)
+
 ## How it works?
 As you read through sturdy German texts,
 Textile enhances your learning experience by providing real-time assistance.
