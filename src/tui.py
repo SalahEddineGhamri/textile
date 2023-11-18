@@ -3,8 +3,8 @@ from textual.app import App, ComposeResult
 from textual.widgets import TextLog
 from textual.widgets import Button
 from textual.containers import Container
-from bindings import bindings
-from config import INPUT_PATH
+from config.bindings import bindings
+from config.config import INPUT_PATH
 from text import Blackboard, TextAnalyzer
 
 # PROGRESS ------------------------------------------
@@ -73,7 +73,7 @@ class Butt(Button):
 class TextileApp(App):
     """A Textual app as inteface to textile."""
 
-    CSS_PATH = "TextileApp.css"
+    CSS_PATH = "css/TextileApp.css"
     BINDINGS = bindings
 
     # TODO: add redraw func

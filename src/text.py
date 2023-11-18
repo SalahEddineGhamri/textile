@@ -1,14 +1,16 @@
-from file_io import File
+from utils.file_io import File
 from rich import print
 from time import sleep
-from config import INPUT_PATH
-from anki_generation_agent import AnkiGenerationAgent
-from verbs_agents import VerbsAgent
-from nouns_agents import NounsAgent
-from adjectives_agents import AdjectivesAgent
-from adverbs_agents import AdverbsAgent
-from prepositions_agents import PrepositionsAgent
-from text_agents import TextAgent
+from config.config import INPUT_PATH
+
+# call agents
+from agents.anki_generation_agent import AnkiGenerationAgent
+from agents.verbs_agents import VerbsAgent
+from agents.nouns_agents import NounsAgent
+from agents.adjectives_agents import AdjectivesAgent
+from agents.adverbs_agents import AdverbsAgent
+from agents.prepositions_agents import PrepositionsAgent
+from agents.text_agents import TextAgent
 
 
 # TODO: add protection with locks

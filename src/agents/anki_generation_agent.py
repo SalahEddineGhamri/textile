@@ -1,14 +1,14 @@
 from time import sleep
-from anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
-from config import INPUT_PATH, ANKI_PATH
+from anki.anki_generator import AnkiGenerator, VerbNote, NounNote, GeneralNote
+from config.config import INPUT_PATH, ANKI_PATH
 
 # TODO turn caches into singeltons
-from nouns_table import NOUN_CACHE
-from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
-from adjectives_table import ADJECTIVES_CACHE
-from adverbs_table import ADVERBS_CACHE
-from prepositions_table import PREPOSITIONS_CACHE
-from nouns_agents import split_hyphenated_string
+from tables.nouns_table import NOUN_CACHE
+from tables.verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
+from tables.adjectives_table import ADJECTIVES_CACHE
+from tables.adverbs_table import ADVERBS_CACHE
+from tables.prepositions_table import PREPOSITIONS_CACHE
+from agents.nouns_agents import split_hyphenated_string
 from threading import Thread
 
 
@@ -81,7 +81,7 @@ class AnkiGenerationAgent(Thread):
     def __init__(self, blackboard):
         super().__init__()
         self.blackboard = blackboard
-        deck_name = INPUT_PATH.split("/")[-1].split(".")[0]
+        deck_name = INPUT_PATH.name.split("/")[-1].split(".")[0]
         self.anki_generator = AnkiGenerator(deck_name)
 
     def refresh_cache(self):

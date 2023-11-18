@@ -1,6 +1,6 @@
-from color_scheme import colorize_text, colors_definitions
+from config.color_scheme import colorize_text, colors_definitions
 from threading import Thread
-from verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
+from tables.verbs_table import VERBS_MEANING_CACHE, VERBS_CONJUGATION_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep

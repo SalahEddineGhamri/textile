@@ -1,6 +1,6 @@
 import spacy
 import pandas as pd
-from color_scheme import colors_definitions
+from config.color_scheme import colors_definitions
 from threading import Thread
 
 

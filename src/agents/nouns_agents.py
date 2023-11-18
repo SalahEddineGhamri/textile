@@ -1,9 +1,9 @@
-from color_scheme import colorize_text, colors_definitions
+from config.color_scheme import colorize_text, colors_definitions
 from threading import Thread
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
-from nouns_table import NOUN_CACHE
+from tables.nouns_table import NOUN_CACHE
 
 
 def split_hyphenated_string(s):

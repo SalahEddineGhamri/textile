@@ -1,17 +1,17 @@
-# contains a cache for nouns
+# adjectives in all forms
 import warnings
 import pandas as pd
-from config import NOUNS_CACHE_FILE
-from words_meanings_scrapper import nouns_definition_parser
+from config.config import ADJECTIVES_CACHE_FILE
+from scrappers.words_meanings_scrapper import nouns_definition_parser
 import time
 import random
-import sys
 from threading import Lock
 
+# TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
 
-class NounsCache(pd.DataFrame):
+class AdjectivesCache(pd.DataFrame):
     aspects = [
         "basic_forms",
         "verbs",
@@ -29,25 +29,20 @@ class NounsCache(pd.DataFrame):
     )
 
     def __init__(self):
-        # get nouns cache
-        if not NOUNS_CACHE_FILE.exists():
+        if not ADJECTIVES_CACHE_FILE.exists():
             super().__init__(index=self.index)
         else:
             super().__init__(
-                pd.read_csv(NOUNS_CACHE_FILE, index_col=["aspects", "language"])
+                pd.read_csv(ADJECTIVES_CACHE_FILE, index_col=["aspects", "language"])
             )
 
         self.fillna(value="None", inplace=True)
         self.lock = Lock()
 
-    def delete_noun(self, noun):
-        with self.lock:
-            self.drop(noun, axis=1, inplace=True)
-
     def refresh_cache(self):
         with self.lock:
             self.update(
-                pd.read_csv(NOUNS_CACHE_FILE, index_col=["aspects", "language"])
+                pd.read_csv(ADJECTIVES_CACHE_FILE, index_col=["aspects", "language"])
             )
 
     def cache(self):
@@ -55,24 +50,22 @@ class NounsCache(pd.DataFrame):
             try:
                 if super().empty:
                     return False
-                if not NOUNS_CACHE_FILE:
+                if not ADJECTIVES_CACHE_FILE:
                     return False
-                super().to_csv(NOUNS_CACHE_FILE, index=True)
+                super().to_csv(ADJECTIVES_CACHE_FILE, index=True)
                 return True
-            except Exception as e:
+            except Exception:
                 return False
 
     def __getitem__(self, key):
-        if key in self.columns:
+        try:
             return super().__getitem__(key)
-        else:
+        except KeyError:
             with self.lock:
-                if not isinstance(key, str):
-                    return None
-
                 sleep_interval = random.uniform(0.1, 2)
                 time.sleep(sleep_interval)
-                new_noun = nouns_definition_parser("nouns_table", key)
+
+                new_noun = nouns_definition_parser("adjectives_table", key)
 
                 if new_noun is not None:
                     self[key] = pd.Series(index=self.index, dtype="object")
@@ -85,9 +78,10 @@ class NounsCache(pd.DataFrame):
                     return None
 
 
-NOUN_CACHE = NounsCache()
+ADJECTIVES_CACHE = AdjectivesCache()
 
 if __name__ == "__main__":
-    word = sys.argv[1]
-    noun_cache = NounsCache()
-    print(noun_cache[word])
+    adjective_cache = AdjectivesCache()
+    df = adjective_cache["schön"]
+    print(df)
+    adjective_cache.cache()

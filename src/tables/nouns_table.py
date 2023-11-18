@@ -1,18 +1,17 @@
-# prepositions in all forms
+# contains a cache for nouns
 import warnings
 import pandas as pd
-from config import PREPOSITIONS_CACHE_FILE
-from words_meanings_scrapper import nouns_definition_parser
+from config.config import NOUNS_CACHE_FILE
+from scrappers.words_meanings_scrapper import nouns_definition_parser
 import time
 import random
-from threading import Lock
 import sys
+from threading import Lock
 
-# TODO: investigate the pandas performance issues later on
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
 
-class PrepositionsCache(pd.DataFrame):
+class NounsCache(pd.DataFrame):
     aspects = [
         "basic_forms",
         "verbs",
@@ -30,18 +29,25 @@ class PrepositionsCache(pd.DataFrame):
     )
 
     def __init__(self):
-        if not PREPOSITIONS_CACHE_FILE.exists():
+        # get nouns cache
+        if not NOUNS_CACHE_FILE.exists():
             super().__init__(index=self.index)
         else:
             super().__init__(
-                pd.read_csv(PREPOSITIONS_CACHE_FILE, index_col=["aspects", "language"])
+                pd.read_csv(NOUNS_CACHE_FILE, index_col=["aspects", "language"])
             )
+
+        self.fillna(value="None", inplace=True)
         self.lock = Lock()
+
+    def delete_noun(self, noun):
+        with self.lock:
+            self.drop(noun, axis=1, inplace=True)
 
     def refresh_cache(self):
         with self.lock:
             self.update(
-                pd.read_csv(PREPOSITIONS_CACHE_FILE, index_col=["aspects", "language"])
+                pd.read_csv(NOUNS_CACHE_FILE, index_col=["aspects", "language"])
             )
 
     def cache(self):
@@ -49,11 +55,11 @@ class PrepositionsCache(pd.DataFrame):
             try:
                 if super().empty:
                     return False
-                if not PREPOSITIONS_CACHE_FILE:
+                if not NOUNS_CACHE_FILE:
                     return False
-                super().to_csv(PREPOSITIONS_CACHE_FILE, index=True)
+                super().to_csv(NOUNS_CACHE_FILE, index=True)
                 return True
-            except Exception:
+            except Exception as e:
                 return False
 
     def __getitem__(self, key):
@@ -61,10 +67,12 @@ class PrepositionsCache(pd.DataFrame):
             return super().__getitem__(key)
         else:
             with self.lock:
-                sleep_interval = random.uniform(0.1, 1)
-                time.sleep(sleep_interval)
+                if not isinstance(key, str):
+                    return None
 
-                new_noun = nouns_definition_parser("prepositions_table", key)
+                sleep_interval = random.uniform(0.1, 2)
+                time.sleep(sleep_interval)
+                new_noun = nouns_definition_parser("nouns_table", key)
 
                 if new_noun is not None:
                     self[key] = pd.Series(index=self.index, dtype="object")
@@ -72,17 +80,14 @@ class PrepositionsCache(pd.DataFrame):
                         if languages is not None:
                             self.loc[(aspect, "english"), key] = languages[0]
                             self.loc[(aspect, "german"), key] = languages[1]
-                    self.to_csv(PREPOSITIONS_CACHE_FILE, index=True)
                     return super().loc[(slice(None), slice(None)), key]
                 else:
                     return None
 
 
-PREPOSITIONS_CACHE = PrepositionsCache()
+NOUN_CACHE = NounsCache()
 
 if __name__ == "__main__":
     word = sys.argv[1]
-    preposition_cache = PrepositionsCache()
-    df = preposition_cache[word]
-    print(df)
-    preposition_cache.cache()
+    noun_cache = NounsCache()
+    print(noun_cache[word])

@@ -1,6 +1,6 @@
-from color_scheme import colorize_text, colors_definitions
+from config.color_scheme import colorize_text, colors_definitions
 from threading import Thread
-from prepositions_table import PREPOSITIONS_CACHE
+from tables.prepositions_table import PREPOSITIONS_CACHE
 from rich.table import Table
 from rich.text import Text, Style
 from time import sleep

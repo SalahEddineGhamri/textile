@@ -1,9 +1,9 @@
 # contains a cache for verbs
 import warnings
 import pandas as pd
-from config import VERBS_CONJUGATION_CACHE_FILE, VERBS_MEANING_CACHE_FILE
-from verb_conjugation_scapper import scrapp_for_verb
-from words_meanings_scrapper import nouns_definition_parser
+from config.config import VERBS_CONJUGATION_CACHE_FILE, VERBS_MEANING_CACHE_FILE
+from scrappers.verb_conjugation_scapper import scrapp_for_verb
+from scrappers.words_meanings_scrapper import nouns_definition_parser
 import time
 import random
 from threading import Lock

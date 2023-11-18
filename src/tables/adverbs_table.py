@@ -1,8 +1,8 @@
 # adverbs in all forms
 import warnings
 import pandas as pd
-from config import ADVERBS_CACHE_FILE
-from words_meanings_scrapper import nouns_definition_parser
+from config.config import ADVERBS_CACHE_FILE
+from scrappers.words_meanings_scrapper import nouns_definition_parser
 import time
 import random
 from threading import Lock
