@@ -2,7 +2,7 @@
 import warnings
 import pandas as pd
 from config.config import PREPOSITIONS_CACHE_FILE
-from scrappers.words_meanings_scrapper import nouns_definition_parser
+from scrapers.words_meanings_scraper import nouns_definition_parser
 import time
 import random
 from threading import Lock

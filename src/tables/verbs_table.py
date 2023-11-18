@@ -2,8 +2,8 @@
 import warnings
 import pandas as pd
 from config.config import VERBS_CONJUGATION_CACHE_FILE, VERBS_MEANING_CACHE_FILE
-from scrappers.verb_conjugation_scapper import scrapp_for_verb
-from scrappers.words_meanings_scrapper import nouns_definition_parser
+from scrapers.verb_conjugation_scaper import scrap_for_verb
+from scrapers.words_meanings_scraper import nouns_definition_parser
 import time
 import random
 from threading import Lock
@@ -135,7 +135,7 @@ class VerbsConjugationCache(pd.DataFrame):
             with self.lock:
                 sleep_interval = random.uniform(0.1, 0.4)
                 time.sleep(sleep_interval)
-                new_verb = scrapp_for_verb(key)
+                new_verb = scrap_for_verb(key)
                 self[key] = pd.Series(index=self.index, dtype="object")
                 for (voice, tense), values in new_verb.items():
                     if values[key] is not None:

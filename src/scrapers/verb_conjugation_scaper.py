@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# TODO: scrapper must state if None is returned
+# TODO: scraper must state if None is returned
 
 # Construct the URL to search for the verb
 url = "https://www.verbformen.com/conjugation/?w="
@@ -14,7 +14,7 @@ def verb_url(verb):
     return url + verb
 
 
-def scrapp_for_verb(verb):
+def scrap_for_verb(verb):
     response = requests.get(verb_url(verb), headers=headers)
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -66,4 +66,4 @@ def scrapp_for_verb(verb):
 
 
 if __name__ == "__main__":
-    print(scrapp_for_verb("gesagt"))
+    print(scrap_for_verb("gesagt"))

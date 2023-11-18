@@ -11,7 +11,7 @@ from config.config import BLACKLIST_CACHE_FILE
 # https://www.dict.cc/?s=Mitgliedsl%C3%A4nder
 from threading import Lock
 
-nouns_scrapper_lock = Lock()
+nouns_scraper_lock = Lock()
 
 
 # TODO: protect with lock
@@ -136,7 +136,7 @@ def extract_noun_details(entry):
 
 
 def nouns_definition_parser(caller, word):
-    with nouns_scrapper_lock:
+    with nouns_scraper_lock:
         if word + f"<{caller}>" in BLACKLIST["word"].values:
             return None
         print(f"[[ ALERT ]] parsing ... {word} for {caller}")
