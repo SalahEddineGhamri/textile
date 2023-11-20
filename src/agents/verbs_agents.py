@@ -189,6 +189,7 @@ class VerbsAgent(Thread):
 
             # verbs conjugation
             conj_tables = verb_conjugation_cache[verb]["indicative_active"]
+            # TODO value must be of dtype compatible
             conj_tables.fillna(value="None", inplace=True)
             table = Table()
             table.add_column("Present", justify="left", no_wrap=False)
