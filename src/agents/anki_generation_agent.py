@@ -113,6 +113,7 @@ class AnkiGenerationAgent(Thread):
         for noun in nouns:
             nc = NOUN_CACHE[noun]
             if nc is not None:
+                #TODO use nc.iloc["nouns"]["english"]
                 if nc["nouns"]["english"] != "None" and nc["noun_details"][0] != "None":
                     inputs = list(extract_info(noun, nc["noun_details"]).values())
                     if all(inputs) != "":

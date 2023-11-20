@@ -1,9 +1,9 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
-",,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -116,7 +116,21 @@ to face | faced, faced |
 to glare at so. defiantly
 to glare at so. in defiance
 ","to not do sth. after all
-",
+",,,,"to assort sth. | assorted, assorted |
+to vote separately
+",,,,,,,"to expect (that ...) | expected, expected |
+to reckon | reckoned, reckoned |
+to lump it
+to vaunt that ...
+to busy oneself doing sth.
+to settle for doing sth.
+to be content to do sth.
+to figure on doing sth.
+to resign oneself to doing sth.
+to be busy doing sth.
+to amuse oneself by doing sth.
+to join the dots
+"
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -229,7 +243,21 @@ Trotz bieten | bot, geboten |
 jmdn. voller Trotz anschauen
 jmdn. voller Trotz anschauen
 ","etwas doch nicht tun
-",
+",,,,"etw.acc. sondern | sonderte, gesondert |
+gesondert abstimmen
+",,,,,,,"damit rechnen (, dass ...)
+damit rechnen
+sichacc. damit abfinden
+sichacc. damit brüsten, dass ...
+sichacc. damit beschäftigen, etw.acc. zu tun
+sichacc. damit zufriedengeben, etw.acc. zu tun
+sichacc. damit zufriedengeben, etw.acc. zu tun
+damit rechnen, etw.acc. zu tun
+sichacc. damit abfinden, etw.acc. zu tun
+damit beschäftigt sein, etw.acc. zu tun
+sichacc. damit belustigen, etw.acc. zu tun
+Punkte verbinden, damit ein Bild entsteht
+"
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -730,7 +758,87 @@ sulkiness
 in the teeth of sth. - notwithstanding
 defiantness rare
 frowardness archaic
-",,
+",,,"overseas
+intracranial locatedness [TECH.]
+picture-in-picture function [TECH.]
+sound on vision [TELECOM.]
+prepopulated field
+cookout (Amer.)
+foreign borrowing
+checksAE payable abroad [FINAN.]chequesBE payable abroad [FINAN.]
+actual authority
+pre-election
+sheltered installation
+travelingAE abroadtravellingBE abroad
+master's level classes
+devil-in-the-bush [BOT.]
+","anger (at sth.)
+anger (at sth.)
+anger (at sth.)
+at sign [COMP.]
+at sign [COMP.]
+at symbol [COMP.]
+at symbol [COMP.]
+AT motor [TECH.]
+at-home or: at home dated
+dig (at so.) - mocking remark
+revulsion (at)
+displeasure (at (or: with) so.)
+excellence at
+Research Center in Spatial Economics at the University of Fribourg [abbr.: CRESUF]
+",,"Na-form [CHEM.]
+Na-form [CHEM.]
+Na-X powder [CHEM.]
+soda granite [GEOL.]
+soda series [CHEM.]
+","being-toward-death [PHILOS.]
+time to creep rupture
+time to chopping [ELEC.]
+service stop [TECH.]
+time to crest - of a switching impulse [ELEC.]
+fatigue life [TECH.]
+total life to failure [TECH.]
+rupture life [TECH.]
+time to failure [TECH.]
+boxing
+close cribbing [TECH.]
+close timbering [TECH.]
+close set timber [TECH.]
+close joint timbering [TECH.]
+","protection (against (or: from) sth.)
+fear (of sth.)
+fear (of sth.)
+respect (for sth.)
+respect (for sth.)
+security (against)
+before meals [MED.] [PHARM.]
+first responder
+reverence (for so./sth.)
+veneration (for so./sth.) - reverence
+respect (for sth.)
+revulsion (at)
+on-site operation
+on-site installation
+","to-date [FINAN.]
+bis-hydroxyethyl sulfoneAE [CHEM.]bis-hydroxyethyl sulphoneBE [CHEM.]
+in over your head
+BIS equity ratio [FINAN.]
+remaining cost (or: costs) to completion [FINAN.]
+time to creep rupture
+term of maturity
+term of payment
+time to chopping [ELEC.]
+service stop [TECH.]
+time to crest - of a switching impulse [ELEC.]
+fatigue life [TECH.]
+total life to failure [TECH.]
+rupture life [TECH.]
+","OB vehicle [TECH.]
+as-if basis [INSUR.]
+purely hypothetical approach [INSUR.]
+","mineral depletion
+","the risk involved
+"
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
@@ -1231,7 +1339,87 @@ der Trotz no plural
 etw.dat. zum Trotz
 der Trotz no plural
 der Trotz no plural
-",,
+",,,"im Ausland
+die Im-Kopf-Lokalisiertheit pl. [abbr.: IKL] [Acoustics]
+die Bild-im-Bild-Funktion
+das Ton-im-Bild
+im Voraus ausgefülltes Feld
+im Freien zubereitetes Essen
+im Ausland aufgenommenes Geld
+im Ausland zahlbare Wechsel [Banking]
+Vertretungsmacht im Einzelfall
+Auswahl im Voraus
+geschützte Anlage im Freien
+Reisen im Ausland
+Unterricht im Rahmen eines Magisterstudiengangs
+Jungfer im Grünen Lat.: Nigella damascena
+","die Wut (über etw.acc.) no plural
+der Zorn (über etw.acc.) no plural
+der Ärger (über etw.acc.) no plural
+der Klammeraffe pl.: die Klammeraffen [coll.] symbol: @
+das At-Zeichen pl.: die At-Zeichen [coll.] symbol: @
+das At-Zeichen pl.: die At-Zeichen [coll.] symbol: @
+der Klammeraffe pl.: die Klammeraffen [coll.] symbol: @
+der AT-Motor pl.: die AT-Motoren
+der Jour fixe
+die Spitze (gegen jmdn.) pl.: die Spitzen
+der Ekel (vor) no plural
+die Unzufriedenheit (mit etw.dat.) pl.
+hervorragende Leistung bei
+Forschungsstelle für Raumwirtschaft der Universität Freiburg [abbr.: FRUF]
+",,"die Na-Form
+die Natriumform pl.: die Natriumformen
+das Na-X-Pulver
+der Na-Granit
+die Na-Reihe
+","das Sein-zum-Tode - Heidegger
+Zeit bis zum Zeitstandbruch
+Dauer bis zum Abschneiden
+Betriebsbremsung bis zum Stillstand
+Dauer bis zum Scheitel - einer Schaltstoßspannung
+Ermüdungslebensdauer bis zum Dauerbruch
+Gesamtlebensdauer bis zum Bruch
+Lebensdauer bis zum Bruch
+Zeitspanne bis zum Ausfall
+Zimmerung bis zum Stoß
+Zimmerung bis zum Stoß
+Zimmerung bis zum Stoß
+Zimmerung bis zum Stoß
+Zimmerung bis zum Stoß
+","der Schutz (vor etw.dat.) pl.
+die Angst (vor etw.dat.) pl.: die Ängste
+die Furcht (vor etw.dat.) no plural
+der Respekt (vor etw.dat.) no plural
+die Achtung (vor etw.dat.) no plural
+der Schutz (vor) no plural
+vor den Mahlzeiten
+Helfer vor Ort [abbr.: HvO]
+die Ehrfurcht (vor jmdm./etw.) no plural
+die Ehrfurcht (vor jmdm./etw.) no plural
+die Hochachtung (vor etw.dat.) no plural
+der Ekel (vor) no plural
+der Vor-Ort-Einsatz
+die Vor-Ort-Installation pl.: die Vor-Ort-Installationen
+","das Bis-Datum pl.: die Bis-Daten [Bookkeeping]
+das Bis-Hydroxyäthylsulfon
+bis über den Kopf
+die BIZ-Eigenkapitalquote pl.: die BIZ-Eigenkapitalquoten
+bis zur Fertigstellung anfallende Kosten pl., no sg.
+Zeit bis zum Zeitstandbruch
+Dauer bis zur Fälligkeit
+Frist bis zur Fälligkeit der Zahlung
+Dauer bis zum Abschneiden
+Betriebsbremsung bis zum Stillstand
+Dauer bis zum Scheitel - einer Schaltstoßspannung
+Ermüdungslebensdauer bis zum Dauerbruch
+Gesamtlebensdauer bis zum Bruch
+Lebensdauer bis zum Bruch
+","der Ü-Wagen
+die Als-ob-Basis
+die Als-ob-Betrachtung
+","Zur-Neige-Gehen von Mineralien
+","die damit verbundenen Risiken pl.
+"
 noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
@@ -1502,8 +1690,62 @@ genus: MASC
 plural: plural
 meaning: defiance
 petulance
-",,
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,"article: Der
+word: IM
+genus: 
+plural: IMs
+meaning: overseas
+intracranial locatedness [TECH.]
+","article: die
+word: Wut
+genus: FEMI
+plural: plural
+meaning: anger (at sth.)
+anger (at sth.)
+",,"article: die
+word: Na-Form
+genus: FEMI
+plural: Na-Form
+meaning: Na-form [CHEM.]
+Na-form [CHEM.]
+","article: das
+word: Sein-zum-Tode
+genus: NEUT
+plural: Heidegger
+meaning: being-toward-death [PHILOS.]
+time to creep rupture
+","article: der
+word: Schutz
+genus: MASC
+plural: 
+meaning: protection (against (or: from) sth.)
+fear (of sth.)
+","article: das
+word: Bis-Datum
+genus: NEUT
+plural: die Bis-Daten [Bookkeeping]
+meaning: to-date [FINAN.]
+bis-hydroxyethyl sulfoneAE [CHEM.]bis-hydroxyethyl sulphoneBE [CHEM.]
+","article: Der
+word: Ob
+genus: MASC
+plural: Ü-Wagen
+meaning: OB vehicle [TECH.]
+as-if basis [INSUR.]
+","article: Zur-Neige-Gehen
+word: von
+genus: 
+plural: Mineralien
+meaning: mineral depletion
+
+","article: die
+word: damit
+genus: FEMI
+plural: 
+meaning: the risk involved
+
+"
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -2018,7 +2260,84 @@ but for all that
 ","still adv.
 after all
 after all
-",
+",,"in case of doubt
+abroad - in a foreign country adv.
+generally adv.
+normally adv.
+usually adv.
+outdoors adv.
+essentially adv.
+basically adv.
+commonly adv.
+at large
+in general
+generally speaking
+at the moment
+right now
+","at least
+at least
+at least
+at once
+at once
+at once
+at all
+at home
+at last
+at home
+at first
+at the bottom
+at the top
+at least
+",,,"on the one hand
+brimmed adj.
+down to the present day
+up to date
+by specified date
+ad nauseam
+full to overflowing
+until the date specified
+as far as it will go
+up to the date of maturity
+up to the due date
+by the time stipulated
+from start to finish
+by the end of this century
+","forward or: forwards adv.
+ahead adv.
+especially adv.
+primarily adv.
+particularly adv.
+mainly adv.
+recently adv.
+local adj.
+most notably
+first of all
+chiefly adv.
+in the first instance
+a short while ago
+a short time ago
+","till adv. conj.
+to date
+till this day
+to this day
+so far
+to date
+as yet
+till now
+until now
+up to the present
+till then
+until then
+by then
+by the end of the year
+","as though nothing had happened
+as though nothing had happened
+","for a change
+","thereby adv.
+therewith adv. archaic also [form.]
+for this reason
+with it
+"
 adjectives_or_adverbs,german,"hinein
 herein
 in [sl.]
@@ -2533,7 +2852,84 @@ trotz alledem
 ","doch
 doch
 also doch
-",
+",,"im Zweifelsfall (or: Zweifelsfalle)
+im Ausland
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Freien
+im Grunde
+im Grunde
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Allgemeinen [abbr.: i. Allg.]
+im Augenblick
+im Augenblick
+","wenigstens adv.
+mindestens adv.
+zumindest adv.
+sofort adv.
+auf einmal
+gleichzeitig
+überhaupt
+zu Hause or: zuhause
+endlich
+daheim (Southern Germany; Austria)
+zuerst
+unten
+oben
+immerhin - wenigstens adv.
+",,,"zum einen
+voll bis zum Rand
+bis zum heutigen Tag
+bis zum heutigen Tag
+bis zum angegebenen Datum
+bis zum Überdruss
+voll bis zum Rand (or: Rande)
+bis zum angegebenen Tag
+bis zum Anschlag
+bis zum Fälligkeitstag
+bis zum Fälligkeitstermin
+bis zum festgelegten Termin
+vom Anfang bis zum Ende
+bis zum Ende des Jahrhunderts
+","vor
+vor
+vor allem
+vor allem
+vor allem
+vor allem
+vor Kurzem (or: kurzem)
+vor Ort
+vor allem
+vor allem
+vor allem
+vor allem
+vor Kurzem (or: kurzem)
+vor Kurzem (or: kurzem)
+","bis
+bis heute
+bis heute
+bis heute
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis jetzt
+bis dahin
+bis dahin
+bis dahin
+bis Jahresende
+","als ob nichts geschehen wäre
+als ob nichts passiert wäre
+","zur Abwechslung
+","damit
+damit
+damit
+damit adv.
+"
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
 All right!
@@ -3074,7 +3470,118 @@ Spare his blushes!
 Come off it! - used to tell so. to stop doing or saying sth.
 that's just the point
 Do you mind? - ironic
-",
+",,"in a blink
+by delegation to [abbr.: p. p., per pro.]
+per procurationem [abbr.: p. p., per pro.]
+through the agency of [abbr.: p. p., per pro.]
+No kidding!
+for the purposes of
+in the heat of the moment [LAW]
+In wine there is truth.
+in the face of death
+in the far north
+with the passage of time
+with the passage of time
+not out of the question
+to the extent permitted by law [LAW]
+","Not at all.
+Not at all.
+at dinnertime
+at dinnertime
+at what?
+at the outset
+at a stretch
+at the coalface
+at the coalface
+at a price
+At ease! [MIL.]
+At ease! [MIL.]
+at pressure (Amer.) [SPORT.]
+at the money [FINAN.]
+",,"well
+why - exclamation
+So what?
+So?
+Who cares?
+well
+There!
+Sure!
+Oh well!
+I told you so! - indignantly
+Very well then.
+Fair enough.
+Well then!
+Fair enough.
+","To your health!
+Sod it! (Brit.) [sl.]
+Slainte! (Scot.; Ire.) - drinking toast; ""slainte"" = ""health"" in Gaelic
+Hang it all! [coll.]
+To waist, to shoulder, overhead. [SPORT.]
+ad nauseam
+ad nauseam
+to beat the band chiefly (Amer.)
+unless proven otherwise
+down to the wire
+until the age of 12/18 ...
+from here to hell's half acre and back
+until the cows come home [coll.]
+It's enough to drive you up the wall. [coll.] [fig.]
+","Play up! [coll.] [SPORT.]
+but most importantly
+before Christ [abbr.: B. C.]
+before the Common Era [abbr.: BCE]
+at the coalface
+before the Common Era [abbr.: B. C. E., BCE]
+before setting off on a journey
+on the doorstep
+before exceptional items [COMM.]
+Lead on!
+a day/a week shy of sth. - an event [coll.] chiefly (Amer.)
+shake well before using
+shake well before use
+The law is no respecter of persons.
+","See you soon!
+Bye for now!
+See you later!
+So long!
+Cheers!
+See you tomorrow!
+See you later!
+See you, then!
+See you on Monday!
+by ...
+Hooroo! or: Hooray [coll.] (Aust.)
+term expires [FINAN.]
+ad nauseam
+ad nauseam
+","You bet!
+Rather! (Brit.) [coll.]
+Don't I know it!
+it's a moot point whether ... (Brit.)
+it's a moot question whether ... (Brit.)
+it was a toss-up whether ...
+it is still written in the stars whether ...
+it is still written in the stars whether ...
+time will tell if ...
+time will tell if ...
+Put that in your pipe and smoke it.
+","Please note:
+Heck!
+","..., period. [coll.]
+and that's that. [coll.]
+Bring it on!
+Get rid of it!
+Put it away!
+There's an end of it!
+Out with it! [coll.]
+Hence with it! archaic
+lest we forget
+Nothing doing!
+for your information - indignantly
+That cuts no ice with me.
+That cuts no ice with me.
+It's nothing to write home about.
+"
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
 In Ordnung!
@@ -3615,7 +4122,118 @@ Bringen Sie ihn doch nicht in Verlegenheit!
 Jetzt hör doch mal auf!
 darum geht's doch gerade
 Ich muss doch sehr bitten!
-",
+",,"im Nu
+im Auftrag [abbr.: i. A.]
+im Auftrag [abbr.: i. A.]
+im Auftrag [abbr.: i. A.]
+Im Ernst!
+im Rahmen
+im Affekt
+Im Wein liegt (die) Wahrheit. - Latein: in vino veritas
+im Angesicht des Todes
+im hohen Norden
+im Lauf der Zeit
+im Verlauf der Zeit
+im Rahmen der Möglichkeiten
+im Rahmen des rechtlich Möglichen und Zulässigen
+","Keine Ursache.
+Bitte!
+zur Essenszeit
+zur Tischzeit
+wobei?
+vorweg
+wenn es sein muss
+auf der Arbeitsebene
+vor Ort
+wenn man das nötige Kleingeld hat
+Rührt euch!
+Stehen Sie bequem!
+mit Druck [Rowing]
+am Geld
+",,"na
+na
+Na und?
+Na und?
+Na und?
+na ja
+Na also!
+Na klar!
+Na ja!
+Na bitte!
+Na gut!
+Na gut.
+Na dann!
+Na schön!
+","Zum Wohl!
+Zum Teufel!
+Zum Wohl!
+Zum Henker damit!
+Zum Bauch, auf die Schulter, über Kopf - Ruderkommando
+bis zum Erbrechen
+bis zum Gehtnichtmehr
+bis zum Gehtnichtmehr
+bis zum Beweis des Gegenteils
+bis zum letzten Augenblick
+bis zum vollendeten 12./18. ... Lebensjahr
+bis zum Mond und zurück
+bis zum Gehtnichtmehr
+Es ist zum Mäusemelken. [coll.] [fig.]
+","Vor!
+vor allem
+vor Christus [abbr.: v. Chr.]
+vor Christus [abbr.: v. Chr.]
+vor Ort
+vor unserer Zeitrechnung [abbr.: v. u. Z.]
+vor Fahrtbeginn
+vor der Haustür
+vor Sonderposten
+Geh vor!
+einen Tag/eine Woche vor etw.dat. - einem Ereignis
+vor Gebrauch gut schütteln
+vor Gebrauch gut schütteln
+Vor dem Gesetz sind alle gleich.
+","Bis bald!
+Bis bald!
+Bis dann!
+Bis dann!
+Bis dann!
+Bis morgen!
+Bis später!
+Bis später!
+Bis Montag!
+bis spätestens ...
+Bis dann!
+bestellt bis
+bis zum Erbrechen
+bis zum Gehtnichtmehr
+","Und ob!
+Und ob!
+Und ob ich es weiß!
+es ist noch fraglich, ob ...
+es ist noch fraglich, ob ...
+es war völlig offen, ob ...
+es steht noch in den Sternen geschrieben, ob ...
+es steht noch in den Sternen, ob ...
+es wird sich herausstellen, ob ...
+die Zukunft wird zeigen, ob ...
+So ist es, ob's dir passt oder nicht!
+","Zur Beachtung:
+Zur Hölle!
+","..., und damit Punktum!
+..., und damit Punktum!
+Her damit!
+Weg damit!
+Weg damit!
+Schluss damit!
+Heraus damit! [coll.]
+Hinweg damit! dated
+damit wir nicht vergessen
+Damit ist's Essig!
+damit Sie es wissen
+Damit kann man bei mir nicht landen.
+Damit können Sie bei mir nicht landen.
+Damit lockt man keinen Hund hinter dem Ofen hervor.
+"
 examples,english,"in English
 in 1999
 in England
@@ -4268,6 +4886,118 @@ on examining the goods
 He has been to see the doctor.
 personal bias in reading analogAE instrumentspersonal bias in reading analogueBE instruments
 very particular about the price
+","in his sleep
+during the course of the day
+in the office
+in an ivory tower
+in January
+in option dealing [FINAN.]
+within a radius of 5 km
+It was a busy day at the office today.
+on behalf of the client
+in the German-speaking parts of the world
+in the Frankfurt area
+during the course of the day
+in the course of the day
+over the course of the day
+","at 17
+at the bookseller's
+at the earliest
+at the pawnbroker's
+at my cost
+at your leisure
+at 27 Main Street
+at your convenience
+at your site
+at $200.00 each
+at your disposal
+at 20 degrees below zero
+at 20 degrees below zero
+at 30 degrees above zero
+",,,"at the time of shipment
+at the price we fixed
+at the highest possible price
+at the lowest possible price
+at the lowest rate of premium
+at the lowest price
+at the lowest price possible
+for checking purposes
+at or better [FINAN.]
+at the current price [FINAN.]
+I'm in no laughing mood.
+I should prefer to wait until evening.
+How far is it to the train station?
+accumulating up to the due date
+","in front of the Parliament
+before the end of this week
+before the end of June
+before June 10
+before the expiration of the term
+against the background of
+The suspense is killing me.
+I'm terrified of him.
+His eyes were shining with joy.
+His eyes were sparkling with joy.
+He stops at nothing.
+Yield to the right.
+He found plenty of work to do.
+He has little regard for human life.
+","till ... o'clock
+until their arrival
+When can you be here by?
+up to and including this Friday
+by the end of June
+up to five years out of date
+culminating in economic crises
+until they have been placed
+by the 10th of April at the latest
+until the freight has been paid
+until the charges are paid
+until shortly before ...
+Christmas is a week off.
+There aren't many games to play before the end of the season.
+","Whether they'll win will depend on how they are feeling that day.
+I wonder if he still knows me
+whether you would be prepared
+whether you can keep this limit
+whether you can exceed this limit
+whether you would be inclined to
+Whether ... is another matter.
+Whether ... is another question.
+Whether ... is a different matter.
+Whether ... remains to be seen.
+She looks as if butter wouldn't melt in her mouth.
+as though it were my fault
+I seem to hear voices.
+let me know whether you
+","for contract evaluation
+for checking purposes
+in order to raise capital [FINAN.]
+We never have any fun these days.
+disposed to mirth
+issued in order to raise capital
+for delivery in July
+for prompt and careful execution
+offered for subscription
+for an impartial opinion
+delivery ready for shipping
+for the manufacture of the goods
+amount available for withdrawal [FINAN.]
+belongs to extent of delivery
+","Give it to me!
+I can't stand that.
+the case is as follows
+I'll have you know
+associated mechanisms pl.
+That settles the matter.
+That's the end of it.
+That was the end of the matter.
+Use it sparingly!
+I can't do anything with it.
+What's to be done with it?
+I can live with it.
+I can live with that.
+What's your point in doing that?
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -4921,4 +5651,116 @@ beim Prüfen der Ware
 Er war beim Arzt.
 personell bedingte systematische Abweichungen beim Ablesen analoger Messgeräte
 sehr kleinlich beim Preis
+","im Schlafe
+im Tagesverlauf
+im Büro
+im Elfenbeinturm
+im Januar
+im Optionshandel
+im Umkreis von 5 km
+Im Büro ging es heute richtig rund.
+im Auftrag des Kunden
+im deutschen Sprachraum
+im Raum Frankfurt
+im Verlauf des Tages
+im Verlauf des Tages
+im Verlauf des Tages
+","mit 17
+beim Buchhändler
+frühestmöglicher Zeitpunkt
+beim Pfandleiher
+auf meine Kosten
+wenn es Ihnen gerade passt
+in der Hauptstraße 27
+frei nach Ihren Vorstellungen
+bei Ihnen
+à $200,-
+zu Ihrer Verfügung
+bei 20 Grad Kälte
+bei 20 Grad unter null
+bei 30 Grad über null
+",,,"zum Verschiffungsdatum
+zum festgelegten Preis
+zum höchstmöglichen Preis
+zum kleinstmöglichen Preis
+zum niedrigsten Prämiensatz
+zum niedrigsten Preis
+zum niedrigstmöglichen Preis
+zum Zweck der Kontrolle
+zum Kurs oder besser
+zum laufenden Preis
+Es ist mir nicht zum Lachen.
+Ich warte lieber bis zum Abend.
+Wie weit ist es bis zum Bahnhof?
+anfallend bis zum Fälligkeitstag
+","vor dem Parlamentsgebäude
+vor Ende dieser Woche
+vor Ende Juni
+vor dem 10. Juni
+vor Ablauf der Zeit
+vor dem Hintergrund von
+Ich halte es vor Spannung kaum noch aus.
+Mir graut vor ihm.
+Seine Augen leuchteten vor Freude.
+Seine Augen leuchteten vor Freude.
+Er schreckt vor nichts zurück.
+Es gilt rechts vor links.
+Er fand viel Arbeit vor. - vorfinden
+Er hat wenig Achtung vor Menschenleben.
+","bis ... Uhr
+bis zu deren Ankunft
+Bis wann kannst du hier sein?
+bis einschließlich diesen Freitag
+bis Ende Juni
+bis fünf Jahre abgelaufen
+bis hin zu Wirtschaftskrisen
+bis sie platziert sind
+bis spätestens 10. April
+bis die Fracht bezahlt ist
+bis die Gebühren bezahlt sind
+bis kurz vor ...
+Bis Weihnachten ist es noch eine Woche.
+Bis zum Saisonende finden nicht mehr viele Spiele statt.
+","Ob sie gewinnen hängt von ihrer Tagesform ab.
+ob er mich wohl noch kennt?
+ob Sie bereit wären
+ob Sie diese Grenze halten können
+ob Sie diese Grenze überschreiten können
+ob Sie geneigt wären
+Ob ... sei dahingestellt.
+Ob ... sei dahingestellt.
+Ob ... sei dahingestellt.
+Ob ... sei dahingestellt.
+Sie sieht aus, als ob sie kein Wässerchen trüben könnte.
+als ob es meine Schuld wäre
+Mir ist, als ob ich Stimmen hörte.
+teilen Sie mir mit, ob Sie
+","zur Kontraktbewertung
+zur Kontrolle
+zur Kapitalbeschaffung
+Zur Zeit haben wir überhaupt keinen Spaß mehr!
+zur Fröhlichkeit aufgelegt
+zur Kapitalbeschaffung ausgegeben
+zur Lieferung im Juli
+zur prompten und sorgfältigen Erledigung
+zur Subskription angeboten
+zur unparteiischen Begutachtung
+zur Verschiffung bereite Lieferung
+zur Herstellung der Ware
+zur Entnahme verfügbarer Betrag
+gehört zur Lieferung
+","Her damit! [coll.]
+Damit kannst du mich jagen.
+damit hat es folgende Bewandtnis
+damit du's weißt
+damit verbundene Mechanismen
+Damit ist die Sache erledigt.
+Damit ist die Sache erledigt.
+Damit war die Sache erledigt.
+Gehen Sie sparsam damit um!
+Ich kann nichts damit anfangen.
+Was soll damit geschehen?
+Ich kann damit leben.
+Ich kann damit leben.
+Was bezweckst du damit?
 "
