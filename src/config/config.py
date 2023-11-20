@@ -16,6 +16,7 @@ PREPOSITIONS_CACHE_FILE = TEXTILE_DIR / "cache/prepositions.csv"
 ARTICLES_CACHE_FILE = TEXTILE_DIR / "cache/articles.csv"
 ANKI_PATH = TEXTILE_DIR / "anki_output"
 
+# TODO change to INPUT_TEXT_PATH
 INPUT_PATH = TEXTILE_DIR / "texts/Lisas_Kocherfahrung.txt"
 
 # Create the directory if not found

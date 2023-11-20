@@ -118,7 +118,7 @@ def extract_noun_details(entry):
         indx = words.index("pl.")
     else:
         indx = len(words) - 2
-    plural = " ".join(words[indx + 1:])
+    plural = " ".join(words[indx + 1 :])
 
     # Determin the genus based on the article
     genus = {"der": "MASC", "die": "FEMI", "das": "NEUT"}.get(words[0], "")
