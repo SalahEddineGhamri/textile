@@ -40,21 +40,22 @@ The extracted vocabulary becomes the foundation for personalized Anki flashcards
 - python3 -m spacy download de_core_news_sm
 - pip3 install pandarallel
 - pip3 install rich
-- pip3 install textual==0.15.0
+- pip3 install textual
 - pip3 install bs4
 - pip3 install german_nouns
 
+## install
 ```sh
 pip3 install -r requirements.txt
 python3 -m spacy download de_core_news_sm
 ```
 
-## code format
+## code format for dev
 from within the src folder:
 ```sh
 autopep8 --in-place --aggressive --aggressive --max-line-length 100 --indent-size 4 ./*.py
 # or
-python -m black .
+python3 -m black .
 ```
 
 ## categories of part of speech

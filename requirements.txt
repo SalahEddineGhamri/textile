@@ -5,6 +5,6 @@ pandarallel
 rich
 yapf==0.32.0
 markdown-it-py<3.0.0,>=2.1.0
-textual==0.16.0
+textual
 bs4
 german_nouns

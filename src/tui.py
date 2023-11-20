@@ -1,19 +1,11 @@
 # representation layer --------------------------------
 from textual.app import App, ComposeResult
-from textual.widgets import TextLog
+from textual.widgets import RichLog
 from textual.widgets import Button
 from textual.containers import Container
 from config.bindings import bindings
 from config.config import INPUT_PATH
 from text import Blackboard, TextAnalyzer
-
-# PROGRESS ------------------------------------------
-# TODO: manager arguments in the TUI script >> input is selected
-# TODO: pass the status to the TUI in the
-# TODO: use button to exit all close all files gracefully
-# TODO: add button to clear text of all schemes
-# TODO: make text and analyze update realtime when a new info is ready
-# ---------------------------------------------------
 
 """
 # TODO: use it to redraw text
@@ -21,11 +13,11 @@ press = Button.Pressed(TextileApp.nouns_button)
 TextileApp.nouns_button.on_button_pressed(press)
 """
 
-# create a Blackboard
+# create blackboard
 blackboard = Blackboard(INPUT_PATH)
 
-# Analyze text
-text_analyzer = TextAnalyzer(blackboard.manager)
+# analyze text
+TextAnalyzer(blackboard.manager)
 
 
 # routines definiton when button is presed
@@ -54,7 +46,7 @@ def call_prepositions():
     TextileApp.set_message(blackboard.manager["prepositions_rich_analysis"])
 
 
-# dict of all button actions
+# actions dictionary
 button_action = {
     "Nouns": call_nouns,
     "Verbs": call_verbs,
@@ -76,7 +68,6 @@ class TextileApp(App):
     CSS_PATH = "css/TextileApp.css"
     BINDINGS = bindings
 
-    # TODO: add redraw func
     message = None
     text = blackboard.manager["text"]
 
@@ -91,7 +82,7 @@ class TextileApp(App):
         """Create child widgets for the app."""
         yield Container(
             Container(
-                TextLog(
+                RichLog(
                     highlight=True, markup=True, wrap=True, min_width=78, id="text"
                 ),
                 Container(
@@ -104,7 +95,7 @@ class TextileApp(App):
                 ),
                 id="text_buttons_container",
             ),
-            TextLog(highlight=True, markup=True, id="analysis"),
+            RichLog(highlight=True, markup=True, id="analysis"),
             id="main",
         )
 
