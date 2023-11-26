@@ -15,6 +15,15 @@ from textile.agents import (
     TextAgent
 )
 
+"""
+SCM: is a componant that reads the blckboard
+it reads the stages and outputs and richlog text
+the output of the scm changes only if stages changes
+it surveil the stages variable
+
+output: [Nouns: generating rich text] [verbs] [adjective]
+        red                           green   green
+"""
 
 class Blackboard:
     def __init__(self, input_path):
@@ -23,6 +32,7 @@ class Blackboard:
         self.manager["text"] = None
         self.manager["analyzed_text"] = None
 
+        # stages represent textile state
         stages["input_read"] = None
         stages["analyzed_input"] = None
         stages["analyzed_nouns"] = None
@@ -32,7 +42,6 @@ class Blackboard:
         stages["analyzed_prepositions"] = None
         stages["anki_generation"] = "DONE"
 
-        # stages: None - 'started' - 'done'
         self.manager["stages"] = stages
 
         self.manager["stages"]["input_read"] = "STARTED"

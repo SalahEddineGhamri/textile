@@ -87,6 +87,9 @@ class TextileApp(App):
                     self.prepositions_button,
                     id="buttons",
                 ),
+                RichLog(
+                    highlight=True, markup=True, wrap=True, min_width=78, id="status"
+                ),
                 id="text_buttons_container",
             ),
             RichLog(highlight=True, markup=True, id="analysis"),
@@ -94,14 +97,18 @@ class TextileApp(App):
         )
 
     def on_ready(self) -> None:
-        """Called  when the DOM is ready."""
+        """called  when the DOM is ready."""
         self.text_log = self.query_one("#text")
         self.analysis_log = self.query_one("#analysis")
+        self.status_log = self.query_one("#status")
         # write a colorful text
         self.text_log.write(self.text)
 
+        # test
+        self.status_log.write("coooooool")
+
     def action_toggle_dark(self) -> None:
-        """An action to toggle dark mode."""
+        """an action to toggle dark mode."""
         self.dark = not self.dark
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
