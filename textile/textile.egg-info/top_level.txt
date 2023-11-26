@@ -1,0 +1,8 @@
+agents
+anki
+config
+scrapers
+tables
+text
+tui
+utils
