@@ -1,0 +1,3 @@
+include textile/cache/*.csv
+include textile/tui/TextileApp.css
+include textile/texts/*.txt
