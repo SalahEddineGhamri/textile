@@ -5,55 +5,32 @@ from textual.widgets import Button
 from textual.containers import Container
 from textile.config import INPUT_PATH, bindings
 from textile.text import Blackboard, TextAnalyzer
-
+from textual.reactive import reactive
+from textual.message_pump import MessagePump
+from textual import on
 
 # create blackboard
 blackboard = Blackboard(INPUT_PATH)
+
 
 # analyze text
 TextAnalyzer(blackboard.manager)
 
 
-# routines definiton when button is presed
-def call_nouns():
-    TextileApp.set_text(blackboard.manager["nouns_rich_text"])
-    TextileApp.set_message(blackboard.manager["nouns_rich_analysis"])
+class StatusLog(RichLog):
 
+    status_update = reactive(blackboard.stages(), always_update=True)
 
-def call_verbs():
-    TextileApp.set_text(blackboard.manager["verbs_rich_text"])
-    TextileApp.set_message(blackboard.manager["verbs_rich_analysis"])
+    message_pump = MessagePump()
 
+    def __init__(self):
+        super().__init__(highlight=True, markup=True, wrap=True, min_width=78, id="status")
+        timer = self.message_pump.set_interval(0.1, self.update)
 
-def call_adjectives():
-    TextileApp.set_text(blackboard.manager["adjectives_rich_text"])
-    TextileApp.set_message(blackboard.manager["adjectives_rich_analysis"])
-
-
-def call_adverbs():
-    TextileApp.set_text(blackboard.manager["adverbs_rich_text"])
-    TextileApp.set_message(blackboard.manager["adverbs_rich_analysis"])
-
-
-def call_prepositions():
-    TextileApp.set_text(blackboard.manager["prepositions_rich_text"])
-    TextileApp.set_message(blackboard.manager["prepositions_rich_analysis"])
-
-
-# actions dictionary
-button_action = {
-    "Nouns": call_nouns,
-    "Verbs": call_verbs,
-    "Adjectives": call_adjectives,
-    "Adverbs": call_adverbs,
-    "Prepositions": call_prepositions,
-}
-
-
-class Butt(Button):
-    def on_button_pressed(self, event: Button.Pressed) -> None:
-        TextileApp.set_message(f"{self.label} pressed")
-        button_action[str(self.label)]()
+    def update(self):
+        self.clear()
+        self.status_update = blackboard.stages()
+        self.write(self.status_update)
 
 
 class TextileApp(App):
@@ -66,19 +43,20 @@ class TextileApp(App):
     text = blackboard.manager["text"]
 
     # buttons
-    nouns_button = Butt("Nouns")
-    verbs_button = Butt("Verbs")
-    adjectives_button = Butt("Adjectives")
-    adverbs_button = Butt("Adverbs")
-    prepositions_button = Butt("Prepositions")
+    nouns_button = Button("Nouns", id ="nouns")
+    verbs_button = Button("Verbs", id = "verbs")
+    adjectives_button = Button("Adjectives", id = "adjectives")
+    adverbs_button = Button("Adverbs", id = "adverbs")
+    prepositions_button = Button("Prepositions", id = "prepositions")
 
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
+        self.text_log = RichLog(highlight=True, markup=True, wrap=True, min_width=78, id="text")
+        self.status_log = StatusLog()
+        self.analysis_log = RichLog(highlight=True, markup=True, id="analysis")
         yield Container(
             Container(
-                RichLog(
-                    highlight=True, markup=True, wrap=True, min_width=78, id="text"
-                ),
+                self.text_log,
                 Container(
                     self.nouns_button,
                     self.verbs_button,
@@ -86,43 +64,55 @@ class TextileApp(App):
                     self.adverbs_button,
                     self.prepositions_button,
                     id="buttons",
-                ),
+                ),self.status_log,
                 id="text_buttons_container",
-            ),
-            RichLog(highlight=True, markup=True, id="analysis"),
+            ), self.analysis_log,
             id="main",
         )
 
     def on_ready(self) -> None:
-        """Called  when the DOM is ready."""
-        self.text_log = self.query_one("#text")
-        self.analysis_log = self.query_one("#analysis")
-        # write a colorful text
+        """called  when the DOM is ready."""
         self.text_log.write(self.text)
-
-    def action_toggle_dark(self) -> None:
-        """An action to toggle dark mode."""
-        self.dark = not self.dark
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
         self.text_log.clear()
         self.analysis_log.clear()
-        self.text_log.write(TextileApp.text)
+        self.text_log.write(self.text)
 
-        if isinstance(TextileApp.message, list):
-            for element in TextileApp.message:
+        if isinstance(self.message, list):
+            for element in self.message:
                 self.analysis_log.write(element)
         else:
-            self.analysis_log.write(f"Processing ... {TextileApp.message}")
+            self.analysis_log.write(f"Processing ... {self.message}")
 
-    @staticmethod
-    def set_message(message):
-        TextileApp.message = message
+    @on(Button.Pressed, "#nouns")
+    def call_nouns(self):
+        self.text = blackboard.manager["nouns_rich_text"]
+        self.message = blackboard.manager["nouns_rich_analysis"]
 
-    @staticmethod
-    def set_text(text: str) -> None:
-        TextileApp.text = text
 
+    @on(Button.Pressed, "#verbs")
+    def call_verbs(self):
+        self.text = blackboard.manager["verbs_rich_text"]
+        self.message = blackboard.manager["verbs_rich_analysis"]
+
+
+    @on(Button.Pressed, "#adjectives")
+    def call_adjectives(self):
+        self.text = blackboard.manager["adjectives_rich_text"]
+        self.message = blackboard.manager["adjectives_rich_analysis"]
+
+
+    @on(Button.Pressed, "#adverbs")
+    def call_adverbs(self):
+        self.text = blackboard.manager["adverbs_rich_text"]
+        self.message = blackboard.manager["adverbs_rich_analysis"]
+
+
+    @on(Button.Pressed, "#prepositions")
+    def call_prepositions(self):
+        self.text = blackboard.manager["prepositions_rich_text"]
+        self.message = blackboard.manager["prepositions_rich_analysis"]
 
 if __name__ == "__main__":
     app = TextileApp()

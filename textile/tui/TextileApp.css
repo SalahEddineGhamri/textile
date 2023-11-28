@@ -5,7 +5,8 @@
 
 #buttons {
     layout: horizontal;
-    height: 10%;
+    height: 7%;
+    width: 100%;
 }
 
 #text {
@@ -13,13 +14,18 @@
     width: 100%;
 }
 
-#text_buttons_container {
-    layout: vertical;
+#status {
+    height: 2%;
+    width: 100%;
+}
+
+#analysis {
     height: 100%;
     width: 50%;
 }
 
-#analysis {
+#text_buttons_container {
+    layout: vertical;
     height: 100%;
     width: 50%;
 }
