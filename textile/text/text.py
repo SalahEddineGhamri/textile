@@ -46,7 +46,7 @@ def style(type_name):
 
 
 def generate_sequence():
-    triangle_symbols = ["●", "◐", "◓", "◑"]  # Add more symbols as needed
+    triangle_symbols = ["◯", "◔", "◑", "◕", "●"]
     count = 0
     while True:
         sleep(0.1)
@@ -73,7 +73,7 @@ class Blackboard:
         stages["analyzed_adjectives"] = None
         stages["analyzed_adverbs"] = None
         stages["analyzed_prepositions"] = None
-        stages["anki_generation"] = "DONE"
+        stages["anki_generation"] = None
 
         self.manager["stages"] = stages
 
@@ -88,12 +88,19 @@ class Blackboard:
         stages = self.manager["stages"]
         self.status_text.__init__()
         for key, value in stages.items():
-            name = key.replace("_", " ")
-            if value != "DONE":
+            if "analyzed" in key:
+              name = key.replace("analyzed_", "")
+            else:
+              name = key.replace("_", " ")
+
+            if value != "DONE" and value is not None:
               stl = style("busy")
               name += " " + next(self.seq)
-            else:
+            elif value == "DONE":
               stl = style("done")
+              name += " " + "●"
+            elif value is None:
+              name += " " + "◯"
 
             self.status_text.append(name, stl)
             self.status_text.append(" ")
@@ -126,4 +133,4 @@ if __name__ == "__main__":
 
     while not all(value == "DONE" for value in blackboard.manager["stages"].values()):
         print(blackboard.manager["stages"])
-        sleep(0.1)
+        sleep(0.01)

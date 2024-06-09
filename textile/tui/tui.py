@@ -24,8 +24,8 @@ class StatusLog(RichLog):
     message_pump = MessagePump()
 
     def __init__(self):
-        super().__init__(highlight=True, markup=True, wrap=True, min_width=78, id="status")
-        timer = self.message_pump.set_interval(0.1, self.update)
+        super().__init__(highlight=True, markup=True, wrap=True, max_lines=3, min_width=78, id="status")
+        timer = self.message_pump.set_interval(0.09, self.update)
 
     def update(self):
         self.clear()

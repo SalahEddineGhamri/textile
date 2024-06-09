@@ -212,12 +212,10 @@ class AnkiGenerationAgent(Thread):
         self.anki_generator.save(ANKI_PATH)
 
     def run(self):
-        while not all(value == "DONE" for value in self.blackboard["stages"].values()):
-            # this will break the pipe
-            sleep(0.001)
+        while not all(value == "DONE" for value in list(self.blackboard["stages"].values())[:-1]):
+            sleep(0.1)
 
         self.blackboard["stages"]["anki_generation"] = "STARTED"
-        # TODO: if it is same cache why refreshing ?
         self.refresh_cache()
         self.blackboard["stages"]["anki_generation"] = "refreshed caches"
         self.add_nouns()
