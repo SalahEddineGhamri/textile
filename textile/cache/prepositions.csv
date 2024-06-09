@@ -1,9 +1,9 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
-",,,,,,,,,,,,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -130,7 +130,7 @@ to resign oneself to doing sth.
 to be busy doing sth.
 to amuse oneself by doing sth.
 to join the dots
-"
+",,,,,,
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -257,7 +257,7 @@ sichacc. damit abfinden, etw.acc. zu tun
 damit beschäftigt sein, etw.acc. zu tun
 sichacc. damit belustigen, etw.acc. zu tun
 Punkte verbinden, damit ein Bild entsteht
-"
+",,,,,,
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -838,7 +838,39 @@ as-if basis [INSUR.]
 purely hypothetical approach [INSUR.]
 ","mineral depletion
 ","the risk involved
-"
+","to make so. happy (with sth.)
+in one fell swoop
+stayer
+to give so. the pleasure of sth.
+accord (with)
+similarity (to)
+exposure (to)
+compliance (with)
+exposure (to sth.)
+border with Hungary/Germany/Austria
+displeasure (at (or: with) so.)
+the matter with sth.
+preoccupation with sth.
+limited liability company [abbr.: LLC] [COMM.]
+","leptospirosis [MED.]
+","desire (for)
+desire (for)
+approval (according to) [TECH.]
+after provision for risk
+after a chill [MED.]
+craving (for)
+yearning (for sth.)
+pursuit (of sth.)
+craving (for sth.)
+anxiety (for)
+desire (for)
+longing (for)
+inclusion (in)
+annuity pursuant (to ...)
+","the ins pl. (Amer.) [POL.]
+the ins and outs
+door-in-the-face technique [PSYCH.]
+",,
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
@@ -1419,7 +1451,39 @@ die Als-ob-Basis
 die Als-ob-Betrachtung
 ","Zur-Neige-Gehen von Mineralien
 ","die damit verbundenen Risiken pl.
-"
+","jmdn. (mit etw.dat.) beglücken
+mit einem Schlag
+jmd. mit Ausdauer
+jmdn. mit etw.dat. beglücken
+die Übereinstimmung (mit) pl.: die Übereinstimmungen
+die Ähnlichkeit (mit) pl.: die Ähnlichkeiten
+der Kontakt (mit) +dat. pl.: die Kontakte
+das Einverständnis (mit) pl.: die Einverständnisse
+der Umgang (mit etw.dat.) no plural
+Grenze zu (or: mit) Ungarn/Deutschland/Österreich
+die Unzufriedenheit (mit etw.dat.) pl.
+das Problem mit etw.dat. pl.: die Probleme
+die Beschäftigung mit etw.dat. no plural
+Gesellschaft mit beschränkter Haftung [abbr.: GmbH]
+","Morbus Weil
+","der Wunsch (nach) pl.: die Wünsche
+die Sehnsucht (nach) pl.: die Sehnsüchte
+die Zulassung (nach) pl.: die Zulassungen
+nach Risikovorsorge
+nach einer Erkältung
+die Sehnsucht (nach +dat.) pl.: die Sehnsüchte
+die Sehnsucht (nach etw.dat.) pl.: die Sehnsüchte
+das Streben (nach etw.dat.) no plural
+das Verlangen (nach +dat.) no plural
+das Verlangen (nach) no plural
+das Verlangen (nach) no plural
+das Verlangen (nach) no plural
+die Versetzung (nach) pl.: die Versetzungen
+die Verrentung (nach ...) pl.: die Verrentungen
+","die Regierungspartei pl.: die Regierungsparteien
+die Einzelheiten pl.
+die Tür-ins-Gesicht-Technik
+",,
 noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
@@ -1744,8 +1808,32 @@ genus: FEMI
 plural: 
 meaning: the risk involved
 
-"
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","article: jmdn.
+word: (mit
+genus: 
+plural: beglücken
+meaning: to make so. happy (with sth.)
+in one fell swoop
+","article: Morbus
+word: Weil
+genus: 
+plural: Weil
+meaning: leptospirosis [MED.]
+
+","article: der
+word: Wunsch
+genus: MASC
+plural: die Wünsche
+meaning: desire (for)
+desire (for)
+","article: die
+word: Regierungspartei
+genus: FEMI
+plural: die Regierungsparteien
+meaning: the ins pl. (Amer.) [POL.]
+the ins and outs
+",,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -2337,6 +2425,37 @@ as though nothing had happened
 therewith adv. archaic also [form.]
 for this reason
 with it
+","too adv.
+also adv.
+one of the - + superlative
+by bike/bus/train/tube
+certainly adv.
+together (with) adv.
+married (to so.) adj.
+on purpose
+comparable (to (or: with)) adj.
+interchangeable (with sth.) adj.
+by design
+designedly adv.
+deliberately adv.
+with intent
+",,"up adv.
+home adv.
+upstairs adv.
+forward or: forwards adv.
+outside adv.
+down adv.
+downstairs adv.
+inside adv.
+northwest or: north-west adv.
+to the fore
+onward or: onwards adv.
+outwardespAE / outwardsespBE adv.
+outwards adv.
+out adv.
+",,,"for though
+more than ever
+less than ever
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -2929,6 +3048,37 @@ als ob nichts passiert wäre
 damit
 damit
 damit adv.
+","mit - ebenfalls, auch
+mit - ebenfalls, auch
+mit - + Superlativ
+mit dem Fahrrad/dem Bus/dem Zug/der U-Bahn
+mit Sicherheit
+zusammen (mit)
+verheiratet (mit jmdm.)
+mit Absicht
+vergleichbar (mit +dat.)
+(mit etw.dat.) austauschbar
+mit Absicht
+mit Absicht
+mit Absicht
+mit Absicht
+",,"nach oben
+nachhause or: nach Hause
+nach oben
+nach vorn
+nach draußen
+nach unten
+nach unten
+nach innen
+nach Nordwesten
+nach vorn
+nach vorn
+nach außen
+nach außen
+nach draußen
+",,,"denn obwohl
+mehr denn je
+weniger denn je
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -3581,6 +3731,42 @@ for your information - indignantly
 That cuts no ice with me.
 That cuts no ice with me.
 It's nothing to write home about.
+","Yours sincerely
+Sincerely yours (Amer.)
+Yours faithfully
+Kind regards, ...
+Yours truly
+with gusto
+hell for leather
+by your leave
+if you will excuse me
+with respect
+not to put too fine a point on it
+by a considerable margin
+with gusto
+faster than sound
+",,"with might and main
+ad libitum
+to one's heart's content
+ad libitum
+as prompted
+as the need arises
+anno Domini [abbr.: AD]
+according to the principle
+after extra time [abbr.: a. e. t., AET] [SPORT.]
+to so.'s mind
+titled according to ...
+legend has it that ...
+The sky's the limit.
+according to Cocker
+",,,"let alone ...
+Whereabouts? [coll.]
+What next?
+come, come
+Whoever else?
+What a sight you are!
+for all I know
+What are the odds! [coll.]
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -4233,6 +4419,42 @@ damit Sie es wissen
 Damit kann man bei mir nicht landen.
 Damit können Sie bei mir nicht landen.
 Damit lockt man keinen Hund hinter dem Ofen hervor.
+","Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+Mit freundlichen Grüßen [abbr.: MfG] - Briefschluss
+mit Gusto
+mit Karacho
+mit Verlaub
+mit Verlaub
+mit Verlaub
+mit Verlaub
+mit Abstand
+mit Enthusiasmus
+mit Überschallgeschwindigkeit
+",,"aus (or: nach) Leibeskräften
+nach Belieben
+nach Herzenslust
+nach Herzenslust
+nach Aufforderung
+nach Bedarf
+nach Christus [abbr.: n. Chr.]
+nach dem Motto
+nach Verlängerung
+jmds. Meinung nach
+beschriftet nach ...
+der Legende nach ...
+Nach oben sind keine Grenzen gesetzt.
+nach Adam Riese
+",,,"geschweige denn ...
+Wo denn?
+Was denn noch?
+aber was denn
+Wer denn sonst?
+Wie siehst du denn aus!
+oder was weiß denn ich [coll.]
+Wie unwahrscheinlich ist das denn!
 "
 examples,english,"in English
 in 1999
@@ -4998,6 +5220,39 @@ What's to be done with it?
 I can live with it.
 I can live with that.
 What's your point in doing that?
+","at 17
+one of the best/cheapest hotels
+with the addition that
+using computerizedAE support [COMP.]using computerisedBE / computerizedBE support [COMP.]
+with a credit balance [FINAN.]
+is provided with
+It's best not to tangle with him.
+I've finished with you.
+with monthly settlement
+with a proven record of success
+Who is your date?
+with taut sails
+By virtue of this deed I grant X general power of attorney.
+Which car was he driving?
+",,"according to the rules
+after the stock market has opened [FINAN.]
+after breakfast
+after my fancy
+after this time has elapsed
+after this date
+after the period has lapsed without success
+after consultation with
+at the discretion of the manufacturer
+after the expiration of the contract
+upon acceptance of our draft
+according to all accounts
+taking everything into account
+after consultation with
+","The game was rained off. (Brit.)
+","saves both time and money
+","What's the matter?
+Can I talk to you for a second? - Yes, what's up?
+what had I best do
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -5763,4 +6018,37 @@ Was soll damit geschehen?
 Ich kann damit leben.
 Ich kann damit leben.
 Was bezweckst du damit?
+","mit 17
+mit das beste/billigste Hotel
+mit dem Zusatz, dass
+mit EDV-Unterstützung
+mit einem Guthaben
+ausgestattet mit
+Mit ihm ist nicht gut Kirschen essen.
+Mit Ihnen bin ich fertig.
+mit monatlicher Abrechnung
+mit nachweisbaren Erfolgen
+Mit wem sind Sie verabredet?
+mit prallen Segeln
+Mit dieser Urkunde erteile ich X Generalvollmacht.
+Mit welchem Auto ist er gefahren?
+",,"nach den Richtlinien
+nach Börseneröffnung
+nach dem Frühstück
+nach meinem Geschmack
+nach Ablauf dieser Zeit
+nach diesem Datum
+nach ergebnislosem Fristablauf
+nach Rücksprache mit
+nach Wahl des Herstellers
+nach Ablauf des Vertrags
+nach Akzeptierung unseres Wechsels
+nach allen Berichten
+nach allen Überlegungen
+nach Beratung mit
+","Das Spiel fiel im wahrsten Sinne des Wortes ins Wasser.
+","spart sowohl Zeit als auch Geld
+","Was ist denn?
+Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
+was tue ich denn nun am besten
 "

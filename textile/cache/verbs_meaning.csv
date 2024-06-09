@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -239,8 +239,33 @@ erhitzen : Verb
 sich erhitzen : Verb
 ","sich denken : Verb
 denken : Verb
+","arbeiten : Verb
+","genießen : Verb
+","sich schätzen : Verb
+schätzen : Verb
+","verbringen : Verb
+","sich kommen : Verb
+kommen : Verb
+kommen : Verb
+","dienen : Verb
+","teilen : Verb
+sich teilen : Verb
+sich teilen : Verb
+sich teilen : Verb
+",,"sich fühlen : Verb
+fühlen : Verb
+","abgrenzen : Verb
+sich abgrenzen : Verb
+","meinen : Verb
+","sich können : Verb
+sich können : Verb
+können : Verb
+","sich fühlen : Verb
+fühlen : Verb
+","wertschätzen : Verb
+wertschätzen : Verb
 "
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -2588,6 +2613,176 @@ to believe sth. of so.
 to bear sth. in mind
 to have sth. in mind
 to remember sth. | remembered, remembered |
+","to work | worked, worked |
+to run | ran, run |
+to operate | operated, operated | - function [TECH.]
+to be operated
+to laborAE / labourBE | labored, labored / laboured, laboured |
+to act as sth.
+to act | acted, acted | [TECH.]
+to cast | cast, cast | [TECH.]
+to function | functioned, functioned | [TECH.]
+to be engaged [TECH.]
+to ferment | fermented, fermented | [BIOL.]
+to perform | performed, performed | [TECH.]
+to operate as sth. [TECH.]
+to work on sth.
+","to enjoy sth. | enjoyed, enjoyed |
+to relish sth. | relished, relished |
+to savorAE / savourBE sth. | savored, savored / savoured, savoured |
+to glory in sth.
+to have right of way
+to enjoy fiscal advantages [FINAN.]
+to operate in non-compliance under a variance or continuation permit [TECH.]
+to enjoy public confidence
+to enjoy sth. to the full
+","to estimate | estimated, estimated |
+to value sth. | valued, valued |
+to evaluate sth. | evaluated, evaluated |
+to rate sth. | rated, rated |
+to regard so. | regarded, regarded |
+to appreciate so./sth. | appreciated, appreciated |
+to reckon | reckoned, reckoned |
+to gauge | gauged, gauged |
+to gaugeAE / gageAE to gaugeBE | gauged, gauged / gaged, gaged |
+to guess | guessed, guessed |
+to prize | prized, prized |
+to size up
+to make a guess
+to appraise sth. | appraised, appraised |
+","to spend + expression of time | spent, spent |
+to pass | passed, passed |
+to spend time
+to holiday | holidayed, holidayed | chiefly (Brit.)
+to vacation | vacationed, vacationed | (Amer.)
+to estivateAE / aestivateBE | estivated, estivated / aestivated, aestivated |
+to summer | summered, summered |
+to run into the ground
+to spend one's time
+to spend one's remaining years
+to spend one's retirement
+","sth. catches on infinitive: catch on
+to come | came, come |
+to turn up - come, arrive
+to arrive (at sth.) | arrived, arrived |
+to be along [coll.]
+to come | came, come | [sl.] - have an orgasm
+to come from London/the Canary Islands/Switzerland
+to work sth. ⇔ out
+to get the hang of sth.
+to conceive (of) sth. | conceived, conceived |
+to get to the bottom of sth.
+to take after so.
+to get down to sth.
+to work round to sth.
+","to serve (so.) | served, served |
+to serve | served, served | [MIL.]
+to minister (to so.) | ministered, ministered |
+to accommodate so./sth. | accommodated, accommodated |
+to conduce to sth.
+to attend so. | attended, attended | - serve
+to serve as sth.
+to serve one's turn dated
+to act as referee (Brit.)
+to set a good example (to (or: for) so.)
+to provide a basis
+to serve as a rule
+to serve as a rule
+to act as a makeshift
+","to share sth. (with so.) | shared, shared |
+to divide sth. | divided, divided |
+to split sth. | split, split |
+to cleave | cleft/cleaved/clove, cleft/cleaved/cloven |
+to intersect | intersected, intersected |
+to bisect | bisected, bisected |
+to graduate | graduated, graduated |
+to divide | divided, divided |
+to split up
+to split | split, split |
+to bisect | bisected, bisected |
+to furcate | furcated, furcated |
+to part sth. | parted, parted | - divide into parts
+to sever sth. | severed, severed |
+","to benefit from sth.
+to cash in on sth.
+to avail oneself of sth.
+to profit by sth.
+to avail oneself of an opportunity
+to stand to benefit from sth.
+","to feel (sth.) | felt, felt |
+to feel good/bad
+to sense sth. | sensed, sensed |
+to sympathizeAE with so. to sympathiseBE / sympathizeBE with so.
+to commiserate | commiserated, commiserated |
+to feel drained
+to feel like nothing on earth
+to feel giddy
+to feel uncomfortable
+to be ill at ease
+to feel queasy
+to feel queasy
+to be comfortable
+to feel good
+","to carry out results analysis
+to circumvent | circumvented, circumvented |
+to confine | confined, confined |
+to define the scope of
+to establish a border between
+to rope in
+to delimit sth. | delimited, delimited |
+to demarcate sth. | demarcated, demarcated |
+to define sth. | defined, defined |
+to border sth. | bordered, bordered |
+to encompass sth. | encompassed, encompassed |
+to mark sth. ⇔ out
+to outline sth. | outlined, outlined |
+to restrain sth. | restrained, restrained |
+","to mean sth. | meant, meant |
+to think sth. | thought, thought |
+to deem | deemed, deemed |
+to guess | guessed, guessed | (Amer.)
+to believe sth. | believed, believed |
+to suppose sth. | supposed, supposed |
+to reckon | reckoned, reckoned |
+to fancy | fancied, fancied |
+to opine | opined, opined |
+to hold | held, held |
+to conceive sth. | conceived, conceived |
+to trow | trowed, trowed | archaic
+to mean sth. by sth.
+to be serious about sth.
+","can aux.
+may aux.
+to know sth. | knew, known |
+could aux.
+to know how to do sth.
+to master sth. | mastered, mastered |
+can't
+cannot
+to be able to do sth.
+to be able to afford sth.
+cannot
+to be able to go
+to be able to come
+to be numerate
+","to feel (sth.) | felt, felt |
+to feel good/bad
+to sense sth. | sensed, sensed |
+to sympathizeAE with so. to sympathiseBE / sympathizeBE with so.
+to commiserate | commiserated, commiserated |
+to feel drained
+to feel like nothing on earth
+to feel giddy
+to feel uncomfortable
+to be ill at ease
+to feel queasy
+to feel queasy
+to be comfortable
+to feel good
+","to cherish so. | cherished, cherished |
+to value so./sth. | valued, valued |
+to appreciate so./sth. | appreciated, appreciated |
+to esteem so./sth. | esteemed, esteemed |
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -4936,6 +5131,176 @@ etw.acc. von jmdm. denken | dachte, gedacht |
 an etw.acc. denken | dachte, gedacht |
 an etw.acc. denken | dachte, gedacht |
 an etw.acc. denken | dachte, gedacht |
+","arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+an etw.dat. arbeiten | arbeitete, gearbeitet |
+","etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+etw.acc. genießen | genoss, genossen |
+Vorfahrt genießen
+Steuervergünstigungen genießen
+Bestandsschutz genießen
+das öffentliche Vertrauen genießen
+etw.acc. in vollen Zügen genießen
+","schätzen | schätzte, geschätzt |
+etw.acc. schätzen | schätzte, geschätzt |
+etw.acc. schätzen | schätzte, geschätzt |
+etw.acc. schätzen | schätzte, geschätzt |
+jmdn. schätzen | schätzte, geschätzt |
+jmdn./etw. schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+schätzen | schätzte, geschätzt |
+etw.acc. schätzen | schätzte, geschätzt |
+","+ expression of time verbringen | verbrachte, verbracht |
+verbringen | verbrachte, verbracht |
+Zeit verbringen
+die Ferien verbringen
+die Ferien verbringen
+den Sommer verbringen
+den Sommer verbringen
+unter Tage verbringen
+seine Zeit verbringen
+seinen Lebensabend verbringen
+seinen Lebensabend verbringen
+","etw.nom. kommt (gut) an infinitive: ankommen
+kommen | kam, gekommen |
+kommen | kam, gekommen |
+(zu etw.dat.) kommen | kam, gekommen | - Ergebnis, Einigung etc.
+kommen | kam, gekommen |
+kommen | kam, gekommen | - einen Orgasmus haben
+aus London/von den Kanarischen Inseln/aus der Schweiz kommen
+hinter etw.acc. kommen | kam, gekommen |
+hinter etw.acc. kommen | kam, gekommen |
+auf etw.acc. kommen | kam, gekommen |
+hinter etw.dat. kommen | kam, gekommen |
+nach jmdm. kommen | kam, gekommen | - ähneln
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+","(jmdm.) dienen | diente, gedient |
+dienen | diente, gedient |
+(jmdm.) dienen | diente, gedient |
+jmdm./etw. dienen | diente, gedient |
+etw.dat. dienen | diente, gedient |
+jmdm. dienen | diente, gedient |
+als etw.nom. dienen
+jmdm. dienen | diente, gedient |
+als Referenz dienen
+(jmdm.) als Vorbild dienen
+als Basis dienen
+als Maßstab dienen
+als Richtschnur dienen
+als Behelf dienen
+","(sichdat.) etw.acc. (mit jmdm.) teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+sichacc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+etw.acc. teilen | teilte, geteilt |
+","von etw.dat. profitieren | profitierte, profitiert |
+von etw.dat. profitieren | profitierte, profitiert |
+von etw.dat. profitieren | profitierte, profitiert |
+von etw.dat. profitieren | profitierte, profitiert |
+von einer Gelegenheit profitieren
+von etw.dat. profitieren können
+","(etw.acc.) fühlen | fühlte, gefühlt |
+sichacc. gut/schlecht fühlen
+etw.acc. fühlen | fühlte, gefühlt |
+mit jmdm. fühlen | fühlte, gefühlt |
+Mitleid fühlen
+sichacc. ausgelaugt fühlen
+sichacc. hundeelend fühlen
+sichacc. euphorisch fühlen
+sichacc. unbehaglich fühlen
+sichacc. unbehaglich fühlen
+sichacc. flau fühlen
+sichacc. unwohl fühlen
+sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+","abgrenzen | grenzte ab, abgegrenzt |
+abgrenzen | grenzte ab, abgegrenzt |
+abgrenzen | grenzte ab, abgegrenzt |
+abgrenzen | grenzte ab, abgegrenzt |
+abgrenzen | grenzte ab, abgegrenzt |
+abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+etw.acc. abgrenzen | grenzte ab, abgegrenzt |
+","etw.acc. meinen | meinte, gemeint |
+etw.acc. meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+etw.acc. meinen | meinte, gemeint |
+etw.acc. meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+etw.acc. meinen | meinte, gemeint |
+meinen | meinte, gemeint |
+etw.acc. mit etw.dat. meinen | meinte, gemeint |
+etw.acc. ernst meinen
+","können | konnte, gekonnt |
+können | konnte, gekonnt |
+etw.acc. können | konnte, gekonnt |
+können | konnte, gekonnt | - Modalverb; flektierte Formen könnte, könntest, könnten
+etw.acc. können | konnte, gekonnt |
+etw.acc. können | konnte, gekonnt |
+kann nicht
+kann nicht
+etw.acc. tun können
+sichdat. etw.acc. leisten können
+können nicht
+mitgehen können
+mitkommen können
+rechnen können
+","(etw.acc.) fühlen | fühlte, gefühlt |
+sichacc. gut/schlecht fühlen
+etw.acc. fühlen | fühlte, gefühlt |
+mit jmdm. fühlen | fühlte, gefühlt |
+Mitleid fühlen
+sichacc. ausgelaugt fühlen
+sichacc. hundeelend fühlen
+sichacc. euphorisch fühlen
+sichacc. unbehaglich fühlen
+sichacc. unbehaglich fühlen
+sichacc. flau fühlen
+sichacc. unwohl fühlen
+sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+","jmdn. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
+jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
+jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
+jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -5609,7 +5974,34 @@ heated stone [MIN.]
 heated gemstone [MIN.]
 heated stone [MIN.]
 hot-wire cutting [TECH.]
-",
+",,,,,,"sth. no longer has any effect
+",,"commonage
+split screen
+joint risk
+divided press
+split pattern
+split screen [COMP.]
+split sleeve bearing [TECH.]
+divided axle [TECH.]
+split rim [TECH.]
+split drive shaft [TECH.]
+bi-block long sleepers [TECH.]
+split die [TECH.]
+split needle bar [TECH.]
+split pulley [TECH.]
+",,,"deferred income tax [FINAN.]
+accrued income [FINAN.]
+well-defined task
+",,"discretionary provision
+discretionary clause
+optional entry
+discretionary clause
+discretionary provision
+forgettable movie
+no-win situation
+relatable person
+snug fortune archaic
+",,
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -6282,7 +6674,34 @@ erhitzter Schmuckstein
 erhitzter Stein
 erhitzter Stein
 Absprengen mit erhitztem Draht
-",
+",,,,,,"etw.nom. kommt nicht mehr zum Tragen
+",,"geteilter Landbesitz
+geteiltes Fenster
+geteiltes Risiko
+geteilte Presse
+geteiltes Modell
+geteilter Bildschirm
+geteiltes Ringlager
+geteilte Achse
+geteilte Felge
+geteilte Gelenkwelle
+geteilte Langschwellen
+geteilte Matrize
+geteilte Nadelstange [Sewing Machines]
+geteilte Riemenscheibe
+",,,"abgegrenzte Ertragsteuer
+abgegrenztes Einkommen
+klar abgegrenzte Aufgabe
+",,"die Kann-Bestimmung pl.: die Kann-Bestimmungen
+die Kann-Bestimmung pl.: die Kann-Bestimmungen
+die Kanneingabe or: Kann-Eingabe pl.: die Kanneingaben - SAP
+die Kann-Vorschrift pl.: die Kann-Vorschriften
+die Kann-Vorschrift pl.: die Kann-Vorschriften
+Film, den man getrost vergessen kann
+Situation, in der man nicht gewinnen kann
+Person, mit der man sichacc. identifizieren kann
+Vermögen, von dem man gut leben kann
+",,
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -6853,8 +7272,32 @@ genus:
 plural: Schmuckstein
 meaning: heated gemstone [MIN.]
 heated stone [MIN.]
-",
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,"article: etw.nom.
+word: kommt
+genus: 
+plural: Tragen
+meaning: sth. no longer has any effect
+
+",,"article: geteilter
+word: Landbesitz
+genus: 
+plural: Landbesitz
+meaning: commonage
+split screen
+",,,"article: abgegrenzte
+word: Ertragsteuer
+genus: 
+plural: Ertragsteuer
+meaning: deferred income tax [FINAN.]
+accrued income [FINAN.]
+",,"article: die
+word: Kann-Bestimmung
+genus: FEMI
+plural: die Kann-Bestimmungen
+meaning: discretionary provision
+discretionary clause
+",,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -7250,7 +7693,26 @@ longer than expected
 unlocated adj.
 untraced adj.
 ",,,"heated adj.
-",
+",,,,,,,,"divided adj.
+split adj.
+cleft adj.
+shared adj.
+separated adj.
+apportioned adj.
+forked adj.
+party per fess
+per fess
+palmately compound [BOT.]
+morselled adj.
+",,,"differentiated adj.
+marked-off adj.
+marked off adj.
+delimited adj. [COMP.]
+well-defined adj.
+",,"discretionary adj.
+relocatable adj.
+satisfiable adj.
+",,
 adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -7646,7 +8108,26 @@ länger als erwartet
 nicht gefunden
 noch nicht gefunden
 ",,,"erhitzt
-",
+",,,,,,,,"geteilt
+geteilt
+geteilt
+geteilt
+geteilt
+geteilt
+geteilt
+geteilt adj. [Heraldry]
+geteilt adj. [Heraldry]
+handförmig geteilt
+in kleine Stückchen geteilt
+",,,"abgegrenzt
+abgegrenzt
+abgegrenzt
+abgegrenzt
+klar abgegrenzt
+",,"Kann...
+kann verlagert werden
+kann zufrieden gestellt werden
+",,
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -8692,7 +9173,56 @@ Cogito, ergo sum
 Man proposes, God disposes.
 Honi soit qui mal y pense. - motto of the Order of the Garter French
 A good man thinks of himself last.
-"
+","to line one's pocket
+","to take sth. with a pinch of salt
+to be in ill repute (with so.) [fig.]
+",,"to live out one's life - in a certain place
+","Come on! [abbr.: c'mon!]
+the tide is going out
+the tide is coming in
+What gives? [coll.]
+Time will tell.
+There's something fishy going on here.
+First come, first served.
+The early bird catches the worm.
+Nothing comes from nothing.
+as the case may be
+Pride goes before a fall.
+Pride will have a fall.
+when push comes to shove
+if it comes to the crunch
+","to serve as a basis for a discussion
+","x over y [MATH.]
+A problem shared is a problem halved.
+",,"to grill so. | grilled, grilled | [fig.]
+Make yourself at home.
+to walk on air [fig.]
+",,"Take my advice!
+for my share
+you'd think
+Accept my thanks.
+I should say so!
+I should think so!
+Fair enough.
+Whaddayathink? [coll.] - contracted form of ""what do you think""; used in spoken language
+","Could I please ...?
+You cannot be serious!
+so. cannot avoid doing sth.
+so. cannot help doing sth.
+so. cannot help doing sth.
+You cannot be in earnest! dated
+You can't please everyone!
+You can't have your cake and eat it.
+Into every life a little rain must fall.
+you never know
+that's one way of putting it
+How can one be so touchy?
+That cuts no ice with me.
+That's a feather in his cap.
+","to grill so. | grilled, grilled | [fig.]
+Make yourself at home.
+to walk on air [fig.]
+",
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -9738,7 +10268,56 @@ Ich denke, also bin ich - Descartes
 Der Mensch denkt, Gott lenkt.
 Ein Schelm, wer Böses dabei denkt.
 Der brave Mann denkt an sich selbst zuletzt.
-"
+","in die eigene Tasche arbeiten
+","etw.acc. mit Vorsicht genießen [fig.]
+(bei jmdm.) ein schlechtes Ansehen genießen
+",,"seinen Lebensabend verbringen - an einem bestimmten Ort
+","Kommt!
+die Ebbe kommt
+die Flut kommt
+Wie kommt das?
+Kommt Zeit, kommt Rat.
+Das kommt mir spanisch vor.
+Wer zuerst kommt, mahlt zuerst.
+Wer zuerst kommt, mahlt zuerst.
+Von nichts kommt nichts.
+wie es gerade kommt
+Hochmut kommt vor dem Fall.
+Hochmut kommt vor dem Fall.
+wenn es hart auf hart kommt
+wenn es hart auf hart kommt
+","als Diskussionsgrundlage dienen
+","x geteilt durch y
+Geteiltes Leid ist halbes Leid.
+",,"jmdm. auf den Zahn fühlen [fig.]
+Fühlen Sie sich wie zu Hause (or: zuhause).
+sichacc. wie im siebten Himmel fühlen
+",,"Hören Sie auf meinen Rat!
+für meinen Teil
+man könnte meinen
+Nimm meinen Dank entgegen.
+Das will ich meinen!
+Das will ich meinen!
+Wenn du meinst!
+Was meinst du?
+","Kann ich bitte ...?
+Das kann nicht dein Ernst sein!
+jmd. kann nicht umhin, etw.acc. zu tun
+jmd. kann nicht anders, als etw.acc. zu tun
+jmd. kann nicht umhin, etw.acc. zu tun [form.]
+Das kann doch nicht Ihr Ernst sein!
+Man kann es nicht allen recht machen!
+Man kann nicht alles haben.
+Man kann nicht nur auf Rosen gebettet sein.
+man kann nie wissen
+so kann man es auch sagen
+Wie kann man nur so empfindlich sein?
+Damit kann man bei mir nicht landen.
+Darauf kann er stolz sein.
+","jmdm. auf den Zahn fühlen [fig.]
+Fühlen Sie sich wie zu Hause (or: zuhause).
+sichacc. wie im siebten Himmel fühlen
+",
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -10872,7 +11451,104 @@ I think you've had enough to drink.
 I think so.
 There's more to it than you think.
 what do you make of ...
-"
+","ready to work on a small commission
+It has been a privilege to work with you.
+refuses to work with us
+It was only the second time she had missed work due to illness.
+He works from morning to night.
+I like the way he works.
+For whom does he work?
+Who does he work for?
+He works to rule.
+She never rests.
+She works at such a hectic pace.
+She works for Lufthansa.
+She works half-day at the cinema.
+He's a chef at the Trafalgar Hotel.
+","has an excellent reputation
+","which you will appreciate
+I appreciate that very much.
+","What do you do in your spare time?
+He spent his time reading.
+Tom spent most of the day with his daughter.
+He spent the day among friends.
+","She's coming.
+The sea's coming in.
+is quite out of the question
+That's out of the question.
+That depends on you.
+It only happens once in a blue moon.
+That seems funny to me.
+That sounds funny to me.
+That's out of the question.
+That depends on whether or not you want to.
+That depends on whether you want to or not.
+It depends.
+He's certain to come.
+He's certain to come.
+","used as a form of financing [FINAN.]
+used to safeguard investments [FINAN.]
+part of the sum is amortizationAEpart of the sum is amortisationBE / amortizationBE
+is evidence of
+What can I do for you?
+will suit your purpose
+would best answer our purpose
+We act as liaison between ...
+if this is of any help to you
+","let me know whether you
+please let us know
+please let us know the cause of the delay
+when ordering please instruct us
+this is to inform you
+Please instruct us ...
+Please inform us whether you could supply ...
+Be good enough to let us know ... dated
+I told him what was most important.
+",,"She feels hurt.
+Drink this - it's just what you need when you're feeling unwell.
+They sympathizeAE with him.They sympathiseBE / sympathizeBE with him.
+I'm already feeling heaps better.
+I was ill at ease.
+I felt very uncomfortable.
+I wasn't feeling very well
+They felt belittled.
+",,"He means business.
+She means business.
+When someone says they want to wash their hands, they often mean that they want to go to the toilet.
+It appears to us that
+Do you think it would be reasonable to ...
+Do you think there is a chance of ...
+I fail to see what you mean.
+I hope you'll back my plan.
+I carried my point.
+I take your point.
+I can see what you mean.
+I see what you mean.
+I see your point.
+I myself don't believe in ghosts.
+","she can
+he/she/it can't
+may be canceledAEmay be cancelledBE
+Are you ready to order?
+Can I talk to you for a second? - Yes, what's up?
+Can it be true?
+Can I have a bit?
+Can I take a message?
+Can someone give me a hand?
+can stand any competition
+may be canceledAE at any timemay be cancelledBE at any time
+can no longer be invoked
+may lead to further business
+can be traced back
+","She feels hurt.
+Drink this - it's just what you need when you're feeling unwell.
+They sympathizeAE with him.They sympathiseBE / sympathizeBE with him.
+I'm already feeling heaps better.
+I was ill at ease.
+I felt very uncomfortable.
+I wasn't feeling very well
+They felt belittled.
+",
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
 Er wohnt bei mir.
@@ -12006,4 +12682,101 @@ Ich denke, du hast jetzt genug getrunken!
 Ich denke schon.
 Es steckt mehr dahinter, als du denkst.
 was denkst du über ...
-"
+","bereit mit kleiner Provision zu arbeiten
+Es war uns eine Ehre, mit Ihnen zu arbeiten.
+weigert sich mit uns zu arbeiten
+Es war erst das zweite Mal, dass sie wegen Krankheit nicht arbeiten konnte.
+Er arbeitet von früh bis spät.
+Mir gefällt, wie er arbeitet.
+Für wen arbeitet er?
+Für wen arbeitet er?
+Er arbeitet nach Vorschrift.
+Sie arbeitet ununterbrochen.
+Sie arbeitet mit einer solchen Hektik.
+Sie arbeitet bei der Lufthansa.
+Sie arbeitet halbtags im Kino.
+Er arbeitet als Koch im Trafalgar Hotel.
+","genießt einen hervorragenden Ruf
+","welches Sie schätzen werden
+Das weiß ich sehr zu schätzen.
+","Wie verbringen Sie Ihre Freizeit?
+Er verbrachte seine Zeit mit Lesen.
+Tom verbrachte fast den ganzen Tag mit seiner Tochter.
+Er verbrachte den Tag mit Freunden.
+","Sie kommt.
+Die Flut kommt.
+kommt gar nicht infrage (or: in Frage)
+Das kommt nicht infrage (or: in Frage).
+Das kommt auf dich an. infinitive: ankommen
+Das kommt alle Jubeljahre vor.
+Das kommt mir komisch vor.
+Das kommt mir komisch vor.
+Das kommt nicht in Betracht.
+Das kommt darauf an ob du willst oder nicht. infinitive: ankommen
+Das kommt darauf an ob du willst oder nicht. infinitive: ankommen
+Es kommt darauf an.
+Er kommt bestimmt.
+Er kommt sicherlich.
+","dient als Finanzierungsform
+dient der Sicherung von Einlagen
+ein Teil der Summe dient zur Tilgung
+dient zur Beurkundung von
+Womit kann ich Ihnen dienen?
+wird Ihrem Anwendungszweck dienen
+würde unserem Zweck am besten dienen
+Wir dienen als Verbindung zwischen ...
+wenn Ihnen damit gedient ist
+","teilen Sie mir mit, ob Sie
+teilen Sie uns bitte mit
+teilen Sie uns bitte die Ursache der Verzögerung mit
+bei Auftragserteilung teilen Sie uns bitte mit
+hiermit teilen wir Ihnen mit
+Bitte teilen Sie uns mit ... infinitive: mitteilen
+Bitte teilen Sie uns mit, ob Sie ... liefern können.
+Bitte teilen Sie uns mit ... infinitive: mitteilen
+Ich teilte ihm das Wichtigste mit.
+",,"Sie fühlt sich gekränkt.
+Trink das - es ist genau das, was man braucht, wenn man sich unwohl fühlt.
+Sie fühlen mit ihm mit.
+Ich fühle mich schon viel besser.
+Ich fühlte mich beunruhigt.
+Ich fühlte mich sehr unbehaglich.
+Ich fühlte mich nicht sehr wohl
+Sie fühlten sich herabgesetzt.
+",,"Er meint es ernst.
+Sie meint es ernst.
+Wenn jemand sagt, er möchte sich die Hände waschen, meint er oft, dass er die Toilette benutzen möchte.
+Wir meinen, dass
+Meinen Sie, es wäre vertretbar zu ...
+Meinen Sie, es besteht eine Chance zu ...
+Ich begreife nicht, was Sie meinen.
+Ich hoffe, Sie unterstützen meinen Plan.
+Ich setzte meinen Willen durch.
+Ich verstehe, was Sie meinen.
+Ich verstehe, was Sie meinen.
+Ich verstehe, was Sie meinen.
+Ich verstehe, was Sie meinen.
+Ich für meinen Teil glaube nicht an Geister.
+","sie kann
+er/sie/es kann nicht
+kann annulliert werden
+Kann ich Ihre Bestellung aufnehmen?
+Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
+Kann es wahr sein?
+Kann ich etwas abhaben?
+Kann ich etwas ausrichten?
+Kann mir jemand kurz helfen?
+kann es mit jeder Konkurrenz halten
+kann jederzeit zurückgezogen werden
+kann nicht mehr geltend gemacht werden
+kann zu weiteren Geschäften führen
+kann zurückgeführt werden
+","Sie fühlt sich gekränkt.
+Trink das - es ist genau das, was man braucht, wenn man sich unwohl fühlt.
+Sie fühlen mit ihm mit.
+Ich fühle mich schon viel besser.
+Ich fühlte mich beunruhigt.
+Ich fühlte mich sehr unbehaglich.
+Ich fühlte mich nicht sehr wohl
+Sie fühlten sich herabgesetzt.
+",

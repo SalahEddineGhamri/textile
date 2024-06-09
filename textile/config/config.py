@@ -22,7 +22,7 @@ ARTICLES_CACHE_FILE = TEXTILE_DIR / "cache/articles.csv"
 ANKI_PATH = TEXTILE_DIR / "anki_output"
 
 # TODO change to INPUT_TEXT_PATH
-INPUT_PATH = TEXTILE_DIR / "texts/input_3.txt"
+INPUT_PATH = TEXTILE_DIR / "texts/input_4.txt"
 
 # Create the directory if not found
 VERBS_CONJUGATION_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)

@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So
 basic_forms,english,,,,"müssen : Verb
 ",,,,,,,,"früh : Adjective
 ",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
@@ -22,8 +22,11 @@ langen : Verb
 ",,"schwierig : Adjective
 ",,,"frustrieren : Verb
 ",,,,"enttäuschen : Verb
-"
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,"umkehren : Verb
+sich umkehren : Verb
+umkehren : Verb
+",
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -1015,6 +1018,61 @@ to fail so. | failed, failed |
 to badly disappoint so.
 to be gutted (about sth.)
 to be gutted (about sth.)
+","to be together
+to rendezvous | rendezvoused, rendezvoused |
+to strike together
+to accompany each other
+to do sth. together
+sth. falls into place infinitive: fall
+sth. is brewing
+sth. falls into place infinitive: fall
+to be around so.
+sth. goes kaboom infinitive: to go kaboom - undergo a sudden change [coll.]
+sth. adds up infinitive: add up
+to coact | coacted, coacted |
+to put one's heads together
+so.'s mouth waters
+","to leave so./sth. alone
+to be out on a limb [fig.]
+to be solely responsible
+to find oneself abandoned
+to monopolizeAE the conversation to monopoliseBE / monopolizeBE the conversation
+","to make love
+to chink glasses
+to interconnect | interconnected, interconnected |
+to interlink | interlinked, interlinked |
+to reconcile | reconciled, reconciled |
+to date | dated, dated |
+to get on
+to interchange | interchanged, interchanged |
+to interblend | interblended, interblended |
+to be on speaking terms
+to argue | argued, argued |
+to tie sth. together
+to interlink sth. | interlinked, interlinked |
+to date | dated, dated |
+","to return | returned, returned |
+to turn back
+to repent | repented, repented |
+to invert sth. | inverted, inverted |
+to reverse sth. | reversed, reversed |
+to obvert sth. | obverted, obverted |
+to weaken | weakened, weakened | - current [ELEC.]
+to reverse the onus of proof [LAW]
+","to go to such lengths
+to glory in sth.
+to go through the motions
+to play-act | play-acted, play-acted |
+to compete with so.
+to condescend to do sth.
+to deign to do sth.
+to have a will of one's own
+to knock the stuffing out of so. [fig.] [coll.]
+to have a hunch (that ...) - have a premonition
+to scrape through
+to take sth. with a pinch of salt
+so. is so much better
+to scratch along
 "
 verbs,german,"alt werden
 alt werden
@@ -2007,6 +2065,61 @@ jmdn. enttäuschen | enttäuschte, enttäuscht |
 jmdn. schwer enttäuschen
 (über etw.acc.) bitter enttäuscht sein
 (über etw.acc.) herb enttäuscht sein
+","zusammen sein
+zusammen kommen
+zusammen schlagen
+zusammen gehen
+etw.acc. zusammen unternehmen
+etw.nom. passt zusammen infinitive: zusammenpassen
+etw.nom. braut sich zusammen
+etw.nom. fügt sich zusammen infinitive: sich zusammenfügen
+mit jmdm. zusammen sein
+etw.nom. bricht in sich zusammen infinitive: in sich zusammenbrechen [fig.]
+etw.nom. läppert sich zusammen infinitive: zusammenläppern [coll.]
+zusammen tätig sein
+zusammen an etwas arbeiten
+jmdm. läuft das Wasser im Mund zusammen
+","jmdn./etw. allein lassen
+allein dastehen
+allein verantwortlich sein
+plötzlich allein dastehen
+das Gespräch allein bestreiten
+","miteinander schlafen
+miteinander anstoßen
+miteinander verbinden
+miteinander verbinden
+miteinander vereinbaren
+miteinander ausgehen
+miteinander auskommen
+miteinander vertauschen
+miteinander mischen
+miteinander reden
+miteinander streiten
+etw.acc. miteinander verknüpfen
+etw.acc. miteinander verbinden
+miteinander gehen [coll.]
+","umkehren | kehrte um, umgekehrt |
+umkehren | kehrte um, umgekehrt |
+umkehren | kehrte um, umgekehrt |
+etw.acc. umkehren | kehrte um, umgekehrt |
+etw.acc. umkehren | kehrte um, umgekehrt |
+etw.acc. umkehren | kehrte um, umgekehrt | [Logics]
+umkehren | kehrte um, umgekehrt | - Strom
+die Beweislast umkehren
+","so weit gehen
+etw.acc. so richtig auskosten
+so tun, als ob
+so tun, als ob
+so groß sein wie jmd.
+so gnädig sein, etw.acc. zu tun - ironisch
+so gnädig sein, etw.acc. zu tun - ironisch
+so seine Mucken haben [hum.] [coll.]
+jmdn. so richtig fertigmachen
+so ein Gefühl haben (, dass ...) [coll.]
+gerade noch so durchkommen
+etw.acc. nicht so ernst nehmen
+jmdm. geht es viel besser
+sichacc. gerade so durchschlagen
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -3055,6 +3168,40 @@ oblique angle [TECH.]
 skew ray [TELECOM.]
 crooked hole [TECH.]
 ",,"earnings disappointments [FINAN.]
+",,"single mother
+single parent
+single father
+single parent
+single parent
+stand-alone (Amer.) [COMP.]
+functional silo [COMM.]
+breakwater [ENGIN.]
+detached mole [ENGIN.]
+","cooperation or: co-operation
+linked processes
+intermeshing gears pl. [TECH.]
+group of disconnected cracks [TECH.]
+","reciprocity
+inverse ratio
+inverse relationship
+reciprocal ratio
+reciprocation
+reverse order
+inverse relationship
+inverse posting key
+reverse leverage
+reverse
+reverse effect
+the reverse
+backslash or: back slash [TECH.]
+inverse segregation [TECH.]
+","sol or: so, soh [MUS.]
+SO meeting [abbr.: SOM] [ADMIN.][POL.]
+SO meeting [abbr.: SOM] [ADMIN.][POL.]
+five times as much
+nine times as much
+some bumbling idiot
+lying so-and-so
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -4103,6 +4250,40 @@ schiefer Winkel
 schiefer Strahl
 schiefes Loch
 ",,"enttäuschendes Ergebnis
+",,"alleinerziehende (or: allein erziehende) Mutter
+alleinerziehende (or: allein erziehende) Mutter
+alleinerziehender (or: allein erziehender) Vater
+alleinerziehender (or: allein erziehender) Vater
+alleinerziehender (or: allein erziehender) Elternteil
+allein operierendes Gerät
+allein stehende Abteilung
+allein stehender Hafendamm [Hydraulic Engineering]
+allein stehender Hafendamm [Hydraulic Engineering]
+","das Miteinander no plural
+miteinander verknüpfte Prozesse
+miteinander kämmende Räder pl.
+Gruppe nicht miteinander verbundener Risse
+","umgekehrtes Verhältnis
+umgekehrtes Verhältnis
+umgekehrtes Verhältnis
+umgekehrtes Verhältnis
+umgekehrtes Verhältnis
+umgekehrte Reihenfolge
+umgekehrte Beziehung
+umgekehrter Buchungsschlüssel
+umgekehrte Hebelwirkung
+umgekehrte Seite
+umgekehrte Wirkung
+der umgekehrte Fall pl.: die Fälle
+umgekehrter Schrägstrich symbol: \
+umgekehrte Seigerung
+","das G pl.: die G - fünfter Ton der C-Dur-Tonleiter
+Tagung hoher Beamter [abbr.: SOM] [EU]
+Treffen hoher Beamter [abbr.: SOM] [EU]
+fünfmal so viel
+neunmal so viel
+irgend so ein Vollidiot
+der Lügner | die Lügnerin pl.: die Lügner, die Lügnerinnen
 "
 noun_details,english,"article: Der
 word: Alt
@@ -4764,8 +4945,32 @@ genus:
 plural: Ergebnis
 meaning: earnings disappointments [FINAN.]
 
+",,"article: alleinerziehende
+word: (or:
+genus: 
+plural: Mutter
+meaning: single mother
+single parent
+","article: Das
+word: Miteinander
+genus: NEUT
+plural: plural
+meaning: cooperation or: co-operation
+linked processes
+","article: umgekehrtes
+word: Verhältnis
+genus: 
+plural: Verhältnis
+meaning: reciprocity
+inverse ratio
+","article: das
+word: G
+genus: NEUT
+plural: die G - fünfter Ton der C-Dur-Tonleiter
+meaning: sol or: so, soh [MUS.]
+SO meeting [abbr.: SOM] [ADMIN.][POL.]
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -6333,6 +6538,68 @@ viz. - short for Latin ""videlicet"" adv. [form.] Latin
 anticlimactic adj.
 underwhelming adj.
 unfruitful adj.
+","together (with) adv.
+altogether adv.
+combined adj.
+collectively - jointly, united adv.
+in all
+contiguous adj.
+conjoined adj.
+in conjunction
+en masse adv.
+in a body
+chock-a-block adj. - used after noun
+","alone adj.
+by oneself
+sole adj.
+on one's own
+reclusive adj.
+reclusively adv.
+unescorted adj.
+lone adj.
+single-handedly adv.
+solitarily adv.
+solitary adj.
+solus | sola adj. Latin [THEA.]
+on one's tod [sl.]
+but alas chiefly [form.] - unfortunately
+","together adv.
+jointly adv.
+with each other
+interconnected adj.
+consistent adj.
+interconvertible adj.
+interwoven adj.
+conjoined at the hip/back adj.
+closely related
+","reverse adj.
+inverted adj.
+conversely adv.
+inverse adj.
+arsy-versy adj. adv.
+converse adj.
+reciprocal adj.
+contrariwise adv.
+contrary adj. adv.
+inversely adv.
+reciprocally adv.
+vice versa
+topsy-turvy adj. adv.
+backwards adv.
+","as adv. conj.
+so adv.
+such adv.
+like that
+like this
+thus adv.
+so adv.
+so adv.
+that adv. - demonstrative [coll.]
+just like that
+so adv.
+so adv.
+that way
+for example
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -7901,6 +8168,68 @@ und zwar
 enttäuschend
 enttäuschend
 enttäuschend
+","zusammen (mit)
+zusammen
+zusammen adv.
+zusammen
+zusammen adv.
+zusammen adv.
+zusammen adv.
+zusammen adv.
+alle zusammen
+alle zusammen
+dicht zusammen
+","allein or: alleine
+allein or: alleine
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein
+allein - jedoch [form.]
+","miteinander
+miteinander
+miteinander adv.
+miteinander verbunden
+miteinander vereinbar
+miteinander vertauschbar
+miteinander verwoben
+miteinander an der Hüfte/am Rücken verwachsen
+eng miteinander verwandt
+","umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+umgekehrt
+","so
+so
+so
+so
+so
+so
+also
+daher
+so
+so
+deshalb
+dermaßen
+so adv.
+so adv. - beispielsweise
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -8845,7 +9174,37 @@ Get you gone!
 pdq [abbr.: PDQ, P. D. Q.] - short for pretty damn quick adv.
 and rightly so
 and rightly so
-",
+",,"Pull yourself together!
+Get a grip!
+Pull yourself together!
+Pull yourself together!
+let's get down and dirty [coll.]
+it all came crashing down about his ears
+","the very fact
+the very thought/idea
+just for me
+Fine words butter no parsnips.
+all work and no play makes Jack a dull boy
+Home sweet home.
+It never rains but it pours.
+When it rains, it pours.
+Man does not live by (or: on) bread alone.
+","all and sundry
+",,"well
+There!
+So?
+So?
+as ... as
+So what?
+so much
+So long!
+So long!
+thus far
+so what
+Such a long time!
+thus much
+so long
+"
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
 für Jung und Alt
@@ -9789,7 +10148,37 @@ Mach dich fort!
 und zwar zackig [coll.]
 und zwar mit Recht
 und zwar zu Recht
-",
+",,"Reiß dich zusammen!
+Nimm dich zusammen!
+Nimm dich zusammen!
+Reißen Sie sich zusammen!
+lass es uns zusammen tun
+um ihn herum brach alles zusammen [fig.]
+","die Tatsache allein
+allein schon der Gedanke/die Vorstellung
+für mich allein
+Mit Worten allein ist nicht geholfen.
+Arbeit allein macht nicht glücklich
+Trautes Heim, Glück allein.
+Ein Unglück kommt selten allein.
+Ein Unglück kommt selten allein.
+Der Mensch lebt nicht vom Brot allein.
+","alle miteinander
+",,"so
+So!
+Na und?
+Und?
+so ... wie
+Na und?
+so sehr
+Bis dann!
+Auf Wiedersehen!
+so weit
+nebbich
+So lange!
+so viel
+auf Wiedersehen
+"
 examples,english,"How old are you?
 I'm double your age.
 What's his age?
@@ -10822,7 +11211,47 @@ The picture is crooked.
 Something always goes wrong when you least expect it to.
 ","Though he's rich, he's an honest man.
 Then you'll be in trouble, in fact in deep trouble.
-",
+",,"They're a bad match.
+She is very restful to be with.
+We had not a pound among us.
+We'll pool expenses and travel together.
+The two colorsAE clash violently.The two coloursBE clash violently.
+It is made up of
+The colorsAE do not match.The coloursBE do not match.
+If word gets around that we're together there will be trouble with your mother.
+The girl that I used to go out with is now my doctor.
+The girl who I used to go out with is now my doctor.
+The sight of the cake made my mouth water.
+We should hang out some time. [coll.]
+This doesn't hold water. [fig.]
+a political breakpoint
+collision at sea
+","the only true church [REL.]
+He is a single father.
+She is a single mother.
+I'll find my own way out
+He came by himself.
+I can do it by myself.
+the sheer enormity
+on the basis of the documents alone
+","affiliated with each other
+They didn't get along well together.
+They are not on speaking terms.
+",,"It won't last.
+50 or so
+a week or so
+There's no such thing.
+I know better.
+I like that!
+That's the way he wants it.
+It's not that good.
+as many as possible
+as early as possible
+That's right!
+That's just the way it is.
+That's just the way it is.
+That's just the way it is.
+"
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
 Wie alt ist er?
@@ -11855,4 +12284,44 @@ Das Bild hängt schief.
 Es geht immer dann etwas schief, wenn man es am wenigsten erwartet.
 ","Er ist zwar reich, aber ehrlich.
 Dann bekommst du aber Ärger, und zwar gehörigen.
-",
+",,"Sie passen überhaupt nicht zusammen.
+Es ist beruhigend, mit ihr zusammen zu sein.
+Wir zusammen hatten kein Pfund.
+Wir legen zusammen und reisen gemeinsam.
+Die beiden Farben passen überhaupt nicht zusammen.
+Es setzt sich zusammen aus
+Die Farben passen nicht zusammen.
+Wenn sich herumspricht, dass wir zusammen sind, gibt es Ärger mit deiner Mutter.
+Das Mädchen, mit dem ich früher zusammen war, ist jetzt meine Ärztin.
+Das Mädchen, mit dem ich früher zusammen war, ist jetzt meine Ärztin.
+Als ich den Kuchen sah, lief mir das Wasser im Mund zusammen.
+Wir sollten mal was zusammen unternehmen. [coll.]
+Das passt hinten und vorne nicht zusammen.
+Zusammenbruch des politischen Systems
+der Zusammenstoß auf hoher See
+","die allein seligmachende (or: allein selig machende) Kirche
+Er ist alleinerziehend (or: allein erziehend).
+Sie ist alleinerziehend (or: allein erziehend).
+ich finde allein raus
+Er kam allein.
+Ich kann es allein tun.
+schon allein das ungeheure Ausmaß
+allein aufgrund (or: auf Grund) der Dokumente
+","miteinander verbunden
+Sie sind nicht gut miteinander ausgekommen.
+Sie sprechen nicht miteinander.
+",,"Es wird nicht lange so bleiben.
+etwa 50
+etwa eine Woche
+So etwas gibt es nicht.
+So dumm bin ich nicht.
+So was mag ich!
+So will er es haben.
+So gut ist es auch wieder nicht.
+so viele wie möglich
+so früh wie möglich
+So ist es!
+So ist es eben.
+So ist es halt.
+So ist es nun mal.
+"

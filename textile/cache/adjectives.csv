@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -116,8 +116,14 @@ heißen : Verb
 ","hart : Adjective
 ","missglückt : Adjective
 missglücken : Verb
+",None,"attraktiv : Adjective
+",None,"viel : Adjective
+","sogenannt : Adjective
+","offen : Adjective
+","offen : Adjective
+","offen : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -731,6 +737,78 @@ to forge sth. | forged, forged |
 ","to fail | failed, failed |
 to miss | missed, missed |
 to miscarry | miscarried, miscarried | [form.]
+","to be getting a bit long in the tooth
+to be getting on a bit [coll.]
+",None,"to build up its own industry
+to have an agenda
+to save one's skin
+to save one's hide
+to have a mind of one's own
+to cut off one's nose to spite one's face
+to save one's bacon [fig.]
+to trade for own account
+to purchase for own account
+to job | jobbed, jobbed |
+to trouser money [coll.]
+to pocket sth. | pocketed, pocketed | - steal
+to carry a retention [INSUR.]
+to retain | retained, retained | [INSUR.]
+","to team two or more people
+to bear the brunt
+to surcharge | surcharged, surcharged |
+to outsell so. | outsold, outsold |
+to duplicate | duplicated, duplicated |
+to womanizeAE to womaniseBE / womanizeBE | womanized, womanized / womanised, womanised |
+to get more display space
+to multitask | multitasked, multitasked |
+to attract many participants
+to speechify | speechified, speechified |
+to be better than one's word
+to empower so. | empowered, empowered |
+to empower so. | empowered, empowered |
+to outweigh sth. | outweighed, outweighed |
+",None,"to keep open
+to stay open
+to stand open
+to flaunt sth. | flaunted, flaunted |
+to lie right to so.'s face
+to leave sth. open
+to leave sth. open
+to be upfront with so.
+to be frank with so.
+to carry | carried, carried | [TECH.]
+to maintain | maintained, maintained | [TECH.]
+to barbecue sth. | barbecued, barbecued |
+to daydream | daydreamed/daydreamt, daydreamed/daydreamt |
+to day-dream | day-dreamed/day-dreamt, day-dreamed/day-dreamt |
+","to keep open
+to stay open
+to stand open
+to flaunt sth. | flaunted, flaunted |
+to lie right to so.'s face
+to leave sth. open
+to leave sth. open
+to be upfront with so.
+to be frank with so.
+to carry | carried, carried | [TECH.]
+to maintain | maintained, maintained | [TECH.]
+to talk things out
+to speak one's mind
+to cry out a bid
+","to keep open
+to stay open
+to stand open
+to flaunt sth. | flaunted, flaunted |
+to lie right to so.'s face
+to leave sth. open
+to leave sth. open
+to be upfront with so.
+to be frank with so.
+to carry | carried, carried | [TECH.]
+to maintain | maintained, maintained | [TECH.]
+to speak one's mind
+to cry out a bid
+to be ajar
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -1345,6 +1423,78 @@ hart an etw.dat. arbeiten
 ","missglücken | missglückte, missglückt |
 missglücken | missglückte, missglückt |
 missglücken | missglückte, missglückt |
+","nicht mehr der Jüngste sein
+nicht mehr der (or: die) Jüngste sein
+",None,"eigene Industrie aufbauen
+eigene Ziele verfolgen
+die eigene Haut retten
+die eigene Haut retten
+eine eigene Meinung haben
+sichacc. ins eigene Fleisch schneiden
+die eigene Haut retten
+auf eigene Rechnung handeln
+auf eigene Rechnung kaufen
+in die eigene Tasche wirtschaften
+Geld in die eigene Tasche stecken [coll.]
+etw.acc. in die eigene Tasche stecken [coll.]
+auf eigene Rechnung laufen
+auf eigene Rechnung laufen
+","zwei oder mehr Personen zusammenbringen
+das meiste (or: Meiste) abbekommen
+mehr verlangen
+mehr als jmd. verkaufen
+mehrere Kopien machen
+viele Frauengeschichten haben
+mehr Ausstellungsraum gewinnen
+mehrere Arbeitsgänge gleichzeitig erfüllen
+viele Teilnehmer anlocken
+viele Worte machen
+mehr tun als man verspricht
+jmdm. mehr Entscheidungsbefugnis geben
+jmdm. mehr Macht geben
+mehr Gewicht haben als etw.acc.
+",None,"offen halten - z. B. eine Fluchtstrecke
+offen bleiben
+offen stehen
+etw.acc. offen zeigen
+jmdn. offen anlügen
+etw.acc. offen lassen
+etw.acc. offen halten
+offen mit jmdm. sein
+zu jmdm. offen sein
+offen halten - z. B. eine Fluchtstrecke
+offen halten - z. B. eine Fluchtstrecke
+etw.acc. am offenen Feuer braten
+mit offenen Augen träumen
+mit offenen Augen schlafen
+","offen halten - z. B. eine Fluchtstrecke
+offen bleiben
+offen stehen
+etw.acc. offen zeigen
+jmdn. offen anlügen
+etw.acc. offen lassen
+etw.acc. offen halten
+offen mit jmdm. sein
+zu jmdm. offen sein
+offen halten - z. B. eine Fluchtstrecke
+offen halten - z. B. eine Fluchtstrecke
+eine offene Aussprache führen
+offen seine Meinung sagen
+ein Gebot offen abgeben
+","offen halten - z. B. eine Fluchtstrecke
+offen bleiben
+offen stehen
+etw.acc. offen zeigen
+jmdn. offen anlügen
+etw.acc. offen lassen
+etw.acc. offen halten
+offen mit jmdm. sein
+zu jmdm. offen sein
+offen halten - z. B. eine Fluchtstrecke
+offen halten - z. B. eine Fluchtstrecke
+offen seine Meinung sagen
+ein Gebot offen abgeben
+eine Hand breit offen stehen
 "
 nouns,english,"previous debt
 former quotations
@@ -2160,6 +2310,88 @@ hard drug
 hard currency [FINAN.]
 ","misdeal
 unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
+","up-to-the-minute news
+doom
+Last JudgmentAE [REL.]Last JudgementBE [REL.]
+JudgmentAE Day [REL.]JudgementBE Day [REL.]
+","attractive terms
+arm candy [coll.]
+attractive salary
+attractive personality
+plum job
+des res - short for ""desirable residence"" (Brit.) [coll.]
+attractive price
+attractive offer
+","selfhood
+own brand
+own funds
+internal variance
+internal price variance
+treasury stock - own shares
+in-house production
+internal power supply
+ideas of one's own
+separate identity
+domestic purity
+own shares pl. [FINAN.]
+acceptances outstanding [FINAN.]
+internal resources [FINAN.]
+","most
+several opportunities pl.
+several millions pl.
+wisdom of crowds [PSYCH.]
+multi-site certification
+multi-storyAE buildingmulti-storeyBE building
+syndication
+sth. no longer has any effect
+assembly [TECH.]
+braided intersection
+multiple bridge intersection
+multi-speed motor [TECH.]
+versioning [COMM.]
+gang support [TECH.]
+",None,"suspension hook exposed [TECH.]
+halfway house
+open letter
+open sea
+high sea sg., usually in plural: high seas
+open system
+open-ended question
+open-end question
+open reserves pl.
+offing
+open sea
+offshore
+high sea sg., usually in plural: high seas
+main sea
+","halfway house
+open-ended question
+open-end question
+open reserves pl.
+offing
+open sea
+offshore
+high sea sg., usually in plural: high seas
+main sea
+job vacancy
+vacancy
+gap
+job opening
+opening
+","open sea
+high sea sg., usually in plural: high seas
+open system
+open tread
+open loan
+open white water system
+high sea sg., usually in plural: high seas
+naked flame
+depth interview
+open web
+loose ice
+open interest
+open account
+open customs warehouse
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -2975,6 +3207,88 @@ harte Droge [Drugs]
 harte Währung
 ","missglücktes Geschäft
 missglückte Sterilisation
+","jüngste Nachrichten
+das Jüngste Gericht
+das Jüngste Gericht
+der Jüngste Tag
+","attraktive Ausstattung
+attraktive Begleitung
+attraktive Bezahlung
+attraktive Persönlichkeit
+attraktiver Job
+attraktiver Wohnsitz
+attraktiver Preis
+attraktives Angebot
+","eigene Persönlichkeit
+eigene Marke
+eigene Mittel
+eigene Abweichung
+eigene Preisabweichung
+eigene Anteile
+eigene Herstellung
+eigene Energieversorgung
+eigene Ideen
+eigene Identität
+eigene Lauterkeit
+eigene Aktien pl. [Stock Exchange]
+eigene Akzepte
+eigene Mittel
+","das meiste or: Meiste
+mehrere Gelegenheiten pl.
+mehrere Millionen pl.
+Weisheit der Vielen
+Zertifizierung mehrerer Standorte
+Gebäude mit mehreren Stockwerken
+Zusammenschluss mehrerer Kapitalgeber
+etw.nom. kommt nicht mehr zum Tragen
+Aufbau aus mehreren Teilen
+Kreuzung in mehreren Ebenen [Road Construction]
+Kreuzung in mehreren Ebenen [Road Construction]
+Motor mit mehreren Drehzahlen
+Angebot in mehreren Versionen
+Auflager für mehrere Rohrleitungen
+",None,"Aufhängeöse offen
+offene Anstalt - im Strafvollzug
+offener Brief
+offenes Meer
+offenes Meer
+offenes System
+offene Frage
+offene Frage
+offene Rücklagen pl.
+offene See
+offene See
+offene See
+offene See
+offene See
+","offene Anstalt - im Strafvollzug
+offene Frage
+offene Frage
+offene Rücklagen pl.
+offene See
+offene See
+offene See
+offene See
+offene See
+offene Stelle
+offene Stelle
+offene Stelle
+offene Stelle
+offene Stelle
+","offenes Meer
+offenes Meer
+offenes System
+offenes Profil
+offenes Darlehen
+offenes Rückwassersystem
+offenes Wasser
+offenes Feuer
+offenes Interview
+offenes Web
+offenes Eis
+offenes Interesse
+offenes Konto
+offenes Zolllager
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -3426,8 +3740,50 @@ genus:
 plural: Geschäft
 meaning: misdeal
 unsuccessful sterilizationAE [MED.]unsuccessful sterilisationBE / sterilizationBE [MED.]
+","article: jüngste
+word: Nachrichten
+genus: 
+plural: Nachrichten
+meaning: up-to-the-minute news
+doom
+","article: attraktive
+word: Ausstattung
+genus: 
+plural: Ausstattung
+meaning: attractive terms
+arm candy [coll.]
+","article: eigene
+word: Persönlichkeit
+genus: 
+plural: Persönlichkeit
+meaning: selfhood
+own brand
+","article: das
+word: meiste
+genus: NEUT
+plural: Meiste
+meaning: most
+several opportunities pl.
+",None,"article: Aufhängeöse
+word: offen
+genus: 
+plural: offen
+meaning: suspension hook exposed [TECH.]
+halfway house
+","article: offene
+word: Anstalt
+genus: 
+plural: Strafvollzug
+meaning: halfway house
+open-ended question
+","article: offenes
+word: Meer
+genus: 
+plural: Meer
+meaning: open sea
+high sea sg., usually in plural: high seas
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -4204,7 +4560,89 @@ grim adj.
 rigorous adj.
 callous adj.
 inclement adj.
-",None
+",None,"recent adj.
+","attractive adj.
+handsome adj.
+fetching adj.
+nubile adj.
+appealing adj.
+comely adj.
+dishy adj. (Brit.) [coll.]
+buff [coll.] - physically attractive adj.
+bonny or: bonnie adj. chiefly (Scot.)
+dishy adj.
+","own adj.
+proprietary adj.
+of one's own
+private adj.
+for one's own account
+for own account
+at one's own expense
+on one's own account
+viewless adj.
+viewlessly adv.
+at one's own expense
+on one's own account
+at one's own risk
+at one's own peril
+","much adj. adv. pron.
+plenty adj. adv.
+beaucoup adj. (Amer.)
+ample adj.
+a great deal
+a good deal
+most adv.
+numerous adj.
+most of the time - usually
+most of the time - usually
+a great many
+for the most part
+exceeding adj.
+most - nearly all adj. - determiner
+","so-called adj.
+","open adj. also [MATH.]
+frankly adj.
+naked adj.
+outstanding adj. [FINAN.]
+candid adj.
+exposed adj.
+overt adj.
+above board
+forthright adj.
+outright adj.
+frank adj.
+outspoken adj.
+apertured adj.
+chappy adj.
+","open adj. also [MATH.]
+frankly adj.
+naked adj.
+outstanding adj. [FINAN.]
+candid adj.
+exposed adj.
+overt adj.
+above board
+forthright adj.
+outright adj.
+frank adj.
+outspoken adj.
+apertured adj.
+chappy adj.
+","open adj. also [MATH.]
+frankly adj.
+naked adj.
+outstanding adj. [FINAN.]
+candid adj.
+exposed adj.
+overt adj.
+above board
+forthright adj.
+outright adj.
+frank adj.
+outspoken adj.
+apertured adj.
+chappy adj.
+"
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
 ","wichtig
@@ -4981,7 +5419,89 @@ hart
 hart
 hart
 hart
-",None
+",None,"jüngster | jüngste | jüngstes
+","attraktiv
+attraktiv
+attraktiv
+attraktiv
+attraktiv
+attraktiv
+attraktiv
+attraktiv
+attraktiv
+sexuell attraktiv
+","eigener | eigene | eigenes
+eigener | eigene | eigenes
+eigener | eigene | eigenes
+eigener | eigene | eigenes
+auf eigene Rechnung
+auf eigene Rechnung
+auf eigene Rechnung
+auf eigene Rechnung
+ohne eigene Meinung
+ohne eigene Meinung
+auf eigene Kosten
+auf eigene Kosten pl., no sg.
+auf eigene Gefahr
+auf eigene Gefahr
+","viel
+viel
+viel
+viel
+viel
+(sehr) viel
+am meisten
+viele
+meist - meistens
+meistens
+(sehr) viele
+meist
+mehr als
+die meisten
+","sogenannt or: so genannt
+","offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+","offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+","offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+offen
+"
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
 an important factor
@@ -5467,7 +5987,64 @@ when the going gets tough
 when it comes to the crunch
 to face an uphill battle
 to pull no punches
-",None
+",None,None,None,"a flat of one's own
+to foul one's own nest [fig.]
+on one's own initiative
+on one's own account
+to feather one's own nest
+to line one's own pockets
+to line one's pocket
+","the vast bulk
+Thanks a lot!
+Thank you very much.
+Many thanks!
+most people
+Thank you very much for your efforts!
+Thank you very much for your trouble!
+Thanks for calling!
+to be all tinsel and glitter
+Thanks for the invitation.
+to have two strings to one's bow
+to be in a bind
+to be in over one's head
+with many thanks for
+",None,"to be asleep at the switch [fig.]
+to be asleep at the wheel [fig.]
+fair and square
+gaping wide open
+it's a toss-up
+It's still up in the air.
+to put it bluntly
+to keep one's eyes peeled (for so./sth.)
+it was a toss-up whether ...
+recourse may be had
+to preach to the converted (Brit.)
+to preach to the choir (Amer.) [fig.]
+","to preach to the converted (Brit.)
+to preach to the choir (Amer.) [fig.]
+fair and square
+gaping wide open
+it's a toss-up
+It's still up in the air.
+to put it bluntly
+to keep one's eyes peeled (for so./sth.)
+it was a toss-up whether ...
+recourse may be had
+to be asleep at the switch [fig.]
+to be asleep at the wheel [fig.]
+","fair and square
+gaping wide open
+it's a toss-up
+It's still up in the air.
+to put it bluntly
+to keep one's eyes peeled (for so./sth.)
+it was a toss-up whether ...
+recourse may be had
+to preach to the converted (Brit.)
+to be asleep at the switch [fig.]
+to be asleep at the wheel [fig.]
+to preach to the choir (Amer.) [fig.]
+"
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -5953,7 +6530,64 @@ wenn es hart auf hart kommt
 wenn es hart auf hart kommt
 einen harten Kampf vor sichdat. haben
 mit harten Bandagen kämpfen [fig.]
-",None
+",None,None,None,"eine eigene Wohnung
+das eigene Nest beschmutzen [fig.]
+auf eigene Faust
+auf eigene Faust
+in die eigene Tasche wirtschaften
+in die eigene Tasche wirtschaften
+in die eigene Tasche arbeiten
+","das meiste (or: Meiste)
+Vielen Dank!
+Vielen Dank!
+Vielen Dank!
+die meisten Leute
+Vielen Dank für Ihre Bemühungen!
+Vielen Dank für Ihre Bemühungen!
+Vielen Dank für Ihren Anruf!
+mehr Schein als Sein sein
+Vielen Dank für die Einladung.
+mehrere Eisen im Feuer haben
+nicht mehr weiterwissen
+kein Land mehr sehen können
+mit vielem Dank für
+",None,"mit offenen Augen schlafen [fig.]
+mit offenen Augen schlafen [fig.]
+offen und ehrlich
+sperrangelweit offen
+es ist völlig offen
+Es ist noch alles offen.
+um es ganz offen zu sagen
+die Augen (nach jmdm./etw.) offen halten
+es war völlig offen, ob ...
+der Rechtsweg steht offen
+bei jmdm. offene Türen einrennen
+bei jmdm. offene Türen einrennen [fig.]
+","bei jmdm. offene Türen einrennen
+bei jmdm. offene Türen einrennen [fig.]
+offen und ehrlich
+sperrangelweit offen
+es ist völlig offen
+Es ist noch alles offen.
+um es ganz offen zu sagen
+die Augen (nach jmdm./etw.) offen halten
+es war völlig offen, ob ...
+der Rechtsweg steht offen
+mit offenen Augen schlafen [fig.]
+mit offenen Augen schlafen [fig.]
+","offen und ehrlich
+sperrangelweit offen
+es ist völlig offen
+Es ist noch alles offen.
+um es ganz offen zu sagen
+die Augen (nach jmdm./etw.) offen halten
+es war völlig offen, ob ...
+der Rechtsweg steht offen
+bei jmdm. offene Türen einrennen
+mit offenen Augen schlafen [fig.]
+mit offenen Augen schlafen [fig.]
+bei jmdm. offene Türen einrennen [fig.]
+"
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -6478,7 +7112,39 @@ She is called Myra.
 My girlfriend, who lives in Paris, is called Julie.
 ","I've burnt my fingers. [fig.]
 ",None,"It was either do or die.
-",None
+",None,"He's getting a bit long in the tooth.
+","Please try to make an attractive offer.
+","make your own decision
+at his own expense
+at his own expense
+","She earns lots of money, most of which she spends on new clothes.
+Most of us enjoy cooking.
+Most of the children in my class like chocolate.
+Most of the people there were having fun.
+Most people like warm weather.
+Most of my old teachers are retired.
+There is evidence that ...
+He puts up a big front.
+to be observed in many markets
+duration of several months
+after many adventures
+","the so-called consignor
+","amenable to negotiation
+Many careers are open to her.
+Be frank with me.
+She was very outspoken about it.
+the shops are open
+","amenable to negotiation
+Many careers are open to her.
+Be frank with me.
+She was very outspoken about it.
+the shops are open
+","amenable to negotiation
+Many careers are open to her.
+Be frank with me.
+She was very outspoken about it.
+the shops are open
+"
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -7003,4 +7669,36 @@ Sie heißt Myra.
 Meine Freundin, die in Paris lebt, heißt Julie.
 ","Ich habe mir die Finger verbrannt.
 ",None,"Es ging hart auf hart.
-",None
+",None,"Er ist nicht mehr der Jüngste.
+","Bitte versuchen Sie ein attraktives Angebot zu machen.
+","treffen Sie Ihre eigene Entscheidung
+auf eigene Kosten
+auf eigene Rechnung
+","Sie verdient einen Haufen Geld, von dem sie das Meiste (or: meiste) für neue Klamotten ausgibt.
+Die meisten von uns kochen gerne.
+Die meisten Kinder in meiner Klasse mögen Schokolade.
+Die meisten Leute dort hatten Spaß.
+Die meisten Leute mögen warmes Wetter.
+Die meisten meiner ehemaligen Lehrer sind jetzt in Rente.
+Vieles weist darauf hin, dass ...
+Es ist vieles nur Fassade bei ihm.
+auf vielen Märkten beobachtet
+Laufzeit von mehreren Monaten
+nach vielen Abenteuern
+","der sogenannte Kommittent
+","offen für Verhandlungen
+Ihr stehen viele Berufe offen.
+Seien Sie offen zu mir.
+Sie äußerte sich sehr offen darüber.
+die Läden sind offen
+","offen für Verhandlungen
+Ihr stehen viele Berufe offen.
+Seien Sie offen zu mir.
+Sie äußerte sich sehr offen darüber.
+die Läden sind offen
+","offen für Verhandlungen
+Ihr stehen viele Berufe offen.
+Seien Sie offen zu mir.
+Sie äußerte sich sehr offen darüber.
+die Läden sind offen
+"
