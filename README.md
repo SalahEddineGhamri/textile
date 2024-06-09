@@ -56,6 +56,11 @@ autopep8 --in-place --aggressive --aggressive --max-line-length 100 --indent-siz
 python3 -m black .
 ```
 
+## usage
+```sh
+python3 -m textile
+```
+
 ## categories of part of speech that spacy outputs
 - ADJ: adjective, e.g. big, old, green, incomprehensible, first
 - ADP: adposition, e.g. in, to, during
