@@ -20,6 +20,7 @@ ADVERBS_CACHE_FILE = TEXTILE_DIR / "cache/adverbs.csv"
 PREPOSITIONS_CACHE_FILE = TEXTILE_DIR / "cache/prepositions.csv"
 ARTICLES_CACHE_FILE = TEXTILE_DIR / "cache/articles.csv"
 ANKI_PATH = TEXTILE_DIR / "anki_output"
+LOG_PATH = TEXTILE_DIR / "logs"
 
 # TODO change to INPUT_TEXT_PATH
 INPUT_PATH = TEXTILE_DIR / "texts/input_4.txt"

@@ -3,16 +3,16 @@
 import logging
 import os
 from datetime import datetime
+from textile.config import LOG_PATH
 
-LOG_DIR = 'logs'
 LOG_FILE_COUNT = 3
 
 def setup_logger(log_file='textile.log', level=logging.INFO):
 
-    if not os.path.exists(LOG_DIR):
-        os.makedirs(LOG_DIR)
+    if not os.path.exists(LOG_PATH):
+        os.makedirs(LOG_PATH)
 
-    log_file_path = os.path.join(LOG_DIR, log_file)
+    log_file_path = os.path.join(LOG_PATH, log_file)
     clean_old_logs()
 
     logger = logging.getLogger('textile_logger')
@@ -29,7 +29,7 @@ def setup_logger(log_file='textile.log', level=logging.INFO):
     return logger
 
 def clean_old_logs():
-    files = sorted([os.path.join(LOG_DIR, f) for f in os.listdir(LOG_DIR) if os.path.isfile(os.path.join(LOG_DIR, f))],
+    files = sorted([os.path.join(LOG_PATH, f) for f in os.listdir(LOG_PATH) if os.path.isfile(os.path.join(LOG_PATH, f))],
                    key=os.path.getmtime)
 
     while len(files) > LOG_FILE_COUNT:
@@ -38,5 +38,5 @@ def clean_old_logs():
 def get_logger():
     return logging.getLogger('textile_logger')
 
-log_file = f'./logs/textile_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+log_file = f'{LOG_PATH}/textile_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
 logger = setup_logger(log_file)
