@@ -62,9 +62,19 @@ python3 -m textile
 ```
 
 ## Roadmap
-* add logging system
-* change csv into a faster database like sqlite3
-* enhance nouns parsing performance
+* [x] add logging system
+* [ ] spread logging on all parts
+* [ ] use similar strategy as nouns to save the order of analyzis for verbs, adj ...
+* [ ] save the the scroll offset for each word in a dict of uinque values
+* [ ] make hover active for specific categories: nouns, verbs, adjective and so on
+* [ ] scroll to offset based on hovering action
+* [ ] make analysis color based on the word gender not plural (Msc -> green, Fmn->red, Neut->blue)
+* [ ] add exit button that closes textile
+* [ ] none is not acceptable especially for easy texts, add more nouns parsers
+* [ ] change csv into a faster database like sqlite3
+* [ ] enhance nouns parsing performance
+* [ ] performance overall
+* [ ] enhance anki tickets
 
 ## categories of part of speech that spacy outputs
 - ADJ: adjective, e.g. big, old, green, incomprehensible, first

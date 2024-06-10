@@ -57,7 +57,7 @@ class TextileApp(App):
         """Create child widgets for the app."""
         self.text_log = RichLog(highlight=True, markup=True, wrap=True, min_width=78, id="text")
         self.status_log = StatusLog()
-        self.analysis_log = RichLog(highlight=True, markup=True, id="analysis")
+        self.analysis_log = RichLog(highlight=True, markup=True, id="analysis", auto_scroll=False)
         yield Container(
             Container(
                 self.text_log,
@@ -86,6 +86,9 @@ class TextileApp(App):
         if isinstance(self.message, list):
             for element in self.message:
                 self.analysis_log.write(element)
+                # TODO: use this to hover aciton on analyzed words
+                # y is the line number
+                self.analysis_log.scroll_to(y=30)
         else:
             self.analysis_log.write(f"Processing ... {self.message}")
 

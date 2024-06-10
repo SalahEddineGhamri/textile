@@ -4,6 +4,7 @@ from rich.table import Table
 from rich.text import Text, Style
 from time import sleep
 from textile.tables import NOUN_CACHE
+from collections import OrderedDict
 
 from textile.utils import get_logger
 
@@ -108,7 +109,10 @@ class NounsAgent(Thread):
         ]
 
         # unique values
-        nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
+        nouns_list = list(OrderedDict.fromkeys(nouns_without_hyphen + nouns_with_hyphen))
+        #nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
+
+        # TODO reorder nouns list to source
 
         for element in nouns_list:
             df = NOUN_CACHE[element]
