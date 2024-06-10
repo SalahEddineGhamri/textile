@@ -61,7 +61,7 @@ class VerbsMeaningCache(pd.DataFrame):
             return super().__getitem__(key)
         else:
             with self.lock:
-                sleep_interval = random.uniform(0.1, 0.4)
+                sleep_interval = random.uniform(0.1, 1)
                 time.sleep(sleep_interval)
 
                 new_verb = nouns_definition_parser("verbs_meaning_table", key)

@@ -11,6 +11,14 @@ from threading import Lock
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
 
+from textile.utils import get_logger
+
+def log(msg):
+  msg = f"[nouns_table] {msg}"
+  logger = get_logger()
+  logger.info(msg)
+
+
 class NounsCache(pd.DataFrame):
     aspects = [
         "basic_forms",
@@ -45,12 +53,14 @@ class NounsCache(pd.DataFrame):
             self.drop(noun, axis=1, inplace=True)
 
     def refresh_cache(self):
+        log("refreshing cache")
         with self.lock:
             self.update(
                 pd.read_csv(NOUNS_CACHE_FILE, index_col=["aspects", "language"])
             )
 
     def cache(self):
+        log("caching nouns df")
         with self.lock:
             try:
                 if super().empty:
@@ -64,14 +74,16 @@ class NounsCache(pd.DataFrame):
 
     def __getitem__(self, key):
         if key in self.columns:
+            log(f"already available {key}")
             return super().__getitem__(key)
         else:
             with self.lock:
                 if not isinstance(key, str):
                     return None
 
-                sleep_interval = random.uniform(0.1, 2)
+                sleep_interval = random.uniform(0.1, 1)
                 time.sleep(sleep_interval)
+                log(f"parsing {key}")
                 new_noun = nouns_definition_parser("nouns_table", key)
 
                 if new_noun is not None:

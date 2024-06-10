@@ -62,7 +62,7 @@ class AdjectivesCache(pd.DataFrame):
             return super().__getitem__(key)
         except KeyError:
             with self.lock:
-                sleep_interval = random.uniform(0.1, 2)
+                sleep_interval = random.uniform(0.1, 1)
                 time.sleep(sleep_interval)
 
                 new_noun = nouns_definition_parser("adjectives_table", key)

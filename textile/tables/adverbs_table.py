@@ -60,7 +60,7 @@ class AdverbsCache(pd.DataFrame):
             return super().__getitem__(key)
         else:
             with self.lock:
-                sleep_interval = random.uniform(0.1, 2)
+                sleep_interval = random.uniform(0.1, 0.4)
                 time.sleep(sleep_interval)
 
                 new_noun = nouns_definition_parser("adverbs_table", key)

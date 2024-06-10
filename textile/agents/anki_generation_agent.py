@@ -97,7 +97,7 @@ class AnkiGenerationAgent(Thread):
             (self.blackboard["analyzed_text"]["pos_"] == "NOUN")
         ]
 
-        # add more possiblities for hyphen words
+        # add more possibilities for hyphen words
         nouns_with_hyphen = (
             df.loc[df["text"].str.contains("-"), "text"].drop_duplicates().tolist()
         )

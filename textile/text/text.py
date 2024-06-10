@@ -4,7 +4,8 @@ from time import sleep
 from textile.config import INPUT_PATH, colors_definitions
 from rich.text import Text, Style
 from time import sleep
-
+from textile.utils import get_logger
+logger = get_logger()
 
 # import agents
 from textile.agents import (
@@ -18,7 +19,7 @@ from textile.agents import (
 )
 
 """
-SCM: is a componant that reads the blckboard
+SCM: is a component that reads the blckboard
 it reads the stages and outputs and richlog text
 the output of the scm changes only if stages changes
 it surveil the stages variable

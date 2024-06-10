@@ -5,6 +5,13 @@ from rich.text import Text, Style
 from time import sleep
 from textile.tables import NOUN_CACHE
 
+from textile.utils import get_logger
+
+def log(msg):
+  msg = f"[noun_agents] {msg}"
+  logger = get_logger()
+  logger.info(msg)
+
 
 def split_hyphenated_string(s):
     words = s.split("-")
@@ -28,18 +35,24 @@ class NounsAgent(Thread):
         self.blackboard["nouns_rich_analysis"] = ""
 
     def analyze_nouns(self):
+        # TODO no need for this step
         # trigger meaning parsing for all nouns
         df = self.blackboard["analyzed_text"]
         df = df.loc[df["pos_"] == "NOUN"]
-        # add more possiblities for hyphen words
+        # add more possibilities for hyphen words
         nouns_with_hyphen = df.loc[df["text"].str.contains("-"), "text"].tolist()
         nouns_without_hyphen = df.loc[~df["text"].str.contains("-"), "text"].tolist()
         nouns_with_hyphen = [
             word for noun in nouns_with_hyphen for word in split_hyphenated_string(noun)
         ]
         nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
+
+        # no reason for this clean it, making code slow
+        """
         for noun in nouns_list:
+            log(f"retrieving: {noun}")
             NOUN_CACHE[noun]
+        """
 
     def generate_rich_text(self, width=100):
         df = colorize_text(self.blackboard["analyzed_text"], "NOUN")
@@ -87,7 +100,7 @@ class NounsAgent(Thread):
         df = df.loc[df["pos_"] == "NOUN"]
         tables = []
 
-        # add more possiblities for hyphen words
+        # add more possibilities for hyphen words
         nouns_with_hyphen = df.loc[df["text"].str.contains("-"), "text"].tolist()
         nouns_without_hyphen = df.loc[~df["text"].str.contains("-"), "text"].tolist()
         nouns_with_hyphen = [
@@ -141,10 +154,10 @@ class NounsAgent(Thread):
         self.blackboard["stages"]["analyzed_nouns"] = "STARTED"
         NOUN_CACHE.refresh_cache()
         self.analyze_nouns()
-        NOUN_CACHE.cache()
         self.blackboard["stages"]["analyzed_nouns"] = "Analyzed nouns!"
         self.generate_rich_text()
         self.blackboard["stages"]["analyzed_nouns"] = "Generated rich text!"
         self.generate_rich_analysis()
         self.blackboard["stages"]["analyzed_nouns"] = "Generated rich analysis!"
         self.blackboard["stages"]["analyzed_nouns"] = "DONE"
+        NOUN_CACHE.cache()

@@ -2,6 +2,12 @@ import spacy
 import pandas as pd
 from textile.config import colors_definitions
 from threading import Thread
+from textile.utils import get_logger
+
+def log(msg):
+  msg = f"[text_agents] {msg}"
+  logger = get_logger()
+  logger.info(msg)
 
 
 class TextAgent(Thread):
@@ -12,7 +18,9 @@ class TextAgent(Thread):
 
     def analyze(self):
         nlp = spacy.load("de_core_news_sm")
+        log("successfully loaded spacy")
         doc = nlp(self.blackboard["text"])
+        log("NLP model applied")
         data = []
         for token in doc:
             data.append(
@@ -64,6 +72,7 @@ class TextAgent(Thread):
         df.apply(lambda row: row["meta"].extend(row["morph_number"]), axis=1)
         df.apply(lambda row: row["meta"].extend(row["morph_person"]), axis=1)
         self.blackboard["analyzed_text"] = df
+        log("analyzed text")
 
     def run(self):
         self.blackboard["stages"]["analyzed_input"] = "STARTED"

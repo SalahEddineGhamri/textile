@@ -48,7 +48,7 @@ pip install .
 running `pip install .` from within the source folder will expose `textile` launcher.
 
 
-## code format for developement
+## code format for development
 from within the src folder:
 ```sh
 autopep8 --in-place --aggressive --aggressive --max-line-length 100 --indent-size 4 ./*.py
@@ -60,6 +60,11 @@ python3 -m black .
 ```sh
 python3 -m textile
 ```
+
+## Roadmap
+* add logging system
+* change csv into a faster database like sqlite3
+* enhance nouns parsing performance
 
 ## categories of part of speech that spacy outputs
 - ADJ: adjective, e.g. big, old, green, incomprehensible, first

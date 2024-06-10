@@ -5,6 +5,7 @@ from textual.widgets import Button
 from textual.containers import Container
 from textile.config import INPUT_PATH, bindings
 from textile.text import Blackboard, TextAnalyzer
+from textile.utils import get_logger
 from textual.reactive import reactive
 from textual.message_pump import MessagePump
 from textual import on
@@ -12,6 +13,9 @@ from textual import on
 # create blackboard
 blackboard = Blackboard(INPUT_PATH)
 
+# logger
+logger = get_logger()
+logger.info("[tui] starting textile")
 
 # analyze text
 TextAnalyzer(blackboard.manager)
@@ -34,7 +38,7 @@ class StatusLog(RichLog):
 
 
 class TextileApp(App):
-    """A Textual app as inteface to textile."""
+    """A Textual app as interface to textile."""
 
     CSS_PATH = "TextileApp.css"
     BINDINGS = bindings
