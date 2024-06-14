@@ -1,2 +1,6 @@
 __pycache__
 textile_env
+build
+textile.egg-info/
+textile/logs/
+textile/anki_output/

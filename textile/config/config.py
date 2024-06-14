@@ -23,7 +23,7 @@ ANKI_PATH = TEXTILE_DIR / "anki_output"
 LOG_PATH = TEXTILE_DIR / "logs"
 
 # TODO change to INPUT_TEXT_PATH
-INPUT_PATH = TEXTILE_DIR / "texts/input_4.txt"
+INPUT_PATH = TEXTILE_DIR / "texts/input_6.txt"
 
 # Create the directory if not found
 VERBS_CONJUGATION_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)

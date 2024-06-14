@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So,wohl,unsanft,zufrieden
 basic_forms,english,,,,"müssen : Verb
 ",,,,,,,,"früh : Adjective
 ",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
@@ -25,8 +25,8 @@ langen : Verb
 ",,,,"umkehren : Verb
 sich umkehren : Verb
 umkehren : Verb
-",
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -1073,6 +1073,34 @@ to scrape through
 to take sth. with a pinch of salt
 so. is so much better
 to scratch along
+","to be comfortable
+to feel good
+to feel below par
+to feel under par
+to feel comfortable about doing sth.
+to feel at ease with so./sth.
+to be well-disposed to so.
+to make an educated guess
+to be well-disposed to so.
+to be sympathetic to sth.
+to be comfortable in one's own skin
+to offer refreshments
+so. is uneasy about sth.
+to feel poorly chiefly (Brit.) [coll.] - feel ill/sick
+",,"to content | contented, contented |
+to please | pleased, pleased |
+to be pleased
+to be contented
+to be satisfied
+to satisfy so. | satisfied, satisfied |
+to sate so. (with sth.) | sated, sated |
+to satisfy a creditor
+to satisfy a customer
+to be content with
+to be happy about (or: with) sth.
+to be comfortable with sth.
+sth. suits so. infinitive: suit
+to satisfy an employer
 "
 verbs,german,"alt werden
 alt werden
@@ -2120,6 +2148,34 @@ gerade noch so durchkommen
 etw.acc. nicht so ernst nehmen
 jmdm. geht es viel besser
 sichacc. gerade so durchschlagen
+","sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+sichacc. nicht wohlfühlen or: wohl fühlen
+sichacc. nicht wohlfühlen or: wohl fühlen
+sichacc. bei etw.dat. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+sichacc. mit jmdm./etw. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
+jmdm. wohlgesinnt (or: wohl gesinnt) sein
+eine wohlbegründete (or: wohl begründete) Vermutung anstellen
+jmdm. wohlgesonnen (or: wohl gesonnen) sein - wohlgesinnt
+etw.dat. wohlgesinnt (or: wohl gesinnt) sein
+sichacc. in seiner Haut wohlfühlen (or: wohl fühlen)
+für das leibliche Wohl sorgen
+jmdm. ist nicht ganz wohl bei etw.dat.
+sichacc. nicht wohl fühlen
+",,"zufriedenstellen or: zufrieden stellen | stellte zufrieden, zufriedengestellt |
+zufriedenstellen or: zufrieden stellen | stellte zufrieden, zufriedengestellt |
+zufrieden sein
+zufrieden sein
+zufrieden sein
+jmdn. zufriedenstellen or: zufrieden stellen | stellte zufrieden, zufriedengestellt |
+jmdn. (mit etw.dat.) zufriedenstellen or: zufrieden stellen | stellte zufrieden, zufriedengestellt |
+einen Gläubiger zufriedenstellen or: zufrieden stellen
+einen Kunden zufriedenstellen or: zufrieden stellen
+zufrieden sein mit
+mit etw.dat. zufrieden sein
+mit etw.dat. zufrieden sein
+etw.nom. stellt jmdn. zufrieden infinitive: zufriedenstellen or: zufrieden stellen
+einen Arbeitgeber zufriedenstellen or: zufrieden stellen
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -3202,6 +3258,24 @@ five times as much
 nine times as much
 some bumbling idiot
 lying so-and-so
+","well-being or: wellbeing
+welfare
+good
+weal no plural [form.]
+weal and woe
+human welfare
+general good
+general weal
+public good
+creature comforts
+physical well-being (or: wellbeing)
+common welfare
+social welfare
+common good
+","rude reminder
+rude awakening
+","content customers pl.
+satisfied customers pl.
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -4284,6 +4358,24 @@ fünfmal so viel
 neunmal so viel
 irgend so ein Vollidiot
 der Lügner | die Lügnerin pl.: die Lügner, die Lügnerinnen
+","das Wohl no plural
+das Wohl no plural
+das Wohl no plural
+das Wohl no plural
+Wohl und Wehe
+Wohl der Menschheit
+Wohl der Allgemeinheit
+Wohl der Allgemeinheit
+Wohl der Allgemeinheit
+leibliches Wohl
+leibliches Wohl
+öffentliches Wohl
+soziales Wohl
+gemeines Wohl
+","unsanfte Mahnung
+unsanftes Erwachen
+","zufriedene Kunden pl.
+zufriedene Kunden pl.
 "
 noun_details,english,"article: Der
 word: Alt
@@ -4969,8 +5061,26 @@ genus: NEUT
 plural: die G - fünfter Ton der C-Dur-Tonleiter
 meaning: sol or: so, soh [MUS.]
 SO meeting [abbr.: SOM] [ADMIN.][POL.]
+","article: Das
+word: Wohl
+genus: NEUT
+plural: plural
+meaning: well-being or: wellbeing
+welfare
+","article: unsanfte
+word: Mahnung
+genus: 
+plural: Mahnung
+meaning: rude reminder
+rude awakening
+","article: zufriedene
+word: Kunden
+genus: 
+plural: 
+meaning: content customers pl.
+satisfied customers pl.
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -6600,6 +6710,33 @@ so adv.
 so adv.
 that way
 for example
+","well adj. adv.
+perhaps adv.
+possibly adv.
+probably adv.
+arguably adv.
+to be sure - without doubt
+no doubt
+well-fed adj.
+dulcet - of a sound: pleasant adj.
+euphonious adj.
+melodious adj.
+euphoniously adv.
+melodic adj.
+euphonic adj.
+","ungentle adj.
+ruggedly adv.
+","happy adj.
+satisfied adj.
+content adj.
+pleased adj.
+contented adj.
+contentedly adv.
+fulfilled adj.
+satisfied adj.
+perfectly satisfied
+satisfiable adj.
+unsatisfied adj.
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -8230,6 +8367,33 @@ deshalb
 dermaßen
 so adv.
 so adv. - beispielsweise
+","wohl
+wohl
+wohl
+wohl
+wohl
+wohl adv.
+wohl adv.
+wohlgenährt or: wohl genährt
+wohlklingend or: wohl klingend
+wohlklingend or: wohl klingend
+wohlklingend or: wohl klingend
+wohlklingend or: wohl klingend
+wohlklingend or: wohl klingend
+wohlklingend or: wohl klingend
+","unsanft
+unsanft
+","zufrieden
+zufrieden
+zufrieden
+zufrieden
+zufrieden
+zufrieden
+zufrieden
+zufriedengestellt or: zufrieden gestellt
+restlos zufrieden
+kann zufrieden gestellt werden
+nicht zufrieden gestellt
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -9204,6 +9368,21 @@ so what
 Such a long time!
 thus much
 so long
+","To your health!
+under lock and key
+Cheers!
+To your health!
+knowing full well that ...
+Adieu!
+goodbye or: good-bye
+Slainte! (Scot.; Ire.) - drinking toast; ""slainte"" = ""health"" in Gaelic
+good-by or: goodby (Amer.) rare
+a well thought-out plan
+You must be off your head!
+You must be off your rocker! (Brit.)
+It's a case of Hobson's choice.
+I suppose so
+",,"And they lived happily ever after.
 "
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
@@ -10178,6 +10357,21 @@ nebbich
 So lange!
 so viel
 auf Wiedersehen
+","Zum Wohl!
+wohl verwahrt
+Wohl bekomms (or: bekomm's)!
+Wohl bekomms (or: bekomm's)!
+wohl wissend, dass ...
+Lebe wohl!
+lebe wohl [form.]
+Zum Wohl!
+leb wohl
+ein wohldurchdachter (or: wohl durchdachter) Plan
+Bei dir piepts (or: piept's) wohl!
+Bei dir piepts (or: piept's) wohl!
+Da habe ich wohl keine andere Wahl.
+Dann wird's wohl so sein.
+",,"Und sie lebten glücklich und zufrieden bis an ihr Lebensende.
 "
 examples,english,"How old are you?
 I'm double your age.
@@ -11251,6 +11445,30 @@ That's right!
 That's just the way it is.
 That's just the way it is.
 That's just the way it is.
+","quite true but ...
+I wonder if he still knows me
+You're having me on!
+I wasn't feeling very well
+I wonder why ...!
+as you are aware
+That may be so.
+I dare say (or: daresay) ...
+so much for ...
+You are well aware that
+I wonder if you would tell me ...
+I wonder if you would tell me ...
+I dare say (or: daresay) it's only a matter of habit.
+You must be out of your mind.
+",,"satisfied with his services
+satisfied with a narrow margin
+He's a hard man to please.
+in a satisfactory manner
+has not given you satisfaction
+in a satisfactory manner
+has not proved satisfactory
+has not turned out satisfactorily
+Neither of the teams was happy with the result.
+a mutually satisfactory result
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -12324,4 +12542,28 @@ So ist es!
 So ist es eben.
 So ist es halt.
 So ist es nun mal.
+","wohl wahr, aber ...
+ob er mich wohl noch kennt?
+Du willst mich wohl veräppeln!
+Ich fühlte mich nicht sehr wohl
+warum wohl ...!
+wie dir wohl bewusst ist
+Das mag wohl stimmen.
+Ich darf wohl sagen ...
+das war's dann wohl mit ...
+Ihnen ist sehr wohl bekannt, dass
+könnten Sie mir wohl sagen ...
+würden Sie mir wohl sagen ...
+Es ist wohl eine Sache der Gewohnheit.
+Du bist wohl nicht recht gescheit. (Southern Germany)
+",,"zufrieden mit seinen Diensten
+zufrieden mit einer geringen Gewinnspanne
+Er ist kaum zufrieden zu stellen.
+auf zufrieden stellende (or: zufriedenstellende) Weise
+hat Sie nicht zufriedengestellt (or: zufrieden gestellt)
+in zufrieden stellender (or: zufriedenstellender) Weise
+ist nicht zufrieden stellend (or: zufriedenstellend) ausgefallen
+ist nicht zufrieden stellend (or: zufriedenstellend) ausgefallen
+Keine der beiden Mannschaften war mit dem Ergebnis zufrieden.
+ein beiderseits zufriedenstellendes Ergebnis
 "

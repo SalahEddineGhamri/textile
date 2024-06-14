@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt,döste,betrat,sah,wedelte,provozierte,erlebt,schickte,landete,zuwandte,schnurrte
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -264,8 +264,24 @@ können : Verb
 fühlen : Verb
 ","wertschätzen : Verb
 wertschätzen : Verb
+","dösen : Verb
+","betreten : Verb
+","sich sehen : Verb
+sich sehen : Verb
+sehen : Verb
+","wedeln : Verb
+wedeln : Verb
+","provozieren : Verb
+","erleben : Verb
+","sich schicken : Verb
+schicken : Verb
+","landen : Verb
+landen : Verb
+","zuwenden : Verb
+sich zuwenden : Verb
+","schnurren : Verb
 "
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -2783,6 +2799,81 @@ to feel good
 to value so./sth. | valued, valued |
 to appreciate so./sth. | appreciated, appreciated |
 to esteem so./sth. | esteemed, esteemed |
+","to doze | dozed, dozed |
+to drowse | drowsed, drowsed |
+to snooze | snoozed, snoozed |
+to catnap | catnapped, catnapped |
+to maunder | maundered, maundered |
+","to enter sth. | entered, entered |
+to look sheepish
+to trespass | trespassed, trespassed |
+to re-enter (or: reenter) sth. | re-entered, re-entered / reentered, reentered |
+to be in uncharted waters
+","to see | saw, seen |
+to watch sth. | watched, watched | - on TV
+to view sth. | viewed, viewed |
+to look | looked, looked |
+to behold so./sth. | beheld, beheld |
+to clock so./sth. | clocked, clocked | - see [coll.] (Brit.)
+to resemble so./sth. | resembled, resembled |
+to look similar
+to look in on so. - visit so., esp. when they are ill
+to check on so./sth.
+to look after so./sth.
+to look about one
+to look on sth.
+to exhibit | exhibited, exhibited |
+","to wag | wagged, wagged |
+to waggle | waggled, waggled |
+to wave sth. | waved, waved |
+to wedel | wedeled, wedeled | [SPORT.]
+to fawn | fawned, fawned |
+","to provoke so./sth. | provoked, provoked |
+to get a rise out of so.
+to activate sth. | activated, activated |
+to needle so. | needled, needled | [coll.]
+","to live to see
+to experience sth. | experienced, experienced |
+to undergo sth. | underwent, undergone |
+to sample sth. | sampled, sampled |
+to re-experience or: reexperience | re-experienced, re-experienced / reexperienced, reexperienced |
+to relive | relived, relived |
+to undergo a change
+to have been there before [coll.]
+","to forward | forwarded, forwarded |
+to acquiesce | acquiesced, acquiesced |
+to behooveAE / behoveBE | behooved, behooved / behoved, behoved |
+to convene | convened, convened |
+to be suitable
+to ship sth. | shipped, shipped |
+to send so. sth. (or: sth. to so.) | sent, sent |
+to mail so. sth. (or: sth. to so.) | mailed, mailed |
+to hurry up
+to send for so./sth.
+to resign oneself to sth.
+to send so./sth. somewhere
+to e-mail so. | e-mailed, e-mailed | [COMP.]
+to remit money
+","to land (sth.) | landed, landed |
+to disembark (so.) | disembarked, disembarked |
+to debark | debarked, debarked |
+to touch down [AVIAT.]
+to alight | alighted/alit, alighted/alit | [AVIAT.]
+to wind up in prison/hospital - or any other place where one did not intend to be
+to soft-land | soft-landed, soft-landed |
+to fluke | fluked, fluked |
+to strike home
+to end up on the scrapheap
+to fetch up somewhere [coll.] (Brit.) - at or in a place
+to end up on the street [fig.]
+to alight on water [AVIAT.]
+","to allocate sth. | allocated, allocated |
+to turn to so.
+to turn to so./sth.
+to turn towardAE so./sth. to turn towardsBE so./sth.
+to turn one's back on so./sth.
+to address oneself to a task
+","to purr | purred, purred |
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -5301,6 +5392,81 @@ sichacc. wohlfühlen or: wohl fühlen | fühlte wohl, wohlgefühlt |
 jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
 jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
 jmdn./etw. wertschätzen | schätzte wert, wertgeschätzt / wertschätzte, wertgeschätzt |
+","dösen | döste, gedöst |
+dösen | döste, gedöst |
+dösen | döste, gedöst |
+dösen | döste, gedöst |
+dösen | döste, gedöst |
+","etw.acc. betreten | betrat, betreten |
+betreten dreinschauen
+unbefugt betreten
+etw.acc. wieder betreten
+völliges Neuland betreten
+","sehen | sah, gesehen |
+etw.acc. sehen | sah, gesehen | - im Fernsehen
+etw.acc. sehen | sah, gesehen |
+sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdn./etw. sehen | sah, gesehen |
+jmdm./etw. ähnlich sehen
+sichdat. ähnlich sehen
+nach jmdm. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+nach jmdm./etw. sehen | sah, gesehen |
+um sichacc. sehen
+auf etw.acc. sehen | sah, gesehen |
+sehen lassen
+","wedeln | wedelte, gewedelt |
+wedeln | wedelte, gewedelt |
+etw.acc. wedeln | wedelte, gewedelt |
+wedeln | wedelte, gewedelt | [Skiing]
+mit dem Schwanz wedeln - Hund
+","jmdn./etw. provozieren | provozierte, provoziert |
+jmdn. provozieren | provozierte, provoziert |
+etw.acc. provozieren | provozierte, provoziert |
+jmdn. provozieren | provozierte, provoziert | - mit lästigen Fragen, Kritik [coll.]
+","erleben | erlebte, erlebt |
+etw.acc. erleben | erlebte, erlebt |
+etw.acc. erleben | erlebte, erlebt |
+etw.acc. erleben | erlebte, erlebt |
+neu erleben
+wieder erleben
+eine Änderung erleben
+etw.acc. schon mal erlebt haben
+","schicken | schickte, geschickt |
+sichacc. schicken | schickte, geschickt | - sich fügen
+sichacc. schicken | schickte, geschickt |
+sichacc. schicken | schickte, geschickt |
+sichacc. schicken | schickte, geschickt |
+etw.acc. schicken | schickte, geschickt |
+jmdm. etw.acc. schicken | schickte, geschickt |
+jmdm. etw.acc. schicken | schickte, geschickt |
+sichacc. schicken | schickte, geschickt | - beeilen regional
+nach jmdm./etw. schicken | schickte, geschickt |
+sichacc. in etw.acc. schicken | schickte, geschickt | archaic
+jmdn./etw. irgendwohin schicken
+jmdm. eine E-Mail schicken
+Geld schicken
+","(etw.acc.) landen | landete, gelandet |
+(jmdn.) landen | landete, gelandet |
+landen | landete, gelandet |
+landen | landete, gelandet |
+landen | landete, gelandet |
+im Gefängnis/Krankenhaus landen [coll.]
+weich landen
+einen Glückstreffer landen
+einen Volltreffer landen
+auf dem Müllhaufen landen
+irgendwo landen
+auf der Straße landen
+auf dem Wasser landen
+","etw.acc. zuwenden | wendete zu/wandte zu, zugewendet/zugewandt |
+sichacc. jmdm. zuwenden | wendete zu/wandte zu, zugewendet/zugewandt |
+sichacc. jmdm./etw. zuwenden | wendete zu/wandte zu, zugewendet/zugewandt |
+sichacc. jmdm./etw. zuwenden | wendete zu/wandte zu, zugewendet/zugewandt |
+jmdm./etw. den Rücken zuwenden
+sichacc. einer Aufgabe zuwenden
+","schnurren | schnurrte, geschnurrt |
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -6001,7 +6167,7 @@ forgettable movie
 no-win situation
 relatable person
 snug fortune archaic
-",,
+",,,,,,,,,,,,
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -6701,7 +6867,7 @@ Film, den man getrost vergessen kann
 Situation, in der man nicht gewinnen kann
 Person, mit der man sichacc. identifizieren kann
 Vermögen, von dem man gut leben kann
-",,
+",,,,,,,,,,,,
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -7296,8 +7462,8 @@ genus: FEMI
 plural: die Kann-Bestimmungen
 meaning: discretionary provision
 discretionary clause
-",,
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -7712,7 +7878,7 @@ well-defined adj.
 ",,"discretionary adj.
 relocatable adj.
 satisfiable adj.
-",,
+",,,,,,,,,,,,
 adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -8127,7 +8293,7 @@ klar abgegrenzt
 ",,"Kann...
 kann verlagert werden
 kann zufrieden gestellt werden
-",,
+",,,,,,,,,,,,
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -9222,7 +9388,31 @@ That's a feather in his cap.
 ","to grill so. | grilled, grilled | [fig.]
 Make yourself at home.
 to walk on air [fig.]
-",
+",,,,"I came, I saw, I conquered. - Latin: veni, vidi, vici
+to see stars
+to see behind the curtain [fig.]
+to be in over one's head
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+not to see the wood for the trees chiefly (Brit.)
+not to see the forest for the trees chiefly (Amer.)
+Let's face the facts.
+Let us face the facts.
+to see things through rose-coloredAE glassesto see things through rose-colouredBE glasses
+to see pink elephants [fig.]
+to see snakes [coll.] [fig.]
+to look on the black side [fig.]
+See you!
+","The tail wags the dog. [fig.]
+",,"to get the shock of one's life
+to get a nasty surprise
+","to give so. the runaround
+to get the runaround
+","to hit the bull's eye (or: bull's-eye)
+to hit the mark
+to land in the soup [coll.]
+That cuts no ice with me.
+That cuts no ice with me.
+",,
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -10317,7 +10507,31 @@ Darauf kann er stolz sein.
 ","jmdm. auf den Zahn fühlen [fig.]
 Fühlen Sie sich wie zu Hause (or: zuhause).
 sichacc. wie im siebten Himmel fühlen
-",
+",,,,"Ich kam, sah und siegte. - Ausspruch Julius Caesars
+Sterne sehen [coll.] [fig.]
+hinter den Vorhang sehen [fig.]
+kein Land mehr sehen können
+die Dinge durch die rosarote Brille sehen
+den Wald vor lauter Bäumen nicht sehen
+den Wald vor lauter Bäumen nicht sehen
+Wir wollen den Tatsachen ins Auge sehen.
+Wir wollen den Tatsachen ins Auge sehen.
+durch eine rosa Brille sehen
+weiße Mäuse sehen [coll.] [fig.] [hum.]
+weiße Mäuse sehen [fig.]
+alles grau in grau sehen
+Man sieht sich!
+","Der Schwanz wedelt mit dem Hund. [fig.]
+",,"sein blaues Wunder erleben
+sein blaues Wunder erleben [fig.] [coll.]
+","jmdn. von Pontius zu Pilatus schicken [fig.]
+von Pontius zu Pilatus geschickt werden
+","einen Volltreffer landen
+einen Volltreffer landen
+in der Patsche landen [fig.] [coll.]
+Damit kann man bei mir nicht landen.
+Damit können Sie bei mir nicht landen.
+",,
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -11548,7 +11762,27 @@ I was ill at ease.
 I felt very uncomfortable.
 I wasn't feeling very well
 They felt belittled.
-",
+",,,,"I felt impelled to say it.
+He looked at me thunderously.
+He met his fate calmly.
+It was brought home to me.
+The boy who I saw there looked very much like your boyfriend.
+The sight of the cake made my mouth water.
+You look well.
+I can't wait to see her.
+as you see
+I am pleased to see you.
+I am looking forward to seeing him.
+as far as we can see
+We are unable to cope with this rush.
+Please check the oil.
+","the dog wagged its tail
+",,"I've known it to happen.
+He won't know what's hit him.
+","That's not respectable.
+","I ended up teaching at a high school
+The aircraft whose wing was damaged managed to land safely.
+",,
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
 Er wohnt bei mir.
@@ -12779,4 +13013,24 @@ Ich fühlte mich beunruhigt.
 Ich fühlte mich sehr unbehaglich.
 Ich fühlte mich nicht sehr wohl
 Sie fühlten sich herabgesetzt.
-",
+",,,,"Ich sah mich gezwungen, es zu sagen.
+Er sah mich grollend an.
+Er sah seinem Schicksal ruhig entgegen.
+Ich sah es ein.
+Der Junge, den ich dort gesehen habe, sah deinem Freund sehr ähnlich.
+Als ich den Kuchen sah, lief mir das Wasser im Mund zusammen.
+Sie sehen gut aus.
+Ich kann es kaum erwarten sie zu sehen
+wie Sie sehen
+Es freut mich, dich zu sehen.
+Ich freue mich darauf, ihn zu sehen.
+soviel wir sehen
+Wir sehen uns außerstande (or: außer Stande) diesen Ansturm zu bewältigen.
+Bitte sehen Sie das Öl nach.
+","der Hund wedelte mit dem Schwanz
+",,"Ich habe es schon erlebt.
+Er wird sein blaues Wunder erleben, [fig.] [coll.]
+","Das schickt sich nicht.
+","ich landete als Lehrer an einer Highschool
+Das Flugzeug, dessen Tragfläche beschädigt war, konnte sicher landen.
+",,

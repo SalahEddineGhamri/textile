@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes,müden,gezielten
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -122,8 +122,10 @@ missglücken : Verb
 ","offen : Adjective
 ","offen : Adjective
 ","offen : Adjective
+","müde : Adjective
+","gezielt : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -809,6 +811,16 @@ to maintain | maintained, maintained | [TECH.]
 to speak one's mind
 to cry out a bid
 to be ajar
+","to get tired
+to tire | tired, tired |
+to be tired
+to be pooped (Amer.) [coll.]
+to tire of doing sth.
+to tire of doing sth.
+to be tired of sth.
+to be tired of doing sth.
+","to make a point of doing sth.
+to target customers
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -1495,6 +1507,16 @@ offen halten - z. B. eine Fluchtstrecke
 offen seine Meinung sagen
 ein Gebot offen abgeben
 eine Hand breit offen stehen
+","müde werden
+müde werden
+müde sein
+müde sein
+müde werden, etw.acc. zu tun
+einer Sachegen. müde werden
+einer Sachegen. müde sein [form.]
+es müde sein, etw.acc. zu tun [form.]
+","etw.acc. gezielt verfolgen
+Kunden gezielt ansprechen
 "
 nouns,english,"previous debt
 former quotations
@@ -2392,6 +2414,20 @@ loose ice
 open interest
 open account
 open customs warehouse
+",None,"targeted killing
+sector planning
+determined work
+directed information search
+deliberate provocation
+precision bombing
+targeted material flow
+pointed question
+projected development
+selective buying
+selective interrogation command [TECH.]
+data mining [COMP.]
+targeted longer-term refinancing operations [abbr.: TLTRO] [FINAN.]
+spot filming [TECH.]
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -3289,6 +3325,20 @@ offenes Eis
 offenes Interesse
 offenes Konto
 offenes Zolllager
+",None,"gezielte Tötung
+gezielte Politik
+gezielte Arbeit
+gezielte Informationssuche
+gezielte Provokation
+gezielter Bombenabwurf
+gezielter Materialfluss
+gezielte Frage
+gezielter Ausbau
+gezieltes Kaufen
+gezielter Abfragebefehl
+gezielte Datensuche
+gezielte längerfristige Refinanzierungsgeschäfte [abbr.: GLRG] - zinsgünstige Langfristkredite
+gezielte Aufnahme [Radiology]
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -3782,8 +3832,14 @@ genus:
 plural: Meer
 meaning: open sea
 high sea sg., usually in plural: high seas
+",None,"article: gezielte
+word: Tötung
+genus: 
+plural: Tötung
+meaning: targeted killing
+sector planning
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -4642,6 +4698,20 @@ frank adj.
 outspoken adj.
 apertured adj.
 chappy adj.
+","tired adj.
+weary adj.
+terribly tired
+unfatigued adj.
+","specific adj.
+purposeful adj.
+selective adj.
+targeted adj.
+systematic rarely: systematical adj.
+concerted adj.
+directed adj.
+tightly focused adj.
+well-directed adj.
+targeted adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -5501,6 +5571,20 @@ offen
 offen
 offen
 offen
+","müde
+müde
+furchtbar müde
+nicht müde
+","gezielt
+gezielt
+gezielt
+gezielt
+gezielt
+gezielt
+gezielt
+gezielt
+gezielt
+gezielt ausgerichtet
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -6044,7 +6128,8 @@ to preach to the converted (Brit.)
 to be asleep at the switch [fig.]
 to be asleep at the wheel [fig.]
 to preach to the choir (Amer.) [fig.]
-"
+","not to have a bean [coll.] [fig.]
+",None
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -6587,7 +6672,8 @@ bei jmdm. offene Türen einrennen
 mit offenen Augen schlafen [fig.]
 mit offenen Augen schlafen [fig.]
 bei jmdm. offene Türen einrennen [fig.]
-"
+","keine müde Mark haben [fig.]
+",None
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -7144,7 +7230,12 @@ Many careers are open to her.
 Be frank with me.
 She was very outspoken about it.
 the shops are open
-"
+","I am tired of being put off.
+I'm tired from work.
+I'd like to go, but I'm a bit tired.
+After four hours of driving, John got tired and asked Mary to spell him at the wheel.
+weary with working
+",None
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -7701,4 +7792,9 @@ Ihr stehen viele Berufe offen.
 Seien Sie offen zu mir.
 Sie äußerte sich sehr offen darüber.
 die Läden sind offen
-"
+","Ich bin es müde, vertröstet zu werden.
+Ich bin von der Arbeit müde.
+Ich würde schon gern hinfahren, aber ich bin ein bisschen müde.
+Nach vier Stunden Fahrt wurde John müde und bat Mary, ihn am Steuer abzulösen.
+müde von der Arbeit
+",None

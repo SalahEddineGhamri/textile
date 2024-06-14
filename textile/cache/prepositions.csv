@@ -1,9 +1,10 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn,während
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
-",,,,,,,,,,,,,,,,,,,,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,,,,,,,,"währen : Verb
+"
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -130,7 +131,9 @@ to resign oneself to doing sth.
 to be busy doing sth.
 to amuse oneself by doing sth.
 to join the dots
-",,,,,,
+",,,,,,,"to last | lasted, lasted |
+to continue | continued, continued |
+"
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -257,7 +260,9 @@ sichacc. damit abfinden, etw.acc. zu tun
 damit beschäftigt sein, etw.acc. zu tun
 sichacc. damit belustigen, etw.acc. zu tun
 Punkte verbinden, damit ein Bild entsteht
-",,,,,,
+",,,,,,,"währen | währte, gewährt |
+währen | währte, gewährt |
+"
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -870,7 +875,21 @@ annuity pursuant (to ...)
 ","the ins pl. (Amer.) [POL.]
 the ins and outs
 door-in-the-face technique [PSYCH.]
-",,
+",,,"during manufacture [TECH.]
+during my absence [TECH.]
+superfetation
+flux change during pulse cycle [TECH.]
+conditions during heating [TECH.]
+field lubrication [TECH.]
+in-flight fuel dumping [AVIAT.]
+on-the-fly compression - by modems [COMP.]
+thinking distance [AUTOM.]
+in-service education
+measuring while drilling [TECH.]
+measurement-while-drilling sensor (short form: MWD sensor) [TECH.]
+phase overpressure [TECH.]
+current ellipse [TECH.]
+"
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
 der Glaube rarely: Glauben (an etw.acc.) no plural
@@ -1483,7 +1502,21 @@ die Verrentung (nach ...) pl.: die Verrentungen
 ","die Regierungspartei pl.: die Regierungsparteien
 die Einzelheiten pl.
 die Tür-ins-Gesicht-Technik
-",,
+",,,"während der Herstellung [Hoisting Technology]
+während meiner Abwesenheit
+Empfängnis während der Schwangerschaft
+Flussänderung während Pulsspiel
+Bedingungen während des Heizens
+Schmierung während des Gebrauchs
+Schnellablassen während des Fluges
+Kompression während der Übertragung
+Weg während der Reaktionszeit
+Ausbildung während der Dienstzeit
+Messen während des Bohrens
+Sensor zur Messung während des Bohrvorgangs [Mining]
+überhydrostatischer Druck während der spätdiagenetischen Entwässerung von Montmorillonit
+Bild für kreisende Gezeitenströmung während einer Periode
+"
 noun_details,english,"article: die
 word: Regierungspartei
 genus: FEMI
@@ -1832,8 +1865,14 @@ genus: FEMI
 plural: die Regierungsparteien
 meaning: the ins pl. (Amer.) [POL.]
 the ins and outs
-",,
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,"article: während
+word: der
+genus: 
+plural: Technology]
+meaning: during manufacture [TECH.]
+during my absence [TECH.]
+"
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -2456,6 +2495,20 @@ out adv.
 ",,,"for though
 more than ever
 less than ever
+","at run time
+during the term
+during the term of validity
+runtime adj.
+at compile time [COMP.]
+at object time [COMP.]
+everlasting adj.
+perpetual adj.
+sempiternal adj. [poet.]
+on the job
+by day
+in the daytime
+during its term
+during its term
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -3079,6 +3132,20 @@ nach draußen
 ",,,"denn obwohl
 mehr denn je
 weniger denn je
+","während der Laufzeit
+während der Laufzeit
+während der Laufzeit
+während der Laufzeit
+während der Übersetzung
+während der Verarbeitung
+immerwährend or: immer während
+immerwährend or: immer während
+immerwährend or: immer während
+während der Arbeitszeit
+während des Tages
+während des Tages
+während seiner Gültigkeit
+während seiner Laufzeit
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -3767,6 +3834,8 @@ Whoever else?
 What a sight you are!
 for all I know
 What are the odds! [coll.]
+","Good things come to those who wait.
+Honesty is the best policy.
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -4455,6 +4524,8 @@ Wer denn sonst?
 Wie siehst du denn aus!
 oder was weiß denn ich [coll.]
 Wie unwahrscheinlich ist das denn!
+","Was lange währt, wird endlich gut.
+Ehrlich währt am längsten.
 "
 examples,english,"in English
 in 1999
@@ -5253,6 +5324,20 @@ after consultation with
 ","What's the matter?
 Can I talk to you for a second? - Yes, what's up?
 what had I best do
+","while the university is in session
+over the entire term
+throughout the entire term
+for the last two years
+all through May
+during 2001
+in his sleep
+during the past two months
+while events were unfolding
+throughout the term of the loan [FINAN.]
+during the payment process [FINAN.]
+Please see to this while I'm away!
+Please see to this while I'm away!
+in the course of transit by sea
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -6051,4 +6136,18 @@ nach Beratung mit
 ","Was ist denn?
 Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
 was tue ich denn nun am besten
+","während der Vorlesungszeit
+während der ganzen Laufzeit
+während der ganzen Laufzeit
+während der letzten beiden Jahre
+während des ganzen Mai
+während des Jahres 2001
+während er schläft
+während der vergangenen zwei Monate
+während sich die Ereignisse entwickelten
+während der Laufzeit des Darlehens
+während des Zahlungsvorgangs
+Bitte sorgen Sie dafür, während ich fort bin!
+Bitte kümmern Sie sich darum, während ich fort bin!
+während des Seetransports
 "
