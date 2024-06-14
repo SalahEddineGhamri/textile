@@ -56,6 +56,7 @@ class NounsAgent(Thread):
         """
 
     def generate_rich_text(self, width=100):
+        # all text but nouns are colored
         df = colorize_text(self.blackboard["analyzed_text"], "NOUN")
         text = Text()
         text.no_wrap = False
@@ -71,19 +72,24 @@ class NounsAgent(Thread):
             if index != 0 and row["pos_"] != "PUNCT" and text_width != 0:
                 text.append(" ")
                 text_width += 1
-            style = Style(color=row["color"])
-            text.append(row["text"], style=style)
-            text_width += len(row["text"])
+
+            # word to highlight + click event
             if row["highlight"]:
+                highlighted_word = Text()
+                style = Style(color=row["color"])
+                highlighted_word.append(row["text"], style=style)
+                text_width += len(row["text"])
+                highlighted_word.on(click=f"app.scrollbar_move_to('{row['text']}')")
+
                 # meta
-                text.append(" ")
+                highlighted_word.append(" ")
                 text_width += 1
                 style = Style(
                     color=colors_definitions["Bg"],
                     bgcolor=colors_definitions["White"],
                     dim=True,
                 )
-                text.append(f" {''.join(row['meta'])} ", style=style)
+                highlighted_word.append(f" {''.join(row['meta'])} ", style=style)
                 text_width += len("".join(row["meta"]))
                 # lemma_
                 style = Style(
@@ -92,14 +98,22 @@ class NounsAgent(Thread):
                     reverse=True,
                     dim=True,
                 )
-                text.append(f" {row['lemma_']} ", style=style)
+                highlighted_word.append(f" {row['lemma_']} ", style=style)
                 text_width += len(row["lemma_"])
+                text.append(highlighted_word)
+            else:
+                style = Style(color=row["color"])
+                text.append(row["text"], style=style)
+                text_width += len(row["text"])
+
         self.blackboard["nouns_rich_text"] = text
 
     def generate_rich_analysis(self, row_nbr=5):
         df = colorize_text(self.blackboard["analyzed_text"], "NOUN")
         df = df.loc[df["pos_"] == "NOUN"]
         tables = []
+        scrollbar_locations = {}
+        y_lines = 0
 
         # add more possibilities for hyphen words
         nouns_with_hyphen = df.loc[df["text"].str.contains("-"), "text"].tolist()
@@ -110,12 +124,11 @@ class NounsAgent(Thread):
 
         # unique values
         nouns_list = list(OrderedDict.fromkeys(nouns_without_hyphen + nouns_with_hyphen))
-        #nouns_list = list(set(nouns_without_hyphen + nouns_with_hyphen))
-
-        # TODO reorder nouns list to source
 
         for element in nouns_list:
             df = NOUN_CACHE[element]
+
+            self.blackboard["scrollbar_locations"][f'{element}'] = y_lines
 
             if df is None:
                 continue
@@ -144,11 +157,17 @@ class NounsAgent(Thread):
             table = Table(
                 title=f"{element}", style=style, header_style=style, title_style=style
             )
+
             table.add_column("English", justify="left", style=style, no_wrap=True)
             table.add_column("German", justify="left", style=style, no_wrap=True)
             for eng, ger in zip(english_text[:row_nbr], german_text[:row_nbr]):
                 table.add_row(eng, ger)
+                y_lines += 1
+            # added lines to each rich table
+            y_lines += 5
+
             tables.append(table)
+
         self.blackboard["nouns_rich_analysis"] = tables
 
     def run(self):

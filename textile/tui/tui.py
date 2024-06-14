@@ -9,6 +9,7 @@ from textile.utils import get_logger
 from textual.reactive import reactive
 from textual.message_pump import MessagePump
 from textual import on
+from rich.text import Text
 
 # create blackboard
 blackboard = Blackboard(INPUT_PATH)
@@ -58,6 +59,7 @@ class TextileApp(App):
         self.text_log = RichLog(highlight=True, markup=True, wrap=True, min_width=78, id="text")
         self.status_log = StatusLog()
         self.analysis_log = RichLog(highlight=True, markup=True, id="analysis", auto_scroll=False)
+
         yield Container(
             Container(
                 self.text_log,
@@ -86,9 +88,6 @@ class TextileApp(App):
         if isinstance(self.message, list):
             for element in self.message:
                 self.analysis_log.write(element)
-                # TODO: use this to hover aciton on analyzed words
-                # y is the line number
-                self.analysis_log.scroll_to(y=30)
         else:
             self.analysis_log.write(f"Processing ... {self.message}")
 
@@ -120,6 +119,10 @@ class TextileApp(App):
     def call_prepositions(self):
         self.text = blackboard.manager["prepositions_rich_text"]
         self.message = blackboard.manager["prepositions_rich_analysis"]
+
+    async def action_scrollbar_move_to(self, word) -> None:
+        y = blackboard.manager["scrollbar_locations"][word]
+        self.analysis_log.scroll_to(y=y)
 
 if __name__ == "__main__":
     app = TextileApp()

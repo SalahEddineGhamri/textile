@@ -78,6 +78,8 @@ class Blackboard:
 
         self.manager["stages"] = stages
 
+        self.manager["scrollbar_locations"] = {}
+
 
         self.manager["stages"]["input_read"] = "STARTED"
         with File(input_path, "r") as f:
