@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes,müden,gezielten
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes,müden,gezielten,Deutschen,koche,bessere,Neue,ständiges
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -124,8 +124,19 @@ missglücken : Verb
 ","offen : Adjective
 ","müde : Adjective
 ","gezielt : Adjective
+","deutsch : Adjective
+deutsch : Adjective
+das Deutsche : Noun
+die Deutsche : Noun
+der Deutsche : Noun
+","kochen : Verb
+","gut : Adjective
+sich bessern : Verb
+bessern : Verb
+","neu : Adjective
+","ständig : Adjective
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -821,6 +832,67 @@ to be tired of sth.
 to be tired of doing sth.
 ","to make a point of doing sth.
 to target customers
+","to translate into German/English
+to acquire British/French/German/... nationality
+to obtain German citizenship
+to be capped for Germany/England/... (Brit.) [SPORT.]
+to be capped for Germany/England/... (Brit.) [SPORT.]
+","to boil (sth.) | boiled, boiled |
+to cook (sth. for so. (or: so. sth.)) | cooked, cooked |
+to seethe | seethed, seethed |
+to bubble | bubbled, bubbled |
+to do the cooking
+to brew sth. | brewed, brewed |
+to broil sth. | broiled, broiled | (Amer.)
+to refine sth. | refined, refined |
+to brew coffee
+to simmer | simmered, simmered |
+to make tea
+to simmer | simmered, simmered |
+to do one's own cooking
+to parboil sth. | parboiled, parboiled |
+","to improve | improved, improved |
+to be on the mend
+to mend one's ways
+to amend | amended, amended |
+to ameliorate | ameliorated, ameliorated |
+to righten sth. | rightened, rightened |
+to improve sth. | improved, improved |
+to reform sth. | reformed, reformed |
+to meliorate sth. | meliorated, meliorated |
+to clean up one's act
+to encourage so. | encouraged, encouraged |
+to score well
+to do well
+to come off well
+","to restart | restarted, restarted |
+to reprocess | reprocessed, reprocessed |
+to revalue | revalued, revalued |
+to re-evaluate or: reevaluate | re-evaluated, re-evaluated / reevaluated, reevaluated |
+to reappraise | reappraised, reappraised |
+to rerate | rerated, rerated |
+to reassess | reassessed, reassessed |
+to reappraise | reappraised, reappraised |
+to reclassify | reclassified, reclassified |
+to reapportion | reapportioned, reapportioned |
+to recoin | recoined, recoined | - remint
+to restamp | restamped, restamped |
+to repaper | repapered, repapered |
+to repopulate | repopulated, repopulated |
+","to haunt | haunted, haunted |
+to continually improve
+to improve continually
+to reiterate | reiterated, reiterated |
+to consistently provide
+to see-saw | see-sawed, see-sawed |
+to harass so. | harassed, harassed |
+to be always interfering
+to dog so. | dogged, dogged |
+to harp on about sth.
+to chop and change (Brit.)
+to keep so. on the go
+to hover over so.
+to have so. on one's back
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -1517,6 +1589,67 @@ einer Sachegen. müde sein [form.]
 es müde sein, etw.acc. zu tun [form.]
 ","etw.acc. gezielt verfolgen
 Kunden gezielt ansprechen
+","ins Deutsche/Englische übersetzen
+die britische/französische/deutsche/... Staatsangehörigkeit erwerben
+die deutsche Staatsbürgerschaft erhalten
+für die deutsche/englische/... Nationalmannschaft aufgestellt werden
+in die deutsche/englische/... Nationalmannschaft berufen werden
+","(etw.acc.) kochen | kochte, gekocht |
+(jmdm. etw.acc.) kochen | kochte, gekocht |
+kochen | kochte, gekocht |
+kochen | kochte, gekocht |
+kochen | kochte, gekocht | - Essen zubereiten
+etw.acc. kochen | kochte, gekocht | - Kaffee, Tee
+etw.acc. kochen | kochte, gekocht |
+etw.acc. kochen | kochte, gekocht |
+Kaffee kochen
+gelinde kochen
+Tee kochen
+langsam kochen
+selbst kochen
+etw.acc. halb kochen
+","sichacc. bessern | besserte, gebessert |
+sichacc. bessern | besserte, gebessert |
+sichacc. bessern | besserte, gebessert |
+sichacc. bessern | besserte, gebessert |
+sichacc. bessern | besserte, gebessert |
+etw.acc. bessern | besserte, gebessert |
+etw.acc. bessern | besserte, gebessert |
+etw.acc. bessern | besserte, gebessert |
+etw.acc. bessern | besserte, gebessert |
+sichacc. bessern | besserte, gebessert | - Benehmen, Leistung
+jmdm. gut zureden
+gut abschneiden
+gut abschneiden
+gut abschneiden
+","neu starten
+neu bearbeiten
+neu bewerten
+neu bewerten
+neu bewerten
+neu bewerten
+neu einschätzen
+neu einschätzen
+neu einteilen
+neu einteilen
+neu prägen
+neu prägen
+neu tapezieren
+neu besiedeln
+","ständig verkehren
+ständig verbessern
+ständig verbessern
+ständig wiederholen
+ständig bereitstellen
+ständig wechseln
+jmdn. ständig belästigen
+sichacc. ständig einmischen
+jmdn. ständig begleiten
+ständig über etw.acc. reden
+ständig seine Meinung wechseln
+jmdn. ständig auf (or: in) Trab halten
+sichacc. ständig in jmds. Nähe aufhalten
+jmdn. ständig im Nacken haben
 "
 nouns,english,"previous debt
 former quotations
@@ -2428,6 +2561,62 @@ selective interrogation command [TECH.]
 data mining [COMP.]
 targeted longer-term refinancing operations [abbr.: TLTRO] [FINAN.]
 spot filming [TECH.]
+","the Germans pl.
+German
+German [LING.]
+the German language [LING.]
+fellow Afghans/Germans/Australians/...
+Federation of German Industries
+Federation of German Industry
+Confederation of German Employers
+German Insurance Federation [INSUR.]
+Institute for the German Economy [FINAN.]
+German Association of Capital Market Groups at Universities [FINAN.]
+German Aerospace Industries Association [AVIAT.]
+German National Library
+German Federal Railway
+",None,"good/bad form - behaviour
+good/bad form - behaviour
+society circles
+missis [coll.]
+missus [coll.]
+better half [coll.]
+bargain
+good manners
+great news
+good bargain
+fair average quality
+fairy godmother
+good fairy
+good laboratory practice
+","New Year
+new edition
+reformulation
+reanalysis - pl.: reanalyses
+new Länder
+New Laender pl.
+reanimation
+revalidation
+new approach
+expanded town
+new town (Brit.)
+reinterpretation
+redistribution
+revote
+","bugbear
+perpetual nagging
+ongoing consciousness-raising
+permanent income
+perpetual nagging
+continuous learning [EDUC.]
+standing request of assistance [FINAN.]
+permanent office
+measuring while drilling [TECH.]
+permanent residence
+permanent residency
+place of residence
+Standing Committee on Vaccination - in Germany
+residence
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -3339,6 +3528,62 @@ gezielter Abfragebefehl
 gezielte Datensuche
 gezielte längerfristige Refinanzierungsgeschäfte [abbr.: GLRG] - zinsgünstige Langfristkredite
 gezielte Aufnahme [Radiology]
+","die Deutschen pl.
+der Deutsche | die Deutsche pl.: die Deutschen
+das Deutsch or: Deutsche no plural - Sprache
+das Deutsche no plural
+afghanische/deutsche/australische/... Landsleute
+Bundesverband der Deutschen Industrie e. V. [abbr.: BDI]
+Bundesverband der Deutschen Industrie e. V. [abbr.: BDI]
+Bundesvereinigung der Deutschen Arbeitgeberverbände [abbr.: BDA]
+Gesamtverband der Deutschen Versicherungswirtschaft e. V. [abbr.: GDV]
+Institut der deutschen Wirtschaft [abbr.: IW]
+Bundesverband der Börsenvereine an deutschen Hochschulen [abbr.: BVH]
+Bundesverband der deutschen Luft- und Raumfahrtindustrie [abbr.: BDLI]
+Deutsche Nationalbibliothek [abbr.: DNB]
+Deutsche Bundesbahn
+",None,"gute/schlechte Manieren
+gute/schlechte Umgangsformen pl.
+bessere Kreise
+bessere Hälfte - Ehefrau
+bessere Hälfte - Ehefrau
+die bessere Hälfte [coll.] [hum.] - Ehefrau, Ehemann
+gutes Geschäft
+gute Manieren pl.
+gute Neuigkeiten
+gutes Geschäft
+gute Durchschnittsqualität
+gute Fee
+gute Fee
+gute Laborpraxis
+","das neue Jahr
+neue Auflage
+neue Darlegung
+neue Darlegung
+Neue Bundesländer
+Neue Bundesländer pl.
+neue Belebung
+neue Gültigkeit
+neue Konzeption
+neue Stadt
+neue Stadt
+neue Übersetzung
+neue Verteilung
+neue Abstimmung
+","ständiges Ärgernis
+ständiges Nörgeln
+ständiges Sensibilisieren
+ständiges Einkommen
+ständiges Gemecker
+ständiges Lernen
+ständiges Hilfeersuchen
+ständiges Büro
+ständiges Messen
+ständiger Wohnsitz
+ständiger Wohnsitz
+ständiger Wohnsitz
+Ständige Impfkommission [abbr.: STIKO] - am Robert-Koch-Institut in Deutschland
+ständiger Aufenthalt
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -3838,8 +4083,32 @@ genus:
 plural: Tötung
 meaning: targeted killing
 sector planning
+","article: Das
+word: Deutsche
+genus: FEMI
+plural: 
+meaning: the Germans pl.
+German
+",None,"article: gute/schlechte
+word: Manieren
+genus: 
+plural: Manieren
+meaning: good/bad form - behaviour
+good/bad form - behaviour
+","article: Die
+word: Neue
+genus: NEUT
+plural: Jahr
+meaning: New Year
+new edition
+","article: ständiges
+word: Ärgernis
+genus: 
+plural: Ärgernis
+meaning: bugbear
+perpetual nagging
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -4712,6 +4981,51 @@ directed adj.
 tightly focused adj.
 well-directed adj.
 targeted adj.
+","German adj.
+Franco-German adj.
+German-flagged adj. [NAUT.]
+",None,"well adj. adv.
+all right - without problems
+good adj. - better, best
+characterful adj.
+sound adj.
+good adj. [EDUC.]
+superior (to sth.) adj.
+improved adj.
+good-looking adj.
+handsome adj.
+well-appointed - building, room adj.
+well-dressed adj.
+nice-looking adj.
+attractive adj.
+","anew adv.
+new adj.
+novel adj.
+recent adj.
+nouveau adj.
+fledgling - used before noun - new adj.
+latest adj.
+recent adj.
+freshest adj.
+another adj. pron. - different person/thing
+leading-edge adj. [fig.]
+newly constructed
+reformative adj.
+newly founded
+","constant adj.
+permanent adj.
+steady adj.
+running adj. - used only before noun
+regular adj.
+incessant adj.
+all the time
+continual adj.
+persistent adj.
+all along
+perseverative adj.
+reiterative adj.
+ever-changing adj.
+ever-changing adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -5585,6 +5899,51 @@ gezielt
 gezielt
 gezielt
 gezielt ausgerichtet
+","deutsch
+deutsch-französisch
+unter deutscher Flagge - nachgestellt
+",None,"gut
+gut
+gut - besser, am besten
+gut
+gut
+gut - Note
+besser (als etw.acc.)
+besser
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+gut ausgestattet
+gut gekleidet
+gutaussehend or: gut aussehend
+gutaussehend or: gut aussehend
+","aufs Neue
+neu
+neu
+neu
+neu
+neu
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+neuester | neueste | neuestes or: neuster | neuste | neustes
+ein neuer | eine neue | ein neues
+neuester | neueste | neuestes
+neu erbaut
+neu bildend
+neu gegründet
+","ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig
+ständig wiederkehrend
+ständig wiederholend
+sich ständig ändernd
+sich ständig verändernd
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -6129,7 +6488,37 @@ to be asleep at the switch [fig.]
 to be asleep at the wheel [fig.]
 to preach to the choir (Amer.) [fig.]
 ","not to have a bean [coll.] [fig.]
-",None
+",None,None,"to be in a rage
+to do one's own thing
+","Better is the enemy of good
+May the best man win.
+I'm fine, thanks.
+Never mind.
+to hit the spot
+Sleep tight! - usually said to children
+Sleep well!
+Take care!
+Take care!
+well
+OK then.
+Very well then.
+Sounds good.
+Sounds good to me!
+","New brooms sweep clean.
+A new broom sweeps clean.
+new suits at the 2-level - bridge
+Happy New Year!
+almost as new
+immaculate condition throughout
+new for old
+a new arrival
+a new lease of life
+a new coat of whitewash
+a new low-point
+Let's try again!
+new wine in old bottles
+to open a whole new can of worms [fig.]
+",
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -6673,7 +7062,37 @@ mit offenen Augen schlafen [fig.]
 mit offenen Augen schlafen [fig.]
 bei jmdm. offene Türen einrennen [fig.]
 ","keine müde Mark haben [fig.]
-",None
+",None,None,"vor Wut kochen [fig.]
+sein eigenes Süppchen kochen [fig.]
+","Das Bessere ist des Guten Feind
+Möge der Bessere gewinnen.
+Danke, gut.
+Schon gut.
+gut kommen [coll.]
+Schlaf gut!
+Schlaf gut!
+Mach's gut! - 2. Person Sg.
+Macht's gut! - 2. Person Pl.
+nun gut
+Also gut!
+Also gut!
+Klingt gut!
+Klingt gut!
+","Neue Besen kehren gut.
+Neue Besen kehren gut.
+neue Farben auf der 2er-Stufe [Card Games]
+Einen guten Rutsch ins neue Jahr! - vor 24:00 Uhr gewünscht
+fast wie neu [abbr.: fwn] - Bücher
+wie neu
+neu für alt
+ein neuer Erdenbürger
+ein neuer Start
+ein neuer Anstrich
+ein neuer Tiefpunkt
+Auf ein Neues!
+neuer Wein in alten Flaschen
+ein neues Fass aufmachen [fig.] - neues Problem anschneiden
+",
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -7235,7 +7654,52 @@ I'm tired from work.
 I'd like to go, but I'm a bit tired.
 After four hours of driving, John got tired and asked Mary to spell him at the wheel.
 weary with working
-",None
+",None,"within the German banking sector [FINAN.]
+in the German-speaking parts of the world
+decline of German dialects
+decline of German dialects
+students enrolled at German universities
+Trust your mother/the Germans/the neighbours/...!
+according to German company law [COMM.][LAW]
+","Most of us enjoy cooking.
+I would sooner do the dishes than cook.
+","an article which sells well
+a well paid position
+a good selling line
+I'm fine.
+It's best not to tangle with him.
+You look well.
+Everything is going to be alright.
+It's very becoming to you.
+Her new hat becomes her.
+That's good.
+It's all very well for you to laugh!
+Everything went well. infinitive: go well
+It's not that good.
+Our prices leave hardly any margin.
+","enclosed you will find our corrected account
+a new branch of our business
+a new world economic order
+a young company
+I've spilt some soup on my new blouse!
+Sixty is the new forty.
+She earns lots of money, most of which she spends on new clothes.
+the new pattern sells well
+We are in search of a new market.
+a newly established company
+The time is ripe to begin afresh.
+That's news to me.
+If a student loses their ID card, they have to pay for a new one.
+the new rules replace the old rules
+","he must always butt in
+I don't want work to be so full-on all the time.
+an ever increasing number
+in a constant state of flux
+although constantly expanding
+Where is your permanent residence?
+owing to the continuous rise in prices
+the continuing revolution in
+"
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -7797,4 +8261,49 @@ Ich bin von der Arbeit müde.
 Ich würde schon gern hinfahren, aber ich bin ein bisschen müde.
 Nach vier Stunden Fahrt wurde John müde und bat Mary, ihn am Steuer abzulösen.
 müde von der Arbeit
-",None
+",None,"im deutschen Kreditgewerbe
+im deutschen Sprachraum
+Niedergang der deutschen Mundarten
+Rückgang der deutschen Mundarten
+Studenten, die an deutschen Universitäten eingeschrieben sind
+Das sieht deiner Mutter/den Deutschen/den Nachbarn/... ähnlich!
+nach deutschem Gesellschaftsrecht
+","Die meisten von uns kochen gerne.
+Lieber würde ich das Geschirr spülen als zu kochen.
+","ein gutgehender (or: gut gehender) Artikel
+eine gutbezahlte (or: gut bezahlte) Stellung
+ein sich gut verkaufender Artikel
+Mir geht es gut.
+Mit ihm ist nicht gut Kirschen essen.
+Sie sehen gut aus.
+Alles wird gut.
+Es steht Ihnen sehr gut.
+Ihr neuer Hut steht ihr gut.
+Das tut gut.
+Du hast gut lachen!
+Es ging alles gut vonstatten.
+So gut ist es auch wieder nicht.
+Unsere Preise lassen so gut wie keine Spanne.
+","neue Rechnung anbei
+eine neue Filiale unseres Geschäftes
+eine neue weltwirtschaftliche Ordnung
+eine neue Firma
+Ich habe etwas Suppe auf meine neue Bluse gekleckert!
+Sechzig ist das neue Vierzig.
+Sie verdient einen Haufen Geld, von dem sie das Meiste (or: meiste) für neue Klamotten ausgibt.
+das neue Muster geht gut
+Wir suchen eine neue Absatzmöglichkeit.
+eine neu gegründete Firma
+Die Zeit ist reif, neu anzufangen.
+Das ist mir neu.
+Studierende, die ihren Ausweis verlieren, müssen für einen neuen bezahlen.
+die neuen Richtlinien ersetzen die alten
+","er muss ständig seinen Senf dazugeben
+Ich möchte nicht ständig alles geben müssen bei der Arbeit.
+eine ständig steigende Zahl
+in ständigem Fluss
+trotz ständiger Neuerschließungen
+Wo ist Ihr ständiger Wohnsitz?
+wegen der ständigen Preissteigerung
+die ständige Fortentwicklung
+"

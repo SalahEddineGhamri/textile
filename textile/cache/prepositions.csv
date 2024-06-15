@@ -1,10 +1,12 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn,während
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn,während,Falls,ab,voran
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
 ",,,,,,,,,,,,,,,,,,,,,,,"währen : Verb
-"
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","fall : Verb
+der Fall : Noun
+",,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -133,6 +135,22 @@ to amuse oneself by doing sth.
 to join the dots
 ",,,,,,,"to last | lasted, lasted |
 to continue | continued, continued |
+","to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall | fell, fallen | - decrease in number, intensity ...
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen |
+to fall | fell, fallen | also [TECH.]
+to fall down
+to fall down
+to fall down
+",,"sth. wears on infinitive: wear on
+to take a step forward
 "
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
@@ -262,6 +280,22 @@ sichacc. damit belustigen, etw.acc. zu tun
 Punkte verbinden, damit ein Bild entsteht
 ",,,,,,,"währen | währte, gewährt |
 währen | währte, gewährt |
+","fallen | fiel, gefallen |
+stürzen | stürzte, gestürzt |
+sinken | sank, gesunken | - z. B. Druck, Spannung
+zurückgehen | ging zurück, zurückgegangen |
+absinken | sank ab, abgesunken |
+hinfallen | fiel hin, hingefallen |
+rückläufig sein
+abstürzen | stürzte ab, abgestürzt |
+zerfallen | zerfiel, zerfallen |
+nachgeben | gab nach, nachgegeben |
+abnehmen | nahm ab, abgenommen |
+hinunterstürzen | stürzte hinunter, hinuntergestürzt |
+herunterstürzen | stürzte herunter, heruntergestürzt |
+herabfallen | fiel herab, herabgefallen |
+",,"etw.nom. schreitet voran infinitive: voranschreiten
+einen Schritt voran gehen
 "
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
@@ -889,6 +923,35 @@ measuring while drilling [TECH.]
 measurement-while-drilling sensor (short form: MWD sensor) [TECH.]
 phase overpressure [TECH.]
 current ellipse [TECH.]
+","fall
+fall
+fall (Amer.)
+fall
+case also [LAW][LING.][MED.]
+drop
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+fall
+","answerphone (Brit.) [TELECOM.]
+answering machine [TELECOM.]
+abs pl. [coll.] - short for ""abdominal muscles"" [SPORT.]
+rise and fall
+stop-go situation (Brit.)
+swayings
+AB-serum [MED.]
+class AB operation [ELEC.]
+pit-head price [TECH.]
+pithead price [TECH.]
+ripped abs
+minimum wellhead price
+factory gate price [COMM.]
+factory gate pricing [COMM.]
+","step forward
 "
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
@@ -1516,6 +1579,35 @@ Messen während des Bohrens
 Sensor zur Messung während des Bohrvorgangs [Mining]
 überhydrostatischer Druck während der spätdiagenetischen Entwässerung von Montmorillonit
 Bild für kreisende Gezeitenströmung während einer Periode
+","der Sturz pl.: die Stürze
+der Fall pl.: die Fälle
+der Herbst pl.: die Herbste
+der Rückgang pl.: die Rückgänge
+der Fall pl.: die Fälle
+der Fall pl.: die Fälle
+der Absturz pl.: die Abstürze
+das Gefälle pl.: die Gefälle
+die Abnahme pl.: die Abnahmen
+das Druckgefälle pl.: die Druckgefälle
+die Fallhöhe pl.: die Fallhöhen
+die Neigung pl.: die Neigungen
+der Niedergang no plural
+der Rutsch pl.: die Rutsche
+","der AB pl.: die ABs/die AB - Anrufbeantworter
+der AB pl.: die ABs/die AB - Anrufbeantworter
+die Bauchmuskeln pl.
+Auf und Ab
+das Auf und Ab
+das Auf und Ab
+das AB-Serum
+der AB-Betrieb
+der Ab-Zeche-Preis [Mining]
+der Ab-Zeche-Preis [Mining]
+der Waschbrettbauch pl.: die Waschbrettbäuche [coll.]
+niedrigster Ölpreis ab Förderbrunnen
+Preis ab Werk
+Preisfestsetzung ab Werk
+","Schritt voran
 "
 noun_details,english,"article: die
 word: Regierungspartei
@@ -1871,8 +1963,26 @@ genus:
 plural: Technology]
 meaning: during manufacture [TECH.]
 during my absence [TECH.]
+","article: Der
+word: Fall
+genus: MASC
+plural: Fälle
+meaning: fall
+fall
+","article: der
+word: AB
+genus: MASC
+plural: AB / ABs
+meaning: answerphone (Brit.) [TELECOM.]
+answering machine [TELECOM.]
+","article: Schritt
+word: voran
+genus: 
+plural: voran
+meaning: step forward
+
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -2509,6 +2619,42 @@ by day
 in the daytime
 during its term
 during its term
+","in event of war
+in the event of nonpaymentAE in the event of non-paymentBE
+at best
+best-case adj.
+at its best
+at the best
+in the latter case
+conversely adv.
+in the present case
+in the case under consideration
+in the last resort
+if so
+in the former case
+downstream adj. - used before noun
+","off adv.
+down adv.
+ab initio adv.
+from now on
+as of now
+hence adv.
+starting from now
+off-the-shelf adj.
+off the shelf
+as of now
+with immediate effect
+from today
+from this day forward
+ab initio
+","ahead adv.
+forward or: forwards adv.
+before adv. - in front
+forth adv.
+at the head
+to the fore
+edgewise or: edgeways adv.
+headlong adj.
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -3146,6 +3292,42 @@ während des Tages
 während des Tages
 während seiner Gültigkeit
 während seiner Laufzeit
+","im Fall eines Krieges
+im Fall der Nichtbezahlung
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im günstigsten Fall
+im letzteren Fall
+im umgekehrten Fall
+im vorliegenden Fall
+im vorliegenden Fall
+im schlimmsten Fall
+in dem Fall
+im ersteren Fall
+Fall...
+","ab
+ab
+von Anfang an
+ab jetzt
+ab jetzt
+ab jetzt
+ab jetzt
+ab Lager
+ab Lager
+ab sofort
+ab sofort
+ab heute
+ab heute
+ab initio - vom Ursprung weg
+","voran
+voran
+voran
+voran
+voran
+voran adv.
+mit der Schmalseite voran
+mit dem Kopf voran
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -3836,6 +4018,38 @@ for all I know
 What are the odds! [coll.]
 ","Good things come to those who wait.
 Honesty is the best policy.
+","to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+to fall about (laughing) (Brit.)
+when the curtain falls
+the fee falls due [LAW]
+to fall into a trap also [fig.]
+to fall into a trap also [fig.]
+to fall for so.'s line
+to fall foul of sth.
+to fall by the wayside [fig.]
+a lost cause
+","departs + expression of time - on a timetable
+exeunt Latin [THEA.]
+Take a hike! (Amer.)
+Get lost!
+Skiddoo!
+Hit the road!
+Hats off!
+Kudos to you!
+pantograph down
+Beat it! [coll.]
+Hook it! (Brit.) [coll.]
+Bugger off! [coll.]
+Cheese it! (Amer.) [coll.]
+Hop it! [coll.](Brit.)
+","Get a move on!
+a step forward
+a big step forward
+a fine step forward (Amer.)
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -4526,6 +4740,38 @@ oder was weiß denn ich [coll.]
 Wie unwahrscheinlich ist das denn!
 ","Was lange währt, wird endlich gut.
 Ehrlich währt am längsten.
+","einen Lachanfall bekommen [coll.]
+sichacc. kringeln | kringelte, gekringelt | [coll.]
+sichacc. krummlachen [coll.]
+sichacc. vor Lachen biegen [coll.]
+sichacc. vor Lachen kringeln [coll.]
+sichacc. vor Lachen schütteln [coll.]
+wenn der Vorhang fällt
+fällig gewordene Gebühr
+in eine Falle geraten or [fig.]
+in eine Falle gehen or [fig.]
+jmdm. auf den Leim gehen
+mit etw.dat. in Konflikt geraten
+auf der Strecke bleiben [coll.] [fig.]
+ein hoffnungsloser Fall
+","ab + expression of time - auf einem Fahrplan
+ab
+Hau ab!
+Hau ab!
+Hau ab!
+Hau ab!
+Hut ab!
+Hut ab!
+Bügel ab
+Hau ab!
+Hau ab!
+Hau ab!
+Hau ab! [coll.]
+Zisch ab! [coll.]
+","Mach voran!
+ein Schritt voran
+ein großer Schritt voran
+ein guter Schritt voran [fig.]
 "
 examples,english,"in English
 in 1999
@@ -5338,6 +5584,35 @@ during the payment process [FINAN.]
 Please see to this while I'm away!
 Please see to this while I'm away!
 in the course of transit by sea
+","if no such airport has been so named
+if you can supply from stock
+if you are interested in our line
+in the event of goods being dispatched (or: despatched)
+if we take delivery at your warehouse
+in case the bill is dishonoredAEin case the bill is dishonouredBE
+if the parties wish that
+If you are interested in our products ...
+if we do not receive the goods
+if the goods are not in stock
+If your goods come up to our expectations ...
+monetary value falls
+I wish to instruct you that you have the privilege to refuse to give evidence in case you would incriminate yourself by your statement.
+if paid on behalf of the seller
+","as from 2002 (Brit.)
+as of 2002
+can be supplied ex stock [TECH.]
+Whether they'll win will depend on how they are feeling that day.
+It depends on you.
+I'm available on the phone tomorrow from 10 am.
+All students turn in their exam papers.
+I'll pick you up at eight.
+All our prices are quoted ex works.
+Turn left!
+He advised against it.
+He gives him the brush-off.
+only on acceptance
+Everything hangs on your decision.
+","ambition spurred him to success
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -6150,4 +6425,33 @@ während des Zahlungsvorgangs
 Bitte sorgen Sie dafür, während ich fort bin!
 Bitte kümmern Sie sich darum, während ich fort bin!
 während des Seetransports
+","falls kein Bestimmungsflughafen benannt ist
+falls Sie ab Lager liefern können
+falls Sie an unserer Ware interessiert sind
+falls Waren versandt werden
+falls wir von Ihrem Lager selbst abholen
+falls der Wechsel nicht eingelöst wird
+falls die Parteien wünschen, dass
+Falls Sie an unserer Ware interessiert sind ...
+falls wir die Ware nicht erhalten
+falls die Ware nicht am Lager ist
+Falls die Ware unseren Erwartungen entspricht ...
+der Geldwert sinkt
+Ich mache Sie darauf aufmerksam, dass Sie die Aussage verweigern können, falls Sie sich dadurch selbst belasten würden.
+falls im Namen des Verkäufers gezahlt
+","ab dem Jahre 2002
+ab dem Jahre 2002
+ab Lager lieferbar
+Ob sie gewinnen hängt von ihrer Tagesform ab.
+Es hängt von dir ab. infinitive: abhängen
+Ich bin morgen ab 10 Uhr telefonisch erreichbar.
+Alle Studenten geben ihre Prüfungsunterlagen ab. infinitive: abgeben
+Ich hole dich um acht ab.
+All unsere Preise sind ab Werk.
+Biegen Sie links ab! infinitive: abbiegen
+Er riet davon ab. infinitive: abraten
+Er weist ihn ab. infinitive: abweisen
+erst ab Abnahme
+Es hängt alles von Ihrer Entscheidung ab. infinitive: von etw.dat. abhängen
+","der Ehrgeiz trieb ihn voran
 "

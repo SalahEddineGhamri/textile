@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt,döste,betrat,sah,wedelte,provozierte,erlebt,schickte,landete,zuwandte,schnurrte
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt,döste,betrat,sah,wedelte,provozierte,erlebt,schickte,landete,zuwandte,schnurrte,anzufangen,studiert,interessiere,spiele,habt,sprecht,hängt,erlernen,bringt,schaffen,geprägt,anpassen,bietet,treibt,prägt,basiert,weiterbilden,gestalten,formen,erfordert,verändern
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -280,8 +280,33 @@ landen : Verb
 ","zuwenden : Verb
 sich zuwenden : Verb
 ","schnurren : Verb
-"
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"studieren : Verb
+","interessieren : Verb
+sich interessieren : Verb
+","das Spiel : Noun
+spielen : Verb
+","sich haben : Verb
+sich haben : Verb
+haben : Verb
+","sich sprechen : Verb
+sprechen : Verb
+","sich hängen : Verb
+hängen : Verb
+hängen : Verb
+",,"sich bringen : Verb
+sich bringen : Verb
+bringen : Verb
+",,"prägen : Verb
+",,"bieten : Verb
+","treiben : Verb
+treiben : Verb
+","prägen : Verb
+","basieren : Verb
+",,"die Gestalt : Noun
+","die Form : Noun
+","erfordern : Verb
+",
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -2874,6 +2899,254 @@ to turn towardAE so./sth. to turn towardsBE so./sth.
 to turn one's back on so./sth.
 to address oneself to a task
 ","to purr | purred, purred |
+",,"to study | studied, studied |
+to go to college
+to go to university
+to read sth. | read, read | - study at university (Brit.)
+to pore over sth.
+to study a catalogAE to study a catalogueBE
+to major in sth. (Amer.) [coll.]
+to study for the bar [LAW]
+to study for the bar [LAW] [EDUC.]
+to study mathematics
+to study economics
+to study a map
+to major in a subject (Amer.) [coll.]
+","to be interested (in so./sth.)
+to interest oneself in sth.
+to be into so./sth.
+to care about so./sth.
+to take an interest in so./sth.
+to interest so. in sth.
+sth. concerns so. infinitive: concern so.
+sth. holds interest for so. infinitive: hold interest
+sth. intrigues so. infinitive: intrigue
+sth. interests so. infinitive: interest
+to be passionate about sth.
+to take a great interest in sth.
+to be interested in sth.
+not to have a lot of time for so./sth.
+to be uninterested
+to have a stake in sth.
+to be keen to do sth.
+","to play | played, played |
+to gamble | gambled, gambled |
+to perform | performed, performed |
+to dally | dallied, dallied |
+to game | gamed, gamed |
+to fool about
+to act sth. | acted, acted | - perform
+to play at sth.
+to execute | executed, executed | [THEA.]
+to portray so. | portrayed, portrayed | [CINE.]
+to be set in ...
+to flirt with sth. - danger, death
+to trifle with so./sth.
+to play for so./sth.
+","to have aux. | had, had |
+to have got chiefly (Brit.)
+to own sth. | owned, owned |
+to have sth. | had, had |
+to possess sth. | possessed, possessed |
+to hold sth. | held, held |
+to offer sth. | offered, offered |
+to be down with sth.
+to feature sth. | featured, featured |
+to exhibit sth. | exhibited, exhibited |
+to have sth. against so.
+to have sth. with one
+to keep sth. with one
+to carry on with so. [coll.]
+","to speak | spoke, spoken |
+to talk | talked, talked |
+to refer to sth. as sth.
+to converse | conversed, conversed |
+to have a word with so. about sth.
+to argue against sth.
+to count against so.
+to speak about sth.
+to argue for sth.
+to talk to so. (about sth.)
+to speak in so.'s favorAE to speak in so.'s favourBE
+to speak for so.
+to put in a good word for so.
+to talk sth. ⇔ over
+","sth. is up to so.
+to hang | hung, hung |
+to hang so. | hanged, hanged |
+to dangle | dangled, dangled |
+to fasten onto so.
+to be attached to so./sth.
+to cling to sth.
+to latch on to (or: onto) so. [coll.]
+to stick | stuck, stuck |
+to catch | caught, caught |
+to get stuck
+to lodge | lodged, lodged |
+to get caught
+to jam | jammed, jammed |
+","to learn | learned/learnt, learned/learnt |
+to learn a trade
+","sth. earns so. sth. infinitive: earn
+to bring so./sth. | brought, brought |
+to land so. | landed, landed |
+to bring so. sth. (or: sth. to so.) | brought, brought |
+to yield sth. | yielded, yielded |
+to carry sth. | carried, carried |
+to deliver sth. | delivered, delivered |
+to feature sth. | featured, featured |
+to get so. sth. (or: sth. for so.) | got, got/gotten |
+to fetch sth. | fetched, fetched | [coll.]
+to entail sth.
+to implicate sth. | implicated, implicated |
+to involve sth. | involved, involved |
+to bring sth. ⇔ about
+","to accomplish sth. | accomplished, accomplished |
+to create sth. | created, created |
+to manage sth. | managed, managed |
+to establish sth. | established, established |
+to make sth. | made, made |
+to cope with sth.
+to achieve sth. | achieved, achieved |
+to bring sth. into being
+to bring sth. ⇔ off
+to develop sth. | developed, developed |
+to set sth. ⇔ up
+to form sth. | formed, formed |
+to take it out of so.
+to wear so. ⇔ out
+","to emboss (sth.) | embossed, embossed |
+to impress (sth.) | impressed, impressed |
+to stamp | stamped, stamped |
+to coin | coined, coined |
+to imprint | imprinted, imprinted |
+to engrave | engraved, engraved |
+to calender | calendered, calendered |
+to tool | tooled, tooled |
+to give distinction to sth.
+to moldAE / mouldBE | molded, molded / moulded, moulded |
+to shape sth. | shaped, shaped |
+to form sth. | formed, formed |
+to mint | minted, minted | [FINAN.]
+to goffer | goffered, goffered | [PRINT.]
+","to adapt sth. (to sth.) | adapted, adapted |
+to fit sth. (to sth.) | fitted/fit, fitted/fit |
+to align sth. (with sth.) | aligned, aligned |
+to adjust sth. | adjusted, adjusted |
+to customizeAE sth. to customiseBE / customizeBE sth. | customized, customized / customised, customised |
+to match sth. | matched, matched |
+to proportion sth. | proportioned, proportioned |
+to level sth. | leveled/levelled, leveled/levelled |
+to accommodate sth. | accommodated, accommodated |
+to modulate sth. | modulated, modulated |
+to realign sth. | realigned, realigned |
+to trim sth. | trimmed, trimmed |
+to fit sth. into position
+to installAE sth. to installBE / instalBE sth. | installed, installed |
+","sth. opens up
+to offer sth. | offered, offered |
+to feature sth. | featured, featured |
+to provide sth. | provided, provided |
+to offer | offered, offered |
+to bid | bid, bid |
+to make a bid
+to exhibit sth. | exhibited, exhibited |
+to have sth. | had, had |
+to hold sth. | held, held |
+to possess sth. | possessed, possessed |
+to present sth. | presented, presented |
+to arise | arose, arisen | - present itself
+to present oneself
+","to float | floated, floated |
+to chase so./sth. | chased, chased |
+to drift | drifted, drifted | [TECH.]
+to impel | impelled, impelled |
+to push | pushed, pushed |
+to force | forced, forced |
+to shoot | shot, shot |
+to swim | swam, swum |
+to carry on
+to cause to flow
+to operate | operated, operated |
+to puff out
+to shut down
+to swell | swelled, swollen/swelled |
+","to emboss (sth.) | embossed, embossed |
+to impress (sth.) | impressed, impressed |
+to stamp | stamped, stamped |
+to coin | coined, coined |
+to imprint | imprinted, imprinted |
+to engrave | engraved, engraved |
+to calender | calendered, calendered |
+to tool | tooled, tooled |
+to give distinction to sth.
+to moldAE / mouldBE | molded, molded / moulded, moulded |
+to shape sth. | shaped, shaped |
+to form sth. | formed, formed |
+to mint | minted, minted | [FINAN.]
+to goffer | goffered, goffered | [PRINT.]
+","to be predicated on sth.
+to base upon sth.
+to be based on (or: upon) sth.
+to rest upon sth.
+","to educate oneself
+to upskill so. | upskilled, upskilled | - staff
+to better oneself
+","to shape sth. | shaped, shaped |
+to form sth. | formed, formed |
+to configure sth. | configured, configured |
+to design sth. | designed, designed |
+to fashion sth. | fashioned, fashioned |
+to pattern sth. | patterned, patterned |
+to construct sth. | constructed, constructed |
+to create sth. | created, created |
+to devise sth. | devised, devised |
+to frame sth. | framed, framed |
+to moldAE / mouldBE sth. | molded, molded / moulded, moulded |
+to organizeAE sth. to organiseBE / organizeBE sth. | organized, organized / organised, organised |
+to arrange sth. | arranged, arranged |
+to formulate sth. | formulated, formulated |
+","to shape sth. | shaped, shaped |
+to forge | forged, forged |
+to fashion | fashioned, fashioned |
+to sculpture | sculptured, sculptured |
+to configure | configured, configured |
+to moldAE / mouldBE | molded, molded / moulded, moulded |
+to sculpt | sculpted, sculpted |
+to form sth. | formed, formed |
+to model sth. | modeled/modelled, modeled/modelled | - e. g. clay
+to frame sth. | framed, framed |
+to constitute sth. | constituted, constituted |
+to knead sth. | kneaded, kneaded | [fig.]
+to fashion clay
+to shape clay
+","sth. demands sth. infinitive: demand
+sth. calls for sth. infinitive: call
+sth. needs sth. infinitive: need
+sth. takes sth. - require infinitive: take
+sth. takes up sth. infinitive: take up
+to require sth. | required, required |
+to exact | exacted, exacted |
+to presuppose | presupposed, presupposed |
+to necessitate sth. | necessitated, necessitated |
+to call for sth.
+to cost sth. | cost, cost |
+sth. demands an answer
+to demand skill
+to require medical care
+","to change | changed, changed |
+to change sth. | changed, changed |
+to alter sth. | altered, altered |
+to modify sth. | modified, modified |
+to vary sth. | varied, varied | - method, style ...
+to shift sth. | shifted, shifted |
+to convert | converted, converted |
+to diversify | diversified, diversified |
+to alter | altered, altered |
+to undergo a change
+to make a difference
+to alter chemically
+to shake sth. up
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -5467,6 +5740,254 @@ sichacc. jmdm./etw. zuwenden | wendete zu/wandte zu, zugewendet/zugewandt |
 jmdm./etw. den Rücken zuwenden
 sichacc. einer Aufgabe zuwenden
 ","schnurren | schnurrte, geschnurrt |
+",,"studieren | studierte, studiert |
+studieren | studierte, studiert | - an einer Universität
+studieren | studierte, studiert | - an einer Universität
+etw.acc. studieren | studierte, studiert |
+etw.acc. genau studieren
+einen Katalog studieren
+etw.acc. im Hauptfach studieren
+Jura studieren
+Rechtswissenschaften studieren
+Mathematik studieren
+Volkswirtschaft studieren
+eine Karte studieren
+ein Fach als Hauptfach studieren
+","sichacc. (für jmdn./etw.) interessieren | interessierte, interessiert |
+sichacc. für etw.acc. interessieren | interessierte, interessiert |
+sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
+sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
+sichacc. für jmdn./etw. interessieren | interessierte, interessiert |
+jmdn. für etw.acc. interessieren | interessierte, interessiert |
+etw.nom. interessiert jmdn. infinitive: jmdn. interessieren
+etw.nom. interessiert jmdn. infinitive: interessieren
+etw.nom. interessiert jmdn. infinitive: interessieren
+etw.nom. interessiert jmdn. infinitive: interessieren
+sichacc. brennend für etw.acc. interessieren
+sichacc. sehr für etw.acc. interessieren
+an etw.dat. interessiert sein
+sichacc. nicht besonders für jmdn./etw. interessieren
+nicht interessiert sein
+an etw.dat. wirtschaftlich interessiert sein
+sehr daran interessiert sein, etw.acc. zu tun
+","spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+spielen | spielte, gespielt |
+etw.acc. spielen | spielte, gespielt | - Stück, Rolle
+etw.acc. spielen | spielte, gespielt | - etw. zu sein vorgeben
+spielen | spielte, gespielt |
+jmdn. spielen | spielte, gespielt |
+in ... spielen | spielte, gespielt | - Film, Theaterstück
+mit etw. spielen | spielte, gespielt | - Gefahr, Tod
+mit jmdm./etw. spielen | spielte, gespielt |
+für jmdn./etw. spielen | spielte, gespielt |
+","haben | hatte, gehabt |
+haben | hatte, gehabt | - im Präsens
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt |
+etw.acc. haben | hatte, gehabt | - Krankheit
+etw.acc. haben | hatte, gehabt | - Eigenschaft
+etw.acc. haben | hatte, gehabt | - eine Eigenschaft
+etw.acc. gegen jmdn. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. bei sichdat. haben | hatte, gehabt |
+etw.acc. mit jmdm. haben | hatte, gehabt |
+","sprechen | sprach, gesprochen |
+sprechen | sprach, gesprochen |
+von etw.dat. als etw.dat. sprechen
+sprechen | sprach, gesprochen |
+mit jmdm. über etw.acc. sprechen | sprach, gesprochen |
+gegen etw.acc. sprechen | sprach, gesprochen |
+gegen jmdn. sprechen | sprach, gesprochen |
+von etw.dat. sprechen | sprach, gesprochen |
+für etw.acc. sprechen | sprach, gesprochen |
+mit jmdm. (über etw.acc.) sprechen | sprach, gesprochen |
+für jmdn. sprechen | sprach, gesprochen |
+für jmdn. sprechen | sprach, gesprochen |
+für jmdn. sprechen | sprach, gesprochen |
+über etw.acc. sprechen | sprach, gesprochen |
+","etw.nom. hängt von jmdm. ab infinitive: abhängen
+hängen | hing, gehangen |
+jmdn. hängen | hängte, gehängt |
+hängen | hing, gehangen |
+sichacc. an jmdn. hängen | hängte, gehängt |
+an jmdm./etw. hängen | hing, gehangen |
+an etw.dat. hängen | hing, gehangen |
+sichacc. an jmdn. hängen | hängte, gehängt |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+hängenbleiben or: hängen bleiben | blieb hängen, hängengeblieben |
+","erlernen | erlernte, erlernt |
+ein Handwerk erlernen
+","etw.nom. bringt jmdm. etw.acc. ein infinitive: einbringen
+jmdn./etw. bringen | brachte, gebracht |
+jmdn. bringen | brachte, gebracht |
+jmdm. etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht | - z. B. in der Zeitung
+jmdm. etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht | [coll.] - erzielen
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+","etw.acc. schaffen | schaffte, geschafft |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schaffte, geschafft |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schaffte, geschafft |
+etw.acc. schaffen | schaffte, geschafft |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schuf, geschaffen |
+etw.acc. schaffen | schuf, geschaffen |
+jmdn. schaffen | schaffte, geschafft | [coll.]
+jmdn. schaffen | schaffte, geschafft | [coll.]
+","(etw.acc.) prägen | prägte, geprägt |
+(etw.acc.) prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+etw.acc. prägen | prägte, geprägt |
+prägen | prägte, geprägt | [fig.]
+etw.acc. prägen | prägte, geprägt | [fig.]
+etw.acc. prägen | prägte, geprägt | [fig.]
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+","etw.acc. (an etw.acc.) anpassen | passte an, angepasst |
+etw.acc. (an etw.acc.) anpassen | passte an, angepasst |
+etw.acc. (an etw.acc.) anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+etw.acc. anpassen | passte an, angepasst |
+","etw.nom. bietet sich infinitive: sich bieten
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+sichacc. bieten | bot, geboten | - Gelegenheit, Chance
+bieten | bot, geboten |
+bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+etw.acc. bieten | bot, geboten |
+sichacc. bieten | bot, geboten |
+sichacc. bieten | bot, geboten |
+","treiben | trieb, getrieben |
+jmdn./etw. treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+treiben | trieb, getrieben |
+","(etw.acc.) prägen | prägte, geprägt |
+(etw.acc.) prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+etw.acc. prägen | prägte, geprägt |
+prägen | prägte, geprägt | [fig.]
+etw.acc. prägen | prägte, geprägt | [fig.]
+etw.acc. prägen | prägte, geprägt | [fig.]
+prägen | prägte, geprägt |
+prägen | prägte, geprägt |
+","auf etw.dat. basieren | basierte, basiert |
+auf etw.dat. basieren | basierte, basiert |
+auf etw.dat. basieren | basierte, basiert |
+auf etw.dat. basieren | basierte, basiert |
+","weiterbilden | bildete weiter, weitergebildet |
+jmdn. weiterbilden | bildete weiter, weitergebildet |
+sichacc. weiterbilden | bildete weiter, weitergebildet |
+","etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+etw.acc. gestalten | gestaltete, gestaltet |
+","etw.acc. formen | formte, geformt |
+formen | formte, geformt |
+formen | formte, geformt |
+formen | formte, geformt |
+formen | formte, geformt |
+formen | formte, geformt |
+formen | formte, geformt |
+etw.acc. formen | formte, geformt |
+etw.acc. formen | formte, geformt |
+etw.acc. formen | formte, geformt |
+etw.acc. formen | formte, geformt |
+etw.acc. formen | formte, geformt |
+Ton formen
+Ton formen
+","etw.nom. erfordert etw.acc. infinitive: erfordern
+etw.nom. erfordert etw.acc. infinitive: erfordern
+etw.nom. erfordert etw.acc. infinitive: erfordern
+etw.nom. erfordert etw.acc. infinitive: erfordern
+etw.nom. erfordert etw.acc. infinitive: erfordern
+etw.acc. erfordern | erforderte, erfordert |
+erfordern | erforderte, erfordert |
+erfordern | erforderte, erfordert |
+etw.acc. erfordern | erforderte, erfordert |
+etw.acc. erfordern | erforderte, erfordert |
+etw.acc. erfordern | erforderte, erfordert |
+etw.nom. erfordert eine Antwort
+Geschick erfordern
+ärztliche Behandlung erfordern
+","sichacc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+verändern | veränderte, verändert |
+verändern | veränderte, verändert |
+sichacc. verändern | veränderte, verändert |
+sichacc. verändern | veränderte, verändert |
+etw.acc. verändern | veränderte, verändert |
+chemisch verändern
+etw.acc. drastisch verändern
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -6167,7 +6688,65 @@ forgettable movie
 no-win situation
 relatable person
 snug fortune archaic
-",,,,,,,,,,,,
+",,,,,,,,,,,,,,,,"theatrics pl.
+game
+match - pl.: matches [SPORT.]
+play
+tournament
+act
+tolerance
+slackness [ENGIN.]
+fixture (Brit.) [SPORT.]
+allowance for clearance [TECH.]
+execution [MUS.]
+clearance [TECH.]
+backlash [TECH.]
+duty cycle [TECH.]
+",,,,"acquisition
+second language learning
+",,"legislating
+producing
+experience cocreation
+","embossed paper
+mintage [FINAN.]
+coins minted below value [FINAN.]
+","matching probe cable [TECH.]
+temporizationAEtemporisationBE / temporizationBE
+fiberAE engineering [CHEM.]fibreBE engineering [CHEM.]
+","area of opportunity
+",,,"artemisinin-based combination therapy [abbr.: ACT] [PHARM.]
+artemisinin combination therapy [abbr.: ACT] [PHARM.]
+web-based technology [TECH.]
+",,"form design
+shape
+form
+figure
+gestalt [PSYCH.] also [BIOL.]
+guise
+stature
+conformation
+build
+design
+likeness
+coherent perception [PSYCH.]
+fiberAE craftfibreBE craft
+eucharistic species [REL.]
+","forming
+moldingAE / mouldingBE [TECH.]
+shaping [TECH.]
+form
+shape
+profile
+moldAE / mouldBE
+regime
+mode
+design
+set form
+style
+moldAE / mouldBE [TECH.]
+type [TECH.]
+",,"variability [TECH.]
+"
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -6867,7 +7446,65 @@ Film, den man getrost vergessen kann
 Situation, in der man nicht gewinnen kann
 Person, mit der man sichacc. identifizieren kann
 Vermögen, von dem man gut leben kann
-",,,,,,,,,,,,
+",,,,,,,,,,,,,,,,"die Spiele pl.
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele
+das Spiel pl.: die Spiele - Wellenlager
+das Spiel pl.: die Spiele [Machines]
+das Spiel pl.: die Spiele [Machines]
+",,,,"das Erlernen no plural
+Erlernen einer Zweitsprache
+",,"das Schaffen no plural
+das Schaffen no plural
+gemeinsames Schaffen von Erfahrung
+","geprägtes Papier
+geprägtes Geld
+unterwertig geprägte Münzen
+","Prüfkabel zum Anpassen
+Anpassen an zeitliche Umstände
+Anpassen von Chemiefasern
+","Bereich, der Chancen bietet
+",,,"Artemisinin-basierte Kombinationstherapie
+Artemisinin-basierte Kombinationstherapie
+Web-basierte Technologie
+",,"das Gestalten no plural
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+die Gestalt pl.: die Gestalten
+textiles Gestalten
+eucharistische Gestalten pl.
+","das Formen no plural
+das Formen no plural
+das Formen no plural
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+die Form pl.: die Formen
+",,"Verändern einer Größe
+"
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -7462,8 +8099,68 @@ genus: FEMI
 plural: die Kann-Bestimmungen
 meaning: discretionary provision
 discretionary clause
-",,,,,,,,,,,,
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,,,,,,,"article: Das
+word: Spiel
+genus: FEMI
+plural: Spiele
+meaning: theatrics pl.
+game
+",,,,"article: das
+word: Erlernen
+genus: NEUT
+plural: plural
+meaning: acquisition
+second language learning
+",,"article: Das
+word: Schaffen
+genus: NEUT
+plural: plural
+meaning: legislating
+producing
+","article: geprägtes
+word: Papier
+genus: 
+plural: Papier
+meaning: embossed paper
+mintage [FINAN.]
+","article: Prüfkabel
+word: zum
+genus: 
+plural: Anpassen
+meaning: matching probe cable [TECH.]
+temporizationAEtemporisationBE / temporizationBE
+","article: Bereich,
+word: der
+genus: 
+plural: bietet
+meaning: area of opportunity
+
+",,,"article: Artemisinin-basierte
+word: Kombinationstherapie
+genus: 
+plural: Kombinationstherapie
+meaning: artemisinin-based combination therapy [abbr.: ACT] [PHARM.]
+artemisinin combination therapy [abbr.: ACT] [PHARM.]
+",,"article: Das
+word: Gestalten
+genus: NEUT
+plural: plural
+meaning: form design
+shape
+","article: Das
+word: Formen
+genus: NEUT
+plural: plural
+meaning: forming
+moldingAE / mouldingBE [TECH.]
+",,"article: Verändern
+word: einer
+genus: 
+plural: Größe
+meaning: variability [TECH.]
+
+"
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -7878,7 +8575,42 @@ well-defined adj.
 ",,"discretionary adj.
 relocatable adj.
 satisfiable adj.
-",,,,,,,,,,,,
+",,,,,,,,,,,,,,"unstudied adj.
+",,"jeopardizedAE adj.jeopardisedBE / jeopardizedBE adj.
+at stake
+pre-game adj.
+pretended - not genuine, used before noun adj.
+alcohol-related adj.
+",,,,,,,"embossed adj.
+stamped adj.
+coined adj.
+minted adj.
+pressed adj.
+with stamping [TECH.]
+incused adj. - coin
+uncoined adj.
+fresh from the mint
+",,,,,"digitally enabled [COMP.]
+",,"anthropomorphic adj.
+monomorphic adj.
+tauriform adj.
+under both species - communion [REL.]
+","fit adj.
+pro forma (or: proforma, pro-forma)
+formally adv.
+polymorphic adj.
+moldedAE / mouldedBE adj.
+voluptuous adj.
+in due form
+in due form
+going strong
+in due form
+formally adv.
+isomorphic adj.
+at its best
+at the top of one's form
+","demanded adj.
+",
 adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
 ",,,"kurz gesagt
@@ -8293,7 +9025,42 @@ klar abgegrenzt
 ",,"Kann...
 kann verlagert werden
 kann zufrieden gestellt werden
-",,,,,,,,,,,,
+",,,,,,,,,,,,,,"nicht studiert
+",,"aufs Spiel gesetzt
+auf dem Spiel
+vor dem Spiel
+Spiel...
+mit Alkohol im Spiel
+",,,,,,,"geprägt
+geprägt
+geprägt
+geprägt
+geprägt
+geprägt
+geprägt [Münzkunde]
+nicht geprägt
+frisch geprägt
+",,,,,"digital basiert
+",,"von menschlicher Gestalt
+in der Gestalt unveränderlich
+in Gestalt eines Stiers
+in beiderlei Gestalt [Christianity]
+","in Form
+der Form halber
+der Form halber
+in verschiedenen Formen auftretend
+in Formen gebaut
+mit weiblichen Formen
+in angemessener Form
+in gehöriger Form
+gut in Form
+in aller Form
+in aller Form
+von gleicher Form
+in bester Form
+in bester Form
+","erfordert
+",
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
 I'll be damned if I know!
@@ -9412,7 +10179,97 @@ to hit the mark
 to land in the soup [coll.]
 That cuts no ice with me.
 That cuts no ice with me.
-",,
+",,,,,"not to care a fig for sth. [coll.]
+not to give a hoot (about so./sth.) [coll.] [fig.]
+not to give a monkey's (about so./sth.) (Brit.) [coll.] [fig.]
+","to sweep the board [fig.] (Brit.)
+a pack of cards
+to hazard sth. | hazarded, hazarded |
+to jeopardizeAE sth. to jeopardiseBE / jeopardizeBE sth. | jeopardized, jeopardized / jeopardised, jeopardised |
+to compromise sth. | compromised, compromised |
+to put sth. on the line
+to gamble with sth.
+to put sth. at stake
+to adventure sth. | adventured, adventured | rare
+to play hangman
+to play hangman
+to play hangman
+to outact so. | outacted, outacted |
+to run out the clock (Amer.) [coll.] chiefly [SPORT.]
+","thou hast archaic - second person singular present of have
+to have brains
+to have the hiccups
+to be as strong as an ox
+to have a niggle - a slight pain in a part of the body
+to have the patience of a saint
+to be in authority
+to be in the driver's seat
+to have the upper hand (over so./sth.)
+to have a head
+to be not quite right in the head
+to come out on top
+to have sth. to burn
+to have so. on the line
+","Repeat after me.
+to talk in riddles
+to put one's foot down
+to lay down the law
+Say it with flowers.
+Say it with flowers.
+to plagiarizeAE so.to plagiariseBE / plagiarizeBE so.
+word of sth. spread
+sth. speaks volumes infinitive: speak volumes [fig.]
+this is ... - on the phone
+speak of the devil
+talk of the devil
+word spread that ...
+Speak of the devil!
+Talk of the devil!
+","to know the score [coll.]
+to know what's what [coll.]
+to be on the phone
+to hang on so.'s lips
+to be tied to so.'s apron strings [fig.]
+to chuck sth. ⇔ in
+to give sth. ⇔ up
+It's just sour grapes.
+Don't be down in the mouth!
+to float with the tide
+to float with the tide
+to shout sth. from the rooftops
+to spread sth. around
+",,"to get sth. over with
+sth. makes so.'s blood boil [coll.]
+sth. gets so.'s goat infinitive: get [coll.] [fig.]
+the last straw
+the straw that broke the camel's back
+That's the last straw.
+The straw that breaks the camel's back.
+sth. is not much cop - not very good, of poor quality (Brit.)
+sth. is not up to much - not very good, of poor quality (Brit.)
+sth. is not much chop - not very good, of poor quality (Aust.; N.Z.)
+to reduce so. to despair
+to reduce so. to poverty
+to beggar so. | beggared, beggared |
+to get sth. up to speed
+","to make the cut - succeed [coll.] [fig.] (Amer.)
+to deliver the goods
+to make the cut [coll.] (Amer.) [SPORT.]
+to win the White House [fig.] [POL.]
+He who pays the piper calls the tune.
+",,,,"to have a tumble with so. - have sexual intercourse [coll.] dated
+to be up to mischief
+to be up to one's mischief
+to be up to one's tricks
+to be up to no good
+to go too far
+",,,,,"to keep up appearances
+(as) fit as a fiddle
+in a nutshell
+to be in good shape [fig.]
+to feel a bit under the weather [fig.]
+","as circumstances demand
+",
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -10531,7 +11388,97 @@ einen Volltreffer landen
 in der Patsche landen [fig.] [coll.]
 Damit kann man bei mir nicht landen.
 Damit können Sie bei mir nicht landen.
-",,
+",,,,,"sichacc. nicht die Bohne für etw.acc. interessieren [coll.]
+sichacc. nicht die Bohne (für jmdn./etw.) interessieren [coll.] [fig.]
+sichacc. nicht die Bohne (für jmdn./etw.) interessieren [coll.] [fig.]
+","alle Spiele gewinnen [coll.] [fig.]
+ein Spiel Karten
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+etw.acc. aufs Spiel setzen [fig.]
+Galgenmännchen spielen
+Galgenraten spielen
+Hängemann spielen
+jmdn. an die Wand spielen [fig.]
+auf Zeit spielen [coll.]
+","Ihr habt archaic - Anrede an eine einzelne Person
+Köpfchen haben
+Schluckauf haben no article
+Bärenkräfte haben
+Beschwerden haben - Schmerzen in einem Körperteil haben
+eine Engelsgeduld haben
+das Sagen haben
+das Sagen haben
+die Oberhand (über jmdn./etw.) haben
+einen Brummschädel haben
+einen Kopfschuss haben
+die Oberhand haben
+etw.acc. im Überfluss haben
+jmdn. an der Strippe haben
+","Sprecht mir nach.
+in Rätseln sprechen
+ein Machtwort sprechen
+ein Machtwort sprechen
+Lass Blumen sprechen.
+Lasst Blumen sprechen.
+um mit jmds. Worten zu sprechen
+etw.nom. sprach sich herum
+etw.nom. spricht Bände infinitive: Bände sprechen [fig.]
+hier spricht ... - am Telefon
+wenn man vom Teufel spricht
+wenn man vom Teufel spricht
+es sprach sich herum, dass ...
+Wenn man vom Teufel spricht ...
+Wenn man vom Teufel spricht ...
+","wissen, wo der Hammer hängt - sich auskennen, Bescheid wissen
+wissen, wo der Hammer hängt - sich auskennen, Bescheid wissen
+an der Strippe hängen
+an jmds. Lippen hängen
+an jmds. Rockzipfel hängen [fig.]
+etw.acc. an den Nagel hängen [fig.]
+etw.acc. an den Nagel hängen [fig.]
+Die Trauben hängen zu hoch.
+Lass den Kopf nicht hängen!
+den Mantel nach dem Winde hängen
+sein Mäntelchen nach dem Wind hängen
+etw.acc. an die große Glocke hängen [fig.]
+etw.acc. an die große Glocke hängen [fig.]
+",,"etw. hinter sich bringen [fig.]
+etw.nom. bringt jmdn. auf hundertachtzig infinitive: auf hundertachtzig bringen [coll.]
+etw.nom. bringt jmdn. auf die Palme [coll.] [fig.] infinitive: auf die Palme bringen
+der Tropfen, der das Fass zum Überlaufen bringt
+der Tropfen, der das Fass zum Überlaufen bringt
+Das ist der Tropfen, der das Fass zum Überlaufen bringt.
+Der Tropfen, der das Fass zum Überlaufen bringt.
+etw.nom. bringt's nicht [coll.][fig.]
+etw.nom. bringt's nicht [coll.][fig.]
+etw.nom. bringt's nicht [coll.][fig.]
+jmdn. zur Verzweiflung bringen
+jmdn. an den Bettelstab bringen
+jmdn. an den Bettelstab bringen
+etw.acc. auf Hochtouren bringen
+","es schaffen
+es schaffen [fig.] [coll.]
+den Cut schaffen [Golf]
+es ins Weiße Haus schaffen - die Wahl gewinnen
+Wer zahlt, schafft an. (Southern Germany; Austria)
+",,,,"es mit jmdm. treiben [coll.]
+sein Unwesen treiben
+sein Unwesen treiben
+sein Unwesen treiben
+sein Unwesen treiben
+es zu bunt treiben [fig.]
+",,,,,"der Form halber
+gut in Form
+in knappster Form
+gut in Form sein
+nicht ganz in Form sein
+","wie die Umstände es erfordern
+",
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -11782,6 +12729,106 @@ He won't know what's hit him.
 ","That's not respectable.
 ","I ended up teaching at a high school
 The aircraft whose wing was damaged managed to land safely.
+",,,"The time is ripe to begin afresh.
+",,"which will interest you
+They have little interest in the subject.
+","There aren't many games to play before the end of the season.
+The game was rained off. (Brit.)
+The score is even.
+the game ended in a draw
+the game was a draw
+The match could go either way.
+We play for love.
+the game ended in a tie
+He has a finger in the pie.
+What's the score?
+What is the score?
+He puts a good face on the matter.
+Fewer people than expected turned up for the match.
+There is little scope left.
+","Have you got ...?
+When do you break up for Christmas? (Brit.)
+We have ...
+is reported to have ...
+are entitled to
+have filed a petition in bankruptcy
+have contributed to
+have announced their insolvency
+have declared themselves bankrupt
+What's the date today?
+You have a point there.
+He's sure to succeed.
+Money can't buy it.
+You've asked for it.
+","Can I talk to you for a second? - Yes, what's up?
+They are not on speaking terms.
+There's someone here to see you.
+There are some men here to see you.
+That speaks in his favor.AEThat speaks in his favour.BE
+There is nothing to be said against it.
+his voice was thick with fear
+it has a lot to commend it
+aspects in his favorAE areaspects in his favourBE are
+aspects in his disfavour are
+aspects in his favorAE areaspects in his favourBE are
+aspects in his disfavour are
+He spoke about indifferent topics.
+He is well spoken of.
+It tells its own tale.
+This is due to the fact that I can't speak French.
+the patient did not respond to the treatment
+","depends on the strategy
+I'm sick and tired of it.
+Whether they'll win will depend on how they are feeling that day.
+It depends on you.
+The picture is crooked.
+Everything hangs on your decision.
+It depends largely upon you
+It's up to him.
+the washing is on the line
+He wound up in a pub.
+I'm still very attached to you.
+He broke away from the rest of the field.
+",,"puts us in an excellent position
+places us in a difficult position
+He makes things hum.
+He cracks me up.
+There's little point in blaming each other.
+It doesn't pay
+My biggest pet peeve is people who jump the queue.
+He'll never get anywhere.
+will not inconvenience you
+I just manage to get by.
+he conned her out of all her money
+The postman brought bad news.
+I'll see you home.
+She drove me crazy.
+","I'll never make it.
+Maybe my co-worker can do something about it.
+Let us establish a sound basis.
+I just managed it.
+",,"fitting and gluing of the canopy and frame
+completely seamless fitting of contour of wing to fuselage
+","The opportunity arises.
+This career offers good prospects.
+Europe offers more.
+provided it offers such facilities
+The room accommodates four people.
+which enjoys all the advantages
+to be provided for general information
+We offer price advantages.
+We provide a service.
+No opportunity offered itself.
+She was a vision of delight.
+","ambition spurred him to success
+You carry things too far.
+",,"the price is based upon
+",,,"all shapes and sizes
+the form in which they are received
+He's going strong.
+in the form of a balance
+in the form of a credit facility [FINAN.]
+in the form of a lump-sum payment [FINAN.]
 ",,
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
@@ -13033,4 +14080,104 @@ Er wird sein blaues Wunder erleben, [fig.] [coll.]
 ","Das schickt sich nicht.
 ","ich landete als Lehrer an einer Highschool
 Das Flugzeug, dessen Tragfläche beschädigt war, konnte sicher landen.
+",,,"Die Zeit ist reif, neu anzufangen.
+",,"welches Sie interessieren wird
+Sie interessieren sich nicht besonders für das Thema.
+","Bis zum Saisonende finden nicht mehr viele Spiele statt.
+Das Spiel fiel im wahrsten Sinne des Wortes ins Wasser.
+Das Spiel steht unentschieden.
+das Spiel ging unentschieden aus
+das Spiel ging unentschieden aus
+Das Spiel könnte so oder so ausgehen.
+Wir spielen um nichts.
+das Spiel endete unentschieden
+Er hat seine Hand im Spiel.
+Wie steht das Spiel?
+Wie steht das Spiel?
+Er macht gute Miene zum bösen Spiel.
+Weniger Leute als erwartet kamen zum Spiel.
+Es verbleibt nur wenig Spielraum.
+","Habt ihr ...?
+Wann habt ihr Weihnachtsferien?
+Wir haben ...
+soll ... haben
+haben Anspruch auf
+haben Bankrott angemeldet
+haben beigetragen zu
+haben ihre Zahlungsunfähigkeit bekannt gegeben
+haben sich für zahlungsunfähig erklärt
+Den Wievielten haben wir heute?
+Darin mögen Sie recht (or: Recht) haben.
+Er wird bestimmt Erfolg haben.
+Es ist für Geld nicht zu haben.
+Sie haben es heraufbeschworen.
+","Kann ich kurz mit Ihnen sprechen? Ja, was gibt es denn?
+Sie sprechen nicht miteinander.
+Da ist jemand, der mit dir sprechen möchte.
+Hier sind ein paar Männer, die mit dir sprechen wollen.
+Das spricht für ihn.
+Es spricht nichts dagegen.
+er sprach mit angstvoller Stimme
+es spricht viel dafür
+für ihn spricht
+gegen ihn spricht
+zu seinen Gunsten spricht
+zu seinen Ungunsten spricht
+Er sprach über Nichtigkeiten.
+Man spricht gut von ihm.
+Es spricht für sich selbst.
+Das liegt daran, dass ich kein Französisch spreche.
+der Patient sprach auf die Behandlung nicht an
+","hängt von der Strategie ab
+Das hängt mir zum Hals raus.
+Ob sie gewinnen hängt von ihrer Tagesform ab.
+Es hängt von dir ab. infinitive: abhängen
+Das Bild hängt schief.
+Es hängt alles von Ihrer Entscheidung ab. infinitive: von etw.dat. abhängen
+Es hängt in hohem Maß von Ihnen ab infinitive: abhängen
+Es hängt von ihm ab.
+die Wäsche hängt auf der Leine
+Er blieb in einem Lokal hängen.
+Ich hänge immer noch sehr an dir.
+Er hängte das ganze Feld ab.
+",,"bringt uns in eine erstklassige Lage
+bringt uns in eine schwierige Lage
+Er bringt Schwung in die Sache.
+Er bringt mich zum Lachen. infinitive: zum Lachen bringen
+Es bringt doch nichts, sich gegenseitig zu beschuldigen.
+Es bringt nichts ein infinitive: einbringen
+Nichts bringt mich mehr auf die Palme als Leute, die sich vordrängeln.
+Er wird es nie zu etwas bringen.
+wird Sie nicht in Verlegenheit bringen
+Ich bringe mich gerade so durch.
+er hat sie um ihr ganzes Geld gebracht
+Der Postbote brachte schlechte Nachrichten.
+Ich bringe Sie nach Hause (or: nachhause).
+Sie brachte mich auf die Palme.
+","Ich werde es nie schaffen.
+Vielleicht kann meine Kollegin Abhilfe schaffen.
+Lasst uns eine Grundlage schaffen.
+Ich schaffte es gerade noch.
+",,"Anpassen und Aufkleben der Kabinenhaube auf den Rahmen - Modellflugzeug
+absolut spaltfreies Anpassen der Flügelkontur an den Rumpf
+","Die Gelegenheit bietet sich.
+Diese Laufbahn bietet gute Chancen.
+Europa bietet mehr.
+vorausgesetzt, er bietet solche Einrichtungen
+Das Zimmer bietet Platz für vier Personen.
+die all die Vorzüge bietet
+bieten allgemeine Informationen
+Wir bieten Preisvorteile.
+Wir bieten einen Dienst.
+Es bot sich keine Gelegenheit.
+Sie bot einen entzückenden Anblick.
+","der Ehrgeiz trieb ihn voran
+Du treibst die Dinge zu weit.
+",,"der Preis basiert auf
+",,,"alle Formen und Größen
+die Form, in der sie empfangen worden sind
+Er ist gut in Form.
+in Form einer Bilanz
+in Form einer Krediteinräumung
+in Form eines Pauschalbetrags
 ",,
