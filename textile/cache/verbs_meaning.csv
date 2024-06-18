@@ -1,4 +1,4 @@
-aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt,döste,betrat,sah,wedelte,provozierte,erlebt,schickte,landete,zuwandte,schnurrte,anzufangen,studiert,interessiere,spiele,habt,sprecht,hängt,erlernen,bringt,schaffen,geprägt,anpassen,bietet,treibt,prägt,basiert,weiterbilden,gestalten,formen,erfordert,verändern
+aspects,language,wohnen,habe,arbeitet,lebe,heißt,komme,musste,gesagt,verboten,angeklagt,getan,trete,kommen,gewählt,entschieden,bekommt,gefälscht,sagt,untersucht,unternehmen,aufnimmt,beigetreten,freuen,helfen,geändert,angreift,hochgezogen,gegeben,angegriffen,kritisiert,hat,geklappt,gehört,bekommen,handelt,erzählt,gestorben,gekämpft,verliehen,gewonnen,haben,Hast,aufgewacht,klingt,trinken,entschuldigt,weiß,geht,gehen,machen,kannst,geben,tun,hilft,hasse,ändern,zueinander,stecken,erinnere,fernsehen,bringe,geschlafen,Stimmt,wünsche,ausrichten,steckst,gebe,mitbekommen,gebraucht,sitzen,braucht,melde,erlaubt,rauchen,genutzt,sagen,entspannen,angebaut,gekauft,regieren,erklärt,geplant,besitzen,anbauen,ernten,muss,verkaufen,beobachten,funktioniert,gibt,kontrolliert,nehmen,entwickelt,stört,beginnt,mitmachen,nennt,dauert,verfilmen,gemacht,sehen,mitarbeiten,freue,erzählen,kämpft,beschießen,fliehen,geschossen,liegt,versuchen,getötet,erschossen,sieht,richtet,schießt,fährt,hören,kriegst,ermittelt,passiert,beschossen,angezündet,errichtet,gab,aufgeklärt,verurteilt,aufhören,mobilisiert,stellen,schaut,gelitten,behandelt,veröffentlicht,drucken,lassen,steht,aufgeben,einnehmen,vorgeworfen,versucht,fehlten,aufgefordert,organisieren,verlesen,zurückgewiesen,reisen,gewartet,besuchen,abstellen,genießen,fahren,vorbeifahren,aussehen,vorbeikommen,anhalten,strahlen,scheint,singen,sehe,spielen,werfen,lachen,sitzt,liest,fesselt,begeistert,gestohlen,rennt,ruft,lacht,vergeht,verlassen,zubereiten,verlief,erwartet,gefunden,begann,schnitt,erhitzte,dachte,arbeitete,genießt,schätzt,verbringt,kommt,dient,geteilt,profitieren,Fühlt,abgegrenzt,meint,kann,fühlt,wertgeschätzt,döste,betrat,sah,wedelte,provozierte,erlebt,schickte,landete,zuwandte,schnurrte,anzufangen,studiert,interessiere,spiele,habt,sprecht,hängt,erlernen,bringt,schaffen,geprägt,anpassen,bietet,treibt,prägt,basiert,weiterbilden,gestalten,formen,erfordert,verändern,arbeiten,hervorgebracht,pflanzen,gekommen,gearbeitet,gebracht,sagte
 basic_forms,english,,"sich haben : Verb
 sich haben : Verb
 haben : Verb
@@ -305,8 +305,20 @@ treiben : Verb
 ",,"die Gestalt : Noun
 ","die Form : Noun
 ","erfordern : Verb
-",
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,"die Arbeit : Noun
+","hervorbringen : Verb
+","die Pflanze : Noun
+","kommen : Verb
+sich kommen : Verb
+kommen : Verb
+","arbeiten : Verb
+","bringen : Verb
+sich bringen : Verb
+sich bringen : Verb
+","sich sagen : Verb
+sagen : Verb
+"
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to live | lived, lived |
 to stay | stayed, stayed |
 to dwell | dwelled/dwelt, dwelled/dwelt |
@@ -3147,6 +3159,99 @@ to undergo a change
 to make a difference
 to alter chemically
 to shake sth. up
+","to work | worked, worked |
+to run | ran, run |
+to operate | operated, operated | - function [TECH.]
+to be operated
+to laborAE / labourBE | labored, labored / laboured, laboured |
+to act as sth.
+to act | acted, acted | [TECH.]
+to cast | cast, cast | [TECH.]
+to function | functioned, functioned | [TECH.]
+to be engaged [TECH.]
+to ferment | fermented, fermented | [BIOL.]
+to perform | performed, performed | [TECH.]
+to operate as sth. [TECH.]
+to work on sth.
+","to bear | bore, borne/born |
+to produce | produced, produced |
+to generate | generated, generated |
+to spawn sth. | spawned, spawned | - cause sth. else to happen
+to create sth. | created, created |
+to put sth. ⇔ forth
+to develop sth. | developed, developed |
+to manufacture sth. | manufactured, manufactured |
+to originate sth. | originated, originated | - give rise to
+to breed sth. | bred, bred | [fig.]
+to yield sth. | yielded, yielded | [CHEM.]
+to beget sth. | begot/begat, begot/begotten | [fig.] [form.]
+to educe sth. (out of sth.) | educed, educed | [form.]
+to reproduce | reproduced, reproduced |
+to produce a masterpiece
+to grind sth. ⇔ out
+to blossom into sth.
+","to plant sth. | planted, planted |
+to dibble | dibbled, dibbled |
+to classify plants [BOT.]
+to plant oneself somewhere
+to plonk oneself somewhere (Brit.)[coll.]
+to accelerate the growth of a plant
+","to come | came, come |
+to turn up - come, arrive
+to arrive (at sth.) | arrived, arrived |
+to be along [coll.]
+to come | came, come | [sl.] - have an orgasm
+to come from London/the Canary Islands/Switzerland
+to work sth. ⇔ out
+to get the hang of sth.
+to conceive (of) sth. | conceived, conceived |
+to get to the bottom of sth.
+to take after so.
+to get down to sth.
+to work round to sth.
+to amount to sth.
+","to work | worked, worked |
+to run | ran, run |
+to operate | operated, operated | - function [TECH.]
+to be operated
+to laborAE / labourBE | labored, labored / laboured, laboured |
+to act as sth.
+to act | acted, acted | [TECH.]
+to cast | cast, cast | [TECH.]
+to function | functioned, functioned | [TECH.]
+to be engaged [TECH.]
+to ferment | fermented, fermented | [BIOL.]
+to perform | performed, performed | [TECH.]
+to operate as sth. [TECH.]
+to work on sth.
+","to bring so./sth. | brought, brought |
+to land so. | landed, landed |
+to bring so. sth. (or: sth. to so.) | brought, brought |
+to yield sth. | yielded, yielded |
+to carry sth. | carried, carried |
+to deliver sth. | delivered, delivered |
+to feature sth. | featured, featured |
+to get so. sth. (or: sth. for so.) | got, got/gotten |
+to fetch sth. | fetched, fetched | [coll.]
+to entail sth.
+to implicate sth. | implicated, implicated |
+to involve sth. | involved, involved |
+to bring sth. ⇔ about
+to acquire sth. | acquired, acquired | - a skill, habit, etc.
+","to say sth. | said, said |
+to tell | told, told |
+to state | stated, stated |
+to put | put, put | - express
+to utter sth. | uttered, uttered |
+to go | went, gone | (Amer.) [coll.]
+to say sth. about so./sth.
+so./sth. appeals to so. infinitive: appeal
+sth. suits so. infinitive: suit
+saith archaic
+to mean sth. | meant, meant |
+to bid farewell
+to call in
+to answer no
 "
 verbs,german,"wohnen | wohnte, gewohnt |
 wohnen | wohnte, gewohnt |
@@ -5988,6 +6093,99 @@ sichacc. verändern | veränderte, verändert |
 etw.acc. verändern | veränderte, verändert |
 chemisch verändern
 etw.acc. drastisch verändern
+","arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+an etw.dat. arbeiten | arbeitete, gearbeitet |
+","hervorbringen | brachte hervor, hervorgebracht |
+hervorbringen | brachte hervor, hervorgebracht |
+hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. hervorbringen | brachte hervor, hervorgebracht |
+etw.acc. (aus etw.dat.) hervorbringen | brachte hervor, hervorgebracht |
+wieder hervorbringen
+ein Meisterstück hervorbringen
+etw.acc. mühsam hervorbringen
+etw.acc. als Blüte hervorbringen
+","etw.acc. pflanzen | pflanzte, gepflanzt |
+pflanzen | pflanzte, gepflanzt |
+Pflanzen bestimmen
+sichacc. irgendwohin pflanzen [coll.]
+sichacc. irgendwohin pflanzen [coll.][fig.]
+das Wachstum einer Pflanze beschleunigen
+","kommen | kam, gekommen |
+kommen | kam, gekommen |
+(zu etw.dat.) kommen | kam, gekommen | - Ergebnis, Einigung etc.
+kommen | kam, gekommen |
+kommen | kam, gekommen | - einen Orgasmus haben
+aus London/von den Kanarischen Inseln/aus der Schweiz kommen
+hinter etw.acc. kommen | kam, gekommen |
+hinter etw.acc. kommen | kam, gekommen |
+auf etw.acc. kommen | kam, gekommen |
+hinter etw.dat. kommen | kam, gekommen |
+nach jmdm. kommen | kam, gekommen | - ähneln
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+zu etw.dat. kommen | kam, gekommen |
+","arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+arbeiten | arbeitete, gearbeitet |
+als etw.nom. arbeiten
+an etw.dat. arbeiten | arbeitete, gearbeitet |
+","jmdn./etw. bringen | brachte, gebracht |
+jmdn. bringen | brachte, gebracht |
+jmdm. etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht | - z. B. in der Zeitung
+jmdm. etw.acc. bringen | brachte, gebracht |
+etw.acc. bringen | brachte, gebracht | [coll.] - erzielen
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. mit sichdat. bringen | brachte, gebracht |
+etw.acc. an sichacc. bringen | brachte, gebracht | - sich etw. aneignen
+","etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. sagen | sagte, gesagt |
+sagen | sagte, gesagt |
+etw.acc. über jmdn./etw. sagen | sagte, gesagt |
+jmd./etw. sagt jmdm. zu infinitive: zusagen
+etw.nom. sagt jmdm. zu infinitive: zusagen
+sagt - alt: 3. P. Sg. Pr. von to say
+etw.acc. sagen wollen
+Lebewohl sagen
+Bescheid sagen
+nein (or: Nein) sagen
 "
 nouns,english,"habitation
 assisted living - a living arrangement in which people with special needs, especially seniors with disabilities, reside in a facility that provides help with everyday tasks
@@ -6746,7 +6944,36 @@ style
 moldAE / mouldBE [TECH.]
 type [TECH.]
 ",,"variability [TECH.]
-"
+","works used with sg. or pl. verb
+functioning
+working
+operations pl. [TECH.]
+fermentation [BIOL.]
+operation [TECH.]
+job
+work also [PHYS.]
+laborAE / labourBE
+employment
+occupation
+assignment
+activity
+task
+",,"plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+crop
+herbaceous plants
+perennials pl.
+perennials pl.
+gymnosperms pl. [BOT.]
+gymnospermae pl. [BOT.]
+naked-seed plants pl. [BOT.]
+angiosperms pl. [BOT.]
+dicotyledonous plants [BOT.]
+dicotyledonous flowering plants [BOT.]
+edible plants [AGR.]
+stinger
+","frumpy
+",,,
 nouns,german,"das Wohnen no plural
 betreutes Wohnen
 betreutes Wohnen
@@ -7504,7 +7731,36 @@ die Form pl.: die Formen
 die Form pl.: die Formen
 die Form pl.: die Formen
 ",,"Verändern einer Größe
-"
+","die Arbeiten pl.
+das Arbeiten no plural
+das Arbeiten no plural
+die Arbeiten pl.
+das Arbeiten no plural
+das Arbeiten no plural
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit no plural
+die Arbeit no plural
+die Arbeit pl.
+die Arbeit pl.
+die Arbeit pl.
+",,"die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+die Pflanze pl.: die Pflanzen
+krautige Pflanzen
+mehrjährige Pflanzen pl.
+perennierende Pflanzen pl.
+nacktsamige Pflanzen pl. Lat.: Gymnospermae
+nacktsamige Pflanzen Lat.: Gymnospermae
+nacktsamige Pflanzen Lat.: Gymnospermae
+bedecktsamige Pflanzen pl.
+zweikeimblättrige Pflanzen
+zweikeimblättrige Pflanzen
+essbare Pflanzen pl.
+stachlige Pflanze
+","aus der Mode gekommen
+",,,
 noun_details,english,"article: Das
 word: Wohnen
 genus: NEUT
@@ -8159,8 +8415,26 @@ genus:
 plural: Größe
 meaning: variability [TECH.]
 
-"
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+","article: Die
+word: Arbeit
+genus: FEMI
+plural: Arbeiten
+meaning: works used with sg. or pl. verb
+functioning
+",,"article: Die
+word: Pflanze
+genus: FEMI
+plural: Pflanzen
+meaning: plant [BOT.]
+wort - a plant or herb, usually as part of a in compound noun
+","article: aus
+word: der
+genus: 
+plural: gekommen
+meaning: frumpy
+
+",,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,,,,,"namely adv. also [LAW]
 viz. - short for Latin ""videlicet"" adv. [form.] Latin
 ",,,"in short
@@ -8610,6 +8884,46 @@ isomorphic adj.
 at its best
 at the top of one's form
 ","demanded adj.
+",,"seeking work
+disinclined to work
+work-related adj.
+work-related adj. [TECH.]
+in the works
+under progress
+out of a job
+at work
+at work
+on the job
+at work
+out of work
+unable to work
+young in one's job
+secretarial adj.
+unearned adj.
+","bred adj.
+originated adj.
+","herbivorous adj.
+phytophagous adj. [BIOL.]
+vegetable adj.
+botanical adj.
+herb-rich adj. [BOT.][ENV.]
+","advanced adj.
+erring adj.
+","wrought adj.
+finished to a high quality
+daedal adj.
+","silenced adj.
+finalizedAE adj.finalisedBE / finalizedBE adj.
+steadied adj.
+aligned adj.
+actuated adj.
+embarrassed adj.
+agreed adj.
+introduced adj.
+updated adj.
+aligned adj.
+taken aback
+minimizedAE adj.minimisedBE / minimizedBE adj.
 ",
 adjectives_or_adverbs,german,,,,,"das heißt [abbr.: d.h.]
 das heißt [abbr.: d. h.]
@@ -9060,6 +9374,46 @@ von gleicher Form
 in bester Form
 in bester Form
 ","erfordert
+",,"arbeitsuchend or: Arbeit suchend, arbeitssuchend
+der Arbeit abgeneigt
+die Arbeit betreffend
+Arbeit betreffend
+in Arbeit
+in Arbeit
+ohne Arbeit
+auf der Arbeit
+bei der Arbeit
+bei der Arbeit
+in der Arbeit
+ohne Arbeit
+außerstande zu arbeiten
+unerfahren in seiner Arbeit
+die Arbeit des Sekretariats betreffend
+nicht durch eigene Arbeit erworben
+","hervorgebracht
+hervorgebracht
+","pflanzenfressend or: Pflanzen fressend
+pflanzenfressend or: Pflanzen fressend
+Pflanzen...
+Pflanzen...
+reich an krautigen Pflanzen
+","gekommen
+auf Abwege gekommen
+","gearbeitet
+hochwertig gearbeitet
+kunstvoll gearbeitet
+","zum Schweigen gebracht
+zum Abschluss gebracht
+zur Ruhe gebracht
+in Linie gebracht
+in Gang gebracht
+in Verlegenheit gebracht
+in Übereinstimmung gebracht
+in Verkehr gebracht
+auf den neuesten (or: neusten) Stand gebracht
+in eine Linie gebracht
+aus der Fassung gebracht
+auf ein Minimum gebracht
 ",
 phrases_or_collocations,english,"You're not the only pebble on the beach
 ","You don't know what I'm up against.
@@ -10269,7 +10623,62 @@ in a nutshell
 to be in good shape [fig.]
 to feel a bit under the weather [fig.]
 ","as circumstances demand
-",
+",,"to line one's pocket
+work in progress
+all work and no play makes Jack a dull boy
+Business is the salt of life.
+a job that pays well
+back to the salt mines
+a good piece of craftsmanship
+a piece of solid workmanship
+Business before pleasure.
+Many hands make light work.
+equal pay for equal work! [POL.]
+",,"a good cropper
+","Things have come to a pretty pass.
+to cotton on to so.
+to get on to so.
+to see through so.'s game
+to get on to so.
+to get on to the track of so./sth.
+to get run over
+to hit the spot
+to cut to the chase [fig.] (Amer.)
+to get off the ground [fig.]
+to come to the fore [fig.]
+to go to the dogs [coll.]
+to go to the dogs [coll.] [fig.]
+to cut (right) to the chase [fig.] (Amer.)
+","to line one's pocket
+","to get sth. over with
+to reduce so. to despair
+to reduce so. to poverty
+to beggar so. | beggared, beggared |
+to get sth. up to speed
+to cut the mustard [coll.]
+to cut it (Amer.) [coll.]
+to deliver the goods
+to exasperate so. | exasperated, exasperated |
+to drive so. nuts
+to drive so. crazy
+to bring sth. ⇔ up
+to broach sth. | broached, broached |
+to get sth. over with
+","... X said, quote, ..., unquote.
+let's say ...
+to say sth. in a roundabout way
+Let's put it this way ...
+I daresay
+if you will pardon the expression
+if you will pardon my saying so
+Watch what you say!
+that's one way of putting it
+In for a penny, in for a pound. (Brit.)
+you may thank your stars
+It's safe to say.
+to put it bluntly
+You don't say!
+"
 phrases_or_collocations,german,"Hinterm Berge wohnen auch Leute
 ","Du weißt nicht, wogegen ich anzukämpfen habe.
 Ich habe keinen blassen Dunst!
@@ -11478,7 +11887,62 @@ in knappster Form
 gut in Form sein
 nicht ganz in Form sein
 ","wie die Umstände es erfordern
-",
+",,"in die eigene Tasche arbeiten
+in Arbeit
+Arbeit allein macht nicht glücklich
+Arbeit macht das Leben süß.
+eine Arbeit, die sich bezahlt macht
+zurück an die Arbeit
+ein gutes Stück Arbeit
+ein solides Stück Arbeit
+Erst die Arbeit, dann das Vergnügen.
+Viele Hände machen der Arbeit bald ein Ende.
+gleicher Lohn für gleiche Arbeit!
+",,"eine gut tragende Pflanze
+","Es muss schon sehr weit gekommen sein.
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Schliche kommen
+jmdm. auf die Spur kommen
+jmdm./etw. auf die Spur kommen
+unter die Räder kommen - überfahren werden
+gut kommen [coll.]
+zur Sache kommen
+in Gang kommen [fig.]
+ans Ruder kommen [fig.] - die Macht übernehmen
+auf den Hund kommen [coll.]
+unter die Räder kommen [coll.] [fig.]
+(gleich) auf den (or: zum) Punkt kommen
+","in die eigene Tasche arbeiten
+","etw. hinter sich bringen [fig.]
+jmdn. zur Verzweiflung bringen
+jmdn. an den Bettelstab bringen
+jmdn. an den Bettelstab bringen
+etw.acc. auf Hochtouren bringen
+es bringen [coll.]
+es bringen [coll.]
+es bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+jmdn. auf die Palme bringen [coll.]
+etw.acc. aufs Tapet bringen [fig.]
+etw.acc. aufs Tapet bringen [fig.]
+etw. über die Bühne bringen [fig.]
+","... X sagte, ich zitiere, ..., Zitatende.
+sagen wir ...
+etw.acc. durch die Blume sagen [fig.]
+Sagen wir mal so ...
+ich wage zu sagen
+mit Verlaub zu sagen
+mit Verlaub zu sagen
+Passen Sie auf, was Sie sagen!
+so kann man es auch sagen
+Wer A sagt, muss auch B sagen.
+da kannst du von Glück sagen
+Man kann es sagen.
+um es ganz offen zu sagen
+Was Sie nicht sagen!
+"
 examples,english,"Do you belong here?
 Where do you live?
 He's staying with me.
@@ -12829,7 +13293,81 @@ He's going strong.
 in the form of a balance
 in the form of a credit facility [FINAN.]
 in the form of a lump-sum payment [FINAN.]
-",,
+",,,"ready to work on a small commission
+It has been a privilege to work with you.
+refuses to work with us
+It was only the second time she had missed work due to illness.
+He works from morning to night.
+I like the way he works.
+For whom does he work?
+Who does he work for?
+He works to rule.
+She never rests.
+She works at such a hectic pace.
+She works for Lufthansa.
+She works half-day at the cinema.
+He's a chef at the Trafalgar Hotel.
+",,"the plant is shooting up [BOT.]
+","I heard it on (or: through) the grapevine.
+How did you hit on that?
+something has cropped up
+I don't know what got into me.
+He couldn't come.
+He used to come.
+We're coming.
+see me tomorrow
+Do they meet their liabilities?
+Do they meet their obligations?
+Do you get many foreign visitors here at the museum?
+Owing to the rain we couldn't come.
+Three of us are coming together.
+It was bound to happen.
+","ready to work on a small commission
+It has been a privilege to work with you.
+refuses to work with us
+It was only the second time she had missed work due to illness.
+He works from morning to night.
+I like the way he works.
+For whom does he work?
+Who does he work for?
+He works to rule.
+She never rests.
+She works at such a hectic pace.
+She works for Lufthansa.
+She works half-day at the cinema.
+He's a chef at the Trafalgar Hotel.
+","he conned her out of all her money
+It has been updated
+He was taken to hospital with concussion.
+He'll never get anywhere.
+will not inconvenience you
+I just manage to get by.
+The postman brought bad news.
+I'll see you home.
+He makes things hum.
+She drove me crazy.
+He cracks me up.
+There's little point in blaming each other.
+It doesn't pay
+We made him talk.
+He took me to the airport.
+He had them rolling in the aisles.
+My biggest pet peeve is people who jump the queue.
+","He didn't say anything at all.
+like I said
+like I said
+He told it to me in confidence.
+I told you it was them.
+The teacher said she was going to be off for a few days.
+He said with great restraint that ...
+He said nothing as to payment. [FINAN.]
+please tell me
+He has no say.
+I felt impelled to say it.
+Can you give me a heads up?
+There's something I've got to tell you.
+There's something that I've got to tell you.
+"
 examples,german,"Wohnen Sie hier?
 Wo wohnen Sie?
 Er wohnt bei mir.
@@ -14180,4 +14718,78 @@ Er ist gut in Form.
 in Form einer Bilanz
 in Form einer Krediteinräumung
 in Form eines Pauschalbetrags
-",,
+",,,"bereit mit kleiner Provision zu arbeiten
+Es war uns eine Ehre, mit Ihnen zu arbeiten.
+weigert sich mit uns zu arbeiten
+Es war erst das zweite Mal, dass sie wegen Krankheit nicht arbeiten konnte.
+Er arbeitet von früh bis spät.
+Mir gefällt, wie er arbeitet.
+Für wen arbeitet er?
+Für wen arbeitet er?
+Er arbeitet nach Vorschrift.
+Sie arbeitet ununterbrochen.
+Sie arbeitet mit einer solchen Hektik.
+Sie arbeitet bei der Lufthansa.
+Sie arbeitet halbtags im Kino.
+Er arbeitet als Koch im Trafalgar Hotel.
+",,"die Pflanze ist im Schuss
+","Es ist mir zu Ohren gekommen.
+Wie sind Sie darauf gekommen?
+es ist etwas dazwischen gekommen
+Ich weiß nicht, was über mich gekommen ist.
+Er konnte nicht kommen.
+Er pflegte zu kommen.
+Wir kommen.
+kommen Sie morgen zu mir
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen sie ihren Verbindlichkeiten nach? infinitive: nachkommen
+Kommen viele ausländische Besucher hier ins Museum?
+Infolge des Regens konnten wir nicht kommen.
+Wir kommen zu dritt.
+Es musste ja so kommen.
+","bereit mit kleiner Provision zu arbeiten
+Es war uns eine Ehre, mit Ihnen zu arbeiten.
+weigert sich mit uns zu arbeiten
+Es war erst das zweite Mal, dass sie wegen Krankheit nicht arbeiten konnte.
+Er arbeitet von früh bis spät.
+Mir gefällt, wie er arbeitet.
+Für wen arbeitet er?
+Für wen arbeitet er?
+Er arbeitet nach Vorschrift.
+Sie arbeitet ununterbrochen.
+Sie arbeitet mit einer solchen Hektik.
+Sie arbeitet bei der Lufthansa.
+Sie arbeitet halbtags im Kino.
+Er arbeitet als Koch im Trafalgar Hotel.
+","er hat sie um ihr ganzes Geld gebracht
+Es ist auf den neuesten (or: neusten) Stand gebracht worden
+Er wurde mit einer Gehirnerschütterung ins Krankenhaus gebracht.
+Er wird es nie zu etwas bringen.
+wird Sie nicht in Verlegenheit bringen
+Ich bringe mich gerade so durch.
+Der Postbote brachte schlechte Nachrichten.
+Ich bringe Sie nach Hause (or: nachhause).
+Er bringt Schwung in die Sache.
+Sie brachte mich auf die Palme.
+Er bringt mich zum Lachen. infinitive: zum Lachen bringen
+Es bringt doch nichts, sich gegenseitig zu beschuldigen.
+Es bringt nichts ein infinitive: einbringen
+Wir brachten ihn zum Sprechen.
+Er brachte mich zum Flughafen.
+Er brachte sie so weit, dass sie sich vor Lachen kugelten
+Nichts bringt mich mehr auf die Palme als Leute, die sich vordrängeln.
+","Er sagte überhaupt nichts.
+wie ich bereits sagte
+wie ich schon sagte
+Er sagte es mir unter vier Augen.
+Ich sagte dir doch, dass sie es waren.
+Die Lehrerin sagte, sie würde ein paar Tage fehlen.
+Er sagte sehr beherrscht, dass ...
+Was die Zahlung betrifft, sagte er nichts.
+sagen Sie mir bitte
+Er hat nichts zu sagen.
+Ich sah mich gezwungen, es zu sagen.
+Können Sie mir vorher Bescheid sagen?
+Es gibt etwas, was ich dir sagen muss.
+Es gibt etwas, was ich dir sagen muss.
+"

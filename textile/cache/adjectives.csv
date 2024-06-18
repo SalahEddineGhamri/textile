@@ -1,4 +1,4 @@
-aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes,müden,gezielten,Deutschen,koche,bessere,Neue,ständiges
+aspects,language,frühere,wichtige,neuer,wichtiges,anderes,neues,neuen,wichtigsten,1.,junger,bester,internationaler,beste,besten,Everything,Everywhere,lustiger,eigenen,gute,schlechten,echte,krankes,ganzen,dritten,anderen,kranken,getrocknete,bestimmten,deutsche,besondere,spezielle,illegalen,verunreinigte,mischen,jungen,Deutsche,30.,deutschen,17.,große,andere,schlimme,normale,armes,schwere,tausende,erste,normaler,sozialen,nächstes,4.,nächste,aufregende,gepacktes,malerische,grünen,kleinen,gemütlichen,leckeren,perfektes,erfrischendes,neue,leckeres,schöner,grüne,bunte,älterer,interessantes,junge,interessante,missglückte,gutes,kleine,einfacher,heiße,verbranntem,angebrannter,harte,missglückten,jüngste,attraktive,eigene,meiste,sogenannten,Offenen,Offene,offenes,müden,gezielten,Deutschen,koche,bessere,Neue,ständiges,schönen,rote,gelben,saftigen,braunen
 basic_forms,english,None,"wichtig : Adjective
 ","neu : Adjective
 ","wichtig : Adjective
@@ -135,8 +135,19 @@ sich bessern : Verb
 bessern : Verb
 ","neu : Adjective
 ","ständig : Adjective
+","schön : Adjective
+das Schöne : Noun
+die Schöne : Noun
+der Schöne : Noun
+","rot : Adjective
+","gelb : Adjective
+das Gelbe : Noun
+","saftig : Adjective
+","braun : Adjective
+der Braune : Noun
+die Braune : Noun
 "
-basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,
+basic_forms,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
 verbs,english,None,"to be important
 to be of importance
 to care about sth.
@@ -893,6 +904,38 @@ to chop and change (Brit.)
 to keep so. on the go
 to hover over so.
 to have so. on one's back
+","to clear | cleared, cleared |
+to fine | fined, fined |
+to brighten sth. | brightened, brightened |
+to massage sth. | massaged, massaged | [coll.] - numbers, data, etc.
+to sugarcoat (or: sugar-coat) sth. | sugarcoated, sugarcoated / sugar-coated, sugar-coated | [fig.]
+to clarify sth. | clarified, clarified | [CHEM.]
+to pretty | prettied, prettied |
+to give so. a nasty shock
+to give so. a nasty shock
+to send so. one's regards
+to have a blast
+to have a nice time
+to make eyes at so.
+to ogle so. | ogled, ogled | - look at so. flirtatiously (Amer.)
+","to turn red
+to colorAE / colourBE | colored, colored / coloured, coloured |
+to empurple | empurpled, empurpled |
+to go red
+to blush | blushed, blushed |
+to blush | blushed, blushed |
+to be a redhead
+to ruddle | ruddled, ruddled | - sheep
+to get into the red
+to break even
+to run like a common thread through sth.
+to run like a thread through sth.
+to run like a golden thread through sth.
+",,,"to tan | tanned, tanned |
+to go brown
+to embrown | embrowned, embrowned |
+to embrown sth. | embrowned, embrowned |
+to embrown sth. | embrowned, embrowned |
 "
 verbs,german,None,"wichtig sein
 wichtig sein
@@ -1650,6 +1693,38 @@ ständig seine Meinung wechseln
 jmdn. ständig auf (or: in) Trab halten
 sichacc. ständig in jmds. Nähe aufhalten
 jmdn. ständig im Nacken haben
+","schönen | schönte, geschönt |
+schönen | schönte, geschönt |
+etw.acc. schönen | schönte, geschönt |
+etw.acc. schönen | schönte, geschönt |
+etw.acc. schönen | schönte, geschönt |
+schönen | schönte, geschönt |
+schön herrichten
+jmdm. einen schönen Schock versetzen
+jmdm. einen schönen Schreck (or: Schrecken) einjagen
+jmdm. schöne Grüße ausrichten
+eine schöne Zeit haben
+eine schöne Zeit haben
+jmdm. schöne Augen machen
+jmdm. schöne Augen machen
+","rot werden
+rot werden
+rot werden
+rot werden
+rot werden - vor Scham
+rot anlaufen - vor Scham
+rotes Haar haben
+mit rotem Ocker markieren
+in die roten Zahlen geraten
+aus den roten Zahlen kommen
+sichacc. wie ein roter Faden durch etw.acc. ziehen
+sichacc. wie ein roter Faden durch etw.acc. ziehen
+sichacc. wie ein roter Faden durch etw.acc. ziehen
+",,,"braun werden
+braun werden
+braun werden
+etw.acc. braun färben
+etw.acc. braun machen
 "
 nouns,english,"previous debt
 former quotations
@@ -2617,6 +2692,62 @@ permanent residency
 place of residence
 Standing Committee on Vaccination - in Germany
 residence
+","beauty
+belle - pl.: belles
+fine arts pl.
+beaux-arts pl.
+glitterati [coll.] pl.
+beautiful fruit dove (or: fruit-dove) [ZOOL.]
+crimson-capped fruit dove (or: fruit-dove) [ZOOL.]
+rose-fronted pigeon [ZOOL.]
+star hyacinth [BOT.]
+star squill [BOT.]
+beautiful pea mussel [ZOOL.]
+beautiful bittersweet [ZOOL.]
+Himalayan honeysuckle [BOT.]
+pheasant berry [BOT.]
+","rote
+beetroot chiefly (Brit.)
+beet chiefly (Amer.)
+beetroot chiefly (Brit.)
+beet chiefly (Amer.)
+red baton
+red fruit jelly
+red hybrid tea rose
+red pepper - vegetable
+red goods
+the red planet - Mars
+red grape
+the central theme
+red currant (or: redcurrant) [BOT.]
+","fool's gold [MIN.]
+pyrites of copper [MIN.]
+Yellow Bin
+Yellow Pages® [TELECOM.]
+yellow water lily (or: water-lily) [BOT.]
+brandy-bottle [BOT.]
+chinquapin (or: chinkapin) oak [BOT.]
+yellow chestnut oak [BOT.]
+lion's mane jellyfish [ZOOL.]
+hog mombin [BOT.]
+yellow mombin [BOT.]
+daffodil [BOT.]
+lent lily [BOT.]
+wild daffodil [BOT.]
+",,"bay - horse
+bay horse
+brown recluse [ZOOL.]
+asarabacca [BOT.]
+European wild ginger [BOT.]
+European ginger [BOT.]
+endeavour shrimp [ZOOL.]
+brown mite [ZOOL.]
+apple and pear bryobia mite [ZOOL.]
+brown tiger prawn [ZOOL.]
+Asian dipper [ZOOL.]
+Asiatic dipper [ZOOL.]
+brown dipper [ZOOL.]
+Pallas's dipper [ZOOL.]
 "
 nouns,german,"frühere Schuld
 frühere Angebote
@@ -3584,6 +3715,62 @@ ständiger Wohnsitz
 ständiger Wohnsitz
 Ständige Impfkommission [abbr.: STIKO] - am Robert-Koch-Institut in Deutschland
 ständiger Aufenthalt
+","das Schöne no plural
+die Schöne pl.: die Schönen
+die schönen Künste pl.
+die schönen Künste pl.
+die Reichen und Schönen pl.
+Schöne Flaumfußtaube Lat.: Ptilinopus pulchellus [Ornithology]
+Schöne Flaumfußtaube Lat.: Ptilinopus pulchellus [Ornithology]
+Schöne Flaumfußtaube Lat.: Ptilinopus pulchellus [Ornithology]
+Schöne Sternhyacinthe Lat.: Scilla amoena
+Schöne Sternhyacinthe Lat.: Scilla amoena
+Schöne Erbsenmuschel Lat.: Pisidium pulchellum [Invertebrates]
+Schöne Samtmuschel Lat.: Glycymeris formosa [Invertebrates]
+Schöne Leycesterie Lat.: Leycesteria formosa
+Schöne Leycesterie Lat.: Leycesteria formosa
+","die Routine pl.: die Routinen
+Rote Bete or: Rote Beete
+Rote Bete or: Rote Beete
+Rote Rübe
+Rote Rübe
+rote Fackel - Signal
+rote Grütze
+rote Teehybride
+rote Paprikaschote
+rote Ware
+der Rote Planet no plural - Mars
+rote Traube pl. - Weintraube [coll.]
+der rote Faden no plural [fig.]
+Rote Johannisbeere Lat.: Ribes rubrum
+","der Gelber - CuFeS2
+der Gelber - CuFeS2
+Gelbe Tonne
+Gelbe Seiten®
+Gelbe Teichrose Lat.: Nuphar lutea
+Gelbe Teichrose Lat.: Nuphar lutea
+Gelbe Eiche Lat.: Quercus muehlenbergii
+Gelbe Eiche Lat.: Quercus muehlenbergii
+Gelbe Haarqualle Lat.: Cyanea capillata
+Gelbe Mombinpflaume Lat.: Spondias mombin
+Gelbe Mombinpflaume Lat.: Spondias mombin
+Gelbe Narzisse Lat.: Narcissus pseudonarcissus
+Gelbe Narzisse Lat.: Narcissus pseudonarcissus
+Gelbe Narzisse Lat.: Narcissus pseudonarcissus
+",,"der Braune pl.: die Braunen - Pferd
+der Braune pl.: die Braunen - Pferd
+Braune Einsiedlerspinne Lat.: Loxosceles reclusa [Invertebrates]
+Braune Haselwurz Lat.: Asarum europaeum
+Braune Haselwurz Lat.: Asarum europaeum
+Braune Haselwurz Lat.: Asarum europaeum
+Braune Geißelgarnele Lat.: Metapenaeus endeavouri [Invertebrates]
+Braune Spinnmilbe Lat.: Bryobia rubrioculus [Invertebrates]
+Braune Spinnmilbe Lat.: Bryobia rubrioculus [Invertebrates]
+Braune Tigergarnele Lat.: Penaeus esculentus [Invertebrates]
+Braune Wasseramsel Lat.: Cinclus pallasii [Ornithology]
+Braune Wasseramsel Lat.: Cinclus pallasii [Ornithology]
+Braune Wasseramsel Lat.: Cinclus pallasii [Ornithology]
+Braune Wasseramsel Lat.: Cinclus pallasii [Ornithology]
 "
 noun_details,english,"article: frühere
 word: Schuld
@@ -4107,8 +4294,32 @@ genus:
 plural: Ärgernis
 meaning: bugbear
 perpetual nagging
+","article: Das
+word: Schöne
+genus: NEUT
+plural: plural
+meaning: beauty
+belle - pl.: belles
+","article: die
+word: Routine
+genus: FEMI
+plural: die Routinen
+meaning: rote
+beetroot chiefly (Brit.)
+","article: Das
+word: Gelber
+genus: MASC
+plural: CuFeS2
+meaning: fool's gold [MIN.]
+pyrites of copper [MIN.]
+",,"article: Der
+word: Braune
+genus: MASC
+plural: die Braunen - Pferd
+meaning: bay - horse
+bay horse
 "
-noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,
+noun_details,german,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,,,,,
 adjectives_or_adverbs,english,"former adj.
 prior adj.
 ","important adj.
@@ -5026,6 +5237,62 @@ perseverative adj.
 reiterative adj.
 ever-changing adj.
 ever-changing adj.
+","beautiful adj.
+fine adj.
+nice adj.
+lovely adj.
+fair adj.
+pretty adj.
+handsome adj. also [fig.]
+comely adj.
+pulchritudinous adj.
+nice and warm/quiet/clean/...
+beauteous adj. [poet.]
+bonny or: bonnie adj. chiefly (Scot.)
+braw adj. (Scot.)
+one fine day
+","red adj.
+ruddy adj.
+magenta adj.
+erythraean adj.
+erythrean adj.
+sanguine adj.
+socialist adj. [POL.]
+by rote
+by rote
+by rote
+red hot
+red-hot adj.
+at red heat
+vermilion or: vermillion adj.
+","yellow adj.
+amber adj. chiefly (Brit.)
+light yellow [MIN.]
+fulvous adj.
+ginger adj.
+","sappy adj.
+lush - grass, meadows adj.
+succulent adj.
+luscious adj.
+mellow adj.
+sapful adj.
+juicy adj.
+hefty adj. [coll.]
+juicy adj. [coll.] [fig.] - suggestive
+","brown adj.
+suntanned adj.
+tanned adj.
+bay adj.
+bay-coloredAE / bay-colouredBE adj.
+Nazi adj. [HIST.]
+tanned adj.
+sunburnt adj.
+dirty-brown adj.
+dirty brown
+testaceous adj. [ZOOL.]
+brown beige
+auburn adj.
+ginger adj.
 "
 adjectives_or_adverbs,german,"früherer | frühere | früheres
 früherer | frühere | früheres
@@ -5944,6 +6211,62 @@ ständig wiederkehrend
 ständig wiederholend
 sich ständig ändernd
 sich ständig verändernd
+","schön
+schön
+schön
+schön
+schön
+schön
+schön or [fig.]
+schön
+schön
+schön warm/ruhig/sauber/...
+schön
+schön
+schön
+eines schönen Tages
+","rot - Farbe
+rot
+rot
+rot
+rot
+rot - Gesicht
+rot [coll.]
+rein mechanisch
+auswendig
+durch bloße Übung
+rotglühend or: rot glühend
+rotglühend or: rot glühend
+rotglühend or: rot glühend
+leuchtend rot
+","gelb - Farbe
+gelb - Ampel
+leicht gelb - Edelsteinhandel
+rötlich-gelb
+rötlich-gelb
+","saftig
+saftig
+saftig
+saftig
+saftig
+saftig
+saftig - Obst, Fleisch etc.
+saftig
+saftig [coll.] - z. B. Witz
+","braun - Farbe
+braun - Hautfarbe
+braun - Hautfarbe
+braun
+braun
+braun [coll.] [pej.]
+braungebrannt or: braun gebrannt
+braungebrannt or: braun gebrannt
+schmutzig braun
+schmutzig braun
+gelblich braun [Entomology]
+braun-beige
+rötlich-braun
+rötlich-braun
 "
 phrases_or_collocations,english,None,"a fork in the road
 an important matter
@@ -6518,7 +6841,34 @@ a new low-point
 Let's try again!
 new wine in old bottles
 to open a whole new can of worms [fig.]
-",
+",None,"well
+Have a nice day!
+(By) The Beautiful Blue Danube (short form: ""Blue Danube"") [MUS.]
+a long spell of fine weather
+she's a bit top-heavy [coll.] [hum.]
+to be going like the clappers (Brit.) [coll.]
+to drive at breakneck speed
+a nice how-d'ye-do
+a fine kettle of fish
+A precious mess!
+the fair sex
+What a mess.
+a good deal
+That's a pretty mess!
+","by rote
+to learn sth. by rote
+to be in the red[fig.]
+(as) red as a lobster
+to roll out the red carpet [fig.]
+to be like a red rag to a bull for so. [coll.]
+It's like a red rag to a bull.
+to be like a red rag to a bull to so. [coll.]
+not to have a bean [coll.] [fig.]
+","green with envy [fig.]
+sth. is not much cop - not very good, of poor quality (Brit.)
+sth. is not up to much - not very good, of poor quality (Brit.)
+sth. is not much chop - not very good, of poor quality (Aust.; N.Z.)
+",,
 phrases_or_collocations,german,None,"eine wichtige Entscheidung
 eine wichtige Angelegenheit
 ein wichtiger Faktor
@@ -7092,7 +7442,34 @@ ein neuer Tiefpunkt
 Auf ein Neues!
 neuer Wein in alten Flaschen
 ein neues Fass aufmachen [fig.] - neues Problem anschneiden
-",
+",None,"schön
+Einen schönen Tag noch!
+An der schönen blauen Donau (short form: ""Donauwalzer"") - Walzer von Johann Strauss
+eine lange Zeit schönen Wetters
+sie hat einen ganz schönen Vorbau [coll.] [hum.]
+einen ganz schönen Zahn draufhaben [fig.] [coll.]
+einen ganz schönen Zahn draufhaben [fig.] [coll.]
+eine schöne Bescherung
+eine schöne Bescherung
+Eine schöne Unordnung!
+das schöne Geschlecht
+Eine schöne Bescherung!
+eine schöne Menge
+Das ist ja eine schöne Bescherung! - ironisch
+","durch stures Auswendiglernen
+etw.acc. auswendig lernen
+rote Zahlen schreiben[fig.]
+(so) rot wie ein Krebs
+den roten Teppich ausrollen [fig.]
+ein rotes Tuch für jmdn. sein [fig.]
+Das wirkt wie ein rotes Tuch.
+wie ein rotes Tuch auf jmdn. wirken [fig.]
+keinen roten Heller mehr haben [fig.] dated
+","gelb vor Neid [fig.]
+etw.nom. ist nicht das Gelbe vom Ei [coll.][fig.]
+etw.nom. ist nicht das Gelbe vom Ei [coll.][fig.]
+etw.nom. ist nicht das Gelbe vom Ei [coll.][fig.]
+",,
 examples,english,None,"some news of importance
 It matters.
 It hasn't got much point.
@@ -7699,7 +8076,16 @@ although constantly expanding
 Where is your permanent residence?
 owing to the continuous rise in prices
 the continuing revolution in
-"
+","a plethora of beautiful clothes
+we were sliding all over the place
+She's strikingly beautiful.
+That's a bit much!
+It's all happening here. [coll.]
+the most superb Gothic church
+the most beautiful lakes
+","It's a red rag to him.
+","It's not exactly brilliant.
+",,
 examples,german,None,"eine wichtige Nachricht
 Es ist wichtig.
 Es ist nicht sehr wichtig.
@@ -8306,4 +8692,13 @@ trotz ständiger Neuerschließungen
 Wo ist Ihr ständiger Wohnsitz?
 wegen der ständigen Preissteigerung
 die ständige Fortentwicklung
-"
+","eine Unmenge an schönen Kleidern
+das war eine schöne Rutschpartie
+Sie ist bestechend schön.
+Das ist ganz schön happig!
+Hier ist ganz schön was los.
+die schönste gotische Kirche
+die schönsten Seen
+","Es ist ein rotes Tuch für ihn.
+","Das ist nicht gerade das Gelbe vom Ei.
+",,

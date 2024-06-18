@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So,wohl,unsanft,zufrieden,hier,tätig,Ursprünglich,Zuvor,leidenschaftlich,gespannt,gemeinsam,Zusammen,notwendig,Gemeinsam
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So,wohl,unsanft,zufrieden,hier,tätig,Ursprünglich,Zuvor,leidenschaftlich,gespannt,gemeinsam,Zusammen,notwendig,Gemeinsam,gern,natürlich,oft,liebsten,Gestern,Wie,schön
 basic_forms,english,,,,"müssen : Verb
 ",,,,,,,,"früh : Adjective
 ",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
@@ -27,8 +27,12 @@ sich umkehren : Verb
 umkehren : Verb
 ",,,,,,,,,,"spannen : Verb
 sich spannen : Verb
-",,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,"lieb : Adjective
+das Liebste : Noun
+die Liebste : Noun
+der Liebste : Noun
+",,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -1187,6 +1191,63 @@ to have a lot in common
 to connive | connived, connived |
 to be conterminous with
 to achieve a common purpose
+","to like doing sth.
+to like to do sth.
+to relish sth. | relished, relished |
+to fancy so./sth. | fancied, fancied |
+so. would like to ...
+to enjoy doing sth.
+to feel like doing sth.
+to care to do sth.
+to wonder about sth.
+to be outdoorsy
+to be passionate about sth.
+to embrace an offer
+to be a great one for sth. [coll.]
+to go a bundle on sth.
+","to act naturally
+to die a natural death
+to die of natural causes
+","to overuse | overused, overused |
+to overuse | overused, overused |
+","to like so./sth. best
+to become fond of so./sth.
+to be fond of so.
+to prefer so./sth. | preferred, preferred |
+to welcome so. back into the fold
+to curry favorAE with so. to curry favourBE with so.
+to apple-polish so. | apple-polished, apple-polished | (Amer.) rare
+to be crossed in love
+to do sth. as a laborAE of love to do sth. as a labourBE of love
+to be a laborAE of love for so. to be a labourBE of love for so.
+","to be out of date - of a person
+to be out of touch - of a person
+to be outdated - of a person
+to be a back number
+","to look like so./sth.
+to feel like so./sth.
+to go ahead as scheduled
+to fit snugly
+to fit snugly
+to be rooted to the spot
+to stand rooted to the ground
+to fit like a glove
+to proceed as normal
+to talk nineteen to the dozen
+to be on tenterhooks
+to stilt | stilted, stilted |
+to be on tenterhooks
+to guard sth. jealously
+","to pretty | prettied, prettied |
+to be a real vision
+to pack a punch [coll.]
+to pack quite a punch [coll.]
+to send so. one's regards
+to have a blast
+to have a nice time
+to make eyes at so.
+to ogle so. | ogled, ogled | - look at so. flirtatiously (Amer.)
+to set so. back (a fair amount/a pretty penny)
 "
 verbs,german,"alt werden
 alt werden
@@ -2346,6 +2407,63 @@ viel gemeinsam haben
 gemeinsame Sache machen
 gemeinsame Grenzen haben
 ein gemeinsames Ziel erreichen
+","etw.acc. gern tun
+etw.acc. gern tun
+etw.acc. gern mögen
+jmdn./etw. gern mögen
+jmd. möchte gern ...
+etw.acc. sehr gern tun
+etw.acc. gern tun wollen
+etw.acc. gern tun mögen
+etw.acc. gern wissen wollen
+gern an der frischen Luft sein
+etw.acc. leidenschaftlich gern tun
+ein Angebot (gern) annehmen
+etw.acc. sehr gern tun
+etw.acc. wahnsinnig gern mögen [coll.]
+","sichacc. natürlich geben
+eines natürlichen Todes sterben
+eines natürlichen Todes sterben
+","zu oft verwenden
+etw.acc. übermäßig oft gebrauchen
+","jmdn./etw. am liebsten mögen
+jmdn./etw. lieb gewinnen
+jmdn. liebhaben or: lieb haben | hatte lieb, liebgehabt |
+jmdn./etw. lieber mögen
+jmdn. in den Kreis seiner Liebsten wiederaufnehmen (or: wieder aufnehmen)
+sichacc. bei jmdm. lieb Kind machen
+sichacc. bei jmdm. lieb Kind machen
+Unglück in der Liebe haben
+etw.acc. aus Liebe zur Sache tun
+etw.acc. aus Liebe zur Sache tun
+","von gestern sein [coll.]
+von gestern sein [coll.]
+von gestern sein [coll.]
+von gestern sein [coll.]
+","wie jmd./etw. aussehen
+sichacc. wie jmd./etw. fühlen
+wie geplant stattfinden
+wie angegossen passen - Kleider
+wie angegossen sitzen - Kleider
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angegossen passen
+wie gewohnt verfahren
+wie ein Wasserfall reden
+wie auf glühenden Kohlen sitzen
+wie auf Stelzen gehen
+wie auf heißen Kohlen sitzen
+etw.acc. wie seinen Augapfel hüten
+","schön herrichten
+traumhaft schön sein
+ganz schön zuschlagen können [coll.]
+ganz schön zuschlagen können [coll.]
+jmdm. schöne Grüße ausrichten
+eine schöne Zeit haben
+eine schöne Zeit haben
+jmdm. schöne Augen machen
+jmdm. schöne Augen machen
+jmdn. eine (schöne) Stange Geld kosten
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -3536,6 +3654,51 @@ experience cocreation
 collective liability
 joint hypothesis
 common cause
+",,"individual person
+natural resources pl.
+natural drainage
+natural slope
+dower
+natural resources
+natural wastage
+natural radiation
+natural environment
+flowing well
+horizon
+natural water
+natural stimulant
+wear and tear
+","frequently-used term
+","best
+sweetheart
+dearest
+darling
+art of loving
+","yesterday
+yesterday morning
+yestermorning
+","how
+how to
+whys and wherefores (of sth.) pl.
+arm's length deal
+nerves of steel
+antsiness
+a storybook ending
+arm's length deal
+","nice weather
+calligraphy
+beauty
+most beautiful landscape
+fine arts pl.
+beaux-arts pl.
+good penmanship [coll.]
+star hyacinth [BOT.]
+star squill [BOT.]
+fiddle dock [BOT.]
+small-flowered hawksbeard [BOT.]
+slender St.AE John's wort (or: St.AE John's-wort, St.-John's-wortAE) [BOT.]slender StBE John's wort (or: StBE John's-wort, St-John's-wortBE) [BOT.]
+slender St.AE John's wort (or: St.AE John's-wort, St.-John's-wortAE) [BOT.]slender StBE John's wort (or: StBE John's-wort, St-John's-wortBE) [BOT.]
+beauty patch
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -4726,6 +4889,51 @@ gemeinsame Erfahrungsentwicklung
 gemeinsame Haftung
 gemeinsame Hypothese
 gemeinsame Sache
+",,"natürliche Person
+natürliche Ressourcen pl.
+natürliche Entwässerung
+natürlicher Böschungswinkel
+natürliche Gabe
+natürliche Lebensgrundlagen
+natürliche Personalreduzierung
+natürliche Strahlung
+natürliche Umwelt
+natürlicher Brunnenausfluss
+natürlicher Horizont
+natürliches Wasser
+natürliches Weckmittel
+natürliche Abnutzung
+","oft benutzte Bezeichnung
+","am liebsten
+der Liebste | die Liebste pl.: die Liebsten
+der, die, das Liebste pl.
+die Liebste pl.: die Liebsten
+die Kunst des Liebens
+","das Gestern no plural
+gestern Morgen
+gestern Morgen
+","das Wie no plural
+wie man
+das Wie und Warum (einer Sachegen.)
+Geschäft wie mit Außenstehenden
+Nerven wie Drahtseile
+Betriebsamkeit wie in einem Ameisenhaufen
+ein Ende wie in einem Roman
+Geschäft wie mit unabhängigen Dritten
+","schönes Wetter
+schöne Handschrift
+schöne Frau
+schönste Naturlandschaft
+die schönen Künste pl.
+die schönen Künste pl.
+schöne Handschrift
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Ampfer Lat.: Rumex pulcher
+Schöner Pippau Lat.: Crepis pulchra
+Schönes Hartheu Lat.: Hypericum pulchrum
+Schönes Johanniskraut Lat.: Hypericum pulchrum
+schönes Fleckchen Erde
 "
 noun_details,english,"article: Der
 word: Alt
@@ -5477,8 +5685,44 @@ genus:
 plural: Ziehen
 meaning: joint drawing
 sharing
+",,"article: natürliche
+word: Person
+genus: 
+plural: Person
+meaning: individual person
+natural resources pl.
+","article: oft
+word: benutzte
+genus: 
+plural: Bezeichnung
+meaning: frequently-used term
+
+","article: am
+word: liebsten
+genus: 
+plural: liebsten
+meaning: best
+sweetheart
+","article: Das
+word: Gestern
+genus: NEUT
+plural: plural
+meaning: yesterday
+yesterday morning
+","article: Das
+word: Wie
+genus: NEUT
+plural: plural
+meaning: how
+how to
+","article: schönes
+word: Wetter
+genus: 
+plural: Wetter
+meaning: nice weather
+calligraphy
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -7262,6 +7506,88 @@ corporately adv.
 jointly adv.
 collaborative adj.
 collectively - jointly, united adv.
+","willingly adv.
+gladly adv.
+with good grace
+fain adv. archaic
+","natural adj.
+of course
+naturally adv.
+native adj.
+certainly adv.
+sure adv. [coll.]
+artless - simple adj.
+unstudied adj.
+healthy adj.
+inartificial adj.
+elemental adj.
+needless to say
+naive or: naïve adj.
+naturally occurring
+biodegradable adj. [BIOL.]
+by implication
+","often adv.
+frequently adv.
+oft adv. archaic also [poet.]
+oftentimes adv.
+ofttimes - often archaic adv.
+oft-enunciated adj.
+in demand
+a good many times
+all too often
+often-quoted or: oft-quoted adj.
+as often as possible
+quoties opus sit [PHARM.]
+","dear - dearer, dearest adj.
+good adj.
+nice adj.
+beloved adj.
+endearing adj.
+docile adj.
+sweet-natured adj.
+darling adj. - used before noun
+rather than
+much-loved adj.
+amatory adj.
+erotic adj.
+with attention to detail
+devoted to so. adj.
+","yesterday adv.
+last night
+yesternoon adv.
+yesterevening or: yestereve adj. archaic
+yesternight archaic adv.
+only yesterday
+no more than a day ago
+born yesterday [coll.] [fig.]
+","as adv. conj.
+how adv. conj.
+like conj. adv.
+such as
+similar (to) adj. also [MATH.]
+like adj.
+as ever
+as usual
+as is the rule
+obsessively adv.
+as follows
+as ever
+picture-perfect adj.
+as before
+","beautiful adj.
+fine adj.
+nice adj.
+lovely adj.
+fair adj.
+pretty adj.
+handsome adj. also [fig.]
+beautifully adv.
+comely adj.
+pulchritudinous adj.
+nice and warm/quiet/clean/...
+beauteous adj. [poet.]
+bonny or: bonnie adj. chiefly (Scot.)
+braw adj. (Scot.)
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -9046,6 +9372,88 @@ gemeinsam
 gemeinsam
 gemeinsam
 gemeinsam
+","gern or: gerne
+gern or: gerne
+gern or: gerne
+gern or: gerne
+","natürlich
+natürlich adv.
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich adv.
+natürlich
+natürlich vorkommend
+natürlich abbaubar
+als natürliche Folge
+","oft
+oft
+oft
+oft
+oft
+oft erklärt
+oft verlangt
+ziemlich oft
+allzu oft
+vielzitiert or: viel zitiert
+so oft wie möglich
+so oft wie notwendig
+","lieb
+lieb
+lieb
+lieb
+lieb
+lieb
+lieb
+lieber | liebe | liebes
+lieber als
+lieb geworden
+Liebes...
+Liebes...
+mit Liebe zum Detail
+jmdm. in Liebe ergeben
+","gestern
+gestern Abend
+gestern Mittag
+gestern Abend
+gestern Nacht
+erst gestern
+erst gestern
+von gestern [coll.] [fig.]
+","wie
+wie
+wie
+wie zum Beispiel
+ähnlich (wie)
+ähnlich wie
+wie gewöhnlich
+wie gewöhnlich
+wie gewöhnlich
+wie besessen
+wie folgt
+wie gehabt
+wie gemalt
+wie bisher
+","schön
+schön
+schön
+schön
+schön
+schön
+schön or [fig.]
+schön
+schön
+schön
+schön warm/ruhig/sauber/...
+schön
+schön
+schön
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -10064,6 +10472,52 @@ it all came crashing down about his ears
 ","necessary but not sufficient
 ","a joint statement
 to find common ground [fig.]
+","You're welcome!
+Don't mention it!
+My pleasure!
+you are welcome
+you're welcome
+happy to oblige
+a highly quotable author
+Birds of a feather flock together.
+Like will to like.
+I'd like to be a fly on the wall.
+","natch adv. - for naturally [sl.]
+","How many times?
+from time to time
+","sth. is so.'s favoriteAE tipplesth. is so.'s favouriteBE tipple
+near and dear
+sweet as pie [coll.]
+to suck up to so. [coll.]
+","water under the bridge
+","Eh?
+Rather! (Brit.) [coll.]
+Sorry?
+Pardon?
+as ... as
+How are you?
+How are you?
+How are you?
+Come again?
+I beg your pardon?
+How else?
+like one possessed
+business as usual
+How are you doing?
+","well
+Thank you.
+Here you are! - said when giving so. sth.
+I should be so lucky. [coll.]
+chance would be a fine thing [coll.]
+Thank you very much.
+Thanks.
+Not at all!
+here you are
+please
+you're welcome
+Fair enough.
+Here you go! - giving sth. [coll.]
+There you are! - giving sth. [coll.]
 "
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
@@ -11082,6 +11536,52 @@ um ihn herum brach alles zusammen [fig.]
 ","notwendig aber nicht ausreichend
 ","eine gemeinsame Erklärung
 einen gemeinsamen Nenner finden [fig.]
+","Gern geschehen!
+Gern geschehen!
+Gern geschehen!
+gern geschehen
+gern geschehen
+gern zu Diensten
+ein gern zitierter Autor
+Gleich und Gleich gesellt sich gern.
+Gleich und Gleich gesellt sich gern.
+Da würde ich gern Mäuschen spielen. [fig.]
+","natürlich
+","Wie oft?
+so oft wie erforderlich
+","jmd. trinkt etw.acc. am liebsten
+lieb und teuer
+sehr lieb
+sichacc. bei jmdm. lieb Kind machen [coll.]
+","Schnee von gestern
+","Wie?
+Und wie!
+Wie bitte?
+Wie bitte?
+so ... wie
+Wie geht es dir?
+Wie geht es Ihnen?
+Wie geht es euch?
+Wie bitte?
+Wie bitte?
+Wie sonst?
+wie besessen
+wie gehabt
+Wie geht's?
+","schön
+Danke schön.
+Bitte schön! - beim Überreichen oder Bedienen
+Schön wär's!
+schön wär's
+Danke schön.
+Danke schön.
+Bitte schön! - Dank erwidernd
+bitte schön
+bitte schön
+bitte schön - bitte sehr
+Na schön!
+Bitte schön!
+Bitte schön!
 "
 examples,english,"How old are you?
 I'm double your age.
@@ -12233,6 +12733,62 @@ the necessary information
 by their joint efforts
 a mutual friend of ours
 business on joint account
+","I love to read.
+I am fond of reading.
+I should like to.
+I wonder who he is
+I wonder who he is.
+I'll see you further first.
+much as I would like
+I'd like ...
+She's fishing for compliments.
+He likes the occasional cigar.
+I'd like to go, but I'm a bit tired.
+I quite believe it.
+I long to know ...
+There are a couple of things I'd like to discuss with you.
+she is very touchy-feely
+","Needless to say, he didn't come.
+this being natural in the circumstances
+blend into their natural surroundings
+conservation of nature and natural resources [ENV.]
+","How many times have I told you to empty the bin?
+How often do the plants need watering?
+I often go to the cinema.
+How frequently does the tram service run to the train station?
+When someone says they want to wash their hands, they often mean that they want to go to the toilet.
+How many times do I have to tell you not to do that?
+The lines between working life and home life are often blurred.
+","I like that best.
+I love you too!
+","Yesterday was a scorcher. [coll.]
+It was learned yesterday.
+I had a busy day yesterday
+She's quite a back number.
+I had a busy day yesterday
+It's all water under the bridge now.
+She had a hair-do yesterday.
+I wasn't born yesterday.
+","What made him do that?
+like I said
+as requested
+as per your quotation
+as per sample
+as per description
+as requested
+such as a company anniversary
+How old are you?
+How do I get there?
+What is the procedure for that?
+What's your name?
+What makes you think that?
+How do you like this book?
+","She's strikingly beautiful.
+That's a bit much!
+It's all happening here. [coll.]
+the most superb Gothic church
+the most beautiful lakes
+we were sliding all over the place
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -13384,4 +13940,60 @@ die notwendige Information
 durch gemeinsame Anstrengung
 ein gemeinsamer Freund
 das Geschäft auf gemeinsame Rechnung
+","Ich lese gern.
+Ich lese sehr gern.
+Ich möchte gern.
+ich möchte gern wissen, wer er ist
+Ich möchte gern wissen, wer er ist.
+Sie können mich gern haben.
+so gern ich auch möchte
+Ich hätte gern ...
+Sie möchte gern ein Kompliment hören.
+Er raucht gelegentlich ganz gern eine Zigarre.
+Ich würde schon gern hinfahren, aber ich bin ein bisschen müde.
+Das glaube ich gern.
+Ich möchte gern wissen ...
+Es gibt ein paar Dinge, die ich gern mit dir besprechen möchte.
+sie hat gern viel Körperkontakt [coll.]
+","Er kam natürlich nicht.
+wobei das unter den Umständen natürlich ist
+passen gut in ihr natürliches Umfeld
+Erhaltung der Natur und der natürlichen Ressourcen
+","Wie oft habe ich dir gesagt du sollst den Müll rausbringen?
+Wie oft müssen die Blumen gegossen werden?
+Ich gehe oft ins Kino.
+Wie oft fährt die Straßenbahn zum Bahnhof?
+Wenn jemand sagt, er möchte sich die Hände waschen, meint er oft, dass er die Toilette benutzen möchte.
+Wie oft muss ich dir noch sagen, dass du das nicht machen sollst?
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
+","Ich mag das am liebsten.
+ich habe dich auch lieb!
+","Gestern war eine Affenhitze. [coll.]
+Man erfuhr es gestern.
+ich hatte gestern viel zu tun
+Sie ist von gestern.
+ich hatte gestern einen anstrengenden Tag
+Das ist jetzt Schnee von gestern.
+Sie war gestern beim Friseur (or: Frisör).
+Ich bin doch nicht von gestern. [coll.]
+","Wie kam er nur dazu?
+wie gesagt
+wie gewünscht
+wie angeboten
+wie bemustert
+wie beschrieben
+wie erbeten
+wie ein Firmenjubiläum
+Wie alt bist du?
+Wie komme ich dahin?
+Wie geht so etwas vonstatten?
+Wie heißt du?
+Wie kommst du darauf?
+Wie gefällt Ihnen dieses Buch?
+","Sie ist bestechend schön.
+Das ist ganz schön happig!
+Hier ist ganz schön was los.
+die schönste gotische Kirche
+die schönsten Seen
+das war eine schöne Rutschpartie
 "

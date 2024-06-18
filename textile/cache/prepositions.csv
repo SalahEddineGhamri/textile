@@ -1,12 +1,12 @@
-aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn,während,Falls,ab,voran
+aspects,language,in,im,von,als,zum,und,Oder,bei,unter,zu,Und,wie,dass,oder,Über,für,Wenn,vor,Denn,Am,gegen,aus,mit,bis,auf,Wann,In,an,seit,vom,Aber,Durch,Gegen,wo,aber,Auf,Für,nach,am,da,durch,um,voller,über,wenn,Als,Trotz,Doch,beim,Im,at,sondern,Na,Zum,Vor,Bis,ob,zur,damit,Mit,Weil,Nach,ins,sowohl,denn,während,Falls,ab,voran,zwischen
 basic_forms,english,,,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,,,,,,,,,,,,,,,,"be : Verb
 ",,,,"voll : Adjective
 ",,,,,,,,,,,,,,,,,,,,,,,"währen : Verb
 ","fall : Verb
 der Fall : Noun
-",,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to have sth. down pat
 to have sth. off pat
 to know sth. inside out
@@ -151,7 +151,7 @@ to fall down
 to fall down
 ",,"sth. wears on infinitive: wear on
 to take a step forward
-"
+",
 verbs,german,"etw.acc. in- und auswendig können
 etw.acc. in- und auswendig können
 etw.acc. in- und auswendig kennen
@@ -296,7 +296,7 @@ herunterstürzen | stürzte herunter, heruntergestürzt |
 herabfallen | fiel herab, herabgefallen |
 ",,"etw.nom. schreitet voran infinitive: voranschreiten
 einen Schritt voran gehen
-"
+",
 nouns,english,"the ins pl. (Amer.) [POL.]
 belief (in so./sth.)
 faith (in sth.)
@@ -952,6 +952,20 @@ minimum wellhead price
 factory gate price [COMM.]
 factory gate pricing [COMM.]
 ","step forward
+","intersystem
+abyss (between sth.) - wide difference
+bilateral trade
+sibling rivalry
+interfirm comparison
+interstate rendition (Amer.)
+inheritance between spouses
+mean time between maintenance
+tribal factionalism
+inter school match
+sandwich course (Brit.)
+distances between towns
+greenery between buildings
+skill mismatch
 "
 nouns,german,"die Regierungspartei pl.: die Regierungsparteien
 der Glaube rarely: Glauben (an jmdn./etw.) no plural
@@ -1608,6 +1622,20 @@ niedrigster Ölpreis ab Förderbrunnen
 Preis ab Werk
 Preisfestsetzung ab Werk
 ","Schritt voran
+","zwischen Systemen
+die Kluft (zwischen etw.acc.) pl.: die Klüfte - deutlicher Gegensatz
+Handel zwischen zwei Staaten
+Rivalität zwischen Geschwistern
+Vergleiche zwischen Unternehmen
+Auslieferung zwischen Einzelstaaten
+Erbfall zwischen Ehegatten
+mittlere Zeit zwischen Wartungsarbeiten
+Querelen zwischen Stammesgruppen
+Spiel zwischen zwei Schulen
+Teilstudium zwischen Betriebspraktika
+Entfernung zwischen den Städten
+Ziergrün zwischen den Wohnblocks
+Missverhältnis zwischen Qualifikationsangebot und -nachfrage
 "
 noun_details,english,"article: die
 word: Regierungspartei
@@ -1981,8 +2009,14 @@ genus:
 plural: voran
 meaning: step forward
 
+","article: zwischen
+word: Systemen
+genus: 
+plural: Systemen
+meaning: intersystem
+abyss (between sth.) - wide difference
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"in adv.
 in adv.
 hot adj. [coll.]
@@ -2655,6 +2689,20 @@ at the head
 to the fore
 edgewise or: edgeways adv.
 headlong adj.
+","inside adj.
+betwixt archaic adv.
+interoffice adj.
+interplant adj.
+intertrack adj.
+interbourse adj.
+interborough adj.
+interline adj.
+intertribal adj.
+interdepartmental adj.
+underfoot adv.
+intergovernmental adj.
+intercollegiate adj.
+inter-city adj.
 "
 adjectives_or_adverbs,german,"hinein
 herein
@@ -3328,6 +3376,20 @@ voran
 voran adv.
 mit der Schmalseite voran
 mit dem Kopf voran
+","zwischen adv.
+zwischen
+zwischen Büroabteilungen
+zwischen Fabrikationsbetrieben
+zwischen Spuren
+zwischen Börsen
+zwischen Gemeinden
+zwischen Schifffahrtslinien
+zwischen Stämmen
+zwischen den Abteilungen
+zwischen den Füßen
+zwischen den Regierungen
+zwischen den Colleges
+zwischen den Städten
 "
 phrases_or_collocations,english,"In. [SPORT.]
 O.k.!
@@ -4050,6 +4112,12 @@ Hop it! [coll.](Brit.)
 a step forward
 a big step forward
 a fine step forward (Amer.)
+","betwixt and between
+between the devil and the deep blue sea
+between Scylla and Charybdis
+the thin line between
+a choice between the devil and the deep blue sea
+a fool and his money are easily parted
 "
 phrases_or_collocations,german,"Steigt ein. - Ruderkommando
 In Ordnung!
@@ -4772,6 +4840,12 @@ Zisch ab! [coll.]
 ein Schritt voran
 ein großer Schritt voran
 ein guter Schritt voran [fig.]
+","zwischen beiden
+zwischen Baum und Borke
+zwischen Szylla und Charybdis [form.]
+der schmale Grat zwischen
+die Wahl zwischen Pest und Cholera
+dem Narren rinnt das Geld zwischen den Fingern hindurch
 "
 examples,english,"in English
 in 1999
@@ -5613,6 +5687,20 @@ He gives him the brush-off.
 only on acceptance
 Everything hangs on your decision.
 ","ambition spurred him to success
+","between 0 and 1
+between 8 a. m. and 6 p. m.
+there is no difference between
+principally handled between banks
+They live between hope and despair.
+They have a great deal in common.
+It concerns only the relations between
+there is a difference between
+terms between five and ten years
+a distinction is drawn between ...
+I sat squeezed in between my gran and a sumo wrestler.
+The lines between working life and home life are often blurred.
+failing agreement between
+We act as liaison between ...
 "
 examples,german,"auf Englisch
 im Jahr (or: Jahre) 1999
@@ -6454,4 +6542,18 @@ Er weist ihn ab. infinitive: abweisen
 erst ab Abnahme
 Es hängt alles von Ihrer Entscheidung ab. infinitive: von etw.dat. abhängen
 ","der Ehrgeiz trieb ihn voran
+","zwischen null und eins
+zwischen 8 Uhr morgens und 6 Uhr abends
+es gibt keinen Unterschied zwischen
+vorwiegend zwischen Banken gehandelt
+Sie leben zwischen Hoffen und Bangen.
+Die Gemeinsamkeiten zwischen ihnen sind sehr groß.
+Es betrifft nur die Beziehungen zwischen
+es gibt einen Unterschied zwischen
+Laufzeiten zwischen 5 und 10 Jahren
+man unterscheidet zwischen ...
+Ich saß eingequetscht zwischen meiner Oma und einem Sumoringer.
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
+mangels eines Übereinkommens zwischen
+Wir dienen als Verbindung zwischen ...
 "
