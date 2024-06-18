@@ -1,4 +1,4 @@
-aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So,wohl,unsanft,zufrieden
+aspects,language,alt,Jetzt,Nun,muss,genau,wieder,Dann,gegenseitig,Bisher,auch,jetzt,Früher,Danach,Dort,Dabei,sehr,wichtig,Auch,bald,bisher,noch,aber,gleich,wie,schrecklich,also,Außerdem,gerne,deutsch,überall,gleichzeitig,Hier,heute,Leider,krank,je,denn,morgen,vorhin,besser,so,lieber,einfach,unterwegs,Da,dann,halt,eigentlich,ganz,doch,perfekt,gesund,Hoffentlich,erst,Wirklich,gar,da,fit,sonst,froh,toll,manchmal,eben,anders,Also,übermorgen,nochmal,Vielleicht,Gerne,selber,Trotzdem,Damit,Cannabis,gefährlich,abhängig,heimlich,selbst,davon,Später,nur,dort,weniger,stärker,immer,psychisch,fertig,dabei,berühmt,schon,unklar,darauf,Deshalb,ständig,sowieso,schlimmer,mehr,kaum,plötzlich,Davor,Allein,schnell,besonders,grimmig,darunter,sofort,Darauf,englisch,Niemals,bereits,nachträglich,knapp,damals,Morgen,aufgeregt,lange,endlich,früh,Unterwegs,hoffentlich,frei,sorgfältig,Zuerst,charmant,Heute,hell,fröhlich,hin,her,glücklich,Plötzlich,weiter,langsam,dunkel,wirklich,kürzlich,normalerweise,beschloss,heraus,schwieriger,ruhig,fort,Frustriert,stattdessen,schief,zwar,enttäuschend,zusammen,allein,Miteinander,umgekehrt,So,wohl,unsanft,zufrieden,hier,tätig,Ursprünglich,Zuvor,leidenschaftlich,gespannt,gemeinsam,Zusammen,notwendig,Gemeinsam,gern,natürlich,oft,liebsten,Gestern,Wie,schön
 basic_forms,english,,,,"müssen : Verb
 ",,,,,,,,"früh : Adjective
 ",,,,,,,,,,,,,,,,,,,,,"heuen : Verb
@@ -25,8 +25,14 @@ langen : Verb
 ",,,,"umkehren : Verb
 sich umkehren : Verb
 umkehren : Verb
-",,,,
-basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",,,,,,,,,,"spannen : Verb
+sich spannen : Verb
+",,,,,,,,"lieb : Adjective
+das Liebste : Noun
+die Liebste : Noun
+der Liebste : Noun
+",,,
+basic_forms,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 verbs,english,"to grow old
 to go stale - bread
 to latch on to (or: alt onto) so./sth. [coll.]
@@ -1101,6 +1107,147 @@ to be happy about (or: with) sth.
 to be comfortable with sth.
 sth. suits so. infinitive: suit
 to satisfy an employer
+","to be around
+to stay put
+to intersperse | interspersed, interspersed |
+to live for the moment
+to live for the day
+to bring so. back to the here and now
+","to act | acted, acted |
+to operate | operated, operated |
+to act | acted, acted |
+to keep active
+to act as sth.
+to freelance | freelanced, freelanced |
+to work freelance
+to do freelance work
+to be engaged in business
+to coact | coacted, coacted |
+to officiate | officiated, officiated |
+to deal at retail (Amer.)
+to deal in gross
+to act as case-of-need
+","to downdate sth. | downdated, downdated |
+",,"to impassion | impassioned, impassioned |
+to lust for (or: after) sth.
+to be passionate about sth.
+","to strain | strained, strained |
+to tension | tensioned, tensioned |
+to tense | tensed, tensed |
+to become rigid
+to cock sth. | cocked, cocked |
+to stretch sth. | stretched, stretched |
+to tauten sth. | tautened, tautened |
+to stress sth. | stressed, stressed |
+to span sth. | spanned, spanned |
+to tighten sth. | tightened, tightened |
+to tighten | tightened, tightened |
+to tauten | tautened, tautened |
+to clamp sth. | clamped, clamped | [TECH.]
+to tree a shoe - on a shoetree
+","to share sth. | shared, shared |
+to colocate | colocated, colocated |
+to colocate | colocated, colocated |
+to co-finance | co-financed, co-financed |
+to act jointly
+to sign jointly
+to assess jointly
+to put heads together
+to run on a conservative/liberal/joint ticket - in an election [POL.]
+to colocate | colocated, colocated |
+to have a lot in common
+to connive | connived, connived |
+to be conterminous with
+to achieve a common purpose
+","to be together
+to rendezvous | rendezvoused, rendezvoused |
+to strike together
+to accompany each other
+to do sth. together
+sth. falls into place infinitive: fall
+sth. is brewing
+sth. falls into place infinitive: fall
+to be around so.
+sth. goes kaboom infinitive: to go kaboom - undergo a sudden change [coll.]
+sth. adds up infinitive: add up
+to coact | coacted, coacted |
+to put one's heads together
+so.'s mouth waters
+","to necessitate sth. | necessitated, necessitated |
+to make any necessary adjustments
+to give the necessary instructions
+to give the necessary instructions
+","to share sth. | shared, shared |
+to colocate | colocated, colocated |
+to colocate | colocated, colocated |
+to co-finance | co-financed, co-financed |
+to act jointly
+to sign jointly
+to assess jointly
+to put heads together
+to run on a conservative/liberal/joint ticket - in an election [POL.]
+to colocate | colocated, colocated |
+to have a lot in common
+to connive | connived, connived |
+to be conterminous with
+to achieve a common purpose
+","to like doing sth.
+to like to do sth.
+to relish sth. | relished, relished |
+to fancy so./sth. | fancied, fancied |
+so. would like to ...
+to enjoy doing sth.
+to feel like doing sth.
+to care to do sth.
+to wonder about sth.
+to be outdoorsy
+to be passionate about sth.
+to embrace an offer
+to be a great one for sth. [coll.]
+to go a bundle on sth.
+","to act naturally
+to die a natural death
+to die of natural causes
+","to overuse | overused, overused |
+to overuse | overused, overused |
+","to like so./sth. best
+to become fond of so./sth.
+to be fond of so.
+to prefer so./sth. | preferred, preferred |
+to welcome so. back into the fold
+to curry favorAE with so. to curry favourBE with so.
+to apple-polish so. | apple-polished, apple-polished | (Amer.) rare
+to be crossed in love
+to do sth. as a laborAE of love to do sth. as a labourBE of love
+to be a laborAE of love for so. to be a labourBE of love for so.
+","to be out of date - of a person
+to be out of touch - of a person
+to be outdated - of a person
+to be a back number
+","to look like so./sth.
+to feel like so./sth.
+to go ahead as scheduled
+to fit snugly
+to fit snugly
+to be rooted to the spot
+to stand rooted to the ground
+to fit like a glove
+to proceed as normal
+to talk nineteen to the dozen
+to be on tenterhooks
+to stilt | stilted, stilted |
+to be on tenterhooks
+to guard sth. jealously
+","to pretty | prettied, prettied |
+to be a real vision
+to pack a punch [coll.]
+to pack quite a punch [coll.]
+to send so. one's regards
+to have a blast
+to have a nice time
+to make eyes at so.
+to ogle so. | ogled, ogled | - look at so. flirtatiously (Amer.)
+to set so. back (a fair amount/a pretty penny)
 "
 verbs,german,"alt werden
 alt werden
@@ -2176,6 +2323,147 @@ mit etw.dat. zufrieden sein
 mit etw.dat. zufrieden sein
 etw.nom. stellt jmdn. zufrieden infinitive: zufriedenstellen or: zufrieden stellen
 einen Arbeitgeber zufriedenstellen or: zufrieden stellen
+","hier sein
+hier bleiben
+hier und da einfügen
+im Hier und Jetzt leben
+im Hier und Jetzt leben
+jmdn. ins Hier und Jetzt zurückholen
+","tätig sein
+tätig sein
+tätig werden
+tätig bleiben
+als etw.nom. tätig sein
+freiberuflich tätig sein
+freiberuflich tätig sein
+freiberuflich tätig sein
+geschäftlich tätig sein
+zusammen tätig sein
+in öffentlicher Funktion tätig sein
+im Einzelhandel tätig sein
+als Großhändler tätig sein
+als Notadresse tätig werden
+","etw.dat. ihr ursprüngliches Aussehen verleihen
+",,"leidenschaftlich erregen
+etw.acc. leidenschaftlich verlangen
+etw.acc. leidenschaftlich gern tun
+","spannen | spannte, gespannt |
+spannen | spannte, gespannt |
+spannen | spannte, gespannt |
+spannen | spannte, gespannt | - Haut
+etw.acc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+sichacc. spannen | spannte, gespannt |
+sichacc. spannen | spannte, gespannt |
+etw.acc. spannen | spannte, gespannt |
+einen Schuh spannen - auf einen Schuhspanner
+","etw.acc. gemeinsam benutzen
+gemeinsam installieren
+gemeinsam unterbringen
+gemeinsam finanzieren
+gemeinsam handeln
+gemeinsam unterzeichnen
+gemeinsam veranlagen
+sichdat. gemeinsam etw.acc. überlegen
+mit einem konservativen/liberalen/gemeinsamen Programm antreten - in einer Wahl
+örtlich gemeinsam aufstellen
+viel gemeinsam haben
+gemeinsame Sache machen
+gemeinsame Grenzen haben
+ein gemeinsames Ziel erreichen
+","zusammen sein
+zusammen kommen
+zusammen schlagen
+zusammen gehen
+etw.acc. zusammen unternehmen
+etw.nom. passt zusammen infinitive: zusammenpassen
+etw.nom. braut sich zusammen
+etw.nom. fügt sich zusammen infinitive: sich zusammenfügen
+mit jmdm. zusammen sein
+etw.nom. bricht in sich zusammen infinitive: in sich zusammenbrechen [fig.]
+etw.nom. läppert sich zusammen infinitive: zusammenläppern [coll.]
+zusammen tätig sein
+zusammen an etwas arbeiten
+jmdm. läuft das Wasser im Mund zusammen
+","etw.acc. notwendig machen
+die notwendigen Anpassungen vornehmen
+die notwendigen Anweisungen geben
+die notwendigen Anweisungen erteilen
+","etw.acc. gemeinsam benutzen
+gemeinsam installieren
+gemeinsam unterbringen
+gemeinsam finanzieren
+gemeinsam handeln
+gemeinsam unterzeichnen
+gemeinsam veranlagen
+sichdat. gemeinsam etw.acc. überlegen
+mit einem konservativen/liberalen/gemeinsamen Programm antreten - in einer Wahl
+örtlich gemeinsam aufstellen
+viel gemeinsam haben
+gemeinsame Sache machen
+gemeinsame Grenzen haben
+ein gemeinsames Ziel erreichen
+","etw.acc. gern tun
+etw.acc. gern tun
+etw.acc. gern mögen
+jmdn./etw. gern mögen
+jmd. möchte gern ...
+etw.acc. sehr gern tun
+etw.acc. gern tun wollen
+etw.acc. gern tun mögen
+etw.acc. gern wissen wollen
+gern an der frischen Luft sein
+etw.acc. leidenschaftlich gern tun
+ein Angebot (gern) annehmen
+etw.acc. sehr gern tun
+etw.acc. wahnsinnig gern mögen [coll.]
+","sichacc. natürlich geben
+eines natürlichen Todes sterben
+eines natürlichen Todes sterben
+","zu oft verwenden
+etw.acc. übermäßig oft gebrauchen
+","jmdn./etw. am liebsten mögen
+jmdn./etw. lieb gewinnen
+jmdn. liebhaben or: lieb haben | hatte lieb, liebgehabt |
+jmdn./etw. lieber mögen
+jmdn. in den Kreis seiner Liebsten wiederaufnehmen (or: wieder aufnehmen)
+sichacc. bei jmdm. lieb Kind machen
+sichacc. bei jmdm. lieb Kind machen
+Unglück in der Liebe haben
+etw.acc. aus Liebe zur Sache tun
+etw.acc. aus Liebe zur Sache tun
+","von gestern sein [coll.]
+von gestern sein [coll.]
+von gestern sein [coll.]
+von gestern sein [coll.]
+","wie jmd./etw. aussehen
+sichacc. wie jmd./etw. fühlen
+wie geplant stattfinden
+wie angegossen passen - Kleider
+wie angegossen sitzen - Kleider
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angewurzelt stehenbleiben (or: stehen bleiben)
+wie angegossen passen
+wie gewohnt verfahren
+wie ein Wasserfall reden
+wie auf glühenden Kohlen sitzen
+wie auf Stelzen gehen
+wie auf heißen Kohlen sitzen
+etw.acc. wie seinen Augapfel hüten
+","schön herrichten
+traumhaft schön sein
+ganz schön zuschlagen können [coll.]
+ganz schön zuschlagen können [coll.]
+jmdm. schöne Grüße ausrichten
+eine schöne Zeit haben
+eine schöne Zeit haben
+jmdm. schöne Augen machen
+jmdm. schöne Augen machen
+jmdn. eine (schöne) Stange Geld kosten
 "
 nouns,english,"alto [MUS.]
 contralto [MUS.]
@@ -3276,6 +3564,141 @@ common good
 rude awakening
 ","content customers pl.
 satisfied customers pl.
+",,"active volcano [GEOL.]
+active repentance [LAW]
+active fault [GEOL.]
+active fault [GEOL.]
+active thrust of earth [GEOL.]
+owner-manager [COMM.]
+acting partner [COMM.]
+self-employed person
+self-employed persons pl.
+employed persons pl.
+health-care professional
+working proprietor
+working proprietor
+explosive volcano [GEOL.]
+","primeval nature
+original inhabitants pl.
+connate water [GEOL.]
+asking price [FINAN.]
+original terms pl. [INSUR.]
+initial gauge length [TECH.]
+historic costs (or: cost) [COMM.]
+origin cohesion [GEOL.]
+original performance [TECH.]
+originator [FINAN.]
+natural surface [CONSTR.]
+fossil water [GEOL.]
+native water [GEOL.]
+in-situ oil [TECH.]
+","insourcing [COMM.]
+","harangue
+impulsiveness
+","rapt attention
+intentness
+tight draw
+tympanum - pl.: tympanums, tympana
+taut wire
+strained situation
+tensions pl.
+confined groundwater [GEOL.]
+confined water [GEOL.]
+confined aquifer [GEOL.]
+confined aquifer [GEOL.]
+perched groundwater table [GEOL.]
+confined well [GEOL.]
+confined groundwater well [GEOL.]
+","joint drawing
+sharing
+Common European Framework of Reference for Languages [abbr.: CEF, CEFR]
+joint custody
+joint disposal
+joint solution
+common transport policy
+car sharing
+common ground
+mutual basis
+experience cocreation
+collective liability
+joint hypothesis
+common cause
+",,"necessary evil
+sine qua non Latin
+necessary condition
+necessary expenditures
+reasonable expenses
+unvoidable expenditure
+compulsory legal representation of an accused [LAW]
+necessary precaution to prevent damage [TECH.]
+air requirements pl. [TECH.]
+necessaries
+necessary laborAEnecessary labourBE
+necessaries
+necessary means
+necessary diligence
+first-order necessary condition
+necessary and sufficient condition
+necessary but not sufficient condition
+","joint drawing
+sharing
+Common European Framework of Reference for Languages [abbr.: CEF, CEFR]
+joint custody
+joint disposal
+joint solution
+common transport policy
+car sharing
+common ground
+mutual basis
+experience cocreation
+collective liability
+joint hypothesis
+common cause
+",,"individual person
+natural resources pl.
+natural drainage
+natural slope
+dower
+natural resources
+natural wastage
+natural radiation
+natural environment
+flowing well
+horizon
+natural water
+natural stimulant
+wear and tear
+","frequently-used term
+","best
+sweetheart
+dearest
+darling
+art of loving
+","yesterday
+yesterday morning
+yestermorning
+","how
+how to
+whys and wherefores (of sth.) pl.
+arm's length deal
+nerves of steel
+antsiness
+a storybook ending
+arm's length deal
+","nice weather
+calligraphy
+beauty
+most beautiful landscape
+fine arts pl.
+beaux-arts pl.
+good penmanship [coll.]
+star hyacinth [BOT.]
+star squill [BOT.]
+fiddle dock [BOT.]
+small-flowered hawksbeard [BOT.]
+slender St.AE John's wort (or: St.AE John's-wort, St.-John's-wortAE) [BOT.]slender StBE John's wort (or: StBE John's-wort, St-John's-wortBE) [BOT.]
+slender St.AE John's wort (or: St.AE John's-wort, St.-John's-wortAE) [BOT.]slender StBE John's wort (or: StBE John's-wort, St-John's-wortBE) [BOT.]
+beauty patch
 "
 nouns,german,"der Alt pl.
 der Alt pl.
@@ -4376,6 +4799,141 @@ gemeines Wohl
 unsanftes Erwachen
 ","zufriedene Kunden pl.
 zufriedene Kunden pl.
+",,"tätiger Vulkan
+tätige Reue
+tätige Verwerfung
+tätiger Bruch
+tätiger Erddruck
+tätiger Geschäftsinhaber
+tätiger Teilhaber
+selbständig (or: selbstständig) Tätiger
+selbstständig (or: selbständig) Tätige pl.
+unselbstständig (or: unselbständig) Tätige pl.
+im Gesundheitswesen Tätiger
+tätiger Geschäftsinhaber
+tätiger Betriebsinhaber
+tätiger Vulkan
+","ursprüngliche Natur
+ursprüngliche Bewohner pl.
+ursprüngliches Porenwasser
+ursprüngliche Preisforderung
+ursprünglicher Wortlaut
+ursprüngliche Messlänge
+ursprüngliche Anschaffungskosten pl., no sg.
+ursprüngliche Kohäsion
+ursprüngliche Leistungseigenschaften [Hoisting Technology]
+ursprünglicher Kreditgeber
+ursprüngliches Gelände
+ursprüngliches Porenwasser
+ursprüngliches Porenwasser
+ursprünglicher Erdölvorrat
+","Rückintegration von zuvor ausgelagerten Aktivitäten
+","leidenschaftliche Rede
+leidenschaftliche Raschheit
+","gespannte Aufmerksamkeit
+gespannte Aufmerksamkeit
+gespannter Zug
+gespannte Membran
+gespannter Draht
+gespannte Lage
+gespannte Verhältnisse pl.
+gespanntes Grundwasser
+gespanntes Grundwasser
+gespannter Grundwasserleiter
+gespannter Aquifer
+gespannter Grundwasserspiegel
+gespannter Grundwasserbrunnen
+gespannter Grundwasserbrunnen
+","gemeinsam Ziehen
+gemeinsame Benutzung
+Gemeinsamer Europäischer Referenzrahmen für Sprachen [abbr.: GER, GeRS]
+gemeinsames Sorgerecht
+gemeinsame Ablagerung
+gemeinsame Lösung
+gemeinsame Verkehrspolitik
+gemeinsame Autonutzung
+gemeinsame Basis
+gemeinsame Basis
+gemeinsame Erfahrungsentwicklung
+gemeinsame Haftung
+gemeinsame Hypothese
+gemeinsame Sache
+",,"notwendiges Übel
+notwendige Bedingung
+notwendige Bedingung
+notwendige Aufwendungen
+notwendige Auslagen pl.
+notwendige Aufwendung
+notwendige Verteidigung
+notwendige Schadensvorsorge
+notwendige Wettermenge [Mining]
+notwendige Aufwendungen
+notwendige Arbeit
+notwendige Güter
+notwendige Mittel
+notwendige Sorgfalt
+notwendige Bedingung erster Ordnung
+notwendige und hinreichende Bedingung
+notwendige, aber nicht hinreichende Bedingung
+","gemeinsam Ziehen
+gemeinsame Benutzung
+Gemeinsamer Europäischer Referenzrahmen für Sprachen [abbr.: GER, GeRS]
+gemeinsames Sorgerecht
+gemeinsame Ablagerung
+gemeinsame Lösung
+gemeinsame Verkehrspolitik
+gemeinsame Autonutzung
+gemeinsame Basis
+gemeinsame Basis
+gemeinsame Erfahrungsentwicklung
+gemeinsame Haftung
+gemeinsame Hypothese
+gemeinsame Sache
+",,"natürliche Person
+natürliche Ressourcen pl.
+natürliche Entwässerung
+natürlicher Böschungswinkel
+natürliche Gabe
+natürliche Lebensgrundlagen
+natürliche Personalreduzierung
+natürliche Strahlung
+natürliche Umwelt
+natürlicher Brunnenausfluss
+natürlicher Horizont
+natürliches Wasser
+natürliches Weckmittel
+natürliche Abnutzung
+","oft benutzte Bezeichnung
+","am liebsten
+der Liebste | die Liebste pl.: die Liebsten
+der, die, das Liebste pl.
+die Liebste pl.: die Liebsten
+die Kunst des Liebens
+","das Gestern no plural
+gestern Morgen
+gestern Morgen
+","das Wie no plural
+wie man
+das Wie und Warum (einer Sachegen.)
+Geschäft wie mit Außenstehenden
+Nerven wie Drahtseile
+Betriebsamkeit wie in einem Ameisenhaufen
+ein Ende wie in einem Roman
+Geschäft wie mit unabhängigen Dritten
+","schönes Wetter
+schöne Handschrift
+schöne Frau
+schönste Naturlandschaft
+die schönen Künste pl.
+die schönen Künste pl.
+schöne Handschrift
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Blaustern Lat.: Scilla amoena
+Schöner Ampfer Lat.: Rumex pulcher
+Schöner Pippau Lat.: Crepis pulchra
+Schönes Hartheu Lat.: Hypericum pulchrum
+Schönes Johanniskraut Lat.: Hypericum pulchrum
+schönes Fleckchen Erde
 "
 noun_details,english,"article: Der
 word: Alt
@@ -5079,8 +5637,92 @@ genus:
 plural: 
 meaning: content customers pl.
 satisfied customers pl.
+",,"article: tätiger
+word: Vulkan
+genus: 
+plural: Vulkan
+meaning: active volcano [GEOL.]
+active repentance [LAW]
+","article: ursprüngliche
+word: Natur
+genus: 
+plural: Natur
+meaning: primeval nature
+original inhabitants pl.
+","article: Rückintegration
+word: von
+genus: 
+plural: Aktivitäten
+meaning: insourcing [COMM.]
+
+","article: leidenschaftliche
+word: Rede
+genus: 
+plural: Rede
+meaning: harangue
+impulsiveness
+","article: gespannte
+word: Aufmerksamkeit
+genus: 
+plural: Aufmerksamkeit
+meaning: rapt attention
+intentness
+","article: gemeinsam
+word: Ziehen
+genus: 
+plural: Ziehen
+meaning: joint drawing
+sharing
+",,"article: notwendiges
+word: Übel
+genus: 
+plural: Übel
+meaning: necessary evil
+sine qua non Latin
+","article: gemeinsam
+word: Ziehen
+genus: 
+plural: Ziehen
+meaning: joint drawing
+sharing
+",,"article: natürliche
+word: Person
+genus: 
+plural: Person
+meaning: individual person
+natural resources pl.
+","article: oft
+word: benutzte
+genus: 
+plural: Bezeichnung
+meaning: frequently-used term
+
+","article: am
+word: liebsten
+genus: 
+plural: liebsten
+meaning: best
+sweetheart
+","article: Das
+word: Gestern
+genus: NEUT
+plural: plural
+meaning: yesterday
+yesterday morning
+","article: Das
+word: Wie
+genus: NEUT
+plural: plural
+meaning: how
+how to
+","article: schönes
+word: Wetter
+genus: 
+plural: Wetter
+meaning: nice weather
+calligraphy
 "
-noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+noun_details,german,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 adjectives_or_adverbs,english,"old adj.
 ancient adj.
 grayAE / greyBE adj. [fig.]
@@ -6737,6 +7379,215 @@ satisfied adj.
 perfectly satisfied
 satisfiable adj.
 unsatisfied adj.
+","here adv.
+in place
+at this point
+in this country
+in these parts
+round here
+hereabout or: hereabouts adv.
+back here
+here and there
+here and there
+not in
+due south of here
+","active adj.
+busy adj.
+acting adj.
+strenuous adj.
+employed adj.
+in action
+operative adj.
+free-lancing adj.
+internationally active
+","original adj.
+primary adj.
+originally adv.
+primarily adv.
+pristine adj.
+primordial adj.
+primal adj.
+initial adj.
+aboriginal adj.
+natural adj.
+originally from adv.
+","before adv.
+earlier adv.
+afore adv.
+beforehand adv.
+prior to this
+preassigned adj.
+pre-decided adj.
+aforesaid adj.
+pre-agreed adj.
+the day before
+as before
+the night before
+none the wiser
+","fervent adj.
+keen adj. - eager, passionate
+ardent adj.
+passionate adj.
+earnest adj.
+fervid adj.
+fierce adj.
+passionately adv.
+avidly adv.
+fervently adv.
+impassionate adj.
+impassioned adj.
+vehement adj.
+violent - feeling, affair adj.
+","tight adj.
+curious adj.
+intent adj.
+fraught adj.
+agog adj.
+excited adj.
+tense adj.
+keyed up
+tensely adv.
+bow-taut adj.
+strained adj.
+tautly adv.
+taut adj.
+excitedly adv.
+","common adj.
+together adv.
+collective adj.
+joint adj.
+mutual adj.
+corporate adj.
+shared adj.
+combined adj.
+conjointly adv.
+concertedly adv.
+corporately adv.
+jointly adv.
+collaborative adj.
+collectively - jointly, united adv.
+","together (with) adv.
+altogether adv.
+combined adj.
+collectively - jointly, united adv.
+in all
+contiguous adj.
+conjoined adj.
+in conjunction
+en masse adv.
+in a body
+chock-a-block adj. - used after noun
+","necessary adj. also [MATH.]
+inevitable adj.
+required adj.
+essential adj.
+requisite adj.
+needful adj.
+needfully adv.
+necessitative adj.
+necessitated adj.
+essential adj.
+vital adj.
+absolutely essential
+mandatory adj.
+longer than necessary
+quoties opus sit [PHARM.]
+","common adj.
+together adv.
+collective adj.
+joint adj.
+mutual adj.
+corporate adj.
+shared adj.
+combined adj.
+conjointly adv.
+concertedly adv.
+corporately adv.
+jointly adv.
+collaborative adj.
+collectively - jointly, united adv.
+","willingly adv.
+gladly adv.
+with good grace
+fain adv. archaic
+","natural adj.
+of course
+naturally adv.
+native adj.
+certainly adv.
+sure adv. [coll.]
+artless - simple adj.
+unstudied adj.
+healthy adj.
+inartificial adj.
+elemental adj.
+needless to say
+naive or: naïve adj.
+naturally occurring
+biodegradable adj. [BIOL.]
+by implication
+","often adv.
+frequently adv.
+oft adv. archaic also [poet.]
+oftentimes adv.
+ofttimes - often archaic adv.
+oft-enunciated adj.
+in demand
+a good many times
+all too often
+often-quoted or: oft-quoted adj.
+as often as possible
+quoties opus sit [PHARM.]
+","dear - dearer, dearest adj.
+good adj.
+nice adj.
+beloved adj.
+endearing adj.
+docile adj.
+sweet-natured adj.
+darling adj. - used before noun
+rather than
+much-loved adj.
+amatory adj.
+erotic adj.
+with attention to detail
+devoted to so. adj.
+","yesterday adv.
+last night
+yesternoon adv.
+yesterevening or: yestereve adj. archaic
+yesternight archaic adv.
+only yesterday
+no more than a day ago
+born yesterday [coll.] [fig.]
+","as adv. conj.
+how adv. conj.
+like conj. adv.
+such as
+similar (to) adj. also [MATH.]
+like adj.
+as ever
+as usual
+as is the rule
+obsessively adv.
+as follows
+as ever
+picture-perfect adj.
+as before
+","beautiful adj.
+fine adj.
+nice adj.
+lovely adj.
+fair adj.
+pretty adj.
+handsome adj. also [fig.]
+beautifully adv.
+comely adj.
+pulchritudinous adj.
+nice and warm/quiet/clean/...
+beauteous adj. [poet.]
+bonny or: bonnie adj. chiefly (Scot.)
+braw adj. (Scot.)
 "
 adjectives_or_adverbs,german,"alt
 alt
@@ -8394,6 +9245,215 @@ zufriedengestellt or: zufrieden gestellt
 restlos zufrieden
 kann zufrieden gestellt werden
 nicht zufrieden gestellt
+","hier
+hier
+hier adv.
+hierzulande or: hier zu Lande
+hierzulande or: hier zu Lande
+hierzulande or: hier zu Lande
+hier herum
+hier hinten
+hier und dort
+hier und da
+nicht hier
+genau südlich von hier
+","tätig
+tätig
+tätig
+tätig
+tätig
+tätig
+tätig
+freiberuflich tätig
+international tätig
+","ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich
+ursprünglich aus
+","zuvor
+zuvor adv.
+zuvor
+zuvor
+zuvor
+zuvor festgelegt
+zuvor abgesprochen
+zuvor gesagt
+zuvor vereinbart
+tags zuvor
+wie zuvor
+am Abend zuvor
+so klug wie zuvor
+","leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+leidenschaftlich
+","gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt
+gespannt - Atmosphäre
+gespannt [fig.]
+","gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+","zusammen (mit)
+zusammen
+zusammen adv.
+zusammen
+zusammen adv.
+zusammen adv.
+zusammen adv.
+zusammen adv.
+alle zusammen
+alle zusammen
+dicht zusammen
+","notwendig
+notwendig
+notwendig
+notwendig
+notwendig
+notwendig
+notwendig
+notwendig machend
+notwendig gemacht
+unbedingt notwendig
+unbedingt notwendig
+dringend notwendig
+zwingend notwendig
+länger als notwendig
+so oft wie notwendig
+","gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+gemeinsam
+","gern or: gerne
+gern or: gerne
+gern or: gerne
+gern or: gerne
+","natürlich
+natürlich adv.
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich
+natürlich adv.
+natürlich
+natürlich vorkommend
+natürlich abbaubar
+als natürliche Folge
+","oft
+oft
+oft
+oft
+oft
+oft erklärt
+oft verlangt
+ziemlich oft
+allzu oft
+vielzitiert or: viel zitiert
+so oft wie möglich
+so oft wie notwendig
+","lieb
+lieb
+lieb
+lieb
+lieb
+lieb
+lieb
+lieber | liebe | liebes
+lieber als
+lieb geworden
+Liebes...
+Liebes...
+mit Liebe zum Detail
+jmdm. in Liebe ergeben
+","gestern
+gestern Abend
+gestern Mittag
+gestern Abend
+gestern Nacht
+erst gestern
+erst gestern
+von gestern [coll.] [fig.]
+","wie
+wie
+wie
+wie zum Beispiel
+ähnlich (wie)
+ähnlich wie
+wie gewöhnlich
+wie gewöhnlich
+wie gewöhnlich
+wie besessen
+wie folgt
+wie gehabt
+wie gemalt
+wie bisher
+","schön
+schön
+schön
+schön
+schön
+schön
+schön or [fig.]
+schön
+schön
+schön
+schön warm/ruhig/sauber/...
+schön
+schön
+schön
 "
 phrases_or_collocations,english,"to be snookered (Brit.) [coll.] [fig.]
 new for old
@@ -9383,6 +10443,81 @@ You must be off your rocker! (Brit.)
 It's a case of Hobson's choice.
 I suppose so
 ",,"And they lived happily ever after.
+","up here
+this is ... - on the phone
+There you are! - giving sth. [coll.]
+there's a draftAE / draughtBE in here
+this is history in the making
+this is history in the making
+It's all happening here!
+I smell a rat.
+Upon my Sam!
+Let's get out of here!
+Passengers alight here.
+Fancy meeting you here!
+that is irrelevant
+open here
+",,,,,"all on edge
+on tenterhooks
+to keep so. in suspense
+to keep so. on tenterhooks
+","a joint statement
+to find common ground [fig.]
+","Pull yourself together!
+Get a grip!
+Pull yourself together!
+Pull yourself together!
+let's get down and dirty [coll.]
+it all came crashing down about his ears
+","necessary but not sufficient
+","a joint statement
+to find common ground [fig.]
+","You're welcome!
+Don't mention it!
+My pleasure!
+you are welcome
+you're welcome
+happy to oblige
+a highly quotable author
+Birds of a feather flock together.
+Like will to like.
+I'd like to be a fly on the wall.
+","natch adv. - for naturally [sl.]
+","How many times?
+from time to time
+","sth. is so.'s favoriteAE tipplesth. is so.'s favouriteBE tipple
+near and dear
+sweet as pie [coll.]
+to suck up to so. [coll.]
+","water under the bridge
+","Eh?
+Rather! (Brit.) [coll.]
+Sorry?
+Pardon?
+as ... as
+How are you?
+How are you?
+How are you?
+Come again?
+I beg your pardon?
+How else?
+like one possessed
+business as usual
+How are you doing?
+","well
+Thank you.
+Here you are! - said when giving so. sth.
+I should be so lucky. [coll.]
+chance would be a fine thing [coll.]
+Thank you very much.
+Thanks.
+Not at all!
+here you are
+please
+you're welcome
+Fair enough.
+Here you go! - giving sth. [coll.]
+There you are! - giving sth. [coll.]
 "
 phrases_or_collocations,german,"alt aussehen [fig.] [coll.]
 neu für alt
@@ -10372,6 +11507,81 @@ Bei dir piepts (or: piept's) wohl!
 Da habe ich wohl keine andere Wahl.
 Dann wird's wohl so sein.
 ",,"Und sie lebten glücklich und zufrieden bis an ihr Lebensende.
+","hier oben
+hier spricht ... - am Telefon
+Hier, bitte!
+hier zieht es rein infinitive: reinziehen
+hier wird Geschichte gemacht
+hier wird Geschichte geschrieben
+Hier geht die Post ab! - viel los
+Hier stimmt etwas nicht. [coll.]
+So wahr ich hier stehe!
+Nichts wie weg hier!
+Fahrgäste steigen hier aus.
+Oh, du bist auch hier!
+das spielt (hier) keine Rolle
+hier öffnen
+",,,,,"aufs äußerste (or: Äußerste) gespannt
+gespannt wie ein Flitzebogen
+jmdn. auf die Folter spannen [fig.]
+jmdn. auf die Folter spannen [fig.]
+","eine gemeinsame Erklärung
+einen gemeinsamen Nenner finden [fig.]
+","Reiß dich zusammen!
+Nimm dich zusammen!
+Nimm dich zusammen!
+Reißen Sie sich zusammen!
+lass es uns zusammen tun
+um ihn herum brach alles zusammen [fig.]
+","notwendig aber nicht ausreichend
+","eine gemeinsame Erklärung
+einen gemeinsamen Nenner finden [fig.]
+","Gern geschehen!
+Gern geschehen!
+Gern geschehen!
+gern geschehen
+gern geschehen
+gern zu Diensten
+ein gern zitierter Autor
+Gleich und Gleich gesellt sich gern.
+Gleich und Gleich gesellt sich gern.
+Da würde ich gern Mäuschen spielen. [fig.]
+","natürlich
+","Wie oft?
+so oft wie erforderlich
+","jmd. trinkt etw.acc. am liebsten
+lieb und teuer
+sehr lieb
+sichacc. bei jmdm. lieb Kind machen [coll.]
+","Schnee von gestern
+","Wie?
+Und wie!
+Wie bitte?
+Wie bitte?
+so ... wie
+Wie geht es dir?
+Wie geht es Ihnen?
+Wie geht es euch?
+Wie bitte?
+Wie bitte?
+Wie sonst?
+wie besessen
+wie gehabt
+Wie geht's?
+","schön
+Danke schön.
+Bitte schön! - beim Überreichen oder Bedienen
+Schön wär's!
+schön wär's
+Danke schön.
+Danke schön.
+Bitte schön! - Dank erwidernd
+bitte schön
+bitte schön
+bitte schön - bitte sehr
+Na schön!
+Bitte schön!
+Bitte schön!
 "
 examples,english,"How old are you?
 I'm double your age.
@@ -11469,6 +12679,116 @@ has not proved satisfactory
 has not turned out satisfactorily
 Neither of the teams was happy with the result.
 a mutually satisfactory result
+","This way in, please.
+near here
+There are some men here to see you.
+It's all happening here. [coll.]
+This place looks like it's been hit by a bomb.
+This place looks a mess. [coll.]
+It's all happening here. [coll.]
+This place looks like it's been hit by a bomb.
+That's why you're here.
+When can you be here by?
+I'll leave at quarter to.
+Do you belong here?
+There isn't much to do here at this time of the year.
+He's not in.
+","active as universal bank
+active in the Eurobond market
+active on the market
+What line are you in?
+",,,,"I'm curious about it.
+The suspense is killing me.
+His nerves were all on edge. [fig.]
+","We'll pool expenses and travel together.
+by their joint efforts
+a mutual friend of ours
+business on joint account
+","They're a bad match.
+She is very restful to be with.
+We had not a pound among us.
+We'll pool expenses and travel together.
+The two colorsAE clash violently.The two coloursBE clash violently.
+It is made up of
+The colorsAE do not match.The coloursBE do not match.
+If word gets around that we're together there will be trouble with your mother.
+The girl that I used to go out with is now my doctor.
+The girl who I used to go out with is now my doctor.
+The sight of the cake made my mouth water.
+We should hang out some time. [coll.]
+This doesn't hold water. [fig.]
+a political breakpoint
+collision at sea
+","Please do what is necessary.
+Please do what you consider necessary.
+longer than is absolutely necessary
+seaworthy packing is essential
+careful packing is essential
+It necessitates simplification.
+It necessitates amplification.
+condition precedent to the insurer's liability [INSUR.]
+condition precedent to recovery [INSUR.]
+the necessary information
+","We'll pool expenses and travel together.
+by their joint efforts
+a mutual friend of ours
+business on joint account
+","I love to read.
+I am fond of reading.
+I should like to.
+I wonder who he is
+I wonder who he is.
+I'll see you further first.
+much as I would like
+I'd like ...
+She's fishing for compliments.
+He likes the occasional cigar.
+I'd like to go, but I'm a bit tired.
+I quite believe it.
+I long to know ...
+There are a couple of things I'd like to discuss with you.
+she is very touchy-feely
+","Needless to say, he didn't come.
+this being natural in the circumstances
+blend into their natural surroundings
+conservation of nature and natural resources [ENV.]
+","How many times have I told you to empty the bin?
+How often do the plants need watering?
+I often go to the cinema.
+How frequently does the tram service run to the train station?
+When someone says they want to wash their hands, they often mean that they want to go to the toilet.
+How many times do I have to tell you not to do that?
+The lines between working life and home life are often blurred.
+","I like that best.
+I love you too!
+","Yesterday was a scorcher. [coll.]
+It was learned yesterday.
+I had a busy day yesterday
+She's quite a back number.
+I had a busy day yesterday
+It's all water under the bridge now.
+She had a hair-do yesterday.
+I wasn't born yesterday.
+","What made him do that?
+like I said
+as requested
+as per your quotation
+as per sample
+as per description
+as requested
+such as a company anniversary
+How old are you?
+How do I get there?
+What is the procedure for that?
+What's your name?
+What makes you think that?
+How do you like this book?
+","She's strikingly beautiful.
+That's a bit much!
+It's all happening here. [coll.]
+the most superb Gothic church
+the most beautiful lakes
+we were sliding all over the place
 "
 examples,german,"Wie alt bist du?
 Ich bin zweimal so alt wie Sie.
@@ -12566,4 +13886,114 @@ ist nicht zufrieden stellend (or: zufriedenstellend) ausgefallen
 ist nicht zufrieden stellend (or: zufriedenstellend) ausgefallen
 Keine der beiden Mannschaften war mit dem Ergebnis zufrieden.
 ein beiderseits zufriedenstellendes Ergebnis
+","Hier herein, bitte.
+hier in der Nähe
+Hier sind ein paar Männer, die mit dir sprechen wollen.
+Hier ist ganz schön was los.
+Hier sieht es aus wie bei Hempels unterm Sofa. [coll.]
+Hier sieht es aus wie bei Hempels unterm Sofa. [coll.]
+Hier geht die Post ab. infinitive: abgehen
+Hier sieht es aus, als hätte eine Bombe eingeschlagen. [coll.]
+Deswegen sind Sie hier.
+Bis wann kannst du hier sein?
+Ich fahre um viertel vor hier los.
+Wohnen Sie hier?
+Zu dieser Zeit des Jahres gibt es hier nicht viel zu tun.
+Er ist nicht hier.
+","als Universalbank tätig
+am Eurobondmarkt tätig
+am Markt tätig
+In welcher Branche sind Sie tätig?
+",,,,"Ich bin darauf gespannt.
+Ich bin gespannt wie ein Flitzebogen.
+Seine Nerven waren aufs äußerste (or: Äußerste) gespannt.
+","Wir legen zusammen und reisen gemeinsam.
+durch gemeinsame Anstrengung
+ein gemeinsamer Freund
+das Geschäft auf gemeinsame Rechnung
+","Sie passen überhaupt nicht zusammen.
+Es ist beruhigend, mit ihr zusammen zu sein.
+Wir zusammen hatten kein Pfund.
+Wir legen zusammen und reisen gemeinsam.
+Die beiden Farben passen überhaupt nicht zusammen.
+Es setzt sich zusammen aus
+Die Farben passen nicht zusammen.
+Wenn sich herumspricht, dass wir zusammen sind, gibt es Ärger mit deiner Mutter.
+Das Mädchen, mit dem ich früher zusammen war, ist jetzt meine Ärztin.
+Das Mädchen, mit dem ich früher zusammen war, ist jetzt meine Ärztin.
+Als ich den Kuchen sah, lief mir das Wasser im Mund zusammen.
+Wir sollten mal was zusammen unternehmen. [coll.]
+Das passt hinten und vorne nicht zusammen.
+Zusammenbruch des politischen Systems
+der Zusammenstoß auf hoher See
+","Bitte tun Sie was notwendig ist.
+Bitte tun Sie was Sie für notwendig halten.
+länger als absolut notwendig
+seemäßige Verpackung ist notwendig
+die sorgfältige Verpackung ist notwendig
+Es macht Vereinfachung notwendig.
+Es macht eine Erweiterung notwendig.
+notwendige Voraussetzung für Haftung des Versicherers
+notwendige Voraussetzung für eine Entschädigung
+die notwendige Information
+","Wir legen zusammen und reisen gemeinsam.
+durch gemeinsame Anstrengung
+ein gemeinsamer Freund
+das Geschäft auf gemeinsame Rechnung
+","Ich lese gern.
+Ich lese sehr gern.
+Ich möchte gern.
+ich möchte gern wissen, wer er ist
+Ich möchte gern wissen, wer er ist.
+Sie können mich gern haben.
+so gern ich auch möchte
+Ich hätte gern ...
+Sie möchte gern ein Kompliment hören.
+Er raucht gelegentlich ganz gern eine Zigarre.
+Ich würde schon gern hinfahren, aber ich bin ein bisschen müde.
+Das glaube ich gern.
+Ich möchte gern wissen ...
+Es gibt ein paar Dinge, die ich gern mit dir besprechen möchte.
+sie hat gern viel Körperkontakt [coll.]
+","Er kam natürlich nicht.
+wobei das unter den Umständen natürlich ist
+passen gut in ihr natürliches Umfeld
+Erhaltung der Natur und der natürlichen Ressourcen
+","Wie oft habe ich dir gesagt du sollst den Müll rausbringen?
+Wie oft müssen die Blumen gegossen werden?
+Ich gehe oft ins Kino.
+Wie oft fährt die Straßenbahn zum Bahnhof?
+Wenn jemand sagt, er möchte sich die Hände waschen, meint er oft, dass er die Toilette benutzen möchte.
+Wie oft muss ich dir noch sagen, dass du das nicht machen sollst?
+Die Linien zwischen Arbeitsleben und dem Leben zu Hause (or: zuhause) sind oft verwischt.
+","Ich mag das am liebsten.
+ich habe dich auch lieb!
+","Gestern war eine Affenhitze. [coll.]
+Man erfuhr es gestern.
+ich hatte gestern viel zu tun
+Sie ist von gestern.
+ich hatte gestern einen anstrengenden Tag
+Das ist jetzt Schnee von gestern.
+Sie war gestern beim Friseur (or: Frisör).
+Ich bin doch nicht von gestern. [coll.]
+","Wie kam er nur dazu?
+wie gesagt
+wie gewünscht
+wie angeboten
+wie bemustert
+wie beschrieben
+wie erbeten
+wie ein Firmenjubiläum
+Wie alt bist du?
+Wie komme ich dahin?
+Wie geht so etwas vonstatten?
+Wie heißt du?
+Wie kommst du darauf?
+Wie gefällt Ihnen dieses Buch?
+","Sie ist bestechend schön.
+Das ist ganz schön happig!
+Hier ist ganz schön was los.
+die schönste gotische Kirche
+die schönsten Seen
+das war eine schöne Rutschpartie
 "

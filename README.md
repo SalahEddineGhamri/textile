@@ -60,21 +60,26 @@ python3 -m black .
 ```sh
 python3 -m textile
 ```
+if you have installed using the pip command. `textile` command is exposed in the shell. you can just call it.
 
 ## Roadmap
+* [ ] add close button
+* [ ] make text been inputed the commmand call directory
 * [x] add logging system
 * [ ] spread logging on all parts
+* [ ] spread scroll to table on all categories
 * [ ] use similar strategy as nouns to save the order of analyzis for verbs, adj ...
-* [ ] save the the scroll offset for each word in a dict of uinque values
-* [ ] make hover active for specific categories: nouns, verbs, adjective and so on
-* [ ] scroll to offset based on hovering action
-* [ ] make analysis color based on the word gender not plural (Msc -> green, Fmn->red, Neut->blue)
+* [ ] let richlogs be update in realtime, workers in the background
+* [ ] add an expert agent that enhances the databases while textile is on, at least for the current text words. we are talking about first result and then more enhanced results.
+* [x] save the the scroll offset for each word in a dict of uinque values
+* [x] make hover active for specific categories: nouns, verbs, adjective and so on
+* [x] scroll to offset based on hovering action
+* [ ] make analysis color based on the word gender not plural which is red (Msc -> green, Fmn->red, Neut->blue)
 * [ ] add exit button that closes textile
 * [ ] none is not acceptable especially for easy texts, add more nouns parsers
-* [ ] change csv into a faster database like sqlite3
-* [ ] enhance nouns parsing performance
-* [ ] performance overall
-* [ ] enhance anki tickets
+* [ ] change csv into a faster database like 'sqlite3'
+* [ ] think on how to enhance performance overall
+* [ ] enhance anki tickets format
 
 ## categories of part of speech that spacy outputs
 - ADJ: adjective, e.g. big, old, green, incomprehensible, first
